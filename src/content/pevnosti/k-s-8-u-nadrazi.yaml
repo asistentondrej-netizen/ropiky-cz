@@ -7,9 +7,9 @@ location:
   lat: 50.10509
   lon: 16.781779
 built: '1937'
-state: rozpadly
-description: Pěchotní srub u králického nádraží, dnes součást Vojensko-historického
-  areálu.
+state: muzeum
+description: Pěchotní srub u železniční stanice Králíky — kontroloval přechod trati. Oboustranný objekt odolnosti III s rekonstruovanou
+  výzbrojí. Provozuje Vojensko-historické muzeum Králíky.
 sources:
 - Wikimedia Commons
 - ropiky.net
@@ -20,3 +20,4 @@ photos:
   author: Vlasakovo
   license: CC BY-SA 4.0
   source: https://commons.wikimedia.org/wiki/File%3AK-S_8_U_n%C3%A1dra%C5%BE%C3%AD.jpg
+visit: Muzeum otevřeno v hlavní sezóně (květen–říjen), o víkendech. Součást Vojensko-historického muzea Králíky (v.-h.muzeum-kraliky.cz).

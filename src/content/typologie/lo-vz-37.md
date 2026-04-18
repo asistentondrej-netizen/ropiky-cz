@@ -76,8 +76,23 @@ Střílny byly **ocelolitinové** (lafetované) — umožňovaly rychlou výměn
 
 Uvnitř řopíku se nacházely střelecká místnost (hlavní prostor se zbraněmi), malá osobní ubikace, komínek pro odvod prachových plynů ze zbraní, skladiště munice, suché záchody a náhradní zásoby vody a potravin. **Posádka nebyla schopna v řopíku dlouhodobě přebývat** — objekt byl navržen na provoz několika hodin až dnů v intenzivním boji, nikoli na dlouhé obležení.
 
-## Výstavba a dnešní stav
+## Výstavba — organizace a ekonomika
 
-Řopíky se stavěly **ve velkých sériích**. Jednotlivé úseky (typicky 10–30 objektů) dostávala na starost konkrétní stavební firma, která pracovala pod armádním dozorem. Typický čas výstavby jednoho řopíku byl přibližně **6–8 týdnů** včetně zaměření, betonáže, zrání betonu a instalace pancéřových prvků.
+Řopíky se stavěly **ve velkých sériích**. Jednotlivé úseky (typicky 10–30 objektů) dostávala na starost konkrétní stavební firma, která pracovala pod armádním dozorem Ředitelství opevňovacích prací. Mezi hlavní dodavatele patřily **Podzimek-Bratislava**, **Pittel-Brausewetter**, **Kruliš-Hess Ostrava**, **Lanna**, **Konstruktiva** a desítky dalších regionálních firem. Armáda dohlížela přes síť expozitur ŘOP — v roce 1938 jich fungovalo osm (I. Praha, II. Hradec Králové, III. Brno, IV. Bratislava, V. Olomouc, VI. Jindřichův Hradec, VII. Plzeň, VIII. Český Těšín).
 
-Z přibližně **9 000 betonovaných objektů LO vz. 37** se dodnes dochoval značný počet — odhady se pohybují v řádu několika tisíc relativně zachovalých. Mnohé byly zničeny během okupace (zejména na území Protektorátu Čechy a Morava), demolovány po válce při zemědělské rekultivaci, využívány k militárním účelům v 50.–80. letech nebo adaptovány na civilní objekty. Dnes jsou řopíky předmětem systematické dokumentace amatérských spolků i odborných institucí, řada z nich je rekonstruována do původního stavu a zpřístupněna veřejnosti jako expozice.
+Typický čas výstavby jednoho řopíku byl přibližně **6–8 týdnů** včetně zaměření, betonáže, zrání betonu a instalace pancéřových prvků. V urgentních oblastech (Petržalka po Anšlusu) se stavební čas zkracoval až na 4 týdny. Průměrná cena jednoho řopíku typu A dosahovala **120 000–150 000 Kčs** (podle odolnosti a terénních podmínek) — pro srovnání průměrný roční příjem dělníka činil v té době asi 10 000 Kčs.
+
+## Regionální distribuce
+
+Z přibližně **9 000 betonovaných objektů LO vz. 37** bylo nejvíce postaveno v severozápadních a severních Čechách, na severní Moravě a ve Slezsku, podél jižní Moravy a Slovenska:
+
+- **Severní pohraničí** (Krušné hory, Jizerské hory, Krkonoše, Orlické hory, Jeseníky) — nejhustší síť, cca 4 500 objektů
+- **Severní Morava a Slezsko** (Ostravsko, Opavsko) — navázání na těžké opevnění, cca 1 200 objektů
+- **Jižní Morava a Slovensko** (Znojemsko, Bratislavsko, Podunají) — obrana proti Rakousku a Maďarsku, cca 2 000 objektů
+- **Vnitrozemí** (Praská a Brněnská čára, vnitřní obrana) — cca 1 300 objektů
+
+## Dnešní stav
+
+Z původních cca 9 000 objektů se dodnes dochoval **značný počet** — odhady se pohybují v řádu **5 000–6 000 relativně zachovalých řopíků**. Mnohé byly zničeny během okupace (zejména na území Protektorátu Čechy a Morava, kde Němci prováděli zkušební střelby pro poznání odolnosti linie), demolovány po válce při zemědělské rekultivaci, využívány k militárním účelům v 50.–80. letech nebo adaptovány na civilní objekty — sklady nářadí, sklípky, dokonce i obytné stavby (tzv. „bunkr-domky" v pohraničí).
+
+Dnes jsou řopíky předmětem **systematické dokumentace** amatérských spolků (Klub vojenské historie, Zachráňme petržalské bunkre, Muzeum čs. opevnění Darkovice) i odborných institucí (Vojenský historický ústav, Národní památkový ústav). Řada z nich je **rekonstruována do původního stavu** a zpřístupněna veřejnosti jako expozice — především v oblastech Králíky, Bouda, Hanička, Hlučín-Darkovičky, Náchod, Petržalka a Šatov.

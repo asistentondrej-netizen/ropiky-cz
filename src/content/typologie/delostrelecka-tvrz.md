@@ -66,8 +66,20 @@ Tvrze byly stavěny v **nejvyšších stupních odolnosti** (III. a IV.), s beto
 
 Provoz tvrze vyžadoval **kompletní energetickou a logistickou soběstačnost**: vlastní elektrocentrály, zásoby paliva a vody, filtroventilace proti bojovým plynům, skladiště munice pro týdny boje.
 
-## Dnešní stav
+## Plánovaná a realizovaná výzbroj
 
-Dokončené tvrze patří k **největším hmatatelným památkám první republiky** a jsou dnes klíčovými turistickými cíli. Bouda, Hanička, Dobrošov a Stachelberg nabízejí **podzemní prohlídky**, některé se rozsahem blíží skutečné výstavbě (Dobrošov má zpřístupněno přes 1 km chodeb a velké podzemní sály).
+Dělostřelecká výzbroj tvrze byla **zcela nová koncepce** pro čs. průmysl. ŠKODA Plzeň vyvinula **houfnice vz. 38** ráže 10 cm ve dvojčeti pro otočnou věž — plánovaná byla i dělostřelecká věž s houfnicí vz. 38 ráže 15 cm, ale ta nebyla do Mnichova dodána žádné tvrzi. Dále se vyráběly **minomety vz. 38** ráže 12 cm v otočných kopulích a nejrůznější typy pancéřových zvonů a kopulí (hmotnost jednotlivých zvonů 30–70 tun).
 
-Oblast **Králíků** s třemi tvrzemi (Adam, Bouda, Hůrka) je označována za **„českou Maginotovu linii"** a tvoří největší koncentraci čs. fortifikace dostupnou na jednom místě.
+Do Mnichova bylo v tvrzích osazeno pouze **10–15 % plánované dělostřelecké výzbroje** — zbytek byl buď ještě ve výrobě (Škodovka) nebo neinstalován. Po anexi použili Němci část hotové výzbroje v Atlantickém valu a na východní frontě.
+
+## Návštěvnost dnes
+
+Dokončené tvrze patří k **největším hmatatelným památkám první republiky** a jsou dnes klíčovými turistickými cíli. Bouda, Hanička, Dobrošov a Stachelberg nabízejí **podzemní prohlídky**, některé se rozsahem blíží skutečné výstavbě (Dobrošov má zpřístupněno přes 1 km chodeb a velké podzemní sály). Roční návštěvnost pěti hlavních tvrzí dosahuje přibližně:
+
+- **Bouda** — ~ 40 000 návštěvníků/rok
+- **Hanička** — ~ 30 000 návštěvníků/rok
+- **Dobrošov** — ~ 25 000 návštěvníků/rok
+- **Stachelberg** — ~ 20 000 návštěvníků/rok
+- **Hůrka** — ~ 15 000 návštěvníků/rok
+
+Oblast **Králíků** s třemi tvrzemi (Adam, Bouda, Hůrka) je označována za **„českou Maginotovu linii"** a tvoří největší koncentraci čs. fortifikace dostupnou na jednom místě. V turistické sezóně (květen–říjen) je ideální trasa **Králicko-Orlický pevnostní okruh** — víkendová kombinace Boudy, Hůrky, Haničky a okolních pěchotních srubů (K-S 14 U cihelny, K-S 8 U nádraží, R-S 54 Na potoku).

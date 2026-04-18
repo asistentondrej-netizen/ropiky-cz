@@ -57,8 +57,26 @@ Pěchotní sruby nejsou jednotným typem — byla vyvinuta celá **rodina varian
 - **Tvrzové** (součást dělostřelecké tvrze, propojené podzemím)
 - **Dělostřelecké** (nesoucí dělostřeleckou výzbroj tvrze)
 
+## Stupně odolnosti — detail
+
+- **Stupeň I.** — stěny 1,25 m, strop 1,00 m (odolnost 15cm granát)
+- **Stupeň II.** — stěny 1,50 m, strop 1,50 m (odolnost 21cm granát)
+- **Stupeň III.** — stěny 2,25 m, strop 2,25 m (odolnost 30,5cm granát)
+- **Stupeň IV.** — stěny 3,50 m, strop 3,50 m (odolnost 42cm granát)
+
+Stupeň IV. byl plánován pouze pro exponované tvrzové pěchotní sruby — v praxi se realizovaly spíše stupně II. a III. Jednostranný pěchotní srub stupně II. stál přibližně **900 000 Kčs**, oboustranný stupně III. až **2,5 milionu Kčs** (cca 40× více než řopík).
+
 ## Výstavba a stav
 
-Do Mnichova bylo postaveno **přibližně 263 pěchotních srubů** z plánovaných 1 276. Naprostá většina se nachází v pohraničních oblastech severovýchodních Čech, severní Moravy a Slezska — jmenovitě v úsecích MO, OP, StM, K, R, N, T, KrK a Li.
+Do Mnichova bylo stavebně dokončeno **227 pěchotních srubů** z plánovaných 1 276 (některé zdroje uvádí 263 objektů včetně rozestavěných). Naprostá většina se nachází v pohraničních oblastech severovýchodních Čech, severní Moravy a Slezska — jmenovitě v úsecích **MO** (Moravská Ostrava, 46 objektů), **OP** (Opava, 20), **StM** (Staré Město, 27), **K** (Králíky, 57), **R** (Rokytnice, 52), **N** (Náchod, 44), **T** (Trutnov, 45), **KrK** (Krkonoše, 15) a **Li** (Liberec, 25).
 
-Řada z nich je dnes **veřejně přístupná** jako muzejní expozice (MO-S 5 „Na trati", MO-S 19 v Darkovičkách, srub N-S 82 „Březinka" u Náchoda a další). Nepřístupné sruby často stojí v terénu jako mohutné betonové objekty, místy s dochovanými pancéřovými prvky.
+Řada z nich je dnes **veřejně přístupná** jako muzejní expozice — mezi nejnavštěvovanější patří:
+
+- **MO-S 5 „Na trati"** — Areál čs. opevnění Hlučín-Darkovičky
+- **MO-S 19 „Alej"** a **MO-S 20 „Orel"** — tamtéž
+- **MO-S 9 „Forman"** — Slezské zemské muzeum, Ostrava-Darkovičky
+- **N-S 82 „Březinka"** — muzeum u Náchoda, jedna z nejkvalitnějších rekonstrukcí v ČR
+- **K-S 14 „U cihelny"** a **K-S 8 „U nádraží"** — Vojensko-historické muzeum Králíky
+- **T-S 19 „Turov"** — muzeum u Hronova
+
+Nepřístupné sruby často stojí v terénu jako mohutné betonové objekty, místy s dochovanými pancéřovými prvky (zvony, kopule). Některé jsou v těžko přístupných částech krajiny a pro jejich návštěvu je potřeba dobrá orientační mapa.

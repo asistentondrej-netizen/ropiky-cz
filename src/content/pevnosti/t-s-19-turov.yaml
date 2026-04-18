@@ -7,9 +7,9 @@ location:
   lat: 50.50550278
   lon: 16.13366667
 built: '1937'
-state: rozpadly
-description: Pěchotní srub Turov u Hronova, jeden z nejlépe dochovaných v trutnovské
-  linii.
+state: muzeum
+description: Pěchotní srub „Turov" u Hronova — soukromě rekonstruované muzeum. Odolnost III s kompletně obnoveným interiérem.
+  Společná vstupenka s expozicí Pevnost Hronov.
 sources:
 - Wikimedia Commons
 - ropiky.net
@@ -20,3 +20,4 @@ photos:
   author: Harold
   license: CC BY-SA 3.0
   source: https://commons.wikimedia.org/wiki/File%3AHronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_01%29.jpg
+visit: Muzeum otevřeno o víkendech (květen–září). Kontakt na pevnost-hronov.cz.

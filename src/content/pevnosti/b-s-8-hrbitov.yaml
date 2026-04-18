@@ -6,9 +6,10 @@ region: Moravskoslezský kraj
 location:
   lat: 48.10790278
   lon: 17.08155833
-built: '1937'
-state: rozpadly
-description: Pěchotní srub Hřbitov v Bohumíně.
+built: '1938'
+state: muzeum
+description: Lehký objekt vzor 37 typ A-160 u hřbitova v Petržalce-Kopčanech. Muzejní rekonstrukce (2010–2012) Zachráňme petržalské
+  bunkre. Kompletní interiér s lafetou M, ventilací, periskopem.
 sources:
 - Wikimedia Commons
 - ropiky.net
@@ -19,3 +20,4 @@ photos:
   author: Harold
   license: CC BY-SA 3.0
   source: https://commons.wikimedia.org/wiki/File%3ABratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_07%29.jpg
+visit: 'Muzejní expozice otevřená o víkendech květen–říjen. Kontakt: zachranmepetrzalskebunkre.sk.'

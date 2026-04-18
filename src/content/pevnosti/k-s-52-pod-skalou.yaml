@@ -6,9 +6,10 @@ region: Pardubický kraj
 location:
   lat: 50.132888
   lon: 16.580098
-built: '1937'
-state: rozpadly
-description: Pěchotní srub v severní části králického úseku.
+built: '1938'
+state: muzeum
+description: Pěchotní srub u Klášterce nad Orlicí — soukromé muzeum s bohatou sbírkou původní výzbroje a výstroje čs. armády.
+  Odolnost II, jeden z posledních stavěných objektů králického úseku.
 sources:
 - Wikimedia Commons
 - ropiky.net
@@ -19,3 +20,4 @@ photos:
   author: User:Harold's family
   license: CC BY-SA 3.0
   source: https://commons.wikimedia.org/wiki/File%3AKl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_K-S_52_%28rok_2002%29.jpg
+visit: Muzeum otevřeno o víkendech v hlavní sezóně. Kontakt a otvírací doba na klastereckeropiky.cz.
