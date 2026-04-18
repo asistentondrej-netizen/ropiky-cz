@@ -1,22 +1,31 @@
-title: 'KrK-S 32 „Na skalce"'
-code: 'KrK-S 32'
-type: 'pechotni-srub'
-line: 'Krkonoše'
-region: 'Královéhradecký kraj'
+title: KrK-S 32 „Na skalce"
+code: KrK-S 32
+type: pechotni-srub
+line: Krkonoše
+region: Královéhradecký kraj
 location:
   lat: 50.6783
-  lon: 15.7320
-  address: 'Krkonoše — okolí Pomezních Bud'
+  lon: 15.732
+  address: Krkonoše — okolí Pomezních Bud
 built: '1937'
-state: 'rozpadly'
-description: 'Pěchotní srub v podhůří Krkonoš. Po Mnichovu opuštěn, dnes torzo v terénu.'
-history: |
-  KrK-S 32 byl součástí krkonošské linie těžkého opevnění, jež nebyla nikdy plně dokončena. Sruby v této oblasti byly stavěny v náročných horských podmínkách.
+state: rozpadly
+description: Pěchotní srub v podhůří Krkonoš. Po Mnichovu opuštěn, dnes torzo v terénu.
+history: 'KrK-S 32 byl součástí krkonošské linie těžkého opevnění, jež nebyla nikdy plně dokončena. Sruby v této oblasti byly stavěny v náročných horských podmínkách.
+
 
   Po Mnichovu byly objekty zabrány Wehrmachtem, část výzbroje odvezena do Atlantického valu. Po válce postupně chátraly.
-visit: |
-  Objekt v terénu, vhodný jako součást turistické trasy. Vnitřek nepřístupný.
+
+  '
+visit: 'Objekt v terénu, vhodný jako součást turistické trasy. Vnitřek nepřístupný.
+
+  '
 sources:
-  - 'ropiky.net — Krkonoše'
-  - 'Wikipedia — Československé opevnění v Krkonoších'
+- ropiky.net — Krkonoše
+- Wikipedia — Československé opevnění v Krkonoších
 updated: '2026-04-18'
+photos:
+- url: /img/forts/objekt-eskoslovensk-ho-lehk-ho-opevn-n-2.jpg
+  alt: Reprezentativní řopík LO vz. 37 (konkrétní foto K-S 32 není na Commons k dispozici)
+  author: Richard Sekerak (WMCZ)
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Objekt_%C4%8Deskoslovensk%C3%A9ho_lehk%C3%A9ho_opevn%C4%9Bn%C3%AD_2.jpg

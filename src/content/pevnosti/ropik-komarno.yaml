@@ -1,24 +1,34 @@
-title: 'Bunkre u Komárna (jižní Slovensko)'
-code: 'KN — Komárno'
-type: 'lo-vz-37'
-line: 'Jižní Slovensko — maďarská hranice'
-region: 'Slovensko (dnes)'
+title: Bunkre u Komárna (jižní Slovensko)
+code: KN — Komárno
+type: lo-vz-37
+line: Jižní Slovensko — maďarská hranice
+region: Slovensko (dnes)
 location:
-  lat: 47.7600
-  lon: 18.1300
-  address: 'Komárno a okolí, Podunajsko'
+  lat: 47.76
+  lon: 18.13
+  address: Komárno a okolí, Podunajsko
 built: '1937'
-state: 'rozpadly'
-description: 'Linie lehkého opevnění na Podunají proti Maďarsku. Strategicky významný úsek bránící Bratislavu a jižní Slovensko.'
-history: |
-  Komárnská linie byla součástí obrany proti Horthyho Maďarsku, které si od 30. let nárokovalo jižní Slovensko. Hustota objektů byla vyšší než v severnějších oblastech.
+state: rozpadly
+description: Linie lehkého opevnění na Podunají proti Maďarsku. Strategicky významný úsek bránící Bratislavu a jižní Slovensko.
+history: 'Komárnská linie byla součástí obrany proti Horthyho Maďarsku, které si od 30. let nárokovalo jižní Slovensko. Hustota objektů byla vyšší než v severnějších oblastech.
+
 
   Po Vídeňské arbitráži v listopadu 1938 bylo území Maďarskem anektováno. Bunkry byly částečně zlikvidovány, část převzata maďarskou armádou.
 
+
   Po válce a obnovení hranic byly objekty opět československé, poté opuštěné. Dnes převážně v rozpadlém stavu na slovenském území.
-visit: |
-  Objekty rozeseté v terénu mezi Komárnem a dolním tokem Váhu. Bez turistické infrastruktury, vhodné pro hledače stop minulosti.
+
+  '
+visit: 'Objekty rozeseté v terénu mezi Komárnem a dolním tokem Váhu. Bez turistické infrastruktury, vhodné pro hledače stop minulosti.
+
+  '
 sources:
-  - 'bunkre.sk — Komárno'
-  - 'ropiky.net — Slovensko'
+- bunkre.sk — Komárno
+- ropiky.net — Slovensko
 updated: '2026-04-18'
+photos:
+- url: /img/forts/vojensk-m-zeum-petr-alka-06.jpg
+  alt: Reprezentativní slovenský bunkr LO vz. 37 (Vojenské muzeum Petržalka)
+  author: Lure
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Vojensk%C3%A9_m%C3%BAzeum_Petr%C5%BEalka_06.JPG

@@ -1,22 +1,37 @@
-title: 'Řopíky u Českého Krumlova (šumavská linie)'
-code: 'CK — jižní Čechy'
-type: 'lo-vz-37'
-line: 'Jižní Čechy (Šumava)'
-region: 'Jihočeský kraj'
+title: Řopíky u Českého Krumlova (šumavská linie)
+code: CK — jižní Čechy
+type: lo-vz-37
+line: Jižní Čechy (Šumava)
+region: Jihočeský kraj
 location:
   lat: 48.7789
   lon: 14.3328
-  address: 'Okolí Českého Krumlova / Vyššího Brodu'
+  address: Okolí Českého Krumlova / Vyššího Brodu
 built: '1938'
-state: 'rozpadly'
-description: 'Lehké opevnění kolem rakouské hranice v jižních Čechách. Objekty jsou roztroušené v lesích a polích, z velké části zarostlé a zchátralé.'
-history: |
-  Jihočeská linie lehkého opevnění byla budována v poslední fázi výstavby (1937–1938) jako reakce na Anschluss Rakouska. Její hustota byla nižší než severní linie, systém se zaměřoval na hlavní komunikační uzly.
+state: rozpadly
+description: Lehké opevnění kolem rakouské hranice v jižních Čechách. Objekty jsou roztroušené v lesích a polích, z velké části zarostlé a zchátralé.
+history: 'Jihočeská linie lehkého opevnění byla budována v poslední fázi výstavby (1937–1938) jako reakce na Anschluss Rakouska. Její hustota byla nižší než severní linie, systém se zaměřoval na hlavní
+  komunikační uzly.
+
 
   Po Mnichovu byla oblast součástí odstoupeného území. Po válce převážná většina řopíků zůstala opuštěná a postupně chátrala.
-visit: |
-  Objekty jsou rozeseté v terénu — vhodné jako součást turistiky v oblasti. Přehledné mapy nabízí ropiky.net a bunkry.cz.
+
+  '
+visit: 'Objekty jsou rozeseté v terénu — vhodné jako součást turistiky v oblasti. Přehledné mapy nabízí ropiky.net a bunkry.cz.
+
+  '
 sources:
-  - 'ropiky.net — jižní Čechy'
-  - 'Wikipedia — Československé opevnění'
+- ropiky.net — jižní Čechy
+- Wikipedia — Československé opevnění
 updated: '2026-04-18'
+photos:
+- url: /img/forts/objekt-eskoslovensk-ho-lehk-ho-opevn-n-.jpg
+  alt: Reprezentativní objekt čs. lehkého opevnění (typ LO vz. 37)
+  author: Richard Sekerak (WMCZ)
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Objekt_%C4%8Deskoslovensk%C3%A9ho_lehk%C3%A9ho_opevn%C4%9Bn%C3%AD.jpg
+- url: /img/forts/objekt-eskoslovensk-ho-lehk-ho-opevn-n-2.jpg
+  alt: Reprezentativní objekt čs. lehkého opevnění (detail)
+  author: Richard Sekerak (WMCZ)
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Objekt_%C4%8Deskoslovensk%C3%A9ho_lehk%C3%A9ho_opevn%C4%9Bn%C3%AD_2.jpg

@@ -1,23 +1,33 @@
-title: 'Řopíky u Valtic (Lednicko-valtický areál)'
-code: 'VAL — Břeclavsko'
-type: 'lo-vz-37'
-line: 'Jižní Morava — Valticko'
-region: 'Jihomoravský kraj'
+title: Řopíky u Valtic (Lednicko-valtický areál)
+code: VAL — Břeclavsko
+type: lo-vz-37
+line: Jižní Morava — Valticko
+region: Jihomoravský kraj
 location:
   lat: 48.7411
   lon: 16.7558
-  address: 'Valtice a okolí, Lednicko-valtický areál'
+  address: Valtice a okolí, Lednicko-valtický areál
 built: '1937'
-state: 'pristupny'
-description: 'Řopíky podél dnešní moravsko-rakouské hranice v okolí památkového UNESCO území Lednicko-valtického areálu.'
-history: |
-  Linie kolem Valtic byla budována jako součást obrany proti tehdejšímu Rakousku. Po Anschlussu 1938 se stala frontovou linií.
+state: pristupny
+description: Řopíky podél dnešní moravsko-rakouské hranice v okolí památkového UNESCO území Lednicko-valtického areálu.
+history: 'Linie kolem Valtic byla budována jako součást obrany proti tehdejšímu Rakousku. Po Anschlussu 1938 se stala frontovou linií.
+
 
   Po záboru jihomoravské oblasti Říší v říjnu 1938 se většina objektů dostala do německých rukou a byla využita k výcviku. Po válce byly některé objekty rozprášeny, jiné přežily.
 
+
   Dnes jsou součástí turistických tras po Lednicko-valtickém areálu — kontrast barokní krajiny a betonových objektů tvoří výrazný krajinný prvek.
-visit: |
-  Průchozí cyklotrasy vedou kolem několika řopíků — ideální jako doplněk prohlídky zámků Valtice a Lednice.
+
+  '
+visit: 'Průchozí cyklotrasy vedou kolem několika řopíků — ideální jako doplněk prohlídky zámků Valtice a Lednice.
+
+  '
 sources:
-  - 'ropiky.net — Břeclavsko'
+- ropiky.net — Břeclavsko
 updated: '2026-04-18'
+photos:
+- url: /img/forts/-op-k-8-13-a-160-s-bo-dv-r.jpg
+  alt: Řopík A-160 u Boříhoho Dvora — Valticko
+  author: Doronenko
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_8-13-A-160_S_Bo%C5%99%C3%AD_Dv%C5%AFr.jpg

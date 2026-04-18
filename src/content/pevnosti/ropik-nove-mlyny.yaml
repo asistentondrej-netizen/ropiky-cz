@@ -1,22 +1,31 @@
-title: 'Řopíky u Nových Mlýnů (Pálava)'
-code: 'MIK / Pálava — lehké opevnění'
-type: 'lo-vz-37'
-line: 'Jižní Morava (Mikulovsko)'
-region: 'Jihomoravský kraj'
+title: Řopíky u Nových Mlýnů (Pálava)
+code: MIK / Pálava — lehké opevnění
+type: lo-vz-37
+line: Jižní Morava (Mikulovsko)
+region: Jihomoravský kraj
 location:
   lat: 48.8611
   lon: 16.6361
-  address: 'Mikulovsko, oblast Pálavy a Nových Mlýnů'
+  address: Mikulovsko, oblast Pálavy a Nových Mlýnů
 built: '1938'
-state: 'pristupny'
-description: 'Linie řopíků v okolí Pálavských vrchů a Novomlýnských nádrží. Volně přístupné objekty v turistické oblasti, dobře dostupné pěšky i na kole.'
-history: |
-  Mikulovská oblast byla součástí jižní linie lehkého opevnění budované v letech 1937–1938 proti hrozbě útoku z rakouského (po březnu 1938 říšského) území.
+state: pristupny
+description: Linie řopíků v okolí Pálavských vrchů a Novomlýnských nádrží. Volně přístupné objekty v turistické oblasti, dobře dostupné pěšky i na kole.
+history: 'Mikulovská oblast byla součástí jižní linie lehkého opevnění budované v letech 1937–1938 proti hrozbě útoku z rakouského (po březnu 1938 říšského) území.
+
 
   Řopíky v oblasti Pálavy a u Nových Mlýnů se ve velké většině dochovaly. Patří k nejdostupnějším objektům čs. opevnění pro turistiku, integrované do sítě cyklotras a naučných stezek.
-visit: |
-  Volně přístupné, vhodné pro pěší i cyklovýlety. Součástí turistických tras CHKO Pálava. Vnitřky většiny objektů zavřené, ale vnější konstrukce dobře patrná.
+
+  '
+visit: 'Volně přístupné, vhodné pro pěší i cyklovýlety. Součástí turistických tras CHKO Pálava. Vnitřky většiny objektů zavřené, ale vnější konstrukce dobře patrná.
+
+  '
 sources:
-  - 'CHKO Pálava'
-  - 'ropiky.net — oblast Mikulov'
+- CHKO Pálava
+- ropiky.net — oblast Mikulov
 updated: '2026-04-18'
+photos:
+- url: /img/forts/lehk-opevn-n-vzor-36-na-turoldu-sek-4-mikulov.jpg
+  alt: LO vz. 36 na Turoldu — stejná pálavská linie jako Nové Mlýny
+  author: Doronenko
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Lehk%C3%A9_opevn%C4%9Bn%C3%AD_vzor_36_na_Turoldu,_%C3%9Asek_4_Mikulov.jpg
