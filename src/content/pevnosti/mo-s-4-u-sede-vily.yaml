@@ -1,0 +1,21 @@
+title: MO-S 4 „U šedé vily"
+code: MO-S 4
+type: pechotni-srub
+line: Moravská Ostrava
+region: Moravskoslezský kraj
+location:
+  lat: 49.91179
+  lon: 18.34529
+built: '1937'
+state: rozpadly
+description: Pěchotní srub na okraji Bohumína, severní část ostravské linie.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/2016-06-bohumin--5-.jpg
+  alt: MO-S 4 U šedé vily — pěchotní srub
+  author: Marek Mróz
+  license: CC BY 4.0
+  source: https://commons.wikimedia.org/wiki/File%3A2016-06_Bohum%C3%ADn_%285%29.jpg

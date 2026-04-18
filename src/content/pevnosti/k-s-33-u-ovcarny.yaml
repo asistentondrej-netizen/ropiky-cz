@@ -1,0 +1,21 @@
+title: K-S 33 „U ovčárny"
+code: K-S 33
+type: pechotni-srub
+line: Králíky
+region: Pardubický kraj
+location:
+  lat: 50.098453
+  lon: 16.63459
+built: '1937'
+state: rozpadly
+description: Pěchotní srub v severovýchodní části králického úseku.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/k-s-33.jpg
+  alt: K-S 33 U ovčárny — pěchotní srub
+  author: Martin Provazník
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AK-S_33.JPG

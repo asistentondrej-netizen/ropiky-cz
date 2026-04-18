@@ -1,0 +1,21 @@
+title: N-S 80 „Jirásek"
+code: N-S 80
+type: pechotni-srub
+line: Náchod
+region: Královéhradecký kraj
+location:
+  lat: 50.41141389
+  lon: 16.19973889
+built: '1937'
+state: rozpadly
+description: Pěchotní srub Jirásek v náchodském úseku.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/nachod--dobrosov--n-s-80--rok-2002-.jpg
+  alt: N-S 80 Jirásek — pěchotní srub
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File%3AN%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_80_%28rok_2002%29.jpg

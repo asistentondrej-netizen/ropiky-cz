@@ -1,0 +1,21 @@
+title: OP-S 26 „Za humny Milostovic"
+code: OP-S 26
+type: pechotni-srub
+line: Opava
+region: Moravskoslezský kraj
+location:
+  lat: 49.95501
+  lon: 17.82928
+built: '1937'
+state: rozpadly
+description: Pěchotní srub v opavském úseku, dnes součást muzejního areálu Milostovice.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/pechotni-srub-op-s26-milostovice-02.jpg
+  alt: OP-S 26 Za humny Milostovic — pěchotní srub
+  author: Miroslav Olszewski
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File%3AP%C4%9Bchotn%C3%AD_srub_OP-S26_Milostovice_02.jpg

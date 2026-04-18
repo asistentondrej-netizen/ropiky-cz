@@ -1,0 +1,21 @@
+title: N-S 45 „Polom"
+code: N-S 45
+type: pechotni-srub
+line: Náchod
+region: Královéhradecký kraj
+location:
+  lat: 50.35013889
+  lon: 16.32218889
+built: '1937'
+state: rozpadly
+description: Pěchotní srub v náchodském úseku, severní část linie.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/n-s-45-polom.jpg
+  alt: N-S 45 Polom — pěchotní srub
+  author: A.Patek
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File%3AN-S_45_Polom.jpg

@@ -1,0 +1,21 @@
+title: StM-S 34 „Svah"
+code: StM-S 34
+type: pechotni-srub
+line: Staré Město pod Sněžníkem
+region: Olomoucký kraj
+location:
+  lat: 50.17308
+  lon: 16.9681
+built: '1937'
+state: rozpadly
+description: Pěchotní srub Svah v jesenickém úseku.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/pechotni-srub-stm-s-34-svah-05.jpg
+  alt: StM-S 34 Svah — pěchotní srub
+  author: Michal Gregor
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File%3AP%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_05.jpg

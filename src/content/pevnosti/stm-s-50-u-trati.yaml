@@ -1,0 +1,21 @@
+title: StM-S 50 „U trati"
+code: StM-S 50
+type: pechotni-srub
+line: Staré Město pod Sněžníkem
+region: Olomoucký kraj
+location:
+  lat: 50.16564
+  lon: 17.02641
+built: '1937'
+state: rozpadly
+description: Pěchotní srub U trati v jesenickém úseku.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/branna--stm-s-50--rok-2003--02-.jpg
+  alt: StM-S 50 U trati — pěchotní srub
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File%3ABrann%C3%A1%2C_StM-S_50_%28rok_2003%3B_02%29.jpg

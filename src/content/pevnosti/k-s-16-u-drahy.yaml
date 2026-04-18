@@ -1,0 +1,21 @@
+title: K-S 16 „U dráhy"
+code: K-S 16
+type: pechotni-srub
+line: Králíky
+region: Pardubický kraj
+location:
+  lat: 50.086518
+  lon: 16.73699
+built: '1937'
+state: rozpadly
+description: Pěchotní srub podél železniční trati v Králíkách.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/k-s-16.jpg
+  alt: K-S 16 U dráhy — pěchotní srub
+  author: Martin Provazník
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File%3AK-S_16.JPG

@@ -1,0 +1,21 @@
+title: K-S 48 „Nad silnicí"
+code: K-S 48
+type: pechotni-srub
+line: Králíky
+region: Pardubický kraj
+location:
+  lat: 50.121295
+  lon: 16.589853
+built: '1937'
+state: rozpadly
+description: Pěchotní srub nad silnicí Lichkov–Mladkov.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/ceske-petrovice--k-s-48--rok-2002-.jpg
+  alt: K-S 48 Nad silnicí — pěchotní srub
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File%3A%C4%8Cesk%C3%A9_Petrovice%2C_K-S_48_%28rok_2002%29.jpg

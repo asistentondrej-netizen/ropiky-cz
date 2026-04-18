@@ -1,0 +1,21 @@
+title: OP-S 29 „U kudlu"
+code: OP-S 29
+type: pechotni-srub
+line: Opava
+region: Moravskoslezský kraj
+location:
+  lat: 49.95449
+  lon: 17.79315
+built: '1937'
+state: rozpadly
+description: Pěchotní srub v opavském úseku.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/jamnice--bunkr.jpg
+  alt: OP-S 29 U kudlu — pěchotní srub
+  author: Palickap
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File%3AJamnice%2C_bunkr.JPG

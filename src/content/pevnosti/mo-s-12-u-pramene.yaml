@@ -1,0 +1,21 @@
+title: MO-S 12 „U pramene"
+code: MO-S 12
+type: pechotni-srub
+line: Moravská Ostrava
+region: Moravskoslezský kraj
+location:
+  lat: 49.90979
+  lon: 18.26658
+built: '1937'
+state: rozpadly
+description: Pěchotní srub jednostranný typu A v ostravské linii.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/silherovice--mo-s-12--2015-05-08--04-.jpg
+  alt: MO-S 12 U pramene — pěchotní srub
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File%3A%C5%A0ilhe%C5%99ovice%2C_MO-S_12_%282015-05-08%3B_04%29.jpg

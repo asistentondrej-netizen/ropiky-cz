@@ -1,0 +1,21 @@
+title: StM-S 32 „Krajní"
+code: StM-S 32
+type: pechotni-srub
+line: Staré Město pod Sněžníkem
+region: Olomoucký kraj
+location:
+  lat: 50.17282
+  lon: 16.95661
+built: '1937'
+state: rozpadly
+description: Pěchotní srub Krajní na okraji jesenické linie.
+sources:
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+photos:
+- url: /img/forts/pechotni-srub-stm-s-32-krajni--interier-06.jpg
+  alt: StM-S 32 Krajní — pěchotní srub
+  author: Michal Gregor
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File%3AP%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD%2C_interi%C3%A9r_06.jpg
