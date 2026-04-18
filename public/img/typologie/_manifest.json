@@ -1,0 +1,90 @@
+[
+  {
+    "file": "/img/typologie/lo-vz-36-hostovice.jpg",
+    "alt": "Dochovaný LO vz. 36 typ B u Ústí nad Labem — charakteristicky menší rozměry a čelné střílny.",
+    "author": "RomanM82",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3A%C3%9Ast%C3%AD%20nad%20Labem%20-%20Hostovice%2C%20bunkr%20XI.-188-B%20obr01.jpg",
+    "page": "lo-vz-36"
+  },
+  {
+    "file": "/img/typologie/lo-vz-37-strielna.jpg",
+    "alt": "Detail boční střílny řopíku s ocelolitinovou vložkou pro lafetovaný kulomet.",
+    "author": "Lukáč Peter",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ARopik%20detail%20strielne.jpg",
+    "page": "lo-vz-37"
+  },
+  {
+    "file": "/img/typologie/lo-vz-37-hnanice.jpg",
+    "alt": "Typický řopík LO vz. 37 typ A v krajině u Hnanic na jižní Moravě.",
+    "author": "Pudelek (Marcin Szala)",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AHnanice%20%28Gnadlersdorf%29%20-%20LO%20vz.%2037.JPG",
+    "page": "lo-vz-37"
+  },
+  {
+    "file": "/img/typologie/lo-vz-37-typ-e.jpg",
+    "alt": "Vzácný typ E — nejmenší varianta řopíku pro 2 muže.",
+    "author": "Lukáš Malý",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File%3ALO%20vz.%2037%20E1.jpg",
+    "page": "lo-vz-37"
+  },
+  {
+    "file": "/img/typologie/lo-vz-37-interier.jpg",
+    "alt": "Rekonstruovaný interiér řopíku — střelecká místnost s lafetou M a těžkým kulometem.",
+    "author": "Harold",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABratislava%2C%20Petr%C5%BEalka%2C%20B-S%201%20%282013-10-25%3B%2006%29.jpg",
+    "page": "lo-vz-37"
+  },
+  {
+    "file": "/img/typologie/lo-vz-37-lafeta.jpg",
+    "alt": "Detail ocelolitinové lafety M pro těžký kulomet vz. 37 v boční střílně.",
+    "author": "Harold",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABratislava%2C%20Petr%C5%BEalka%2C%20B-S%201%20%282013-10-25%3B%2010%29.jpg",
+    "page": "lo-vz-37"
+  },
+  {
+    "file": "/img/typologie/srub-zvon-pozorovaci.jpg",
+    "alt": "Pancéřový pozorovací zvon na pěchotním srubu K-S 22a „Krok\" tvrze Bouda.",
+    "author": "Lukáš Malý",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABouda%20-%20K-S%2022a%20Krok%20-%20zvon.JPG",
+    "page": "pechotni-srub"
+  },
+  {
+    "file": "/img/typologie/srub-bouda-krok.jpg",
+    "alt": "Pěchotní srub K-S 22a „Krok\" — součást tvrze Bouda, oboustranný typ odolnosti IV.",
+    "author": "Lukáš Malý",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File%3ABouda%20-%20K-S%2022a%20Krok.JPG",
+    "page": "pechotni-srub"
+  },
+  {
+    "file": "/img/typologie/tvrz-stachelberg-podzemi.jpg",
+    "alt": "Podzemní chodba tvrze Stachelberg — největší plánované čs. tvrze. Železobetonová konstrukce se stopami výdřevy.",
+    "author": "Harold",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AStachelberg%2C%20podzem%C3%AD%20%28rok%202012%3B%2004%29.jpg",
+    "page": "delostrelecka-tvrz"
+  },
+  {
+    "file": "/img/typologie/tvrz-stachelberg-kriz.jpg",
+    "alt": "Křížení podzemních chodeb ve tvrzi Stachelberg — ukázka rozsahu podzemního systému.",
+    "author": "User:Harold",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File%3AStachelberg%2C%20podzem%C3%AD%20%28rok%202008%3B%2003%29.jpg",
+    "page": "delostrelecka-tvrz"
+  },
+  {
+    "file": "/img/typologie/tvrz-adam-srub.jpg",
+    "alt": "Pěchotní srub K-S 43 — součást dělostřelecké tvrze Adam v úseku Králíky.",
+    "author": "Jiří Šotola",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File%3AK-S%2043%20%28Adam%29.jpg",
+    "page": "delostrelecka-tvrz"
+  }
+]
