@@ -25,15 +25,15 @@ Následující objekty v katalogu ropiky.cz pokrývají kompletní linii B-4 od 
 
 | Objekt | Lokalita | GPS | Stav |
 |---|---|---|---|
-| [8/X/A-140 Úvaly](/pevnosti/lo-vz-37-uvaly-u-valtic) | nejjižnější bod Moravy | 48.7180°N, 16.7710°E | přístupný |
-| [8/13/A-160 Boří dvůr](/pevnosti/lo-vz-37-bori-dvur) | Valticko, s fotkou | 48.7286°N, 16.7030°E | přístupný |
-| [8/12/A-140 Katzelsdorfská cesta](/pevnosti/lo-vz-37-katzelsdorfska-cesta) | Boří les jižně od Valtic | 48.7325°N, 16.7372°E | přístupný |
-| [8/12/A-180 Rajstna](/pevnosti/lo-vz-37-rajstna) | pod Kolonádou | 48.7338°N, 16.7510°E | přístupný |
-| [8/10/A-140 Hlohovec](/pevnosti/lo-vz-37-hlohovec) | u Hlohoveckého rybníka | 48.7837°N, 16.7632°E | přístupný |
-| [8/9/A-160 Janohrad](/pevnosti/lo-vz-37-lednice-janohrad) | lužní les u Janova hradu | 48.7962°N, 16.8292°E | přístupný |
-| [8/7/A-160 Charvátská NV](/pevnosti/lo-vz-37-charvatska-nova-ves) | břeh Dyje | 48.7685°N, 16.8553°E | přístupný |
-| [8/5/A-140 Poštorná](/pevnosti/lo-vz-37-poestorna) | jižní okraj Břeclavi | 48.7446°N, 16.8796°E | rozpadlý |
-| [8/2/A-140 Ranšpurk](/pevnosti/lo-vz-37-ranspurk) | NPR, soutok Dyje—Moravy | 48.6725°N, 16.9421°E | přístupný |
+| [8/X/A-140 Úvaly](/katalog/lo-vz-37-uvaly-u-valtic) | nejjižnější bod Moravy | 48.7180°N, 16.7710°E | přístupný |
+| [8/13/A-160 Boří dvůr](/katalog/lo-vz-37-bori-dvur) | Valticko, s fotkou | 48.7286°N, 16.7030°E | přístupný |
+| [8/12/A-140 Katzelsdorfská cesta](/katalog/lo-vz-37-katzelsdorfska-cesta) | Boří les jižně od Valtic | 48.7325°N, 16.7372°E | přístupný |
+| [8/12/A-180 Rajstna](/katalog/lo-vz-37-rajstna) | pod Kolonádou | 48.7338°N, 16.7510°E | přístupný |
+| [8/10/A-140 Hlohovec](/katalog/lo-vz-37-hlohovec) | u Hlohoveckého rybníka | 48.7837°N, 16.7632°E | přístupný |
+| [8/9/A-160 Janohrad](/katalog/lo-vz-37-lednice-janohrad) | lužní les u Janova hradu | 48.7962°N, 16.8292°E | přístupný |
+| [8/7/A-160 Charvátská NV](/katalog/lo-vz-37-charvatska-nova-ves) | břeh Dyje | 48.7685°N, 16.8553°E | přístupný |
+| [8/5/A-140 Poštorná](/katalog/lo-vz-37-poestorna) | jižní okraj Břeclavi | 48.7446°N, 16.8796°E | rozpadlý |
+| [8/2/A-140 Ranšpurk](/katalog/lo-vz-37-ranspurk) | NPR, soutok Dyje—Moravy | 48.6725°N, 16.9421°E | přístupný |
 
 Celkem **9 konkrétních objektů** s GPS. V úseku B-4 stálo původně přes 200 řopíků — dochovaných je cca 80, přístupných a fotogenických kolem 20.
 
