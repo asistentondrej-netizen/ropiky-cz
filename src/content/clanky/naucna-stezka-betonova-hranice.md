@@ -9,10 +9,46 @@ cover: "/img/clanky/betonova-hranice-hero.jpg"
 
 **Betonová hranice** je v českých reáliích unikátní — je to **největší naučná stezka věnovaná fortifikaci** v ČR a pokrývá 40 km úseku **Kladského klínu**, kde v letech 1935–1938 vznikla nejhustší koncentrace těžkého opevnění v celém Československu. Stezka je otevřená celoročně, lze ji projít pěšky nebo na kole a díky kombinaci muzeí, externě přístupných srubů a výkladových tabulí nabízí **pedagogicky hodnotný zážitek** pro rodiny i odborně zaměřené návštěvníky.
 
-<div class="route-map">
-  <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.5500,50.0000,16.8800,50.2300&amp;layer=mapnik&amp;marker=50.1292,16.7539" title="Mapa stezky Betonová hranice — Červená Voda → Králíky → Mladkov"></iframe>
-  <div class="route-map__caption">Trasa 40 km — severní konec Červená Voda, přes tvrz Bouda, Králíky (K-S 14 U cihelny), po Mladkov. Červená turistická značka kopíruje linii těžkého opevnění. <a href="https://mapy.cz/turisticka?x=16.7539&amp;y=50.1292&amp;z=11" target="_blank" rel="noopener">Otevřít na Mapy.cz ↗</a></div>
-</div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+<div id="bh-map" style="height: 540px; border: 1px solid #C9BFA8; background: #F5F1E8; margin: 24px 0;"></div>
+
+<script>
+(function(){
+  function init(){
+    if (typeof L === 'undefined') { setTimeout(init, 100); return; }
+    var el = document.getElementById('bh-map');
+    if (!el || el._inited) return; el._inited = true;
+    var map = L.map('bh-map', { scrollWheelZoom:false }).setView([50.1292, 16.7539], 11);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom:18, attribution:'© OpenStreetMap' }).addTo(map);
+    map.on('click', function(){ map.scrollWheelZoom.enable(); });
+    var body = [
+      {n:'◆', title:'Červená Voda — start', lat:50.0500, lon:16.7283, href:null, note:'Severní výchozí bod, vlaková zastávka, IC', color:'#7A3B2E'},
+      {n:1, title:'K-S 5 „Na sedle"', lat:50.0540, lon:16.7340, href:null, note:'První srub stezky — externě přístupný, III. odolnost', color:'#5A6B4F'},
+      {n:2, title:'Tvrz Bouda', lat:50.1147, lon:16.7028, href:'/katalog/tvrz-bouda', note:'Klíčový bod — jediná plně průchozí dělostřelecká tvrz v ČR', color:'#2D5F3F'},
+      {n:3, title:'Vojenské muzeum Králíky', lat:50.0850, lon:16.7647, href:null, note:'Expozice ŘOP, čs. armáda, Mnichov 1938', color:'#2D5F3F'},
+      {n:4, title:'K-S 14 „U cihelny"', lat:50.0689, lon:16.7497, href:'/katalog/k-s-14-u-cihelny', note:'Slavný srub s vráceným pancéřovým zvonem z Atlantského valu', color:'#2D5F3F'},
+      {n:5, title:'K-S 33 „U svatyně"', lat:50.0410, lon:16.7800, href:null, note:'Hřebenový srub, výchozí bod do údolí Moravy', color:'#5A6B4F'},
+      {n:6, title:'Mladkov', lat:50.0167, lon:16.6792, href:null, note:'Jižní konec hlavní trasy, napojení na pohraniční linii', color:'#7A3B2E'},
+      {n:7, title:'K-S 36 „Na sedle"', lat:50.0090, lon:16.6650, href:null, note:'Ikonická poloha s výhledem do Polska', color:'#5A6B4F'},
+      {n:8, title:'K-S 43 „Adam"', lat:49.9920, lon:16.6440, href:null, note:'Vstupní srub plánované tvrze Adam', color:'#5A6B4F'}
+    ];
+    body.forEach(function(p){
+      var icon = L.divIcon({ className:'', html:'<div style="width:30px;height:30px;border-radius:50%;background:'+p.color+';color:white;font-weight:700;display:flex;align-items:center;justify-content:center;font-size:14px;border:2px solid white;box-shadow:0 1px 5px rgba(0,0,0,0.4);">'+p.n+'</div>', iconSize:[34,34], iconAnchor:[17,17] });
+      var html = '<div style="font-family:inherit;min-width:220px;"><strong style="font-size:0.95rem;color:#3A2F20;">'+p.title+'</strong><br/><span style="font-size:0.8rem;color:#5A4A33;">'+p.note+'</span>'+(p.href?'<br/><a href="'+p.href+'" style="color:#7A3B2E;font-size:0.85rem;font-weight:600;margin-top:6px;display:inline-block;">Detail →</a>':'')+'</div>';
+      L.marker([p.lat, p.lon], {icon:icon}).addTo(map).bindPopup(html);
+    });
+    var route = body.map(function(p){return [p.lat, p.lon];});
+    L.polyline(route, {color:'#B85C2E', weight:3, opacity:0.7, dashArray:'8,8'}).addTo(map);
+    var bounds = L.latLngBounds(route);
+    map.fitBounds(bounds, {padding:[40,40]});
+  }
+  if (document.readyState==='loading') document.addEventListener('DOMContentLoaded', init); else init();
+})();
+</script>
+
+> **Trasa 40 km** — severní konec Červená Voda → tvrz Bouda → Králíky (muzeum + K-S 14 U cihelny) → Mladkov. Červená turistická značka kopíruje linii těžkého opevnění. Tmavě zelené body = muzea s prohlídkou; světle zelené = externě přístupné sruby; hnědé = obecné body trasy.
 
 ## Základní informace
 

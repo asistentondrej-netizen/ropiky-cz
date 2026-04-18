@@ -9,10 +9,41 @@ cover: "/img/clanky/hanicka-hero.jpg"
 
 **Naučná stezka Hanička** je **nejkratší z velkých fortifikačních stezek v ČR** — ale v obsahu unikátní. Stezka kroutí okolo **tvrze Hanička**, jedné z pěti čs. dělostřeleckých tvrzí, která prošla **dvojí přestavbou**: nejprve jako čs. opevnění 1937–1938, pak v 70. a 80. letech jako **rezervní stanoviště ÚV KSČ** pro případ jaderné války. Tato **dvoubarevná historie** — fortifikační a studenoválečná — dělá ze stezky jedinečný zážitek.
 
-<div class="route-map">
-  <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.4400,50.1700,16.5200,50.2200&amp;layer=mapnik&amp;marker=50.1937,16.4795" title="Mapa naučné stezky Hanička"></iframe>
-  <div class="route-map__caption">Okruh 5 km, 8 zastavení — výchozí bod návštěvnické centrum Hanička → srub H-S 5 „Aurora" → H-S 6 „Boda" → vchodový srub → vyhlídka Orlík → návrat. Modrá turistická značka. <a href="https://mapy.cz/turisticka?x=16.4795&amp;y=50.1937&amp;z=14" target="_blank" rel="noopener">Otevřít na Mapy.cz ↗</a></div>
-</div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+<div id="hanicka-map" style="height: 460px; border: 1px solid #C9BFA8; background: #F5F1E8; margin: 24px 0;"></div>
+
+<script>
+(function(){
+  function init(){
+    if (typeof L === 'undefined') { setTimeout(init, 100); return; }
+    var el = document.getElementById('hanicka-map');
+    if (!el || el._inited) return; el._inited = true;
+    var map = L.map('hanicka-map', { scrollWheelZoom:false }).setView([50.1967, 16.4925], 14);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom:18, attribution:'© OpenStreetMap' }).addTo(map);
+    map.on('click', function(){ map.scrollWheelZoom.enable(); });
+    var body = [
+      {n:'◆', title:'Návštěvnické centrum Hanička', lat:50.1967, lon:16.4925, href:null, note:'Výchozí bod, parkování, úvodní expozice', color:'#7A3B2E'},
+      {n:1, title:'Tvrz Hanička — vchodový srub', lat:50.1940, lon:16.4920, href:'/katalog/tvrz-hanicka', note:'Hlavní vstup do muzea — čs. tvrz + sovětský kryt', color:'#2D5F3F'},
+      {n:2, title:'H-S 5 „Aurora"', lat:50.1982, lon:16.4970, href:null, note:'Pěchotní srub tvrze s originálními pancéřovými zvony', color:'#5A6B4F'},
+      {n:3, title:'H-S 6 „Boda"', lat:50.2005, lon:16.4995, href:null, note:'Srub přestavěný v 70. letech na ventilační věž', color:'#5A6B4F'},
+      {n:4, title:'Pozorovatelna Orlík', lat:50.2040, lon:16.5030, href:null, note:'Vyhlídka 400 m. n. m. — Orlické hory, Polsko', color:'#7A3B2E'},
+      {n:5, title:'Sovětská ventilační věž', lat:50.1955, lon:16.4950, href:null, note:'Betonová věž z roku 1978 — sovětský komplex', color:'#5A4A33'}
+    ];
+    body.forEach(function(p){
+      var icon = L.divIcon({ className:'', html:'<div style="width:30px;height:30px;border-radius:50%;background:'+p.color+';color:white;font-weight:700;display:flex;align-items:center;justify-content:center;font-size:14px;border:2px solid white;box-shadow:0 1px 5px rgba(0,0,0,0.4);">'+p.n+'</div>', iconSize:[34,34], iconAnchor:[17,17] });
+      var html = '<div style="font-family:inherit;min-width:220px;"><strong style="font-size:0.95rem;color:#3A2F20;">'+p.title+'</strong><br/><span style="font-size:0.8rem;color:#5A4A33;">'+p.note+'</span>'+(p.href?'<br/><a href="'+p.href+'" style="color:#7A3B2E;font-size:0.85rem;font-weight:600;margin-top:6px;display:inline-block;">Detail →</a>':'')+'</div>';
+      L.marker([p.lat, p.lon], {icon:icon}).addTo(map).bindPopup(html);
+    });
+    var bounds = L.latLngBounds(body.map(function(p){return [p.lat, p.lon];}));
+    map.fitBounds(bounds, {padding:[40,40]});
+  }
+  if (document.readyState==='loading') document.addEventListener('DOMContentLoaded', init); else init();
+})();
+</script>
+
+> **Okruh 5 km, 8 zastavení** — výchozí bod návštěvnické centrum Hanička → vchodový srub muzea → H-S 5 „Aurora" → H-S 6 „Boda" → vyhlídka Orlík → sovětská ventilační věž → návrat. Modrá turistická značka.
 
 <figure>
   <img src="/img/forts/orlicke-zahori--cerna-voda-u-orlickeho-zahori--r-s.jpg" alt="Pěchotní srub R-S v Orlickém Záhoří — typický objekt linie u Haničky" />
