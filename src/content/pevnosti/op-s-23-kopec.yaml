@@ -9,9 +9,10 @@ location:
   address: Opava-sever
 built: '1937'
 state: pristupny
-description: Pěchotní srub „Kopec" — součást severní obranné linie Opavy. Volně přístupný exteriér v polní krajině.
-history: 'OP-S 23 byl betonován na podzim 1937. Jeden z řady srubů v severním úseku opavské linie. Po roce 1939 v německých
-  rukou, po roce 1945 v majetku ČSA.
+description: Pěchotní srub „Kopec" — součást severní obranné linie Opavy. Volně přístupný
+  exteriér v polní krajině.
+history: 'OP-S 23 byl betonován na podzim 1937. Jeden z řady srubů v severním úseku
+  opavské linie. Po roce 1939 v německých rukou, po roce 1945 v majetku ČSA.
 
   '
 visit: 'Klasický opavský pěchotní srub — volně přístupný, v otevřeném terénu.
@@ -20,13 +21,15 @@ visit: 'Klasický opavský pěchotní srub — volně přístupný, v otevřené
   **Přístup:** volně, 24/7, zdarma.
 
 
-  **Co uvidíte:** pěchotní srub II. odolnosti v polní krajině — střílny, pozorovací zvony. Objekt je nezrekonstruovaný.
+  **Co uvidíte:** pěchotní srub II. odolnosti v polní krajině — střílny, pozorovací
+  zvony. Objekt je nezrekonstruovaný.
 
 
   **Doporučená délka:** 15 minut.
 
 
-  **Dostupnost:** Autem z Opavy (3 km) po silnici na Milostovice, odbočit na polní cestu (200 m).
+  **Dostupnost:** Autem z Opavy (3 km) po silnici na Milostovice, odbočit na polní
+  cestu (200 m).
 
 
   **Doporučeno kombinovat s:** OP-S 25, OP-S 26, celou opavskou linií.
@@ -35,3 +38,9 @@ visit: 'Klasický opavský pěchotní srub — volně přístupný, v otevřené
 sources:
 - ropiky.net — OP-S 23
 updated: '2026-04-18'
+photos:
+- url: /img/forts/opava-milostovice-op-s-26-rok-2001-.jpg
+  alt: Ilustrační foto — sousední srub OP-S 26 v opavské linii (stejný typ II. odolnosti)
+  author: Wikimedia Commons
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/Category:Czechoslovak_border_fortifications

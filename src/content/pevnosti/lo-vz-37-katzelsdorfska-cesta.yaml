@@ -9,26 +9,51 @@ location:
   address: Katzelsdorfská cesta, les jižně od zámku Valtice
 built: '1937'
 state: pristupny
-description: Řopík ukrytý v Bořím lese podél historické Katzelsdorfské cesty. Necelý kilometr od rakouské hranice, kryl severní přístup k zámku Valtice.
-history: |
-  Jeden z prvních objektů úseku B-4 — betonován v srpnu 1937. Katzelsdorfská cesta byla tradiční komunikací mezi rakouským Katzelsdorfem a Valticemi, proto zde vznikl blokační prvek.
+description: Řopík ukrytý v Bořím lese podél historické Katzelsdorfské cesty. Necelý
+  kilometr od rakouské hranice, kryl severní přístup k zámku Valtice.
+history: 'Jeden z prvních objektů úseku B-4 — betonován v srpnu 1937. Katzelsdorfská
+  cesta byla tradiční komunikací mezi rakouským Katzelsdorfem a Valticemi, proto zde
+  vznikl blokační prvek.
 
-  V září 1938 tvořil součást obranné sestavy chránící příjezd k Valticím od jihu. Po Mnichovské dohodě opuštěn; za války Wehrmacht objekt využil jako sklad střeliva.
 
-  Po roce 1989 byl objekt obnoven spolkem KVH Valtice — vyčištěn, zpřístupněn, osazen informační tabulí. Patří k nejlépe udržovaným řopíkům v regionu.
-visit: |
-  Lesní řopík v tichém okolí Bořího lesa — dobrý cíl pro procházku ze zámku Valtice.
+  V září 1938 tvořil součást obranné sestavy chránící příjezd k Valticím od jihu.
+  Po Mnichovské dohodě opuštěn; za války Wehrmacht objekt využil jako sklad střeliva.
+
+
+  Po roce 1989 byl objekt obnoven spolkem KVH Valtice — vyčištěn, zpřístupněn, osazen
+  informační tabulí. Patří k nejlépe udržovaným řopíkům v regionu.
+
+  '
+visit: 'Lesní řopík v tichém okolí Bořího lesa — dobrý cíl pro procházku ze zámku
+  Valtice.
+
 
   **Přístup:** volně 24/7. Po Katzelsdorfské cestě z Valtic (2,5 km pěšky z města).
 
-  **Co uvidíte:** LO vz. 37 typ A-140 (zesílený standard). Originální dveřní rámy, dochované maskovací nátěry z 80. let (pokus o konzervaci). Informační tabule o historii B-4.
+
+  **Co uvidíte:** LO vz. 37 typ A-140 (zesílený standard). Originální dveřní rámy,
+  dochované maskovací nátěry z 80. let (pokus o konzervaci). Informační tabule o historii
+  B-4.
+
 
   **Doporučená délka:** 30 minut (včetně procházky).
 
-  **Dostupnost:** Pěšky ze zámku Valtice (30 min po zelené turistické značce), autem nelze — jen parkoviště u zámku.
 
-  **Doporučeno kombinovat s:** zámkem Valtice, Kolonádou na Rajstně, Bořím dvorem (samota), vinným sklepem Valtice, dalšími řopíky B-4.
+  **Dostupnost:** Pěšky ze zámku Valtice (30 min po zelené turistické značce), autem
+  nelze — jen parkoviště u zámku.
+
+
+  **Doporučeno kombinovat s:** zámkem Valtice, Kolonádou na Rajstně, Bořím dvorem
+  (samota), vinným sklepem Valtice, dalšími řopíky B-4.
+
+  '
 sources:
 - ropiky.net — 8/12/A-140
 - KVH Valtice — informační tabule
 updated: '2026-04-18'
+photos:
+- url: /img/forts/hnanice-gnadlersdorf-lo-vz.-37.jpg
+  alt: Ilustrační foto typu LO vz. 37 A-140 (obdobný řopík na Znojemsku)
+  author: Wikimedia Commons
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Hnanice-Gnadlersdorf-LO-vz-37.jpg

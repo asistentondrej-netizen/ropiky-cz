@@ -5,30 +5,54 @@ line: B-4 Úvaly — Břeclav
 region: Jihomoravský kraj
 location:
   lat: 48.7338
-  lon: 16.7510
+  lon: 16.751
   address: Pod Kolonádou Rajstna, jižně od Valtic
 built: '1938'
 state: pristupny
-description: Řopík v dohledu klasicistní Kolonády na Rajstně — symbolický kontrast UNESCO památky a betonové obrany 30. let. Jeden z nejlépe položených fotografických cílů v regionu.
-history: |
-  Objekt typu A-180 (silně zesílený, 80 cm betonu) byl betonován v květnu 1938 jako klíčový bod v obraně přístupu k Valticím od jihu. Kolonáda na Rajstně, dokončená v roce 1817 jako pomník Liechtensteinům, leží pouhých 200 m severně.
+description: Řopík v dohledu klasicistní Kolonády na Rajstně — symbolický kontrast
+  UNESCO památky a betonové obrany 30. let. Jeden z nejlépe položených fotografických
+  cílů v regionu.
+history: 'Objekt typu A-180 (silně zesílený, 80 cm betonu) byl betonován v květnu
+  1938 jako klíčový bod v obraně přístupu k Valticím od jihu. Kolonáda na Rajstně,
+  dokončená v roce 1817 jako pomník Liechtensteinům, leží pouhých 200 m severně.
 
-  V září 1938 byla osádka řopíku v plné pohotovosti. Z Kolonády vojáci řídili palebnou činnost. Po Mnichovu opuštěn.
 
-  Za války Němci objekt zasypali zeminou — odkryt teprve v roce 1991 spolkem KVH Valtice. Dnes je významným bodem naučné stezky kolem zámku Valtice.
-visit: |
-  Možná nejfotogeničtější řopík ČR — v záběru s Kolonádou na Rajstně tvoří unikátní kontrast historických epoch.
+  V září 1938 byla osádka řopíku v plné pohotovosti. Z Kolonády vojáci řídili palebnou
+  činnost. Po Mnichovu opuštěn.
+
+
+  Za války Němci objekt zasypali zeminou — odkryt teprve v roce 1991 spolkem KVH Valtice.
+  Dnes je významným bodem naučné stezky kolem zámku Valtice.
+
+  '
+visit: 'Možná nejfotogeničtější řopík ČR — v záběru s Kolonádou na Rajstně tvoří unikátní
+  kontrast historických epoch.
+
 
   **Přístup:** volně, 24/7. Pěší cesta od Kolonády (200 m).
 
-  **Co uvidíte:** LO vz. 37 typ A-180 (nejtěžší standardní typ). Dvě střílny, vchod s ochranným zdvihem. Vnitřek zachovalý, místo občasných výstav KVH.
+
+  **Co uvidíte:** LO vz. 37 typ A-180 (nejtěžší standardní typ). Dvě střílny, vchod
+  s ochranným zdvihem. Vnitřek zachovalý, místo občasných výstav KVH.
+
 
   **Doporučená délka:** 30–45 minut (včetně Kolonády).
 
+
   **Dostupnost:** Z Valtic 2 km pěšky (žlutá značka), autem k parkovišti pod Kolonádou.
 
-  **Doporučeno kombinovat s:** Kolonádou na Rajstně (vyhlídka na Pálavu a Rakousko), zámkem Valtice, vinným sklepem, dalšími řopíky B-4.
+
+  **Doporučeno kombinovat s:** Kolonádou na Rajstně (vyhlídka na Pálavu a Rakousko),
+  zámkem Valtice, vinným sklepem, dalšími řopíky B-4.
+
+  '
 sources:
 - ropiky.net — 8/12/A-180
 - KVH Valtice
 updated: '2026-04-18'
+photos:
+- url: /img/forts/hnanice-gnadlersdorf-lo-vz.-37.jpg
+  alt: Ilustrační foto typu LO vz. 37 A-180 (obdobný řopík na Znojemsku)
+  author: Wikimedia Commons
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Hnanice-Gnadlersdorf-LO-vz-37.jpg
