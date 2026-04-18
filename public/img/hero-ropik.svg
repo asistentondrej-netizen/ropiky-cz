@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Řopík v krajině — ilustrace">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E8DFCC"/>
+      <stop offset="60%" stop-color="#F1ECE0"/>
+      <stop offset="100%" stop-color="#EFE7D4"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6E7A4A"/>
+      <stop offset="100%" stop-color="#4E5A35"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1A1612" stroke-width="0.3" opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <!-- obloha -->
+  <rect width="1200" height="600" fill="url(#sky)"/>
+
+  <!-- vzdálené hory -->
+  <path d="M 0 380 L 120 320 L 230 360 L 340 300 L 470 340 L 600 290 L 740 330 L 880 280 L 1030 320 L 1200 300 L 1200 450 L 0 450 Z"
+        fill="#9AA28C" opacity="0.5"/>
+  <path d="M 0 420 L 140 380 L 280 410 L 430 370 L 580 400 L 740 370 L 900 400 L 1080 380 L 1200 410 L 1200 500 L 0 500 Z"
+        fill="#7B8768" opacity="0.7"/>
+
+  <!-- les v pozadí (stylizované stromy) -->
+  <g opacity="0.6">
+    <circle cx="80" cy="420" r="24" fill="#5C6B3A"/>
+    <circle cx="140" cy="415" r="20" fill="#4E5A35"/>
+    <circle cx="210" cy="425" r="26" fill="#5C6B3A"/>
+    <circle cx="280" cy="418" r="22" fill="#4E5A35"/>
+    <circle cx="1000" cy="420" r="24" fill="#5C6B3A"/>
+    <circle cx="1060" cy="415" r="22" fill="#4E5A35"/>
+    <circle cx="1130" cy="425" r="26" fill="#5C6B3A"/>
+  </g>
+
+  <!-- země -->
+  <path d="M 0 450 L 1200 420 L 1200 600 L 0 600 Z" fill="url(#ground)"/>
+  <rect width="1200" height="600" fill="url(#grid)"/>
+
+  <!-- ŘOPÍK (LO vz. 37) v centru — stylizovaný side view -->
+  <g transform="translate(500 340)">
+    <!-- stín -->
+    <ellipse cx="110" cy="155" rx="140" ry="10" fill="#1A1612" opacity="0.15"/>
+
+    <!-- základna / terén kolem -->
+    <path d="M -40 150 Q 110 140 260 150 L 260 170 L -40 170 Z" fill="#3E4628" opacity="0.7"/>
+
+    <!-- tělo bunkru -->
+    <path d="M 0 60 L 50 20 L 180 20 L 220 60 L 220 150 L 0 150 Z"
+          fill="#8B7D62" stroke="#1A1612" stroke-width="1.5"/>
+
+    <!-- horní stínování (beton patina) -->
+    <path d="M 0 60 L 50 20 L 180 20 L 220 60 L 220 85 L 0 85 Z"
+          fill="#7A6E55" opacity="0.5"/>
+
+    <!-- střílny (boční dvě + frontální) -->
+    <rect x="25" y="95" width="40" height="14" rx="2" fill="#1A1612"/>
+    <rect x="90" y="95" width="40" height="14" rx="2" fill="#1A1612"/>
+    <rect x="155" y="95" width="40" height="14" rx="2" fill="#1A1612"/>
+
+    <!-- zemní násyp kolem -->
+    <path d="M -40 150 L 0 120 L 0 150 Z" fill="#4E5A35"/>
+    <path d="M 220 150 L 220 120 L 260 150 Z" fill="#4E5A35"/>
+
+    <!-- patina -->
+    <path d="M 30 85 Q 40 110 35 145" stroke="#5A4E3A" stroke-width="1" fill="none" opacity="0.6"/>
+    <path d="M 120 85 Q 130 120 125 150" stroke="#5A4E3A" stroke-width="1" fill="none" opacity="0.5"/>
+    <path d="M 190 85 Q 200 115 195 145" stroke="#5A4E3A" stroke-width="1" fill="none" opacity="0.6"/>
+
+    <!-- vegetace rostoucí přes -->
+    <g opacity="0.7">
+      <circle cx="210" cy="22" r="6" fill="#5C6B3A"/>
+      <circle cx="220" cy="18" r="5" fill="#4E5A35"/>
+      <circle cx="15" cy="50" r="4" fill="#5C6B3A"/>
+    </g>
+  </g>
+
+  <!-- kompozitní prvek: kříž jako topografický symbol -->
+  <g transform="translate(940 120)" opacity="0.25" fill="none" stroke="#1A1612" stroke-width="1">
+    <circle cx="0" cy="0" r="30"/>
+    <line x1="-40" y1="0" x2="40" y2="0"/>
+    <line x1="0" y1="-40" x2="0" y2="40"/>
+    <text x="0" y="-50" text-anchor="middle" font-family="monospace" font-size="12" fill="#1A1612">N</text>
+  </g>
+
+  <!-- letopočet jako textura -->
+  <text x="1140" y="560" text-anchor="end" font-family="Georgia, serif" font-size="64" font-weight="700" fill="#1A1612" opacity="0.08" letter-spacing="4">1938</text>
+</svg>

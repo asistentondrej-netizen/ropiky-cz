@@ -22,7 +22,7 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
   description="Referenční portál o československém opevnění z let 1935–1938. Typologie, katalog pevností, historie a mapy."
 >
   <!-- HERO -->
-  <section class="hero">
+  <section class="hero hero--with-illustration">
     <div class="hero__content">
       <span class="hero__overline">Encyklopedie · 1935–1938</span>
       <h1>Pevnosti, které nikdy nepadly v boji.</h1>
@@ -44,6 +44,9 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
         </dl>
       </aside>
     </div>
+    <div class="hero__illustration" aria-hidden="true">
+      <img src="/img/hero-ropik.svg" alt="" loading="eager" />
+    </div>
   </section>
 
   <!-- TYPOLOGIE -->
@@ -58,17 +61,31 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
       </header>
 
       <div class="typology-grid">
-        {typologie.map((t) => (
-          <a href={`/typologie/${t.slug}`} class="typology-card">
-            <div class="typology-card__code">{t.data.code}</div>
-            <h3>{t.data.title}</h3>
-            <div class="typology-card__meta">
-              <span>{t.data.period}</span>
-              {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
-            </div>
-            <p>{t.data.description}</p>
-          </a>
-        ))}
+        {typologie.map((t) => {
+          const iconMap = {
+            'lo-vz-36': '/img/typ-lo-vz-36.svg',
+            'lo-vz-37': '/img/typ-lo-vz-37.svg',
+            'pechotni-srub': '/img/typ-pechotni-srub.svg',
+            'delostrelecka-tvrz': '/img/typ-delostrelecka-tvrz.svg',
+          };
+          const icon = iconMap[t.slug] || null;
+          return (
+            <a href={`/typologie/${t.slug}`} class="typology-card">
+              {icon && (
+                <div class="typology-card__icon" aria-hidden="true">
+                  <img src={icon} alt="" loading="lazy" />
+                </div>
+              )}
+              <div class="typology-card__code">{t.data.code}</div>
+              <h3>{t.data.title}</h3>
+              <div class="typology-card__meta">
+                <span>{t.data.period}</span>
+                {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
+              </div>
+              <p>{t.data.description}</p>
+            </a>
+          );
+        })}
       </div>
     </div>
   </section>

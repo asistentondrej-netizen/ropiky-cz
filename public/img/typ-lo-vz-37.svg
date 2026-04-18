@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="LO vz. 37 (řopík) — schéma">
+  <rect width="200" height="140" fill="#F1ECE0"/>
+  <!-- země -->
+  <path d="M 0 115 L 200 115 L 200 140 L 0 140 Z" fill="#5C6B3A" opacity="0.35"/>
+  <!-- řopík se skosenými boky (boční palba) -->
+  <g transform="translate(30 45)">
+    <!-- tělo -->
+    <path d="M 0 30 L 25 0 L 115 0 L 140 30 L 140 70 L 0 70 Z" fill="#8B7D62" stroke="#1A1612" stroke-width="1.5"/>
+    <path d="M 0 30 L 25 0 L 115 0 L 140 30 L 140 42 L 0 42 Z" fill="#7A6E55"/>
+    <!-- boční střílny (dvě) -->
+    <rect x="15" y="45" width="25" height="8" rx="1" fill="#1A1612"/>
+    <rect x="100" y="45" width="25" height="8" rx="1" fill="#1A1612"/>
+    <!-- patina -->
+    <path d="M 28 52 Q 30 65 26 70" stroke="#5A4E3A" stroke-width="0.8" fill="none" opacity="0.5"/>
+    <path d="M 112 52 Q 114 65 110 70" stroke="#5A4E3A" stroke-width="0.8" fill="none" opacity="0.5"/>
+  </g>
+  <!-- dva směry palby — boční -->
+  <g opacity="0.5" stroke="#7A3B2E" stroke-width="1" stroke-dasharray="3 3" fill="#7A3B2E">
+    <line x1="45" y1="75" x2="15" y2="100"/>
+    <polygon points="12,95 15,100 20,97"/>
+    <line x1="155" y1="75" x2="185" y2="100"/>
+    <polygon points="180,97 185,100 188,95"/>
+  </g>
+  <text x="100" y="132" text-anchor="middle" font-family="monospace" font-size="9" fill="#1A1612" opacity="0.6">vz. 37 — boční palba</text>
+</svg>

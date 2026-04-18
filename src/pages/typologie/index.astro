@@ -40,6 +40,9 @@ const tezke = typologie.filter((t) => t.data.category === 'tezke');
       <div class="typology-grid">
         {lehke.map((t) => (
           <a href={`/typologie/${t.slug}`} class="typology-card">
+            <div class="typology-card__icon" aria-hidden="true">
+              <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
+            </div>
             <div class="typology-card__code">{t.data.code}</div>
             <h3>{t.data.title}</h3>
             <div class="typology-card__meta">
@@ -66,6 +69,9 @@ const tezke = typologie.filter((t) => t.data.category === 'tezke');
       <div class="typology-grid">
         {tezke.map((t) => (
           <a href={`/typologie/${t.slug}`} class="typology-card">
+            <div class="typology-card__icon" aria-hidden="true">
+              <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
+            </div>
             <div class="typology-card__code">{t.data.code}</div>
             <h3>{t.data.title}</h3>
             <div class="typology-card__meta">

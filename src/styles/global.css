@@ -195,6 +195,62 @@ p { margin-bottom: var(--s3); max-width: 68ch; }
   color: var(--paper);
 }
 
+/* Hero s ilustrací — subtle watermark vpravo dole */
+.hero--with-illustration .hero__illustration {
+  position: absolute;
+  right: 0; bottom: 0;
+  width: 55%; max-width: 720px;
+  opacity: 0.35;
+  pointer-events: none;
+  z-index: 0;
+  mix-blend-mode: luminosity;
+  mask-image: linear-gradient(to top left, black 20%, transparent 85%);
+  -webkit-mask-image: linear-gradient(to top left, black 20%, transparent 85%);
+}
+.hero--with-illustration .hero__illustration img {
+  width: 100%; height: auto; display: block;
+}
+@media (max-width: 1000px) {
+  .hero--with-illustration .hero__illustration {
+    width: 90%; opacity: 0.18;
+  }
+}
+
+/* Ikona v typology-card */
+.typology-card__icon {
+  width: 100%;
+  aspect-ratio: 20 / 14;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  margin-bottom: var(--s3);
+  overflow: hidden;
+  display: flex; align-items: center; justify-content: center;
+}
+.typology-card__icon img {
+  width: 100%; height: 100%; object-fit: contain;
+  transition: transform 0.25s ease;
+}
+.typology-card:hover .typology-card__icon img {
+  transform: scale(1.05);
+}
+
+/* Placeholder pro pevnost bez foto */
+.fort-placeholder {
+  background: var(--paper);
+  padding: var(--s3) 0 0;
+}
+.fort-placeholder .container {
+  max-width: 960px;
+  padding: 0 var(--s3);
+}
+.fort-placeholder img {
+  width: 100%;
+  max-height: 360px;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  opacity: 0.9;
+}
+
 /* ---------- Tlačítka ---------- */
 .btn {
   display: inline-flex; align-items: center; gap: var(--s1);

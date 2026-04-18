@@ -41,6 +41,14 @@ const stateLabels: Record<string, string> = {
     </div>
   </header>
 
+  {(!d.photos || d.photos.length === 0) && (
+    <div class="fort-placeholder" aria-hidden="true">
+      <div class="container">
+        <img src="/img/placeholder-bunker.svg" alt="" loading="lazy" />
+      </div>
+    </div>
+  )}
+
   <div class="article-body">
     <div class="container content-width">
       <div class="fact-box">

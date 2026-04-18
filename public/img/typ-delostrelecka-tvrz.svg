@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="Dělostřelecká tvrz — schéma">
+  <rect width="200" height="140" fill="#F1ECE0"/>
+  <path d="M 0 115 L 200 115 L 200 140 L 0 140 Z" fill="#5C6B3A" opacity="0.35"/>
+  <!-- terén + podzemní sály -->
+  <g>
+    <!-- podzemní chodby (pod zemí, tečkovaně) -->
+    <g stroke="#7A3B2E" stroke-width="1" stroke-dasharray="2 3" fill="none" opacity="0.6">
+      <path d="M 40 105 L 100 90 L 160 105"/>
+      <rect x="85" y="85" width="30" height="12" rx="2"/>
+    </g>
+    <!-- 3 nadzemní objekty propojené -->
+    <!-- srub 1 (vlevo) -->
+    <g transform="translate(15 65)">
+      <path d="M 0 20 L 8 5 L 42 5 L 50 20 L 50 40 L 0 40 Z" fill="#8B7D62" stroke="#1A1612" stroke-width="1"/>
+      <rect x="5" y="22" width="15" height="5" fill="#1A1612"/>
+      <rect x="30" y="22" width="15" height="5" fill="#1A1612"/>
+    </g>
+    <!-- centrální srub s dělostřelectvem -->
+    <g transform="translate(75 45)">
+      <path d="M 0 30 L 10 10 L 40 10 L 50 30 L 50 60 L 0 60 Z" fill="#8B7D62" stroke="#1A1612" stroke-width="1.5"/>
+      <ellipse cx="25" cy="10" rx="12" ry="4" fill="#5E5646" stroke="#1A1612" stroke-width="1"/>
+      <rect x="22" y="6" width="6" height="6" fill="#1A1612"/>
+      <!-- dělo -->
+      <rect x="20" y="32" width="30" height="6" rx="1" fill="#1A1612"/>
+    </g>
+    <!-- srub 3 (vpravo) -->
+    <g transform="translate(135 65)">
+      <path d="M 0 20 L 8 5 L 42 5 L 50 20 L 50 40 L 0 40 Z" fill="#8B7D62" stroke="#1A1612" stroke-width="1"/>
+      <rect x="5" y="22" width="15" height="5" fill="#1A1612"/>
+      <rect x="30" y="22" width="15" height="5" fill="#1A1612"/>
+    </g>
+  </g>
+  <!-- popis -->
+  <text x="100" y="132" text-anchor="middle" font-family="monospace" font-size="9" fill="#1A1612" opacity="0.6">tvrz — sruby propojené podzemím</text>
+</svg>

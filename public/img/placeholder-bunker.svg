@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Bez fotografie — schéma objektu">
+  <defs>
+    <linearGradient id="phsky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E8DFCC"/>
+      <stop offset="100%" stop-color="#F1ECE0"/>
+    </linearGradient>
+    <pattern id="phgrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1A1612" stroke-width="0.3" opacity="0.1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#phsky)"/>
+  <rect width="800" height="450" fill="url(#phgrid)"/>
+
+  <!-- vzdálené hory -->
+  <path d="M 0 270 L 200 230 L 350 260 L 500 220 L 700 250 L 800 230 L 800 350 L 0 350 Z" fill="#9AA28C" opacity="0.5"/>
+
+  <!-- zem -->
+  <path d="M 0 320 L 800 300 L 800 450 L 0 450 Z" fill="#5C6B3A" opacity="0.4"/>
+
+  <!-- bunker silhouette -->
+  <g transform="translate(280 200)">
+    <ellipse cx="120" cy="135" rx="160" ry="8" fill="#1A1612" opacity="0.15"/>
+    <path d="M 0 50 L 40 15 L 200 15 L 240 50 L 240 130 L 0 130 Z" fill="#8B7D62" stroke="#1A1612" stroke-width="1.5"/>
+    <path d="M 0 50 L 40 15 L 200 15 L 240 50 L 240 70 L 0 70 Z" fill="#7A6E55"/>
+    <rect x="25" y="80" width="40" height="12" rx="1" fill="#1A1612"/>
+    <rect x="100" y="80" width="40" height="12" rx="1" fill="#1A1612"/>
+    <rect x="175" y="80" width="40" height="12" rx="1" fill="#1A1612"/>
+  </g>
+
+  <!-- popisek -->
+  <text x="400" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#1A1612" opacity="0.55">Fotografie zatím nebyla doplněna</text>
+</svg>

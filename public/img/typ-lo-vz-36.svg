@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="LO vz. 36 — schéma">
+  <rect width="200" height="140" fill="#F1ECE0"/>
+  <!-- země -->
+  <path d="M 0 115 L 200 115 L 200 140 L 0 140 Z" fill="#5C6B3A" opacity="0.35"/>
+  <!-- jednoduchý bunkr — čelní střelba -->
+  <g transform="translate(50 40)">
+    <rect x="0" y="0" width="100" height="75" fill="#8B7D62" stroke="#1A1612" stroke-width="1.5"/>
+    <path d="M 0 0 L 100 0 L 100 20 L 0 20 Z" fill="#7A6E55"/>
+    <!-- frontální střílna -->
+    <rect x="35" y="35" width="30" height="10" rx="1" fill="#1A1612"/>
+    <!-- patina -->
+    <path d="M 50 45 Q 52 65 48 75" stroke="#5A4E3A" stroke-width="0.8" fill="none" opacity="0.5"/>
+  </g>
+  <!-- směr palby -->
+  <g opacity="0.5">
+    <line x1="100" y1="85" x2="100" y2="25" stroke="#7A3B2E" stroke-width="1" stroke-dasharray="3 3"/>
+    <polygon points="96,28 100,20 104,28" fill="#7A3B2E"/>
+  </g>
+  <!-- label -->
+  <text x="100" y="132" text-anchor="middle" font-family="monospace" font-size="9" fill="#1A1612" opacity="0.6">vz. 36 — frontální palba</text>
+</svg>
