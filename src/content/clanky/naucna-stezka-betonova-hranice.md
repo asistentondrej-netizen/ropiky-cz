@@ -1,11 +1,10 @@
 ---
 title: "Naučná stezka Betonová hranice — Králíky a Kladský průsmyk"
-date: 2026-04-18
+pubDate: 2026-04-18
 author: "redakce ropiky.cz"
 description: "Nejrozsáhlejší fortifikační naučná stezka v ČR — 40 km linie opevnění mezi Červenou Vodou, Králíkami a Mladkovem. Průvodce zastaveními, doporučené trasy, praktické informace."
 tags: ["výlety", "turistika", "králíky", "betonová hranice", "stezky"]
-hero: "/img/clanky/betonova-hranice-hero.jpg"
-updated: 2026-04-18
+cover: "/img/clanky/betonova-hranice-hero.jpg"
 ---
 
 **Betonová hranice** je v českých reáliích unikátní — je to **největší naučná stezka věnovaná fortifikaci** v ČR a pokrývá 40 km úseku **Kladského klínu**, kde v letech 1935–1938 vznikla nejhustší koncentrace těžkého opevnění v celém Československu. Stezka je otevřená celoročně, lze ji projít pěšky nebo na kole a díky kombinaci muzeí, externě přístupných srubů a výkladových tabulí nabízí **pedagogicky hodnotný zážitek** pro rodiny i odborně zaměřené návštěvníky.

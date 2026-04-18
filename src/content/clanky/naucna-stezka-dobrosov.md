@@ -1,11 +1,10 @@
 ---
 title: "Naučná stezka Dobrošovem — okruh kolem nedostavěné tvrze"
-date: 2026-04-18
+pubDate: 2026-04-18
 author: "redakce ropiky.cz"
 description: "Naučná stezka okolo dělostřelecké tvrze Dobrošov u Náchoda — 12 zastavení, 8 km, doprovází hlavní muzeum tvrze a ukazuje další objekty v okolí. Praktický průvodce s mapou."
 tags: ["výlety", "turistika", "dobrošov", "náchod", "stezky"]
-hero: "/img/clanky/dobrosov-hero.jpg"
-updated: 2026-04-18
+cover: "/img/clanky/dobrosov-hero.jpg"
 ---
 
 **Naučná stezka Dobrošovem** je doprovodný okruh kolem [dělostřelecké tvrze Dobrošov](/pevnosti/delostrelecka-tvrz-dobrosov) v okrese Náchod. Na rozdíl od velké Betonové hranice u Králík je tato stezka **kompaktnější** (8 km, 12 zastavení) a tím je ideální pro **jednodenní výlet z Náchoda nebo Hradce Králové**. Stezka kombinuje hlavní atrakci — tvrz Dobrošov — s dalšími objekty, panoramatickými výhledy a místy bojů z let 1938–1945.

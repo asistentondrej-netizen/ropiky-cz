@@ -1,11 +1,10 @@
 ---
 title: "Naučná stezka Hanička — kolem tvrze dvou epoch"
-date: 2026-04-18
+pubDate: 2026-04-18
 author: "redakce ropiky.cz"
 description: "Kompaktní naučná stezka kolem tvrze Hanička v Orlických horách — 5 km, 8 zastavení. Unikátní téma: souběžná historie čs. opevnění a sovětské přestavby na jaderný kryt."
 tags: ["výlety", "turistika", "hanička", "orlické hory", "stezky"]
-hero: "/img/clanky/hanicka-hero.jpg"
-updated: 2026-04-18
+cover: "/img/clanky/hanicka-hero.jpg"
 ---
 
 **Naučná stezka Hanička** je **nejkratší z velkých fortifikačních stezek v ČR** — ale v obsahu unikátní. Stezka kroutí okolo **tvrze Hanička**, jedné z pěti čs. dělostřeleckých tvrzí, která prošla **dvojí přestavbou**: nejprve jako čs. opevnění 1937–1938, pak v 70. a 80. letech jako **rezervní stanoviště ÚV KSČ** pro případ jaderné války. Tato **dvoubarevná historie** — fortifikační a studenoválečná — dělá ze stezky jedinečný zážitek.

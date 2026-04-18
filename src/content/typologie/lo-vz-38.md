@@ -1,5 +1,5 @@
 ---
-title: "Lehké opevnění vzor 38 — „Turecká věž""
+title: 'Lehké opevnění vzor 38 — „Turecká věž"'
 code: "LO vz. 38"
 category: "lehke"
 description: "Experimentální kruhový objekt s otočnou pancéřovou věží. Nejvýraznější prototyp ŘOP — v provozu zůstaly dvě konstrukce před Mnichovem. Kvůli válce nebyl typ sériově vyráběn."

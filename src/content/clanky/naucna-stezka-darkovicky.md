@@ -1,11 +1,10 @@
 ---
 title: "Naučná stezka Darkovičky — Hlučínsko-Petřkovická linie"
-date: 2026-04-18
+pubDate: 2026-04-18
 author: "redakce ropiky.cz"
 description: "Naučná stezka po Muzeu čs. opevnění Hlučín-Darkovičky — 4 km, 10 zastavení, linie 5 pěchotních srubů v originálním stavu. Ideální rodinný výlet z Ostravy."
 tags: ["výlety", "turistika", "hlučín", "darkovičky", "ostrava"]
-hero: "/img/clanky/darkovicky-hero.jpg"
-updated: 2026-04-18
+cover: "/img/clanky/darkovicky-hero.jpg"
 ---
 
 **Naučná stezka Darkovičky** je **nejnavštěvovanější fortifikační stezka na Moravě** a zároveň jedna z nejrodinnějších. Provádí návštěvníka po kompletní **linii pěti pěchotních srubů** MO-S 19 až MO-S 23, kterou udržuje **Slezské zemské muzeum**. Stezka je vhodná pro všechny věkové kategorie, dobře dostupná z Ostravy a kombinuje **venkovní prohlídku** s **interiérovými expozicemi** tří otevřených objektů.

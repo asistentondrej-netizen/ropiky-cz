@@ -1,11 +1,10 @@
 ---
 title: "Top 10 fortifikačních výletů v Česku — průvodce pro rok 2026"
-date: 2026-04-18
+pubDate: 2026-04-18
 author: "redakce ropiky.cz"
 description: "Deset nejlepších fortifikačních výletů v Česku — od monumentálních tvrzí Bouda, Hanička a Dobrošov po lehké opevnění podél Dyje. Průvodce zahrnuje otevírací dobu, vstupné, dostupnost a doporučený program."
 tags: ["výlety", "turistika", "muzea", "tvrze", "řopíky"]
-hero: "/img/clanky/top-10-hero-bouda.jpg"
-updated: 2026-04-18
+cover: "/img/clanky/top-10-hero-bouda.jpg"
 ---
 
 Československé opevnění z let 1935–1938 je dnes jednou z **nejunikátnějších památkových kategorií** v České republice. V žádné jiné zemi střední Evropy nenajdete tolik veřejně přístupných tvrzí, muzeí a naučných stezek v originálních objektech. Pokud máte rádi historii, architekturu nebo prostě jen **dobrý výlet s vyhlídkou**, tento článek vám přinese seznam deseti nejlepších fortifikačních cílů — pečlivě vybraných podle kvality zachování, pedagogické hodnoty a cestovní zkušenosti.
