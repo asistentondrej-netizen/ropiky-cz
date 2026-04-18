@@ -7,9 +7,10 @@ export interface Props {
   breadcrumb?: { label: string; href: string }[];
   updated?: Date;
   sources?: string[];
+  cover?: string;
 }
 
-const { title, description, breadcrumb = [], updated, sources } = Astro.props;
+const { title, description, breadcrumb = [], updated, sources, cover } = Astro.props;
 ---
 
 <BaseLayout title={title} description={description}>
@@ -30,6 +31,12 @@ const { title, description, breadcrumb = [], updated, sources } = Astro.props;
         <p class="article-hero__lead">{description}</p>
       </div>
     </header>
+
+    {cover && (
+      <figure class="article-cover">
+        <img src={cover} alt={title} loading="eager" />
+      </figure>
+    )}
 
     <div class="article-body">
       <div class="container content-width">

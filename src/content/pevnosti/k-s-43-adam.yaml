@@ -1,4 +1,4 @@
-title: K-S 43 „Adam" (vchodový objekt)
+title: K-S 43 „Veverka" — dělostřelecký srub tvrze Adam
 code: K-S 43
 type: delostrelecka-tvrz
 line: Králíky — tvrz Adam
@@ -8,46 +8,49 @@ location:
   lon: 16.8234
   address: Mladkov, tvrz Adam
 built: '1938'
-state: muzeum
-description: Vchodový objekt tvrze Adam — jedné z pěti největších tvrzí ŘOP. Tvrz Adam je souputníkem tvrze Bouda (vzdálenost
-  3 km).
-history: 'Tvrz Adam začala být budována v roce 1936 — plánováno 6 bojových objektů, 2 vchodové, 2 dělostřelecké. V roce 1938
-  byl dokončen jen jeden vchodový objekt K-S 43 a začátek podzemí (cca 400 m).
+state: zavreny
+description: Dělostřelecký srub K-S 43 „Veverka" — jeden z bojových objektů tvrze Adam. Plánován pro houfnice ráže 10 cm
+  pro palbu do předpolí směrem k tvrzi Hanička. Vchodový objekt tvrze nese označení K-S 43a „Na sekyře".
+history: 'Dělostřelecký srub K-S 43 „Veverka" byl betonován v letech 1937–1938 jako součást tvrze Adam. Jeho hlavním úkolem
+  byla dálková palba houfnicemi vz. 38 ráže 10 cm do předpolí králického úseku a do mezer mezi sousedními tvrzemi Hanička
+  a Bouda.
 
 
-  Po Mnichovu stavba zastavena. Wehrmacht používal existující kazematy jako skladiště. Od roku 1993 rekonstrukce klubovými
-  nadšenci. Dnes veřejnost může vidět vchodový objekt a krátký úsek podzemí.
+  Do září 1938 byl objekt stavebně dokončen, pancéřování osazeno z větší části, ale vlastní výzbroj (otočná houfnicová věž)
+  instalována nebyla. Po Mnichovu objekt opuštěn. Wehrmacht jej využíval jako sklad munice.
+
+
+  Po válce převzala armáda — podzemní část tvrze Adam (včetně K-S 43) je dodnes využívána Armádou ČR a není veřejnosti přístupná.
 
   '
-visit: 'Vchodový objekt nedokončené tvrze Adam — zajímavý kontext „co kdyby se stavba dokončila".
+visit: 'Objekt je v aktivním vojenském užívání a **veřejnosti nepřístupný**. Lze pozorovat pouze zvenku z modré turistické
+  značky vedoucí přes Adamovu horu.
 
 
-  **Otevírací doba:** květen–říjen, víkendy 10:00–17:00. V hlavní sezóně denně mimo pondělí. Aktuální info na adam-pevnost.cz.
+  **Přístup:** pouze povrchový pohled z veřejných cest, samotný objekt v oploceném vojenském areálu.
 
 
-  **Vstupné:** cca 100 Kč dospělí, 60 Kč děti.
+  **Co uvidíte:** zvenčí pancéřové zvony a hlaveň otočné věže (přidanou v 70. letech jako experiment AČR). Z dálky velmi dobře
+  fotogenický.
 
 
-  **Co uvidíte:** vchodový objekt s padacím mostem, pancéřovými dveřmi, skladovou halou, vstup do nedokončeného podzemí (krátký
-  úsek 150 m). Technická výstava o stavbě tvrzí.
+  **Doporučená délka:** 30 minut (povrchový průchod).
 
 
-  **Doporučená délka:** 60 minut.
+  **Dostupnost:** Z Mladkova po modré značce na Adamovu horu (3 km, 1 hod). Autem do Mladkova, dál pěšky.
 
 
-  **Dostupnost:** Autem z Mladkova (1 km) k parkovišti u tvrze. Vlakem do Králík + bus do Mladkova.
-
-
-  **Doporučeno kombinovat s:** tvrzí Bouda (3 km — kompletně dokončená tvrz, kontrast), tvrzí Hůrka (15 km), K-S 31, K-S 33,
-  K-S 36 (okolní sruby). Ideální víkendový okruh „Tvrze Králicka".
+  **Doporučeno kombinovat s:** tvrzí Bouda (3 km — kompletně dokončená a otevřená tvrz), tvrzí Hanička (10 km), K-S 31, K-S
+  33, K-S 36 (okolní pěchotní sruby). Pro vstup do interiéru tvrze ŘOP volte raději Boudu nebo Haničku.
 
   '
 sources:
-- adam-pevnost.cz
-- KVH Mladkov
+- 'pevnost.web2001.cz — K-S 43 Veverka'
+- 'Stehlík E.: Lexikon tvrzí čs. opevnění (FORTprint, 2001)'
+- ropiky.net — K-S 43
 photos:
 - url: /img/forts/k-s-43-adam-.jpg
-  alt: K-S 43 „Adam" — Vchodový objekt nedokončené tvrze Adam v Mladkově
+  alt: K-S 43 „Veverka" — dělostřelecký srub tvrze Adam s otočnou věží AČR
   author: Wikimedia Commons
   license: CC BY-SA 3.0
   source: https://commons.wikimedia.org/wiki/File:K-S_43_Adam.jpg

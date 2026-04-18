@@ -9,6 +9,11 @@ cover: "/img/clanky/betonova-hranice-hero.jpg"
 
 **Betonová hranice** je v českých reáliích unikátní — je to **největší naučná stezka věnovaná fortifikaci** v ČR a pokrývá 40 km úseku **Kladského klínu**, kde v letech 1935–1938 vznikla nejhustší koncentrace těžkého opevnění v celém Československu. Stezka je otevřená celoročně, lze ji projít pěšky nebo na kole a díky kombinaci muzeí, externě přístupných srubů a výkladových tabulí nabízí **pedagogicky hodnotný zážitek** pro rodiny i odborně zaměřené návštěvníky.
 
+<div class="route-map">
+  <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.5500,50.0000,16.8800,50.2300&amp;layer=mapnik&amp;marker=50.1292,16.7539" title="Mapa stezky Betonová hranice — Červená Voda → Králíky → Mladkov"></iframe>
+  <div class="route-map__caption">Trasa 40 km — severní konec Červená Voda, přes tvrz Bouda, Králíky (K-S 14 U cihelny), po Mladkov. Červená turistická značka kopíruje linii těžkého opevnění. <a href="https://mapy.cz/turisticka?x=16.7539&amp;y=50.1292&amp;z=11" target="_blank" rel="noopener">Otevřít na Mapy.cz ↗</a></div>
+</div>
+
 ## Základní informace
 
 | Parametr | Hodnota |
@@ -33,13 +38,29 @@ Severní konec stezky začíná v **Červené Vodě**, zastávka vlaku Pardubice
 
 Po 8 km jižním směrem dosáhnete **tvrze Bouda** — **hlavní atrakce celé stezky**. Komplex pěti podzemně propojených srubů, jediná plně průchozí dělostřelecká tvrz v ČR. Rezervace prohlídky nutná předem (přes [tvrzbouda.cz](https://tvrzbouda.cz)).
 
-→ Detail: [Tvrz Bouda](/pevnosti/tvrz-bouda)
+<figure>
+  <img src="/img/forts/tvrz-bouda-objekt-k-s-22a-krok.jpg" alt="Tvrz Bouda — objekt K-S 22a „Krok" s pancéřovým zvonem" />
+  <figcaption>Objekt K-S 22a „Krok" — jeden z pěti srubů tvrze Bouda. Foto: Wikimedia Commons (CC BY-SA)</figcaption>
+</figure>
+
+→ Detail: [Tvrz Bouda](/katalog/tvrz-bouda)
 
 ### Pěchotní srub K-S 14 „U cihelny"
 
 U Králík (centrální bod stezky) leží **K-S 14 U cihelny** — proslulý návratem pancéřového zvonu z Atlantické zdi. Muzeum s vlastním provozem, otevřené o víkendech. Interiérová prohlídka s výkladem.
 
-→ Detail: [K-S 14 U cihelny](/pevnosti/k-s-14-u-cihelny)
+<div class="photo-grid">
+  <figure>
+    <img src="/img/forts/k-s-14-u-cihelny-1.jpg" alt="Pěchotní srub K-S 14 U cihelny — pohled na objekt s pancéřovým zvonem" />
+    <figcaption>K-S 14 U cihelny — exteriér s vráceným pancéřovým zvonem</figcaption>
+  </figure>
+  <figure>
+    <img src="/img/forts/k-s-14-u-cihelny-5.jpg" alt="K-S 14 — druhý pohled, detail vchodu a maskovacího zdiva" />
+    <figcaption>Detail vchodu a maskování objektu</figcaption>
+  </figure>
+</div>
+
+→ Detail: [K-S 14 U cihelny](/katalog/k-s-14-u-cihelny)
 
 ### Muzeum pevnosti Králíky
 
@@ -130,7 +151,7 @@ Po Mnichovské dohodě byl Kladský klín **v říjnu 1938 zabrán Německem** s
 ## Související obsah
 
 - [Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu) — Betonová hranice je v celkovém TOP 10
-- [Tvrz Bouda](/pevnosti/tvrz-bouda) — hlavní cíl stezky
+- [Tvrz Bouda](/katalog/tvrz-bouda) — hlavní cíl stezky
 - [Naučná stezka Dobrošov](/clanky/naucna-stezka-dobrosov) — sousední stezka v Orlických horách
 
 **Máte konkrétní dotaz ke stezce? Napište nám — redakce stezku fyzicky navštěvuje a aktualizuje informace minimálně jednou ročně.**

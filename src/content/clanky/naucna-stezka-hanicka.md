@@ -9,6 +9,16 @@ cover: "/img/clanky/hanicka-hero.jpg"
 
 **Naučná stezka Hanička** je **nejkratší z velkých fortifikačních stezek v ČR** — ale v obsahu unikátní. Stezka kroutí okolo **tvrze Hanička**, jedné z pěti čs. dělostřeleckých tvrzí, která prošla **dvojí přestavbou**: nejprve jako čs. opevnění 1937–1938, pak v 70. a 80. letech jako **rezervní stanoviště ÚV KSČ** pro případ jaderné války. Tato **dvoubarevná historie** — fortifikační a studenoválečná — dělá ze stezky jedinečný zážitek.
 
+<div class="route-map">
+  <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=16.4400,50.1700,16.5200,50.2200&amp;layer=mapnik&amp;marker=50.1937,16.4795" title="Mapa naučné stezky Hanička"></iframe>
+  <div class="route-map__caption">Okruh 5 km, 8 zastavení — výchozí bod návštěvnické centrum Hanička → srub H-S 5 „Aurora" → H-S 6 „Boda" → vchodový srub → vyhlídka Orlík → návrat. Modrá turistická značka. <a href="https://mapy.cz/turisticka?x=16.4795&amp;y=50.1937&amp;z=14" target="_blank" rel="noopener">Otevřít na Mapy.cz ↗</a></div>
+</div>
+
+<figure>
+  <img src="/img/forts/orlicke-zahori--cerna-voda-u-orlickeho-zahori--r-s.jpg" alt="Pěchotní srub R-S v Orlickém Záhoří — typický objekt linie u Haničky" />
+  <figcaption>Lehké opevnění v Orlických horách u Haničky — typický objekt linie. Foto: Wikimedia Commons</figcaption>
+</figure>
+
 ## Základní údaje
 
 | Parametr | Hodnota |
@@ -53,7 +63,7 @@ Kámen připomínající oběti bojů při mobilizaci. U Haničky došlo v zář
 
 **Klíčové místo stezky.** Zde se rozděluje cesta na **muzejní prohlídku** (90 minut, s průvodcem) a externí pokračování stezky. Vchodový srub byl v 70. letech rozšířen o **jaderně-odolná ocelová vrata**, která jsou dnes na místě — velkolepá ukázka sovětské konstrukce.
 
-→ Detail: [Tvrz Hanička](/pevnosti/tvrz-hanicka)
+→ Detail: [Tvrz Hanička](/katalog/tvrz-hanicka)
 
 ### Zastavení 6: Sovětská ventilační věž
 
@@ -121,7 +131,7 @@ Hanička je **centrálně položená** v Orlických horách, takže se dobře ko
 
 ## Odkazy
 
-- [Tvrz Hanička](/pevnosti/tvrz-hanicka) — podrobné informace o objektu
+- [Tvrz Hanička](/katalog/tvrz-hanicka) — podrobné informace o objektu
 - [Naučná stezka Dobrošov](/clanky/naucna-stezka-dobrosov) — sousední stezka
 - [Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu)
 

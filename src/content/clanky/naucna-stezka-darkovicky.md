@@ -9,6 +9,26 @@ cover: "/img/clanky/darkovicky-hero.jpg"
 
 **Naučná stezka Darkovičky** je **nejnavštěvovanější fortifikační stezka na Moravě** a zároveň jedna z nejrodinnějších. Provádí návštěvníka po kompletní **linii pěti pěchotních srubů** MO-S 19 až MO-S 23, kterou udržuje **Slezské zemské muzeum**. Stezka je vhodná pro všechny věkové kategorie, dobře dostupná z Ostravy a kombinuje **venkovní prohlídku** s **interiérovými expozicemi** tří otevřených objektů.
 
+<div class="route-map">
+  <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=18.1100,49.8950,18.1650,49.9250&amp;layer=mapnik&amp;marker=49.9091,18.1427" title="Mapa naučné stezky Darkovičky"></iframe>
+  <div class="route-map__caption">Okruh 4 km — pět srubů MO-S 19 Alej → MO-S 20 Orel → MO-S 21 Ostrý → MO-S 22 → MO-S 23. Výchozí bod u Muzea čs. opevnění Hlučín-Darkovičky. <a href="https://mapy.cz/turisticka?x=18.1427&amp;y=49.9091&amp;z=15" target="_blank" rel="noopener">Otevřít na Mapy.cz ↗</a></div>
+</div>
+
+<div class="photo-grid">
+  <figure>
+    <img src="/img/forts/hlu-n-darkovi-ky-mo-s-19-rok-2001-01-.jpg" alt="MO-S 19 Alej — pěchotní srub s rekonstruovaným interiérem" />
+    <figcaption>MO-S 19 Alej — nejrekonstruovanější srub v ČR (Wikimedia Commons)</figcaption>
+  </figure>
+  <figure>
+    <img src="/img/forts/darkovice-mo-s-20-2015-05-01-03-.jpg" alt="MO-S 20 Orel — hlavní palebný objekt linie Darkovičky" />
+    <figcaption>MO-S 20 Orel — s protitankovým kanónem vz. 36 v lafetě</figcaption>
+  </figure>
+  <figure>
+    <img src="/img/forts/darkovice--mo-s-23--2015-05-01--01-.jpg" alt="MO-S 23 — poslední objekt linie Darkovičky" />
+    <figcaption>MO-S 23 — externí objekt v polní krajině</figcaption>
+  </figure>
+</div>
+
 ## Základní údaje
 
 | Parametr | Hodnota |
@@ -43,7 +63,7 @@ Hned za vstupem **pole ocelových ježků a betonových zátarasů** — rekonst
 
 **Nejrekonstruovanější srub v ČR.** Vstupujete do plně vybaveného interiéru — lůžka, stoly, kulometné lafety, pancéřový zvon, munice v regálech. **Prohlídka trvá 30 minut** s průvodcem (plánovanou v každou celou hodinu).
 
-→ Detail: [MO-S 19 Alej](/pevnosti/mo-s-19-alej)
+→ Detail: [MO-S 19 Alej](/katalog/mo-s-19-alej)
 
 ### Zastavení 4: Polní opevnění mezi objekty
 
@@ -53,13 +73,13 @@ Mezi MO-S 19 a MO-S 20 je **rekonstruovaný úsek polního opevnění** — zák
 
 Druhé otevřené muzeum. Orel byl **hlavní palebný objekt** v linii — zde si můžete prohlédnout **protitankový kanón vz. 36 v originální lafetě** (replika). Prohlídka 25 min.
 
-→ Detail: [MO-S 20 Orel](/pevnosti/mo-s-20-orel)
+→ Detail: [MO-S 20 Orel](/katalog/mo-s-20-orel)
 
 ### Zastavení 6: MO-S 21 „Ostrý" (interiér otevřen od 2023)
 
 **Nejnovější přírůstek** muzejní expozice. Otevřeno od jara 2023 po rozsáhlé rekonstrukci. Zajímavost: Ostrý má **jiný typ pancéřového zvonu** než předchozí dva objekty (vyšší stupeň odolnosti) — tabule vysvětluje rozdíl.
 
-→ Detail: [MO-S 21 Ostrý](/pevnosti/mo-s-21-ostry)
+→ Detail: [MO-S 21 Ostrý](/katalog/mo-s-21-ostry)
 
 ### Zastavení 7: MO-S 22 „Hotovost" (externě)
 
@@ -128,7 +148,7 @@ Vhodné **od 6 let**, optimální od 8–10 let (kdy dítě rozumí historickém
 
 ## Související obsah
 
-- [MO-S 19 Alej](/pevnosti/mo-s-19-alej), [MO-S 20 Orel](/pevnosti/mo-s-20-orel), [MO-S 21 Ostrý](/pevnosti/mo-s-21-ostry)
+- [MO-S 19 Alej](/katalog/mo-s-19-alej), [MO-S 20 Orel](/katalog/mo-s-20-orel), [MO-S 21 Ostrý](/katalog/mo-s-21-ostry)
 - [Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu) — Darkovičky jsou v TOP 10 (č. 4)
 - [Typologie: pěchotní srub](/typologie/pechotni-srub) — pro teoretické pozadí
 

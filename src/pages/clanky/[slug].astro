@@ -23,6 +23,7 @@ const { Content } = await entry.render();
     { label: entry.data.title, href: `/clanky/${entry.slug}` },
   ]}
   updated={entry.data.pubDate}
+  cover={entry.data.cover}
 >
   <Content />
 </ArticleLayout>
