@@ -184,8 +184,85 @@ Z přibližně **9 000 betonovaných objektů LO vz. 37** bylo nejvíce postaven
 - **Jižní Morava a Slovensko** (Znojemsko, Bratislavsko, Podunají) — obrana proti Rakousku a Maďarsku, cca **2 000 objektů**
 - **Vnitrozemí** (Pražská a Brněnská čára, vnitřní obrana) — cca **1 300 objektů**
 
+## Systém značení objektů
+
+Každý řopík má **jedinečný kód**, který se v dochovaných záznamech ŘOP i v dnešní fortifikační literatuře používá dodnes. Systém byl dvouúrovňový:
+
+- **Písmeno úseku** — zkratka velitelství (například **ME** Městec Králové, **HE** Hradec Králové, **MO** Moravská Ostrava, **OP** Opava, **K** Králíky)
+- **Číslo úseku** (1–14 podle čísla pluku) a **pořadové číslo objektu** (od 1 stoupá směrem k severu nebo k hranici)
+
+Značení se malovalo **černou barvou přímo na týlovou stěnu** objektu, zpravidla nad vstupem. U některých objektů je značka dodnes čitelná pod několika vrstvami nátěrů. Nadto měl každý objekt **štítek s ražbou** (kovová deska s údaji: číslo objektu, rok výstavby, stavební firma, dodavatel pancéřových prvků).
+
+V systému **Ředitelství opevňovacích prací** se pro lehké opevnění nadto používal **evidenční list** s podrobnou dokumentací — palebným plánem, technickým stavem, stavem výzbroje, jménem velitele posádky. Mnohé tyto listy zůstaly po válce v archivech Vojenského historického ústavu a dnes jsou postupně digitalizovány.
+
+## Zimní a noční provoz
+
+Řopíky byly navrženy pro **celoroční provoz** i v horských oblastech Krušných hor, Krkonoš či Jeseníků, kde teploty v zimě klesají pod −20 °C. Konstrukce počítala s několika opatřeními:
+
+- **Dvojité vstupní dveře** s malým „uzávěrem" (zádveří) pro tepelnou izolaci
+- **Malá kamna na dřevo nebo uhlí** v chodbě s odvětráním komínkem
+- **Zdvojené okenice střílen** a uzavírání pozorovacích průzorů
+- **Zásoby mrazuvzdorných potravin** (konzervy, sušené maso, čaj)
+- **Pitná voda v termoskách** nebo ručních nádobách
+
+Problémem zůstávala **vlhkost** — v neobydlených řopících kondenzovala pára a beton trvale promrzal, což vedlo k drobení vnitřních omítek. V obývaných objektech naopak kondenzace dýchání způsobovala **kapky vody ze stropu** a plísně na stěnách. Ventilace posádce při střelbě nestačila odvětrat — po několikaminutové palbě z TK vz. 37 byla viditelnost uvnitř **omezená prachovými plyny** i při plném chodu ventilátoru.
+
+Noční provoz vyžadoval **zataženou závěs přes vnitřní světlo** a opatrné zacházení se signálkami — vyzářené světlo ze střílny mohlo objekt prozradit. Řopíky proto měly v pozorovacím průzoru instalován **zrcadlový periskop** s tlumeným pohledem.
+
+## Řopíky v září 1938
+
+Během **Mnichovské krize** (21.–30. září 1938) byly v kritických úsecích **téměř všechny dokončené řopíky obsazeny posádkami** a uvedeny do plné bojové pohotovosti. Celkem se jednalo o cca **6 000 objektů z 9 000 postavených** (zbývající buď stavebně nedokončené, nebo v záložních liniích). V severních Čechách a severní Moravě probíhaly **střety s Henleinovou Sudetoněmeckou stranou a SdFK** (Sudetendeutsches Freikorps) — ozbrojenými oddíly, které se po Hitlerově eskalaci pokoušely zasahovat v pohraničí.
+
+K nejznámějším incidentům v řopících patří:
+
+- **Habartov, Krásné Břízy a Moldava** (13.–15. září 1938) — přestřelky posádek řopíků proti útokům SdFK; Fritz Köllner jako první příslušník SdFK padlý v boji
+- **Bílý Potok a Rumburk** (21.–23. září) — obsazení několika řopíků proti přechodu ozbrojených skupin přes hranici
+- **Petržalka** (29. září) — poslední hodiny před odevzdáním; čs. posádky čekaly v plné bojové pohotovosti, posádka některých řopíků linie odmítala uvěřit rozkazu k odchodu
+
+**Žádný řopík nebyl v září 1938 v regulérním boji se Wehrmachtem.** Po Mnichovské dohodě (29.–30. září 1938) musela armáda linii opustit do 10. října 1938 a Němci obsadili **většinu objektů beze zbraní a bez posádky**. Čs. vláda nařídila, aby pancéřové prvky a vnitřní výzbroj **zůstaly na místě** — jako součást „odevzdávaného majetku" dle mezinárodní dohody. Tuto výhodu Němci využili k systematickému rozebrání linie v následujících letech.
+
+## Osudy po Mnichovu
+
+Po okupaci pohraničí **Němci prováděli systematické testy odolnosti** — stříleli z různých ráží na dochované objekty, aby poznali slabá místa vlastní připravované **Atlantické linie**. Největší zkušební střelnici provozovali v oblasti **Bořeňovicko (Králíky)**, **Vysokov (Náchod)** a **Petržalka (Bratislava)**. Testy zahrnovaly:
+
+- Ráže **10,5 cm až 30,5 cm** dělostřelectva
+- **Lehké i střední tanky** (Pz I, Pz III) v přímé palbě
+- **Letecké bomby 250 a 500 kg**
+- **Kumulativní nálože** kladené přímo na stěny
+
+Výsledky byly pro Němce **překvapivě příznivé pro čs. stavitele** — objekty stupně III. odolaly i přímým zásahům 21cm houfnice bez prolomení stěny. **Boční palba** byla pro Němce tak nová koncepce, že Atlantická linie ji později převzala téměř doslovně. Pancéřové zvony a ocelolitinové části byly demontovány a **znovu použity na západní frontě** (zejména v Normandii a v Holandsku).
+
+## Po roce 1945 — druhá šance
+
+Po skončení druhé světové války **československá armáda krátce zvažovala** obnovu systému lehkého opevnění — tentokrát proti potenciální agresi ze západu. V letech **1947–1951** proběhly omezené pokusy o repasování vybraných řopíků na **Šumavě**, v **Podkrušnohoří** a na **Slovensku podél Dunaje**. V některých objektech se dokonce opět instalovaly lafety a zbraně, a posádky pohraniční stráže je přebíraly k drobnému nočnímu hlídání.
+
+Po **roce 1955** (ustanovení Varšavské smlouvy) ztratila koncepce lehkého opevnění smysl — předpokládala se útočná strategie a objekty byly opuštěny definitivně. Část se krátce využívala jako **sklady civilní obrany** pro bojové otravné látky, protichemické masky a lékárničky — v 60.–70. letech se takto využívalo cca **800 řopíků** (zejména na severní Moravě a v okolí Prahy).
+
+## Řopíky v populární kultuře
+
+Lidové označení **„řopík"** (ŘOP → ŘOPík) se stalo **nedílnou součástí českého jazyka** i po rozpadu armádních funkcí. V 70.–80. letech se řopíky objevovaly v **romantických knihách Františka Cinkera** (*„Kameny pevnosti"*) i v dobrodružných vyprávěních pro mládež. V 90. letech vyšla celá řada **monografií s podrobnými plány a dokumentací** — nejvýznamnější je desetidílná řada *„Československé opevnění 1935–1938"* vydaná nakladatelstvím FORTprint (autoři L. Aron, J. Lakosil, T. Svoboda).
+
+Dnes jsou řopíky **fenoménem fortifikační turistiky** — v pohraničních regionech (Orlické hory, Krkonoše, Králicko) je tzv. **„bunkrový turismus"** jedním z hlavních důvodů příjezdů návštěvníků. Existují specializované **naučné stezky** (Adrspasko-Teplické skály, U Pěti Lip, Petržalka-Bratislava, Hlučín) a **geokešky** navázané na jednotlivé objekty — v Čechách je evidováno přes **1 200 geocache** přímo v řopících nebo u nich.
+
 ## Dnešní stav
 
 Z původních cca 9 000 objektů se dodnes dochoval **značný počet** — odhady se pohybují v řádu **5 000–6 000 relativně zachovalých řopíků**. Mnohé byly zničeny během okupace (zejména na území Protektorátu Čechy a Morava, kde Němci prováděli zkušební střelby pro poznání odolnosti linie), demolovány po válce při zemědělské rekultivaci, využívány k militárním účelům v 50.–80. letech nebo adaptovány na civilní objekty — **sklady nářadí, sklípky, dokonce i obytné stavby** (tzv. „bunkr-domky" v pohraničí).
 
 Dnes jsou řopíky předmětem **systematické dokumentace** amatérských spolků (Klub vojenské historie, Zachráňme petržalské bunkre, Muzeum čs. opevnění Darkovice) i odborných institucí (Vojenský historický ústav, Národní památkový ústav). Řada z nich je **rekonstruována do původního stavu** a zpřístupněna veřejnosti jako expozice — především v oblastech Králíky, Bouda, Hanička, Hlučín-Darkovičky, Náchod, Petržalka a Šatov.
+
+### Nejvýznamnější veřejně přístupné expozice
+
+| Lokalita | Objekty | Provozovatel | Otevřeno |
+|---|---|---|---|
+| **Šatov (Znojemsko)** | MJ-S 3 „Zahrada", MJ-S 4 (oboustranný IV. stupeň) | Muzeum Šatov | duben–říjen |
+| **Petržalka (Bratislava)** | Deset objektů B-S na Dunaji | Zachráňme petržalské bunkre | celoroční víkendy |
+| **Hlučín-Darkovičky** | 8 řopíků kolem areálu | Slezské zemské muzeum | duben–listopad |
+| **Králíky** | 12 objektů v okolí K-S 14 a K-S 8 | Vojensko-historické muzeum Králíky | celoroční |
+| **Rokytnice v Orl. horách** | Naučná stezka R-S 54, R-S 66, R-S 85 | Klub vojenské historie | volně přístupné |
+| **Hronov–Police n. M.** | T-S 19 „Turov" + naučná stezka | Muzeum Hronov | květen–září |
+| **Cínovec–Moldava** | CE-S 3 „Oldřich" | Spolek SdFK 1938 | sezónní akce |
+| **Orlí hnízdo** (u Děčína) | Pět řopíků CE na hřebeni | Klub přátel čs. opevnění | volně přístupné |
+
+Počet **rekonstruovaných a plně vybavených objektů** v ČR přesahuje **70** a stále roste — každým rokem přibývá v průměru **3–5 nových expozic** díky aktivitě lokálních spolků.
+
+> **Zajímavost:** V obci **Chlum u Hradce Králové** se řopík stal v 60. letech oficiální autobusovou zastávkou — dveře vstupu byly odstraněny a prostor uvnitř sloužil jako přístřešek pro cestující. Zastávka takto funguje dodnes. Podobné případy jsou zdokumentovány v dalších 12 obcích na severní Moravě a v Čechách.
