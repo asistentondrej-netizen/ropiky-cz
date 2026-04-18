@@ -6,25 +6,30 @@ region: Pardubický kraj
 location:
   lat: 50.0711
   lon: 16.7683
-  address: Králíky
-built: '1938'
+  address: Lichkov, 561 69 (přístup z Králík směr Lichkov)
+built: '1936–1938'
 state: muzeum
-description: Plně dokončená tvrz u Králík, po válce využívaná jako muniční sklad. Dnes částečně přístupná expozice s podzemními prostorami.
-history: 'Tvrz Hůrka je jednou z pěti plně dokončených tvrzí čs. opevnění. Stavěna byla v letech 1936–1938 a patří k nejzachovalejším — podzemí zahrnuje přibližně 1 750 metrů chodeb.
+description: Plně dokončená dělostřelecká tvrz na vrchu Hůrka u Králík — pět bojových objektů a jeden vchodový propojené 1 130 m podzemních chodeb v hloubce 25 m. Po válce desítky let utajená jako muniční sklad SSM-3, dnes část Králického pevnostního areálu.
+history: |
+  Tvrz Hůrka byla projektována jako kotvící bod jižního křídla králického úseku v páteřní linii Orlické hory–Jeseníky. Projekt zpracovala III. ekspozitura ŘOP Brno, výstavba byla zadána pražské firmě Konstruktiva (Ing. Stanislav Bechyně) a Skorkovský-Podzimek, zahájena byla v září 1936.
 
+  Tvrz tvoří vchodový objekt K-S 11 a pět bojových srubů — K-S 12 (vstupní palba), K-S 12a (boční palba severovýchodním směrem), K-S 13 (dělostřelecká pozorovatelna a houfnice), K-S 14 (minometný srub) a K-S 15 (boční palba). Podzemí v délce 1 130 m bylo raženo ve skále v hloubce přibližně 25 m a obsahuje muniční sály M1 a M2, strojovnu se třemi diesely 6L150 ČKD, ubikace pro 426 mužů garnison, štábní prostory, úpravnu vody a filtroventilační stanici.
 
-  Po Mnichovu sloužila Wehrmachtu jako muniční sklad. Po válce ji převzala čs. armáda a celá desetiletí ji používala jako tajný sklad munice.
+  Stavební část byla téměř kompletní k září 1938 (odolnost III, stěny 275 cm, stropy 350 cm železobetonu). Pancéřová zvony a kopule byly osazeny ve většině objektů, dělostřelecká věž v K-S 13 však nebyla namontována. K Mnichovu měla tvrz osazeno cca 60 % výzbroje.
 
+  Po obsazení v říjnu 1938 byla převzata Wehrmachtem, který tvrz nepoužíval pro bojové účely — sloužila jako sklad. Po válce ji převzala československá armáda a od počátku 50. let do roku 2008 v ní fungoval přísně utajený sklad munice SSM-3 (Stálé sklady munice) se stovkami tun konvenční munice. Po předání civilní správě byla v letech 2009–2014 postupně zpřístupňována veřejnosti.
 
-  Po roce 2000 byla zpřístupněna veřejnosti a dnes je součástí Králického pevnostního okruhu.
+  Dnes ji spravuje Vojenské muzeum Králíky a je součástí Králického pevnostního areálu společně s Cíhelnou a Haničkou. V roce 2002 byla prohlášena národní kulturní památkou.
+visit: |
+  Muzeum je otevřeno sezónně od dubna do října, prohlídky s průvodcem v pravidelných časech. Aktuální provozní doba a vstupné na kralickypevnostniareal.cz / vmkraliky.cz.
 
-  '
-visit: 'Muzeum je otevřeno sezónně od dubna do října. Prohlídka s průvodcem, doba cca 90 minut. Aktuální informace na kralickypevnostniareal.cz.
+  Doporučená délka prohlídky: 90 minut. Trasa zahrnuje vchodový objekt, hlavní podzemní galerii (1 130 m), strojovnu, muniční sál a jeden bojový srub. V podzemí je celoročně 7–9 °C, vhodné teplé oblečení a pevná obuv.
 
-  '
+  Tvrz leží 4 km jihozápadně od Králík, přístup z parkoviště u Lichkova (značená cesta z náměstí v Králíkách směr Bukovohorská hřebenovka). Veřejnou dopravou: vlak do Lichkova, odtud cca 1,5 km pěšky. Bezbariérová přístupnost není zajištěna.
 sources:
-- Králický pevnostní areál
-- Wikipedia — Hůrka (dělostřelecká tvrz)
+- vmkraliky.cz / kralickypevnostniareal.cz
+- 'Stehlík E.: Lexikon tvrzí čs. opevnění (FORTprint, 2001)'
+- 'Lakosil J., Svoboda T.: Stálé sklady munice SSM (Mladá Fronta, 2018)'
 - ropiky.net — Hůrka
 updated: '2026-04-18'
 photos:

@@ -7,25 +7,27 @@ location:
   lat: 50.0828
   lon: 16.7508
   address: Těchonín 110, 561 66 Těchonín
-built: '1937'
+built: '1936–1938'
 state: muzeum
-description: Jedna z pěti plně dokončených dělostřeleckých tvrzí čs. opevnění a nejzachovalejší — kompletně zpřístupněná tvrz s podzemím přes 1 700 metrů.
-history: 'Tvrz Bouda v sedle Suchý vrch–Buková hora byla budována v letech 1936–1938 jako součást linie chránící Králicko. Patří k pěti dělostřeleckým tvrzím, jež byly do Mnichova plně stavebně dokončeny
-  (společně s Adamem, Hůrkou, Haničkou a Smolkovem).
+description: Jedna z pěti plně stavebně dokončených dělostřeleckých tvrzí čs. opevnění a nejkompletněji přístupná tvrz v ČR — podzemní systém přes 1 750 m v hloubce 38 m pod masivem Bouda, stavěný od června 1936 firmou Skorkovský-Podzimek.
+history: |
+  Tvrz Bouda byla projektována na hřbetu Suchý vrch–Buková hora jako uzlový opěrný bod úseku K (Králíky) mezi sousedními tvrzemi Adam na severu a Hůrka na jihu. Projekt zpracovala III. stavební ekspozitura Ředitelství opevňovacích prací v Brně (plukovník František Škramlík). Výstavba byla zadána pražské stavební firmě Dr. Karel Skorkovský–Ing. Rudolf Podzimek, která začala s hloubením přístupových šachet v červnu 1936.
 
+  Tvrz sestává z jednoho vchodového objektu a pěti bojových srubů (K-S 22 Horymír, K-S 22a Krok, K-S 23 Krasava, K-S 24 Libuše, K-S 24a Česmír), propojených podzemním systémem o celkové délce přes 1 750 metrů v hloubce 38 metrů pod skálou. Podzemí bylo ražené báňsky s obložením betonem a zahrnuje muniční sály, strojovny s dieselagregáty Škoda, kasárenské ubikace pro 302 mužů, filtroventilaci a telefonní ústřednu. Plánovaná výzbroj zahrnovala dva otočné dělové věže s houfnicemi vz. 38 ráže 10 cm v objektu K-S 23 a minomety M vz. 38 ráže 12 cm v K-S 24 — žádná těžká výzbroj však do září 1938 nebyla instalována.
 
-  Tvrz se skládá z pěti bojových srubů a jednoho vchodového srubu, propojených podzemním systémem chodeb a sálů v hloubce 38 metrů pod skálou.
+  Stavební část byla prakticky dokončena k podzimu 1938 (odolnost III, síla stropů 350 cm, stěn 275 cm). Pancéřování bylo instalováno z 90 %, zbrojení z 20 %. Po mnichovské dohodě byla tvrz 10. října 1938 předána německé armádě bez výstřelu — Wehrmacht ji využíval pouze jako muniční sklad. Po válce sloužila československé armádě jako sklad III. kategorie pod správou 15. tankové divize v Olomouci.
 
+  Ministerstvo obrany převedlo areál v roce 1990 občanskému sdružení Společnost přátel čs. opevnění, které tvrz systematicky opravuje, osazuje repliky pancéřových prvků a provozuje jako muzeum. V roce 2003 byla Bouda vyhlášena kulturní památkou.
+visit: |
+  Muzeum je otevřeno od poloviny dubna do konce října, prohlídky probíhají s průvodcem v pravidelných intervalech. Aktuální provozní doba, vstupné a termíny rezervací jsou na muzeumbouda.cz.
 
-  V říjnu 1938 byla bez jediného výstřelu předána Wehrmachtu. Po válce sloužila jako muniční sklad. Od roku 1990 funguje jako muzeum spravované občanským sdružením.
+  Doporučená délka prohlídky: 90–120 minut. V podzemí je celoročně 6–8 °C a vysoká vlhkost — teplé oblečení a pevná obuv jsou nutné. Prohlídková trasa zahrnuje vchodový objekt, podzemní kasárna, strojovnu, muniční sály a jeden z bojových srubů s vyústěním na povrch.
 
-  '
-visit: 'Otevřeno od dubna do října, prohlídky s průvodcem. Aktuální informace na muzeumboud­a.cz. Doporučená délka prohlídky: 2 hodiny. Teplota v podzemí cca 7 °C celoročně — vezměte si svetr.
-
-  '
+  Parkování je k dispozici u vchodového objektu (sjezd z Mladkovského sedla). Nejbližší veřejná doprava je autobus do Mladkova, odtud cca 3 km pěšky po značené turistické stezce. Tvrz leží na hřebenu Suchý vrch – Buková hora v Orlických horách v nadmořské výšce 770 m.
 sources:
 - muzeumbouda.cz
-- Wikipedia — Bouda (dělostřelecká tvrz)
+- 'Stehlík E.: Lexikon tvrzí čs. opevnění (FORTprint, 2001)'
+- 'Aron L. a kol.: Československé opevnění 1935–1938 (Dvůr Králové, 1990)'
 - ropiky.net — Bouda
 updated: '2026-04-18'
 photos:

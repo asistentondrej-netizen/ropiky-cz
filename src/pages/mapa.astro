@@ -10,16 +10,42 @@ const points = pevnosti.map((p) => ({
   title: p.data.title,
   code: p.data.code,
   line: p.data.line,
+  region: p.data.region,
   type: p.data.type,
   state: p.data.state,
+  built: p.data.built ?? '',
+  description: p.data.description,
+  photo: p.data.photos?.[0]?.url ?? null,
   lat: p.data.location.lat,
   lon: p.data.location.lon,
 }));
+
+// Sezbírej unikátní typy a stavy pro filtry
+const uniqueTypes = [...new Set(points.map((p) => p.type))].sort();
+const uniqueStates = [...new Set(points.map((p) => p.state))].sort();
+
+// Štítky pro UI
+const typeLabels: Record<string, string> = {
+  'delostrelecka-tvrz': 'Dělostřelecká tvrz',
+  'pechotni-srub': 'Pěchotní srub',
+  'lo-vz-37': 'Řopík (LO vz. 37)',
+  'lo-vz-36': 'LO vz. 36',
+  'objekt-vz-36': 'Objekt vz. 36',
+};
+
+const stateLabels: Record<string, string> = {
+  muzeum: 'Muzeum',
+  pristupny: 'Volně přístupný',
+  zavreny: 'Uzavřený',
+  rozpadly: 'Rozpadlý',
+  zničeny: 'Zničený',
+  neznamy: 'Neznámý stav',
+};
 ---
 
 <BaseLayout
   title="Mapa pevností"
-  description="Interaktivní mapa všech dokumentovaných objektů československého opevnění 1935–1938."
+  description="Interaktivní mapa všech dokumentovaných objektů československého opevnění 1935–1938. Filtrujte podle typu a stavu."
 >
   <header class="catalog-header">
     <div class="container">
@@ -28,17 +54,67 @@ const points = pevnosti.map((p) => ({
       </div>
       <h1>Mapa pevností</h1>
       <p class="article-hero__lead" style="margin-top: var(--s3);">
-        Interaktivní mapa dokumentovaných objektů. Klikněte na bod pro detail.
+        {points.length} dokumentovaných objektů ŘOP. Klikněte na bod pro detail, použijte filtry pro zúžení výběru.
       </p>
     </div>
   </header>
 
-  <section style="padding-top: var(--s4);">
+  <section style="padding-top: var(--s4); padding-bottom: var(--s5);">
     <div class="container">
-      <div id="map" style="height: 70vh; min-height: 520px; border: 1px solid var(--line); background: var(--paper-dark);"></div>
-      <p style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s2); font-style: italic;">
+
+      <!-- Filtry -->
+      <div class="map-filters" id="map-filters">
+        <div class="filter-group">
+          <span class="filter-label">Typ:</span>
+          <button class="filter-btn is-active" data-filter="type" data-value="all">
+            Všechny ({points.length})
+          </button>
+          {uniqueTypes.map((t) => {
+            const count = points.filter((p) => p.type === t).length;
+            return (
+              <button class="filter-btn" data-filter="type" data-value={t}>
+                {typeLabels[t] ?? t} ({count})
+              </button>
+            );
+          })}
+        </div>
+
+        <div class="filter-group">
+          <span class="filter-label">Stav:</span>
+          <button class="filter-btn is-active" data-filter="state" data-value="all">
+            Všechny
+          </button>
+          {uniqueStates.map((s) => {
+            const count = points.filter((p) => p.state === s).length;
+            return (
+              <button class="filter-btn" data-filter="state" data-value={s}>
+                {stateLabels[s] ?? s} ({count})
+              </button>
+            );
+          })}
+        </div>
+      </div>
+
+      <!-- Mapa -->
+      <div id="map" style="height: 70vh; min-height: 540px; border: 1px solid var(--line); background: var(--paper-dark); position: relative;">
+        <div id="map-counter" class="map-counter">Zobrazeno: <strong id="visible-count">{points.length}</strong> z {points.length}</div>
+      </div>
+
+      <!-- Legenda -->
+      <div class="map-legend">
+        <span class="legend-item"><span class="legend-dot" style="background:#7A3B2E;"></span> Dělostřelecká tvrz</span>
+        <span class="legend-item"><span class="legend-dot" style="background:#8B5A3C;"></span> Pěchotní srub</span>
+        <span class="legend-item"><span class="legend-dot" style="background:#5A6B4F;"></span> Řopík (LO vz. 37)</span>
+        <span class="legend-item"><span class="legend-dot" style="background:#7A8270;"></span> LO vz. 36</span>
+        <span class="legend-divider">|</span>
+        <span class="legend-item"><span class="legend-ring" style="border-color:#2D5F3F;"></span> Muzeum (rámeček)</span>
+      </div>
+
+      <p style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s3); font-style: italic;">
         Mapové podklady: © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> přispěvatelé.
+        Data o objektech: ropiky.cz a uvedené zdroje.
       </p>
+
     </div>
   </section>
 
@@ -49,30 +125,319 @@ const points = pevnosti.map((p) => ({
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin="" is:inline></script>
 
-  <script define:vars={{ points }}>
+  <style>
+    .map-filters {
+      background: var(--paper-dark);
+      border: 1px solid var(--line);
+      padding: var(--s3);
+      margin-bottom: var(--s3);
+      display: flex;
+      flex-direction: column;
+      gap: var(--s2);
+    }
+    .filter-group {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+    }
+    .filter-label {
+      font-weight: 600;
+      font-size: 0.875rem;
+      color: var(--ink);
+      min-width: 60px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .filter-btn {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      padding: 6px 12px;
+      font-size: 0.8125rem;
+      font-family: inherit;
+      color: var(--ink);
+      cursor: pointer;
+      transition: all 0.15s ease;
+      border-radius: 0;
+    }
+    .filter-btn:hover {
+      background: var(--paper-dark);
+      border-color: var(--accent, #7A3B2E);
+    }
+    .filter-btn.is-active {
+      background: var(--accent, #7A3B2E);
+      color: white;
+      border-color: var(--accent, #7A3B2E);
+    }
+    .map-counter {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      z-index: 400;
+      background: rgba(255,255,255,0.95);
+      border: 1px solid var(--line);
+      padding: 6px 12px;
+      font-size: 0.8125rem;
+      font-family: monospace;
+      color: var(--ink);
+      pointer-events: none;
+    }
+    .map-legend {
+      margin-top: var(--s3);
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 16px;
+      font-size: 0.8125rem;
+      color: var(--ink-light);
+    }
+    .legend-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .legend-dot {
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      border: 2px solid white;
+      box-shadow: 0 0 0 1px #444;
+    }
+    .legend-ring {
+      display: inline-block;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      border: 3px solid;
+      background: white;
+    }
+    .legend-divider {
+      color: var(--line);
+    }
+
+    /* Popup styling */
+    .leaflet-popup-content {
+      margin: 0;
+      width: 260px !important;
+    }
+    .leaflet-popup-content-wrapper {
+      border-radius: 0;
+      padding: 0;
+    }
+    .popup-card {
+      font-family: inherit;
+    }
+    .popup-card__photo {
+      width: 100%;
+      height: 140px;
+      object-fit: cover;
+      display: block;
+      background: var(--paper-dark);
+    }
+    .popup-card__photo--placeholder {
+      width: 100%;
+      height: 60px;
+      background: var(--paper-dark);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--ink-light);
+      font-size: 0.75rem;
+      font-style: italic;
+    }
+    .popup-card__body {
+      padding: 12px;
+    }
+    .popup-card__title {
+      margin: 0 0 4px;
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--ink);
+      line-height: 1.3;
+    }
+    .popup-card__code {
+      font-family: monospace;
+      font-size: 0.75rem;
+      color: #7A3B2E;
+      letter-spacing: 0.05em;
+    }
+    .popup-card__meta {
+      margin: 8px 0 0;
+      font-size: 0.75rem;
+      color: var(--ink-light);
+      line-height: 1.5;
+    }
+    .popup-card__desc {
+      margin: 8px 0;
+      font-size: 0.8125rem;
+      color: var(--ink);
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .popup-card__link {
+      display: inline-block;
+      margin-top: 6px;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: #7A3B2E;
+      text-decoration: none;
+    }
+    .popup-card__link:hover {
+      text-decoration: underline;
+    }
+    .popup-card__badge {
+      display: inline-block;
+      padding: 2px 6px;
+      font-size: 0.6875rem;
+      background: var(--paper-dark);
+      color: var(--ink);
+      margin-right: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .popup-card__badge--muzeum { background: #2D5F3F; color: white; }
+    .popup-card__badge--pristupny { background: #5A6B4F; color: white; }
+    .popup-card__badge--zavreny { background: #8B6F47; color: white; }
+
+    /* Custom marker classes */
+    .fort-marker {
+      border-radius: 50%;
+      border: 2px solid white;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.4);
+    }
+    .fort-marker--muzeum {
+      box-shadow: 0 0 0 3px #2D5F3F, 0 1px 4px rgba(0,0,0,0.4);
+    }
+
+    @media (max-width: 640px) {
+      .filter-group { flex-direction: column; align-items: flex-start; }
+      .filter-label { min-width: auto; }
+      .map-counter { font-size: 0.6875rem; padding: 4px 8px; }
+    }
+  </style>
+
+  <script define:vars={{ points, typeLabels, stateLabels }}>
     window.addEventListener('load', () => {
-      if (typeof L === 'undefined') return;
-      const map = L.map('map').setView([49.8, 15.5], 7);
+      if (typeof L === 'undefined') {
+        console.error('Leaflet failed to load');
+        return;
+      }
+
+      // ---- Mapa ----
+      const map = L.map('map', { scrollWheelZoom: false }).setView([49.8, 15.5], 7);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 18,
         attribution: '© OpenStreetMap',
       }).addTo(map);
 
-      const bounds = [];
-      points.forEach((p) => {
-        const marker = L.marker([p.lat, p.lon]).addTo(map);
-        marker.bindPopup(
-          `<strong>${p.title}</strong><br/>
-           <span style="font-family:monospace;color:#7A3B2E;">${p.code}</span><br/>
-           ${p.line}<br/>
-           <a href="/katalog/${p.slug}">Detail objektu →</a>`
-        );
-        bounds.push([p.lat, p.lon]);
-      });
+      // Povolit scroll-zoom po kliknutí (UX)
+      map.on('click', () => map.scrollWheelZoom.enable());
+      map.on('blur', () => map.scrollWheelZoom.disable());
 
-      if (bounds.length > 0) {
-        map.fitBounds(bounds, { padding: [30, 30] });
+      // ---- Color paleta ----
+      const typeColors = {
+        'delostrelecka-tvrz': '#7A3B2E',
+        'pechotni-srub': '#8B5A3C',
+        'lo-vz-37': '#5A6B4F',
+        'lo-vz-36': '#7A8270',
+        'objekt-vz-36': '#7A8270',
+      };
+
+      // ---- Tvorba markeru ----
+      function createMarker(p) {
+        const color = typeColors[p.type] || '#444';
+        const isMuseum = p.state === 'muzeum';
+        const size = p.type === 'delostrelecka-tvrz' ? 18 : (p.type === 'pechotni-srub' ? 14 : 11);
+        const ringStyle = isMuseum ? `box-shadow: 0 0 0 3px #2D5F3F, 0 1px 4px rgba(0,0,0,0.4);` : '';
+
+        const icon = L.divIcon({
+          className: '',
+          html: `<div class="fort-marker ${isMuseum ? 'fort-marker--muzeum' : ''}" style="width:${size}px;height:${size}px;background:${color};${ringStyle}"></div>`,
+          iconSize: [size + 4, size + 4],
+          iconAnchor: [(size + 4) / 2, (size + 4) / 2],
+        });
+
+        const marker = L.marker([p.lat, p.lon], { icon });
+
+        // Popup HTML
+        const photoHtml = p.photo
+          ? `<img class="popup-card__photo" src="${p.photo}" alt="${p.title}" loading="lazy" />`
+          : `<div class="popup-card__photo--placeholder">Foto zatím není dostupné</div>`;
+
+        const stateLabel = stateLabels[p.state] || p.state;
+        const stateClass = `popup-card__badge popup-card__badge--${p.state}`;
+        const typeLabel = typeLabels[p.type] || p.type;
+
+        const popupHtml = `
+          <div class="popup-card">
+            ${photoHtml}
+            <div class="popup-card__body">
+              <h3 class="popup-card__title">${p.title}</h3>
+              <span class="popup-card__code">${p.code}</span>
+              <p class="popup-card__desc">${p.description}</p>
+              <div style="margin: 6px 0;">
+                <span class="${stateClass}">${stateLabel}</span>
+                <span class="popup-card__badge">${typeLabel}</span>
+              </div>
+              <p class="popup-card__meta">
+                <strong>Úsek:</strong> ${p.line}<br/>
+                <strong>Kraj:</strong> ${p.region}
+                ${p.built ? `<br/><strong>Postaven:</strong> ${p.built}` : ''}
+              </p>
+              <a class="popup-card__link" href="/katalog/${p.slug}">Detail objektu →</a>
+            </div>
+          </div>
+        `;
+
+        marker.bindPopup(popupHtml, { maxWidth: 280, minWidth: 260 });
+        marker._point = p; // pro filtraci
+        return marker;
       }
+
+      const allMarkers = points.map(createMarker);
+      const layerGroup = L.layerGroup(allMarkers).addTo(map);
+
+      // Auto-fit
+      const bounds = points.map((p) => [p.lat, p.lon]);
+      if (bounds.length > 0) map.fitBounds(bounds, { padding: [40, 40] });
+
+      // ---- Filtrace ----
+      const filterState = { type: 'all', state: 'all' };
+      const counterEl = document.getElementById('visible-count');
+
+      function applyFilters() {
+        layerGroup.clearLayers();
+        let visible = 0;
+        allMarkers.forEach((m) => {
+          const p = m._point;
+          const matchType = filterState.type === 'all' || p.type === filterState.type;
+          const matchState = filterState.state === 'all' || p.state === filterState.state;
+          if (matchType && matchState) {
+            layerGroup.addLayer(m);
+            visible++;
+          }
+        });
+        if (counterEl) counterEl.textContent = visible;
+      }
+
+      // Click handlers
+      document.querySelectorAll('.filter-btn').forEach((btn) => {
+        btn.addEventListener('click', () => {
+          const filter = btn.dataset.filter;
+          const value = btn.dataset.value;
+
+          // Deaktivuj sourozence ve stejné skupině
+          btn.parentElement.querySelectorAll('.filter-btn').forEach((b) => b.classList.remove('is-active'));
+          btn.classList.add('is-active');
+
+          filterState[filter] = value;
+          applyFilters();
+        });
+      });
     });
   </script>
 </BaseLayout>

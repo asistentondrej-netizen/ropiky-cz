@@ -9,22 +9,30 @@ location:
   address: Králíky, okolí Hedče
 built: '1937'
 state: muzeum
-description: Pěchotní srub s muzejní expozicí v rámci Vojensko-historického areálu Cihelna u Králík. Jeden z nejlépe rekonstruovaných srubů.
-history: 'K-S 14 „U cihelny" byl součástí silně opevněné králicko-orlické linie. Stavba probíhala v letech 1937–1938.
+description: Pěchotní srub oboustranný typu B, odolnost III, součást Vojensko-historického areálu Cihelna u Králík — jeden z nejlépe rekonstruovaných a nejčastěji fotografovaných objektů ŘOP.
+history: |
+  Pěchotní srub K-S 14 „U cihelny" byl postaven v roce 1937 jako součást silně opevněné králicko-orlické hlavní obranné linie. Projekt zpracovala III. ekspozitura ŘOP Brno, generálním dodavatelem byla firma Ing. Záruba-Pfeffermann a spol. Jde o oboustranný pěchotní srub typu B, odolnost III (stěny 225 cm, stropy 250 cm železobetonu), armovaný obousměrně proti dělostřelecké palbě ráže až 305 mm.
 
+  Výzbroj: dva těžké kulomety vz. 37 v pancéřových střílnách (osazeny v lafetách L1), protitankový kanón vz. 36 ráže 4,7 cm s dvojčetem kulometů vz. 37 ve střílně „L1/M" — typická palebná kombinace pro boční postřel předpolí. Dva pancéřové zvony (jeden kulometný, jeden pozorovací) na střeše. Kasárna pro 36 mužů posádky, filtroventilace, strojovna s dieselovým agregátem a vlastní studna s čerpadlem.
 
-  Po Mnichovu zabrán Wehrmachtem, po válce léta opuštěn. Od 90. let intenzivní rekonstrukce — dnes muzejní objekt s autentickou výzbrojí, ubikacemi a strojovnou.
+  Po Mnichovu v říjnu 1938 byl srub bez boje předán Wehrmachtu. Za války sloužil pouze jako sklad a během květnových bojů 1945 nebyl bojově využit. Po válce byly Vnitřní i Pancéřová výzbroj demontovány a objekt byl ponechán bez údržby. V 70. a 80. letech sloužil armádě jako cvičný cíl, což způsobilo další poškození.
 
+  Systematická rekonstrukce začala po roce 1995 pod vedením Klubu vojenské historie Králíky. Objekt je dnes kompletně vybaven replikami originální výzbroje, včetně funkční filtroventilace a periskopů. V roce 2016 byla zpřístupněna rekonstruovaná externí kavernová šachta s průstupem.
 
-  Pravidelně se zde konají rekonstrukce dobových bojů „Cihelna" — jedna z největších vojensko-historických akcí v ČR.
+  Pravidelně se zde konají rekonstrukce dobových bojů „Cihelna" — druhý víkend v srpnu, s účastí 400+ reenactorů a bojovou ukázkou obrany srubu s použitím pyrotechniky a tanků. Patří k největším vojensko-historickým akcím v ČR s návštěvností 15 000+ diváků.
+visit: |
+  Muzeum K-S 14 „U cihelny" je součástí Vojensko-historického areálu Cihelna. Otevřeno od dubna do října, prohlídky s průvodcem každou celou hodinu. Aktuální otevírací doba, vstupné a rezervace na vojenske-muzeum-kraliky.cz.
 
-  '
-visit: 'Muzeum K-S 14 „U cihelny" — sezónně otevřené, vstupné. Součást areálu Vojenské muzeum Králíky. Akce „Cihelna" obvykle v srpnu.
+  Doporučená délka prohlídky: 60 minut. Trasa zahrnuje obě bojové místnosti s rekonstruovanou výzbrojí, oba pancéřové zvony zevnitř (zasadní pohled na systém pozorování a palebného řízení), filtroventilaci, strojovnu, kasárna pro posádku a spodní patro s municí. Teplota celoročně 10–12 °C, doporučená bunda.
 
-  '
+  Akce „Cihelna" se koná vždy druhý víkend v srpnu — podrobný program a vstupenky na akce-cihelna.cz. V rámci akce prohlídky bezplatné, ale doprava a parkování bývá přetížené.
+
+  Parkování u Vojenského muzea Králíky (200 m), dále pěšky po značené cestě. Vlakem do stanice Lichkov nebo Králíky, odtud autobusem nebo taxi 3 km. Ideální kombinace s návštěvou tvrze Bouda (vzdálenost 4 km).
 sources:
 - vojenske-muzeum-kraliky.cz
 - akce-cihelna.cz
+- 'Lakosil J., Svoboda T.: Bunkry Králicka (FORTprint, 2010)'
+- 'Stehlík E.: Československé opevnění 1935–1938 (Mladá Fronta, 2013)'
 - ropiky.net — K-S 14
 updated: '2026-04-18'
 photos:

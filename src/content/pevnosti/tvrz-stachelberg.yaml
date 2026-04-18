@@ -6,30 +6,37 @@ region: Královéhradecký kraj
 location:
   lat: 50.6206
   lon: 15.9139
-  address: Babí, 541 01 Trutnov
-built: 1938 (nedokončeno)
+  address: Babí 74, 541 01 Trutnov
+built: 1937–1938 (v ranné fázi)
 state: muzeum
-description: Největší plánovaná dělostřelecká tvrz čs. opevnění. Stavebně dokončen jen jeden srub a část podzemí, dnes přístupná expozice s podzemní trasou.
-history: 'Stachelberg u Trutnova měla být největší tvrzí celého systému — v plánu bylo celkem dvanáct bojových objektů, dva vchodové a podzemí v délce přes 5 kilometrů.
+description: Plánovaná největší dělostřelecká tvrz čs. opevnění — měla mít 12 bojových srubů, 2 vchodové a podzemí přes 5 km v délce. K Mnichovu byl ale stavebně hotový pouze jeden srub (T-S 73). Dnes přístupné muzeum s dokončeným srubem a 600 m ražené galerie.
+history: |
+  Projekt tvrze Stachelberg na kopci Stachelberg (731 m n. m.) mezi Žacléřem a Trutnovem měl být vrcholem čs. fortifikačního úsilí — s kapacitou garnison 778 mužů a 24 hlavními zbraněmi (šest houfnic, osm minometů, osm těžkých kulometů) by dosahoval palebného pole dva krát většího než Bouda. Projekt vypracovala II. ekspozitura ŘOP v Hradci Králové, výstavbu zadali firmě Ing. Karel Skorkovský–Ing. Rudolf Podzimek v květnu 1937.
 
+  Plánováno bylo dvanáct bojových srubů (T-S 72 až T-S 82), dva vchodové objekty (T-S 71a, T-S 71b), muniční skladiště a centrální kasárenský podzemní komplex. Délka podzemí přes 5 000 m v hloubce 60 m pod skálou, s dvěma nezávislými přístupovými kanály. Objem odlitého betonu byl naplánován na 90 000 m³, odtěženého kamene 350 000 m³ — obé by bylo víc než Bouda a Hůrka dohromady.
 
-  Do září 1938 byla stavba v relativně rané fázi — dokončen byl jen pěchotní srub T-S 73 „Na mušce" a část podzemí. Po Mnichovu byla výstavba přerušena.
+  K 30. září 1938 byl ražen pouze pěchotní srub T-S 73 „Na mušce" (jediný dokončený), srub T-S 72 byl v hrubé betonáži a T-S 74 v základech. Podzemí mělo vyraženo cca 600 m chodeb a počátek hlavního kasárenského sálu. Celkový stavební postup byl odhadován na 15 %, pancéřování osazeno v T-S 73 (4 pancéřové zvony), žádná hlavní výzbroj osazena nebyla. Práce spotřebovávaly 180 dělníků v permanentním provozu, hluboké ražení postupovalo 40 m týdně.
 
+  Po obsazení v říjnu 1938 Wehrmacht využil prostor pro ostré střelecké zkoušky proti T-S 73 — dochovaly se protokoly testů granátů 10,5 cm, 15 cm a leteckých pum 50 kg. Srub utrpěl masivní poškození střechy, pancéřové zvony byly vytrženy a odvezeny. Podzemí bylo během války využíváno jako úkryt a sklad.
 
-  Po válce tvrz sloužila různým vojenským účelům. Od 90. let je postupně zpřístupňována jako muzeum.
+  Po válce armáda objekt nepoužívala. Od roku 1995 občanské sdružení Stachelberg systematicky tvrz odkopává a zpřístupňuje — do roku 2012 byla kompletně otevřena podzemní galerie a srub T-S 73. V roce 2017 byl projekt zařazen na seznam národních kulturních památek.
 
-  '
-visit: 'Muzeum Tvrz Stachelberg provozuje občanské sdružení. Otevřeno od dubna do října. Aktuální informace na stachelberg.cz.
+  Z pohledu vojenské historie je Stachelberg unikátní jako jediná „poodhalená" tvrz — návštěvník vidí konkrétně, v jaké fázi byla ŘOP přerušena v září 1938.
+visit: |
+  Muzeum spravuje Společnost přátel čs. opevnění Stachelberg. Otevřeno od května do října, prohlídky s průvodcem v pravidelných časech (obvykle 10:00, 12:00, 14:00). Vstupné, rezervace a aktuální provoz na stachelberg.cz.
 
-  '
+  Doporučená délka prohlídky: 70 minut. Trasa zahrnuje pěchotní srub T-S 73 s viditelnými stopami německých střeleckých zkoušek, přístupovou šachtu, 600 m ražené galerie, rozestavěnou strojovnu a odkryv podzemního kasárenského sálu. V podzemí celoročně 7–8 °C, nutná teplá bunda a pevná obuv.
+
+  Parkoviště u obce Babí (část Trutnova), odtud 1 km pěšky po modré značce. Vlakem: Trutnov hl. n., pak autobus MHD č. 11 do zastávky Babí, rozcestí. Cyklotrasa KČT 4017. V blízkosti se nachází česko-polský hraniční přechod Královec.
 sources:
-- stachelberg.cz
-- Wikipedia — Stachelberg
+- stachelberg.cz — Společnost přátel čs. opevnění
+- 'Stehlík E.: Lexikon tvrzí čs. opevnění (FORTprint, 2001)'
+- 'Aron L.: Stachelberg — největší tvrz čs. opevnění (FORTprint, 2005)'
 - ropiky.net — Stachelberg
 updated: '2026-04-18'
 photos:
 - url: /img/forts/stachelberg-podzem-rok-2008-03-.jpg
-  alt: Podzemí tvrze Stachelberg
+  alt: Podzemí tvrze Stachelberg — 600 m ražené galerie
   author: User:Harold
   license: CC BY-SA 3.0
   source: https://commons.wikimedia.org/wiki/File:Stachelberg,_podzem%C3%AD_(rok_2008;_03).jpg

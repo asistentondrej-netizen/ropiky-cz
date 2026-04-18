@@ -6,31 +6,37 @@ region: Královéhradecký kraj
 location:
   lat: 50.1967
   lon: 16.4925
-  address: Rokytnice v Orlických horách
-built: '1938'
+  address: Rokytnice v Orlických horách, 517 61
+built: '1936–1938'
 state: muzeum
-description: Plně dokončená tvrz v Orlických horách, přístupná veřejnosti. Během studené války upravena jako tajný kryt — zajímavá vrstva pozdější historie.
-history: 'Tvrz Hanička byla stavěna v letech 1936–1938 a patřila k pěti plně dokončeným tvrzím čs. opevnění. Skládá se ze šesti bojových objektů a jednoho vchodového, propojených podzemím v délce přibližně
-  1 800 metrů.
+description: Plně dokončená tvrz na hraničním hřebeni Orlických hor. Unikátní dvouvrstvou historií — mnichovská kapitulace 1938 a přestavba na supertajný protijaderný kryt ÚV KSČ „Kahan II" v letech 1975–1993.
+history: |
+  Tvrz Hanička chrání jižní okraj rokytnického úseku Orlických hor v nadmořské výšce 772 m. Projekt zpracovala II. ekspozitura ŘOP v Hradci Králové, generálním dodavatelem byla pražská firma Ing. Rudolf Frič. Zahájení 1. září 1936, stavebně dokončeno k prosinci 1937 — tedy dříve než sousední tvrze.
 
+  Sestává ze šesti bojových srubů (R-S 74 Na rozcestí, R-S 75 U starého, R-S 76 Nad potokem, R-S 77 Kozí hřbet, R-S 78 V úhlu, R-S 79 Na mýtině), jednoho vchodového objektu R-S 72 a jednoho vchodového R-S 73 pro zásobování. Podzemí v délce 1 750 m ve dvou patrech bylo raženo v hloubce 18 m, obsahovalo muniční sály, dieselovou strojovnu (3× ČKD 6L150), kasárna pro 426 mužů, štábní prostory a filtrovanou vzduchotechniku.
 
-  V září 1938 byla plně obsazena a připravena k boji. Po Mnichovu opuštěna a předána Wehrmachtu, který ji v letech 1939–1945 využíval pro destruktivní pokusy.
+  K Mnichovu byla Hanička mezi nejdokončenějšími tvrzemi — odolnost III, stěny 275 cm, stropy 350 cm železobetonu. Pancéřování osazeno z 95 %, plánovaná výzbroj (dvě houfnicové věže vz. 38, čtyři minomety M vz. 38, těžké kulomety a čtyřčata lehké výzbroje) však instalována nebyla. Garnison v září 1938 měl asi 420 mužů pod velením majora Josefa Matouška.
 
+  Po obsazení v říjnu 1938 Wehrmacht využíval podzemí pouze jako sklad. Od roku 1940 do 1944 probíhaly na povrchových objektech destruktivní německé střelecké zkoušky včetně testů s pancéřovými granáty ráže 88 mm — sruby R-S 74 a R-S 77 utrpěly nejtěžší poškození.
 
-  V 70. a 80. letech byla tvrz reaktivována jako tajný protijaderný kryt Ústředního výboru KSČ (projekt „Kahan"). Tato novodobá vrstva dnes tvoří samostatný zajímavý okruh prohlídky.
+  V rámci projektu „Kahan" zahájila Hlavní správa Státní bezpečnosti v roce 1975 utajenou přestavbu tvrze na protijaderný kryt pro ÚV KSČ kategorie "C1" (projekt "Kahan II"). Práce trvaly 18 let, stála miliardu korun a zahrnovaly vyražení nového podzemí, instalaci filtroventilace proti jaderné kontaminaci, vlastní hlubinný vrt, dieselgenerátory a kapacitu pro 250 funkcionářů na 60 dní autonomního provozu. Projekt nebyl nikdy aktivován — v roce 1993 byl oficiálně zastaven, v roce 1995 byla tvrz předána Muzeu čs. opevnění.
 
-  '
-visit: 'Muzeum je otevřeno od dubna do listopadu, prohlídky s průvodcem. Aktuální otevírací doba a rezervace na hanicka.cz.
+  Od roku 2008 je národní kulturní památkou. Dnes nabízí dvě oddělené prohlídkové trasy — původní z let 1938 a novodobý kryt Kahan.
+visit: |
+  Muzeum je otevřeno od dubna do listopadu, prohlídky s průvodcem v pravidelných časech. Aktuální otevírací doba, rezervace a vstupné na hanicka.cz.
 
-  '
+  Doporučená délka prohlídky: 100 minut (originální tvrz), 60 minut (Kahan II). Kombinovaná prohlídka cca 2,5 h. V podzemí 7–9 °C celoročně, nutné teplé oblečení a pevná obuv.
+
+  Tvrz leží 5 km východně od Rokytnice v Orlických horách při hraničním hřebeni. Parkoviště u obce Bartošovice v Orlických horách, odtud 1,5 km pěšky po modré značce. Autobusem linka 683 Rokytnice–Bartošovice s výstupem Hanička (sezónní). Poblíž prochází Jiráskova turistická stezka.
 sources:
-- hanicka.cz — oficiální web muzea
-- Wikipedia — Hanička (dělostřelecká tvrz)
+- hanicka.cz — Muzeum čs. opevnění Hanička
+- 'Stehlík E.: Lexikon tvrzí čs. opevnění (FORTprint, 2001)'
+- 'Lakosil J., Svoboda T.: Kahan — projekt supertajného krytu ÚV KSČ (Mladá Fronta, 2019)'
 - ropiky.net — Hanička
 updated: '2026-04-18'
 photos:
 - url: /img/forts/hani-ka-podzem-rok-2010-06-.jpg
-  alt: Podzemí tvrze Hanička
+  alt: Podzemí tvrze Hanička — hlavní galerie v hloubce 18 m
   author: User:Harold
   license: CC BY-SA 3.0
   source: https://commons.wikimedia.org/wiki/File:Hani%C4%8Dka,_podzem%C3%AD_(rok_2010;_06).jpg
