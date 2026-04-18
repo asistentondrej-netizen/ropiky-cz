@@ -1,24 +1,39 @@
-title: 'MO-S 9 „Forman"'
-code: 'MO-S 9'
-type: 'pechotni-srub'
-line: 'Moravská Ostrava'
-region: 'Moravskoslezský kraj'
+title: MO-S 9 „Forman"
+code: MO-S 9
+type: pechotni-srub
+line: Moravská Ostrava
+region: Moravskoslezský kraj
 location:
   lat: 49.9142
   lon: 18.3244
-  address: 'Šilheřovice — Darkovičky'
+  address: Šilheřovice — Darkovičky
 built: '1937'
-state: 'muzeum'
-description: 'Součást Vojensko-historického areálu Darkovičky — největšího muzea čs. opevnění v ČR. Plně vystrojený pěchotní srub s originální výzbrojí.'
-history: |
-  MO-S 9 „Forman" byl postaven v roce 1937 jako součást husté ostravské linie. Dvoukřídlý srub s bočními střílnami pro protitankové i protipěchotní zbraně.
+state: muzeum
+description: Součást Vojensko-historického areálu Darkovičky — největšího muzea čs. opevnění v ČR. Plně vystrojený pěchotní srub s originální výzbrojí.
+history: 'MO-S 9 „Forman" byl postaven v roce 1937 jako součást husté ostravské linie. Dvoukřídlý srub s bočními střílnami pro protitankové i protipěchotní zbraně.
+
 
   Po Mnichovu zabrán Wehrmachtem. Po roce 1946 československá armáda objekty udržovala jako součást „studené války" — díky tomu se dochoval ve výborném stavu.
 
+
   Od roku 1994 součást Vojensko-historického areálu Darkovičky pod správou Slezského zemského muzea. Jeden z nejpopulárnějších návštěvnických objektů čs. opevnění.
-visit: |
-  Muzeum Darkovičky — sezónně, vstupné, průvodcovský výklad. V areálu i další objekty MO-S 5, MO-S 7 a pozorovatelna. Srub je plně vystrojený.
+
+  '
+visit: 'Muzeum Darkovičky — sezónně, vstupné, průvodcovský výklad. V areálu i další objekty MO-S 5, MO-S 7 a pozorovatelna. Srub je plně vystrojený.
+
+  '
 sources:
-  - 'szm.cz — Darkovičky'
-  - 'ropiky.net — MO-S 9'
+- szm.cz — Darkovičky
+- ropiky.net — MO-S 9
 updated: '2026-04-18'
+photos:
+- url: /img/forts/hlu-n-darkovi-ky-mo-s-19-rok-2001-01-.jpg
+  alt: Areál čs. opevnění Darkovičky — MO-S 19 V aleji (reprezentativní objekt areálu)
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Hlu%C4%8D%C3%ADn,_Darkovi%C4%8Dky,_MO-S_19_(rok_2001;_01).jpg
+- url: /img/forts/are-l-eskoslovensk-ho-opevn-n-hlu-n-darkovi-ky-04.jpg
+  alt: Areál Darkovičky — celkový pohled
+  author: Pudelek
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Are%C3%A1l_%C4%8Deskoslovensk%C3%A9ho_opevn%C4%9Bn%C3%AD_-_Hlu%C4%8D%C3%ADn-Darkovi%C4%8Dky_04.jpg

@@ -1,25 +1,41 @@
-title: 'Tvrz Bouda'
-code: 'K-S Tvrz Bouda'
-type: 'delostrelecka-tvrz'
-line: 'Králíky'
-region: 'Pardubický kraj'
+title: Tvrz Bouda
+code: K-S Tvrz Bouda
+type: delostrelecka-tvrz
+line: Králíky
+region: Pardubický kraj
 location:
   lat: 50.0828
   lon: 16.7508
-  address: 'Těchonín 110, 561 66 Těchonín'
+  address: Těchonín 110, 561 66 Těchonín
 built: '1937'
-state: 'muzeum'
-description: 'Jedna z pěti plně dokončených dělostřeleckých tvrzí čs. opevnění a nejzachovalejší — kompletně zpřístupněná tvrz s podzemím přes 1 700 metrů.'
-history: |
-  Tvrz Bouda v sedle Suchý vrch–Buková hora byla budována v letech 1936–1938 jako součást linie chránící Králicko. Patří k pěti dělostřeleckým tvrzím, jež byly do Mnichova plně stavebně dokončeny (společně s Adamem, Hůrkou, Haničkou a Smolkovem).
+state: muzeum
+description: Jedna z pěti plně dokončených dělostřeleckých tvrzí čs. opevnění a nejzachovalejší — kompletně zpřístupněná tvrz s podzemím přes 1 700 metrů.
+history: 'Tvrz Bouda v sedle Suchý vrch–Buková hora byla budována v letech 1936–1938 jako součást linie chránící Králicko. Patří k pěti dělostřeleckým tvrzím, jež byly do Mnichova plně stavebně dokončeny
+  (společně s Adamem, Hůrkou, Haničkou a Smolkovem).
+
 
   Tvrz se skládá z pěti bojových srubů a jednoho vchodového srubu, propojených podzemním systémem chodeb a sálů v hloubce 38 metrů pod skálou.
 
+
   V říjnu 1938 byla bez jediného výstřelu předána Wehrmachtu. Po válce sloužila jako muniční sklad. Od roku 1990 funguje jako muzeum spravované občanským sdružením.
-visit: |
-  Otevřeno od dubna do října, prohlídky s průvodcem. Aktuální informace na muzeumboud­a.cz. Doporučená délka prohlídky: 2 hodiny. Teplota v podzemí cca 7 °C celoročně — vezměte si svetr.
+
+  '
+visit: 'Otevřeno od dubna do října, prohlídky s průvodcem. Aktuální informace na muzeumboud­a.cz. Doporučená délka prohlídky: 2 hodiny. Teplota v podzemí cca 7 °C celoročně — vezměte si svetr.
+
+  '
 sources:
-  - 'muzeumbouda.cz'
-  - 'Wikipedia — Bouda (dělostřelecká tvrz)'
-  - 'ropiky.net — Bouda'
+- muzeumbouda.cz
+- Wikipedia — Bouda (dělostřelecká tvrz)
+- ropiky.net — Bouda
 updated: '2026-04-18'
+photos:
+- url: /img/forts/tvrz-bouda-objekt-k-s-22a-krok.jpg
+  alt: K-S 22a Krok — bojový srub tvrze Bouda
+  author: VitBaloun
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Tvrz_Bouda_-_objekt_K-S_22a_-_Krok.jpg
+- url: /img/forts/bouda-k-s-22a-krok-svaznice.jpg
+  alt: Svaznice srubu K-S 22a
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:Bouda_-_K-S_22a_Krok_-_svaznice.JPG

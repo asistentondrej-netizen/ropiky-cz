@@ -51,6 +51,7 @@ const total = all.length;
                 type={p.data.type}
                 state={p.data.state}
                 href={`/katalog/${p.id.replace(/\.json$|\.yml$|\.yaml$/, '')}`}
+                imageUrl={p.data.photos?.[0]?.url}
               />
             </div>
           ))}

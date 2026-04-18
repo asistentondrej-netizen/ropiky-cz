@@ -1,22 +1,31 @@
-title: 'MO-S 19 „Alej"'
-code: 'MO-S 19'
-type: 'pechotni-srub'
-line: 'Moravská Ostrava'
-region: 'Moravskoslezský kraj'
+title: MO-S 19 „Alej"
+code: MO-S 19
+type: pechotni-srub
+line: Moravská Ostrava
+region: Moravskoslezský kraj
 location:
   lat: 49.8855
   lon: 18.3272
-  address: 'Hlučín-Darkovičky, skanzen čs. opevnění'
+  address: Hlučín-Darkovičky, skanzen čs. opevnění
 built: '1936'
-state: 'muzeum'
-description: 'Pěchotní srub v rámci skanzenu Darkovičky. Ukázkově rekonstruovaný oboustranný objekt s plnou výstrojí.'
-history: |
-  Srub MO-S 19 byl postaven v roce 1936 jako součást předválečné linie chránící Ostravsko. Po Mnichovu byl opuštěn a během okupace sloužil jako objekt pro německé střelecké zkoušky.
+state: muzeum
+description: Pěchotní srub v rámci skanzenu Darkovičky. Ukázkově rekonstruovaný oboustranný objekt s plnou výstrojí.
+history: 'Srub MO-S 19 byl postaven v roce 1936 jako součást předválečné linie chránící Ostravsko. Po Mnichovu byl opuštěn a během okupace sloužil jako objekt pro německé střelecké zkoušky.
+
 
   Dnes představuje jeden z nejkvalitněji rekonstruovaných objektů skanzenu, s dobovou výstrojí a vybavením.
-visit: |
-  Součást areálu Slezského zemského muzea v Hlučíně-Darkovičkách. Vstup v rámci společné prohlídky skanzenu.
+
+  '
+visit: 'Součást areálu Slezského zemského muzea v Hlučíně-Darkovičkách. Vstup v rámci společné prohlídky skanzenu.
+
+  '
 sources:
-  - 'Slezské zemské muzeum'
-  - 'ropiky.net — MO-S 19'
+- Slezské zemské muzeum
+- ropiky.net — MO-S 19
 updated: '2026-04-18'
+photos:
+- url: /img/forts/p-chotn-srub-mo-s-19-v-aleji.jpg
+  alt: MO-S 19 V aleji — pěchotní srub v Darkovičkách
+  author: Pudelek
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_MO-S_19_V_aleji.jpg

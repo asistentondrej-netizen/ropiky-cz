@@ -1,22 +1,31 @@
-title: 'Tvrz Adam'
-code: 'K-S Tvrz Adam'
-type: 'delostrelecka-tvrz'
-line: 'Králíky'
-region: 'Pardubický kraj'
+title: Tvrz Adam
+code: K-S Tvrz Adam
+type: delostrelecka-tvrz
+line: Králíky
+region: Pardubický kraj
 location:
   lat: 50.0942
   lon: 16.7769
-  address: 'Králíky'
+  address: Králíky
 built: '1938'
-state: 'zavreny'
-description: 'Plně dokončená tvrz, třetí z trojice Bouda–Hůrka–Adam v Králickém pevnostním areálu. Nachází se v soukromém vlastnictví, veřejnosti zpravidla nepřístupná.'
-history: |
-  Tvrz Adam byla dokončena v roce 1938 jako třetí z „králické trojice" tvrzí. Po Mnichovu sloužila Wehrmachtu, po válce čs. armádě jako muniční sklad.
+state: zavreny
+description: Plně dokončená tvrz, třetí z trojice Bouda–Hůrka–Adam v Králickém pevnostním areálu. Nachází se v soukromém vlastnictví, veřejnosti zpravidla nepřístupná.
+history: 'Tvrz Adam byla dokončena v roce 1938 jako třetí z „králické trojice" tvrzí. Po Mnichovu sloužila Wehrmachtu, po válce čs. armádě jako muniční sklad.
+
 
   Na rozdíl od Boudy a Hůrky je Adam dnes v soukromém vlastnictví a veřejnosti zpravidla nepřístupný. Občas se pořádají výjimečné akce nebo prohlídky pro odborné skupiny.
-visit: |
-  Standardně uzavřeno. Sledujte informace Královéhradeckého kraje a Klubu vojenské historie, kteří občas pořádají speciální prohlídky.
+
+  '
+visit: 'Standardně uzavřeno. Sledujte informace Královéhradeckého kraje a Klubu vojenské historie, kteří občas pořádají speciální prohlídky.
+
+  '
 sources:
-  - 'Wikipedia — Adam (dělostřelecká tvrz)'
-  - 'ropiky.net — Adam'
+- Wikipedia — Adam (dělostřelecká tvrz)
+- ropiky.net — Adam
 updated: '2026-04-18'
+photos:
+- url: /img/forts/k-s-43-adam-.jpg
+  alt: K-S 43 — bojový srub tvrze Adam
+  author: Jiří Šotola
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:K-S_43_(Adam).jpg

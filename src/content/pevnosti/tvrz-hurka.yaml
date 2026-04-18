@@ -1,25 +1,40 @@
-title: 'Tvrz Hůrka'
-code: 'K-S Tvrz Hůrka'
-type: 'delostrelecka-tvrz'
-line: 'Králíky'
-region: 'Pardubický kraj'
+title: Tvrz Hůrka
+code: K-S Tvrz Hůrka
+type: delostrelecka-tvrz
+line: Králíky
+region: Pardubický kraj
 location:
   lat: 50.0711
   lon: 16.7683
-  address: 'Králíky'
+  address: Králíky
 built: '1938'
-state: 'muzeum'
-description: 'Plně dokončená tvrz u Králík, po válce využívaná jako muniční sklad. Dnes částečně přístupná expozice s podzemními prostorami.'
-history: |
-  Tvrz Hůrka je jednou z pěti plně dokončených tvrzí čs. opevnění. Stavěna byla v letech 1936–1938 a patří k nejzachovalejším — podzemí zahrnuje přibližně 1 750 metrů chodeb.
+state: muzeum
+description: Plně dokončená tvrz u Králík, po válce využívaná jako muniční sklad. Dnes částečně přístupná expozice s podzemními prostorami.
+history: 'Tvrz Hůrka je jednou z pěti plně dokončených tvrzí čs. opevnění. Stavěna byla v letech 1936–1938 a patří k nejzachovalejším — podzemí zahrnuje přibližně 1 750 metrů chodeb.
+
 
   Po Mnichovu sloužila Wehrmachtu jako muniční sklad. Po válce ji převzala čs. armáda a celá desetiletí ji používala jako tajný sklad munice.
 
+
   Po roce 2000 byla zpřístupněna veřejnosti a dnes je součástí Králického pevnostního okruhu.
-visit: |
-  Muzeum je otevřeno sezónně od dubna do října. Prohlídka s průvodcem, doba cca 90 minut. Aktuální informace na kralickypevnostniareal.cz.
+
+  '
+visit: 'Muzeum je otevřeno sezónně od dubna do října. Prohlídka s průvodcem, doba cca 90 minut. Aktuální informace na kralickypevnostniareal.cz.
+
+  '
 sources:
-  - 'Králický pevnostní areál'
-  - 'Wikipedia — Hůrka (dělostřelecká tvrz)'
-  - 'ropiky.net — Hůrka'
+- Králický pevnostní areál
+- Wikipedia — Hůrka (dělostřelecká tvrz)
+- ropiky.net — Hůrka
 updated: '2026-04-18'
+photos:
+- url: /img/forts/kr-l-ky-k-s-12a-rok-2008-02-.jpg
+  alt: K-S 12a — bojový srub tvrze Hůrka
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_K-S_12a_(rok_2008;_02).jpg
+- url: /img/forts/svaznice-hurka.jpg
+  alt: Svaznice tvrze Hůrka
+  author: Lasy
+  license: CC BY 3.0
+  source: https://commons.wikimedia.org/wiki/File:Svaznice_Hurka.JPG

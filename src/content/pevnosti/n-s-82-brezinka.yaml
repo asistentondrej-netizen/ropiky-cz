@@ -1,22 +1,36 @@
-title: 'N-S 82 „Březinka"'
-code: 'N-S 82'
-type: 'pechotni-srub'
-line: 'Náchod'
-region: 'Královéhradecký kraj'
+title: N-S 82 „Březinka"
+code: N-S 82
+type: pechotni-srub
+line: Náchod
+region: Královéhradecký kraj
 location:
   lat: 50.4261
   lon: 16.1631
-  address: 'Náchod — Běloves'
+  address: Náchod — Běloves
 built: '1937'
-state: 'muzeum'
-description: 'Pěchotní srub u Náchoda, precizně rekonstruovaný Klubem vojenské historie. Jeden z nejpropracovanějších exemplářů zpřístupněných veřejnosti mimo velké skanzeny.'
-history: |
-  Srub N-S 82 „Březinka" byl součástí linie úseku Náchod. V září 1938 byl plně obsazen a připraven k boji, po Mnichovu předán Wehrmachtu.
+state: muzeum
+description: Pěchotní srub u Náchoda, precizně rekonstruovaný Klubem vojenské historie. Jeden z nejpropracovanějších exemplářů zpřístupněných veřejnosti mimo velké skanzeny.
+history: 'Srub N-S 82 „Březinka" byl součástí linie úseku Náchod. V září 1938 byl plně obsazen a připraven k boji, po Mnichovu předán Wehrmachtu.
+
 
   Po válce byl dlouho opuštěn. Od 90. let ho rekonstruuje Klub vojenské historie Náchod — dnes patří k nejkvalitnějším soukromým rekonstrukcím v Česku.
-visit: |
-  Otevřeno sezónně víkendy a o prázdninách. Informace na kvh-nachod.cz nebo brezinka.cz.
+
+  '
+visit: 'Otevřeno sezónně víkendy a o prázdninách. Informace na kvh-nachod.cz nebo brezinka.cz.
+
+  '
 sources:
-  - 'kvh-nachod.cz'
-  - 'ropiky.net — N-S 82'
+- kvh-nachod.cz
+- ropiky.net — N-S 82
 updated: '2026-04-18'
+photos:
+- url: /img/forts/n-s-82-b-ezinka-1.jpg
+  alt: N-S 82 Březinka — muzeum náchodské linie
+  author: Vlasakovo
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:N-S_82_B%C5%99ezinka_1.jpg
+- url: /img/forts/n-chod-b-loves-n-s-82-rok-2002-01-.jpg
+  alt: N-S 82 Březinka v Bělovsi
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:N%C3%A1chod,_B%C4%9Bloves,_N-S_82_(rok_2002;_01).jpg

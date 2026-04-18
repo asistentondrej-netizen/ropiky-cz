@@ -1,22 +1,31 @@
-title: 'Tvrz Smolkov'
-code: 'OP-S Tvrz Smolkov'
-type: 'delostrelecka-tvrz'
-line: 'Opava'
-region: 'Moravskoslezský kraj'
+title: Tvrz Smolkov
+code: OP-S Tvrz Smolkov
+type: delostrelecka-tvrz
+line: Opava
+region: Moravskoslezský kraj
 location:
   lat: 49.8867
   lon: 18.0411
-  address: 'Háj ve Slezsku-Smolkov'
+  address: Háj ve Slezsku-Smolkov
 built: '1938'
-state: 'pristupny'
-description: 'Pátá z plně dokončených dělostřeleckých tvrzí. Nachází se v úseku Opava, je částečně přístupná.'
-history: |
-  Tvrz Smolkov v úseku Opava byla plně dokončena do léta 1938. Skládá se ze čtyř pěchotních srubů, jednoho vchodového objektu a podzemního systému.
+state: pristupny
+description: Pátá z plně dokončených dělostřeleckých tvrzí. Nachází se v úseku Opava, je částečně přístupná.
+history: 'Tvrz Smolkov v úseku Opava byla plně dokončena do léta 1938. Skládá se ze čtyř pěchotních srubů, jednoho vchodového objektu a podzemního systému.
+
 
   Po Mnichovu byla předána Wehrmachtu. V poválečné éře sloužila armádě, po roce 1989 postupně přecházela pod správu místních spolků.
-visit: |
-  Některé objekty jsou přístupné volně, podzemní trasa jen při speciálních akcích. Informace na obecních webech Háje ve Slezsku a místního Klubu vojenské historie.
+
+  '
+visit: 'Některé objekty jsou přístupné volně, podzemní trasa jen při speciálních akcích. Informace na obecních webech Háje ve Slezsku a místního Klubu vojenské historie.
+
+  '
 sources:
-  - 'Wikipedia — Smolkov (dělostřelecká tvrz)'
-  - 'ropiky.net — Smolkov'
+- Wikipedia — Smolkov (dělostřelecká tvrz)
+- ropiky.net — Smolkov
 updated: '2026-04-18'
+photos:
+- url: /img/forts/h-j-ve-slezsku-smolkov-mo-s-38-2015-04-14-01-.jpg
+  alt: MO-S 38 — srub tvrze Smolkov v Háji ve Slezsku
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_01).jpg
