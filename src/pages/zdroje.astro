@@ -1,0 +1,47 @@
+---
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+---
+
+<ArticleLayout
+  title="Zdroje a literatura"
+  description="Odborná literatura, archivy a online zdroje, na kterých stojí obsah portálu Ropiky.cz."
+  breadcrumb={[{ label: 'Úvod', href: '/' }, { label: 'Zdroje', href: '/zdroje' }]}
+>
+  <p>
+    Obsah portálu vychází z odborné literatury, archivních materiálů a veřejně dostupných
+    online zdrojů. Každý článek a databázová položka má seznam vlastních zdrojů — níže je
+    agregovaný přehled nejdůležitějších prací a institucí.
+  </p>
+
+  <h2>Základní monografie</h2>
+  <ul>
+    <li><strong>Aron Lubomír</strong> a kol.: <em>Československé opevnění 1935–1938.</em> Náchod: Okresní muzeum Náchod, 1990.</li>
+    <li><strong>Durčák Jan</strong>: <em>Tvrze československého opevnění.</em> Dvůr Králové nad Labem: FORTprint, 2003.</li>
+    <li><strong>Kupka Vladimír</strong> a kol.: <em>Pevnosti a opevnění v Čechách, na Moravě a ve Slezsku.</em> Praha: Libri, 2002.</li>
+    <li><strong>Fuka Jiří</strong>: <em>Československá opevnění 1935–1938.</em> Praha: MO ČR, série periodických publikací.</li>
+    <li><strong>Ráboň Martin</strong>, <strong>Svoboda Tomáš</strong> a kol.: odborné publikace Klubu vojenské historie.</li>
+  </ul>
+
+  <h2>Archivy</h2>
+  <ul>
+    <li>Vojenský historický archiv (VHA), Praha — fondy ŘOP, velitelství SOS, Hlavní štáb.</li>
+    <li>Národní archiv — fondy ministerstva národní obrany.</li>
+    <li>Archivy regionálních muzeí a klubů vojenské historie (Králíky, Náchod, Šatov, Dobrošov aj.).</li>
+  </ul>
+
+  <h2>Online zdroje</h2>
+  <ul>
+    <li><a href="https://www.ropiky.net" rel="noopener">Ropiky.net</a> — nejrozsáhlejší databáze jednotlivých objektů a fotografií.</li>
+    <li><a href="https://www.vhu.cz" rel="noopener">Vojenský historický ústav</a> — oficiální instituce s publikacemi a expozicemi.</li>
+    <li><a href="https://commons.wikimedia.org" rel="noopener">Wikimedia Commons</a> — kategorie <em>Czechoslovak border fortifications</em> a související.</li>
+    <li>Webové stránky jednotlivých muzeí: Králíky (Hůrka, Bouda), Hanička, Dobrošov, Stachelberg, Šatov.</li>
+  </ul>
+
+  <h2>Licence obsahu</h2>
+  <p>
+    Původní texty a vlastní fotografie portálu Ropiky.cz jsou licencovány pod
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.cs" rel="license">CC BY-SA 4.0</a>.
+    Externí fotografie (Wikimedia Commons a jiné) mají vlastní licence uvedené
+    u každého konkrétního snímku.
+  </p>
+</ArticleLayout>

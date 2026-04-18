@@ -1,0 +1,24 @@
+title: 'Řopíky Pražské čáry — Rokycansko'
+code: 'PC — linie Praha-západ'
+type: 'lo-vz-37'
+line: 'Pražská čára'
+region: 'Středočeský kraj'
+location:
+  lat: 49.9889
+  lon: 14.2194
+  address: 'oblast Rudná–Loděnice, Praha-západ'
+built: '1938'
+state: 'rozpadly'
+description: 'Několik dochovaných řopíků tzv. Pražské čáry — vnitrozemské obranné linie kolem hlavního města. Většina objektů byla Němci odstřelena v letech 1939–1942.'
+history: |
+  Pražská čára byla plánována jako poslední obranný prostor — vnitrozemský retranšement kolem Prahy. V létě 1938 byla výstavba ve velmi pokročilé fázi.
+
+  Po okupaci (březen 1939) Wehrmacht zahájil systematické ničení objektů na území Protektorátu Čechy a Morava. V letech 1939–1942 bylo **zničeno několik set řopíků** pomocí trhavin. Pražská čára byla postižena nejvíce.
+
+  V terénu dnes zbývají především torza — betonové fragmenty, částečně dochované střílny, zarostlé trosky. I tak jsou svědectvím o doposud málo známém vnitřním obranném systému.
+visit: |
+  Některé objekty jsou součástí turistických tras v okolí Prahy. Orientační kategorie — najdete je mimo jiné v okolí Rokycan, Rudné, Říčan a Brandýsa. Detailní mapy má ropiky.net.
+sources:
+  - 'ropiky.net — Pražská čára'
+  - 'Wikipedia — Pražská čára'
+updated: '2026-04-18'

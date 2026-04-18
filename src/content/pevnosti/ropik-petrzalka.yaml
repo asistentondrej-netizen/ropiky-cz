@@ -1,0 +1,24 @@
+title: 'Bunkre v Petržalce (BS — Petržalka)'
+code: 'BS 6, 7, 8 — Bratislava-Petržalka'
+type: 'lo-vz-37'
+line: 'Slovensko — Petržalka'
+region: 'Slovensko (dnes)'
+location:
+  lat: 48.1211
+  lon: 17.0872
+  address: 'Bratislava-Petržalka, oblast Kopčianskej ulice'
+built: '1938'
+state: 'pristupny'
+description: 'Řopíky na jižním břehu Dunaje — součást obranné linie proti Rakousku/Říši. Dnes ve správě Bratislavského samosprávného kraje, některé částečně rekonstruované.'
+history: |
+  Petržalka (tehdy ještě samostatná obec Engerau, na tehdejším rakouském území anektovaném v roce 1947 do Československa) byla po Anschlussu Rakouska (březen 1938) v bezprostředním ohrožení. Budovala se zde hustá linie lehkého opevnění.
+
+  Po Mnichovu a následné maďarské/německé okupaci přešly bunkry do cizích rukou. Po válce byly některé objekty využívány jako součást obrany proti Rakousku, později opuštěny.
+
+  Dnes se několik řopíků v Petržalce nachází v péči historických spolků a je přístupných jako venkovní expozice.
+visit: |
+  Některé objekty jsou volně přístupné, jeden je rekonstruovaný jako muzejní expozice (BS-8 Kopčany). Informace na webu Zachráňme petržalské bunkre.
+sources:
+  - 'zachranmepetrzalskebunkre.sk'
+  - 'Wikipedia — Bratislavské predmostie'
+updated: '2026-04-18'

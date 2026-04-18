@@ -1,0 +1,49 @@
+---
+import { getCollection } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('typologie');
+  return entries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  breadcrumb={[
+    { label: 'Úvod', href: '/' },
+    { label: 'Typologie', href: '/typologie' },
+    { label: entry.data.title, href: `/typologie/${entry.slug}` },
+  ]}
+  updated={entry.data.updated}
+  sources={entry.data.sources}
+>
+  <div class="fact-box">
+    <div class="fact-box__label">Základní údaje</div>
+    <dl>
+      <dt>Označení:</dt><dd class="mono">{entry.data.code}</dd>
+      <dt>Období:</dt><dd>{entry.data.period}</dd>
+      {entry.data.builtCount && (
+        <>
+          <dt>Postaveno:</dt>
+          <dd>{entry.data.builtCount.toLocaleString('cs-CZ')} objektů</dd>
+        </>
+      )}
+      {entry.data.armament && entry.data.armament.length > 0 && (
+        <>
+          <dt>Výzbroj:</dt>
+          <dd>{entry.data.armament.join(', ')}</dd>
+        </>
+      )}
+    </dl>
+  </div>
+
+  <Content />
+</ArticleLayout>

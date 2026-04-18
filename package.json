@@ -1,0 +1,19 @@
+{
+  "name": "ropiky-cz",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Referenční portál o československém opevnění 1935–1938",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.7",
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.1.1"
+  }
+}

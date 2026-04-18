@@ -1,0 +1,78 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const pevnosti = await getCollection('pevnosti');
+
+// Data pro klientský Leaflet
+const points = pevnosti.map((p) => ({
+  slug: p.id.replace(/\.json$|\.yml$|\.yaml$/, ''),
+  title: p.data.title,
+  code: p.data.code,
+  line: p.data.line,
+  type: p.data.type,
+  state: p.data.state,
+  lat: p.data.location.lat,
+  lon: p.data.location.lon,
+}));
+---
+
+<BaseLayout
+  title="Mapa pevností"
+  description="Interaktivní mapa všech dokumentovaných objektů československého opevnění 1935–1938."
+>
+  <header class="catalog-header">
+    <div class="container">
+      <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
+        <a href="/">Úvod</a> / <span>Mapa</span>
+      </div>
+      <h1>Mapa pevností</h1>
+      <p class="article-hero__lead" style="margin-top: var(--s3);">
+        Interaktivní mapa dokumentovaných objektů. Klikněte na bod pro detail.
+      </p>
+    </div>
+  </header>
+
+  <section style="padding-top: var(--s4);">
+    <div class="container">
+      <div id="map" style="height: 70vh; min-height: 520px; border: 1px solid var(--line); background: var(--paper-dark);"></div>
+      <p style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s2); font-style: italic;">
+        Mapové podklady: © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> přispěvatelé.
+      </p>
+    </div>
+  </section>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin="" is:inline></script>
+
+  <script define:vars={{ points }}>
+    window.addEventListener('load', () => {
+      if (typeof L === 'undefined') return;
+      const map = L.map('map').setView([49.8, 15.5], 7);
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 18,
+        attribution: '© OpenStreetMap',
+      }).addTo(map);
+
+      const bounds = [];
+      points.forEach((p) => {
+        const marker = L.marker([p.lat, p.lon]).addTo(map);
+        marker.bindPopup(
+          `<strong>${p.title}</strong><br/>
+           <span style="font-family:monospace;color:#7A3B2E;">${p.code}</span><br/>
+           ${p.line}<br/>
+           <a href="/katalog/${p.slug}">Detail objektu →</a>`
+        );
+        bounds.push([p.lat, p.lon]);
+      });
+
+      if (bounds.length > 0) {
+        map.fitBounds(bounds, { padding: [30, 30] });
+      }
+    });
+  </script>
+</BaseLayout>

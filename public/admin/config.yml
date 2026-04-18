@@ -1,0 +1,163 @@
+# Decap CMS konfigurace — Ropiky.cz
+# GitHub backend s OAuth (nastavte si vlastní OAuth aplikaci nebo použijte Cloudflare Worker)
+
+backend:
+  name: github
+  repo: asistentondrej-netizen/ropiky-cz   # ← GitHub repo (uživatel/repo)
+  branch: main
+  # base_url: https://<váš-oauth-worker>.workers.dev   # ← po zprovoznění OAuth Worker odkomentujte
+
+# Lokální proxy pro vývoj (spouští se `npx decap-server` ve vedlejším terminálu)
+local_backend: true
+
+# Cesta ke mediálním souborům (fotky)
+media_folder: "astro-project/src/assets/uploads"
+public_folder: "/src/assets/uploads"
+
+# Publikační režim — editorial_workflow umožňuje drafty a schvalování
+publish_mode: editorial_workflow
+
+# Česká lokalizace
+locale: 'cs'
+
+# ---------- KOLEKCE ----------
+collections:
+
+  # =========== Statické stránky ===========
+  - name: "stranky"
+    label: "Stránky (O opevnění)"
+    label_singular: "Stránka"
+    folder: "astro-project/src/content/stranky"
+    create: true
+    format: "frontmatter"
+    extension: "md"
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    fields:
+      - { label: "Název", name: "title", widget: "string" }
+      - { label: "Popis (meta description, lead)", name: "description", widget: "text" }
+      - { label: "Pořadí v menu", name: "order", widget: "number", default: 99, value_type: "int", min: 1, max: 999 }
+      - { label: "Naposledy upraveno", name: "updated", widget: "datetime", required: false, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Zdroje", name: "sources", widget: "list", required: false, field: { label: "Zdroj", name: "source", widget: "string" } }
+      - { label: "Obsah", name: "body", widget: "markdown" }
+
+  # =========== Typologie ===========
+  - name: "typologie"
+    label: "Typologie (LO vz. 36, 37, tvrze...)"
+    label_singular: "Typ objektu"
+    folder: "astro-project/src/content/typologie"
+    create: true
+    format: "frontmatter"
+    extension: "md"
+    slug: "{{slug}}"
+    summary: "{{title}} ({{code}})"
+    fields:
+      - { label: "Název", name: "title", widget: "string" }
+      - { label: "Kód označení (např. LO vz. 37)", name: "code", widget: "string" }
+      - label: "Kategorie"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Lehké opevnění (LO)", value: "lehke" }
+          - { label: "Těžké opevnění (TO)", value: "tezke" }
+      - { label: "Popis (meta, lead)", name: "description", widget: "text" }
+      - { label: "Období výstavby", name: "period", widget: "string" }
+      - { label: "Počet postavených", name: "builtCount", widget: "number", required: false, value_type: "int" }
+      - label: "Výzbroj"
+        name: "armament"
+        widget: "list"
+        required: false
+        field: { label: "Položka", name: "item", widget: "string" }
+      - { label: "Pořadí", name: "order", widget: "number", default: 99, value_type: "int" }
+      - { label: "Naposledy upraveno", name: "updated", widget: "datetime", required: false, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - label: "Zdroje"
+        name: "sources"
+        widget: "list"
+        required: false
+        field: { label: "Zdroj", name: "source", widget: "string" }
+      - { label: "Obsah", name: "body", widget: "markdown" }
+
+  # =========== Katalog pevností ===========
+  - name: "pevnosti"
+    label: "Katalog pevností"
+    label_singular: "Pevnost"
+    folder: "astro-project/src/content/pevnosti"
+    create: true
+    format: "yaml"
+    extension: "yaml"
+    slug: "{{slug}}"
+    summary: "{{code}} — {{title}}"
+    fields:
+      - { label: "Název objektu", name: "title", widget: "string" }
+      - { label: "Kód (např. MO-S 5)", name: "code", widget: "string" }
+      - label: "Typ"
+        name: "type"
+        widget: "select"
+        options:
+          - { label: "LO vz. 36", value: "lo-vz-36" }
+          - { label: "LO vz. 37 (řopík)", value: "lo-vz-37" }
+          - { label: "Pěchotní srub", value: "pechotni-srub" }
+          - { label: "Dělostřelecká tvrz", value: "delostrelecka-tvrz" }
+      - { label: "Úsek / linie", name: "line", widget: "string" }
+      - { label: "Kraj / region", name: "region", widget: "string" }
+      - label: "Poloha"
+        name: "location"
+        widget: "object"
+        fields:
+          - { label: "Zeměpisná šířka", name: "lat", widget: "number", value_type: "float", step: 0.00001 }
+          - { label: "Zeměpisná délka", name: "lon", widget: "number", value_type: "float", step: 0.00001 }
+          - { label: "Adresa / místopis", name: "address", widget: "string", required: false }
+      - { label: "Rok postavení / dokončení", name: "built", widget: "string", required: false }
+      - label: "Současný stav"
+        name: "state"
+        widget: "select"
+        options:
+          - { label: "Muzeum", value: "muzeum" }
+          - { label: "Volně přístupný", value: "pristupny" }
+          - { label: "Uzavřený", value: "zavreny" }
+          - { label: "Rozpadlý", value: "rozpadly" }
+          - { label: "Zničený", value: "zničeny" }
+          - { label: "Neznámý stav", value: "neznamy" }
+      - { label: "Krátký popis (lead)", name: "description", widget: "text" }
+      - { label: "Historie", name: "history", widget: "text", required: false }
+      - { label: "Informace pro návštěvníky", name: "visit", widget: "text", required: false }
+      - label: "Fotografie"
+        name: "photos"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Soubor / URL", name: "url", widget: "string" }
+          - { label: "Popisek (alt)", name: "alt", widget: "string" }
+          - { label: "Autor", name: "author", widget: "string", required: false }
+          - { label: "Licence", name: "license", widget: "string", required: false }
+          - { label: "Zdroj (URL)", name: "source", widget: "string", required: false }
+      - label: "Zdroje"
+        name: "sources"
+        widget: "list"
+        required: false
+        field: { label: "Zdroj", name: "source", widget: "string" }
+      - { label: "Naposledy upraveno", name: "updated", widget: "datetime", required: false, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+
+  # =========== Články / blog ===========
+  - name: "clanky"
+    label: "Články (blog, aktuality)"
+    label_singular: "Článek"
+    folder: "astro-project/src/content/clanky"
+    create: true
+    format: "frontmatter"
+    extension: "md"
+    slug: "{{slug}}"
+    summary: "{{title}} ({{pubDate}})"
+    fields:
+      - { label: "Název", name: "title", widget: "string" }
+      - { label: "Popis (meta, lead)", name: "description", widget: "text" }
+      - { label: "Datum publikace", name: "pubDate", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Autor", name: "author", widget: "string", default: "Redakce ropiky.cz" }
+      - label: "Štítky"
+        name: "tags"
+        widget: "list"
+        required: false
+        field: { label: "Štítek", name: "tag", widget: "string" }
+      - { label: "Obrázek v hlavičce (URL)", name: "cover", widget: "string", required: false }
+      - { label: "Rozepsaný článek (neveřejný)", name: "draft", widget: "boolean", default: false }
+      - { label: "Obsah", name: "body", widget: "markdown" }

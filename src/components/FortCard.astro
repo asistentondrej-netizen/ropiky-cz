@@ -1,0 +1,42 @@
+---
+export interface Props {
+  title: string;
+  code: string;
+  line: string;
+  region?: string;
+  type?: string;
+  state: string;
+  href: string;
+  imageUrl?: string;
+}
+
+const stateLabels: Record<string, string> = {
+  muzeum: 'Muzeum',
+  pristupny: 'Přístupný',
+  zavreny: 'Uzavřený',
+  rozpadly: 'Rozpadlý',
+  zničeny: 'Zničený',
+  neznamy: 'Neznámý stav',
+};
+
+const { title, code, line, region, type, state, href, imageUrl } = Astro.props;
+---
+
+<a href={href} class="fort-card">
+  <div class="fort-card__image" style={imageUrl ? `background-image: url(${imageUrl}); background-size: cover; background-position: center;` : ''}>
+    <span class="fort-card__image-label">{code}</span>
+  </div>
+  <div class="fort-card__body">
+    <div class="fort-card__header">
+      <span class="fort-card__code">{code}</span>
+      <span class="fort-card__line">{line}</span>
+    </div>
+    <h3>{title}</h3>
+    <dl class="fort-card__meta">
+      {type && (<><dt>Typ:</dt><dd>{type}</dd></>)}
+      {region && (<><dt>Kraj:</dt><dd>{region}</dd></>)}
+      <dt>Stav:</dt><dd>{stateLabels[state] ?? state}</dd>
+    </dl>
+    <span class="fort-card__more">Detail objektu →</span>
+  </div>
+</a>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#F1ECE0"/>
+  <g fill="#5C6B3A">
+    <!-- Stylizovaný řopík (zvonek + vchod) -->
+    <path d="M14 38 L14 52 L50 52 L50 38 Q50 22 32 22 Q14 22 14 38 Z"/>
+    <rect x="28" y="42" width="8" height="10" fill="#1A1612"/>
+    <circle cx="22" cy="34" r="2" fill="#1A1612"/>
+    <circle cx="42" cy="34" r="2" fill="#1A1612"/>
+  </g>
+  <text x="32" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#1A1612" font-weight="700">ŘOP</text>
+</svg>

@@ -1,0 +1,21 @@
+title: 'Li-S 33 „Nad Smědavou"'
+code: 'Li-S 33'
+type: 'pechotni-srub'
+line: 'Liberecko / Jizerské hory'
+region: 'Liberecký kraj'
+location:
+  lat: 50.8421
+  lon: 15.2310
+  address: 'Jizerské hory — okolí Smědavy'
+built: '1937'
+state: 'rozpadly'
+description: 'Pěchotní srub v liberecké linii těžkého opevnění, součást obrany severních hranic. Dnes v pokročilém stupni rozpadu.'
+history: |
+  Liberecká linie (Li) byla budována v druhé polovině 30. let na ochranu severočeské průmyslové oblasti. Stavba postupovala v obtížných horských podmínkách Jizerských hor.
+
+  Po Mnichovu objekty zabrány Wehrmachtem, výzbroj odvezena. Po válce většinu objektů nikdo systematicky neudržoval.
+visit: |
+  Objekty v zarostlém terénu, součást turistických tras v Jizerkách. Vnitřky většinou zatopené.
+sources:
+  - 'ropiky.net — Liberecko'
+updated: '2026-04-18'

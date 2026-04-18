@@ -1,0 +1,25 @@
+title: 'Tvrz Stachelberg'
+code: 'T-S Tvrz Stachelberg'
+type: 'delostrelecka-tvrz'
+line: 'Trutnov'
+region: 'Královéhradecký kraj'
+location:
+  lat: 50.6206
+  lon: 15.9139
+  address: 'Babí, 541 01 Trutnov'
+built: '1938 (nedokončeno)'
+state: 'muzeum'
+description: 'Největší plánovaná dělostřelecká tvrz čs. opevnění. Stavebně dokončen jen jeden srub a část podzemí, dnes přístupná expozice s podzemní trasou.'
+history: |
+  Stachelberg u Trutnova měla být největší tvrzí celého systému — v plánu bylo celkem dvanáct bojových objektů, dva vchodové a podzemí v délce přes 5 kilometrů.
+
+  Do září 1938 byla stavba v relativně rané fázi — dokončen byl jen pěchotní srub T-S 73 „Na mušce" a část podzemí. Po Mnichovu byla výstavba přerušena.
+
+  Po válce tvrz sloužila různým vojenským účelům. Od 90. let je postupně zpřístupňována jako muzeum.
+visit: |
+  Muzeum Tvrz Stachelberg provozuje občanské sdružení. Otevřeno od dubna do října. Aktuální informace na stachelberg.cz.
+sources:
+  - 'stachelberg.cz'
+  - 'Wikipedia — Stachelberg'
+  - 'ropiky.net — Stachelberg'
+updated: '2026-04-18'

@@ -1,0 +1,25 @@
+title: 'Tvrz Hanička'
+code: 'R-S Tvrz Hanička'
+type: 'delostrelecka-tvrz'
+line: 'Rokytnice v Orlických horách'
+region: 'Královéhradecký kraj'
+location:
+  lat: 50.1967
+  lon: 16.4925
+  address: 'Rokytnice v Orlických horách'
+built: '1938'
+state: 'muzeum'
+description: 'Plně dokončená tvrz v Orlických horách, přístupná veřejnosti. Během studené války upravena jako tajný kryt — zajímavá vrstva pozdější historie.'
+history: |
+  Tvrz Hanička byla stavěna v letech 1936–1938 a patřila k pěti plně dokončeným tvrzím čs. opevnění. Skládá se ze šesti bojových objektů a jednoho vchodového, propojených podzemím v délce přibližně 1 800 metrů.
+
+  V září 1938 byla plně obsazena a připravena k boji. Po Mnichovu opuštěna a předána Wehrmachtu, který ji v letech 1939–1945 využíval pro destruktivní pokusy.
+
+  V 70. a 80. letech byla tvrz reaktivována jako tajný protijaderný kryt Ústředního výboru KSČ (projekt „Kahan"). Tato novodobá vrstva dnes tvoří samostatný zajímavý okruh prohlídky.
+visit: |
+  Muzeum je otevřeno od dubna do listopadu, prohlídky s průvodcem. Aktuální otevírací doba a rezervace na hanicka.cz.
+sources:
+  - 'hanicka.cz — oficiální web muzea'
+  - 'Wikipedia — Hanička (dělostřelecká tvrz)'
+  - 'ropiky.net — Hanička'
+updated: '2026-04-18'

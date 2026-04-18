@@ -1,0 +1,22 @@
+title: 'KrK-S 32 „Na skalce"'
+code: 'KrK-S 32'
+type: 'pechotni-srub'
+line: 'Krkonoše'
+region: 'Královéhradecký kraj'
+location:
+  lat: 50.6783
+  lon: 15.7320
+  address: 'Krkonoše — okolí Pomezních Bud'
+built: '1937'
+state: 'rozpadly'
+description: 'Pěchotní srub v podhůří Krkonoš. Po Mnichovu opuštěn, dnes torzo v terénu.'
+history: |
+  KrK-S 32 byl součástí krkonošské linie těžkého opevnění, jež nebyla nikdy plně dokončena. Sruby v této oblasti byly stavěny v náročných horských podmínkách.
+
+  Po Mnichovu byly objekty zabrány Wehrmachtem, část výzbroje odvezena do Atlantického valu. Po válce postupně chátraly.
+visit: |
+  Objekt v terénu, vhodný jako součást turistické trasy. Vnitřek nepřístupný.
+sources:
+  - 'ropiky.net — Krkonoše'
+  - 'Wikipedia — Československé opevnění v Krkonoších'
+updated: '2026-04-18'

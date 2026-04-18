@@ -1,0 +1,25 @@
+title: 'Tvrz Dobrošov'
+code: 'N-S Tvrz Dobrošov'
+type: 'delostrelecka-tvrz'
+line: 'Náchod'
+region: 'Královéhradecký kraj'
+location:
+  lat: 50.4106
+  lon: 16.1856
+  address: 'Dobrošov, 547 01 Náchod'
+built: '1938 (nedokončeno)'
+state: 'muzeum'
+description: 'Nedokončená tvrz s největšími podzemními sály čs. opevnění. Přístupná podzemní trasa je přes 1 km dlouhá.'
+history: |
+  Tvrz Dobrošov u Náchoda byla stavěna od roku 1937 jako součást linie chránící severovýchodní Čechy. V září 1938 byla teprve v pokročilé fázi výstavby — povrchové sruby byly zčásti betonovány, podzemní systém vyražen téměř kompletně.
+
+  Po Mnichovu byla výstavba přerušena. Wehrmacht zde od roku 1939 prováděl destruktivní střelecké pokusy, díky kterým je dnes v terénu vidět rozsáhlé poškození pancéřových prvků.
+
+  Po válce byla tvrz částečně využívána armádou. Od 60. let probíhalo postupné zpřístupňování — dnes je jednou z nejnavštěvovanějších expozic čs. opevnění.
+visit: |
+  Muzeum spravuje Husitské muzeum v Náchodě. Otevřeno od dubna do října, doba prohlídky podzemím cca 90 minut. Aktuální informace na muzeumnachodska.cz.
+sources:
+  - 'Husitské muzeum — Pevnost Dobrošov'
+  - 'Wikipedia — Dobrošov (dělostřelecká tvrz)'
+  - 'ropiky.net — Dobrošov'
+updated: '2026-04-18'

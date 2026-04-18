@@ -1,0 +1,47 @@
+---
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+---
+
+<ArticleLayout
+  title="O projektu Ropiky.cz"
+  description="Referenční portál o československém opevnění z let 1935–1938 — co tu najdete a proč vznikl."
+  breadcrumb={[{ label: 'Úvod', href: '/' }, { label: 'O projektu', href: '/o-projektu' }]}
+>
+  <p>
+    <strong>Ropiky.cz</strong> je nezávislý referenční portál věnovaný československému stálému
+    opevnění budovanému v letech 1935–1938 — zkráceně <em>ŘOP</em> (Ředitelství opevňovacích prací).
+    Cílem webu je shromáždit ověřené informace o typologii, historii a konkrétních objektech
+    a zpřístupnit je v moderní, dobře čitelné podobě.
+  </p>
+
+  <h2>Co tu najdete</h2>
+  <ul>
+    <li><strong>Stálé stránky</strong> o historii a typologii opevnění — vstupní rozcestník pro nováčky.</li>
+    <li><strong>Katalog pevností</strong> s GPS souřadnicemi, fotografiemi a aktuálním stavem objektů.</li>
+    <li><strong>Interaktivní mapa</strong> všech katalogizovaných pozic.</li>
+    <li><strong>Články</strong> o objevech, výletních tipech a tématech z dějin opevnění.</li>
+  </ul>
+
+  <h2>Otevřený obsah</h2>
+  <p>
+    Texty a vlastní fotografie jsou pod licencí <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.cs" rel="license">CC BY-SA 4.0</a>.
+    To znamená, že je můžete volně sdílet, citovat a upravovat — pod podmínkou uvedení zdroje
+    a zachování stejné licence. Externí fotografie (zejména z Wikimedia Commons) mají
+    vlastní licence uvedené v popisku.
+  </p>
+
+  <h2>Spolupráce</h2>
+  <p>
+    Máte vlastní fotografie, terénní pozorování, nebo opravu faktů? Ozvěte se přes
+    <a href="/kontakt">kontaktní stránku</a>. Vítaná je jakákoli forma rozšíření katalogu.
+  </p>
+
+  <div class="fact-box">
+    <div class="fact-box__label">Status projektu</div>
+    <dl>
+      <dt>Verze:</dt><dd>0.1 (beta)</dd>
+      <dt>Spuštěno:</dt><dd>2026</dd>
+      <dt>Technologie:</dt><dd>Astro · Cloudflare Pages · OpenStreetMap</dd>
+    </dl>
+  </div>
+</ArticleLayout>

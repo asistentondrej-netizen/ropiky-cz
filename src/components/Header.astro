@@ -1,0 +1,24 @@
+---
+const { pathname } = Astro.url;
+const isActive = (path: string) =>
+  pathname === path || (path !== '/' && pathname.startsWith(path));
+---
+
+<header class="site-header">
+  <div class="site-header__inner">
+    <a href="/" class="site-logo">
+      <span class="site-logo__primary">Ropiky.cz</span>
+      <span class="site-logo__secondary">Opevnění ČSR · 1935–1938</span>
+    </a>
+
+    <nav class="site-nav" aria-label="Hlavní navigace">
+      <a href="/o-opevneni/co-je-rop" aria-current={isActive('/o-opevneni') ? 'page' : undefined}>O opevnění</a>
+      <a href="/typologie" aria-current={isActive('/typologie') ? 'page' : undefined}>Typologie</a>
+      <a href="/katalog" aria-current={isActive('/katalog') ? 'page' : undefined}>Katalog pevností</a>
+      <a href="/mapa" aria-current={isActive('/mapa') ? 'page' : undefined}>Mapa</a>
+      <a href="/clanky" aria-current={isActive('/clanky') ? 'page' : undefined}>Články</a>
+    </nav>
+
+    <a href="/katalog" class="header-action">Prozkoumat</a>
+  </div>
+</header>

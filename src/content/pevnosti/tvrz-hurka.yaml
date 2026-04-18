@@ -1,0 +1,25 @@
+title: 'Tvrz Hůrka'
+code: 'K-S Tvrz Hůrka'
+type: 'delostrelecka-tvrz'
+line: 'Králíky'
+region: 'Pardubický kraj'
+location:
+  lat: 50.0711
+  lon: 16.7683
+  address: 'Králíky'
+built: '1938'
+state: 'muzeum'
+description: 'Plně dokončená tvrz u Králík, po válce využívaná jako muniční sklad. Dnes částečně přístupná expozice s podzemními prostorami.'
+history: |
+  Tvrz Hůrka je jednou z pěti plně dokončených tvrzí čs. opevnění. Stavěna byla v letech 1936–1938 a patří k nejzachovalejším — podzemí zahrnuje přibližně 1 750 metrů chodeb.
+
+  Po Mnichovu sloužila Wehrmachtu jako muniční sklad. Po válce ji převzala čs. armáda a celá desetiletí ji používala jako tajný sklad munice.
+
+  Po roce 2000 byla zpřístupněna veřejnosti a dnes je součástí Králického pevnostního okruhu.
+visit: |
+  Muzeum je otevřeno sezónně od dubna do října. Prohlídka s průvodcem, doba cca 90 minut. Aktuální informace na kralickypevnostniareal.cz.
+sources:
+  - 'Králický pevnostní areál'
+  - 'Wikipedia — Hůrka (dělostřelecká tvrz)'
+  - 'ropiky.net — Hůrka'
+updated: '2026-04-18'

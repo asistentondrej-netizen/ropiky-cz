@@ -1,0 +1,21 @@
+title: 'StM-S 33 „Na stráži"'
+code: 'StM-S 33'
+type: 'pechotni-srub'
+line: 'Staré Město pod Sněžníkem'
+region: 'Olomoucký kraj'
+location:
+  lat: 50.1736
+  lon: 16.9561
+  address: 'Staré Město pod Sněžníkem — Kunčice'
+built: '1937'
+state: 'pristupny'
+description: 'Pěchotní srub v horském terénu Jeseníků — jeden z nejvýše položených objektů čs. opevnění. Volně přístupný v rámci turistických tras.'
+history: |
+  StM-S 33 byl součástí horského úseku obrany v Jeseníkách. Výstavba probíhala v mimořádně náročných podmínkách — těžba skály, transport materiálu vysokohorskou dopravou.
+
+  Po Mnichovu opuštěn, během okupace využíván Wehrmachtem. Dnes je součástí turistické trasy v oblasti Hanušovicka.
+visit: |
+  Volně přístupný vnějšek, součást pěších tras. Vnitřek zavřený.
+sources:
+  - 'ropiky.net — StM-S 33'
+updated: '2026-04-18'

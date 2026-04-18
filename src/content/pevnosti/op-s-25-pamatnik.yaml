@@ -1,0 +1,23 @@
+title: 'OP-S 25 „Památník"'
+code: 'OP-S 25'
+type: 'pechotni-srub'
+line: 'Opavsko'
+region: 'Moravskoslezský kraj'
+location:
+  lat: 49.9550
+  lon: 17.9020
+  address: 'Opava — Hlučínsko'
+built: '1937'
+state: 'rozpadly'
+description: 'Pěchotní srub na opavském úseku těžkého opevnění. Rozsáhlý objekt v dnes již zarostlém terénu.'
+history: |
+  OP-S 25 byl součástí opavské linie těžkého opevnění bránící důležité průmyslové oblasti. Stavba spadala do roku 1937, dokončení proběhlo částečně v 1938.
+
+  Po Mnichovu zabrán Wehrmachtem, výzbroj odvezena. V poválečných letech objekt bez péče.
+
+  Dnes přístupný zvenku, vnitřek nepřístupný. Možný cíl turisticko-historického zájmu.
+visit: |
+  Volně přístupný v terénu, součást vyznačených stezek na Opavsku.
+sources:
+  - 'ropiky.net — Opavsko'
+updated: '2026-04-18'

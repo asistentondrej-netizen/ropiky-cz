@@ -1,0 +1,22 @@
+title: 'Tvrz Adam'
+code: 'K-S Tvrz Adam'
+type: 'delostrelecka-tvrz'
+line: 'Králíky'
+region: 'Pardubický kraj'
+location:
+  lat: 50.0942
+  lon: 16.7769
+  address: 'Králíky'
+built: '1938'
+state: 'zavreny'
+description: 'Plně dokončená tvrz, třetí z trojice Bouda–Hůrka–Adam v Králickém pevnostním areálu. Nachází se v soukromém vlastnictví, veřejnosti zpravidla nepřístupná.'
+history: |
+  Tvrz Adam byla dokončena v roce 1938 jako třetí z „králické trojice" tvrzí. Po Mnichovu sloužila Wehrmachtu, po válce čs. armádě jako muniční sklad.
+
+  Na rozdíl od Boudy a Hůrky je Adam dnes v soukromém vlastnictví a veřejnosti zpravidla nepřístupný. Občas se pořádají výjimečné akce nebo prohlídky pro odborné skupiny.
+visit: |
+  Standardně uzavřeno. Sledujte informace Královéhradeckého kraje a Klubu vojenské historie, kteří občas pořádají speciální prohlídky.
+sources:
+  - 'Wikipedia — Adam (dělostřelecká tvrz)'
+  - 'ropiky.net — Adam'
+updated: '2026-04-18'

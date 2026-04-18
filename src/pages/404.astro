@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="404 — Nenalezeno" description="Požadovaná stránka neexistuje." noIndex>
+  <section style="min-height: 60vh; display: flex; align-items: center;">
+    <div class="container content-width" style="text-align: center;">
+      <p class="label mono" style="color: var(--rust); margin-bottom: var(--s2);">Chyba 404</p>
+      <h1>Objekt nenalezen</h1>
+      <p style="font-style: italic; color: var(--ink-light); margin: var(--s3) auto; max-width: 48ch;">
+        Stránka, kterou hledáte, neexistuje nebo byla přemístěna. Použijte navigaci nebo se vraťte na úvod.
+      </p>
+      <div style="margin-top: var(--s4);">
+        <a href="/" class="btn btn--primary">Zpět na úvod</a>
+        &nbsp;
+        <a href="/katalog" class="btn btn--link">Prozkoumat katalog</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

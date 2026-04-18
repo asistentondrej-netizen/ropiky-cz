@@ -1,0 +1,87 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import FortCard from '../../components/FortCard.astro';
+import { getCollection } from 'astro:content';
+
+const all = (await getCollection('pevnosti')).sort((a, b) =>
+  a.data.title.localeCompare(b.data.title, 'cs')
+);
+
+// Unikátní filtry
+const lines = [...new Set(all.map((p) => p.data.line))].sort((a, b) => a.localeCompare(b, 'cs'));
+const types = [...new Set(all.map((p) => p.data.type))].sort();
+const total = all.length;
+---
+
+<BaseLayout
+  title="Katalog pevností"
+  description={`Databáze ${total} dokumentovaných objektů československého opevnění 1935–1938 s GPS souřadnicemi a fotografiemi.`}
+>
+  <header class="catalog-header">
+    <div class="container">
+      <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
+        <a href="/">Úvod</a> / <span>Katalog pevností</span>
+      </div>
+      <h1>Katalog pevností</h1>
+      <p class="article-hero__lead" style="margin-top: var(--s3);">
+        Databáze <strong>{total}</strong> dokumentovaných objektů s GPS souřadnicemi, aktuálním stavem a fotografiemi.
+        Postupně doplňujeme.
+      </p>
+    </div>
+  </header>
+
+  <section style="padding-top: var(--s4);">
+    <div class="container">
+      <div class="catalog-filters" id="filters">
+        <button class="catalog-filter catalog-filter--active" data-filter="all">Vše ({total})</button>
+        {lines.map((l) => (
+          <button class="catalog-filter" data-filter={`line:${l}`}>{l}</button>
+        ))}
+      </div>
+
+      {all.length > 0 ? (
+        <div class="fort-grid" id="fort-grid">
+          {all.map((p) => (
+            <div data-line={p.data.line} data-type={p.data.type} data-state={p.data.state}>
+              <FortCard
+                title={p.data.title}
+                code={p.data.code}
+                line={p.data.line}
+                region={p.data.region}
+                type={p.data.type}
+                state={p.data.state}
+                href={`/katalog/${p.id.replace(/\.json$|\.yml$|\.yaml$/, '')}`}
+              />
+            </div>
+          ))}
+        </div>
+      ) : (
+        <p style="font-style: italic; color: var(--ink-light); padding: var(--s5) 0;">
+          Katalog se postupně plní. Podívejte se brzy.
+        </p>
+      )}
+    </div>
+  </section>
+
+  <script>
+    const filters = document.querySelectorAll<HTMLButtonElement>('[data-filter]');
+    const items = document.querySelectorAll<HTMLElement>('#fort-grid > div');
+
+    filters.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        filters.forEach((b) => b.classList.remove('catalog-filter--active'));
+        btn.classList.add('catalog-filter--active');
+
+        const filter = btn.dataset.filter!;
+        items.forEach((item) => {
+          if (filter === 'all') {
+            item.style.display = '';
+          } else if (filter.startsWith('line:')) {
+            const line = filter.slice(5);
+            item.style.display = item.dataset.line === line ? '' : 'none';
+          }
+        });
+      });
+    });
+  </script>
+</BaseLayout>

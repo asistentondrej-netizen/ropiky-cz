@@ -1,0 +1,22 @@
+title: 'Tvrz Smolkov'
+code: 'OP-S Tvrz Smolkov'
+type: 'delostrelecka-tvrz'
+line: 'Opava'
+region: 'Moravskoslezský kraj'
+location:
+  lat: 49.8867
+  lon: 18.0411
+  address: 'Háj ve Slezsku-Smolkov'
+built: '1938'
+state: 'pristupny'
+description: 'Pátá z plně dokončených dělostřeleckých tvrzí. Nachází se v úseku Opava, je částečně přístupná.'
+history: |
+  Tvrz Smolkov v úseku Opava byla plně dokončena do léta 1938. Skládá se ze čtyř pěchotních srubů, jednoho vchodového objektu a podzemního systému.
+
+  Po Mnichovu byla předána Wehrmachtu. V poválečné éře sloužila armádě, po roce 1989 postupně přecházela pod správu místních spolků.
+visit: |
+  Některé objekty jsou přístupné volně, podzemní trasa jen při speciálních akcích. Informace na obecních webech Háje ve Slezsku a místního Klubu vojenské historie.
+sources:
+  - 'Wikipedia — Smolkov (dělostřelecká tvrz)'
+  - 'ropiky.net — Smolkov'
+updated: '2026-04-18'

@@ -1,0 +1,24 @@
+title: 'MO-S 26 „U Olše"'
+code: 'MO-S 26'
+type: 'pechotni-srub'
+line: 'Moravská Ostrava'
+region: 'Moravskoslezský kraj'
+location:
+  lat: 49.8950
+  lon: 18.5560
+  address: 'Bohumín, břeh řeky Olše'
+built: '1936'
+state: 'pristupny'
+description: 'Pěchotní srub u soutoku Odry a Olše. Jeden z nejstarších srubů linie MO, součástí obrany důležitého železničního uzlu Bohumín.'
+history: |
+  MO-S 26 byl budován v první fázi (1936) a patří mezi nejstarší objekty těžkého opevnění. Jeho úkolem byla obrana železničního a silničního mostu přes Olši.
+
+  Po Mnichovu zabrán polskou armádou spolu s celým Těšínskem. Po válce součástí linie ČSLA, později opuštěn.
+
+  Dnes volně přístupný vnějšek, součást informačního okruhu „Stopy opevnění na Ostravsku".
+visit: |
+  Volně přístupný objekt v blízkosti hraničního přechodu. Dobré výchozí místo pro návštěvu celé linie MO.
+sources:
+  - 'ropiky.net — MO-S 26'
+  - 'Stopy opevnění Ostravska'
+updated: '2026-04-18'

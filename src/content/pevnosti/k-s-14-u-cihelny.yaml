@@ -1,0 +1,25 @@
+title: 'K-S 14 „U cihelny"'
+code: 'K-S 14'
+type: 'pechotni-srub'
+line: 'Králíky — východní Čechy'
+region: 'Pardubický kraj'
+location:
+  lat: 50.0867
+  lon: 16.7569
+  address: 'Králíky, okolí Hedče'
+built: '1937'
+state: 'muzeum'
+description: 'Pěchotní srub s muzejní expozicí v rámci Vojensko-historického areálu Cihelna u Králík. Jeden z nejlépe rekonstruovaných srubů.'
+history: |
+  K-S 14 „U cihelny" byl součástí silně opevněné králicko-orlické linie. Stavba probíhala v letech 1937–1938.
+
+  Po Mnichovu zabrán Wehrmachtem, po válce léta opuštěn. Od 90. let intenzivní rekonstrukce — dnes muzejní objekt s autentickou výzbrojí, ubikacemi a strojovnou.
+
+  Pravidelně se zde konají rekonstrukce dobových bojů „Cihelna" — jedna z největších vojensko-historických akcí v ČR.
+visit: |
+  Muzeum K-S 14 „U cihelny" — sezónně otevřené, vstupné. Součást areálu Vojenské muzeum Králíky. Akce „Cihelna" obvykle v srpnu.
+sources:
+  - 'vojenske-muzeum-kraliky.cz'
+  - 'akce-cihelna.cz'
+  - 'ropiky.net — K-S 14'
+updated: '2026-04-18'

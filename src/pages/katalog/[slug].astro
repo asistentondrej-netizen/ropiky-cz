@@ -1,0 +1,111 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('pevnosti');
+  return entries.map((entry) => ({
+    params: { slug: entry.id.replace(/\.json$|\.yml$|\.yaml$/, '') },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const d = entry.data;
+
+const stateLabels: Record<string, string> = {
+  muzeum: 'Muzeum — přístupný veřejnosti',
+  pristupny: 'Volně přístupný',
+  zavreny: 'Uzavřený',
+  rozpadly: 'Rozpadlý / v torzu',
+  zničeny: 'Zničený',
+  neznamy: 'Neznámý stav',
+};
+---
+
+<BaseLayout
+  title={`${d.title} (${d.code})`}
+  description={d.description}
+>
+  <header class="article-hero">
+    <div class="container">
+      <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
+        <a href="/">Úvod</a> / <a href="/katalog">Katalog</a> / <span>{d.code}</span>
+      </div>
+      <div class="article-hero__meta">
+        <span class="label mono" style="color: var(--rust);">{d.code}</span>
+        <span class="label" style="color: var(--ink-light);">{d.line} · {d.region}</span>
+      </div>
+      <h1>{d.title}</h1>
+      <p class="article-hero__lead">{d.description}</p>
+    </div>
+  </header>
+
+  <div class="article-body">
+    <div class="container content-width">
+      <div class="fact-box">
+        <div class="fact-box__label">Technický list</div>
+        <dl>
+          <dt>Typ:</dt><dd><a href={`/typologie/${d.type}`}>{d.type}</a></dd>
+          <dt>Úsek / linie:</dt><dd>{d.line}</dd>
+          <dt>Kraj:</dt><dd>{d.region}</dd>
+          {d.built && (<><dt>Postaveno:</dt><dd>{d.built}</dd></>)}
+          <dt>Stav:</dt><dd>{stateLabels[d.state] ?? d.state}</dd>
+          <dt>Souřadnice:</dt>
+          <dd class="mono">
+            <a href={`https://www.openstreetmap.org/?mlat=${d.location.lat}&mlon=${d.location.lon}&zoom=16`} rel="noopener" target="_blank">
+              {d.location.lat.toFixed(5)}, {d.location.lon.toFixed(5)}
+            </a>
+          </dd>
+          {d.location.address && (<><dt>Adresa:</dt><dd>{d.location.address}</dd></>)}
+        </dl>
+      </div>
+
+      {d.history && (
+        <section>
+          <h2>Historie</h2>
+          <p set:html={d.history.replace(/\n\n/g, '</p><p>')} />
+        </section>
+      )}
+
+      {d.visit && (
+        <section>
+          <h2>Pro návštěvníky</h2>
+          <p set:html={d.visit.replace(/\n\n/g, '</p><p>')} />
+        </section>
+      )}
+
+      {d.photos && d.photos.length > 0 && (
+        <section>
+          <h2>Fotografie</h2>
+          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--s3);">
+            {d.photos.map((p) => (
+              <figure style="margin: 0;">
+                <img src={p.url} alt={p.alt} loading="lazy" style="border: 1px solid var(--line);" />
+                <figcaption style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s1); font-style: italic;">
+                  {p.alt}
+                  {p.author && ` — ${p.author}`}
+                  {p.license && (
+                    <>
+                      {' · '}
+                      {p.source ? <a href={p.source}>{p.license}</a> : p.license}
+                    </>
+                  )}
+                </figcaption>
+              </figure>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {d.sources && d.sources.length > 0 && (
+        <section style="margin-top: var(--s6); padding-top: var(--s4); border-top: 2px solid var(--ink);">
+          <h2 style="margin-top:0; padding-top:0; border-top:none;">Zdroje</h2>
+          <ul>
+            {d.sources.map((s) => <li>{s}</li>)}
+          </ul>
+        </section>
+      )}
+    </div>
+  </div>
+</BaseLayout>

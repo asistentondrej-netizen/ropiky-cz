@@ -1,0 +1,166 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import FortCard from '../components/FortCard.astro';
+
+// Typologie sorted by order
+const typologie = (await getCollection('typologie')).sort(
+  (a, b) => a.data.order - b.data.order
+);
+
+// Výběr pevností — vezmeme prvních 6 (nebo upravíme dle potřeby)
+const pevnosti = (await getCollection('pevnosti')).slice(0, 6);
+
+// Nejnovější články
+const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 4);
+---
+
+<BaseLayout
+  title="Ropiky.cz"
+  description="Referenční portál o československém opevnění z let 1935–1938. Typologie, katalog pevností, historie a mapy."
+>
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero__content">
+      <span class="hero__overline">Encyklopedie · 1935–1938</span>
+      <h1>Pevnosti, které nikdy nepadly v boji.</h1>
+      <p class="hero__lead">
+        Během necelých čtyř let postavilo Československo jeden z nejhustších systémů opevnění v Evropě.
+        Dnes po něm zůstaly tisíce betonových stop napříč historickými zeměmi.
+      </p>
+      <div class="hero__actions">
+        <a href="/katalog" class="btn btn--primary">Prozkoumat katalog</a>
+        <a href="/o-opevneni/co-je-rop" class="btn btn--ghost">Co je ŘOP?</a>
+      </div>
+
+      <aside class="hero__stats" aria-label="Základní čísla">
+        <dl>
+          <dt>Objektů</dt><dd>~ 10 000</dd>
+          <dt>Linie</dt><dd>~ 1 276 km</dd>
+          <dt>Období</dt><dd>1935–1938</dd>
+          <dt>Tvrze</dt><dd>8</dd>
+        </dl>
+      </aside>
+    </div>
+  </section>
+
+  <!-- TYPOLOGIE -->
+  <section id="typologie">
+    <div class="container">
+      <header class="section-header">
+        <span class="section-header__num">I.</span>
+        <div class="section-header__content">
+          <h2>Typologie opevnění</h2>
+          <p>Od lehkých objektů až po dělostřelecké tvrze</p>
+        </div>
+      </header>
+
+      <div class="typology-grid">
+        {typologie.map((t) => (
+          <a href={`/typologie/${t.slug}`} class="typology-card">
+            <div class="typology-card__code">{t.data.code}</div>
+            <h3>{t.data.title}</h3>
+            <div class="typology-card__meta">
+              <span>{t.data.period}</span>
+              {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
+            </div>
+            <p>{t.data.description}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- KATALOG PREVIEW -->
+  <section id="katalog-preview" style="padding-top: 0;">
+    <div class="container">
+      <header class="section-header">
+        <span class="section-header__num">II.</span>
+        <div class="section-header__content">
+          <h2>Katalog pevností</h2>
+          <p>Dokumentované objekty napříč historickými zeměmi</p>
+        </div>
+      </header>
+
+      {pevnosti.length > 0 ? (
+        <div class="fort-grid">
+          {pevnosti.map((p) => (
+            <FortCard
+              title={p.data.title}
+              code={p.data.code}
+              line={p.data.line}
+              region={p.data.region}
+              type={p.data.type}
+              state={p.data.state}
+              href={`/katalog/${p.id.replace(/\.json$|\.yml$|\.yaml$/, '')}`}
+            />
+          ))}
+        </div>
+      ) : (
+        <p style="font-style: italic; color: var(--ink-light);">
+          Databáze se postupně doplňuje. Sledujte <a href="/clanky">články</a> pro novinky.
+        </p>
+      )}
+
+      <div style="text-align: center; margin-top: var(--s5);">
+        <a href="/katalog" class="btn btn--link">Zobrazit celý katalog →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURES -->
+  <section>
+    <div class="container">
+      <div class="features">
+        <div class="feature">
+          <div class="feature__num">I.</div>
+          <h3>Ověřené prameny</h3>
+          <p>Každý článek odkazuje na odbornou literaturu, archivy a terénní průzkumy.</p>
+        </div>
+        <div class="feature">
+          <div class="feature__num">II.</div>
+          <h3>Interaktivní mapa</h3>
+          <p>Všechny katalogizované objekty najdete v mapě s GPS souřadnicemi.</p>
+        </div>
+        <div class="feature">
+          <div class="feature__num">III.</div>
+          <h3>Otevřený obsah</h3>
+          <p>Texty a fotografie pod licencí CC BY-SA 4.0. Sdílejte, citujte, rozšiřujte.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BLOG / AKTUALITY -->
+  {clanky.length > 0 && (
+    <section>
+      <div class="container">
+        <header class="section-header">
+          <span class="section-header__num">III.</span>
+          <div class="section-header__content">
+            <h2>Aktuality</h2>
+            <p>Nové články, objevené objekty, výzkumné zápisky</p>
+          </div>
+        </header>
+
+        <div class="article-list">
+          {clanky.map((c) => (
+            <a href={`/clanky/${c.slug}`} class="article-item">
+              <div>
+                <div class="article-item__date">
+                  {c.data.pubDate.toLocaleDateString('cs-CZ', { day: 'numeric', month: 'long', year: 'numeric' })}
+                </div>
+              </div>
+              <div>
+                <h3>{c.data.title}</h3>
+                <p>{c.data.description}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+</BaseLayout>

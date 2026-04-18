@@ -1,0 +1,55 @@
+---
+import BaseLayout from './BaseLayout.astro';
+
+export interface Props {
+  title: string;
+  description: string;
+  breadcrumb?: { label: string; href: string }[];
+  updated?: Date;
+  sources?: string[];
+}
+
+const { title, description, breadcrumb = [], updated, sources } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <article>
+    <header class="article-hero">
+      <div class="container">
+        <div class="article-hero__meta">
+          <nav class="article-hero__breadcrumb" aria-label="Drobečky">
+            {breadcrumb.map((b, i) => (
+              <>
+                {i > 0 && <span> / </span>}
+                <a href={b.href}>{b.label}</a>
+              </>
+            ))}
+          </nav>
+        </div>
+        <h1>{title}</h1>
+        <p class="article-hero__lead">{description}</p>
+      </div>
+    </header>
+
+    <div class="article-body">
+      <div class="container content-width">
+        <slot />
+
+        {sources && sources.length > 0 && (
+          <section style="margin-top: var(--s6); padding-top: var(--s4); border-top: 2px solid var(--ink);">
+            <h2 style="margin-top:0; padding-top:0; border-top:none;">Zdroje a literatura</h2>
+            <ul>
+              {sources.map((s) => <li>{s}</li>)}
+            </ul>
+          </section>
+        )}
+
+        {updated && (
+          <p class="label" style="margin-top: var(--s5); color: var(--ink-light);">
+            Naposledy aktualizováno: {updated.toLocaleDateString('cs-CZ', { year: 'numeric', month: 'long', day: 'numeric' })}
+          </p>
+        )}
+      </div>
+    </div>
+  </article>
+</BaseLayout>

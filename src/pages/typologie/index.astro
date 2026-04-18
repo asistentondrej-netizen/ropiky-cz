@@ -1,0 +1,81 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const typologie = (await getCollection('typologie')).sort(
+  (a, b) => a.data.order - b.data.order
+);
+
+const lehke = typologie.filter((t) => t.data.category === 'lehke');
+const tezke = typologie.filter((t) => t.data.category === 'tezke');
+---
+
+<BaseLayout
+  title="Typologie opevnění"
+  description="Přehled typů československých pevnostních objektů z let 1935–1938: lehké opevnění (LO vz. 36 a 37) i těžké opevnění (pěchotní sruby, dělostřelecké tvrze)."
+>
+  <header class="catalog-header">
+    <div class="container">
+      <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
+        <a href="/">Úvod</a> / <span>Typologie</span>
+      </div>
+      <h1>Typologie opevnění</h1>
+      <p class="article-hero__lead" style="margin-top: var(--s3);">
+        Československé opevnění zahrnovalo od jednoduchých kulometných srubů až po mohutné
+        podzemní tvrze. Každý typ měl svou roli v obranné koncepci.
+      </p>
+    </div>
+  </header>
+
+  <section>
+    <div class="container">
+      <header class="section-header">
+        <span class="section-header__num">I.</span>
+        <div class="section-header__content">
+          <h2>Lehké opevnění (LO)</h2>
+          <p>Kulometné objekty tvořící hustou obrannou síť</p>
+        </div>
+      </header>
+
+      <div class="typology-grid">
+        {lehke.map((t) => (
+          <a href={`/typologie/${t.slug}`} class="typology-card">
+            <div class="typology-card__code">{t.data.code}</div>
+            <h3>{t.data.title}</h3>
+            <div class="typology-card__meta">
+              <span>{t.data.period}</span>
+              {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
+            </div>
+            <p>{t.data.description}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section style="padding-top: 0;">
+    <div class="container">
+      <header class="section-header">
+        <span class="section-header__num">II.</span>
+        <div class="section-header__content">
+          <h2>Těžké opevnění (TO)</h2>
+          <p>Pěchotní sruby a dělostřelecké tvrze</p>
+        </div>
+      </header>
+
+      <div class="typology-grid">
+        {tezke.map((t) => (
+          <a href={`/typologie/${t.slug}`} class="typology-card">
+            <div class="typology-card__code">{t.data.code}</div>
+            <h3>{t.data.title}</h3>
+            <div class="typology-card__meta">
+              <span>{t.data.period}</span>
+              {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
+            </div>
+            <p>{t.data.description}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

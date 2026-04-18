@@ -1,0 +1,27 @@
+---
+import ArticleLayout from '../layouts/ArticleLayout.astro';
+---
+
+<ArticleLayout
+  title="Kontakt"
+  description="Kontakt pro dotazy, opravy nebo nabídku spolupráce na portálu Ropiky.cz."
+  breadcrumb={[{ label: 'Úvod', href: '/' }, { label: 'Kontakt', href: '/kontakt' }]}
+>
+  <p>
+    Píšete o čs. opevnění, máte fotografie, opravu faktů nebo tip na zajímavý objekt?
+    Rádi vás uslyšíme.
+  </p>
+
+  <h2>Napište nám</h2>
+  <p>
+    E-mail: <a href="mailto:info@ropiky.cz">info@ropiky.cz</a>
+  </p>
+
+  <h2>Co uvítáme</h2>
+  <ul>
+    <li>Opravy faktických chyb, přesnější data a doplňující zdroje.</li>
+    <li>Vlastní fotografie objektů (s preferencí pro licenci CC BY-SA 4.0).</li>
+    <li>Terénní pozorování — aktuální stav objektu, dostupnost, zajímavosti.</li>
+    <li>Tipy na muzea, expozice a akce spojené s opevněním.</li>
+  </ul>
+</ArticleLayout>

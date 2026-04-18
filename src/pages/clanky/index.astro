@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+
+<BaseLayout
+  title="Články a aktuality"
+  description="Novinky, objevené objekty, výzkumné zápisky a expertní články o československém opevnění."
+>
+  <header class="catalog-header">
+    <div class="container">
+      <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
+        <a href="/">Úvod</a> / <span>Články</span>
+      </div>
+      <h1>Články a aktuality</h1>
+      <p class="article-hero__lead" style="margin-top: var(--s3);">
+        Objevené objekty, výzkumné zápisky, tipy na výlety a témata z historie opevnění.
+      </p>
+    </div>
+  </header>
+
+  <section>
+    <div class="container content-width">
+      {clanky.length > 0 ? (
+        <div class="article-list">
+          {clanky.map((c) => (
+            <a href={`/clanky/${c.slug}`} class="article-item">
+              <div>
+                <div class="article-item__date">
+                  {c.data.pubDate.toLocaleDateString('cs-CZ', { day: 'numeric', month: 'long', year: 'numeric' })}
+                </div>
+              </div>
+              <div>
+                <h3>{c.data.title}</h3>
+                <p>{c.data.description}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p style="font-style: italic; color: var(--ink-light);">
+          První články chystáme. Zatím se podívejte na <a href="/o-opevneni/co-je-rop">stálé stránky o opevnění</a>.
+        </p>
+      )}
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,24 @@
+title: 'Bunkre LO vz. 36 — okolí Bratislavy'
+code: 'BA — vz. 36'
+type: 'lo-vz-36'
+line: 'Bratislava — okolí Devína'
+region: 'Slovensko (dnes)'
+location:
+  lat: 48.1738
+  lon: 16.9779
+  address: 'Devín, okolí soutoku Moravy a Dunaje'
+built: '1936'
+state: 'rozpadly'
+description: 'Vzácně dochované objekty starší typologie LO vz. 36 v okolí Devína a Bratislavy. Předchůdci klasických řopíků s jednoduchší výzbrojí.'
+history: |
+  Bunkry LO vz. 36 byly stavěny v roce 1936 jako první masová generace lehkého opevnění. Konstrukčně jednodušší (jen frontální střelba), brzy nahrazené dokonalejším vzorem 37 s bočními střílnami.
+
+  Bratislavské bunkry vz. 36 patří mezi nejranější objekty československého opevnění. Po Vídeňské arbitráži a vzniku Slovenského štátu zůstaly opuštěné.
+
+  Dnes několik kusů dochováno v okolí Devína — vzácný typ, jejich identifikace v terénu vyžaduje znalce.
+visit: |
+  Některé objekty v rámci NP Devínska Kobyla, ostatní v zarostlém terénu kolem Devína. Vhodné pro vojensko-historické nadšence.
+sources:
+  - 'bunkre.sk — Devín'
+  - 'Wikipedia — LO vz. 36'
+updated: '2026-04-18'

@@ -1,0 +1,23 @@
+title: 'T-S 24 „Sedmahorci"'
+code: 'T-S 24'
+type: 'pechotni-srub'
+line: 'Trutnovsko'
+region: 'Královéhradecký kraj'
+location:
+  lat: 50.5644
+  lon: 15.9121
+  address: 'Trutnov — okolí Sedmihorek'
+built: '1937'
+state: 'rozpadly'
+description: 'Pěchotní srub v trutnovském úseku, součást krkonošského předpolí. Dnes v přírodním prostředí Českého ráje.'
+history: |
+  Trutnovská linie (T) byla budována jako obrana severovýchodních hranic. T-S 24 je středně velký objekt s bočními střílnami.
+
+  Po Mnichovu zabrán Wehrmachtem. Z poválečné doby nejsou významné úpravy, objekt postupně chátrá.
+
+  Vhodný jako součást turistické trasy v Českém ráji a Podkrkonoší.
+visit: |
+  Přístupný zvenku, vnitřek zatopený. Součást pěších tras.
+sources:
+  - 'ropiky.net — Trutnovsko'
+updated: '2026-04-18'
