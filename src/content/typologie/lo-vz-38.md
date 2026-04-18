@@ -18,7 +18,7 @@ sources:
 
 **LO vz. 38** — lidově nazývaný **„Turecká věž"** pro svou kruhovou konstrukci připomínající minaret — byl nejambicióznějším experimentem lehkého opevnění ČSR. Objekt kombinoval princip lehkého železobetonového objektu s rotační pancéřovou věží, umožňující 360° palbu — vlastnost jinak charakteristická pro těžké objekty.
 
-![Půdorys LO vz. 38](/img/typologie/lo-vz-38-pudorys.svg)
+![Řopík LO vz. 37 u Hnanic — ilustrace hlavního typu lehkého opevnění, z něhož měl LO vz. 38 vycházet s přidanou otočnou věží](/img/typologie/lo-vz-38-context-lo37.jpg)
 
 ## Koncepce a motivace
 

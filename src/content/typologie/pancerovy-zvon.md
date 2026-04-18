@@ -36,9 +36,11 @@ sources:
 - **Výrez:** 3 palební otvory s rozšířenými zorníky
 - **Obsluha:** 1 kulometčík
 
+![Pancéřový zvon na pěchotním srubu MO-S 19 „Alej" v Hlučíně-Darkovičkách — typická instalace palebného zvonu na vrchu těžkého objektu](/img/typologie/zvon-srub-mo-s-19.jpg)
+
 ## Technická specifikace
 
-![Výkres pancéřového zvonu](/img/typologie/pancerovy-zvon-schema.svg)
+![Pozorovací zvon na srubu K-S 22a „Krok" (tvrz Bouda) — detail svářeného kotvení s betonovou konstrukcí](/img/typologie/zvon-srub-bouda.jpg)
 
 - **Materiál:** ocelový odlitek z legované oceli (Krupp Tiegelstahl, alternativně česká výroba Vítkovice)
 - **Tloušťka stěny:** 20 cm (II. stupeň) až 30 cm (IV. stupeň odolnosti)

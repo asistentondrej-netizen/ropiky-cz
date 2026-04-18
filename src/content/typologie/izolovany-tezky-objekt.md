@@ -19,6 +19,8 @@ sources:
 
 **Izolovaný těžký objekt (TO)** představuje specifickou kategorii československého opevnění — **samostatně stojící pěchotní srub** nezačleněný do tvrzového komplexu. Na rozdíl od objektů v souvislých liniích (kde se jednotlivé sruby kryjí vzájemnou palbou) musí izolovaný TO zvládat obranu **samostatně** — proto má zpravidla **silnější výzbroj, mohutnější pancéřové vybavení a větší osádku**.
 
+![MJ-S 4 „Předsunutý zvon" u Chvalovic — jediný objekt IV. stupně odolnosti v ČSR, nejmohutnější izolovaný TO](/img/typologie/izol-mj-s-4.jpg)
+
 ## Vznik kategorie
 
 Československá armáda si uvědomovala, že souvislá linie pěchotních srubů je ideál — ale realita předválečných let byla omezená rozpočtem a časem. **Strategie selektivní obrany** vybírala body, které musely být bráněny **stůj co stůj**, bez ohledu na to, zda je okolní terén pokryt další linií:
@@ -55,17 +57,23 @@ Jediný objekt **IV. stupně odolnosti** v celém ČSR — mimořádná tloušť
 
 Dělostřelecký izolovaný objekt chránící jižní vjezd do Ostravské aglomerace. Jeden ze dvou dokončených dělostřeleckých izolovaných objektů v ČSR.
 
+![MO-S 8 „Dvůr Paseky" — dělostřelecký izolovaný objekt u Šilheřovic](/img/typologie/izol-mo-s-8.jpg)
+
 → Viz [MO-S 8 Dvůr Paseky](/pevnosti/mo-s-8-dvur-paseky)
 
 ### **B-S 8 „Hřbitov"** (Bratislava-Petržalka)
 
 Izolovaný TO chránící jižní vjezd do Bratislavy od maďarské hranice. Vzhledem ke strategické pozici na přímé dostřelné vzdálenosti od maďarských děl byl vybaven obzvlášť robustním pancéřováním.
 
+![B-S 8 „Hřbitov" v Bratislavě-Petržalce — izolovaný TO na linii Dunaje](/img/typologie/izol-b-s-8.jpg)
+
 → Viz [B-S 8 Hřbitov](/pevnosti/b-s-8-hrbitov)
 
 ### **T-S 19 „Turov"** (Hronov, Orlické hory)
 
 Hřebenový izolovaný TO na Turově — jediný objekt v celé Hronovsko-Policické oblasti. Strategická kontrola údolí Metuje a přechodů do Kladska.
+
+![T-S 19 „Turov" u Hronova-Rokytníku — hřebenový izolovaný TO v Orlických horách](/img/typologie/izol-t-s-19.jpg)
 
 → Viz [T-S 19 Turov](/pevnosti/t-s-19-turov)
 
