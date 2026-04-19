@@ -12,6 +12,7 @@ related:
   - "stranky/fortifikacni-linie"
   - "clanky/myty-o-ceskoslovenskem-opevneni"
   - "clanky/pamatkova-ochrana-opevneni-dnes"
+  - "clanky/opevneni-v-evrope-srovnani-s-csr"
 ---
 
 Československé opevnění vzniklo za tři a půl roku — od první oficiální směrnice v létě 1934 po poslední vylitou betonáž v druhé polovině září 1938. V evropském kontextu to bylo tempo bez paralely: Francouzi stavěli Maginotovu linii od roku 1929, Němci Westwall od roku 1936, ale československé Ředitelství opevňovacích prací (ŘOP) postavilo od nuly kompletní dvousledový systém za dobu, která by jinde neodpovídala ani přípravným studiím.

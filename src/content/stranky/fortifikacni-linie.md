@@ -15,6 +15,7 @@ related:
   - "clanky/chronologie-rop-1935-1938"
   - "clanky/pamatkova-ochrana-opevneni-dnes"
   - "stranky/nemecka-spionaz"
+  - "clanky/opevneni-v-evrope-srovnani-s-csr"
 ---
 
 Československé opevnění nebylo jednolitou linií, ale **soustavou úseků** různé hustoty, typu a stavebního postupu. Linie navazovaly na přirozené terénní překážky (řeky, hory, lesy) a zároveň vytvářely umělé přehrady tam, kde krajina obranu neumožňovala sama. Systém byl organizován podle **ženijních velitelství**, která řídila výstavbu — jejich zkratky dodnes figurují v názvech jednotlivých srubů (MO-S 5, OP-S 18, K-S 14 atd.).

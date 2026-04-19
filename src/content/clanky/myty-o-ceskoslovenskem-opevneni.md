@@ -12,6 +12,7 @@ related:
   - "stranky/nemecka-spionaz"
   - "clanky/chronologie-rop-1935-1938"
   - "clanky/pamatkova-ochrana-opevneni-dnes"
+  - "clanky/opevneni-v-evrope-srovnani-s-csr"
 ---
 
 Kolem československého opevnění se po osmdesáti letech nakupila řada mýtů, polopravd a oblíbených „co by bylo kdyby" scénářů. Část z nich má racionální jádro, část je produktem poválečné politické propagandy — nejprve komunistické (opevnění jako „drahé zbytečnosti kapitalistické republiky"), později romantické (opevnění jako „neporazitelná betonová pěst, kterou jsme zradili sami sobě").
