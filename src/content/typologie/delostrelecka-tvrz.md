@@ -2,7 +2,7 @@
 title: "Dělostřelecká tvrz"
 code: "Tvrz (TO)"
 category: "tezke"
-description: "Vrchol čs. fortifikace — skupina několika železobetonových objektů propojených podzemními chodbami. Plánováno 17 tvrzí, dokončeno pět: Adam, Bouda, Hanička, Hůrka a Smolkov."
+description: "Vrchol čs. fortifikace — skupina několika železobetonových objektů propojených podzemními chodbami. Z plánovaných 17 bylo plně dokončeno 5 tvrzí (Adam, Bouda, Hanička, Hůrka, Smolkov), dalších 7 rozestavěno — z toho Dobrošov a Stachelberg jsou dnes zpřístupněné jako muzea."
 period: "1936–1938"
 builtCount: 5
 armament:
@@ -52,7 +52,7 @@ Tvrze byly umísťovány v **nejkritičtějších bodech systému** — zejména
 
 ## Plán a realizace
 
-Plánováno bylo **17 dělostřeleckých tvrzí**. Do Mnichova bylo **plně dokončeno pouze pět**:
+Plánováno bylo **17 dělostřeleckých tvrzí**. Do Mnichova bylo **plně dokončeno pouze pět**, dalších **7 rozestavěno** (z nich jsou dnes Dobrošov a Stachelberg zpřístupněné jako muzea). V **katalogu pevností proto najdete 7 záznamů** — pět dokončených plus dvě rozestavěné návštěvní muzea.
 
 ### Dokončené tvrze
 
