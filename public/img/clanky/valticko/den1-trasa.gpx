@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="ropiky.cz"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Valticko Den 1 — Valtice a Boří les (30 km)</name>
+    <desc>Cyklo-trasa pro článek tip-na-vylet-valticko na ropiky.cz</desc>
+  </metadata>
+  <wpt lat="48.741" lon="16.7539">
+    <name>Valtice zámek</name>
+  </wpt>
+  <wpt lat="48.73136" lon="16.7994">
+    <name>Řopík 6/68/A-160 S Pod dvorem</name>
+  </wpt>
+  <wpt lat="48.72195" lon="16.82206">
+    <name>Boří dvůr + řopík 8/13/A-160 S</name>
+  </wpt>
+  <wpt lat="48.75232" lon="16.83632">
+    <name>Střed Boří lesa 8/22/A-140</name>
+  </wpt>
+  <wpt lat="48.78269" lon="16.7768">
+    <name>Apollonův chrám</name>
+  </wpt>
+  <wpt lat="48.78309" lon="16.77869">
+    <name>Hlohovec 6/54/A-180</name>
+  </wpt>
+  <wpt lat="48.7254" lon="16.7557">
+    <name>Kolonáda Rajstna</name>
+  </wpt>
+  <wpt lat="48.72852" lon="16.77366">
+    <name>Boří les jih 5/143/1</name>
+  </wpt>
+  <wpt lat="48.75901" lon="16.76676">
+    <name>Valtice sever 5/137/1</name>
+  </wpt>
+  <wpt lat="48.741" lon="16.7539">
+    <name>Valtice zámek (návrat)</name>
+  </wpt>
+  <rte>
+    <name>Valticko Den 1 — Valtice a Boří les (30 km)</name>
+    <rtept lat="48.741" lon="16.7539"><name>Valtice zámek</name></rtept>
+    <rtept lat="48.73136" lon="16.7994"><name>Řopík 6/68/A-160 S Pod dvorem</name></rtept>
+    <rtept lat="48.72195" lon="16.82206"><name>Boří dvůr + řopík 8/13/A-160 S</name></rtept>
+    <rtept lat="48.75232" lon="16.83632"><name>Střed Boří lesa 8/22/A-140</name></rtept>
+    <rtept lat="48.78269" lon="16.7768"><name>Apollonův chrám</name></rtept>
+    <rtept lat="48.78309" lon="16.77869"><name>Hlohovec 6/54/A-180</name></rtept>
+    <rtept lat="48.7254" lon="16.7557"><name>Kolonáda Rajstna</name></rtept>
+    <rtept lat="48.72852" lon="16.77366"><name>Boří les jih 5/143/1</name></rtept>
+    <rtept lat="48.75901" lon="16.76676"><name>Valtice sever 5/137/1</name></rtept>
+    <rtept lat="48.741" lon="16.7539"><name>Valtice zámek (návrat)</name></rtept>
+  </rte>
+</gpx>

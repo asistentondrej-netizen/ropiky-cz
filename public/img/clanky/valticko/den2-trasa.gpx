@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="ropiky.cz"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Valticko Den 2 — Lednice + Břeclav + Soutok (30 km)</name>
+    <desc>Cyklo-trasa pro článek tip-na-vylet-valticko na ropiky.cz</desc>
+  </metadata>
+  <wpt lat="48.802" lon="16.8053">
+    <name>Lednice zámek</name>
+  </wpt>
+  <wpt lat="48.8142" lon="16.7984">
+    <name>Minaret</name>
+  </wpt>
+  <wpt lat="48.78347" lon="16.84179">
+    <name>Charvátská NV 5/151/1</name>
+  </wpt>
+  <wpt lat="48.7357" lon="16.87207">
+    <name>Poštorná 8/5/A-140</name>
+  </wpt>
+  <wpt lat="48.7542" lon="16.8816">
+    <name>Břeclav centrum</name>
+  </wpt>
+  <wpt lat="48.66317" lon="16.93284">
+    <name>NPR Soutok 8/b17/A-180 Lanžhot</name>
+  </wpt>
+  <wpt lat="48.7542" lon="16.8816">
+    <name>Břeclav (návrat)</name>
+  </wpt>
+  <rte>
+    <name>Valticko Den 2 — Lednice + Břeclav + Soutok (30 km)</name>
+    <rtept lat="48.802" lon="16.8053"><name>Lednice zámek</name></rtept>
+    <rtept lat="48.8142" lon="16.7984"><name>Minaret</name></rtept>
+    <rtept lat="48.78347" lon="16.84179"><name>Charvátská NV 5/151/1</name></rtept>
+    <rtept lat="48.7357" lon="16.87207"><name>Poštorná 8/5/A-140</name></rtept>
+    <rtept lat="48.7542" lon="16.8816"><name>Břeclav centrum</name></rtept>
+    <rtept lat="48.66317" lon="16.93284"><name>NPR Soutok 8/b17/A-180 Lanžhot</name></rtept>
+    <rtept lat="48.7542" lon="16.8816"><name>Břeclav (návrat)</name></rtept>
+  </rte>
+</gpx>
