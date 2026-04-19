@@ -1,55 +1,30 @@
-title: Řopík 8/7/A-160 — Charvátská Nová Ves
-code: 8/7/A-160 Charvátská NV
+title: Řopík 5/151/1 — Charvátská Nová Ves
+code: 5/151/1
 type: lo-vz-37
-line: B-4 Úvaly — Břeclav
+line: Valticko — jižní Morava
 region: Jihomoravský kraj
 location:
-  lat: 48.7685
-  lon: 16.8553
-  address: Charvátská Nová Ves, břeh Dyje severně od obce
+  lat: 48.78347
+  lon: 16.84179
+  address: Ladenská cesta, Charvátská Nová Ves (Břeclav)
 built: '1937'
 state: pristupny
-description: Řopík na břehu Dyje chránící přechod mezi Lednicí a Břeclaví. Dostupný
-  po cyklotrase podél řeky, dobrá zastávka mezi hlavními památkami LVA.
-history: 'Betonován v srpnu 1937 jako součást obranné linie na levém břehu Dyje. Kombinoval
-  palebnou činnost s řopíkem na druhém břehu.
-
-
-  V září 1938 osazen. Po Mnichovu opuštěn. Za války sloužil jako polní sklad pro Wehrmacht.
-
-
-  V 70. letech prohlášen technickou památkou místního významu — zachráněn před demolicí.
-  Vyčištěn v roce 1998, dnes s informační cedulí Jihomoravského kraje.
-
-  '
-visit: 'Klasický říční řopík — dobrá ukázka, jak linie kopírovala přirozené překážky.
-
-
-  **Přístup:** volně, 24/7. Na cyklotrase podél Dyje, značené.
-
-
-  **Co uvidíte:** LO vz. 37 typ A-160. Dochované střílny, ochranný zdvih u vchodu,
-  drobné exteriérové detaily. Informační cedule s dobovými fotografiemi.
-
-
-  **Doporučená délka:** 15–20 minut.
-
-
-  **Dostupnost:** Z Břeclavi 4 km po cyklotrase, z Lednice 5 km. Autem obtížné (jen
-  polní cesta).
-
-
-  **Doporučeno kombinovat s:** cyklotrasou Břeclav-Lednice, UNESCO areálem, dalšími
-  řopíky u Janohradu a v Poštorné.
-
-  '
+description: Řopík LO vz. 37 v severní části Charvátské Nové Vsi, na Ladenské cestě. Součást linie propojující Valticko s břeclavským úsekem — stojí v rozhraní zemědělské a lužní krajiny.
+history: |
+  Betonován v roce 1937. Objekt 5/151/1 patřil do úseku kryjícího severní přístupy do Břeclavi a přístup k Janovu hradu. V září 1938 osazen tříčlennou osádkou s kulomety ZB vz. 26. Po Mnichovu opuštěn. Za války částečně zanesen hlínou z polních prací, znovu odkryt v 90. letech.
+visit: |
+  Málo známý řopík, dobrý cíl pro ty, kdo chtějí objevovat bez davů.
+  
+  **Přístup:** volně, 24/7. U Ladenské cesty, polní přístup.
+  
+  **Co uvidíte:** Standardní LO vz. 37, dvě střílny, zachovaný profil objektu. Okolí zemědělská krajina.
+  
+  **Doporučená délka:** 15 minut.
+  
+  **Dostupnost:** Autem z Charvátské NV (2 km) nebo z Lednice (4 km). Na kole po místních stezkách.
+  
+  **Doporučeno kombinovat s:** Lednickým zámkem, Janovým hradem (4 km), objekty v Boří lese.
 sources:
-- ropiky.net — 8/7/A-160
-- Jihomoravský kraj — památky místního významu
-updated: '2026-04-18'
-photos:
-- url: /img/forts/objekt-eskoslovensk-ho-lehk-ho-opevn-n-.jpg
-  alt: Ilustrační foto — typový objekt LO vz. 37 (řopík)
-  author: Wikimedia Commons
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/Category:Light_fortifications_of_Czechoslovakia
+- OpenStreetMap — military=bunker
+- ropiky.net — sbor V
+updated: '2026-04-19'

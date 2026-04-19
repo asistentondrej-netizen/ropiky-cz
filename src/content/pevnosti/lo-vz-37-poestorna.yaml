@@ -1,58 +1,30 @@
-title: Řopík 8/5/A-140 — Poštorná (Břeclav)
-code: 8/5/A-140 Poštorná
+title: Řopík 8/5/A-140 — Poštorná
+code: 8/5/A-140
 type: lo-vz-37
-line: B-4 Úvaly — Břeclav
+line: Valticko — jižní Morava
 region: Jihomoravský kraj
 location:
-  lat: 48.7446
-  lon: 16.8796
-  address: Břeclav-Poštorná, polní cesta východně od sídliště
+  lat: 48.7357
+  lon: 16.87207
+  address: Poštorná, Břeclav (jihovýchodní okraj)
 built: '1938'
-state: rozpadly
-description: Řopík na jižním okraji Břeclavi — součást linie B-4 uzavírající prostor
-  mezi Valticemi a Dyjí. Po částečné demolici v 60. letech zbyly jen trosky.
-history: 'Objekt postaven v březnu 1938 jako severní kotvící bod úseku B-4. Linie
-  zde přecházela do oblasti řeky Dyje, kde ji měla v případě útoku podpořit palba
-  z jiných řopíků na druhém břehu.
-
-
-  V září 1938 plně osazen, po Mnichovu opuštěn. Za protektorátu ve stavu skladu.
-
-
-  V letech 1964–1965 objekt částečně demolován při rozšiřování průmyslové zóny Poštorná
-  — zničena pravá polovina kazematy, přední stěna s jednou střílnou dodnes stojí.
-  Trosky jsou zarostlé, bez značení.
-
-  '
-visit: 'Rozpadlý řopík jako „připomínka toho, co bývalo" — jedna z nejhorších ukázek,
-  jak se k opevnění v ČSSR chovalo. Zajímavé místo spíše pro historika než turistu.
-
-
-  **Přístup:** volně, ale v mírně zarostlém terénu mimo turistické trasy.
-
-
-  **Co uvidíte:** jen přední stěnu původního objektu, polovina kazematy odstřelena,
-  vnitřek zasypán sutí. Stojí jako memento destrukce 60. let.
-
-
-  **Doporučená délka:** 10 minut (rychlá zastávka pro dokumentaci).
-
-
-  **Dostupnost:** Z centra Břeclavi 3 km po silnici Valtická. Autem do Poštorné, pak
-  polní cestou 500 m.
-
-
-  **Doporučeno kombinovat s:** návštěvou Břeclavi (nádraží, kostel sv. Václava Poštorná
-  — unikátní cihlový kostel 1894), tvrzem Břeclav (zaniklá), jinými řopíky B-4.
-
-  '
+state: pristupny
+description: Řopík typ A-140 na okraji Poštorné — součást linie kryjící přechody přes Dyji a železniční koridor Břeclav—Hohenau. Jeden z dostupnějších objektů přímo u městské zástavby.
+history: |
+  Betonován v roce 1938. Typ A-140 — standardní středně zesílený. Objekt kryl přístup od rakouské hranice směrem k Břeclavi. V září 1938 osazen, kulomety ZB vz. 26. Po Mnichovu opuštěn. Za okupace objekt sloužil Wehrmachtu jako pozorovatelna pro železniční koridor. Po válce obestavěn zahradními parcelami, nyní částečně přístupný.
+visit: |
+  Městský řopík — pěší dostupnost z centra Břeclavi.
+  
+  **Přístup:** volně, 24/7. U rozcestí za Poštornou, polní cestou.
+  
+  **Co uvidíte:** LO vz. 37 typ A-140, dvě střílny, zachovaný přístupový žlab. Čelní stěna znatelně erodovaná.
+  
+  **Doporučená délka:** 15 minut.
+  
+  **Dostupnost:** Pěšky z Poštorné (10 min) nebo autem. Vlakem do Břeclavi + autobus.
+  
+  **Doporučeno kombinovat s:** kostelem v Poštorné (novogotický, na zdivu vzor čínského porcelánu — unikát), dalšími řopíky u Břeclavi.
 sources:
-- ropiky.net — 8/5/A-140
-- Muzeum Břeclav — archivní podklady
-updated: '2026-04-18'
-photos:
-- url: /img/forts/hevl-n-op-k-u-severn-silnice-4141-.jpg
-  alt: Ilustrační foto — řopík u Hevlína (Znojemsko, stejný typ A-140)
-  author: Wikimedia Commons
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:Hevl%C3%ADn,_%C5%99op%C3%ADk_u_severn%C3%AD_silnice_(4141).jpg
+- OpenStreetMap — military=bunker
+- ropiky.net — sbor VIII
+updated: '2026-04-19'
