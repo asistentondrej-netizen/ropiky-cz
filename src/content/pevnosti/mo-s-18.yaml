@@ -37,3 +37,19 @@ sources:
 - OpenStreetMap (OSM element way/52431173)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/%C5%A0ilhe%C5%99ovice%2C_MO-S_18_%282015-05-01%3B_04%29.jpg/1280px-%C5%A0ilhe%C5%99ovice%2C_MO-S_18_%282015-05-01%3B_04%29.jpg
+  alt: Pěchotní srub MO-S 18
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%A0ilhe%C5%99ovice,_MO-S_18_(2015-05-01;_04).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/b/be/MO_S-18_suba.jpg
+  alt: Pěchotní srub MO-S-18
+  author: Petr Tomasovsky at Esperanto Wikipedia
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:MO_S-18_suba.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/f/f1/MO_S-18_supra.jpg
+  alt: Pěchotní srub MO-S-18
+  author: Petr Tomasovsky at Esperanto Wikipedia
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:MO_S-18_supra.jpg

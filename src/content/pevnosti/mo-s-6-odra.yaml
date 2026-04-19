@@ -15,3 +15,19 @@ sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%C5%A0ilhe%C5%99ovice%2C_MO-S_6_%282015-05-08%3B_01%29.jpg/1280px-%C5%A0ilhe%C5%99ovice%2C_MO-S_6_%282015-05-08%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 6 Odra
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%A0ilhe%C5%99ovice,_MO-S_6_(2015-05-08;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%C5%A0ilhe%C5%99ovice%2C_MO-S_6_%282015-05-08%3B_01%29.jpg/1920px-%C5%A0ilhe%C5%99ovice%2C_MO-S_6_%282015-05-08%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 6
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%A0ilhe%C5%99ovice,_MO-S_6_(2015-05-08;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%C5%A0ilhe%C5%99ovice%2C_MO-S_6_%282015-05-08%3B_02%29.jpg/1920px-%C5%A0ilhe%C5%99ovice%2C_MO-S_6_%282015-05-08%3B_02%29.jpg
+  alt: Pěchotní srub MO-S 6
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%A0ilhe%C5%99ovice,_MO-S_6_(2015-05-08;_02).jpg

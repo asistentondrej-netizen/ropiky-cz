@@ -9,36 +9,54 @@ location:
   address: Dobrošov, nad tvrzí
 built: '1938'
 state: pristupny
-description: Zachovalý jednostranný pěchotní srub s výhledem na Náchod. Součást obranného pásma tvrze Dobrošov, dostupný z
-  naučné stezky. Oblíbený cíl rodinných výletů díky kombinaci historie a výhledu.
-history: 'N-S 73 byl postaven v letech 1937–1938 firmou Lanna jako jeden z předsunutých srubů chránících přístup k dělostřelecké
-  tvrzi Dobrošov. Srub II. stupně odolnosti, výzbroj plánovaná 2 těžké kulomety vz. 37 ve bočních střílnách.
+description: Zachovalý jednostranný pěchotní srub s výhledem na Náchod. Součást obranného
+  pásma tvrze Dobrošov, dostupný z naučné stezky. Oblíbený cíl rodinných výletů díky
+  kombinaci historie a výhledu.
+history: 'N-S 73 byl postaven v letech 1937–1938 firmou Lanna jako jeden z předsunutých
+  srubů chránících přístup k dělostřelecké tvrzi Dobrošov. Srub II. stupně odolnosti,
+  výzbroj plánovaná 2 těžké kulomety vz. 37 ve bočních střílnách.
 
 
-  V září 1938 byl plně obsazen posádkou 22 mužů pod velením por. Karla Jiříčka. Po Mnichovu evakuován, během okupace Němci
-  demontovali pancéřové zvony a střílny. Beton zůstal neporušen.
+  V září 1938 byl plně obsazen posádkou 22 mužů pod velením por. Karla Jiříčka. Po
+  Mnichovu evakuován, během okupace Němci demontovali pancéřové zvony a střílny. Beton
+  zůstal neporušen.
 
 
-  Po válce objekt nevyužíván. Od 90. let v péči Klubu vojenské historie Náchod, který ho částečně zpřístupnil a vystavil informační
-  panely.'
-visit: "Srub je **volně přístupný** jako součást **naučné stezky Dobrošov**, která propojuje tvrz Dobrošov s okolními pěchotními\
-  \ sruby. Trasa vhodná pro pěší i cyklisty.\n\n**Jak se tam dostat:**\n\n- Pěšky z parkoviště tvrze Dobrošov: 1,5 km po modré\
-  \ turistické značce (~25 min)\n- Cyklistům: po silnici 301 z Náchoda směr Dobrošov, pak polní cestou\n- Autem: možné zastavení\
-  \ u Zelené brány Dobrošova (parkování 50 Kč)\n\n**Na místě:** \n\n- Venkovní prohlídka srubu (stěny tl. 1,5 m, dochovaná\
-  \ střelecká místnost)\n- Informační panel s historií a mapou pevnostního pásma Dobrošov\n- Výhled na Náchod, hřeben Krkonoš\
-  \ a Kladsko\n- Lavičky a piknik místo\n\n**Pro pevnostní turisty:** N-S 73 je výchozím bodem pro návštěvu pěti dalších srubů\
-  \ na naučné stezce (N-S 72, N-S 74, N-S 75, N-S 76). Celá trasa cca 4 km, 2–3 hodiny pěší chůze.\n\n**Doporučená kombinace:**\
-  \ Tvrz Dobrošov (podzemní prohlídka 2,5 h) + srub N-S 82 „Březinka\" (muzeum, 1,5 h) = **celodenní fortifikační okruh Náchodska**\
-  \ s hlubokým zážitkem.\n\n**Bezpečnost:** Uvnitř srubu nebezpečí zranění (prosakující voda, ostré hrany). Doporučena venkovní\
-  \ prohlídka s informacemi z panelu."
+  Po válce objekt nevyužíván. Od 90. let v péči Klubu vojenské historie Náchod, který
+  ho částečně zpřístupnil a vystavil informační panely.'
+visit: "Srub je **volně přístupný** jako součást **naučné stezky Dobrošov**, která\
+  \ propojuje tvrz Dobrošov s okolními pěchotními sruby. Trasa vhodná pro pěší i cyklisty.\n\
+  \n**Jak se tam dostat:**\n\n- Pěšky z parkoviště tvrze Dobrošov: 1,5 km po modré\
+  \ turistické značce (~25 min)\n- Cyklistům: po silnici 301 z Náchoda směr Dobrošov,\
+  \ pak polní cestou\n- Autem: možné zastavení u Zelené brány Dobrošova (parkování\
+  \ 50 Kč)\n\n**Na místě:** \n\n- Venkovní prohlídka srubu (stěny tl. 1,5 m, dochovaná\
+  \ střelecká místnost)\n- Informační panel s historií a mapou pevnostního pásma Dobrošov\n\
+  - Výhled na Náchod, hřeben Krkonoš a Kladsko\n- Lavičky a piknik místo\n\n**Pro\
+  \ pevnostní turisty:** N-S 73 je výchozím bodem pro návštěvu pěti dalších srubů\
+  \ na naučné stezce (N-S 72, N-S 74, N-S 75, N-S 76). Celá trasa cca 4 km, 2–3 hodiny\
+  \ pěší chůze.\n\n**Doporučená kombinace:** Tvrz Dobrošov (podzemní prohlídka 2,5\
+  \ h) + srub N-S 82 „Březinka\" (muzeum, 1,5 h) = **celodenní fortifikační okruh\
+  \ Náchodska** s hlubokým zážitkem.\n\n**Bezpečnost:** Uvnitř srubu nebezpečí zranění\
+  \ (prosakující voda, ostré hrany). Doporučena venkovní prohlídka s informacemi z\
+  \ panelu."
 sources:
 - Muzeum Náchodska
 - ropiky.net — N-S 73
 - Klub vojenské historie Náchod
 updated: '2026-04-18'
 photos:
-- url: /img/forts/dobro-ov-n-chod-2017-05-06.jpg
-  alt: N-S 73 „Jeřáb" — N-D-S 73 Jeřáb, Dobrošov, Náchod
-  author: Miloslav Rejha
-  license: CC BY 4.0
-  source: https://commons.wikimedia.org/wiki/File%3ADobro%C5%A1ov%2C_N%C3%A1chod_2017-05_06.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/7/7c/N-S_73.JPG
+  alt: Pěchotní srub N-S 73
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:N-S_73.JPG
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_73_%28rok_2002%29.jpg/1920px-N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_73_%28rok_2002%29.jpg
+  alt: Pěchotní srub N-S 73
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:N%C3%A1chod,_Dobro%C5%A1ov,_N-S_73_(rok_2002).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/9/9f/Postrelovany_N-S_73.JPG
+  alt: Pěchotní srub N-S 73
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:Postrelovany_N-S_73.JPG

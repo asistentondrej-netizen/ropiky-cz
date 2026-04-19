@@ -26,3 +26,19 @@ visit: 'Volně přístupný vnějšek, součást pěších tras. Vnitřek zavře
 sources:
 - ropiky.net — StM-S 33
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star%C3%A9_M%C4%9Bsto%2C_StM-S_33_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_33_%28rok_2003%29.jpg
+  alt: Pěchotní srub StM-S 33
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_33_(rok_2003).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/P%C4%9Bchotn%C3%AD_srub_StM-S_33_Les%C3%ADk_01.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_33_Les%C3%ADk_01.jpg
+  alt: Pěchotní srub StM-S 33
+  author: Michal Gregor
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_33_Les%C3%ADk_01.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/P%C4%9Bchotn%C3%AD_srub_StM-S_33_Les%C3%ADk_02.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_33_Les%C3%ADk_02.jpg
+  alt: Pěchotní srub StM-S 33
+  author: Michal Gregor
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_33_Les%C3%ADk_02.jpg

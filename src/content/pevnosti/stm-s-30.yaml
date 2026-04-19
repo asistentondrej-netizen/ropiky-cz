@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element way/142124864)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Star%C3%A9_M%C4%9Bsto%2C_StM-S_30_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_30_%28rok_2003%29.jpg
+  alt: Pěchotní srub StM-S 30
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_30_(rok_2003).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Star%C3%A9_M%C4%9Bsto%2C_StM-S_30_%28rok_2003%3B_01%29.jpg/1920px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_30_%28rok_2003%3B_01%29.jpg
+  alt: Pěchotní srub STM-S-30
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_30_(rok_2003;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Star%C3%A9_M%C4%9Bsto%2C_StM-S_30_%28rok_2003%3B_02%29.jpg/1920px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_30_%28rok_2003%3B_02%29.jpg
+  alt: Pěchotní srub STM-S-30
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_30_(rok_2003;_02).jpg

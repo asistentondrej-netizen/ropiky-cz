@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element way/389099977)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_81_%28rok_2002%3B_01%29.jpg/1280px-N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_81_%28rok_2002%3B_01%29.jpg
+  alt: Pěchotní srub N-S 81 na Dobrošově
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:N%C3%A1chod,_Dobro%C5%A1ov,_N-S_81_(rok_2002;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/3/3e/N-S_81_1.jpg
+  alt: Pěchotní srub N-S-81
+  author: Lasy
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:N-S_81_1.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/e/ea/N-S_81_2.jpg
+  alt: Pěchotní srub N-S-81
+  author: Lasy
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:N-S_81_2.jpg

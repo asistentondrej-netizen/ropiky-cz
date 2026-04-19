@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element node/3903435168)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rtyn%C4%9B_v_Podkrkono%C5%A1%C3%AD%2C_T-S_26_%28rok_2012%3B_01%29.jpg/1920px-Rtyn%C4%9B_v_Podkrkono%C5%A1%C3%AD%2C_T-S_26_%28rok_2012%3B_01%29.jpg
+  alt: Pěchotní srub T-S-26
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Rtyn%C4%9B_v_Podkrkono%C5%A1%C3%AD,_T-S_26_(rok_2012;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rtyn%C4%9B_v_Podkrkono%C5%A1%C3%AD%2C_T-S_26_%28rok_2012%3B_02%29.jpg/1920px-Rtyn%C4%9B_v_Podkrkono%C5%A1%C3%AD%2C_T-S_26_%28rok_2012%3B_02%29.jpg
+  alt: Pěchotní srub T-S-26
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Rtyn%C4%9B_v_Podkrkono%C5%A1%C3%AD,_T-S_26_(rok_2012;_02).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Rtyn%C4%9B_v_Podkrkono%C5%A1%C3%AD%2C_T-S_26_%28rok_2012%3B_03%29.jpg/1920px-Rtyn%C4%9B_v_Podkrkono%C5%A1%C3%AD%2C_T-S_26_%28rok_2012%3B_03%29.jpg
+  alt: Pěchotní srub T-S-26
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Rtyn%C4%9B_v_Podkrkono%C5%A1%C3%AD,_T-S_26_(rok_2012;_03).jpg

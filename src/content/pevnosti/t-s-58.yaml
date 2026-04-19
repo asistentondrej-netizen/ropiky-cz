@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element node/3482263099)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chvale%C4%8D%2C_Pet%C5%99%C3%ADkovice%2C_T-S_58_%28rok_2012%3B_01%29.jpg/1280px-Chvale%C4%8D%2C_Pet%C5%99%C3%ADkovice%2C_T-S_58_%28rok_2012%3B_01%29.jpg
+  alt: Pěchotní srub T-S 58
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Chvale%C4%8D,_Pet%C5%99%C3%ADkovice,_T-S_58_(rok_2012;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Chvale%C4%8D%2C_Pet%C5%99%C3%ADkovice%2C_T-S_58_%28rok_2012%3B_01%29.jpg/1920px-Chvale%C4%8D%2C_Pet%C5%99%C3%ADkovice%2C_T-S_58_%28rok_2012%3B_01%29.jpg
+  alt: Pěchotní srub T-S-58
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Chvale%C4%8D,_Pet%C5%99%C3%ADkovice,_T-S_58_(rok_2012;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Chvale%C4%8D%2C_Pet%C5%99%C3%ADkovice%2C_T-S_58_%28rok_2012%3B_02%29.jpg/1920px-Chvale%C4%8D%2C_Pet%C5%99%C3%ADkovice%2C_T-S_58_%28rok_2012%3B_02%29.jpg
+  alt: Pěchotní srub T-S-58
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Chvale%C4%8D,_Pet%C5%99%C3%ADkovice,_T-S_58_(rok_2012;_02).jpg

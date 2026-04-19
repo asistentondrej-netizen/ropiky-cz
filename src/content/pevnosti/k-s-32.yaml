@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element way/318921113)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lichkov%2C_K-S_32_%28rok_2003%29.jpg/1280px-Lichkov%2C_K-S_32_%28rok_2003%29.jpg
+  alt: Pěchotní srub K-S 32
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Lichkov,_K-S_32_(rok_2003).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/6/60/K-S32.JPG
+  alt: Pěchotní srub K-S-32
+  author: Railfort
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:K-S32.JPG
+- url: https://upload.wikimedia.org/wikipedia/commons/b/b9/K-S_32.JPG
+  alt: Pěchotní srub K-S-32
+  author: Martin Provazník
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:K-S_32.JPG

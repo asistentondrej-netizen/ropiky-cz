@@ -37,3 +37,19 @@ sources:
 - OpenStreetMap (OSM element way/52430998)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Doln%C3%AD_Bene%C5%A1ov%2C_MO-S_34_%282015-04-14%3B_01%29.jpg/1280px-Doln%C3%AD_Bene%C5%A1ov%2C_MO-S_34_%282015-04-14%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 34 Štěrkovna
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Doln%C3%AD_Bene%C5%A1ov,_MO-S_34_(2015-04-14;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Doln%C3%AD_Bene%C5%A1ov%2C_MO-S_34_%282015-04-14%3B_01%29.jpg/1920px-Doln%C3%AD_Bene%C5%A1ov%2C_MO-S_34_%282015-04-14%3B_01%29.jpg
+  alt: Pěchotní srub MO-S-34
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Doln%C3%AD_Bene%C5%A1ov,_MO-S_34_(2015-04-14;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Doln%C3%AD_Bene%C5%A1ov%2C_MO-S_34_%282015-04-14%3B_02%29.jpg/1920px-Doln%C3%AD_Bene%C5%A1ov%2C_MO-S_34_%282015-04-14%3B_02%29.jpg
+  alt: Pěchotní srub MO-S-34
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Doln%C3%AD_Bene%C5%A1ov,_MO-S_34_(2015-04-14;_02).jpg

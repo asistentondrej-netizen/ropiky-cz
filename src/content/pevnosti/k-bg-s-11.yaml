@@ -40,3 +40,19 @@ sources:
 - OpenStreetMap (OSM element way/390422135)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_11_%28rok_2006%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_11_%28rok_2006%3B_01%29.jpg
+  alt: Bojový srub tvrze Hůrka K-Bg-S 11
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_11_(rok_2006;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/K-Bg-S_11_Na_svahu_A._CelkovyPohledOdZapadu.jpg/1920px-K-Bg-S_11_Na_svahu_A._CelkovyPohledOdZapadu.jpg
+  alt: Pěchotní srub K-BG-S-11
+  author: Stribrohorak
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:K-Bg-S_11_Na_svahu_A._CelkovyPohledOdZapadu.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/K-Bg-S_11_Na_svahu_B._CelkovyPohled-OpacnaStrana.jpg/1920px-K-Bg-S_11_Na_svahu_B._CelkovyPohled-OpacnaStrana.jpg
+  alt: Pěchotní srub K-BG-S-11
+  author: Stribrohorak
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:K-Bg-S_11_Na_svahu_B._CelkovyPohled-OpacnaStrana.jpg

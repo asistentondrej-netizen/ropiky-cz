@@ -1,25 +1,50 @@
-title: 'K-S 14 „U cihelny"'
-code: 'K-S 14'
-type: 'pechotni-srub'
-line: 'Králíky — východní Čechy'
-region: 'Pardubický kraj'
+title: K-S 14 „U cihelny"
+code: K-S 14
+type: pechotni-srub
+line: Králíky — východní Čechy
+region: Pardubický kraj
 location:
   lat: 50.0867
   lon: 16.7569
-  address: 'Králíky, okolí Hedče'
+  address: Králíky, okolí Hedče
 built: '1937'
-state: 'muzeum'
-description: 'Pěchotní srub s muzejní expozicí v rámci Vojensko-historického areálu Cihelna u Králík. Jeden z nejlépe rekonstruovaných srubů.'
-history: |
-  K-S 14 „U cihelny" byl součástí silně opevněné králicko-orlické linie. Stavba probíhala v letech 1937–1938.
+state: muzeum
+description: Pěchotní srub s muzejní expozicí v rámci Vojensko-historického areálu
+  Cihelna u Králík. Jeden z nejlépe rekonstruovaných srubů.
+history: 'K-S 14 „U cihelny" byl součástí silně opevněné králicko-orlické linie. Stavba
+  probíhala v letech 1937–1938.
 
-  Po Mnichovu zabrán Wehrmachtem, po válce léta opuštěn. Od 90. let intenzivní rekonstrukce — dnes muzejní objekt s autentickou výzbrojí, ubikacemi a strojovnou.
 
-  Pravidelně se zde konají rekonstrukce dobových bojů „Cihelna" — jedna z největších vojensko-historických akcí v ČR.
-visit: |
-  Muzeum K-S 14 „U cihelny" — sezónně otevřené, vstupné. Součást areálu Vojenské muzeum Králíky. Akce „Cihelna" obvykle v srpnu.
+  Po Mnichovu zabrán Wehrmachtem, po válce léta opuštěn. Od 90. let intenzivní rekonstrukce
+  — dnes muzejní objekt s autentickou výzbrojí, ubikacemi a strojovnou.
+
+
+  Pravidelně se zde konají rekonstrukce dobových bojů „Cihelna" — jedna z největších
+  vojensko-historických akcí v ČR.
+
+  '
+visit: 'Muzeum K-S 14 „U cihelny" — sezónně otevřené, vstupné. Součást areálu Vojenské
+  muzeum Králíky. Akce „Cihelna" obvykle v srpnu.
+
+  '
 sources:
-  - 'vojenske-muzeum-kraliky.cz'
-  - 'akce-cihelna.cz'
-  - 'ropiky.net — K-S 14'
+- vojenske-muzeum-kraliky.cz
+- akce-cihelna.cz
+- ropiky.net — K-S 14
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg
+  alt: Pěchotní srub K-S 14
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_14_(rok_2007;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2000%29.jpg/1920px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2000%29.jpg
+  alt: Pěchotní srub K-S 14
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_14_(rok_2000).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2003%29.jpg/1920px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2003%29.jpg
+  alt: Pěchotní srub K-S 14
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_14_(rok_2003).jpg

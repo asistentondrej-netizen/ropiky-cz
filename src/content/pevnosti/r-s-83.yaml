@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element node/3929493470)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_83_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_83_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub R-S 83
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_83_(rok_2010;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_83_%28rok_2002%29.jpg/1920px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_83_%28rok_2002%29.jpg
+  alt: Pěchotní srub R-S-83
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_Neratov,_R-S_83_(rok_2002).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_83_%28rok_2010%3B_01%29.jpg/1920px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_83_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub R-S-83
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_Neratov,_R-S_83_(rok_2010;_01).jpg

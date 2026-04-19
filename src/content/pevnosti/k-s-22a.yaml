@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element way/170334162)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/T%C4%9Bchon%C3%ADn%2C_K-S_22a_%28rok_2005%3B_01%29.jpg/1280px-T%C4%9Bchon%C3%ADn%2C_K-S_22a_%28rok_2005%3B_01%29.jpg
+  alt: Vstupní srub tvrze Bouda K-S 22a
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:T%C4%9Bchon%C3%ADn,_K-S_22a_(rok_2005;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bouda_-_K-S_22a_Krok.JPG/1920px-Bouda_-_K-S_22a_Krok.JPG
+  alt: Pěchotní srub K-S-22a
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:Bouda_-_K-S_22a_Krok.JPG
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bouda_-_K-S_22a_Krok_-_svaznice.JPG/1920px-Bouda_-_K-S_22a_Krok_-_svaznice.JPG
+  alt: Pěchotní srub K-S-22a
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:Bouda_-_K-S_22a_Krok_-_svaznice.JPG

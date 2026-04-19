@@ -40,3 +40,9 @@ sources:
 - OpenStreetMap (OSM element node/3935647355)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/K-S_45_%28Adam%29.jpg/1280px-K-S_45_%28Adam%29.jpg
+  alt: Bojový srub tvrze Adam K-Am-S 45
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:K-S_45_(Adam).jpg

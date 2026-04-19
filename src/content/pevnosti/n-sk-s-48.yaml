@@ -40,3 +40,9 @@ sources:
 - OpenStreetMap (OSM element way/389099980)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sn%C4%9B%C5%BEn%C3%A9%2C_N-S_48_%28rok_2002%3B_01%29.jpg/1280px-Sn%C4%9B%C5%BEn%C3%A9%2C_N-S_48_%28rok_2002%3B_01%29.jpg
+  alt: Pěchotní srub N-Sk-S 48
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Sn%C4%9B%C5%BEn%C3%A9,_N-S_48_(rok_2002;_01).jpg

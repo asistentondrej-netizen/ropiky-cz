@@ -36,3 +36,14 @@ sources:
 - OpenStreetMap (OSM element node/3935648659)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%C4%8Cesk%C3%A9_Petrovice%2C_K-S_49_%28rok_2002%29.jpg/1280px-%C4%8Cesk%C3%A9_Petrovice%2C_K-S_49_%28rok_2002%29.jpg
+  alt: Pěchotní srub K-S 49
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%A9_Petrovice,_K-S_49_(rok_2002).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/%C4%8Cesk%C3%A9_Petrovice%2C_K-S_49_%28rok_2002%29.jpg/1920px-%C4%8Cesk%C3%A9_Petrovice%2C_K-S_49_%28rok_2002%29.jpg
+  alt: Pěchotní srub K-S-49
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%A9_Petrovice,_K-S_49_(rok_2002).jpg

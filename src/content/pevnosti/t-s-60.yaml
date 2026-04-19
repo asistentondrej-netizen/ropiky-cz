@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element node/3482214073)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Trutnov%2C_Debrn%C3%A9%2C_T-S_60_%28rok_2012%3B_01%29.jpg/1920px-Trutnov%2C_Debrn%C3%A9%2C_T-S_60_%28rok_2012%3B_01%29.jpg
+  alt: Pěchotní srub T-S-60
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Debrn%C3%A9,_T-S_60_(rok_2012;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Trutnov%2C_Debrn%C3%A9%2C_T-S_60_%28rok_2012%3B_02%29.jpg/1920px-Trutnov%2C_Debrn%C3%A9%2C_T-S_60_%28rok_2012%3B_02%29.jpg
+  alt: Pěchotní srub T-S-60
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Debrn%C3%A9,_T-S_60_(rok_2012;_02).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Trutnov%2C_Debrn%C3%A9%2C_T-S_60_%28rok_2012%3B_03%29.jpg/1920px-Trutnov%2C_Debrn%C3%A9%2C_T-S_60_%28rok_2012%3B_03%29.jpg
+  alt: Pěchotní srub T-S-60
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Debrn%C3%A9,_T-S_60_(rok_2012;_03).jpg

@@ -40,3 +40,19 @@ sources:
 - OpenStreetMap (OSM element way/390422138)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_13_%28rok_2006%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_13_%28rok_2006%3B_01%29.jpg
+  alt: Bojový srub tvrze Hůrka K-Bg-S 13
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_13_(rok_2006;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/K-Bg-S_13_U_lomu_1.jpg/1920px-K-Bg-S_13_U_lomu_1.jpg
+  alt: Pěchotní srub K-BG-S-13
+  author: Lasy
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:K-Bg-S_13_U_lomu_1.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/K-Bg-S_13_U_lomu_casemate_2.jpg/1920px-K-Bg-S_13_U_lomu_casemate_2.jpg
+  alt: Pěchotní srub K-BG-S-13
+  author: Lasy
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:K-Bg-S_13_U_lomu_casemate_2.jpg

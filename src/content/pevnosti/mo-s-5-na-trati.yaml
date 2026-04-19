@@ -1,27 +1,55 @@
-title: 'MO-S 5 „Na trati"'
-code: 'MO-S 5'
-type: 'pechotni-srub'
-line: 'Moravská Ostrava'
-region: 'Moravskoslezský kraj'
+title: MO-S 5 „Na trati"
+code: MO-S 5
+type: pechotni-srub
+line: Moravská Ostrava
+region: Moravskoslezský kraj
 location:
   lat: 49.8859
   lon: 18.3294
-  address: 'Hlučín-Darkovičky, skanzen čs. opevnění'
+  address: Hlučín-Darkovičky, skanzen čs. opevnění
 built: '1936'
-state: 'muzeum'
-description: 'Jeden z nejznámějších pěchotních srubů úseku MO. Součást pevnostního skanzenu Darkovičky u Hlučína — nejnavštěvovanější expozice čs. opevnění v Česku.'
-history: |
-  Srub MO-S 5 byl betonován v roce 1936 v rámci první výstavbové etapy úseku Moravská Ostrava. Byl klíčovou komponentou obrany průmyslové oblasti Ostravy proti útoku ze severu.
+state: muzeum
+description: Jeden z nejznámějších pěchotních srubů úseku MO. Součást pevnostního
+  skanzenu Darkovičky u Hlučína — nejnavštěvovanější expozice čs. opevnění v Česku.
+history: 'Srub MO-S 5 byl betonován v roce 1936 v rámci první výstavbové etapy úseku
+  Moravská Ostrava. Byl klíčovou komponentou obrany průmyslové oblasti Ostravy proti
+  útoku ze severu.
 
-  V říjnu 1938 byl opuštěn československou armádou a předán německé branné moci. Během okupace zde Wehrmacht prováděl destruktivní střelecké zkoušky.
 
-  Po válce srub sloužil krátce k vojenským účelům, později byl opuštěn. Od 80. let je součástí pevnostního skanzenu Slezského zemského muzea.
-visit: |
-  Skanzen Darkovičky je otevřen celoročně — aktuální otevírací doba a vstupné najdete na webu Slezského zemského muzea (szm.cz).
+  V říjnu 1938 byl opuštěn československou armádou a předán německé branné moci. Během
+  okupace zde Wehrmacht prováděl destruktivní střelecké zkoušky.
 
-  Doporučená návštěvní doba: 2–3 hodiny pro celý skanzen (zahrnuje i MO-S 8, MO-S 19 a MO-S 20).
+
+  Po válce srub sloužil krátce k vojenským účelům, později byl opuštěn. Od 80. let
+  je součástí pevnostního skanzenu Slezského zemského muzea.
+
+  '
+visit: 'Skanzen Darkovičky je otevřen celoročně — aktuální otevírací doba a vstupné
+  najdete na webu Slezského zemského muzea (szm.cz).
+
+
+  Doporučená návštěvní doba: 2–3 hodiny pro celý skanzen (zahrnuje i MO-S 8, MO-S
+  19 a MO-S 20).
+
+  '
 sources:
-  - 'Slezské zemské muzeum — Pevnostní areál Hlučín-Darkovičky'
-  - 'ropiky.net — MO-S 5'
-  - 'Wikipedia — Areál čs. opevnění Hlučín-Darkovičky'
+- Slezské zemské muzeum — Pevnostní areál Hlučín-Darkovičky
+- ropiky.net — MO-S 5
+- Wikipedia — Areál čs. opevnění Hlučín-Darkovičky
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg/1280px-Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 5 Na trati
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bohum%C3%ADn,_Star%C3%BD_Bohum%C3%ADn,_MO-S_5_(rok_2001;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg/1920px-Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 5
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bohum%C3%ADn,_Star%C3%BD_Bohum%C3%ADn,_MO-S_5_(rok_2001;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_02%29.jpg/1920px-Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_02%29.jpg
+  alt: Pěchotní srub MO-S 5
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bohum%C3%ADn,_Star%C3%BD_Bohum%C3%ADn,_MO-S_5_(rok_2001;_02).jpg

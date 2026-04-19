@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element way/389796228)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_56_%28rok_2010%3B_01%29.jpg/1280px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_56_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub R-S 56
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_R-S_56_(rok_2010;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_56_%28rok_2002%29.jpg/1920px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_56_%28rok_2002%29.jpg
+  alt: Pěchotní srub R-S-56
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_R-S_56_(rok_2002).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_56_%28rok_2010%3B_01%29.jpg/1920px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_56_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub R-S-56
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_R-S_56_(rok_2010;_01).jpg

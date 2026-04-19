@@ -37,3 +37,19 @@ sources:
 - OpenStreetMap (OSM element way/52430285)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/H%C3%A1j_ve_Slezsku%2C_Chabi%C4%8Dov%2C_MO-S_36_%282015-04-14%3B_01%29.jpg/1280px-H%C3%A1j_ve_Slezsku%2C_Chabi%C4%8Dov%2C_MO-S_36_%282015-04-14%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 36 U Opavice
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Chabi%C4%8Dov,_MO-S_36_(2015-04-14;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/H%C3%A1j_ve_Slezsku%2C_Chabi%C4%8Dov%2C_MO-S_36_%282015-04-14%3B_01%29.jpg/1920px-H%C3%A1j_ve_Slezsku%2C_Chabi%C4%8Dov%2C_MO-S_36_%282015-04-14%3B_01%29.jpg
+  alt: Pěchotní srub MO-S-36
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Chabi%C4%8Dov,_MO-S_36_(2015-04-14;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/H%C3%A1j_ve_Slezsku%2C_Chabi%C4%8Dov%2C_MO-S_36_%282015-04-14%3B_02%29.jpg/1920px-H%C3%A1j_ve_Slezsku%2C_Chabi%C4%8Dov%2C_MO-S_36_%282015-04-14%3B_02%29.jpg
+  alt: Pěchotní srub MO-S-36
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Chabi%C4%8Dov,_MO-S_36_(2015-04-14;_02).jpg

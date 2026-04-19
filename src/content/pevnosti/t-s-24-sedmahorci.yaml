@@ -1,23 +1,46 @@
-title: 'T-S 24 „Sedmahorci"'
-code: 'T-S 24'
-type: 'pechotni-srub'
-line: 'Trutnovsko'
-region: 'Královéhradecký kraj'
+title: T-S 24 „Sedmahorci"
+code: T-S 24
+type: pechotni-srub
+line: Trutnovsko
+region: Královéhradecký kraj
 location:
   lat: 50.5644
   lon: 15.9121
-  address: 'Trutnov — okolí Sedmihorek'
+  address: Trutnov — okolí Sedmihorek
 built: '1937'
-state: 'rozpadly'
-description: 'Pěchotní srub v trutnovském úseku, součást krkonošského předpolí. Dnes v přírodním prostředí Českého ráje.'
-history: |
-  Trutnovská linie (T) byla budována jako obrana severovýchodních hranic. T-S 24 je středně velký objekt s bočními střílnami.
+state: rozpadly
+description: Pěchotní srub v trutnovském úseku, součást krkonošského předpolí. Dnes
+  v přírodním prostředí Českého ráje.
+history: 'Trutnovská linie (T) byla budována jako obrana severovýchodních hranic.
+  T-S 24 je středně velký objekt s bočními střílnami.
 
-  Po Mnichovu zabrán Wehrmachtem. Z poválečné doby nejsou významné úpravy, objekt postupně chátrá.
+
+  Po Mnichovu zabrán Wehrmachtem. Z poválečné doby nejsou významné úpravy, objekt
+  postupně chátrá.
+
 
   Vhodný jako součást turistické trasy v Českém ráji a Podkrkonoší.
-visit: |
-  Přístupný zvenku, vnitřek zatopený. Součást pěších tras.
+
+  '
+visit: 'Přístupný zvenku, vnitřek zatopený. Součást pěších tras.
+
+  '
 sources:
-  - 'ropiky.net — Trutnovsko'
+- ropiky.net — Trutnovsko
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/St%C3%A1rkov%2C_Chl%C3%ADvce%2C_T-S_24_%28rok_2012%3B_01%29.jpg/1920px-St%C3%A1rkov%2C_Chl%C3%ADvce%2C_T-S_24_%28rok_2012%3B_01%29.jpg
+  alt: Pěchotní srub T-S 24
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:St%C3%A1rkov,_Chl%C3%ADvce,_T-S_24_(rok_2012;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/St%C3%A1rkov%2C_Chl%C3%ADvce%2C_T-S_24_%28rok_2012%3B_02%29.jpg/1920px-St%C3%A1rkov%2C_Chl%C3%ADvce%2C_T-S_24_%28rok_2012%3B_02%29.jpg
+  alt: Pěchotní srub T-S 24
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:St%C3%A1rkov,_Chl%C3%ADvce,_T-S_24_(rok_2012;_02).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/St%C3%A1rkov%2C_Chl%C3%ADvce%2C_T-S_24_%28rok_2012%3B_03%29.jpg/1920px-St%C3%A1rkov%2C_Chl%C3%ADvce%2C_T-S_24_%28rok_2012%3B_03%29.jpg
+  alt: Pěchotní srub T-S 24
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:St%C3%A1rkov,_Chl%C3%ADvce,_T-S_24_(rok_2012;_03).jpg

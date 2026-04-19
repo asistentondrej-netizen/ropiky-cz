@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element way/52429745)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/OP-S_10_K%C5%99i%C5%BEovatka_%281%29.jpg/1920px-OP-S_10_K%C5%99i%C5%BEovatka_%281%29.jpg
+  alt: Pěchotní srub OP-S-10
+  author: Olos88
+  license: CC0
+  source: https://commons.wikimedia.org/wiki/File:OP-S_10_K%C5%99i%C5%BEovatka_(1).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OP-S_10_K%C5%99i%C5%BEovatka_%282%29.jpg/1920px-OP-S_10_K%C5%99i%C5%BEovatka_%282%29.jpg
+  alt: Pěchotní srub OP-S-10
+  author: Olos88
+  license: CC0
+  source: https://commons.wikimedia.org/wiki/File:OP-S_10_K%C5%99i%C5%BEovatka_(2).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Velk%C3%A9_Ho%C5%A1tice%2C_OP-S_10_%28rok_2001%3B_01%29.jpg/1920px-Velk%C3%A9_Ho%C5%A1tice%2C_OP-S_10_%28rok_2001%3B_01%29.jpg
+  alt: Pěchotní srub OP-S-10
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Velk%C3%A9_Ho%C5%A1tice,_OP-S_10_(rok_2001;_01).jpg

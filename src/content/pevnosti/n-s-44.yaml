@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element node/3922646234)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/N-S_44.jpg/1920px-N-S_44.jpg
+  alt: Pěchotní srub N-S-44
+  author: A.Patek
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:N-S_44.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/N-S_44_%281%29.jpg/1920px-N-S_44_%281%29.jpg
+  alt: Pěchotní srub N-S-44
+  author: A.Patek
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:N-S_44_(1).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/N-S_44_%282%29.jpg/1920px-N-S_44_%282%29.jpg
+  alt: Pěchotní srub N-S-44
+  author: A.Patek
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:N-S_44_(2).jpg

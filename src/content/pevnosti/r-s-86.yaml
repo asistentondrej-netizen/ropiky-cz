@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element node/3929493471)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_86_%28rok_2010%3B_01%29.jpg/1280px-%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_86_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub R-S 86 Paseky
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_86_(rok_2010;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_86_%28rok_2002%29.jpg/1920px-%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_86_%28rok_2002%29.jpg
+  alt: Pěchotní srub R-S-86
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_86_(rok_2002).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_86_%28rok_2010%3B_01%29.jpg/1920px-%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_86_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub R-S-86
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_86_(rok_2010;_01).jpg

@@ -37,3 +37,14 @@ sources:
 - OpenStreetMap (OSM element way/388849151)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mladkov%2C_K-S_28_%28rok_2000%29.jpg/1280px-Mladkov%2C_K-S_28_%28rok_2000%29.jpg
+  alt: Pěchotní srub K-S 28
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Mladkov,_K-S_28_(rok_2000).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mladkov%2C_K-S_28_%28rok_2000%29.jpg/1920px-Mladkov%2C_K-S_28_%28rok_2000%29.jpg
+  alt: Pěchotní srub K-S-28
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Mladkov,_K-S_28_(rok_2000).jpg

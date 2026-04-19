@@ -14,6 +14,22 @@ sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bratislava%2C_Petr%C5%BEalka%2C_B-S_4_%282013-10-25%3B_08%29.jpg/1280px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_4_%282013-10-25%3B_08%29.jpg
+  alt: Pěchotní srub B-S 4 „Lány"
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_4_(2013-10-25;_08).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/B-S_4_L%C3%A1ny.JPG/1920px-B-S_4_L%C3%A1ny.JPG
+  alt: Pěchotní srub B-S 4
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:B-S_4_L%C3%A1ny.JPG
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/B-S_4_L%C3%A1ny_casemate._%2851091372834%29.jpg/1920px-B-S_4_L%C3%A1ny_casemate._%2851091372834%29.jpg
+  alt: Pěchotní srub B-S 4
+  author: young shanahan from Bratislava, Slovakia
+  license: CC BY 2.0
+  source: https://commons.wikimedia.org/wiki/File:B-S_4_L%C3%A1ny_casemate._(51091372834).jpg
 visit: 'Volně přístupný pěchotní srub B-S 4 „Lány" v Bratislavě-Petržalce. Součást
   obranné linie podél Dunaje proti očekávanému útoku z Rakouska/Maďarska.
 

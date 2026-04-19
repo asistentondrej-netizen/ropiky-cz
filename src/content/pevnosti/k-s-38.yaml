@@ -36,3 +36,14 @@ sources:
 - OpenStreetMap (OSM element way/39373016)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg/1280px-Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg
+  alt: Pěchotní srub K-S 38
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Mladkov,_Petrovi%C4%8Dky,_K-S_38_(rok_2000).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg/1920px-Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg
+  alt: Pěchotní srub K-S-38
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Mladkov,_Petrovi%C4%8Dky,_K-S_38_(rok_2000).jpg

@@ -40,3 +40,19 @@ sources:
 - OpenStreetMap (OSM element relation/12301668)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_79_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_79_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub R-H-S 79 Na mýtině
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_79_(rok_2010;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Schron.artyleryjski_R-H-S_79.jpg/1920px-Schron.artyleryjski_R-H-S_79.jpg
+  alt: Pěchotní srub R-H-S-79
+  author: Tomasz Leśniowski
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Schron.artyleryjski_R-H-S_79.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Schron_artyleryjski._R-H-S_79.jpg/1920px-Schron_artyleryjski._R-H-S_79.jpg
+  alt: Pěchotní srub R-H-S-79
+  author: Tomasz Leśniowski
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Schron_artyleryjski._R-H-S_79.jpg

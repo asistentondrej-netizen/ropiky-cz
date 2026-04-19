@@ -15,3 +15,19 @@ sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/H%C3%A1j_ve_Slezsku%2C_MO-S_37_%282015-04-14%3B_01%29.jpg/1280px-H%C3%A1j_ve_Slezsku%2C_MO-S_37_%282015-04-14%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 37 Cukrovar
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_MO-S_37_(2015-04-14;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/H%C3%A1j_ve_Slezsku%2C_MO-S_37_%282015-04-14%3B_01%29.jpg/1920px-H%C3%A1j_ve_Slezsku%2C_MO-S_37_%282015-04-14%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 37
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_MO-S_37_(2015-04-14;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/H%C3%A1j_ve_Slezsku%2C_MO-S_37_%282015-04-14%3B_02%29.jpg/1920px-H%C3%A1j_ve_Slezsku%2C_MO-S_37_%282015-04-14%3B_02%29.jpg
+  alt: Pěchotní srub MO-S 37
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_MO-S_37_(2015-04-14;_02).jpg

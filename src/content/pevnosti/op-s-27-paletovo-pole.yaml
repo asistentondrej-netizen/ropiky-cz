@@ -14,3 +14,19 @@ sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Opava%2C_Milostovice%2C_OP-S_27_%282019-08-14%3B_01%29.jpg/1280px-Opava%2C_Milostovice%2C_OP-S_27_%282019-08-14%3B_01%29.jpg
+  alt: Pěchotní srub OP-S 27 Paletovo pole
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Opava,_Milostovice,_OP-S_27_(2019-08-14;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/f/f2/OP-S_27.JPG
+  alt: Pěchotní srub OP-S 27
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:OP-S_27.JPG
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Opava%2C_Milostovice%2C_OP-S_27_%28rok_2001%3B_01%29.jpg/1920px-Opava%2C_Milostovice%2C_OP-S_27_%28rok_2001%3B_01%29.jpg
+  alt: Pěchotní srub OP-S 27
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Opava,_Milostovice,_OP-S_27_(rok_2001;_01).jpg

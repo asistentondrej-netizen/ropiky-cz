@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element way/34028342)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Star%C3%A9_M%C4%9Bsto%2C_StM-S_31b_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_31b_%28rok_2003%29.jpg
+  alt: Pěchotní srub StM-S 31b
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_31b_(rok_2003).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_01.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_01.jpg
+  alt: Pěchotní srub STM-S-31b
+  author: Michal Gregor
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_01.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_02.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_02.jpg
+  alt: Pěchotní srub STM-S-31b
+  author: Michal Gregor
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_02.jpg

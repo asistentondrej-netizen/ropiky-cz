@@ -15,6 +15,22 @@ sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_02%29.jpg/1280px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_02%29.jpg
+  alt: Pěchotní srub B-S 8 „Hřbitov"
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_8_(2013-11-11;_02).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bratislava%2C_B-S_8%2C_stav_v_roce_1996.jpg/1920px-Bratislava%2C_B-S_8%2C_stav_v_roce_1996.jpg
+  alt: Pěchotní srub B-S 8
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bratislava,_B-S_8,_stav_v_roce_1996.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_01%29.jpg/1920px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_01%29.jpg
+  alt: Pěchotní srub B-S 8
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_8_(2013-11-11;_01).jpg
 visit: 'Pěchotní srub „Hřbitov" v Bratislavě-Petržalce — součást Múzea obrany Československa
   s nejkomplexnějším výkladem předválečné obrany na Slovensku. Provozuje klub B-S
   8 Hřbitov.

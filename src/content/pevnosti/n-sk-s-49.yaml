@@ -40,3 +40,9 @@ sources:
 - OpenStreetMap (OSM element way/389099981)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ole%C5%A1nice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_N-S_49_%28rok_2002%3B_01%29.jpg/1280px-Ole%C5%A1nice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_N-S_49_%28rok_2002%3B_01%29.jpg
+  alt: Pěchotní srub N-Sk-S 49
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Ole%C5%A1nice_v_Orlick%C3%BDch_hor%C3%A1ch,_N-S_49_(rok_2002;_01).jpg

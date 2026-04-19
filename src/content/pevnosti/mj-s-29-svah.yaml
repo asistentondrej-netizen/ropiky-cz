@@ -14,3 +14,19 @@ sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mikulov%2C_MJ-S_29_%28rok_2000%29.jpg/1280px-Mikulov%2C_MJ-S_29_%28rok_2000%29.jpg
+  alt: Pěchotní srub MJ-S 29
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Mikulov,_MJ-S_29_(rok_2000).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/MJ-S29_%2C%2CSVAH%22.jpg/1920px-MJ-S29_%2C%2CSVAH%22.jpg
+  alt: Pěchotní srub MJ-S 29
+  author: Tomašoun
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:MJ-S29_,,SVAH%22.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/0/02/MJ-S_29.JPG
+  alt: Pěchotní srub MJ-S 29
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:MJ-S_29.JPG

@@ -37,3 +37,19 @@ sources:
 - OpenStreetMap (OSM element way/52431162)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%C5%A0ilhe%C5%99ovice%2C_MO-S_14_%282015-05-08%3B_01%29.jpg/1280px-%C5%A0ilhe%C5%99ovice%2C_MO-S_14_%282015-05-08%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 14 Juliánka
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%A0ilhe%C5%99ovice,_MO-S_14_(2015-05-08;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Markvartovice%2C_lev%C3%BD_protitankov%C3%BD_p%C5%99%C3%ADkop_u_MO-S_14_%282015-05-08%3B_01%29.jpg/1920px-Markvartovice%2C_lev%C3%BD_protitankov%C3%BD_p%C5%99%C3%ADkop_u_MO-S_14_%282015-05-08%3B_01%29.jpg
+  alt: Pěchotní srub MO-S-14
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Markvartovice,_lev%C3%BD_protitankov%C3%BD_p%C5%99%C3%ADkop_u_MO-S_14_(2015-05-08;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Markvartovice%2C_lev%C3%BD_protitankov%C3%BD_p%C5%99%C3%ADkop_u_MO-S_14_%282015-05-08%3B_02%29.jpg/1920px-Markvartovice%2C_lev%C3%BD_protitankov%C3%BD_p%C5%99%C3%ADkop_u_MO-S_14_%282015-05-08%3B_02%29.jpg
+  alt: Pěchotní srub MO-S-14
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Markvartovice,_lev%C3%BD_protitankov%C3%BD_p%C5%99%C3%ADkop_u_MO-S_14_(2015-05-08;_02).jpg

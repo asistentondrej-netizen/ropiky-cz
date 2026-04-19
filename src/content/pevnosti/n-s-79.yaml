@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element way/389099973)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_79_%28rok_2002%3B_01%29.jpg/1280px-N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_79_%28rok_2002%3B_01%29.jpg
+  alt: Pěchotní srub N-S 79 na Dobrošově
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:N%C3%A1chod,_Dobro%C5%A1ov,_N-S_79_(rok_2002;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/N-S_79_Hrobka_1.jpg/1920px-N-S_79_Hrobka_1.jpg
+  alt: Pěchotní srub N-S-79
+  author: Lasy
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:N-S_79_Hrobka_1.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/8/80/N-S_79_Hrobka_2.jpg
+  alt: Pěchotní srub N-S-79
+  author: Lasy
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:N-S_79_Hrobka_2.jpg

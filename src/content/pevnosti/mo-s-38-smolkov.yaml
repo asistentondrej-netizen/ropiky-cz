@@ -41,3 +41,19 @@ visit: 'Krajní srub — spojuje moravskoostravskou a opavskou linii.
 sources:
 - ropiky.net — MO-S 38
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg/1280px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 38 Smolkov
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg/1920px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 38
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_02%29.jpg/1920px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_02%29.jpg
+  alt: Pěchotní srub MO-S 38
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_02).jpg

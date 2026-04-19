@@ -36,3 +36,14 @@ sources:
 - OpenStreetMap (OSM element way/390422142)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/c/cb/K-S_6_U_kapli%C4%8Dky.jpg
+  alt: Pěchotní srub K-S-6
+  author: Vlasakovo
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:K-S_6_U_kapli%C4%8Dky.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/K-S_6_U_kapli%C4%8Dky_2.jpg/1920px-K-S_6_U_kapli%C4%8Dky_2.jpg
+  alt: Pěchotní srub K-S-6
+  author: Vlasakovo
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:K-S_6_U_kapli%C4%8Dky_2.jpg

@@ -14,3 +14,19 @@ sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dyj%C3%A1kovice%2C_MJ-S_15_%28rok_2010%3B_01%29.jpg/1280px-Dyj%C3%A1kovice%2C_MJ-S_15_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub MJ-S 15
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Dyj%C3%A1kovice,_MJ-S_15_(rok_2010;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dyj%C3%A1kovice%2C_MJ-S_15_%28rok_2010%3B_01%29.jpg/1920px-Dyj%C3%A1kovice%2C_MJ-S_15_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub MJ-S 15
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Dyj%C3%A1kovice,_MJ-S_15_(rok_2010;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/1/12/Dyj%C3%A1kovice%2C_MJ-S_15_%28rok_2010%3B_02%29.jpg
+  alt: Pěchotní srub MJ-S 15
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Dyj%C3%A1kovice,_MJ-S_15_(rok_2010;_02).jpg

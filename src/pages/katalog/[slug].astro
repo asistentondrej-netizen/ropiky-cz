@@ -61,7 +61,7 @@ const typeName = typeNames[d.type] || d.type;
     </div>
   </header>
 
-  {(!d.photos || d.photos.length === 0) && (
+  {(!d.photos || d.photos.length === 0) ? (
     <div class="fort-placeholder">
       <div class="container">
         <figure style="margin: 0; max-width: 720px; margin-inline: auto;">
@@ -69,6 +69,21 @@ const typeName = typeNames[d.type] || d.type;
                style="width: 100%; height: auto; background: var(--paper-dark); padding: var(--s4); border: 1px solid var(--line);" />
           <figcaption style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s2); font-style: italic; text-align: center;">
             Schematický nákres typu „{typeName}". Fotografie tohoto konkrétního objektu nemáme k dispozici — pokud nějakou máte, <a href="/kontakt">napište nám</a>.
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+  ) : (
+    <div class="fort-hero-photo">
+      <div class="container">
+        <figure style="margin: 0; max-width: 960px; margin-inline: auto;">
+          <img src={d.photos[0].url} alt={d.photos[0].alt} loading="eager"
+               style="width: 100%; height: auto; border: 1px solid var(--line); aspect-ratio: 16/10; object-fit: cover;" />
+          <figcaption style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s2); font-style: italic; text-align: center;">
+            {d.photos[0].author && `© ${d.photos[0].author}`}
+            {d.photos[0].license && d.photos[0].source && (
+              <>{' · '}<a href={d.photos[0].source} rel="noopener" target="_blank">{d.photos[0].license}</a></>
+            )}
           </figcaption>
         </figure>
       </div>

@@ -36,3 +36,9 @@ sources:
 - OpenStreetMap (OSM element way/390422140)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/6/6e/K-S_15.JPG
+  alt: Pěchotní srub K-S-15
+  author: Martin Provazník
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:K-S_15.JPG

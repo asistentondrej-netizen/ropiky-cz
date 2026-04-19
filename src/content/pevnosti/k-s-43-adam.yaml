@@ -40,3 +40,14 @@ sources:
 - ropiky.net — tvrz Adam
 - Wikipedia — Adam (dělostřelecká tvrz)
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/K-S_43_%28Adam%29.jpg/1280px-K-S_43_%28Adam%29.jpg
+  alt: Bojový srub tvrze Adam K-S 43
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:K-S_43_(Adam).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/7/7c/K-S_43_%28Adam%29.jpg
+  alt: Pěchotní srub K-S 43
+  author: Jiří Šotola
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:K-S_43_(Adam).jpg

@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element way/53334957)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/St%C4%9Bbo%C5%99ice%2C_B%C5%99ezov%C3%A1%2C_OP-S_36a_%282019-08-14%3B_01%29.jpg/1280px-St%C4%9Bbo%C5%99ice%2C_B%C5%99ezov%C3%A1%2C_OP-S_36a_%282019-08-14%3B_01%29.jpg
+  alt: Pěchotní srub OP-S 36a Dvoják horní
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:St%C4%9Bbo%C5%99ice,_B%C5%99ezov%C3%A1,_OP-S_36a_(2019-08-14;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/6/6a/OP-S_36a_%281%29.jpg
+  alt: Pěchotní srub OP-S-36a
+  author: Hapesoft
+  license: CC BY 3.0
+  source: https://commons.wikimedia.org/wiki/File:OP-S_36a_(1).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/d/dc/OP-S_36a_%282%29.jpg
+  alt: Pěchotní srub OP-S-36a
+  author: Hapesoft
+  license: CC BY 3.0
+  source: https://commons.wikimedia.org/wiki/File:OP-S_36a_(2).jpg

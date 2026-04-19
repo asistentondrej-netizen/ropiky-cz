@@ -40,3 +40,9 @@ sources:
 - OpenStreetMap (OSM element way/182573893)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Lichkov%2C_K-S_24_%28rok_2005%3B_01%29.jpg/1280px-Lichkov%2C_K-S_24_%28rok_2005%3B_01%29.jpg
+  alt: Bojový srub tvrze Bouda K-Ba-S 24
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Lichkov,_K-S_24_(rok_2005;_01).jpg

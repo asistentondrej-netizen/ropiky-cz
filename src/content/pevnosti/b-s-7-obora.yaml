@@ -49,3 +49,19 @@ sources:
 - 'Martin Slezák: Bratislavské opevnení 1938'
 - bs8.sk
 updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bunker_B-S-7_Cviciste_-_panoramio.jpg/1280px-Bunker_B-S-7_Cviciste_-_panoramio.jpg
+  alt: Pěchotní srub B-S 7 v Bratislavě-Petržalce
+  author: Wikimedia Commons (Panoramio)
+  license: CC BY 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bunker_B-S-7_Cviciste_-_panoramio.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bunker_B-S-7_Cviciste_-_panoramio.jpg/1920px-Bunker_B-S-7_Cviciste_-_panoramio.jpg
+  alt: Pěchotní srub B-S 7
+  author: bredus
+  license: CC BY 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bunker_B-S-7_Cviciste_-_panoramio.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg/1920px-Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg
+  alt: Pěchotní srub B-S 7
+  author: TeodS
+  license: CC0
+  source: https://commons.wikimedia.org/wiki/File:Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg

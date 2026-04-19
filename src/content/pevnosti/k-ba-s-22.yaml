@@ -40,3 +40,14 @@ sources:
 - OpenStreetMap (OSM element node/3935796727)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_22_%28rok_2005%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_22_%28rok_2005%3B_01%29.jpg
+  alt: Bojový srub tvrze Bouda K-Ba-S 22
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Doln%C3%AD_Bo%C5%99%C3%ADkovice,_K-S_22_(rok_2005;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/K-Ba-S_22_Horym%C3%ADr_casemate1.JPG/1920px-K-Ba-S_22_Horym%C3%ADr_casemate1.JPG
+  alt: Pěchotní srub K-BA-S-22
+  author: Lasy
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:K-Ba-S_22_Horym%C3%ADr_casemate1.JPG

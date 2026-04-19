@@ -40,3 +40,19 @@ sources:
 - OpenStreetMap (OSM element way/390422134)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_10_%28rok_2006%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_10_%28rok_2006%3B_01%29.jpg
+  alt: Bojový srub tvrze Hůrka K-Bg-S 10
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_10_(rok_2006;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/K-Bg-S_10_U_bo%C5%BE%C3%AD_muky_1.jpg/1920px-K-Bg-S_10_U_bo%C5%BE%C3%AD_muky_1.jpg
+  alt: Pěchotní srub K-BG-S-10
+  author: Lasy
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:K-Bg-S_10_U_bo%C5%BE%C3%AD_muky_1.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/K-Bg-S_10_U_bo%C5%BE%C3%AD_muky_2.jpg/1920px-K-Bg-S_10_U_bo%C5%BE%C3%AD_muky_2.jpg
+  alt: Pěchotní srub K-BG-S-10
+  author: Lasy
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:K-Bg-S_10_U_bo%C5%BE%C3%AD_muky_2.jpg

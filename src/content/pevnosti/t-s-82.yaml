@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element way/159221366)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Trutnov%2C_Bab%C3%AD%2C_T-S_82_%28rok_2012%3B_01%29.jpg/1280px-Trutnov%2C_Bab%C3%AD%2C_T-S_82_%28rok_2012%3B_01%29.jpg
+  alt: Pěchotní srub T-S 82 V končinách
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Bab%C3%AD,_T-S_82_(rok_2012;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Trutnov%2C_Bab%C3%AD%2C_T-S_82_%28rok_2002%29.jpg/1920px-Trutnov%2C_Bab%C3%AD%2C_T-S_82_%28rok_2002%29.jpg
+  alt: Pěchotní srub T-S-82
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Bab%C3%AD,_T-S_82_(rok_2002).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Trutnov%2C_Bab%C3%AD%2C_T-S_82_%28rok_2012%3B_01%29.jpg/1920px-Trutnov%2C_Bab%C3%AD%2C_T-S_82_%28rok_2012%3B_01%29.jpg
+  alt: Pěchotní srub T-S-82
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Bab%C3%AD,_T-S_82_(rok_2012;_01).jpg

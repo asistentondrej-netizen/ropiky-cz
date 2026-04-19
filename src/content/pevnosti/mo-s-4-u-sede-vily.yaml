@@ -8,15 +8,21 @@ location:
   lon: 18.34529
 built: '1937'
 state: rozpadly
-description: Pěchotní srub na samém severu ostravské linie, u hranice s Polskem. Odolnost II, těžká výzbroj oboustranného
-  palebného úseku. Po válce poškozen, dnes v keřovém porostu u Bohumína.
+description: Pěchotní srub na samém severu ostravské linie, u hranice s Polskem. Odolnost
+  II, těžká výzbroj oboustranného palebného úseku. Po válce poškozen, dnes v keřovém
+  porostu u Bohumína.
 sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
 photos:
-- url: /img/forts/2016-06-bohumin--5-.jpg
-  alt: MO-S 4 U šedé vily — pěchotní srub
-  author: Marek Mróz
-  license: CC BY 4.0
-  source: https://commons.wikimedia.org/wiki/File%3A2016-06_Bohum%C3%ADn_%285%29.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Mo-s4_seda_vila%2C_leto_%28kvh_bohumin%29.jpg
+  alt: Pěchotní srub MO-S 4
+  author: Tieftrunk Tomáš
+  license: CC BY 3.0
+  source: https://commons.wikimedia.org/wiki/File:Mo-s4_seda_vila,_leto_(kvh_bohumin).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Mo-s4_seda_vila%2C_zima_%28kvh_bohumin%29.jpg
+  alt: Pěchotní srub MO-S 4
+  author: Tieftrunk Tomáš
+  license: CC BY 3.0
+  source: https://commons.wikimedia.org/wiki/File:Mo-s4_seda_vila,_zima_(kvh_bohumin).jpg

@@ -36,3 +36,19 @@ sources:
 - OpenStreetMap (OSM element node/3929579265)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_68_%28rok_2010%3B_01%29.jpg/1280px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_68_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub R-S 68
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_68_(rok_2010;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_68_%28rok_2010%3B_01%29.jpg/1920px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_68_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub R-S-68
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_68_(rok_2010;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_68_%28rok_2010%3B_02%29.jpg/1920px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_68_%28rok_2010%3B_02%29.jpg
+  alt: Pěchotní srub R-S-68
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_68_(rok_2010;_02).jpg
