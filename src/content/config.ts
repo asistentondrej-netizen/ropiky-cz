@@ -1,6 +1,26 @@
 import { defineCollection, z } from 'astro:content';
 
-// ---------- Statické stránky (O opevnění...) ----------
+// ---------- Helper enumy ----------
+const Odolnost = z.enum(['I', 'II', 'III', 'IV', 'neurceno']);
+const StupenDokonceni = z.enum([
+  'dokonceny',
+  'dokonceny-bez-vyzbroje',
+  'hruba-stavba',
+  'rozestaveny',
+  'plan-nedokonceny',
+]);
+const Pristupnost = z.enum([
+  'auto-az-k-objektu',
+  'auto-kratka-chuze',
+  'pesky-turisticka',
+  'pesky-narocna',
+  'kolo',
+  'uzavreno',
+]);
+const VhodnostRodiny = z.enum(['idealni', 'doporuceno', 'starsi-deti', 'jen-dospeli']);
+const PamatkaStatus = z.enum(['nkp', 'kulturni-pamatka', 'pamatkova-zona', 'zadna', 'neznamy']);
+
+// ---------- Statické stránky ----------
 const stranky = defineCollection({
   type: 'content',
   schema: z.object({
@@ -9,57 +29,235 @@ const stranky = defineCollection({
     order: z.number().default(99),
     updated: z.coerce.date().optional(),
     sources: z.array(z.string()).optional(),
-    // Související obsah — kurátorská volba. Formát: "clanky/slug" nebo "stranky/slug"
     related: z.array(z.string()).optional(),
   }),
 });
 
-// ---------- Typologie pevností (LO vz. 36, 37, TO...) ----------
+// ---------- Typologie ----------
 const typologie = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
-    code: z.string(),                    // např. "LO vz. 37"
+    code: z.string(),
     category: z.enum(['lehke', 'tezke']),
     description: z.string(),
-    period: z.string(),                  // např. "1937–1938"
-    builtCount: z.number().optional(),   // počet postavených
+    period: z.string(),
+    builtCount: z.number().optional(),
     armament: z.array(z.string()).optional(),
     order: z.number().default(99),
     updated: z.coerce.date().optional(),
     sources: z.array(z.string()).optional(),
-    isComponent: z.boolean().default(false), // komponenta (zvon, kopule…), ne typ objektu
-    isPrototype: z.boolean().default(false), // prototyp/experiment — nerealizovaný sériově
+    isComponent: z.boolean().default(false),
+    isPrototype: z.boolean().default(false),
   }),
 });
 
-// ---------- Databáze konkrétních pevností ----------
+// ---------- Pevnosti (rozšířeno v T1.1) ----------
 const pevnosti = defineCollection({
   type: 'data',
   schema: z.object({
-    title: z.string(),                   // jméno objektu
-    code: z.string(),                    // úseko-objekt, např. "MO-S 5"
-    type: z.string(),                    // odkaz na typologii (slug)
-    line: z.string(),                    // úsek/oblast, např. "Mladá Boleslav"
-    region: z.string(),                  // kraj
+    // === ZÁKLAD (stávající, zachovat) ===
+    title: z.string(),
+    code: z.string(),
+    type: z.string(),
+    line: z.string(),
+    region: z.string(),
     location: z.object({
       lat: z.number(),
       lon: z.number(),
       address: z.string().optional(),
+      elevation: z.number().optional(), // NOVÉ
     }),
-    built: z.string().optional(),        // datum dokončení
+    built: z.string().optional(),
     state: z.enum(['muzeum', 'pristupny', 'zachovaly', 'zavreny', 'rozpadly', 'zničeny', 'neznamy']),
     description: z.string(),
     history: z.string().optional(),
-    visit: z.string().optional(),        // info pro návštěvníky
-    photos: z.array(z.object({
-      url: z.string(),
-      alt: z.string(),
-      author: z.string().optional(),
-      license: z.string().optional(),
-      source: z.string().url().optional(),
-    })).optional(),
-    sources: z.array(z.string()).optional(),
+    visit: z.string().optional(),
+
+    // === TECHNICKÁ KARTA (NOVÉ) ===
+    tech: z
+      .object({
+        odolnost: Odolnost.optional(),
+        stupenDokonceni: StupenDokonceni.optional(),
+        typObjektu: z.string().optional(),
+        orientace: z.string().optional(),
+        posadka: z
+          .object({
+            mini: z.number().optional(),
+            maxi: z.number().optional(),
+            poznamka: z.string().optional(),
+          })
+          .optional(),
+        vyzbroj: z
+          .array(
+            z.object({
+              zbran: z.string(),
+              pocet: z.number().default(1),
+              umisteni: z.string().optional(),
+            })
+          )
+          .optional(),
+        steny: z
+          .object({
+            tloustka_cm: z.number().optional(),
+            material: z.string().optional(),
+          })
+          .optional(),
+        komponenty: z.array(z.string()).optional(),
+      })
+      .optional(),
+
+    // === STAVBA (NOVÉ) ===
+    stavba: z
+      .object({
+        projektant: z.string().optional(),
+        stavebniFirma: z.string().optional(),
+        zahajeni: z.string().optional(),
+        dokonceni: z.string().optional(),
+        betonaz_m3: z.number().optional(),
+        cena_kc_1938: z.number().optional(),
+        cena_kc_dnes_priblizne: z.number().optional(),
+        delnikuPocet: z.number().optional(),
+        poznamka: z.string().optional(),
+      })
+      .optional(),
+
+    // === HISTORIE MILNÍKY (NOVÉ) ===
+    historieMilniky: z
+      .array(
+        z.object({
+          datum: z.string(),
+          udalost: z.string(),
+          zdroj: z.string().optional(),
+        })
+      )
+      .optional(),
+
+    // === NÁVŠTĚVA (NOVÉ) ===
+    navsteva: z
+      .object({
+        pristupnost: Pristupnost.optional(),
+        vhodnostRodiny: VhodnostRodiny.optional(),
+        doporucenaDoba_minut: z.number().optional(),
+        otevreno: z
+          .object({
+            sezonne: z.boolean().default(false),
+            obdobi: z.string().optional(),
+            dny: z.string().optional(),
+            hodiny: z.string().optional(),
+            poznamka: z.string().optional(),
+          })
+          .optional(),
+        vstupne: z
+          .object({
+            zakladni_kc: z.number().optional(),
+            snizene_kc: z.number().optional(),
+            rodinne_kc: z.number().optional(),
+            zdarma: z.boolean().default(false),
+            poznamka: z.string().optional(),
+          })
+          .optional(),
+        rezervace: z
+          .object({
+            nutna: z.boolean().default(false),
+            url: z.string().url().optional(),
+            telefon: z.string().optional(),
+          })
+          .optional(),
+        parkovani: z.string().optional(),
+        mhd: z.string().optional(),
+        teplotaUvnitr_C: z.number().optional(),
+        upozorneni: z.array(z.string()).optional(),
+      })
+      .optional(),
+
+    // === SPRAVUJÍCÍ SUBJEKT (NOVÉ) ===
+    spravujicSubjekt: z
+      .object({
+        nazev: z.string(),
+        typ: z.enum(['muzeum', 'klub-vojenske-historie', 'obec', 'soukromy', 'statni', 'neznamy']).optional(),
+        web: z.string().url().optional(),
+        email: z.string().optional(),
+        telefon: z.string().optional(),
+      })
+      .optional(),
+
+    // === MÉDIA (rozšířeno) ===
+    photos: z
+      .array(
+        z.object({
+          url: z.string(),
+          alt: z.string(),
+          caption: z.string().optional(),
+          author: z.string().optional(),
+          license: z.string().optional(),
+          source: z.string().url().optional(),
+          category: z.enum(['exterier', 'interier', 'detail', 'dobova', 'pudorys', 'terenni']).optional(),
+          featured: z.boolean().default(false),
+        })
+      )
+      .optional(),
+    floorplan: z
+      .object({
+        url: z.string(),
+        alt: z.string(),
+        zdroj: z.string().optional(),
+      })
+      .optional(),
+    video: z
+      .array(
+        z.object({
+          platform: z.enum(['youtube', 'vimeo']),
+          id: z.string(),
+          title: z.string(),
+        })
+      )
+      .optional(),
+
+    // === PAMÁTKOVÁ OCHRANA (NOVÉ) ===
+    pamatka: z
+      .object({
+        status: PamatkaStatus.optional(),
+        cisloUspka: z.string().optional(),
+        poznamka: z.string().optional(),
+      })
+      .optional(),
+
+    // === CROSS-LINKING (NOVÉ) ===
+    related: z
+      .object({
+        clanky: z.array(z.string()).optional(),
+        pevnosti: z.array(z.string()).optional(),
+        typologie: z.array(z.string()).optional(),
+      })
+      .optional(),
+    castTvrze: z.string().optional(),
+
+    // === ZDROJE (rozšířeno — string nebo objekt) ===
+    sources: z
+      .array(
+        z.union([
+          z.string(),
+          z.object({
+            title: z.string(),
+            author: z.string().optional(),
+            year: z.number().optional(),
+            url: z.string().url().optional(),
+            type: z.enum(['kniha', 'clanek', 'archiv', 'web', 'terenni-pruzkum']).optional(),
+          }),
+        ])
+      )
+      .optional(),
+
+    // === SEO ===
+    seo: z
+      .object({
+        ogImage: z.string().optional(),
+        canonical: z.string().url().optional(),
+        noindex: z.boolean().default(false),
+      })
+      .optional(),
+
     updated: z.coerce.date().optional(),
   }),
 });
@@ -75,7 +273,6 @@ const clanky = defineCollection({
     tags: z.array(z.string()).optional(),
     cover: z.string().optional(),
     draft: z.boolean().default(false),
-    // Související obsah — kurátorská volba. Formát: "clanky/slug" nebo "stranky/slug"
     related: z.array(z.string()).optional(),
   }),
 });

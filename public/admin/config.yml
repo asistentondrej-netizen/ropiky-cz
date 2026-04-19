@@ -96,8 +96,10 @@ collections:
         options:
           - { label: "LO vz. 36", value: "lo-vz-36" }
           - { label: "LO vz. 37 (řopík)", value: "lo-vz-37" }
+          - { label: "LO vz. 38", value: "lo-vz-38" }
           - { label: "Pěchotní srub", value: "pechotni-srub" }
           - { label: "Dělostřelecká tvrz", value: "delostrelecka-tvrz" }
+          - { label: "Pancéřový zvon", value: "pancerovy-zvon" }
       - { label: "Úsek / linie", name: "line", widget: "string" }
       - { label: "Kraj / region", name: "region", widget: "string" }
       - label: "Poloha"
@@ -107,6 +109,7 @@ collections:
           - { label: "Zeměpisná šířka", name: "lat", widget: "number", value_type: "float", step: 0.00001 }
           - { label: "Zeměpisná délka", name: "lon", widget: "number", value_type: "float", step: 0.00001 }
           - { label: "Adresa / místopis", name: "address", widget: "string", required: false }
+          - { label: "Nadmořská výška (m)", name: "elevation", widget: "number", required: false, value_type: "int" }
       - { label: "Rok postavení / dokončení", name: "built", widget: "string", required: false }
       - label: "Současný stav"
         name: "state"
@@ -114,28 +117,301 @@ collections:
         options:
           - { label: "Muzeum", value: "muzeum" }
           - { label: "Volně přístupný", value: "pristupny" }
+          - { label: "Zachovalý (opuštěný, celý)", value: "zachovaly" }
           - { label: "Uzavřený", value: "zavreny" }
           - { label: "Rozpadlý", value: "rozpadly" }
           - { label: "Zničený", value: "zničeny" }
           - { label: "Neznámý stav", value: "neznamy" }
       - { label: "Krátký popis (lead)", name: "description", widget: "text" }
-      - { label: "Historie", name: "history", widget: "text", required: false }
-      - { label: "Informace pro návštěvníky", name: "visit", widget: "text", required: false }
+      - { label: "Součást tvrze (kód tvrze, např. K-S Bouda)", name: "castTvrze", widget: "string", required: false }
+      - { label: "Historie (prose)", name: "history", widget: "text", required: false }
+      - label: "Historie — milníky"
+        name: "historieMilniky"
+        widget: "list"
+        required: false
+        collapsed: true
+        summary: "{{datum}} — {{udalost}}"
+        fields:
+          - { label: "Datum (YYYY-MM-DD nebo text)", name: "datum", widget: "string" }
+          - { label: "Událost", name: "udalost", widget: "string" }
+          - { label: "Zdroj (poznámka)", name: "zdroj", widget: "string", required: false }
+
+      # === TECHNICKÁ KARTA ===
+      - label: "Technická karta"
+        name: "tech"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - label: "Odolnost"
+            name: "odolnost"
+            widget: "select"
+            required: false
+            options:
+              - { label: "I. stupeň", value: "I" }
+              - { label: "II. stupeň", value: "II" }
+              - { label: "III. stupeň", value: "III" }
+              - { label: "IV. stupeň", value: "IV" }
+              - { label: "Neurčeno", value: "neurceno" }
+          - label: "Stupeň dokončení"
+            name: "stupenDokonceni"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Dokončený", value: "dokonceny" }
+              - { label: "Dokončený bez výzbroje", value: "dokonceny-bez-vyzbroje" }
+              - { label: "Hrubá stavba", value: "hruba-stavba" }
+              - { label: "Rozestavěný", value: "rozestaveny" }
+              - { label: "Plánovaný / nedokončený", value: "plan-nedokonceny" }
+          - { label: "Konkrétní typ (např. typ A-160)", name: "typObjektu", widget: "string", required: false }
+          - { label: "Orientace (např. SZ-JV)", name: "orientace", widget: "string", required: false }
+          - label: "Posádka"
+            name: "posadka"
+            widget: "object"
+            required: false
+            collapsed: true
+            fields:
+              - { label: "Minimální počet", name: "mini", widget: "number", required: false, value_type: "int" }
+              - { label: "Maximální počet", name: "maxi", widget: "number", required: false, value_type: "int" }
+              - { label: "Poznámka", name: "poznamka", widget: "string", required: false }
+          - label: "Výzbroj"
+            name: "vyzbroj"
+            widget: "list"
+            required: false
+            summary: "{{pocet}}× {{zbran}}"
+            fields:
+              - { label: "Zbraň (název/typ)", name: "zbran", widget: "string" }
+              - { label: "Počet", name: "pocet", widget: "number", default: 1, value_type: "int" }
+              - { label: "Umístění (pravá střílna, zvon...)", name: "umisteni", widget: "string", required: false }
+          - label: "Stěny"
+            name: "steny"
+            widget: "object"
+            required: false
+            collapsed: true
+            fields:
+              - { label: "Tloušťka (cm)", name: "tloustka_cm", widget: "number", required: false, value_type: "int" }
+              - { label: "Materiál (beton, pancíř...)", name: "material", widget: "string", required: false }
+          - label: "Komponenty (slugy typologie)"
+            name: "komponenty"
+            widget: "list"
+            required: false
+            field: { label: "Slug", name: "slug", widget: "string" }
+
+      # === STAVBA ===
+      - label: "Stavba"
+        name: "stavba"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Projektant", name: "projektant", widget: "string", required: false }
+          - { label: "Stavební firma", name: "stavebniFirma", widget: "string", required: false }
+          - { label: "Zahájení (YYYY-MM nebo YYYY)", name: "zahajeni", widget: "string", required: false }
+          - { label: "Dokončení (YYYY-MM nebo YYYY)", name: "dokonceni", widget: "string", required: false }
+          - { label: "Betonáž (m³)", name: "betonaz_m3", widget: "number", required: false, value_type: "int" }
+          - { label: "Cena 1938 (Kč)", name: "cena_kc_1938", widget: "number", required: false, value_type: "int" }
+          - { label: "Cena dnes přibližně (Kč) — volitelné přepsání", name: "cena_kc_dnes_priblizne", widget: "number", required: false, value_type: "int" }
+          - { label: "Počet dělníků", name: "delnikuPocet", widget: "number", required: false, value_type: "int" }
+          - { label: "Poznámka", name: "poznamka", widget: "text", required: false }
+
+      # === NÁVŠTĚVA ===
+      - label: "Návštěva"
+        name: "navsteva"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - label: "Přístupnost"
+            name: "pristupnost"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Autem až k objektu", value: "auto-az-k-objektu" }
+              - { label: "Auto + krátká chůze", value: "auto-kratka-chuze" }
+              - { label: "Pěšky (turistická trasa)", value: "pesky-turisticka" }
+              - { label: "Pěšky (náročná trasa)", value: "pesky-narocna" }
+              - { label: "Cyklotrasa", value: "kolo" }
+              - { label: "Uzavřeno pro veřejnost", value: "uzavreno" }
+          - label: "Vhodnost pro rodiny"
+            name: "vhodnostRodiny"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Ideální pro rodiny", value: "idealni" }
+              - { label: "Doporučeno", value: "doporuceno" }
+              - { label: "Starší děti (10+)", value: "starsi-deti" }
+              - { label: "Pouze dospělí", value: "jen-dospeli" }
+          - { label: "Doporučená doba návštěvy (min)", name: "doporucenaDoba_minut", widget: "number", required: false, value_type: "int" }
+          - label: "Otevírací doba"
+            name: "otevreno"
+            widget: "object"
+            required: false
+            collapsed: true
+            fields:
+              - { label: "Sezónně", name: "sezonne", widget: "boolean", default: false }
+              - { label: "Období (např. duben–říjen)", name: "obdobi", widget: "string", required: false }
+              - { label: "Dny (např. Pá–Ne)", name: "dny", widget: "string", required: false }
+              - { label: "Hodiny (např. 10–17)", name: "hodiny", widget: "string", required: false }
+              - { label: "Poznámka", name: "poznamka", widget: "string", required: false }
+          - label: "Vstupné"
+            name: "vstupne"
+            widget: "object"
+            required: false
+            collapsed: true
+            fields:
+              - { label: "Základní (Kč)", name: "zakladni_kc", widget: "number", required: false, value_type: "int" }
+              - { label: "Snížené (Kč)", name: "snizene_kc", widget: "number", required: false, value_type: "int" }
+              - { label: "Rodinné (Kč)", name: "rodinne_kc", widget: "number", required: false, value_type: "int" }
+              - { label: "Zdarma", name: "zdarma", widget: "boolean", default: false }
+              - { label: "Poznámka", name: "poznamka", widget: "string", required: false }
+          - label: "Rezervace"
+            name: "rezervace"
+            widget: "object"
+            required: false
+            collapsed: true
+            fields:
+              - { label: "Nutná rezervace", name: "nutna", widget: "boolean", default: false }
+              - { label: "URL rezervačního systému", name: "url", widget: "string", required: false }
+              - { label: "Telefon", name: "telefon", widget: "string", required: false }
+          - { label: "Parkování", name: "parkovani", widget: "string", required: false }
+          - { label: "MHD / doprava", name: "mhd", widget: "string", required: false }
+          - { label: "Teplota uvnitř (°C)", name: "teplotaUvnitr_C", widget: "number", required: false, value_type: "int" }
+          - label: "Upozornění"
+            name: "upozorneni"
+            widget: "list"
+            required: false
+            field: { label: "Upozornění", name: "text", widget: "string" }
+
+      # === SPRAVUJÍCÍ SUBJEKT ===
+      - label: "Správce / provozovatel"
+        name: "spravujicSubjekt"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "Název", name: "nazev", widget: "string" }
+          - label: "Typ"
+            name: "typ"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Muzeum", value: "muzeum" }
+              - { label: "Klub vojenské historie", value: "klub-vojenske-historie" }
+              - { label: "Obec", value: "obec" }
+              - { label: "Soukromý", value: "soukromy" }
+              - { label: "Státní", value: "statni" }
+              - { label: "Neznámý", value: "neznamy" }
+          - { label: "Web", name: "web", widget: "string", required: false }
+          - { label: "E-mail", name: "email", widget: "string", required: false }
+          - { label: "Telefon", name: "telefon", widget: "string", required: false }
+
+      - { label: "Informace pro návštěvníky (legacy prose)", name: "visit", widget: "text", required: false }
+
+      # === FOTOGRAFIE (rozšířeno) ===
       - label: "Fotografie"
         name: "photos"
         widget: "list"
         required: false
+        collapsed: true
+        summary: "{{alt}}"
         fields:
           - { label: "Soubor / URL", name: "url", widget: "string" }
           - { label: "Popisek (alt)", name: "alt", widget: "string" }
+          - { label: "Delší popis (caption)", name: "caption", widget: "string", required: false }
           - { label: "Autor", name: "author", widget: "string", required: false }
           - { label: "Licence", name: "license", widget: "string", required: false }
           - { label: "Zdroj (URL)", name: "source", widget: "string", required: false }
+          - label: "Kategorie"
+            name: "category"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Exteriér", value: "exterier" }
+              - { label: "Interiér", value: "interier" }
+              - { label: "Detail", value: "detail" }
+              - { label: "Dobová", value: "dobova" }
+              - { label: "Půdorys/nákres", value: "pudorys" }
+              - { label: "Terénní průzkum", value: "terenni" }
+          - { label: "Featured (hero)", name: "featured", widget: "boolean", default: false }
+
+      # === PŮDORYS ===
+      - label: "Půdorys"
+        name: "floorplan"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - { label: "URL (SVG/PNG)", name: "url", widget: "string" }
+          - { label: "Alt popis", name: "alt", widget: "string" }
+          - { label: "Zdroj", name: "zdroj", widget: "string", required: false }
+
+      # === VIDEO ===
+      - label: "Video"
+        name: "video"
+        widget: "list"
+        required: false
+        collapsed: true
+        summary: "{{title}}"
+        fields:
+          - label: "Platforma"
+            name: "platform"
+            widget: "select"
+            options:
+              - { label: "YouTube", value: "youtube" }
+              - { label: "Vimeo", value: "vimeo" }
+          - { label: "ID videa", name: "id", widget: "string" }
+          - { label: "Titulek", name: "title", widget: "string" }
+
+      # === PAMÁTKOVÁ OCHRANA ===
+      - label: "Památková ochrana"
+        name: "pamatka"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - label: "Status"
+            name: "status"
+            widget: "select"
+            required: false
+            options:
+              - { label: "Národní kulturní památka (NKP)", value: "nkp" }
+              - { label: "Kulturní památka", value: "kulturni-pamatka" }
+              - { label: "Památková zóna", value: "pamatkova-zona" }
+              - { label: "Bez ochrany", value: "zadna" }
+              - { label: "Neznámý", value: "neznamy" }
+          - { label: "Číslo ÚSKP (rejstřík)", name: "cisloUspka", widget: "string", required: false }
+          - { label: "Poznámka", name: "poznamka", widget: "string", required: false }
+
+      # === SOUVISEJÍCÍ (cross-linking) ===
+      - label: "Související"
+        name: "related"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - label: "Články (slugy)"
+            name: "clanky"
+            widget: "list"
+            required: false
+            field: { label: "Slug", name: "slug", widget: "string" }
+          - label: "Pevnosti (slugy)"
+            name: "pevnosti"
+            widget: "list"
+            required: false
+            field: { label: "Slug", name: "slug", widget: "string" }
+          - label: "Typologie (slugy)"
+            name: "typologie"
+            widget: "list"
+            required: false
+            field: { label: "Slug", name: "slug", widget: "string" }
+
+      # === ZDROJE (jednoduché) ===
       - label: "Zdroje"
         name: "sources"
         widget: "list"
         required: false
-        field: { label: "Zdroj", name: "source", widget: "string" }
+        field: { label: "Zdroj (text nebo URL)", name: "source", widget: "string" }
+
       - { label: "Naposledy upraveno", name: "updated", widget: "datetime", required: false, format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
 
   # =========== Články / blog ===========

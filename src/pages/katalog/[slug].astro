@@ -12,7 +12,9 @@ export async function getStaticPaths() {
 
 const { entry } = Astro.props;
 const d = entry.data;
+const slug = entry.id.replace(/\.json$|\.yml$|\.yaml$/, '');
 
+// ---------- Slovníky ----------
 const stateLabels: Record<string, string> = {
   muzeum: 'Muzeum — přístupný veřejnosti',
   pristupny: 'Volně přístupný',
@@ -23,7 +25,6 @@ const stateLabels: Record<string, string> = {
   neznamy: 'Neznámý stav',
 };
 
-// Typový nákres jako fallback místo generického placeholderu
 const typeDrawing: Record<string, string> = {
   'pechotni-srub': '/img/typ-pechotni-srub.svg',
   'delostrelecka-tvrz': '/img/typ-delostrelecka-tvrz.svg',
@@ -42,12 +43,146 @@ const typeNames: Record<string, string> = {
   'pancerovy-zvon': 'pancéřový zvon',
 };
 const typeName = typeNames[d.type] || d.type;
+
+const odolnostLabels: Record<string, string> = {
+  'I': 'I. stupeň (60 cm / 3,5 kg TNT)',
+  'II': 'II. stupeň (80 cm / 10 kg TNT)',
+  'III': 'III. stupeň (120 cm / 50 kg TNT)',
+  'IV': 'IV. stupeň (175–350 cm / 100+ kg TNT)',
+  'neurceno': 'neurčeno',
+};
+const stupenDokonceniLabels: Record<string, string> = {
+  'dokonceny': 'Dokončený',
+  'dokonceny-bez-vyzbroje': 'Dokončený bez výzbroje',
+  'hruba-stavba': 'Hrubá stavba',
+  'rozestaveny': 'Rozestavěný',
+  'plan-nedokonceny': 'Plánovaný / nedokončený',
+};
+const pristupnostLabels: Record<string, string> = {
+  'auto-az-k-objektu': 'Autem až k objektu',
+  'auto-kratka-chuze': 'Auto + krátká chůze',
+  'pesky-turisticka': 'Pěšky (turistická trasa)',
+  'pesky-narocna': 'Pěšky (náročná trasa)',
+  'kolo': 'Cyklotrasa',
+  'uzavreno': 'Uzavřeno pro veřejnost',
+};
+const vhodnostRodinyLabels: Record<string, string> = {
+  'idealni': 'Ideální pro rodiny s dětmi',
+  'doporuceno': 'Doporučeno pro rodiny',
+  'starsi-deti': 'Pro starší děti (10+)',
+  'jen-dospeli': 'Pouze pro dospělé',
+};
+const pamatkaLabels: Record<string, string> = {
+  'nkp': 'Národní kulturní památka',
+  'kulturni-pamatka': 'Kulturní památka',
+  'pamatkova-zona': 'Památková zóna',
+  'zadna': 'Bez památkové ochrany',
+  'neznamy': 'Neznámý status',
+};
+
+// ---------- Featured foto / hero ----------
+const featuredPhoto = d.photos?.find((p: any) => p.featured) || d.photos?.[0];
+const heroImageUrl = featuredPhoto?.url || d.floorplan?.url;
+
+// ---------- Galerie — seskupit podle kategorie ----------
+const photosByCategory: Record<string, any[]> = {};
+if (d.photos) {
+  for (const p of d.photos) {
+    const cat = p.category || 'ostatni';
+    if (!photosByCategory[cat]) photosByCategory[cat] = [];
+    photosByCategory[cat].push(p);
+  }
+}
+const categoryLabels: Record<string, string> = {
+  'exterier': 'Exteriér',
+  'interier': 'Interiér',
+  'detail': 'Detail',
+  'dobova': 'Dobové fotografie',
+  'pudorys': 'Půdorysy a nákresy',
+  'terenni': 'Terénní průzkum',
+  'ostatni': 'Ostatní',
+};
+
+// ---------- Sources — string | object ----------
+function formatSource(s: any): string {
+  if (typeof s === 'string') return s;
+  const parts: string[] = [];
+  if (s.author) parts.push(s.author);
+  parts.push(s.title);
+  if (s.year) parts.push(String(s.year));
+  return parts.join('. ');
+}
+
+// ---------- Cena 1938 → 2026 ----------
+// Koeficient: orientační přepočet inflace + cenové hladiny stavebnictví (1938 × 250)
+const KOEFICIENT_CENY = 250;
+function formatKc(n: number): string {
+  return new Intl.NumberFormat('cs-CZ').format(n) + ' Kč';
+}
+
+// ---------- Kvíz metriky ----------
+const kvizMetrics = [];
+if (d.tech?.odolnost && d.tech.odolnost !== 'neurceno') {
+  kvizMetrics.push({ label: 'Odolnost', value: d.tech.odolnost });
+}
+if (d.tech?.posadka?.maxi || d.tech?.posadka?.mini) {
+  const p = d.tech.posadka;
+  const val = p.mini && p.maxi ? `${p.mini}–${p.maxi}` : (p.maxi || p.mini);
+  kvizMetrics.push({ label: 'Posádka', value: String(val), suffix: 'mužů' });
+}
+if (d.stavba?.dokonceni) {
+  kvizMetrics.push({ label: 'Dokončeno', value: d.stavba.dokonceni });
+} else if (d.built) {
+  kvizMetrics.push({ label: 'Postaveno', value: d.built });
+}
+if (d.tech?.steny?.tloustka_cm) {
+  kvizMetrics.push({ label: 'Stěny', value: `${d.tech.steny.tloustka_cm}`, suffix: 'cm' });
+} else if (d.location.elevation) {
+  kvizMetrics.push({ label: 'Nadm. výška', value: `${d.location.elevation}`, suffix: 'm n.m.' });
+}
+
+// ---------- Schema.org JSON-LD ----------
+const schemaOrg: any = {
+  '@context': 'https://schema.org',
+  '@type': d.state === 'muzeum' ? ['TouristAttraction', 'Museum'] : ['TouristAttraction', 'LandmarksOrHistoricalBuildings'],
+  'name': d.title,
+  'alternateName': d.code,
+  'description': d.description,
+  'url': `https://ropiky.cz/katalog/${slug}`,
+  'geo': {
+    '@type': 'GeoCoordinates',
+    'latitude': d.location.lat,
+    'longitude': d.location.lon,
+  },
+};
+if (featuredPhoto) schemaOrg.image = featuredPhoto.url;
+if (d.location.address) schemaOrg.address = d.location.address;
+if (d.navsteva?.vstupne?.zakladni_kc || d.navsteva?.vstupne?.zdarma) {
+  schemaOrg.offers = {
+    '@type': 'Offer',
+    'price': d.navsteva.vstupne.zdarma ? '0' : String(d.navsteva.vstupne.zakladni_kc),
+    'priceCurrency': 'CZK',
+  };
+  schemaOrg.isAccessibleForFree = !!d.navsteva.vstupne.zdarma;
+}
+
+// ---------- Související ----------
+const hasRelated = d.related && (
+  (d.related.clanky && d.related.clanky.length > 0) ||
+  (d.related.pevnosti && d.related.pevnosti.length > 0) ||
+  (d.related.typologie && d.related.typologie.length > 0)
+);
+
+// ---------- Aside visible? ----------
+const hasAsideContent = d.navsteva || hasRelated || true; // citace vždy
 ---
 
 <BaseLayout
   title={`${d.title} (${d.code})`}
   description={d.description}
 >
+  <script type="application/ld+json" set:html={JSON.stringify(schemaOrg)} />
+
   <header class="article-hero">
     <div class="container">
       <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
@@ -56,13 +191,16 @@ const typeName = typeNames[d.type] || d.type;
       <div class="article-hero__meta">
         <span class="label mono" style="color: var(--rust);">{d.code}</span>
         <span class="label" style="color: var(--ink-light);">{d.line} · {d.region}</span>
+        {d.state && (
+          <span class="label" style="color: var(--ink-light);">· {stateLabels[d.state] ?? d.state}</span>
+        )}
       </div>
       <h1>{d.title}</h1>
       <p class="article-hero__lead">{d.description}</p>
     </div>
   </header>
 
-  {(!d.photos || d.photos.length === 0) ? (
+  {(!heroImageUrl) ? (
     <div class="fort-placeholder">
       <div class="container">
         <figure style="margin: 0; max-width: 720px; margin-inline: auto;">
@@ -78,12 +216,13 @@ const typeName = typeNames[d.type] || d.type;
     <div class="fort-hero-photo">
       <div class="container">
         <figure style="margin: 0; max-width: 960px; margin-inline: auto;">
-          <img src={d.photos[0].url} alt={d.photos[0].alt} loading="eager"
+          <img src={heroImageUrl} alt={featuredPhoto?.alt || d.title} loading="eager" fetchpriority="high"
                style="width: 100%; height: auto; border: 1px solid var(--line); aspect-ratio: 16/10; object-fit: cover;" />
           <figcaption style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s2); font-style: italic; text-align: center;">
-            {d.photos[0].author && `© ${d.photos[0].author}`}
-            {d.photos[0].license && d.photos[0].source && (
-              <>{' · '}<a href={d.photos[0].source} rel="noopener" target="_blank">{d.photos[0].license}</a></>
+            {featuredPhoto?.caption && <span>{featuredPhoto.caption} · </span>}
+            {featuredPhoto?.author && `© ${featuredPhoto.author}`}
+            {featuredPhoto?.license && featuredPhoto?.source && (
+              <>{' · '}<a href={featuredPhoto.source} rel="noopener" target="_blank">{featuredPhoto.license}</a></>
             )}
           </figcaption>
         </figure>
@@ -91,71 +230,510 @@ const typeName = typeNames[d.type] || d.type;
     </div>
   )}
 
-  <div class="article-body">
-    <div class="container content-width">
-      <div class="fact-box">
-        <div class="fact-box__label">Technický list</div>
-        <dl>
-          <dt>Typ:</dt><dd><a href={`/typologie/${d.type}`}>{d.type}</a></dd>
-          <dt>Úsek / linie:</dt><dd>{d.line}</dd>
-          <dt>Kraj:</dt><dd>{d.region}</dd>
-          {d.built && (<><dt>Postaveno:</dt><dd>{d.built}</dd></>)}
-          <dt>Stav:</dt><dd>{stateLabels[d.state] ?? d.state}</dd>
-          <dt>Souřadnice:</dt>
-          <dd class="mono">
-            <a href={`https://www.openstreetmap.org/?mlat=${d.location.lat}&mlon=${d.location.lon}&zoom=16`} rel="noopener" target="_blank">
-              {d.location.lat.toFixed(5)}, {d.location.lon.toFixed(5)}
-            </a>
-          </dd>
-          {d.location.address && (<><dt>Adresa:</dt><dd>{d.location.address}</dd></>)}
-        </dl>
+  {kvizMetrics.length >= 2 && (
+    <div class="fort-kviz" style="background: var(--paper-dark); border-block: 1px solid var(--line); padding: var(--s4) 0;">
+      <div class="container">
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: var(--s3); text-align: center;">
+          {kvizMetrics.map((m) => (
+            <div>
+              <div class="mono" style="font-size: 1.75rem; color: var(--rust); font-weight: 700; line-height: 1;">{m.value}</div>
+              {m.suffix && <div style="font-size: 0.75rem; color: var(--ink-light); margin-top: 2px;">{m.suffix}</div>}
+              <div class="label" style="font-size: 0.75rem; margin-top: var(--s1);">{m.label}</div>
+            </div>
+          ))}
+        </div>
       </div>
+    </div>
+  )}
 
-      {d.history && (
-        <section>
-          <h2>Historie</h2>
-          <p set:html={d.history.replace(/\n\n/g, '</p><p>')} />
-        </section>
-      )}
+  <div class="article-body">
+    <div class="container">
+      <div class="fort-detail-grid" style="display: grid; grid-template-columns: minmax(0, 2fr) minmax(260px, 1fr); gap: var(--s6); align-items: start;">
+        <main style="min-width: 0;">
 
-      {d.visit && (
-        <section>
-          <h2>Pro návštěvníky</h2>
-          <p set:html={d.visit.replace(/\n\n/g, '</p><p>')} />
-        </section>
-      )}
+          {/* ZÁKLADNÍ KARTA */}
+          <div class="fact-box">
+            <div class="fact-box__label">Technický list</div>
+            <dl>
+              <dt>Typ:</dt><dd><a href={`/typologie/${d.type}`}>{typeName}</a></dd>
+              {d.tech?.typObjektu && (<><dt>Konkrétní typ:</dt><dd>{d.tech.typObjektu}</dd></>)}
+              <dt>Úsek / linie:</dt><dd>{d.line}</dd>
+              <dt>Kraj:</dt><dd>{d.region}</dd>
+              {d.built && (<><dt>Postaveno:</dt><dd>{d.built}</dd></>)}
+              <dt>Stav:</dt><dd>{stateLabels[d.state] ?? d.state}</dd>
+              {d.castTvrze && (<><dt>Součást tvrze:</dt><dd>{d.castTvrze}</dd></>)}
+              <dt>Souřadnice:</dt>
+              <dd class="mono">
+                <a href={`https://www.openstreetmap.org/?mlat=${d.location.lat}&mlon=${d.location.lon}&zoom=16`} rel="noopener" target="_blank">
+                  {d.location.lat.toFixed(5)}, {d.location.lon.toFixed(5)}
+                </a>
+              </dd>
+              {d.location.elevation && (<><dt>Nadm. výška:</dt><dd>{d.location.elevation} m n.m.</dd></>)}
+              {d.location.address && (<><dt>Adresa:</dt><dd>{d.location.address}</dd></>)}
+            </dl>
+          </div>
 
-      {d.photos && d.photos.length > 0 && (
-        <section>
-          <h2>Fotografie</h2>
-          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--s3);">
-            {d.photos.map((p) => (
+          {/* HISTORIE (prose + milníky) */}
+          {(d.history || (d.historieMilniky && d.historieMilniky.length > 0)) && (
+            <section id="historie">
+              <h2>Historie</h2>
+              {d.history && (
+                <div set:html={`<p>${d.history.replace(/\n\n/g, '</p><p>')}</p>`} />
+              )}
+              {d.historieMilniky && d.historieMilniky.length > 0 && (
+                <div class="milniky" style="margin-top: var(--s4); border-left: 3px solid var(--rust); padding-left: var(--s4);">
+                  <h3 style="margin-top: 0;">Klíčové milníky</h3>
+                  <ul style="list-style: none; padding: 0; margin: 0;">
+                    {d.historieMilniky.map((m: any) => (
+                      <li style="padding: var(--s2) 0; border-bottom: 1px dashed var(--line);">
+                        <strong class="mono" style="color: var(--rust); display: inline-block; min-width: 110px;">{m.datum}</strong>
+                        <span>{m.udalost}</span>
+                        {m.zdroj && <span style="color: var(--ink-light); font-size: 0.8125rem;"> — {m.zdroj}</span>}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </section>
+          )}
+
+          {/* TECHNICKÁ KARTA */}
+          {d.tech && (
+            <section id="technika">
+              <h2>Technická karta</h2>
+              <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: var(--s3); margin-block: var(--s4);">
+                {d.tech.odolnost && d.tech.odolnost !== 'neurceno' && (
+                  <div style="background: var(--paper-dark); padding: var(--s3); border: 1px solid var(--line);">
+                    <div class="label">Odolnost</div>
+                    <div class="mono" style="font-size: 1.25rem; color: var(--rust); font-weight: 700;">{d.tech.odolnost}. stupeň</div>
+                    <div style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s1);">{odolnostLabels[d.tech.odolnost]?.split('(')[1]?.replace(')', '') || ''}</div>
+                  </div>
+                )}
+                {d.tech.stupenDokonceni && (
+                  <div style="background: var(--paper-dark); padding: var(--s3); border: 1px solid var(--line);">
+                    <div class="label">Stupeň dokončení</div>
+                    <div style="font-weight: 600;">{stupenDokonceniLabels[d.tech.stupenDokonceni]}</div>
+                  </div>
+                )}
+                {d.tech.orientace && (
+                  <div style="background: var(--paper-dark); padding: var(--s3); border: 1px solid var(--line);">
+                    <div class="label">Orientace</div>
+                    <div>{d.tech.orientace}</div>
+                  </div>
+                )}
+                {d.tech.posadka && (d.tech.posadka.mini || d.tech.posadka.maxi) && (
+                  <div style="background: var(--paper-dark); padding: var(--s3); border: 1px solid var(--line);">
+                    <div class="label">Posádka</div>
+                    <div class="mono" style="font-size: 1.25rem;">
+                      {d.tech.posadka.mini && d.tech.posadka.maxi
+                        ? `${d.tech.posadka.mini}–${d.tech.posadka.maxi}`
+                        : (d.tech.posadka.maxi || d.tech.posadka.mini)} mužů
+                    </div>
+                    {d.tech.posadka.poznamka && <div style="font-size: 0.8125rem; color: var(--ink-light);">{d.tech.posadka.poznamka}</div>}
+                  </div>
+                )}
+                {d.tech.steny && (d.tech.steny.tloustka_cm || d.tech.steny.material) && (
+                  <div style="background: var(--paper-dark); padding: var(--s3); border: 1px solid var(--line);">
+                    <div class="label">Stěny</div>
+                    {d.tech.steny.tloustka_cm && <div class="mono" style="font-size: 1.25rem;">{d.tech.steny.tloustka_cm} cm</div>}
+                    {d.tech.steny.material && <div style="font-size: 0.8125rem; color: var(--ink-light);">{d.tech.steny.material}</div>}
+                  </div>
+                )}
+              </div>
+
+              {d.tech.vyzbroj && d.tech.vyzbroj.length > 0 && (
+                <div style="margin-top: var(--s4);">
+                  <h3>Výzbroj</h3>
+                  <ul style="list-style: none; padding: 0; margin: 0;">
+                    {d.tech.vyzbroj.map((v: any) => (
+                      <li style="padding: var(--s2) 0; border-bottom: 1px dashed var(--line); display: flex; justify-content: space-between; gap: var(--s3);">
+                        <span><strong>{v.pocet}×</strong> {v.zbran}</span>
+                        {v.umisteni && <span style="color: var(--ink-light); font-size: 0.8125rem;">{v.umisteni}</span>}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
+              {d.tech.komponenty && d.tech.komponenty.length > 0 && (
+                <div style="margin-top: var(--s4);">
+                  <h3>Komponenty</h3>
+                  <div style="display: flex; flex-wrap: wrap; gap: var(--s2);">
+                    {d.tech.komponenty.map((k: string) => (
+                      <a href={`/typologie/${k}`} style="display: inline-block; padding: var(--s1) var(--s3); background: var(--paper-dark); border: 1px solid var(--line); text-decoration: none; font-size: 0.875rem;">{k}</a>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </section>
+          )}
+
+          {/* STAVBA */}
+          {d.stavba && (
+            <section id="stavba">
+              <h2>Stavba</h2>
+              <dl class="fact-list" style="display: grid; grid-template-columns: max-content 1fr; gap: var(--s2) var(--s4);">
+                {d.stavba.projektant && (<><dt style="font-weight: 600;">Projektant:</dt><dd>{d.stavba.projektant}</dd></>)}
+                {d.stavba.stavebniFirma && (<><dt style="font-weight: 600;">Stavební firma:</dt><dd>{d.stavba.stavebniFirma}</dd></>)}
+                {d.stavba.zahajeni && (<><dt style="font-weight: 600;">Zahájení:</dt><dd>{d.stavba.zahajeni}</dd></>)}
+                {d.stavba.dokonceni && (<><dt style="font-weight: 600;">Dokončení:</dt><dd>{d.stavba.dokonceni}</dd></>)}
+                {d.stavba.betonaz_m3 && (<><dt style="font-weight: 600;">Betonáž:</dt><dd>{d.stavba.betonaz_m3.toLocaleString('cs-CZ')} m³</dd></>)}
+                {d.stavba.delnikuPocet && (<><dt style="font-weight: 600;">Počet dělníků:</dt><dd>{d.stavba.delnikuPocet}</dd></>)}
+                {d.stavba.cena_kc_1938 && (
+                  <>
+                    <dt style="font-weight: 600;">Cena (1938):</dt>
+                    <dd>
+                      {formatKc(d.stavba.cena_kc_1938)}
+                      <span style="color: var(--ink-light);">
+                        {' '}(cca {formatKc(d.stavba.cena_kc_dnes_priblizne || d.stavba.cena_kc_1938 * KOEFICIENT_CENY)} dnes)
+                      </span>
+                    </dd>
+                  </>
+                )}
+                {d.stavba.poznamka && (<><dt style="font-weight: 600;">Poznámka:</dt><dd>{d.stavba.poznamka}</dd></>)}
+              </dl>
+            </section>
+          )}
+
+          {/* PŮDORYS */}
+          {d.floorplan && (
+            <section id="pudorys">
+              <h2>Půdorys</h2>
               <figure style="margin: 0;">
-                <img src={p.url} alt={p.alt} loading="lazy" style="border: 1px solid var(--line);" />
-                <figcaption style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s1); font-style: italic;">
-                  {p.alt}
-                  {p.author && ` — ${p.author}`}
-                  {p.license && (
+                <img src={d.floorplan.url} alt={d.floorplan.alt} loading="lazy"
+                     style="width: 100%; height: auto; background: var(--paper-dark); border: 1px solid var(--line);" />
+                {d.floorplan.zdroj && (
+                  <figcaption style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s2); font-style: italic;">
+                    Zdroj: {d.floorplan.zdroj}
+                  </figcaption>
+                )}
+              </figure>
+            </section>
+          )}
+
+          {/* GALERIE */}
+          {d.photos && d.photos.length > 0 && (
+            <section id="galerie">
+              <h2>Galerie</h2>
+              {Object.entries(photosByCategory).map(([cat, photos]) => (
+                <div style="margin-bottom: var(--s5);">
+                  {Object.keys(photosByCategory).length > 1 && (
+                    <h3 style="margin-top: var(--s4);">{categoryLabels[cat] || cat}</h3>
+                  )}
+                  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--s3);">
+                    {photos.map((p: any) => (
+                      <figure style="margin: 0;">
+                        <a href={p.url} target="_blank" rel="noopener">
+                          <img src={p.url} alt={p.alt} loading="lazy" style="border: 1px solid var(--line); width: 100%; height: auto;" />
+                        </a>
+                        <figcaption style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s1); font-style: italic;">
+                          {p.caption || p.alt}
+                          {p.author && ` — ${p.author}`}
+                          {p.license && (
+                            <>
+                              {' · '}
+                              {p.source ? <a href={p.source} rel="noopener" target="_blank">{p.license}</a> : p.license}
+                            </>
+                          )}
+                        </figcaption>
+                      </figure>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </section>
+          )}
+
+          {/* VIDEO */}
+          {d.video && d.video.length > 0 && (
+            <section id="video">
+              <h2>Video</h2>
+              <div style="display: grid; gap: var(--s4);">
+                {d.video.map((v: any) => (
+                  <figure style="margin: 0;">
+                    <div style="position: relative; padding-bottom: 56.25%; height: 0; border: 1px solid var(--line);">
+                      {v.platform === 'youtube' ? (
+                        <iframe
+                          src={`https://www.youtube-nocookie.com/embed/${v.id}`}
+                          title={v.title}
+                          loading="lazy"
+                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                          allowfullscreen
+                          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+                        />
+                      ) : (
+                        <iframe
+                          src={`https://player.vimeo.com/video/${v.id}`}
+                          title={v.title}
+                          loading="lazy"
+                          allow="autoplay; fullscreen; picture-in-picture"
+                          allowfullscreen
+                          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+                        />
+                      )}
+                    </div>
+                    <figcaption style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s1); font-style: italic; text-align: center;">
+                      {v.title}
+                    </figcaption>
+                  </figure>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* PAMÁTKOVÁ OCHRANA */}
+          {d.pamatka && d.pamatka.status && d.pamatka.status !== 'zadna' && d.pamatka.status !== 'neznamy' && (
+            <section id="pamatka">
+              <h2>Památková ochrana</h2>
+              <div style="background: var(--paper-dark); padding: var(--s3); border-left: 3px solid var(--rust);">
+                <strong>{pamatkaLabels[d.pamatka.status]}</strong>
+                {d.pamatka.cisloUspka && <span class="mono" style="color: var(--ink-light); margin-left: var(--s2);">({d.pamatka.cisloUspka})</span>}
+                {d.pamatka.poznamka && <div style="margin-top: var(--s2); font-size: 0.9375rem;">{d.pamatka.poznamka}</div>}
+              </div>
+            </section>
+          )}
+
+          {/* PRO NÁVŠTĚVNÍKY (legacy visit text — pokud existuje) */}
+          {d.visit && (
+            <section id="navsteva-text">
+              <h2>Pro návštěvníky</h2>
+              <div set:html={`<p>${d.visit.replace(/\n\n/g, '</p><p>')}</p>`} />
+            </section>
+          )}
+
+          {/* UPOZORNĚNÍ */}
+          {d.navsteva?.upozorneni && d.navsteva.upozorneni.length > 0 && (
+            <section id="upozorneni">
+              <h2>Upozornění</h2>
+              <ul style="background: #fff8e6; border-left: 3px solid #c89810; padding: var(--s3) var(--s4); list-style: disc; margin-left: 0;">
+                {d.navsteva.upozorneni.map((u: string) => (
+                  <li>{u}</li>
+                ))}
+              </ul>
+            </section>
+          )}
+
+          {/* ZDROJE */}
+          {d.sources && d.sources.length > 0 && (
+            <section id="zdroje" style="margin-top: var(--s6); padding-top: var(--s4); border-top: 2px solid var(--ink);">
+              <h2 style="margin-top:0; padding-top:0; border-top:none;">Zdroje a citace</h2>
+              <ol style="padding-left: var(--s4);">
+                {d.sources.map((s: any) => (
+                  <li style="margin-bottom: var(--s2);">
+                    {typeof s === 'string' ? (
+                      <span>{s}</span>
+                    ) : (
+                      <span>
+                        {s.author && <><span>{s.author}</span>. </>}
+                        <em>{s.title}</em>
+                        {s.year && <>, {s.year}</>}
+                        {s.url && <> — <a href={s.url} rel="noopener" target="_blank">{s.url}</a></>}
+                      </span>
+                    )}
+                  </li>
+                ))}
+              </ol>
+            </section>
+          )}
+
+          {/* JAK POMOCI */}
+          <section style="margin-top: var(--s6); padding: var(--s4); background: var(--paper-dark); border: 1px solid var(--line);">
+            <h3 style="margin-top: 0;">Pomozte zlepšit tento záznam</h3>
+            <p style="margin-bottom: var(--s3);">Máte vlastní fotografie, aktuální informace o stavu nebo opravu k tomuto objektu? Rádi je doplníme.</p>
+            <a href={`/kontakt?subject=${encodeURIComponent(d.code + ' — doplnění')}`} style="display: inline-block; padding: var(--s2) var(--s3); background: var(--ink); color: var(--paper); text-decoration: none;">Napsat nám</a>
+          </section>
+
+        </main>
+
+        {/* ASIDE */}
+        <aside class="fort-aside" style="position: sticky; top: var(--s4); display: flex; flex-direction: column; gap: var(--s4);">
+
+          {/* KARTA NÁVŠTĚVY */}
+          {d.navsteva && (
+            <div style="background: var(--paper-dark); border: 1px solid var(--line); padding: var(--s3);">
+              <div class="label" style="margin-bottom: var(--s2);">Návštěva</div>
+
+              {d.navsteva.pristupnost && (
+                <div style="margin-bottom: var(--s2); font-size: 0.9375rem;">
+                  <strong>Přístupnost:</strong> {pristupnostLabels[d.navsteva.pristupnost]}
+                </div>
+              )}
+
+              {d.navsteva.vhodnostRodiny && (
+                <div style="margin-bottom: var(--s2); font-size: 0.9375rem;">
+                  <strong>Rodiny:</strong> {vhodnostRodinyLabels[d.navsteva.vhodnostRodiny]}
+                </div>
+              )}
+
+              {d.navsteva.otevreno && (
+                <div style="margin-bottom: var(--s2); font-size: 0.9375rem;">
+                  <strong>Otevřeno:</strong>
+                  {d.navsteva.otevreno.obdobi && <> {d.navsteva.otevreno.obdobi}</>}
+                  {d.navsteva.otevreno.dny && <>, {d.navsteva.otevreno.dny}</>}
+                  {d.navsteva.otevreno.hodiny && <>, {d.navsteva.otevreno.hodiny}</>}
+                  {d.navsteva.otevreno.poznamka && <div style="color: var(--ink-light); font-size: 0.8125rem;">{d.navsteva.otevreno.poznamka}</div>}
+                </div>
+              )}
+
+              {d.navsteva.vstupne && (d.navsteva.vstupne.zdarma || d.navsteva.vstupne.zakladni_kc) && (
+                <div style="margin-bottom: var(--s2); font-size: 0.9375rem;">
+                  <strong>Vstupné:</strong>
+                  {d.navsteva.vstupne.zdarma ? ' Zdarma' : (
                     <>
-                      {' · '}
-                      {p.source ? <a href={p.source}>{p.license}</a> : p.license}
+                      {' '}{d.navsteva.vstupne.zakladni_kc} Kč
+                      {d.navsteva.vstupne.snizene_kc && ` / ${d.navsteva.vstupne.snizene_kc} Kč sníž.`}
+                      {d.navsteva.vstupne.rodinne_kc && ` / ${d.navsteva.vstupne.rodinne_kc} Kč rod.`}
                     </>
                   )}
-                </figcaption>
-              </figure>
-            ))}
-          </div>
-        </section>
-      )}
+                  {d.navsteva.vstupne.poznamka && <div style="color: var(--ink-light); font-size: 0.8125rem;">{d.navsteva.vstupne.poznamka}</div>}
+                </div>
+              )}
 
-      {d.sources && d.sources.length > 0 && (
-        <section style="margin-top: var(--s6); padding-top: var(--s4); border-top: 2px solid var(--ink);">
-          <h2 style="margin-top:0; padding-top:0; border-top:none;">Zdroje</h2>
-          <ul>
-            {d.sources.map((s) => <li>{s}</li>)}
-          </ul>
-        </section>
-      )}
+              {d.navsteva.doporucenaDoba_minut && (
+                <div style="margin-bottom: var(--s2); font-size: 0.9375rem;">
+                  <strong>Doporučená doba:</strong> {d.navsteva.doporucenaDoba_minut} min
+                </div>
+              )}
+
+              {d.navsteva.teplotaUvnitr_C != null && (
+                <div style="margin-bottom: var(--s2); font-size: 0.9375rem;">
+                  <strong>Teplota uvnitř:</strong> {d.navsteva.teplotaUvnitr_C} °C
+                  {d.navsteva.teplotaUvnitr_C < 15 && <div style="color: var(--rust); font-size: 0.8125rem;">Vezměte si bundu.</div>}
+                </div>
+              )}
+
+              {d.navsteva.parkovani && (
+                <div style="margin-bottom: var(--s2); font-size: 0.9375rem;">
+                  <strong>Parkování:</strong> {d.navsteva.parkovani}
+                </div>
+              )}
+
+              {d.navsteva.mhd && (
+                <div style="margin-bottom: var(--s2); font-size: 0.9375rem;">
+                  <strong>MHD:</strong> {d.navsteva.mhd}
+                </div>
+              )}
+
+              {d.navsteva.rezervace && d.navsteva.rezervace.nutna && (
+                <div style="margin-top: var(--s3); padding-top: var(--s3); border-top: 1px solid var(--line);">
+                  <strong style="color: var(--rust);">Rezervace je nutná.</strong>
+                  {d.navsteva.rezervace.url && (
+                    <a href={d.navsteva.rezervace.url} target="_blank" rel="noopener"
+                       style="display: block; margin-top: var(--s2); padding: var(--s2); background: var(--ink); color: var(--paper); text-align: center; text-decoration: none; font-size: 0.875rem;">
+                      Rezervovat →
+                    </a>
+                  )}
+                  {d.navsteva.rezervace.telefon && (
+                    <div style="margin-top: var(--s1); font-size: 0.8125rem;">Tel.: <a href={`tel:${d.navsteva.rezervace.telefon.replace(/\s/g, '')}`}>{d.navsteva.rezervace.telefon}</a></div>
+                  )}
+                </div>
+              )}
+            </div>
+          )}
+
+          {/* MALÁ MAPA */}
+          <div style="background: var(--paper-dark); border: 1px solid var(--line); padding: var(--s3);">
+            <div class="label" style="margin-bottom: var(--s2);">Poloha</div>
+            <div class="mono" style="font-size: 0.875rem;">
+              {d.location.lat.toFixed(5)}, {d.location.lon.toFixed(5)}
+            </div>
+            {d.location.elevation && (
+              <div style="font-size: 0.875rem; color: var(--ink-light); margin-top: var(--s1);">
+                {d.location.elevation} m n.m.
+              </div>
+            )}
+            <div style="display: flex; flex-direction: column; gap: var(--s1); margin-top: var(--s3);">
+              <a href={`/mapa?fort=${slug}`} style="padding: var(--s2); background: var(--ink); color: var(--paper); text-align: center; text-decoration: none; font-size: 0.875rem;">
+                Otevřít v mapě →
+              </a>
+              <a href={`https://mapy.cz/turisticka?x=${d.location.lon}&y=${d.location.lat}&z=15&source=coor&id=${d.location.lon}%2C${d.location.lat}`}
+                 target="_blank" rel="noopener"
+                 style="padding: var(--s2); background: var(--paper); border: 1px solid var(--line); text-align: center; text-decoration: none; font-size: 0.875rem;">
+                Mapy.cz
+              </a>
+              <a href={`https://www.openstreetmap.org/?mlat=${d.location.lat}&mlon=${d.location.lon}&zoom=16`}
+                 target="_blank" rel="noopener"
+                 style="padding: var(--s2); background: var(--paper); border: 1px solid var(--line); text-align: center; text-decoration: none; font-size: 0.875rem;">
+                OpenStreetMap
+              </a>
+            </div>
+          </div>
+
+          {/* SPRAVUJÍCÍ SUBJEKT */}
+          {d.spravujicSubjekt && d.spravujicSubjekt.nazev && (
+            <div style="background: var(--paper-dark); border: 1px solid var(--line); padding: var(--s3);">
+              <div class="label" style="margin-bottom: var(--s2);">Správce</div>
+              <div style="font-weight: 600;">{d.spravujicSubjekt.nazev}</div>
+              {d.spravujicSubjekt.web && (
+                <div style="margin-top: var(--s1);"><a href={d.spravujicSubjekt.web} target="_blank" rel="noopener" style="font-size: 0.875rem;">Web</a></div>
+              )}
+              {d.spravujicSubjekt.email && (
+                <div style="margin-top: var(--s1); font-size: 0.875rem;"><a href={`mailto:${d.spravujicSubjekt.email}`}>{d.spravujicSubjekt.email}</a></div>
+              )}
+              {d.spravujicSubjekt.telefon && (
+                <div style="margin-top: var(--s1); font-size: 0.875rem;"><a href={`tel:${d.spravujicSubjekt.telefon.replace(/\s/g, '')}`}>{d.spravujicSubjekt.telefon}</a></div>
+              )}
+            </div>
+          )}
+
+          {/* SOUVISEJÍCÍ */}
+          {hasRelated && (
+            <div style="background: var(--paper-dark); border: 1px solid var(--line); padding: var(--s3);">
+              <div class="label" style="margin-bottom: var(--s2);">Související</div>
+              {d.related?.clanky && d.related.clanky.length > 0 && (
+                <div style="margin-bottom: var(--s2);">
+                  <div style="font-size: 0.8125rem; color: var(--ink-light); margin-bottom: var(--s1);">Články</div>
+                  <ul style="list-style: none; padding: 0; margin: 0;">
+                    {d.related.clanky.map((c: string) => (
+                      <li style="font-size: 0.875rem; margin-bottom: 2px;"><a href={`/aktuality/${c}`}>{c}</a></li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              {d.related?.pevnosti && d.related.pevnosti.length > 0 && (
+                <div style="margin-bottom: var(--s2);">
+                  <div style="font-size: 0.8125rem; color: var(--ink-light); margin-bottom: var(--s1);">Pevnosti</div>
+                  <ul style="list-style: none; padding: 0; margin: 0;">
+                    {d.related.pevnosti.map((p: string) => (
+                      <li style="font-size: 0.875rem; margin-bottom: 2px;"><a href={`/katalog/${p}`}>{p}</a></li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+              {d.related?.typologie && d.related.typologie.length > 0 && (
+                <div>
+                  <div style="font-size: 0.8125rem; color: var(--ink-light); margin-bottom: var(--s1);">Typologie</div>
+                  <ul style="list-style: none; padding: 0; margin: 0;">
+                    {d.related.typologie.map((t: string) => (
+                      <li style="font-size: 0.875rem; margin-bottom: 2px;"><a href={`/typologie/${t}`}>{t}</a></li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+            </div>
+          )}
+
+          {/* CITOVAT */}
+          <div style="background: var(--paper-dark); border: 1px solid var(--line); padding: var(--s3);">
+            <div class="label" style="margin-bottom: var(--s2);">Citovat</div>
+            <div style="font-size: 0.8125rem; font-family: 'Times New Roman', serif; font-style: italic; line-height: 1.5;">
+              <em>{d.title}</em> ({d.code}). ropiky.cz [online]. Dostupné z: https://ropiky.cz/katalog/{slug}
+            </div>
+          </div>
+
+        </aside>
+      </div>
     </div>
   </div>
+
+  <style>
+    @media (max-width: 900px) {
+      .fort-detail-grid {
+        grid-template-columns: 1fr !important;
+      }
+      .fort-aside {
+        position: static !important;
+      }
+    }
+  </style>
 </BaseLayout>
