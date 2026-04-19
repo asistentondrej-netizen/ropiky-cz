@@ -19,6 +19,7 @@ sources:
   - "ropiky.net"
   - "fortifikace.cz"
   - "Vojenský historický ústav"
+  - "Denkschrift über die tschecho-slowakische Landesbefestigung (OKH, Berlín 1941) — BArch RH 11-III/1028, public domain"
 ---
 
 **Pěchotní srub** je základní typ **těžkého opevnění (TO)** — páteř československého pevnostního systému. Jde o mohutný železobetonový objekt určený pro **dlouhodobou obranu klíčového úseku** s posádkou 20–40 mužů, vybavený filtroventilací, vlastní energetikou a standardizovanou fortifikační výzbrojí.
@@ -106,6 +107,14 @@ Pěchotní sruby nejsou jednotným typem — byla vyvinuta celá **rodina varian
 - **Tvrzové** (součást dělostřelecké tvrze, propojené podzemím)
 - **Dělostřelecké** (nesoucí dělostřeleckou výzbroj tvrze, viz [tvrz](/typologie/delostrelecka-tvrz))
 - **Vchodové** (vchod do tvrze, s rampou pro vozidla)
+
+### Dobový půdorys a řez z Denkschriftu (1941)
+
+Autentické půdorysy níže pocházejí z německé vojenské studie **Denkschrift über die tschecho-slowakische Landesbefestigung** (OKH, Berlín 1941; public domain). Ukazují **dvoupatrový oboustranný pěchotní srub** na příkladu konkrétního objektu OP-S 10 „Na křižovatce" (opavský úsek) — typ B s protitankovým kanónem spřaženým s těžkým kulometem L1, dvojčetem těžkých kulometů a dvěma pancéřovými zvony ve stropnici.
+
+![Půdorys dvoupatrového oboustranného pěchotního srubu OP-S 10 „Na křižovatce" — dobové schéma z Denkschriftu](/img/typologie/denkschrift/pechotni-srub-oboustr.jpg)
+
+![Řez stejným srubem OP-S 10 — patra, schodiště, strojovna, filtroventilace. Denkschrift 1941.](/img/typologie/denkschrift/pechotni-srub-dvoupatr.jpg)
 
 ## Izolované vs. tvrzové nasazení
 

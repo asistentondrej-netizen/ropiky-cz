@@ -11,13 +11,14 @@ armament:
   - "Protitankové kanóny vz. 36 (4 cm)"
   - "Těžké kulomety vz. 37"
 order: 40
-updated: 2026-04-18
+updated: 2026-04-19
 sources:
   - "Wikipedia — Dělostřelecká tvrz"
   - "muzeum-kraliky.cz"
   - "hanicka.cz"
   - "ropiky.net"
   - "Aron L. a kol.: Československé opevnění 1935–1938 (FORTprint)"
+  - "Denkschrift über die tschecho-slowakische Landesbefestigung (OKH, Berlín 1941) — BArch RH 11-III/1028, public domain"
 ---
 
 **Dělostřelecká tvrz** (TO — těžké opevnění, tvrzové) byla **vrcholem československé fortifikace** a ambiciózním pokusem vytvořit v klíčových horských sedlech ekvivalent k největším pevnostem francouzské Maginotovy linie. Šlo o **skupinu pevnostních objektů vzájemně propojených podzemním systémem chodeb, sálů a štol** v hloubce desítek metrů pod povrchem.
@@ -102,6 +103,46 @@ Podzemní systém typické tvrze měl **500–2 000 m chodeb** propojujících p
 - **Hůrka** — asi 600 m chodeb, 4 objekty
 - **Adam** — asi 500 m chodeb, 5 objektů
 - **Stachelberg** — asi 800 m chodeb (z plánovaných 3 000 m)
+
+## Dobová schémata z Denkschriftu (1941)
+
+Následující půdorysy a řezy pocházejí z německé vojenské studie **Denkschrift über die tschecho-slowakische Landesbefestigung** (OKH, Reichsdruckerei, Berlín, 1. listopadu 1941; archivní signatura **Bundesarchiv BArch RH 11-III/1028**). Dokument je anonymní úřední dílo Wehrmachtu, **v režimu public domain** (§ 5 UrhG v Německu + uplynutí 70 let ochrany v EU). Ukazují ideální koncepci čs. dělostřelecké tvrze tak, jak ji po obsazení Sudet zdokumentovali němečtí specialisté na základě kořistních plánů a průzkumu v terénu.
+
+### Typový plán dělostřelecké tvrze
+
+![Typový plán dělostřelecké tvrze — schematické rozmístění povrchových objektů a podzemních chodeb (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-plan.jpg)
+
+Schematický pohled na ideální dělostřeleckou tvrz: pěchotní sruby po obvodu, dělostřelecké objekty s otočnými věžemi v centru, vchodový objekt se skladovacím zázemím a vše propojené podzemním systémem chodeb.
+
+### Smolkov — celkový plán a vchodový objekt
+
+![Celkový plán dělostřelecké tvrze Smolkov — rozmístění objektů A–E a podzemních sekcí 1–8 (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-smolkov-celkovy-plan.jpg)
+
+Smolkov jako reálný příklad: objekty **A, B** (pěchotní sruby), **C** (otočná dělostřelecká věž), **D** (dělostřelecký srub), **E** (vchodový objekt MO-Sm-S 41). Úseky podzemí označené čísly odpovídají strojovně, kasárnám, muničním skladům a komunikačním chodbám.
+
+![Vchodový objekt tvrze Smolkov — MO-Sm-S 41 „Nad Valchou", detailní půdorys (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-vchodovy-objekt-smolkov.jpg)
+
+Vchodový objekt byl **logistickým srdcem tvrze** — sem vjížděly nákladní vozy se zásobami, odsud vedla šachta do podzemí. Půdorys ukazuje vjezd, skladovací prostory, pancéřové ochranné dveře a napojení na podzemní chodby.
+
+### Hůrka — dělostřelecký srub a objekt s otočnou věží
+
+![Dělostřelecký srub tvrze Hůrka — K-Bg-S 11 „Na svahu", půdorys (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-delostrelecky-srub-hurka.jpg)
+
+Dělostřelecký srub K-Bg-S 11 na Hůrce je jedním z mála realizovaných tvrzových dělostřeleckých objektů. Půdorys ukazuje rozmístění 10cm houfnic, muničních komor a pozorovacích stanovišť.
+
+![Objekt K-Bg-S 12 s výsuvnou dělostřeleckou věží — tvrz Hůrka, půdorys a řez (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-otocna-vez-hurka.jpg)
+
+Klíčový technický prvek tvrze: **výsuvná otočná věž** s houfnicemi vz. 38 (10 cm). Řez ukazuje hydraulický výsuvný mechanismus, pancéřovou kopuli a napojení na muniční sklad pod věží.
+
+### Tvrzový pěchotní srub a muniční sklad
+
+![Tvrzový pěchotní srub K-Bg-S 13 „U lomu" s napojením na podzemí — řez (tvrz Hůrka, Denkschrift 1941)](/img/typologie/denkschrift/tvrz-pechotni-srub-k-bg-s-13.jpg)
+
+Srub K-Bg-S 13 ukazuje specifický rys tvrzových pěchotních srubů: na rozdíl od samostatných srubů je **zavěšen na podzemní systém** výtahovou šachtou s vlastním napojením na kasárna a muniční sklady.
+
+![Muniční sklad M2 s výtahovou šachtou — detailní nákres (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-municni-sklad-m2.jpg)
+
+Detail typového muničního skladu: zásoby pro **týdny nepřetržitého boje** (cca 2–3 miliony nábojů různých ráží), výtahová šachta pro zásobování z vchodového objektu a přímé napojení na dělostřelecké sruby.
 
 ## Plánovaná a realizovaná výzbroj
 

@@ -1,0 +1,74 @@
+{
+  "source": {
+    "title": "Denkschrift über die tschecho-slowakische Landesbefestigung",
+    "publisher": "Oberkommando des Heeres (OKH), Reichsdruckerei",
+    "place": "Berlin",
+    "date": "1. November 1941",
+    "archivalReference": "Bundesarchiv BArch RH 11-III/1028",
+    "copyright": "Public domain — anonymní úřední dílo, > 70 let od zveřejnění (EU), § 5 UrhG v Německu (amtliches Werk).",
+    "downloadedFrom": "https://opevneni.eu/csop/typo.html (amatérský hosting scanů; práva na Denkschrift dokument neexistují — PD)",
+    "downloadedAt": "2026-04-19"
+  },
+  "files": [
+    {
+      "file": "lo37-typ-a.jpg",
+      "typology": "lo-vz-37",
+      "caption": "Typologie objektů lehkého opevnění vz. 37 — typ A (přímá palba, standardní svah)"
+    },
+    {
+      "file": "lo37-typ-b.jpg",
+      "typology": "lo-vz-37",
+      "caption": "Lehké opevnění vz. 37 — typ B (lomený objekt pro prudké svahy, s řezem)"
+    },
+    {
+      "file": "lo37-typ-c-d.jpg",
+      "typology": "lo-vz-37",
+      "caption": "Lehké opevnění vz. 37 — typy C a D (srovnání půdorysů)"
+    },
+    {
+      "file": "pechotni-srub-oboustr.jpg",
+      "typology": "pechotni-srub",
+      "caption": "Dvoupatrový oboustranný pěchotní srub — OP-S 10 „Na křižovatce" (půdorys se zbraněmi a zvony)"
+    },
+    {
+      "file": "pechotni-srub-dvoupatr.jpg",
+      "typology": "pechotni-srub",
+      "caption": "Dvoupatrový oboustranný pěchotní srub — řez s patry a schodištěm (OP-S 10)"
+    },
+    {
+      "file": "tvrz-smolkov-celkovy-plan.jpg",
+      "typology": "delostrelecka-tvrz",
+      "caption": "Celkový plán dělostřelecké tvrze Smolkov — A, B pěchotní sruby, C otočná věž, D dělostřelecký srub, E vchodový objekt, 1–8 podzemí"
+    },
+    {
+      "file": "tvrz-vchodovy-objekt-smolkov.jpg",
+      "typology": "delostrelecka-tvrz",
+      "caption": "Vchodový objekt tvrze Smolkov — MO-Sm-S 41 „Nad Valchou" (půdorys)"
+    },
+    {
+      "file": "tvrz-delostrelecky-srub-hurka.jpg",
+      "typology": "delostrelecka-tvrz",
+      "caption": "Dělostřelecký srub tvrze Hůrka — K-Bg-S 11 „Na svahu" (půdorys)"
+    },
+    {
+      "file": "tvrz-otocna-vez-hurka.jpg",
+      "typology": "delostrelecka-tvrz",
+      "caption": "Objekt pro dělostřeleckou otočnou věž tvrze Hůrka — K-Bg-S 12 „Na kótě" (půdorys a řez)"
+    },
+    {
+      "file": "tvrz-pechotni-srub-k-bg-s-13.jpg",
+      "typology": "delostrelecka-tvrz",
+      "caption": "Tvrzový pěchotní srub K-Bg-S 13 „U lomu" s napojením na podzemí (řez, tvrz Hůrka)"
+    },
+    {
+      "file": "tvrz-municni-sklad-m2.jpg",
+      "typology": "delostrelecka-tvrz",
+      "caption": "Detailní nákres muničního skladu M2 s napojením na výtahovou šachtu"
+    },
+    {
+      "file": "tvrz-plan.jpg",
+      "typology": "delostrelecka-tvrz",
+      "caption": "Typový plán dělostřelecké tvrze (schematický půdorys povrchových objektů a podzemí)"
+    }
+  ]
+}

@@ -10,13 +10,14 @@ armament:
   - "Lehký kulomet vz. 26 (ZB vz. 26, 7,92 mm)"
   - "Puška vz. 24, pistole vz. 24"
 order: 20
-updated: 2026-04-18
 sources:
   - "Wikipedia — Lehké opevnění vzor 37"
   - "ropiky.net"
   - "fortifikace.cz"
   - "Vojenský historický ústav"
   - "Lakosil J., Svoboda T.: Lehké opevnění 1936–1938 (FORTprint, 2011)"
+  - "Denkschrift über die tschecho-slowakische Landesbefestigung (OKH, Berlín 1941) — BArch RH 11-III/1028, public domain"
+updated: 2026-04-19
 ---
 
 **Lehké opevnění vzor 37** (dobově *„lehké opevnění nového typu"*, lidově **řopík**) je železobetonová pevnůstka, která se stala **nejrozšířenějším a nejrozpoznatelnějším pevnostním objektem** československého obranného systému. Lidové označení „řopík" vzniklo již v druhé polovině třicátých let podle zkratky **ŘOP (Ředitelství opevňovacích prací)**. Tento typ objektu byl přímým nástupcem staršího a méně úspěšného [lehkého opevnění vzoru 36](/typologie/lo-vz-36).
@@ -67,6 +68,16 @@ Speciální varianta pro **boční ochranu důležitých objektů**, zejména ok
 **Nejvzácnější varianta**, určená pro specifické terénní situace — například pro malé dominantní kóty, kde bylo potřeba velmi krátké zamaskování. Představuje přibližně **2,9 %** realizovaných objektů. Posádka **2 muže**, jediný lehký kulomet.
 
 ![Vzácný typ E — nejmenší varianta řopíku pro 2 muže](/img/typologie/lo-vz-37-typ-e.jpg)
+
+## Dobová schémata z Denkschriftu (1941)
+
+Následující půdorysy pocházejí z německé vojenské studie **Denkschrift über die tschecho-slowakische Landesbefestigung** (OKH, Berlín 1941), kterou Wehrmacht sepsal po okupaci ČSR jako analýzu čs. pevnostního systému. Dokument je dnes v public domain a představuje nejpřesnější dobové technické zaměření řopíků dostupné odkudkoli — Němci měli přístup k původní stavební dokumentaci i demontovaným objektům.
+
+![LO vz. 37 typ A — dobový půdorys z Denkschriftu (1941). Základní oboustranná varianta pro boční palbu.](/img/typologie/denkschrift/lo37-typ-a.jpg)
+
+![LO vz. 37 typ B — lomený objekt pro prudké svahy, včetně řezu. Dobové schéma z Denkschriftu.](/img/typologie/denkschrift/lo37-typ-b.jpg)
+
+![LO vz. 37 typy C a D — dobové půdorysy z Denkschriftu. Typ C (čelná palba, nejjednodušší), typ D (boční ochrana tvrzí).](/img/typologie/denkschrift/lo37-typ-c-d.jpg)
 
 ## Stupně odolnosti
 
