@@ -127,12 +127,9 @@ const stateLabels: Record<string, string> = {
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
     crossorigin="" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin="" is:inline></script>
-  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" is:inline></script>
 
   <style>
     .map-filters {
@@ -439,29 +436,7 @@ const stateLabels: Record<string, string> = {
       }
 
       const allMarkers = points.map(createMarker);
-
-      // Marker cluster pro lepší výkon s hustě osazenými oblastmi (Králicko, Ostravsko)
-      const useCluster = typeof L.markerClusterGroup === 'function';
-      const layerGroup = useCluster
-        ? L.markerClusterGroup({
-            maxClusterRadius: 45,
-            disableClusteringAtZoom: 13,
-            spiderfyOnMaxZoom: true,
-            showCoverageOnHover: false,
-            chunkedLoading: true,
-            iconCreateFunction: (cluster) => {
-              const count = cluster.getChildCount();
-              const size = count > 100 ? 48 : (count > 30 ? 40 : 32);
-              return L.divIcon({
-                html: `<div class="cluster-marker"><span>${count}</span></div>`,
-                className: '',
-                iconSize: [size, size],
-              });
-            },
-          })
-        : L.layerGroup();
-      allMarkers.forEach((m) => layerGroup.addLayer(m));
-      layerGroup.addTo(map);
+      const layerGroup = L.layerGroup(allMarkers).addTo(map);
 
       // Auto-fit
       const bounds = points.map((p) => [p.lat, p.lon]);
