@@ -1,260 +1,243 @@
 ---
-title: "Tip na výlet: Valticko — řopíky pod UNESCO zámky"
+title: "Tip na výlet: Valticko — 2 cyklovýlety z Prosecco Residence Marko"
 pubDate: 2026-04-18
 updatedDate: 2026-04-19
 author: "redakce ropiky.cz"
-description: "Jednodenní i víkendový výlet na Valticko — kombinace lehkého opevnění jižní Moravy s UNESCO Lednicko-valtickým areálem. Konkrétní trasa, GPS body podle OpenStreetMap, tipy na víno a ubytování."
+description: "Dva ověřené cyklovýlety z penzionu Prosecco Residence Marko ve Valticích — 20 km řopíkový okruh přes Rajstnu a 34 km UNESCO okruh do Lednice. Reálné GPS trasy, mapky, fotky, GPX ke stažení."
 tags: ["výlety", "valticko", "lednicko-valtický areál", "cyklo", "jižní morava", "unesco"]
 cover: "/img/clanky/valticko-hero.jpg"
 ---
 
-**Valticko je nejzvláštnější fortifikační region ČR** — kde jinde stojí betonový řopík 100 metrů od hráze barokního rybníka nebo v samotě lichtenštejnského panství? Linie lehkého opevnění na jižní Moravě se stavěla v letech 1937–1938 proti tehdejšímu Rakousku a dodnes nabízí nejlepší poměr **opevnění : kultura : vinařství** v ČR. Tento článek je kompletní průvodce jednodenním i víkendovým výletem s reálnými GPS podle OpenStreetMap.
+**Valticko je jediný fortifikační region v ČR, kde řopíky stojí přímo v UNESCO parku.** Tenhle článek není přehledový text — je to **konkrétní průvodce dvěma cyklovýlety** s reálnou startovací adresou, ověřenou GPS polylinií z OpenStreetMap a fotkami každého zastavení. Oba výlety vyjíždějí od **Prosecco Residence Marko, Úvaly 9, 691 42 Valtice** — ubytovacího zařízení v klidné části Valtic-Úvaly, 4 km západně od centra.
 
-## Proč právě Valticko
+## Startovní bod
 
-Klasická jihomoravská fortifikační destinace — jenže s **třemi unikátními vlastnostmi** navíc:
+**Prosecco Residence Marko**
+Úvaly 9, 691 42 Valtice (část Úvaly u Valtic)
+GPS: **48.7451°N, 16.6994°E** · [Ukázat na mapě](https://www.openstreetmap.org/?mlat=48.7451&mlon=16.6994&zoom=16)
 
-1. **UNESCO kontext** — Lednicko-valtický areál (od 1996) — barokní a novogotický park Liechtensteinů. Řopíky stojí v jeho krajině jako nečekaná vrstva.
-2. **Cyklostezky prvotřídní kvality** — Moravská vinařská stezka, Lichtenštejnské stezky, cyklotrasy v Boří lese.
-3. **Vinařská infrastruktura** — největší koncentrace vinařů a sklepů v ČR. Po výletu si lze dát degustaci bez komplikací.
+Úvaly leží na západní straně Valticka těsně u rakouské hranice, na hraně Lednicko-valtického areálu. Z penzionu je to rovných 5 km k Prostřednímu rybníku, 4 km k valtickému zámku a 10 km k Lednici. **Ideální základna**: vyjedete z tichého prostředí, během 15 minut jste u první památky a na konci dne se vracíte mimo hlavní turistický ruch.
 
-Tahle kombinace je **unikátní v Evropě** — nikde jinde nenajdete linii lehkého opevnění procházející přímo UNESCO parkem.
+## Co uvidíte — 7 ověřených objektů v dosahu obou tras
 
-## Kde jsou řopíky doopravdy
+Všechny GPS jsou ověřené v OpenStreetMap (tag `military=bunker`, stav duben 2026):
 
-Dříve, než vyjedete: **linie lehkého opevnění neprobíhala přímo středem Lednicko-valtického areálu.** Drtivá většina objektů (LO vz. 37) leží v **Boří lese mezi Valticemi a Břeclaví** a podél linie **Hlohovec — Charvátská Nová Ves — Poštorná — Lanžhot (NPR Soutok)**. Ve Valticích samotných je jen několik okrajových objektů. Kolonáda Rajstna a zámek Lednice vlastní řopík **nemají** — nejbližší objekty jsou od nich 1,5–2,5 km vzdálené.
-
-Tento článek zmiňuje **9 reálně existujících řopíků** ověřených v OpenStreetMap databázi.
-
-## Co uvidíte — 9 ověřených řopíků
-
-Následující objekty jsou reálně dohledatelné v katalogu ropiky.cz (GPS podle OSM):
-
-| Objekt | Lokalita | GPS | Stav |
+| Objekt | Lokalita | GPS | Trasa |
 |---|---|---|---|
-| [5/137/1](/katalog/lo-vz-37-valtice-sever) | Valtice — severní okraj | 48.75901°N, 16.76676°E | přístupný |
-| [5/143/1](/katalog/lo-vz-37-valtice-boriles-jih) | Boří les jižně od Valtic | 48.72852°N, 16.77366°E | přístupný |
-| [6/68/A-160 S](/katalog/lo-vz-37-valtice-pod-dvorem) | Valtice — ulice Pod dvorem | 48.73136°N, 16.79940°E | přístupný |
-| [6/54/A-180](/katalog/lo-vz-37-hlohovec) | u Hlohoveckého rybníka | 48.78309°N, 16.77869°E | přístupný |
-| [8/13/A-160 S](/katalog/lo-vz-37-bori-dvur) | samota Boří dvůr (Boří les) | 48.72195°N, 16.82206°E | přístupný, s fotkou |
-| [8/22/A-140](/katalog/lo-vz-37-bori-les-stred) | střed Boří lesa | 48.75232°N, 16.83632°E | přístupný |
-| [5/151/1](/katalog/lo-vz-37-charvatska-nova-ves) | Charvátská NV — Ladenská c. | 48.78347°N, 16.84179°E | přístupný |
-| [8/5/A-140](/katalog/lo-vz-37-poestorna) | Poštorná, Břeclav | 48.73570°N, 16.87207°E | přístupný |
-| [8/b17/A-180](/katalog/lo-vz-37-lanzhot-soutok) | NPR Soutok Dyje—Moravy | 48.66317°N, 16.93284°E | přístupný |
+| [5/137/1](/katalog/lo-vz-37-valtice-sever) | severní okraj Valtic | 48.75901°N, 16.76676°E | — |
+| [5/143/1](/katalog/lo-vz-37-valtice-boriles-jih) | Boří les jih (pod Rajstnou) | 48.72852°N, 16.77366°E | 1 + 2 |
+| [6/68/A-160 S](/katalog/lo-vz-37-valtice-pod-dvorem) | Valtice — Pod dvorem | 48.73136°N, 16.79940°E | 1 |
+| [6/54/A-180](/katalog/lo-vz-37-hlohovec) | u Hlohoveckého rybníka | 48.78309°N, 16.77869°E | 2 |
+| [8/13/A-160 S](/katalog/lo-vz-37-bori-dvur) | samota Boří dvůr | 48.72195°N, 16.82206°E | (odbočka) |
+| [8/22/A-140](/katalog/lo-vz-37-bori-les-stred) | střed Boří lesa | 48.75232°N, 16.83632°E | (odbočka) |
+| [5/151/1](/katalog/lo-vz-37-charvatska-nova-ves) | Charvátská Nová Ves | 48.78347°N, 16.84179°E | (odbočka) |
 
-V samotném úseku stálo původně přes 200 řopíků — dochovaných je cca 150, zakreslených v OSM kolem 60. Výše jsou vybrány reprezentanti ze všech podúseků linie.
+---
 
-## Doporučená trasa
+## Cyklovýlet 1 — Řopíkový okruh (20 km, 1,5 h čistého jízdu)
 
-### Varianta A: Jednodenní auto-výlet (8 hodin)
-
-Ideální kombinace **zámek + řopík + vinný sklep**.
-
-**9:00 — Valtice, parkování u zámku**
-
-Prohlídka zámku Valtice (rezidence knížat Lichtenštejnů, hlavní sídlo rodu do roku 1945).
-→ [www.zamek-valtice.cz](https://www.zamek-valtice.cz)
-
-**10:30 — Pěšky na Kolonádu Rajstnu a zpět přes Boří les (8 km, 2 h)**
-
-Klasicistní kolonáda z roku 1817 s výhledem na Pálavu. Z Kolonády severovýchodním směrem narazíte po 1,6 km na řopík **5/143/1** — **klíčový bod článku** — první setkání s LO vz. 37 v autentickém lesním prostředí.
-
-**12:30 — Oběd ve Valticích**
-
-Restaurace v centru Valtic (ověřte aktuální otevření a ceny přímo u provozovny).
-
-**14:00 — Boří les, samota Boří dvůr, řopík 8/13/A-160 S (autem 15 min)**
-
-Z Valtic po Genžově cestě k samotě Boří dvůr (lichtenštejnské hospodářství). U samoty **8/13/A-160 S** — nejlépe zachovalý a nejnavštěvovanější řopík Boří lesa, udržován spolkem KVH Valtice. Dokumentovaný i fotografií na Wikimedia Commons.
-
-**15:30 — Hlohovec a řopík u rybníka (autem 15 min)**
-
-Po jižní cestě kolem Hlohoveckého rybníka dojedete k řopíku **6/54/A-180** — nejtěžší standardní typ LO vz. 37. Výhled přes rybník na Apollonův chrám.
-
-**16:30 — Lednice, zámek a park (autem 10 min)**
-
-Prohlídka zámku Lednice (UNESCO hlavní bod), procházka parkem k **Minaretu** (vyhlídková věž 1802).
-→ [www.zamek-lednice.com](https://www.zamek-lednice.com)
-
-**18:30 — Valtice, vinný sklep**
-
-**Národní salon vín ČR** v křížové chodbě valtického zámku — degustace 100 vzorků.
-→ [www.salonvin.cz](https://www.salonvin.cz)
-
-**20:00 — Návrat do Brna / Prahy** nebo přenocování v penzionu.
-
-### Varianta B: Víkendový cyklo-výlet (2 dny, ~60 km)
-
-Základna: **penzion v Lednici** nebo **hotel v Mikulově**. Celkem cca 60 km, převážně rovinatý terén, většina po asfaltu a zpevněných lesních cestách (Moravská vinařská stezka + lichtenštejnské parkové cesty). Náročnost lehká, zvládne i rekreační cyklista. Navigace: stáhněte si GPX do mobilu (odkazy níže) nebo použijte Mapy.cz / Google Maps cyklo-režim.
-
-#### Den 1 — Valticko a Boří les (~30 km)
-
-Okružní trasa z Valtic přes Kolonádu Rajstnu, jižní část Boří lesa, samotu Boří dvůr, střed Boří lesa a zpět přes Apollonův chrám a Hlohovec. Pět řopíků, dvě klasicistní stavby, jeden rybník a 30 km v nohách.
+**Pro koho:** rekreační cyklisté, rodiny s dětmi od 10 let, první návštěva Valticka.
+**Terén:** převážně asfalt a zpevněné cesty, minimální převýšení (~100 m). Jedno stoupání k Rajstně.
+**Highlights:** 3 řopíky, Rajstna, zámek Valtice, návrat přes vinice.
 
 <figure style="margin: var(--s4) 0;">
-  <img src="/img/clanky/valticko/den1-mapa.jpg" alt="Mapa Dne 1 — okružní cyklo-trasa z Valtic přes Boří les a Hlohovec" loading="lazy">
-  <figcaption style="text-align:center; font-size: 0.9em; color: var(--ink-light); margin-top: var(--s1);">Den 1 — okruh z Valtic (~30 km). Modře start/cíl, červeně řopíky, zeleně kulturní body. Podklad: © OpenStreetMap contributors.</figcaption>
+  <img src="/img/clanky/valticko/varianta1-mapa.jpg" alt="Cyklovýlet 1 — 20 km okruh z Úval přes Valtice a Boří les" loading="lazy">
+  <figcaption style="text-align:center; font-size: 0.9em; color: var(--ink-light); margin-top: var(--s1);">Trasa Varianty 1 — 19,7 km. Zelený puntík = start/cíl (Úvaly 9), oranžové body = zastavení. Polyline vygenerovaná přes OSRM (bike router). Podklad: © OpenStreetMap contributors.</figcaption>
 </figure>
 
-**Navigace Den 1:** [GPX stažení](/img/clanky/valticko/den1-trasa.gpx) · [Otevřít v Google Maps (cyklo)](https://www.google.com/maps/dir/48.7410,16.7539/48.73136,16.79940/48.72195,16.82206/48.75232,16.83632/48.78269,16.77680/48.78309,16.77869/48.72540,16.75570/48.72852,16.77366/48.75901,16.76676/48.7410,16.7539/data=!4m2!4m1!3e1) · [Otevřít v Mapy.cz](https://mapy.cz/turisticka?x=16.80&y=48.75&z=12)
+**Navigace:** [GPX ke stažení](/img/clanky/valticko/varianta1-trasa.gpx) · [Mapy.cz cyklo](https://mapy.cz/turisticka?planovani-trasy&x=16.75&y=48.74&z=13&rc=9t0ASxYJV8-xGV9a7xGY_AxGV7o4xGV8FTxGV7bdxGV9eP&rpp=1&rpc=1&ri=1&rs=coor&rs=coor&rs=coor&rs=coor&rs=coor&rs=coor&rsc=16.6994%2C48.7451&rsc=16.7556%2C48.7407&rsc=16.7650%2C48.7370&rsc=16.77366%2C48.72852&rsc=16.79940%2C48.73136&rsc=16.6994%2C48.7451) · [Google Maps cyklo](https://www.google.com/maps/dir/48.7451,16.6994/48.7407,16.7556/48.7370,16.7650/48.72852,16.77366/48.73136,16.79940/48.7451,16.6994/data=!4m2!4m1!3e1)
 
-**Itinerář:**
+### Itinerář — Varianta 1
 
-1. **Valtice zámek** (start 9:00) — rezidence Lichtenštejnů, parkování zdarma u zámku
-2. **→ Řopík 6/68/A-160 S Pod dvorem** (1 km) — první řopík na periferii města
-3. **→ Samota Boří dvůr a řopík 8/13/A-160 S** (5 km přes Genžovu cestu) — nejzachovalejší LO vz. 37 v oblasti, dokumentovaný na Wikimedia Commons
-4. **→ Střed Boří lesa — řopík 8/22/A-140** (3 km lesními cestami) — autentická samota, bez turistů
-5. **→ Apollonův chrám** (6 km k severu) — klasicistní chrám u Prostředního rybníka, oběd v restauraci U Apollona
-6. **→ Hlohovec — řopík 6/54/A-180** (300 m) — nejtěžší standardní typ LO vz. 37 přímo nad rybníkem
-7. **→ Kolonáda Rajstna** (10 km zpět k jihu přes les) — klasicistní kolonáda 1817, výhled na Pálavu
-8. **→ Řopík 5/143/1 Boří les jih** (1,6 km od kolonády) — **klíčový bod** — první setkání většiny návštěvníků s LO vz. 37 v lese
-9. **→ Valtice sever — řopík 5/137/1** (3 km) — poslední kontrolní bod na severní hraně města
-10. **→ Valtice zámek** (1 km, cíl cca 17:30) — večer degustace v Národním salonu vín
+**0 km — Prosecco Residence Marko (start)**
+Vyjedete z Úval směrem na Valtice po silnici 41417 (vinařská cesta). Klidná silnice s občasným provozem, nelehká 3 km do Valtic.
+
+**4 km — Zámek Valtice**
+Hlavní rezidence knížat Liechtensteinů do roku 1945. Prohlídka 60 min (pokud máte čas — stojí to za to), nebo jen zastávka na pohled z nádvoří. Zdarma parkování u zámku.
+→ [www.zamek-valtice.cz](https://www.zamek-valtice.cz)
+
+**5 km — Kolonáda Rajstna (Reistna)**
+1 km stoupání od zámku Belvederskou cestou. Klasicistní kolonáda z roku 1817 na vrchu nad Valticemi s výhledem na Pálavu a Rakousko. Obvykle bez turistického davu mimo hlavní sezónu.
+
+**6,5 km — Řopík 5/143/1 (Boří les jih)**
+1,5 km od Rajstny lesními cestami k jihu do Boří lesa. Typ LO vz. 37 v autentickém lesním prostředí, dobře zachovalý. **Klíčový bod** — mnoho návštěvníků vidí svůj první řopík právě zde.
+
+**13 km — Řopík 6/68/A-160 S (Pod dvorem)**
+Přes polní cesty směrem k Valticím, po ulici Pod dvorem. Nejtěžší standardní typ LO vz. 37 s bočním postřelováním. Objekt na okraji města, snadno přístupný.
+
+**15 km — Valtice centrum / Národní salon vín (volitelná zastávka)**
+Degustace v křížové chodbě zámku — 100 vzorků top českých a moravských vín pod jednou střechou. Pokud jedete s dětmi, přeskočte.
+→ [www.salonvin.cz](https://www.salonvin.cz)
+
+**19,7 km — návrat Úvaly 9**
+Přes vinice po vinařské stezce zpět do penzionu. **Tip:** vedro stíhá Valtice dřív než Úvaly — poslední 3 km jsou ve stínu a příjemně klesají.
+
+### Co si vzít na Variantu 1
+
+- Zámek + Rajstna **otevřeny** duben–listopad (mimo sezónu jen exteriér)
+- Voda 1 l / osoba (v Boří lese bez studny), svačina
+- Řopíky jsou **bez vstupu dovnitř** — zvenčí si prohlédnete betonovou mohutnost, konstrukční detaily jako postřelování a průzorník
+- Repelent — Boří les v létě komáři
+
+---
+
+## Cyklovýlet 2 — UNESCO okruh přes Lednici (34 km, 2,5 h)
+
+**Pro koho:** trénovaní rekreační cyklisté, dospělí a teenageři, kdo chce **kompletní zážitek** Lednicko-valtického areálu + řopíky.
+**Terén:** převážně asfalt a vinařské stezky, 1–2 úseky po zpevněném povrchu. Přev. ~150 m.
+**Highlights:** **UNESCO zámek Lednice, Minaret, Apollonův chrám, 3 řopíky, Rajstna, zámek Valtice.** Všechno, co Valticko nabízí, v jednom dni.
+
+<figure style="margin: var(--s4) 0;">
+  <img src="/img/clanky/valticko/varianta2-mapa.jpg" alt="Cyklovýlet 2 — 34 km UNESCO okruh z Úval přes Lednici, Hlohovec, Valtice" loading="lazy">
+  <figcaption style="text-align:center; font-size: 0.9em; color: var(--ink-light); margin-top: var(--s1);">Trasa Varianty 2 — 33,9 km. Severní větev přes Apollon, Hlohovec, Lednici a Minaret, jižní zpět přes Rajstnu, Boří les a Valtice. Polyline: OSRM cycling. Podklad: © OpenStreetMap contributors.</figcaption>
+</figure>
+
+**Navigace:** [GPX ke stažení](/img/clanky/valticko/varianta2-trasa.gpx) · [Mapy.cz cyklo](https://mapy.cz/turisticka?x=16.80&y=48.78&z=12) · [Google Maps cyklo](https://www.google.com/maps/dir/48.7451,16.6994/48.7830,16.7650/48.78309,16.77869/48.8016,16.8033/48.8142,16.7984/48.7370,16.7650/48.72852,16.77366/48.7407,16.7556/48.7451,16.6994/data=!4m2!4m1!3e1)
+
+### Itinerář — Varianta 2
+
+**0 km — Prosecco Residence Marko (start)**
+Vyjedete na sever kolem Prostředního rybníka. Cesta po okraji UNESCO areálu.
+
+**6 km — Apollonův chrám**
+Klasicistní salet u Prostředního rybníka (1817). Architekt Kornhäusel, výhled přes rybník na Pálavu. Krátká zastávka — 10 min na fotku a vyndání svačiny.
+
+**7 km — Řopík 6/54/A-180 (Hlohovec)**
+300 m od chrámu. **Nejtěžší standardní typ LO vz. 37** — pancéřová vrata, oboustranné postřelování, zasazený do hráze Hlohoveckého rybníka. Nejfotogeničtější řopík oblasti.
+
+**11 km — Zámek Lednice**
+UNESCO **hlavní bod** (od 1996). Novogotická přestavba 1846–58, jedna z nejlepších ukázek romantismu ve střední Evropě. Prohlídka Reprezentativních sálů 60 min, pokud máte čas — jinak procházka parkem zdarma.
+→ [www.zamek-lednice.com](https://www.zamek-lednice.com)
+
+**13 km — Minaret**
+2 km průjezd parkem k minaretu z roku 1802 — 60 m vysoká věž, **nejvyšší romantická stavba mimo Orient**. Vyhlídka zdarma, 300 schodů, ale krátké stoupání. V parku ještě **Janův hrad** a Nový dvůr (odbočka +6 km, doporučeno jen trénovaným).
+
+**20 km — Kolonáda Rajstna (zpět k jihu)**
+Návrat přes lesní cesty a vinice. Rajstna tentokrát jako klasická "návratová" zastávka — sesednete a pokocháte se výhledem.
+
+**22 km — Řopík 5/143/1 (Boří les jih)**
+1,5 km od Rajstny. Typ LO vz. 37 v Boří lese.
+
+**26 km — Zámek Valtice**
+Krátká zastávka u druhého liechtensteinského zámku. Pokud není hluboký večer, stihne se **Národní salon vín**.
+
+**34 km — návrat Úvaly 9**
+Přes vinice zpět. Plánujte si finiš na ~17:30 — sluníčko, vinice, stín z Rajstny a zasloužená degustace doma.
+
+### Volitelné odbočky pro Variantu 2
+
+Když máte ještě v nohách:
+
+- **Samota Boří dvůr + řopík 8/13/A-160 S** (+6 km zpáteční z trasy) — nejzachovalejší a nejnavštěvovanější řopík Boří lesa, udržovaný spolkem KVH Valtice. Dokumentovaný i na Wikimedia Commons.
+- **Charvátská Nová Ves, řopík 5/151/1** (+4 km z Lednice) — u Ladenské cesty, pokud jedete spíš k východu.
+- **NPR Soutok Dyje–Moravy** — ne stejný den, jen víkendový plán. Z Břeclavi 13 km lužním lesem k trojmezí.
+
+---
+
+## Fotogalerie míst
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--s3); margin: var(--s4) 0;">
   <figure style="margin: 0;">
     <img src="/img/clanky/valticko/zamek-valtice.jpg" alt="Zámek Valtice" loading="lazy">
-    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Zámek Valtice</strong> — hlavní sídlo knížat Lichtenštejnů. Foto: VitVit / Wikimedia (CC BY-SA 4.0)</figcaption>
+    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Zámek Valtice</strong> — hlavní sídlo Liechtensteinů do 1945. V obou trasách. Foto: VitVit / Wikimedia (CC BY-SA 4.0)</figcaption>
   </figure>
   <figure style="margin: 0;">
     <img src="/img/clanky/valticko/kolonada-rajstna.jpg" alt="Kolonáda Rajstna (Reistna)" loading="lazy">
-    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Kolonáda Rajstna</strong> (1817) — výhled na Pálavu. Foto: Pudelek / Wikimedia (CC BY-SA 3.0)</figcaption>
+    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Kolonáda Rajstna</strong> (1817) — vyhlídka na Pálavu. V obou trasách. Foto: Pudelek / Wikimedia (CC BY-SA 3.0)</figcaption>
   </figure>
   <figure style="margin: 0;">
     <img src="/img/clanky/valticko/apollonuv-chram.jpg" alt="Apollonův chrám u Hlohoveckého rybníka" loading="lazy">
-    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Apollonův chrám</strong> — klasicistní salet u Prostředního rybníka. Foto: Pudelek / Wikimedia (CC BY-SA 4.0)</figcaption>
+    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Apollonův chrám</strong> — klasicistní salet u Prostředního rybníka. Trasa 2. Foto: Pudelek / Wikimedia (CC BY-SA 4.0)</figcaption>
   </figure>
   <figure style="margin: 0;">
     <img src="/img/clanky/valticko/hlohovecky-rybnik.jpg" alt="Hlohovecký rybník" loading="lazy">
-    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Hlohovecký rybník</strong> — u něj řopík 6/54/A-180. Foto: Scotch Mist / Wikimedia (CC BY-SA 4.0)</figcaption>
+    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Hlohovecký rybník</strong> — u něj řopík 6/54/A-180. Trasa 2. Foto: Scotch Mist / Wikimedia (CC BY-SA 4.0)</figcaption>
   </figure>
-  <figure style="margin: 0;">
-    <img src="/img/clanky/valticko/bori-les.jpg" alt="Boří les" loading="lazy">
-    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Boří les</strong> — lichtenštejnský lovecký revír, dnes přírodní park s řopíky. Foto: RomanM82 / Wikimedia (CC BY-SA 4.0)</figcaption>
-  </figure>
-</div>
-
-#### Den 2 — Lednicko-břeclavský výběh (~30 km)
-
-Přesun do Lednice, prohlídka UNESCO areálu, dále lemem parku na jih přes Charvátskou Novou Ves a Poštornou do Břeclavi a odtud ještě 13 km k soutoku Dyje–Moravy (NPR Soutok). Kombinace UNESCO, tří řopíků a lužního lesa.
-
-<figure style="margin: var(--s4) 0;">
-  <img src="/img/clanky/valticko/den2-mapa.jpg" alt="Mapa Dne 2 — cyklo-trasa Lednice → Břeclav → NPR Soutok" loading="lazy">
-  <figcaption style="text-align:center; font-size: 0.9em; color: var(--ink-light); margin-top: var(--s1);">Den 2 — Lednice → Břeclav → NPR Soutok (~30 km). Podklad: © OpenStreetMap contributors.</figcaption>
-</figure>
-
-**Navigace Den 2:** [GPX stažení](/img/clanky/valticko/den2-trasa.gpx) · [Otevřít v Google Maps (cyklo)](https://www.google.com/maps/dir/48.80200,16.80530/48.81420,16.79840/48.78347,16.84179/48.73570,16.87207/48.75420,16.88160/48.66317,16.93284/48.75420,16.88160/data=!4m2!4m1!3e1) · [Otevřít v Mapy.cz](https://mapy.cz/turisticka?x=16.86&y=48.75&z=11)
-
-**Itinerář:**
-
-1. **Lednice zámek** (start 9:00) — UNESCO hlavní bod, prohlídka novogotického zámku (90 min)
-2. **→ Minaret** (2 km přes park) — 60 m vysoká věž 1802, výhled na celý areál i Pálavu
-3. **→ Charvátská Nová Ves — řopík 5/151/1** (5 km k jihovýchodu) — u Ladenské cesty, dobře zachovalý
-4. **→ Poštorná — řopík 8/5/A-140** (7 km) — objízdka k Červenému kostelu Navštívení P. Marie (1898) — nejkrásnější chrám jižní Moravy
-5. **→ Břeclav centrum** (2 km) — oběd, případně zámek Břeclav; nádraží pro kratší variantu
-6. **→ NPR Soutok Dyje–Moravy, řopík 8/b17/A-180 Lanžhot** (13 km lužním lesem) — nejodlehlejší bod trasy, unikátní lužní biotop, výhled na slovenskou hranici
-7. **→ Břeclav** (návrat cca 17:00 — vlakem nebo po stejné trase zpět)
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--s3); margin: var(--s4) 0;">
   <figure style="margin: 0;">
     <img src="/img/clanky/valticko/zamek-lednice.jpg" alt="Zámek Lednice" loading="lazy">
-    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Zámek Lednice</strong> — novogotická podoba 1846–58. Foto: Feťour / Wikimedia (Public domain)</figcaption>
+    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Zámek Lednice</strong> — UNESCO hlavní bod. Trasa 2. Foto: Feťour / Wikimedia (Public domain)</figcaption>
   </figure>
   <figure style="margin: 0;">
     <img src="/img/clanky/valticko/minaret-lednice.jpg" alt="Minaret v Lednickém parku" loading="lazy">
-    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Minaret</strong> (1802) — 60 m, nejvyšší romantická stavba mimo Orient. Foto: Szombat78 / Wikimedia (CC0)</figcaption>
+    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Minaret</strong> (1802) — 60 m, výhled z věže. Trasa 2. Foto: Szombat78 / Wikimedia (CC0)</figcaption>
   </figure>
   <figure style="margin: 0;">
-    <img src="/img/clanky/valticko/kostel-postorna.jpg" alt="Červený kostel v Poštorné" loading="lazy">
-    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Červený kostel Poštorná</strong> (1893–1898) — novogotika, architekt Kirstein. Foto: Motak.23 / Wikimedia (CC BY-SA 4.0)</figcaption>
-  </figure>
-  <figure style="margin: 0;">
-    <img src="/img/clanky/valticko/soutok-dyje-morava.jpg" alt="Soutok Dyje a Moravy" loading="lazy">
-    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>NPR Soutok Dyje–Moravy</strong> — lužní les u Lanžhota, řopík 8/b17. Foto: Palickap / Wikimedia (CC BY-SA 4.0)</figcaption>
+    <img src="/img/clanky/valticko/bori-les.jpg" alt="Boří les" loading="lazy">
+    <figcaption style="font-size: 0.85em; color: var(--ink-light); margin-top: 4px;"><strong>Boří les</strong> — lichtenštejnský revír s řopíky v podrostu. Obě trasy. Foto: RomanM82 / Wikimedia (CC BY-SA 4.0)</figcaption>
   </figure>
 </div>
 
-**Tipy k trase:**
+---
 
-- **Rezervace penzionu v Lednici** — hlavní sezóna bývá vyprodaná 2+ měsíce dopředu
-- **Půjčovna kol** v Lednici (hned u zámku) a Břeclavi (u nádraží)
-- **Vlakem zpět z Břeclavi do Valtic** — rychle a pohodlně, cykla se vejdou
-- **Lehká verze Dne 2** — vynechat soutok, končit v Břeclavi (bez 26 km navíc) → celkem 47 km za 2 dny
-- **Hard verze Dne 2** — přidat z Lednice Janův hrad + Nový dvůr (park) → +6 km
+## Kratší alternativa — pěší půldenní výlet (4 h)
 
-### Varianta C: Rodinný krátký výlet (4 hodiny)
+Pro dny bez kola nebo pro rodiny s malými dětmi:
 
-Stručná trasa pro rodiny s dětmi — jen to nejlepší:
+**Z Úval přes vinice** pěšky do Valtic (4 km, 1 h) → **prohlídka zámku** (1 h) → **procházka na Rajstnu** přes vinice (1 km stoupání, 30 min) → zpět do Valtic (30 min) → autobusem nebo taxi do Úval.
 
-- Zámek Valtice (prohlídka) → řopík 6/68/A-160 S (pěšky ulicí Pod dvorem, 10 min) → Kolonáda Rajstna → Lednice (zámek, park) → Minaret
+Alternativa bez jízdy: celý okruh pěšky 12 km za 4 h. Ideální na jaře nebo na podzim.
 
-Bez cykla, autem. Vhodné pro děti od 6 let.
+## Jednodenní auto-výlet pro ne-cyklisty
+
+Pokud cyklo odpadá (zdravotní důvody, počasí, malé děti):
+
+**9:00** Zámek Valtice → **10:30** Rajstna (pěšky 40 min tam a zpět) → **12:00** oběd ve Valticích → **13:30** auto do Hlohovce, řopík 6/54 + Apollonův chrám → **15:00** Lednice (zámek + Minaret, 2 h) → **17:30** Národní salon vín Valtice → **20:00** návrat.
+
+Celkem 8 h, 30 km autem v pohodě, ochutnáte oba zámky i klíčovou fortifikaci.
 
 ## Kdy jet
 
-| Období | Doporučení |
+| Období | Hodnocení |
 |---|---|
-| **Duben — červen** | nejlepší — kvetou louky, vinná réva se probouzí, řopíky ještě nejsou zarostlé |
-| **Červenec — srpen** | vrchol sezóny — hodně turistů, rezervace nutná, ale burčák/vinobraní začíná |
-| **Září — říjen** | fantastické — vinobraní v plném proudu, příroda barevná, optimální kombinace |
-| **Listopad — březen** | klid, zámky zavřené, ale krajina fotogenická; řopíky vidět lépe (bez listí) |
+| **Duben — červen** | ★★★★★ Nejlepší. Kvetou louky, vinná réva se probouzí, řopíky ještě zarostlé, méně turistů. |
+| **Červenec — srpen** | ★★★ Vrchol sezóny. Rezervace nutná, horko, komáři. Burčák od pozdního srpna. |
+| **Září — říjen** | ★★★★★ Fantastické. Vinobraní, barevná krajina, optimální teploty. |
+| **Listopad — březen** | ★★★ Klid, zámky zavřené. Řopíky vidět lépe bez listí, ale cyklistika jen za slušného počasí. |
 
 ## Praktické informace
 
-### Doprava
+**Půjčovna kol ve Valticích:** v sezóně otevřené dvě půjčovny v centru města. Cena cca 400 Kč / den (treková/horská kola). Rezervace víkendů 3 dny předem v létě.
 
-- **Autem z Brna:** D2 → Břeclav exit → Valtice (60 km, 50 min)
-- **Autem z Prahy:** D1 → Brno → D2 → Břeclav (250 km, 3 h)
-- **Vlakem:** Brno–Břeclav (40 min) → Valtice (lokálka, 10 min) → Lednice bus
-- **Kolem:** půjčovny v Břeclavi, Lednici, Valticích
+**Oběd na trase:**
 
-### Ubytování
+- *Trasa 1:* Restaurace v centru Valtic (přímo u náměstí) nebo pizzerie Apollon u Hlohoveckého rybníka
+- *Trasa 2:* Lednice u zámku (víc variant, ale dražší), nebo zapékáš svoje v batohu u Apollonova chrámu
 
-Nabídku průběžně ověřte na standardních rezervačních portálech — penzionů a hotelů je ve Valticích, Lednici, Mikulově i v Břeclavi dostatek.
+**Vinné sklepy:**
 
-### Vinné sklepy
+- **Národní salon vín ČR** (Valtice, zámek, křížová chodba) — 100 vzorků, benchmark kvality
+- **Vinařské sklepy v Úvalech** — v pár minutách chůze od Prosecco Residence, autentická místní scéna, vstřícné ceny
 
-- **Národní salon vín ČR** — Valtice, křížová chodba zámku, nejvyšší kvalita
-- **Vinařství Tanzberg Mikulov** — prémiová vína, mezinárodní ocenění
-- **Místní sklepy v Hlohovci, Valticích a Pavlově** — autentická zkušenost, cena přátelská
+**Dopravní dostupnost do Úval:**
 
-## Pro koho
+- Autem z Brna: D2 → Břeclav exit → Valtice → Úvaly (60 km, 50 min)
+- Autem z Prahy: D1 → Brno → D2 → Břeclav (250 km, 3 h)
+- Vlakem: Brno → Břeclav (40 min) → Valtice (lokálka, 10 min) → taxi do Úval (4 km)
 
-**Ideální pro:**
+---
 
-- rodiny s dětmi (zámky + příroda)
-- cyklisty (stezky první třídy)
-- fotografy (unikátní kombinace historických vrstev)
-- vinaře a gurmány (region Pálava, Mikulovsko)
-
-**Méně vhodné pro:**
-
-- vyznavače „extrémního" opevnění — na Valticku nenajdete tvrze jako Bouda nebo Hanička, jen lehké objekty (LO vz. 37)
-- návštěvníky s pohybovým omezením — některé řopíky jsou v lesním terénu mimo asfaltové cesty
-
-## Srovnání s dalšími regiony
+## Srovnání s jinými fortifikačními destinacemi
 
 | Kritérium | **Valticko** | Orlické hory | Králicko | Ostravsko |
 |---|---|---|---|---|
-| Typ opevnění | LO vz. 37 | LO + tvrz | LO + 2 tvrze | TO linie |
+| Typ opevnění | LO vz. 37 | LO + tvrz Hanička | LO + 2 tvrze (Bouda, Adam) | TO linie Darkovičky |
 | Pevnostní obsah | ★★ | ★★★★ | ★★★★★ | ★★★★ |
 | Kulturní bonus | ★★★★★ (UNESCO) | ★★ | ★★★ | ★★ |
 | Gastronomie/víno | ★★★★★ | ★★ | ★★★ | ★★★ |
 | Cyklo infrastruktura | ★★★★★ | ★★★ | ★★★ | ★★ |
-| **Celkem pro „všechno v jednom"** | **★★★★★** | ★★★ | ★★★★ | ★★★ |
+| **Vhodnost pro rodinný výlet** | **★★★★★** | ★★★ | ★★★★ | ★★★ |
 
-Valticko je **první volbou** pro ty, kdo chtějí **spojit opevnění s kulturou, jídlem a vínem**. Pokud hledáte jen „čisté" pevnostní zážitky, směřujte do Orlických hor nebo na Králicko.
+Valticko je **první volba**, když chcete **spojit opevnění s kulturou, jídlem a vínem**. Pro čisté pevnostní zážitky vyjeďte do Orlických hor nebo na Králicko.
 
 ## Poznámka k datům
 
-Všechny GPS souřadnice v tomto článku jsou ověřené v OpenStreetMap databázi (tag `military=bunker`, stav duben 2026). Reálné označení objektů odpovídá systému evidence ropiky.net. Pokud najdete v terénu objekt s jiným kódem, než který uvádíme, ozvěte se přes [kontaktní stránku](/kontakt) — katalog průběžně aktualizujeme.
+Všechny GPS v článku jsou ověřené v OpenStreetMap databázi (tag `military=bunker`, stav duben 2026). Trasy vygenerované přes **OSRM bike router** nad OSM daty. Reálné označení objektů odpovídá systému ropiky.net.
+
+Pokud najdete v terénu objekt s jiným kódem — nebo trasa vede kolem překážky (uzavřená lesní cesta, terénní propad), dejte vědět přes [kontakt](/kontakt) — **oba itineráře průběžně aktualizujeme**.
 
 ## Doporučené zdroje
 
 - **[Typologie LO vz. 37](/typologie/lo-vz-37)** — podrobný popis řopíků
-- **[Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu)** — žebříček nejlepších destinací
+- **[Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu)** — žebříček destinací
 - **[Lednicko-valtický areál — UNESCO](https://lednicko-valticky-areal.cz)** — oficiální stránka
-- **[OpenStreetMap — vrstva opevnění](https://www.openstreetmap.org/)** — zdroj GPS dat
-- **[ropiky.net](https://www.ropiky.net/)** — databáze čs. opevnění (historické detaily)
-
-**Závěr:** Valticko je **nejlepší volba pro všestranný víkend** — kde si pán domu užije řopíky, paní zámky, děti Minaret a babička víno. Tak bohaté kombinace najdete málokde v Evropě.
+- **[ropiky.net](https://www.ropiky.net/)** — databáze čs. opevnění
