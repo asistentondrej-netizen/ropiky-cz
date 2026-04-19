@@ -19,4 +19,15 @@ visit: |
 sources:
   - 'Wikipedia — Adam (dělostřelecká tvrz)'
   - 'ropiky.net — Adam'
-updated: '2026-04-18'
+updated: '2026-04-19'
+photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/2/20/Adam_bunkier.jpg
+    alt: Bojový srub tvrze Adam
+    author: Tomasz Leśniowski
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:Adam_bunkier.jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/e/ed/%C4%8Cesk%C3%A9_Petrovice_bunkier_4.jpg
+    alt: Srub tvrze Adam v Českých Petrovicích
+    author: Tomasz Leśniowski
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%A9_Petrovice_bunkier_4.jpg
