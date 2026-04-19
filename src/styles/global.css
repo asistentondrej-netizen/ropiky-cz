@@ -133,6 +133,194 @@ p { margin-bottom: var(--s3); max-width: 68ch; }
 }
 .header-action:hover { border-color: var(--khaki); color: var(--khaki); }
 
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--s2);
+}
+
+/* ---------- Search — lupa v headeru ---------- */
+.search-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: transparent;
+  border: 1px solid var(--line);
+  color: var(--ink-med);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  padding: 6px 10px;
+  cursor: pointer;
+  letter-spacing: 0.05em;
+  transition: all 0.15s ease;
+  border-radius: 0;
+}
+.search-trigger:hover {
+  border-color: var(--khaki);
+  color: var(--khaki);
+}
+.search-trigger__label {
+  display: inline;
+}
+.search-trigger__kbd {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  background: var(--paper-dark);
+  color: var(--ink-light);
+  padding: 1px 5px;
+  border: 1px solid var(--line);
+  border-radius: 2px;
+}
+@media (max-width: 720px) {
+  .search-trigger__label,
+  .search-trigger__kbd {
+    display: none;
+  }
+  .search-trigger {
+    padding: 6px 8px;
+  }
+}
+
+/* ---------- Search dialog ---------- */
+.search-dialog {
+  border: none;
+  padding: 0;
+  background: transparent;
+  max-width: 720px;
+  width: 92vw;
+  margin: 8vh auto 0;
+}
+.search-dialog::backdrop {
+  background: rgba(26, 22, 18, 0.55);
+  backdrop-filter: blur(2px);
+}
+.search-dialog__inner {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25);
+}
+.search-form {
+  display: flex;
+  align-items: center;
+  gap: var(--s2);
+  padding: var(--s2) var(--s3);
+  border-bottom: 1px solid var(--line);
+}
+.search-form__icon {
+  color: var(--ink-light);
+  flex-shrink: 0;
+}
+.search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-family: var(--font-body, inherit);
+  font-size: 1.0625rem;
+  color: var(--ink);
+  padding: 6px 0;
+}
+.search-input::placeholder {
+  color: var(--ink-light);
+}
+.search-close {
+  background: transparent;
+  border: 1px solid var(--line);
+  cursor: pointer;
+  padding: 4px 8px;
+  color: var(--ink-light);
+  border-radius: 2px;
+}
+.search-close kbd {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+}
+.search-close:hover {
+  border-color: #7A3B2E;
+  color: #7A3B2E;
+}
+
+.search-results {
+  max-height: 60vh;
+  overflow-y: auto;
+}
+.search-empty {
+  padding: var(--s4) var(--s3);
+  text-align: center;
+  color: var(--ink-light);
+  font-style: italic;
+  margin: 0;
+}
+.search-count {
+  padding: var(--s2) var(--s3);
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--ink-light);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin: 0;
+  border-bottom: 1px solid var(--line-soft);
+}
+.search-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.search-item {
+  border-bottom: 1px solid var(--line-soft);
+}
+.search-item:last-child {
+  border-bottom: none;
+}
+.search-item__link {
+  display: block;
+  padding: var(--s2) var(--s3);
+  text-decoration: none;
+  color: var(--ink);
+  transition: background 0.1s ease;
+}
+.search-item__link:hover,
+.search-item__link:focus {
+  background: var(--paper-dark);
+  outline: none;
+}
+.search-item__title {
+  font-weight: 600;
+  font-size: 1rem;
+  margin-bottom: 2px;
+}
+.search-item__excerpt {
+  font-size: 0.875rem;
+  color: var(--ink-med);
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+.search-item__excerpt mark {
+  background: rgba(122, 59, 46, 0.15);
+  color: inherit;
+  padding: 0 2px;
+  font-weight: 600;
+}
+.search-item__url {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  color: var(--ink-light);
+  letter-spacing: 0.03em;
+}
+.search-footer {
+  display: flex;
+  justify-content: space-between;
+  padding: var(--s1) var(--s3);
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  color: var(--ink-light);
+  border-top: 1px solid var(--line);
+  background: var(--paper-dark);
+}
+.search-footer strong {
+  color: var(--ink-med);
+}
+
 /* ---------- Hero ---------- */
 .hero {
   position: relative; min-height: 82vh;

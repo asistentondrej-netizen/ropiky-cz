@@ -1,0 +1,174 @@
+---
+/**
+ * Fulltextové vyhledávání postavené nad Pagefind.
+ * Ikona lupy v headeru → klik otevře <dialog> s inputem a seznamem výsledků.
+ * Pagefind index se generuje automaticky po `astro build` (viz astro.config.mjs).
+ * Klávesové zkratky: `/` otevře, `Esc` zavře.
+ */
+---
+
+<button
+  type="button"
+  class="search-trigger"
+  id="search-trigger"
+  aria-label="Vyhledávat na webu (klávesová zkratka „/“)"
+  title="Vyhledávat (/)"
+>
+  <svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20">
+    <circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"/>
+    <line x1="16" y1="16" x2="21" y2="21" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+  </svg>
+  <span class="search-trigger__label">Hledat</span>
+  <kbd class="search-trigger__kbd" aria-hidden="true">/</kbd>
+</button>
+
+<dialog id="search-dialog" class="search-dialog" aria-label="Vyhledávání">
+  <div class="search-dialog__inner">
+    <form class="search-form" role="search" onsubmit="return false;">
+      <svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20" class="search-form__icon">
+        <circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"/>
+        <line x1="16" y1="16" x2="21" y2="21" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+      </svg>
+      <input
+        type="search"
+        id="search-input"
+        class="search-input"
+        placeholder="Hledat v katalogu, typologii a článcích…"
+        autocomplete="off"
+        spellcheck="false"
+      />
+      <button type="button" class="search-close" id="search-close" aria-label="Zavřít">
+        <kbd aria-hidden="true">Esc</kbd>
+      </button>
+    </form>
+
+    <div id="search-results" class="search-results" aria-live="polite">
+      <p class="search-empty">Napište alespoň 2 znaky. Hledá se v názvech pevností, typologii i článcích.</p>
+    </div>
+
+    <footer class="search-footer">
+      <span>Fulltext <strong>Pagefind</strong></span>
+      <span>Obsah ČS opevnění 1935–1938</span>
+    </footer>
+  </div>
+</dialog>
+
+<script>
+  // Type-free — kompilujeme jen když jsme v prohlížeči
+  const trigger = document.getElementById('search-trigger') as HTMLButtonElement | null;
+  const dialog = document.getElementById('search-dialog') as HTMLDialogElement | null;
+  const input = document.getElementById('search-input') as HTMLInputElement | null;
+  const closeBtn = document.getElementById('search-close') as HTMLButtonElement | null;
+  const resultsEl = document.getElementById('search-results') as HTMLElement | null;
+
+  if (!trigger || !dialog || !input || !closeBtn || !resultsEl) {
+    // chybí nějaký prvek — nic nedělat
+  } else {
+    let pagefindRef: any = null;
+    let pagefindFailed = false;
+
+    async function ensurePagefind() {
+      if (pagefindRef || pagefindFailed) return pagefindRef;
+      try {
+        // @ts-ignore — import z runtime cesty
+        pagefindRef = await import('/pagefind/pagefind.js');
+        await pagefindRef.options({
+          excerptLength: 28,
+        });
+        return pagefindRef;
+      } catch (err) {
+        pagefindFailed = true;
+        console.warn('Pagefind není k dispozici (dev server?):', err);
+        if (resultsEl) {
+          resultsEl.innerHTML =
+            '<p class="search-empty">Vyhledávání je dostupné jen na produkční verzi webu. Zkuste to po nasazení.</p>';
+        }
+        return null;
+      }
+    }
+
+    function open() {
+      dialog!.showModal();
+      // malé zpoždění na focus kvůli animaci
+      setTimeout(() => input!.focus(), 30);
+      ensurePagefind();
+    }
+
+    function close() {
+      if (dialog!.open) dialog!.close();
+    }
+
+    // trigger → open
+    trigger.addEventListener('click', open);
+
+    // close button + klik mimo (kliknutí na ::backdrop)
+    closeBtn.addEventListener('click', close);
+    dialog.addEventListener('click', (e) => {
+      // kliknutí přímo na dialog (backdrop) zavře — dialog.inner zastavuje propagaci nížeji
+      if (e.target === dialog) close();
+    });
+
+    // Klávesové zkratky: `/` otevře, Esc zavírá (native)
+    document.addEventListener('keydown', (e) => {
+      if (e.key === '/' && !dialog!.open) {
+        const tag = (document.activeElement as HTMLElement | null)?.tagName;
+        const editable = tag === 'INPUT' || tag === 'TEXTAREA' || (document.activeElement as HTMLElement | null)?.isContentEditable;
+        if (!editable) {
+          e.preventDefault();
+          open();
+        }
+      }
+    });
+
+    // Debounced search
+    let timer: number | undefined;
+    input.addEventListener('input', () => {
+      const q = input!.value.trim();
+      window.clearTimeout(timer);
+      if (q.length < 2) {
+        resultsEl!.innerHTML =
+          '<p class="search-empty">Napište alespoň 2 znaky. Hledá se v názvech pevností, typologii i článcích.</p>';
+        return;
+      }
+      timer = window.setTimeout(() => runSearch(q), 150);
+    });
+
+    async function runSearch(q: string) {
+      const pf = await ensurePagefind();
+      if (!pf) return;
+      try {
+        const r = await pf.search(q);
+        if (!r.results.length) {
+          resultsEl!.innerHTML = `<p class="search-empty">Nic se nenašlo pro <strong>${escape(q)}</strong>. Zkuste jiný termín.</p>`;
+          return;
+        }
+        const topTen = r.results.slice(0, 10);
+        const data = await Promise.all(topTen.map((x: any) => x.data()));
+
+        resultsEl!.innerHTML = `
+          <p class="search-count">${r.results.length} výsledků${r.results.length > 10 ? ' (zobrazeno 10)' : ''}</p>
+          <ul class="search-list">
+            ${data.map((d: any) => `
+              <li class="search-item">
+                <a href="${d.url}" class="search-item__link">
+                  <div class="search-item__title">${d.meta?.title || d.url}</div>
+                  <div class="search-item__excerpt">${d.excerpt || ''}</div>
+                  <div class="search-item__url">${d.url}</div>
+                </a>
+              </li>
+            `).join('')}
+          </ul>
+        `;
+      } catch (err) {
+        console.error('Pagefind search error:', err);
+        resultsEl!.innerHTML = '<p class="search-empty">Chyba při vyhledávání.</p>';
+      }
+    }
+
+    function escape(s: string) {
+      return s.replace(/[&<>"']/g, (c) => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+      }[c] as string));
+    }
+  }
+</script>

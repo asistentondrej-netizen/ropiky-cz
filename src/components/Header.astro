@@ -1,4 +1,6 @@
 ---
+import SearchBar from './SearchBar.astro';
+
 const { pathname } = Astro.url;
 const isActive = (path: string) =>
   pathname === path || (path !== '/' && pathname.startsWith(path));
@@ -19,6 +21,9 @@ const isActive = (path: string) =>
       <a href="/clanky" aria-current={isActive('/clanky') ? 'page' : undefined}>Články</a>
     </nav>
 
-    <a href="/katalog" class="header-action">Prozkoumat</a>
+    <div class="header-actions">
+      <SearchBar />
+      <a href="/katalog" class="header-action">Prozkoumat</a>
+    </div>
   </div>
 </header>

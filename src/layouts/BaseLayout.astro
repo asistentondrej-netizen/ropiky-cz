@@ -62,7 +62,7 @@ const ogImage = new URL(image, Astro.site).toString();
   <body>
     <a href="#main" class="visually-hidden">Přeskočit na obsah</a>
     <Header />
-    <main id="main">
+    <main id="main" data-pagefind-body>
       <slot />
     </main>
     <Footer />
