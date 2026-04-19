@@ -22,14 +22,14 @@ Mezi lety 1930 a 1945 prošla Evropa mohutnou vlnou fortifikačního betonu. Fra
 
 | Linie | Země | Stavěno | Proti komu | Rozsah |
 | --- | --- | --- | --- | --- |
-| **Maginotova linie** | Francie | 1929–1940 | Německu | ~400 km, 58 velkých *ouvrage*, tisíce casemat |
-| **Siegfriedova linie (Westwall)** | Německo | 1938–1940 | Francii | ~630 km, ~18 000 objektů |
-| **Metaxasova linie** | Řecko | 1936–1941 | Bulharsku | ~200 km, 21 pevnostních komplexů |
-| **Mannerheimova linie** | Finsko | 1920–1939 | SSSR | ~132 km, ~150 objektů |
-| **Stalinova linie** | SSSR | 1928–1939 | Polsku / Rumunsku | ~2 000 km, ~3 000 objektů |
+| **Maginotova linie** | Francie | 1929–1940 | Německu | ~720 km, 142 *ouvrage* (45 velkých + 97 malých) + 352 casemat |
+| **Siegfriedova linie (Westwall)** | Německo | 1936–1940 | Francii | ~630 km, plánováno ~22 000 objektů, postaveno ~14 800 |
+| **Metaxasova linie** | Řecko | 1936–1941 | Bulharsku | ~155 km, 21 pevnostních komplexů |
+| **Mannerheimova linie** | Finsko | 1920–1939 | SSSR | ~135–140 km, 157 kulometných + 8 dělostřeleckých pozic |
+| **Stalinova linie** | SSSR | 1928–1939 | Polsku / Rumunsku | ~1 800 km, 21 opevněných oblastí, ~4 000 železobetonových objektů |
 | **Molotovova linie** | SSSR | 1940–1941 | Německu | ~1 200 km, ~2 500 objektů (nedokončená) |
 | **Çakmakova linie** | Turecko | 1936–1945 | Bulharsku / Německu | ~60 km hlavní linie + Gallipoli, ~1 000 objektů |
-| **Československé opevnění (ŘOP)** | ČSR | 1935–1938 | Německu / Maďarsku | ~2 000 km, ~10 000 objektů |
+| **Československé opevnění (ŘOP)** | ČSR | 1935–1938 | Německu / Maďarsku | ~2 000 km, 263 těžkých + ~9 600 lehkých objektů (do Mnichova) |
 
 Společným jmenovatelem byl **pasivní koncept**: uzavřít území pevným řetězcem objektů, získat čas pro mobilizaci a polní armádu. Liší se v provedení, hloubce linie, síle těžkých objektů a v tom, jak se nakonec chovaly v bojích.
 
@@ -71,22 +71,22 @@ Hotova byla linie zhruba do roku 1941, některé práce pokračovaly až do roku
 | Doba stavby | 3 roky (1935–1938) | 5–9 let (1936–1941/45) |
 | Hlavní hrozba | Německo + Maďarsko | Bulharsko + Německo |
 | Inspirace | Maginot + vlastní vývoj | Přímá kopie francouzských STG bunkrů |
-| Počet objektů | ~10 000 lehkých + ~260 těžkých | ~1 000 celkem |
+| Počet objektů | ~9 600 lehkých + 263 těžkých | ~1 000 celkem |
 | Čelní stěna — lehký objekt | 50–80 cm (II.–III. třída) | není uvedena, spíše srovnatelné |
 | Čelní stěna — těžký srub | 120–350 cm (II.–IV. třída) | neexistoval ekvivalent |
 | Dělostřelectvo | V dělostřeleckých tvrzích, otočné věže 100 mm + 50 mm | Otevřené polní baterie, 20–30 cm beton |
-| Dokončené tvrze | 5 (Adam, Bouda, Hanička, Hůrka, Smolkov) + 2 částečně (Dobrošov, Stachelberg) | 0 |
-| Finanční náklady | ~11 mld. Kč (cca 7–8 % státních výdajů 1936–38) | omezeno kapacitou průmyslu |
-| Personál | ~400 000 vojáků, obsazeno 23.–30. 9. 1938 | průběžně bez plného obsazení |
+| Dokončené tvrze | 5 dokončených (Adam, Bouda, Hanička, Hůrka, Smolkov) + 4 rozestavěné (Dobrošov, Skutina, Šibenice, Stachelberg) | 0 |
+| Finanční náklady | plánováno ~10,9 mld. Kč; do Mnichova skutečně proinvestováno ~2,2 mld. Kč (cca 1/5 plánovaného) | omezeno kapacitou průmyslu |
+| Personál | po všeobecné mobilizaci 23. 9. 1938 cca 1,25 mil. vojáků armády ČSR | průběžně bez plného obsazení |
 | Bojové nasazení | **Žádné rozhodnější** — kapitulace po Mnichovu | **Žádné** — turecká neutralita |
 | Poválečný osud | Část předána ČSR, ale tisíce objektů bez ochrany | Dlouho neznámá, pomalu objevovaná |
 
 ### Co bylo v ČSR lepší
 
 - **Systémovost** — ŘOP pracovalo s dlouhou dobou vývoje prototypů (1933–35 na Slovensku, cvičné objekty), standardizovanými typy (LO vz. 36, LO vz. 37, pěchotní sruby, tvrze) a hloubkovou fortifikační školou
-- **Těžké objekty** — 260 pěchotních srubů III. a IV. třídy odolnosti představovalo světovou špičku v kategorii pěchotní fortifikace; čelní stěna 3,5 m odolávala i proti 420mm dělostřelectvu
+- **Těžké objekty** — 263 pěchotních srubů (III. a IV. třída tvořila nejodolnější část) představovalo světovou špičku v kategorii pěchotní fortifikace; čelní stěna 3,5 m odolávala i proti 420mm dělostřelectvu
 - **Tvrze jako systém** — ČSR tvrze byly plnohodnotné podzemní komplexy s dělostřeleckými věžemi, pozorovatelnami a munkami. Čakmakova linie nic podobného neměla
-- **Rychlost** — ČSR dokázalo za 3 roky postavit 10× více objektů než Turecko za 9 let
+- **Rychlost** — ČSR dokázalo za 3 roky postavit řádově 10× více objektů než Turecko za 9 let
 
 ### Co bylo v ČSR horší
 
@@ -96,15 +96,15 @@ Hotova byla linie zhruba do roku 1941, některé práce pokračovaly až do roku
 
 ## Kontext dalších linií
 
-**Maginotova linie** byla technologicky nadřazena všem ostatním — 58 velkých dělostřeleckých tvrzí (*grands ouvrages*), 354 casemat, složitý systém podzemních železnic. Čelila nicméně stejnému problému jako ČSR: německá invaze v květnu 1940 ji **obešla přes Ardeny**, takže v přímém boji byla minimálně využita. Jediná tvrz, která byla v přímém útoku skutečně dobyta, byla **Ouvrage La Ferté** (1940).
+**Maginotova linie** byla technologicky nadřazena všem ostatním — 45 velkých *ouvrages* (*gros ouvrages*), 97 menších *petits ouvrages* a 352 samostatných casemat, složitý systém podzemních železnic. Čelila nicméně stejnému problému jako ČSR: německá invaze v květnu 1940 ji **obešla přes Ardeny**, takže v přímém boji byla minimálně využita. Nejznámějším případem přímého dobytí je *petit ouvrage* **La Ferté**, který 19. května 1940 padl po dvoudenním útoku; celá jeho 107členná posádka zahynula.
 
-**Siegfriedova linie (Westwall)** — Hitlerova odpověď na Maginot. 18 000 objektů, mnohem větší šířka než francouzský vzor, ale kvalitativně slabších (většina byla typová pevnůstka *Regelbau* o síle 1–2 m betonu). V září 1944 Spojenci zjistili, že za 5 let neúdržby je linie v katastrofickém stavu. Padla v zimě 1944/45 v krvavých bojích (Hürtgenwald).
+**Siegfriedova linie (Westwall)** — Hitlerova odpověď na Maginot. Plánováno přes 22 000 objektů, realizováno zhruba 14 800, mnohem větší šířka než francouzský vzor, ale kvalitativně slabších (většina byla typová pevnůstka *Regelbau* o síle 1–2 m betonu). V září 1944 Spojenci zjistili, že po několika letech zanedbání je linie ve zbídačeném stavu. Padla v zimě 1944/45 v krvavých bojích (Hürtgenwald).
 
-**Metaxasova linie** (Řecko, proti Bulharsku) — fortifikačně nejbližší ČSR konceptu. 21 pevnostních komplexů na řecko-bulharské hranici. **Drželi Řekové v dubnu 1941 šest dnů proti útoku Wehrmachtu** — teprve po kapitulaci byla linie předána. Symbolicky jedna z nejúspěšnějších obranných linií té doby.
+**Metaxasova linie** (Řecko, proti Bulharsku) — fortifikačně nejbližší ČSR konceptu. 21 pevnostních komplexů na řecko-bulharské hranici. **Řekové zde v dubnu 1941 odolávali útoku Wehrmachtu čtyři dny (6.–9. 4. 1941)** — bitva o linii skončila až poté, co byl řecký týl obchvácen přes Jugoslávii a Soluň padla. Symbolicky jedna z nejúspěšnějších obranných linií té doby.
 
 **Mannerheimova linie** (Finsko) — relativně skromná fortifikace (srovnatelná spíše s českými lehkými objekty), ale v **Zimní válce 1939–40** sehrála klíčovou roli. Finové se na ní dvě zimy bránili proti Rudé armádě a dokázali vyjednat mír bez úplné kapitulace. Fortifikace + terén + morálka = nadprůměrný výkon.
 
-**Eben-Emael** (Belgie, 1932–1935) — jediná obří tvrz na Albertově kanálu, považovaná za nedobytnou. **Padla za 24 hodin** ráno 10. května 1940 po přistání německých kluzáků Fallschirmjäger s kumulativními náložemi. Nejrychlejší pád moderní pevnosti v dějinách. Lekce: stejně jako Maginot — nepřítel se přizpůsobil.
+**Eben-Emael** (Belgie, 1931–1935) — obří tvrz na Albertově kanálu, považovaná za nedobytnou. **Padla přibližně za 24 hodin** po přistání německých kluzáků s výsadkem Fallschirmjäger a nasazení nových kumulativních náloží 10.–11. května 1940. Nejrychlejší pád moderní pevnosti v dějinách. Lekce: stejně jako Maginot — nepřítel se přizpůsobil.
 
 **Stalinova a Molotovova linie** — sovětské rozměry. Stalinova (1928–1939) na staré hranici byla v roce 1941 demontována ve prospěch Molotovovy (1940–1941) na nové hranici po paktu Molotov-Ribbentrop. Přesun se ukázal jako fatální: **Molotovova linie byla nedokončená a padla během prvních dnů Barbarossy.**
 
@@ -114,7 +114,7 @@ Pevnostní linie 30. let dopadly v bojích **překvapivě špatně**:
 
 - **Maginot** — obejita přes Ardeny, většina v boji nevyužita
 - **Eben-Emael** — padl za 24 hodin
-- **Metaxas** — držela 6 dní, ale byla prolomena
+- **Metaxas** — držela 4 dny, pak byla obejita přes Jugoslávii
 - **Mannerheim** — udržela se, ale Finsko muselo kapitulovat politicky
 - **Stalinova/Molotovova** — obě prolomeny během několika týdnů
 - **Siegfried** — vyřazena z boje 5 lety opuštění, padla v zimě 1944
@@ -127,9 +127,9 @@ Příčin bylo několik: **obrněná a vzdušná válka** (tanky, kluzáky, výs
 
 V širokém srovnání má ČSR opevnění tři jedinečné rysy:
 
-1. **Nejrychlejší stavba v přepočtu na objekt** — 10 000 lehkých + 260 těžkých za 3 roky. Ani Francouzi, ani Němci, ani Sověti nepostavili tempo, jako bylo 1937–1938 v Čechách, na Moravě a ve Slezsku
-2. **Vysoký podíl HDP** — ~7–8 % státních výdajů šlo do opevnění. Srovnatelný podíl měla pouze Francie (Maginot)
-3. **Jediná, která nebyla použita v boji — ale ne proto, že by selhala, ale proto, že stát kapituloval politicky.** To je v mezinárodním kontextu paradox, který si zaslouží být v české historické paměti zakódován jinak než „pevnosti zrazená v Mnichově" — přesnější formulace je „fungující pevnosti obětované politickým rozhodnutím"
+1. **Mimořádné tempo stavby** — ~9 600 lehkých + 263 těžkých objektů za 3 roky (1935–1938). Ani Francouzi, ani Němci, ani Sověti takové tempo v přepočtu na objekt nedosáhli
+2. **Vysoký podíl státního rozpočtu** — výdaje na opevnění činily v letech 1936–1938 přibližně 10 % rozpočtu ministerstva národní obrany. Srovnatelnou míru nasazení měla v meziválečné Evropě prakticky jen Francie
+3. **Jediná linie, která nebyla použita v boji — ne proto, že by selhala, ale proto, že stát kapituloval politicky.** To je v mezinárodním kontextu paradox, který si zaslouží být v české historické paměti zakódován jinak než „pevnosti zrazené v Mnichově" — přesnější formulace je „fungující pevnosti obětované politickým rozhodnutím"
 
 Historik Martin Ráboň v knize *Val na obranu republiky* shrnuje: „ČSR opevnění bylo z hlediska kvantity i kvality v evropském kontextu plně konkurenceschopné. Jeho tragédie byla výhradně politická, nikoli vojenská."
 
