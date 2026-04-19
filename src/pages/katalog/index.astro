@@ -105,6 +105,10 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
         </div>
       </div>
 
+      <div class="pagination-top" id="pagination-top" hidden>
+        <span class="pagination-info" id="pagination-info">Strana 1</span>
+      </div>
+
       <p class="catalog-note">
         <strong>Pozn.:</strong> V <a href="/">typologii</a> najdete i <em>pancéřový zvon</em> (komponenta pěchotního srubu a tvrze, ne samostatný objekt)
         a <em>LO vz. 38 „Turek"</em> (dochovány jen 2 prototypy, zatím bez vlastních katalogových záznamů).
@@ -137,6 +141,11 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
           <div id="no-results" class="no-results" hidden>
             Žádná pevnost neodpovídá vybraným filtrům. Zkuste je <button type="button" id="no-results-reset" class="link-btn">resetovat</button>.
           </div>
+          <nav class="pagination" id="pagination" aria-label="Stránkování katalogu" hidden>
+            <button class="pagination-btn" id="page-prev" type="button" disabled aria-label="Předchozí strana">← Předchozí</button>
+            <div class="pagination-pages" id="pagination-pages" role="group" aria-label="Čísla stránek"></div>
+            <button class="pagination-btn" id="page-next" type="button" aria-label="Další strana">Další →</button>
+          </nav>
         </>
       ) : (
         <p style="font-style: italic; color: var(--ink-light); padding: var(--s5) 0;">
@@ -257,6 +266,70 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
       font: inherit;
       text-decoration: underline;
     }
+    .pagination-top {
+      margin-bottom: var(--s3);
+      font-size: 0.875rem;
+      color: var(--ink-light);
+      font-family: monospace;
+    }
+    .pagination {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: var(--s2);
+      margin-top: var(--s4);
+      padding-top: var(--s3);
+      border-top: 1px solid var(--line-soft);
+      flex-wrap: wrap;
+    }
+    .pagination-btn {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      padding: 8px 14px;
+      font-size: 0.875rem;
+      font-family: inherit;
+      color: var(--ink);
+      cursor: pointer;
+      border-radius: 0;
+    }
+    .pagination-btn:hover:not(:disabled) {
+      background: var(--paper-dark);
+      border-color: #7A3B2E;
+    }
+    .pagination-btn:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+    .pagination-pages {
+      display: flex;
+      gap: 4px;
+      flex-wrap: wrap;
+    }
+    .pagination-page {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      padding: 6px 12px;
+      font-size: 0.875rem;
+      font-family: monospace;
+      color: var(--ink);
+      cursor: pointer;
+      border-radius: 0;
+      min-width: 36px;
+    }
+    .pagination-page:hover {
+      background: var(--paper-dark);
+      border-color: #7A3B2E;
+    }
+    .pagination-page.is-active {
+      background: #7A3B2E;
+      color: white;
+      border-color: #7A3B2E;
+      font-weight: 600;
+    }
+    .pagination-ellipsis {
+      padding: 6px 4px;
+      color: var(--ink-light);
+    }
 
     @media (max-width: 640px) {
       .filter-group { flex-direction: column; align-items: flex-start; }
@@ -267,29 +340,82 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
   </style>
 
   <script>
+    const PER_PAGE = 50;
     const filterState: Record<string, string> = { type: 'all', state: 'all', line: 'all' };
+    let currentPage = 1;
 
     const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
-    const items = document.querySelectorAll<HTMLElement>('#fort-grid .fort-grid-item');
+    const items = Array.from(document.querySelectorAll<HTMLElement>('#fort-grid .fort-grid-item'));
     const counterEl = document.getElementById('visible-count');
     const noResultsEl = document.getElementById('no-results');
     const gridEl = document.getElementById('fort-grid');
     const resetBtn = document.getElementById('reset-filters');
     const noResultsResetBtn = document.getElementById('no-results-reset');
+    const paginationEl = document.getElementById('pagination');
+    const pagesEl = document.getElementById('pagination-pages');
+    const prevBtn = document.getElementById('page-prev') as HTMLButtonElement | null;
+    const nextBtn = document.getElementById('page-next') as HTMLButtonElement | null;
+    const paginationTopEl = document.getElementById('pagination-top');
+    const paginationInfoEl = document.getElementById('pagination-info');
 
-    function applyFilters() {
-      let visible = 0;
-      items.forEach((item) => {
+    function getMatchedItems() {
+      return items.filter((item) => {
         const matchType = filterState.type === 'all' || item.dataset.type === filterState.type;
         const matchState = filterState.state === 'all' || item.dataset.state === filterState.state;
         const matchLine = filterState.line === 'all' || item.dataset.line === filterState.line;
-        const show = matchType && matchState && matchLine;
-        item.style.display = show ? '' : 'none';
-        if (show) visible++;
+        return matchType && matchState && matchLine;
       });
-      if (counterEl) counterEl.textContent = String(visible);
+    }
+
+    function renderPagination(totalPages: number) {
+      if (!pagesEl || !paginationEl || !prevBtn || !nextBtn) return;
+      if (totalPages <= 1) {
+        paginationEl.setAttribute('hidden', '');
+        return;
+      }
+      paginationEl.removeAttribute('hidden');
+      prevBtn.disabled = currentPage === 1;
+      nextBtn.disabled = currentPage === totalPages;
+      pagesEl.innerHTML = '';
+      // Sousedy ±2, vždy zobraz 1 a last, ellipsis pokud mezera
+      const pages = new Set<number>([1, totalPages, currentPage - 1, currentPage, currentPage + 1]);
+      const validPages = [...pages].filter((p) => p >= 1 && p <= totalPages).sort((a, b) => a - b);
+      let prev = 0;
+      for (const p of validPages) {
+        if (p - prev > 1) {
+          const ell = document.createElement('span');
+          ell.className = 'pagination-ellipsis';
+          ell.textContent = '…';
+          pagesEl.appendChild(ell);
+        }
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'pagination-page' + (p === currentPage ? ' is-active' : '');
+        btn.textContent = String(p);
+        btn.setAttribute('aria-label', `Strana ${p}`);
+        if (p === currentPage) btn.setAttribute('aria-current', 'page');
+        btn.addEventListener('click', () => goToPage(p));
+        pagesEl.appendChild(btn);
+        prev = p;
+      }
+    }
+
+    function render() {
+      const matched = getMatchedItems();
+      const total = matched.length;
+      const totalPages = Math.max(1, Math.ceil(total / PER_PAGE));
+      if (currentPage > totalPages) currentPage = totalPages;
+
+      // Skryj nejprve všechno
+      items.forEach((it) => (it.style.display = 'none'));
+      // Zobraz jen položky na aktuální straně z filtrovaných
+      const from = (currentPage - 1) * PER_PAGE;
+      const to = from + PER_PAGE;
+      matched.slice(from, to).forEach((it) => (it.style.display = ''));
+
+      if (counterEl) counterEl.textContent = String(total);
       if (noResultsEl && gridEl) {
-        if (visible === 0) {
+        if (total === 0) {
           noResultsEl.removeAttribute('hidden');
           gridEl.style.display = 'none';
         } else {
@@ -297,7 +423,35 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
           gridEl.style.display = '';
         }
       }
+      if (paginationTopEl && paginationInfoEl) {
+        if (total > PER_PAGE) {
+          paginationTopEl.removeAttribute('hidden');
+          const shownFrom = from + 1;
+          const shownTo = Math.min(to, total);
+          paginationInfoEl.textContent = `Strana ${currentPage} z ${totalPages} — zobrazeno ${shownFrom}–${shownTo} z ${total}`;
+        } else {
+          paginationTopEl.setAttribute('hidden', '');
+        }
+      }
+      renderPagination(totalPages);
     }
+
+    function goToPage(p: number) {
+      currentPage = p;
+      render();
+      // Scroll na začátek filtrů (aby bylo vidět od kolik-kam)
+      const filtersEl = document.getElementById('filters');
+      if (filtersEl) filtersEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    prevBtn?.addEventListener('click', () => {
+      if (currentPage > 1) goToPage(currentPage - 1);
+    });
+    nextBtn?.addEventListener('click', () => {
+      const matched = getMatchedItems();
+      const totalPages = Math.max(1, Math.ceil(matched.length / PER_PAGE));
+      if (currentPage < totalPages) goToPage(currentPage + 1);
+    });
 
     buttons.forEach((btn) => {
       btn.addEventListener('click', () => {
@@ -306,7 +460,8 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
         btn.parentElement!.querySelectorAll<HTMLButtonElement>('.filter-btn').forEach((b) => b.classList.remove('is-active'));
         btn.classList.add('is-active');
         filterState[filter] = value;
-        applyFilters();
+        currentPage = 1;
+        render();
       });
     });
 
@@ -317,10 +472,14 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
       buttons.forEach((b) => {
         b.classList.toggle('is-active', b.dataset.value === 'all');
       });
-      applyFilters();
+      currentPage = 1;
+      render();
     }
 
     resetBtn?.addEventListener('click', resetAll);
     noResultsResetBtn?.addEventListener('click', resetAll);
+
+    // Inicializace
+    render();
   </script>
 </BaseLayout>
