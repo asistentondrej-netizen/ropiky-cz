@@ -1,0 +1,15 @@
+title: "Řopík 4/3073/A-120 (Mikulovsko)"
+code: "4/3073/A-120"
+type: lo-vz-37
+line: 'Jižní Morava — Mikulovsko'
+region: Jihomoravský kraj
+location:
+  lat: 48.8249413
+  lon: 16.5959808
+built: '1938'
+state: neznamy
+description: "Lehký objekt vz. 37, typ A-120 — oboustranný kulometný (čelní úhel 120°). Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
+sources:
+  - OpenStreetMap
+  - ropiky.net — Mikulovsko
+updated: '2026-04-19'

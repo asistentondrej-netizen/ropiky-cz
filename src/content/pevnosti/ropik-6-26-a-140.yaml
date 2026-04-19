@@ -1,0 +1,15 @@
+title: "Řopík 6/26/A-140 (Mikulovsko)"
+code: "6/26/A-140"
+type: lo-vz-37
+line: 'Jižní Morava — Mikulovsko'
+region: Jihomoravský kraj
+location:
+  lat: 48.79078
+  lon: 16.70137
+built: '1938'
+state: neznamy
+description: "Lehký objekt vz. 37, typ A-140 — oboustranný kulometný (čelní úhel 140°). Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
+sources:
+  - OpenStreetMap
+  - ropiky.net — Mikulovsko
+updated: '2026-04-19'

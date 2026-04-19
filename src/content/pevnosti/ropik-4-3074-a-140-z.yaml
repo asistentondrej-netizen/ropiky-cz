@@ -1,0 +1,15 @@
+title: "Řopík 4/3074/A-140 Z (Mikulovsko)"
+code: "4/3074/A-140 Z"
+type: lo-vz-37
+line: 'Jižní Morava — Mikulovsko'
+region: Jihomoravský kraj
+location:
+  lat: 48.814695
+  lon: 16.58485
+built: '1938'
+state: neznamy
+description: "Lehký objekt vz. 37, typ A-140 Z — oboustranný kulometný (zesílený, čelní úhel 140°). Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
+sources:
+  - OpenStreetMap
+  - ropiky.net — Mikulovsko
+updated: '2026-04-19'

@@ -1,0 +1,15 @@
+title: "Řopík 6/19/B2-100 (Mikulovsko)"
+code: "6/19/B2-100"
+type: lo-vz-37
+line: 'Jižní Morava — Mikulovsko'
+region: Jihomoravský kraj
+location:
+  lat: 48.8003
+  lon: 16.66892
+built: '1938'
+state: neznamy
+description: "Lehký objekt vz. 37, typ B2-100 — jednostranný kulometný (čelní úhel 100°). Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
+sources:
+  - OpenStreetMap
+  - ropiky.net — Mikulovsko
+updated: '2026-04-19'

@@ -1,0 +1,15 @@
+title: "Řopík 4/113/1 (Mikulovsko)"
+code: "4/113/1"
+type: lo-vz-37
+line: 'Jižní Morava — Mikulovsko'
+region: Jihomoravský kraj
+location:
+  lat: 48.80528
+  lon: 16.6165
+built: '1938'
+state: neznamy
+description: "Lehký objekt vz. 37 — součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
+sources:
+  - OpenStreetMap
+  - ropiky.net — Mikulovsko
+updated: '2026-04-19'

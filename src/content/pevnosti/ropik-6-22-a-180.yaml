@@ -1,0 +1,15 @@
+title: "Řopík 6/22/A-180 (Mikulovsko)"
+code: "6/22/A-180"
+type: lo-vz-37
+line: 'Jižní Morava — Mikulovsko'
+region: Jihomoravský kraj
+location:
+  lat: 48.79017
+  lon: 16.6861
+built: '1938'
+state: neznamy
+description: "Lehký objekt vz. 37, typ A-180 — oboustranný kulometný (čelní úhel 180°). Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
+sources:
+  - OpenStreetMap
+  - ropiky.net — Mikulovsko
+updated: '2026-04-19'
