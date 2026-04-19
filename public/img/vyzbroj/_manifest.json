@@ -1,0 +1,55 @@
+{
+  "description": "Fotografie zbraní a pancéřových prvků čs. opevnění, použité na stránce /o-opevneni/vyzbroj.",
+  "source": "Wikimedia Commons",
+  "downloaded": "2026-04-19",
+  "files": [
+    {
+      "file": "lk-vz-26-csr-soldiers.jpg",
+      "title": "Českoslovenští vojáci s lehkým kulometem ZB vz. 26 (konec 30. let)",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:CSR_soldiers_ZB_vz_26.PNG",
+      "author": "anonymous",
+      "license": "Public Domain (EU 70-year rule, anonymous work)",
+      "caption": "Českoslovenští vojáci s lehkým kulometem ZB vz. 26 — nejrozšířenější automatickou zbraní ČSR v roce 1938 (34 000 ks ve výzbroji). Pozdní 30. léta."
+    },
+    {
+      "file": "fermont-kanon-a-tk.jpg",
+      "title": "Pevnost Fermont (Francie) — kořistní čs. 4 cm kanón vz. 36 a ZB vz. 37",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Fort_de_Fermont_and_its_museum_-Czech_fortification_SKODA_Vz_36_4.7cm_cannon_and_7.92mm_BRNO_Vz_37.JPG",
+      "author": "AlfvanBeem",
+      "license": "CC0 1.0 Public Domain Dedication",
+      "caption": "Ukořistěný čs. 4 cm pevnostní kanón vz. 36 (vlevo) a TK vz. 37 / ZB-53 (vpravo) v expozici Fort de Fermont (Maginotova linie, Francie). Typická sestava zbraně L1 — kanón a kulomet spřažené v jedné lafetě."
+    },
+    {
+      "file": "kanon-vz-36-muzeum.jpg",
+      "title": "4 cm kanón vz. 36 — expozice VHÚ Praha-Žižkov",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:4cm_kan%C3%B3n_vz._36.jpg",
+      "author": "Cyberpunx242",
+      "license": "CC BY-SA 3.0",
+      "caption": "4 cm pevnostní protitankový kanón vz. 36 — „kanón s koulí\" — v expozici Vojenského historického ústavu Praha-Žižkov."
+    },
+    {
+      "file": "rozsochac-normandie.jpg",
+      "title": "Rozsocháče („Tschechenigel\") na pláži Normandie, červen 1944",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Normandy_beach_obstacles_1944-06-09_2.jpg",
+      "author": "U.S. Coast Guard / US Government",
+      "license": "Public Domain (work of U.S. federal government, 17 U.S.C. § 105)",
+      "caption": "Rozsocháče („Czech hedgehog\", něm. „Tschechenigel\") jako překážky na pláži v Normandii, 9. června 1944. Wehrmacht po okupaci ČSR převzal Kašíkův čs. vynález z roku 1937 a masově ho nasadil na Atlantickém valu."
+    },
+    {
+      "file": "kopule-mo-s-19.jpg",
+      "title": "Pancéřová kopule JA/M pro dvojče TK vz. 37 — MO-S 19 Alej (Darkovičky)",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Kopule_srubu_MO-S_19.jpg",
+      "author": "Lasy (Wikimedia Commons)",
+      "license": "CC BY-SA 3.0",
+      "caption": "Pancéřová kopule JA/M pro dvojče těžkých kulometů vz. 37 na stropnici pěchotního srubu MO-S 19 „V aleji\" (Darkovičky, fortifikační komplex Hlučín) — jeden ze tří dochovaných exemplářů."
+    },
+    {
+      "file": "zvon-mo-s-19.jpg",
+      "title": "Pancéřový zvon na pěchotním srubu MO-S 19 (Darkovičky)",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Levy_zvon_MO-S_19.jpg",
+      "author": "Lasy (Wikimedia Commons)",
+      "license": "CC BY-SA 3.0",
+      "caption": "Levý pancéřový zvon na stropnici pěchotního srubu MO-S 19 „V aleji\" (Darkovičky). Zvony dodala Vítkovická huť, Škoda nebo Třinec — do 23. 9. 1938 bylo na fortifikační linii osazeno 383 z 390 dodaných kusů."
+    }
+  ]
+}

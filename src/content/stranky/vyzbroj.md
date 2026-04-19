@@ -11,6 +11,7 @@ sources:
   - "opevneni.eu/csop/vyzb.html — strukturální přehled výzbroje"
   - "Ropiky.net — Těžký kulomet ZB 53, Lehký kulomet ZB vz. 26"
   - "Delostrelectvocsarmady1918-1939.estranky.cz — Pevnostní děla (9cm minomet vz. 38, 10cm houfnice vz. 38)"
+  - "Wikimedia Commons — fotografie (licence CC0, CC BY-SA, PD); viz /public/img/vyzbroj/_manifest.json"
 ---
 
 Československé pevnostní objekty byly vybaveny **výhradně výzbrojí tuzemské produkce** — kulomety ze Zbrojovky Brno, pevnostním dělostřelectvem ze Škody Plzeň a pancéřovými prvky z Vítkovic, Škody a Třince. Tento přehled shrnuje kompletní sortiment zbraní, pancéřových komponent a překážkového systému ŘOP se stavy **ke září 1938**.
@@ -47,6 +48,8 @@ Konstruktér **Václav Holek** vyvinul ZB-26 v Zbrojovce Brno v letech 1924–19
 - Hmotnost zbraně **9,6 kg**
 
 **Nasazení v pevnostech:** Ke dni mobilizace 1938 bylo v armádě **34 000 kusů** — nejrozšířenější automatická zbraň ČSR. V řopících byl zpravidla druhou zbraní vedle TK vz. 37 (pro blízkou obranu a zálohu), v těžkém opevnění sloužil jako hlavní zbraň v **pancéřových zvonech AJ/N** a jako zbraň blízké obrany u vchodů, pozorovacích průzorů a týlových střílen.
+
+![Českoslovenští vojáci s lehkým kulometem ZB vz. 26 na manévrech (pozdní 30. léta, anonymní autor — public domain; zdroj Wikimedia Commons)](/img/vyzbroj/lk-vz-26-csr-soldiers.jpg)
 
 ### Těžký kulomet vz. 24
 
@@ -108,6 +111,10 @@ Varianta L1 umožňovala obsluze rychle **přepínat mezi zbraněmi podle cíle*
 **Nasazení v pevnostech:** K mobilizaci v září 1938 bylo **osazeno 222 kusů** ve střílnách pěchotních srubů + **6 kusů pro výcvik** v kasárnách. Zbývajících ~20 kusů bylo ve výrobě nebo ve skladech.
 
 **Ukradená legenda — kanón v Atlantickém valu.** Po okupaci převzal Wehrmacht kanón jako **4,7 cm PaK (t)** a postupně jej instaloval do **Západní linie (Siegfriedova)** a pak masivně do **Atlantického valu** na francouzském pobřeží. Podle německých konstruktérů šlo o „jeden z nejobávanějších kanónů v pobřežní obraně". Největší koncentrace byla na **Normandských ostrovech** v Lamanšském průlivu. Paradoxně se tak stalo, že zbraně vyrobené pro obranu Československa stály v září 1944 tváří v tvář spojeneckým výsadkům v Normandii.
+
+![4 cm pevnostní kanón vz. 36 v expozici VHÚ Praha-Žižkov (foto Cyberpunx242, CC BY-SA 3.0, Wikimedia Commons)](/img/vyzbroj/kanon-vz-36-muzeum.jpg)
+
+![Ukořistěný čs. 4 cm kanón vz. 36 (vlevo) a TK vz. 37 / ZB-53 (vpravo) v expozici Fort de Fermont (Maginotova linie, Francie) — typická sestava zbraně L1 (foto AlfvanBeem, CC0, Wikimedia Commons)](/img/vyzbroj/fermont-kanon-a-tk.jpg)
 
 ## Dělostřelectvo — to, co nezahřmělo
 
@@ -187,6 +194,10 @@ Výrobu pancéřových prvků zajišťovaly **tři firmy**:
 
 Každý zvon i kopule se vyráběly **ve více stupních odolnosti** (tloušťky pancíře, 15–25 cm) podle toho, kam byly nasazeny.
 
+![Pancéřová kopule JA/M pro dvojče těžkých kulometů vz. 37 na stropnici pěchotního srubu MO-S 19 „V aleji" (Darkovičky) — jeden ze tří dochovaných exemplářů tohoto typu (foto Lasy, CC BY-SA 3.0, Wikimedia Commons)](/img/vyzbroj/kopule-mo-s-19.jpg)
+
+![Pancéřový zvon na stropnici pěchotního srubu MO-S 19 „V aleji" (Darkovičky). Dodavatelem byla Vítkovická huť, Škoda nebo Třinec (foto Lasy, CC BY-SA 3.0, Wikimedia Commons)](/img/vyzbroj/zvon-mo-s-19.jpg)
+
 **Paradox dochovanosti:** Zajímavě se dochovalo **víc kopulí pro dvojče TK** (JA/M, 3 ks) **než pro sólo TK** (JA/D, 3 ks celkem včetně Slovenska) — přestože historicky bylo vyrobeno opačně víc kopulí sólových. Důvod leží v pozdějším osudu: sólové kopule byly systematičtěji demontovány Wehrmachtem (přehlednější konstrukce usnadňovala extrakci).
 
 ### Ztráty a zničení
@@ -217,6 +228,8 @@ Rozsocháč je **vynález majora Františka Kašíka** z druhé poloviny 30. let
 **„Český ježek v Normandii":** Nejbizarnější osud ze všech čs. pevnostních prvků. Wehrmacht ho po okupaci **ukořistil v obrovských počtech**, odvezl do Německa, otestoval a přijal do vlastní fortifikační doktríny. V Atlantickém valu se pak rozsocháč používal pod označením **„Tschechenigel"** (český ježek) a **Hemmbalkensperre** a Němci ho nasazovali zejména jako **pobřežní překážku** — vyskytuje se na historických fotografiích pláží **Omaha**, **Utah**, **Gold** i **Juno** z června 1944. Spojenecké inženýrské jednotky je musely před vyloděním **odstraňovat ručně nebo odstřelovat** (později i rámy před tanky Sherman).
 
 Název „Czech hedgehog" nebo „rozsocháč" se dnes ustálil jako **globální generický termín** pro tento typ překážky. V současnosti se rozsocháče znovu **vyrábějí pro Ukrajinu** (2022–2026) v řadě českých a slovenských fortifikačních společností — původní Kašíkův návrh z roku 1937 je po 90 letech opět aktuální technologie.
+
+![Rozsocháče („Tschechenigel", „Czech hedgehog") jako protitankové překážky na pláži v Normandii, 9. června 1944 — tři dny po vylodění. Wehrmacht masově nasadil Kašíkův čs. vynález na Atlantickém valu (foto U.S. Coast Guard, public domain, Wikimedia Commons)](/img/vyzbroj/rozsochac-normandie.jpg)
 
 ### Protipěchotní překážky
 
