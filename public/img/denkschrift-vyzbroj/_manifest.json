@@ -1,0 +1,40 @@
+{
+  "description": "Výkresy a schémata z německého Denkschriftu 'Die tschecho-slowakischen Landesbefestigungen' (1941, OKH/Generalstab des Heeres) — použité na stránce /o-opevneni/vyzbroj. Wehrmacht sepsal tento dokument po okupaci ČSR na základě studia dochovaných nákresů, získaných zpravodajských materiálů a fyzického průzkumu dobytých objektů.",
+  "source_document": "Denkschrift über die tschecho-slowakische Landesbefestigung (1941)",
+  "publisher_orig": "Oberkommando des Heeres / Generalstab",
+  "license_status": "Public domain — amtliches Werk podle § 5 UrhG (úřední dokument německých státních orgánů); alternativně EU 70-year rule (OKH jako instituce zanikla 1945)",
+  "hosting_source": "opevneni.eu/csop/vyzb.html (jako faksimile)",
+  "downloaded": "2026-04-19",
+  "files": [
+    {
+      "file": "denkschrift-lk26-zvon.jpg",
+      "original": "panc5.jpg",
+      "caption": "Denkschrift (1941) — montážní systém lehkého kulometu vz. 26 v pancéřovém zvonu AJ/N pro blízkou obranu. Nákres zachycuje upevnění zbraně, kyvný mechanismus a rozsah odměru ve zvonu."
+    },
+    {
+      "file": "denkschrift-panc-zvon-rez.jpg",
+      "original": "panc4.jpg",
+      "caption": "Denkschrift (1941) — podélný řez pancéřovým zvonem AJ/N pro LK vz. 26, zabetonovaným ve stropnici pěchotního objektu. Zobrazeno vnitřní uspořádání, průzory a uložení obsluhy."
+    },
+    {
+      "file": "denkschrift-strilna-l1.jpg",
+      "original": "to7.jpg",
+      "caption": "Denkschrift (1941) — detailní výkres střílny pro zbraň L1 (spřažení 4 cm kanónu vz. 36 a TK vz. 37) v pěchotním srubu. Střílna ukazuje pancéřovou desku, kanál uložení hlavní a způsob utěsnění zbraně."
+    },
+    {
+      "file": "denkschrift-tk-vz-37.jpg",
+      "original": "to-tk.jpg",
+      "caption": "Denkschrift (1941) — umístění těžkého kulometu vz. 37 ve střílně pěchotního srubu — sólo konfigurace (nahoře) a dvojče (dole). Vhled do originálního čs. fortifikačního řešení z pohledu německé strany."
+    },
+    {
+      "file": "denkschrift-9cm-minomet-1.jpg",
+      "original": "to8.jpg",
+      "caption": "Denkschrift (1941) — 9 cm pevnostní minomet vz. 38 (zbraň G) v projektované pozici. Pevný náměr 45°, regulace dostřelu změnou prachové náplně."
+    },
+    {
+      "file": "denkschrift-9cm-minomet-2.jpg",
+      "original": "to9.jpg",
+      "caption": "Denkschrift (1941) — doplňující nákres 9 cm minometu vz. 38 (G), detail pevného rámu a lůžka. K září 1938 byl ve výrobě pouze prototyp + 5 kusů, žádný nebyl osazen v pevnosti."
+    }
+  ]
+}

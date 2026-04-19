@@ -12,6 +12,7 @@ sources:
   - "Ropiky.net — Těžký kulomet ZB 53, Lehký kulomet ZB vz. 26"
   - "Delostrelectvocsarmady1918-1939.estranky.cz — Pevnostní děla (9cm minomet vz. 38, 10cm houfnice vz. 38)"
   - "Wikimedia Commons — fotografie (licence CC0, CC BY-SA, PD); viz /public/img/vyzbroj/_manifest.json"
+  - "Denkschrift über die tschecho-slowakische Landesbefestigung (1941, OKH) — výkresy zbraní a pancéřových prvků (amtliches Werk / public domain); viz /public/img/denkschrift-vyzbroj/_manifest.json"
 ---
 
 Československé pevnostní objekty byly vybaveny **výhradně výzbrojí tuzemské produkce** — kulomety ze Zbrojovky Brno, pevnostním dělostřelectvem ze Škody Plzeň a pancéřovými prvky z Vítkovic, Škody a Třince. Tento přehled shrnuje kompletní sortiment zbraní, pancéřových komponent a překážkového systému ŘOP se stavy **ke září 1938**.
@@ -51,6 +52,8 @@ Konstruktér **Václav Holek** vyvinul ZB-26 v Zbrojovce Brno v letech 1924–19
 
 ![Českoslovenští vojáci s lehkým kulometem ZB vz. 26 na manévrech (pozdní 30. léta, anonymní autor — public domain; zdroj Wikimedia Commons)](/img/vyzbroj/lk-vz-26-csr-soldiers.jpg)
 
+![Denkschrift 1941 — montážní systém lehkého kulometu vz. 26 v pancéřovém zvonu AJ/N pro blízkou obranu (public domain, amtliches Werk, OKH)](/img/denkschrift-vyzbroj/denkschrift-lk26-zvon.jpg)
+
 ### Těžký kulomet vz. 24
 
 Starší vodou chlazený kulomet, **technická slepá ulička**. Byl převzat z rakousko-uherské Schwarzlose vz. 7/24 a sloužil jako **přechodné řešení**, dokud nebyl dodán modernější vz. 37.
@@ -84,6 +87,8 @@ Nástupce vz. 24 a **hlavní těžká kulometná zbraň čs. opevnění**. Vývo
 
 Po okupaci převzal Wehrmacht ZB-53 pod označením **MG-37(t)** a použil ji na všech frontách druhé světové války.
 
+![Denkschrift 1941 — umístění těžkého kulometu vz. 37 ve střílně pěchotního srubu: sólo konfigurace a dvojče (public domain, amtliches Werk, OKH)](/img/denkschrift-vyzbroj/denkschrift-tk-vz-37.jpg)
+
 ## Protitanková výzbroj
 
 Čs. opevnění bylo jednou z **prvních pevnostních soustav v Evropě**, která systematicky počítala s protitankovou obranou. Hlavní zbraní byl 4cm kanón vz. 36 — konstrukčně i výrobně unikátní zbraň.
@@ -115,6 +120,8 @@ Varianta L1 umožňovala obsluze rychle **přepínat mezi zbraněmi podle cíle*
 ![4 cm pevnostní kanón vz. 36 v expozici VHÚ Praha-Žižkov (foto Cyberpunx242, CC BY-SA 3.0, Wikimedia Commons)](/img/vyzbroj/kanon-vz-36-muzeum.jpg)
 
 ![Ukořistěný čs. 4 cm kanón vz. 36 (vlevo) a TK vz. 37 / ZB-53 (vpravo) v expozici Fort de Fermont (Maginotova linie, Francie) — typická sestava zbraně L1 (foto AlfvanBeem, CC0, Wikimedia Commons)](/img/vyzbroj/fermont-kanon-a-tk.jpg)
+
+![Denkschrift 1941 — detailní výkres střílny pro zbraň L1 (spřažení 4 cm kanónu vz. 36 a TK vz. 37) v pěchotním srubu. Pancéřová deska, uložení hlavní a utěsnění (public domain, amtliches Werk, OKH)](/img/denkschrift-vyzbroj/denkschrift-strilna-l1.jpg)
 
 ## Dělostřelectvo — to, co nezahřmělo
 
@@ -159,6 +166,12 @@ Výsuvné a otočné věže jsou dodnes **symbolem nenaplněného potenciálu č
 
 **K září 1938 existoval pouze prototyp** + pět dalších kusů ve výrobní fázi. Žádný nebyl osazen v pevnosti a Škoda po Mnichovu výrobu dokončila pro Wehrmacht (pět exemplářů). Německá armáda provedla během války **palebné zkoušky ve zabraných čs. tvrzích** — dnes se nedochoval ani jeden originální exemplář.
 
+**Denkschrift dokumentace.** Protože se fyzické kusy 9cm minometu vz. 38 nedochovaly, jsou **nákresy z německého Denkschriftu (1941) prakticky jediným detailním obrazovým pramenem** o konstrukci této zbraně:
+
+![Denkschrift 1941 — 9 cm pevnostní minomet vz. 38 (zbraň G) v projektované pozici: pevný náměr 45°, regulace dostřelu změnou prachové náplně (public domain, amtliches Werk, OKH)](/img/denkschrift-vyzbroj/denkschrift-9cm-minomet-1.jpg)
+
+![Denkschrift 1941 — doplňující nákres 9 cm minometu vz. 38 (G), detail pevného rámu a lůžka (public domain, amtliches Werk, OKH)](/img/denkschrift-vyzbroj/denkschrift-9cm-minomet-2.jpg)
+
 ### 12 cm minomet a otočná kopule (nerealizováno)
 
 Projekt 12cm minometů v otočných pancéřových kopulích byl v průběhu roku 1937 **plně projektován**, ale v létě 1938 čs. velení schválilo **zásadní změnu konceptu** — místo dvojice minometů v klasické věži mělo být použito dvojčete nových 12cm minometů ve speciální **kopuli s otočnou střechou** (hybridní řešení mezi věží a kopulí).
@@ -197,6 +210,8 @@ Každý zvon i kopule se vyráběly **ve více stupních odolnosti** (tloušťky
 ![Pancéřová kopule JA/M pro dvojče těžkých kulometů vz. 37 na stropnici pěchotního srubu MO-S 19 „V aleji" (Darkovičky) — jeden ze tří dochovaných exemplářů tohoto typu (foto Lasy, CC BY-SA 3.0, Wikimedia Commons)](/img/vyzbroj/kopule-mo-s-19.jpg)
 
 ![Pancéřový zvon na stropnici pěchotního srubu MO-S 19 „V aleji" (Darkovičky). Dodavatelem byla Vítkovická huť, Škoda nebo Třinec (foto Lasy, CC BY-SA 3.0, Wikimedia Commons)](/img/vyzbroj/zvon-mo-s-19.jpg)
+
+![Denkschrift 1941 — podélný řez pancéřovým zvonem AJ/N pro LK vz. 26, zabetonovaným ve stropnici pěchotního objektu: vnitřní uspořádání, průzory, uložení obsluhy (public domain, amtliches Werk, OKH)](/img/denkschrift-vyzbroj/denkschrift-panc-zvon-rez.jpg)
 
 **Paradox dochovanosti:** Zajímavě se dochovalo **víc kopulí pro dvojče TK** (JA/M, 3 ks) **než pro sólo TK** (JA/D, 3 ks celkem včetně Slovenska) — přestože historicky bylo vyrobeno opačně víc kopulí sólových. Důvod leží v pozdějším osudu: sólové kopule byly systematičtěji demontovány Wehrmachtem (přehlednější konstrukce usnadňovala extrakci).
 
