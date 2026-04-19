@@ -85,15 +85,13 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
         </div>
 
         <div class="filter-group">
-          <span class="filter-label">Úsek:</span>
-          <button class="filter-btn is-active" data-filter="line" data-value="all">
-            Všechny
-          </button>
-          {lines.map((l) => (
-            <button class="filter-btn" data-filter="line" data-value={l}>
-              {l} ({countByLine(l)})
-            </button>
-          ))}
+          <label class="filter-label" for="line-select">Úsek:</label>
+          <select id="line-select" class="filter-select" data-filter="line">
+            <option value="all">Všechny úseky ({total})</option>
+            {lines.map((l) => (
+              <option value={l}>{l} ({countByLine(l)})</option>
+            ))}
+          </select>
         </div>
 
         <div class="filter-footer">
@@ -198,6 +196,37 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
       background: #7A3B2E;
       color: white;
       border-color: #7A3B2E;
+    }
+    .filter-select {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      padding: 6px 28px 6px 12px;
+      font-size: 0.8125rem;
+      font-family: inherit;
+      color: var(--ink);
+      cursor: pointer;
+      border-radius: 0;
+      min-width: 260px;
+      max-width: 100%;
+      appearance: none;
+      -webkit-appearance: none;
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path fill='%237A3B2E' d='M0 0l5 6 5-6z'/></svg>");
+      background-repeat: no-repeat;
+      background-position: right 10px center;
+    }
+    .filter-select:hover {
+      border-color: #7A3B2E;
+    }
+    .filter-select:focus {
+      outline: none;
+      border-color: #7A3B2E;
+      box-shadow: 0 0 0 2px rgba(122, 59, 46, 0.15);
+    }
+    .filter-select.is-filtered {
+      background-color: #7A3B2E;
+      color: white;
+      border-color: #7A3B2E;
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path fill='white' d='M0 0l5 6 5-6z'/></svg>");
     }
     .filter-footer {
       display: flex;
@@ -345,6 +374,7 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
     let currentPage = 1;
 
     const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+    const lineSelect = document.getElementById('line-select') as HTMLSelectElement | null;
     const items = Array.from(document.querySelectorAll<HTMLElement>('#fort-grid .fort-grid-item'));
     const counterEl = document.getElementById('visible-count');
     const noResultsEl = document.getElementById('no-results');
@@ -465,6 +495,15 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
       });
     });
 
+    lineSelect?.addEventListener('change', () => {
+      const filter = lineSelect.dataset.filter!;
+      const value = lineSelect.value;
+      filterState[filter] = value;
+      lineSelect.classList.toggle('is-filtered', value !== 'all');
+      currentPage = 1;
+      render();
+    });
+
     function resetAll() {
       (['type', 'state', 'line'] as const).forEach((f) => {
         filterState[f] = 'all';
@@ -472,6 +511,10 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
       buttons.forEach((b) => {
         b.classList.toggle('is-active', b.dataset.value === 'all');
       });
+      if (lineSelect) {
+        lineSelect.value = 'all';
+        lineSelect.classList.remove('is-filtered');
+      }
       currentPage = 1;
       render();
     }
