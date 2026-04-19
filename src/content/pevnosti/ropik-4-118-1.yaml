@@ -1,14 +1,14 @@
-title: "Řopík 4/118/1 (Mikulovsko)"
+title: "LO vz. 36 4/118/1 (Mikulovsko)"
 code: "4/118/1"
-type: lo-vz-37
+type: lo-vz-36
 line: 'Jižní Morava — Mikulovsko'
 region: Jihomoravský kraj
 location:
   lat: 48.8151623
   lon: 16.6398831
-built: '1938'
+built: "1936-1937"
 state: neznamy
-description: "Lehký objekt vz. 37 — součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
+description: "Lehký objekt vz. 36 — starší koncepce s čelní palbou. Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované v letech 1936—1937 pro ochranu rakouské hranice před Anschlussem. V září 1938 obsazen posádkou, po Mnichovu předán Německu a často použit jako cíl zkušební střelby."
 sources:
   - OpenStreetMap
   - ropiky.net — Mikulovsko

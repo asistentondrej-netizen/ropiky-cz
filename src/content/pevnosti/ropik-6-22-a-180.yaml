@@ -6,9 +6,9 @@ region: Jihomoravský kraj
 location:
   lat: 48.79017
   lon: 16.6861
-built: '1938'
+built: "1938"
 state: neznamy
-description: "Lehký objekt vz. 37, typ A-180 — oboustranný kulometný (čelní úhel 180°). Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
+description: "Lehký objekt vz. 37 („řopík“), typ A-180 — oboustranný kulometný (čelní úhel 180°). Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
 sources:
   - OpenStreetMap
   - ropiky.net — Mikulovsko
