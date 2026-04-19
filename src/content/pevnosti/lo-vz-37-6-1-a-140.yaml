@@ -1,0 +1,33 @@
+title: Řopík 6/1/A-140 — Rybniční zámeček
+code: 6/1/A-140
+type: lo-vz-37
+line: Lednicko — Lednicko-valtický areál (UNESCO)
+region: Jihomoravský kraj
+location:
+  lat: 48.798145
+  lon: 16.627875
+  address: Severní okraj Lednice, poblíž Rybničního zámečku (UNESCO Lednicko-valtický areál)
+built: '1938'
+state: pristupny
+description: LO vz. 37 typ A-140, součást úsek 6 — Lednicko na jižní Moravě. Objekt leží severně od Lednice v krajině UNESCO Lednicko-valtického areálu, poblíž Rybničního zámečku — barokního salletu z poloviny 19. století. Dohledatelné v databázi ropiky.net (ID 1105625139) a v OSM.
+history: |
+  Betonován v roce 1938 jako součást jižní linie lehkého opevnění vz. 37 — úsek 6 — Lednicko. Dva kulomety ZB vz. 26, směrové střílny pro kosou palbu. III. třída odolnosti proti 150mm dělostřelectvu. Čelní stěna 80 cm, III. třída odolnosti (zesílený).
+
+  V září 1938 zařazen do obranného plánu proti hrozbě útoku z rakouského území (po Anschlussu v březnu 1938). Během všeobecné mobilizace 23.–30. září 1938 obsazen pohotovostní jednotkou se základní výzbrojí.
+
+  Po Mnichovské dohodě a záboru pohraničí opuštěn a předán Wehrmachtu. Němci využili část linie k testům protipevnostní munice; v letech 1939–40 odvezeny kovové prvky (dveře, mříže). Po válce objekt zůstal v krajině bez systematické péče.
+visit: |
+  **Přístup:** volně přístupný, 24/7.
+
+  **Lokace:** Objekt leží severně od Lednice v krajině UNESCO Lednicko-valtického areálu, poblíž Rybničního zámečku — barokního salletu z poloviny 19. století. Pěšky ze zámku Lednice (cca 1,5 km na sever), na kole po Moravské vinařské stezce.
+
+  **Co uvidíte:** LO vz. 37 typ A-140, dvě boční střílny. Interiér pravděpodobně neprůchodný (vchod zabetonovaný nebo zborcený).
+
+  **Doporučená délka:** 15–20 minut u objektu; jako součást většího výletu po linii 2–4 hodiny.
+
+  **Doporučeno kombinovat s:** zámkem Lednice, Rybničním zámečkem, Apollonovým chrámem, minaretem.
+photos: []
+sources:
+  - OpenStreetMap — military=bunker (OSM node)
+  - 'ropiky.net — ID 1105625139: https://ropiky.net/dbase_objekt.php?id=1105625139'
+updated: '2026-04-19'

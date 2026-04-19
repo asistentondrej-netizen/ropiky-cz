@@ -1,0 +1,33 @@
+title: Řopík 10/4180/A-160 — Svatý kopeček
+code: 10/4180/A-160
+type: lo-vz-37
+line: Mikulovsko — Pavlovské vrchy
+region: Jihomoravský kraj
+location:
+  lat: 48.755507
+  lon: 16.829257
+  address: Východní okraj Mikulova, pod Svatým kopečkem s křížovou cestou
+built: '1938'
+state: zachovaly
+description: LO vz. 37 typ A-160, součást úsek 10 — Pálava / Mikulov na jižní Moravě. Objekt leží východně od Mikulova, jižně od Svatého kopečku s poutní kapli sv. Šebestiána a barokní křížovou cestou. Dohledatelné v databázi ropiky.net (ID 1158564964) a v OSM.
+history: |
+  Betonován v roce 1938 jako součást jižní linie lehkého opevnění vz. 37 — úsek 10 — Pálava / Mikulov. Dva kulomety ZB vz. 26, směrové střílny. Zesílený typ A-160 s 80cm čelní stěnou — standardní hlavní typ v linii. Čelní stěna 80 cm, III. třída odolnosti.
+
+  V září 1938 zařazen do obranného plánu proti hrozbě útoku z rakouského území (po Anschlussu v březnu 1938). Během všeobecné mobilizace 23.–30. září 1938 obsazen pohotovostní jednotkou se základní výzbrojí.
+
+  Po Mnichovské dohodě a záboru pohraničí opuštěn a předán Wehrmachtu. Němci využili část linie k testům protipevnostní munice; v letech 1939–40 odvezeny kovové prvky (dveře, mříže). Po válce objekt zůstal v krajině bez systematické péče.
+visit: |
+  **Přístup:** částečně zachovalý (zřícenina) — přístup volný, zvyšte opatrnost.
+
+  **Lokace:** Objekt leží východně od Mikulova, jižně od Svatého kopečku s poutní kapli sv. Šebestiána a barokní křížovou cestou. Pěšky z Mikulova přes Svatý kopeček (cca 20 min), na kole po značených trasách.
+
+  **Co uvidíte:** LO vz. 37 typ A-160, dvě boční střílny. Interiér pravděpodobně neprůchodný (vchod zabetonovaný nebo zborcený).
+
+  **Doporučená délka:** 15–20 minut u objektu; jako součást většího výletu po linii 2–4 hodiny.
+
+  **Doporučeno kombinovat s:** Svatým kopečkem, zámkem Mikulov, židovským hřbitovem, rezervací Turold.
+photos: []
+sources:
+  - OpenStreetMap — military=bunker (OSM node)
+  - 'ropiky.net — ID 1158564964: https://ropiky.net/dbase_objekt.php?id=1158564964'
+updated: '2026-04-19'
