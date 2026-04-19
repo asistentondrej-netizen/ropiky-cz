@@ -2,7 +2,7 @@
 title: "Pěchotní srub"
 code: "Pěch. srub (TO)"
 category: "tezke"
-description: "Páteřní těžký pevnostní objekt s 20–40člennou posádkou, pancéřovými zvony a kulomety, protitankovými kanóny a minomety. Stěny až 3,5 metru silné."
+description: "Páteřní těžký pevnostní objekt s 20–40člennou posádkou, pancéřovými zvony a kulomety, protitankovými kanóny a minomety. Stěny až 3,5 metru silné. Izolovaně i jako součást tvrze."
 period: "1935–1938"
 builtCount: 263
 armament:
@@ -11,9 +11,11 @@ armament:
   - "Minomety ráže 9 cm (vz. 38)"
   - "Lehké kulomety vz. 26, granáty, svítící rakety"
 order: 30
-updated: 2026-04-18
+updated: 2026-04-19
 sources:
   - "Wikipedia — Pěchotní srub"
+  - "Ladislav Pytlík: Československé opevnění 1935–1938, díl II"
+  - "Jaroslav Láník: Opevnění v československé obraně"
   - "ropiky.net"
   - "fortifikace.cz"
   - "Vojenský historický ústav"
@@ -105,6 +107,41 @@ Pěchotní sruby nejsou jednotným typem — byla vyvinuta celá **rodina varian
 - **Dělostřelecké** (nesoucí dělostřeleckou výzbroj tvrze, viz [tvrz](/typologie/delostrelecka-tvrz))
 - **Vchodové** (vchod do tvrze, s rampou pro vozidla)
 
+## Izolované vs. tvrzové nasazení
+
+**Izolovaný pěchotní srub** a **tvrzový pěchotní srub** nejsou odlišné stavební typy — jde o **stejnou konstrukci v odlišném taktickém nasazení**. Z celkových **~263 dokončených pěchotních srubů** bylo cca **227 izolovaných** (samostatně stojících v linii nebo v krajině) a **~36 tvrzových** (propojených podzemím do komplexu dělostřelecké tvrze). Starší literatura proto někdy uvádí „izolovaný těžký objekt" jako samostatnou kategorii — z pohledu stavební typologie je to ale **forma rozmístění**, ne jiný druh stavby.
+
+![Srovnávací schéma čtyř izolovaných TO — MJ-S 4, MO-S 8, B-S 8 a T-S 19 s parametry odolnosti, osádky a výzbroje](/img/typologie/schema-izolovany-to.svg)
+
+### Izolovaný srub — „pevnost na kole"
+
+Izolovaný srub nemá souseda, který by pomáhal palbou — musí zvládat obranu **samostatně**. Vybíraly se pro něj body, které musely být bráněny **stůj co stůj**, bez ohledu na hustotu linie: dopravní uzly, přechody řek, horská sedla a vjezdy do větších měst (Bratislava, Ostrava, Brno, Nitra). Oproti srubu v souvislé linii měl zpravidla:
+
+- **Silnější posádku** (35–48 mužů proti 22–38)
+- **Více pancéřových zvonů** (3–4 včetně palebných proti 1–2)
+- **Delší autonomii** — zásoby munice a potravin na 21–30 dní (proti ~14 dnům v linii)
+- **Povinnou vlastní studnu** (u srubů v linii volitelná)
+- **Silnější agregát** (45 kW proti 25 kW)
+- **Palebné pole blíže k 360°** — 2× TK do hlavního směru, 1× TK do protisměru, 2–3 palební zvony na vrchol
+
+Důvod rozdílu je prostý: izolovaný srub musí vydržet obléhání **tři až čtyři týdny**, než přijde protiútok. Srub v linii stačí na **dva týdny** — pokud by padl, sousední objekty ho podepřou.
+
+### Tvrzový srub
+
+Tvrzový pěchotní srub je součástí **komplexu dělostřelecké tvrze** — propojený podzemím s ostatními objekty, sdílející centrální zázemí (strojovnu, kasárna, sklady). Samotný srub je proto zpravidla **menší na zázemí, ale mohutnější v pancéřování a výzbroji** — nejčastěji odolnost III. nebo IV. stupně. Detailně viz [dělostřelecká tvrz](/typologie/delostrelecka-tvrz).
+
+### Nejvýznamnější izolované pěchotní sruby
+
+- **MJ-S 4 „Předsunutý zvon"** (Slavonice) — jediný **IV. stupeň odolnosti** v ČSR, stěny 3,5 m, plánovaný klíčový bod jihomoravské hranice. Detail viz dále v sekci [Nejznámější pěchotní sruby](#nejznámější-pěchotní-sruby--s-příběhem).
+- **MO-S 8 „Dvůr Paseky"** (Hlučín-Darkovičky) — jeden ze dvou dokončených **dělostřeleckých izolovaných objektů** v ČSR, chránil jižní vjezd do Ostravské aglomerace.
+- **B-S 8 „Hřbitov"** (Bratislava-Petržalka) — izolovaný TO na linii Dunaje, chránil jižní vjezd do Bratislavy od maďarské hranice, robustní pancéřování kvůli dostřelu maďarských děl.
+- **T-S 19 „Turov"** (Hronov, Orlické hory) — hřebenový izolovaný TO, strategická kontrola údolí Metuje a přechodů do Kladska. Dnes **ve zcela původním stavu** jako expozice Muzea Hronov.
+- **OP-S 25 „Památník"** (Opava, Milostovice) — klíčový izolovaný TO na severní hranici opavského úseku, dnes veřejný památník Slezského muzea.
+
+### Evropské protějšky
+
+Izolované pěchotní sruby mají mezinárodní ekvivalenty: francouzské *ouvrage isolée* na linii Maginot, belgický *fortin isolé* na Meuse a Schelde, polský *schron dowodzenia* v oblasti Gdyně. Československá verze se liší **standardizací** — používala stejná základní schémata jako sruby v linii, jen zesílená a rozšířená, zatímco francouzský *ouvrage isolée* byl téměř vždy unikátní návrh. To usnadňovalo sériovou výrobu.
+
 ## Posádka — organizace a život
 
 Posádka pěchotního srubu (20–40 mužů podle typu) tvořila autonomní bojovou jednotku. Typické složení:
@@ -123,7 +160,7 @@ Posádka se střídala ve **3 směnách po 8 hodinách**. Cvičení probíhalo m
 
 ## Výstavba a stav
 
-Do Mnichova bylo stavebně dokončeno **227 pěchotních srubů** z plánovaných 1 276 (některé zdroje uvádí 263 objektů včetně rozestavěných). Naprostá většina se nachází v pohraničních oblastech severovýchodních Čech, severní Moravy a Slezska — jmenovitě v úsecích:
+Do Mnichova bylo stavebně dokončeno **~263 pěchotních srubů** z plánovaných 1 276 — z toho cca **227 izolovaných** v liniích a krajině a **~36 tvrzových** jako součást dělostřeleckých tvrzí. Drobné rozdíly mezi zdroji (262–263) vznikají podle toho, zda se za „dokončený" počítá objekt stavebně hotový, nebo objekt včetně osazení pancéřových prvků. Naprostá většina se nachází v pohraničních oblastech severovýchodních Čech, severní Moravy a Slezska — jmenovitě v úsecích:
 
 | Úsek | Lokalita | Počet srubů |
 |---|---|---|
