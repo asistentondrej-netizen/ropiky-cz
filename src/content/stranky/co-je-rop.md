@@ -2,12 +2,15 @@
 title: "Co je ŘOP — československé opevnění 1935–1938"
 description: "Ředitelství opevňovacích prací (ŘOP) řídilo v letech 1935–1938 výstavbu jednoho z největších evropských obranných systémů. Přehled, čísla, kontext."
 order: 1
-updated: 2026-04-18
+updated: 2026-04-19
 sources:
   - "Wikipedia — Československé opevnění (cs.wikipedia.org)"
+  - "Wikipedia — Ředitelství opevňovacích prací"
   - "armada.vojenstvi.cz — Československé stálé opevnění"
   - "fortifikace.cz"
   - "opevneni.cz"
+  - "Stehlík, E.: Lexikon těžkých objektů čs. opevnění (FORTprint 2010)"
+  - "Ráboň, M.; Gregar, O.; Kachlík, B.: Val na obranu republiky (2005)"
 ---
 
 **Ředitelství opevňovacích prací** (zkráceně **ŘOP**) byl vojenský útvar zřízený 20. března 1935 pod Ministerstvem národní obrany Československé republiky. Jeho úkolem bylo v krátkém čase vybudovat systém pevnostní obrany proti rostoucí hrozbě ze strany nacistického Německa. Generál **Karel Husárek** jako přednosta ŘOP řídil projekt, který v průběhu tří a půl roku změnil tvář československého pohraničí.
@@ -21,6 +24,33 @@ Lidové označení **„řopík"** — dnes používané pro lehké pevnostní o
 V plánu bylo vybudovat **1 276 objektů těžkého opevnění** a **15 463 objektů lehkého opevnění**. Do září 1938, kdy byla výstavba přerušena Mnichovskou dohodou, se podařilo realizovat zhruba 263 těžkých objektů a přibližně 10 000 lehkých objektů — tedy sice méně, než plán předpokládal, ale stále monumentální dílo v evropském měřítku.
 
 > V zahraniční literatuře je systém někdy nazýván **Benešovou linií** — analogicky k francouzské Maginotově linii, jejíž principy ŘOP studoval a adaptoval na středoevropské podmínky.
+
+## Organizace a řídící struktura
+
+Rozhodnutí o výstavbě opevnění padlo **21. července 1934**. Následující podzim zahájil Hlavní štáb první terénní průzkum úseků. **20. března 1935** byly formálně zřízeny dva orgány:
+
+- **Rada pro opevňování** — nejvyšší strategický orgán v čele s náčelníkem Hlavního štábu armádním generálem **Ludvíkem Krejčím**. Stálými poradci byli generálové František Nosál a František Havel.
+- **Ředitelství opevňovacích prací (ŘOP)** — výkonný útvar pod MNO, v jehož čele stanul **generál Karel Husárek**.
+
+**18. dubna 1935** vzniklá **první dvě ženijní skupinová velitelství (ŽSV)** — v **Starém Městě pod Sněžníkem** (pro úsek Králíky) a v **Bohumíně** (pro úsek Moravská Ostrava). Během následujících měsíců přibyla další — Opava, Trutnov, Náchod, Rokytnice v Orlických horách, Liberec a Krkonoše. Jejich zkratky se staly součástí označení srubů (K-S, MO-S, OP-S atd.).
+
+## Tři programy opevňování
+
+Systém se rozvíjel ve třech postupně rozšiřujících se programech:
+
+### 1. program (12. prosince 1935)
+
+Dvousledové těžké opevnění pouze na **severní hranici mezi Odrou a Labem** — proti nacistickému Německu. Priorita: nejkritičtější úsek. Do tohoto programu spadá první betonovaný objekt **MO-S 8 „Dvůr Paseky"** (prosinec 1935).
+
+### 2. program (5. června 1936)
+
+Rozšíření těžkého opevnění **po celém obvodu hranic** — tedy také proti Maďarsku (jižní Morava, Slovensko) a Polsku (Těšínsko). Program reagoval na postupující destabilizaci střední Evropy.
+
+### 3. program (9. listopadu 1937)
+
+Pod vedením gen. Husárka vyhlášen finální program se zásadním rozšířením **lehkého opevnění vzor 37 (řopíků)** po celé délce hranic a do **vnitrozemských příček**. Stanoven cíl **1 276 těžkých a 15 463 lehkých objektů** s rozpočtem **10,9 miliardy korun**. Do Mnichova (září 1938) bylo investováno zhruba **jednu pětinu** plánovaného rozpočtu.
+
+*Podrobná chronologie v článku [Chronologie ŘOP 1935–1938](/clanky/chronologie-rop-1935-1938).*
 
 ## Dvě hlavní kategorie objektů
 
@@ -78,3 +108,13 @@ Dnes je to fenomén, který spojuje:
 - **Krajinu** — zejména v severní Moravě, Orlických horách a jižní Moravě je opevnění organickou součástí turistické krajiny
 
 Tento web slouží jako **moderní referenční zdroj** pro všechny, kdo se o téma zajímají — ať už jako historici, návštěvníci, nebo jen lidé procházející kolem ropíku v lese a ptající se: *„Co to vlastně je?"*
+
+## Další témata
+
+- [Chronologie ŘOP 1935–1938](/clanky/chronologie-rop-1935-1938) — měsíc po měsíci s klíčovými daty
+- [Sedm mýtů o čs. opevnění](/clanky/myty-o-ceskoslovenskem-opevneni) — co je pravda a co legenda
+- [Památková ochrana opevnění dnes](/clanky/pamatkova-ochrana-opevneni-dnes) — muzea, zákony, rizika
+- [Historie a politický kontext](/o-opevneni/historie-a-politicky-kontext) — jak vznikl ŘOP
+- [Mnichov 1938 a osud opevnění](/o-opevneni/mnichov-a-osud-opevneni)
+- [Výzbroj čs. opevnění](/o-opevneni/vyzbroj)
+- [Fortifikační linie](/o-opevneni/fortifikacni-linie) — geografický přehled
