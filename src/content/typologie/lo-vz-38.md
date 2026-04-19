@@ -18,13 +18,15 @@ sources:
 
 **LO vz. 38** — lidově nazývaný **„Turecká věž"** pro svou kruhovou konstrukci připomínající minaret — byl nejambicióznějším experimentem lehkého opevnění ČSR. Objekt kombinoval princip lehkého železobetonového objektu s rotační pancéřovou věží, umožňující 360° palbu — vlastnost jinak charakteristická pro těžké objekty.
 
-![Řopík LO vz. 37 u Hnanic — ilustrace hlavního typu lehkého opevnění, z něhož měl LO vz. 38 vycházet s přidanou otočnou věží](/img/typologie/lo-vz-38-context-lo37.jpg)
+![Půdorys LO vz. 38 — kruhový objekt s centrální otočnou pancéřovou věží pro 2× TK vz. 37 a pomocnou boční střílnou](/img/typologie/pudorys-lo-vz-38.svg)
 
 ## Koncepce a motivace
 
 Klasické řopíky vz. 37 trpěly jedním zásadním omezením: pálily pouze do úzkého kužele (běžně 30–60°) směrem ke straně, nikdy dopředu. Celé linie byly proto tvořené kříženě pálícími objekty — pokud selhal jeden, narušila se celá obrana úseku.
 
 LO vz. 38 měl tuto slabinu odstranit. **Otočná pancéřová věž** s dvojicí těžkých kulometů vz. 37 mohla reagovat na hrozbu z libovolného směru bez nutnosti dalších objektů v dohledu. Jeden „turek" by teoreticky zastoupil 3–4 běžné řopíky.
+
+![Srovnání palebných sektorů — tři řopíky vz. 37 s úzkým bočním kuželem vs. jeden LO vz. 38 s 360° pokrytím](/img/typologie/schema-palba-lo-vz-38.svg)
 
 Zároveň měl objekt zvýšit psychologický účinek na útočníka: zatímco řopík je nízký, málo viditelný betonový kvádr, LO vz. 38 byl **vyšší, kruhový, s jasně viditelnou pancéřovou věží** — vizuální „strážní věž" moderní podoby.
 
@@ -36,6 +38,8 @@ Zároveň měl objekt zvýšit psychologický účinek na útočníka: zatímco 
 - **Tloušťka stěn:** 100–150 cm (II. stupeň odolnosti)
 - **Osádka:** 5 mužů
 - **Posádkové vybavení:** ubikace, munice, filtroventilace — jednodušší než u pěchotního srubu
+
+![Svislý řez LO vz. 38 — věž, rotační mechanismus, bojové patro a ubikace](/img/typologie/rez-lo-vz-38.svg)
 
 Věž byla konstruována podobně jako francouzské *cloche GFM* z linie Maginot, ale v otočné verzi. Pohon — manuální přes kliku s převodem, plné otočení trvalo cca 30 sekund.
 

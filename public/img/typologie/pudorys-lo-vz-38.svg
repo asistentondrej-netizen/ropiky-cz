@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="Georgia, serif" font-size="12">
+  <style>
+    .bg { fill: #F4EFE6; }
+    .wall { fill: #5A4632; stroke: #2A2522; stroke-width: 2; }
+    .inner { fill: #F4EFE6; stroke: #5A4632; stroke-width: 1; }
+    .room { fill: #F4EFE6; stroke: #8B5A3C; stroke-width: 0.8; }
+    .armor { fill: #2A2522; stroke: #000; stroke-width: 1; }
+    .turret { fill: #4A3A2C; stroke: #1A1510; stroke-width: 2; }
+    .turret-inner { fill: #6B5640; stroke: #2A2522; stroke-width: 1; }
+    .streilna { fill: #2A2522; }
+    .label { fill: #2A2522; font-size: 11px; }
+    .roomlabel { fill: #3E2A1F; font-size: 10px; }
+    .whitelabel { fill: #F4EFE6; font-size: 10px; font-weight: bold; }
+    .title { fill: #3E2A1F; font-size: 16px; font-weight: bold; }
+    .dim { fill: #5A6B4F; font-size: 10px; font-style: italic; }
+    .arrow { stroke: #7A3B2E; stroke-width: 1.5; fill: none; marker-end: url(#ar38); }
+    .rot { stroke: #7A3B2E; stroke-width: 1.5; fill: none; stroke-dasharray: 3,3; }
+    .callout { fill: #7A3B2E; font-size: 11px; font-weight: bold; }
+  </style>
+  <defs>
+    <marker id="ar38" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7A3B2E"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="800" height="520"/>
+  <text class="title" x="20" y="28">LO vz. 38 „Turecká věž" — půdorys prototypu</text>
+  <text class="dim" x="20" y="46">Kruhový železobetonový objekt s otočnou pancéřovou věží · průměr stěny ~8 m · osádka 5 mužů</text>
+  <text class="dim" x="20" y="62">II. stupeň odolnosti · stěny 100–150 cm · pohon věže manuální (plné otočení ~30 s)</text>
+
+  <!-- Kruhová stěna objektu -->
+  <circle class="wall" cx="320" cy="300" r="170"/>
+  <circle class="inner" cx="320" cy="300" r="145"/>
+
+  <!-- Vnitřní rozdělení -->
+  <!-- Střední šachta pro věž -->
+  <circle class="turret" cx="320" cy="300" r="65"/>
+  <circle class="turret-inner" cx="320" cy="300" r="48"/>
+
+  <!-- Dva kulomety v pancéřové věži (znázorněny jako hlavně) -->
+  <rect class="armor" x="316" y="225" width="8" height="40" transform="rotate(15 320 245)"/>
+  <rect class="armor" x="316" y="225" width="8" height="40" transform="rotate(-15 320 245)"/>
+  <text class="whitelabel" x="300" y="303">Otočná</text>
+  <text class="whitelabel" x="303" y="316">věž</text>
+  <text class="whitelabel" x="305" y="329">2× TK</text>
+
+  <!-- Rotační šipky kolem věže -->
+  <path class="rot" d="M 320 220 A 80 80 0 0 1 400 300"/>
+  <path class="rot" d="M 320 380 A 80 80 0 0 1 240 300"/>
+  <text class="callout" x="380" y="235">360° rotace</text>
+
+  <!-- Boční místnosti -->
+  <!-- Severní – munice -->
+  <path class="room" d="M 280 170 L 360 170 A 145 145 0 0 1 400 195 L 380 235 A 65 65 0 0 0 260 235 L 240 195 A 145 145 0 0 1 280 170 Z"/>
+  <text class="roomlabel" x="285" y="200">Zásoba munice</text>
+  <text class="roomlabel" x="302" y="215">a filtroventilace</text>
+
+  <!-- Jižní – ubikace + vstup -->
+  <path class="room" d="M 280 430 L 360 430 A 145 145 0 0 0 400 405 L 380 365 A 65 65 0 0 1 260 365 L 240 405 A 145 145 0 0 0 280 430 Z"/>
+  <text class="roomlabel" x="283" y="395">Ubikace posádky</text>
+  <text class="roomlabel" x="296" y="410">(5 mužů)</text>
+
+  <!-- Východní – pomocná střílna -->
+  <path class="room" d="M 450 260 L 465 300 L 450 340 A 65 65 0 0 0 390 300 A 65 65 0 0 0 450 260 Z" fill="#F4EFE6" stroke="#8B5A3C"/>
+  <text class="roomlabel" x="397" y="297">Pomocná</text>
+  <text class="roomlabel" x="400" y="310">střílna LK</text>
+
+  <!-- Západní – vstupní chodba -->
+  <path class="room" d="M 190 260 L 175 300 L 190 340 A 65 65 0 0 1 250 300 A 65 65 0 0 1 190 260 Z" fill="#F4EFE6" stroke="#8B5A3C"/>
+  <text class="roomlabel" x="188" y="297">Vstupní</text>
+  <text class="roomlabel" x="192" y="310">chodba</text>
+
+  <!-- Boční střílna LK vz. 26 – na východní straně -->
+  <rect class="streilna" x="488" y="296" width="12" height="8"/>
+  <path class="arrow" d="M 500 300 L 560 280"/>
+  <path class="arrow" d="M 500 300 L 560 320"/>
+  <text class="callout" x="505" y="275">LK vz. 26</text>
+  <text class="label" x="505" y="340">(pomocné krytí)</text>
+
+  <!-- Vstup / kaponiéra -->
+  <rect class="wall" x="140" y="285" width="35" height="30"/>
+  <text class="label" x="120" y="340">Vstup</text>
+  <text class="label" x="125" y="353">(pancéř.</text>
+  <text class="label" x="128" y="366">dveře)</text>
+
+  <!-- Rozměrové kóty -->
+  <line x1="150" y1="480" x2="490" y2="480" stroke="#5A6B4F" stroke-width="0.6"/>
+  <line x1="150" y1="476" x2="150" y2="484" stroke="#5A6B4F" stroke-width="0.6"/>
+  <line x1="490" y1="476" x2="490" y2="484" stroke="#5A6B4F" stroke-width="0.6"/>
+  <text class="dim" x="300" y="497">~ 8 m (vnější průměr)</text>
+
+  <!-- Legenda -->
+  <g transform="translate(570, 110)">
+    <text class="title" x="0" y="0" font-size="13">Hlavní prvky:</text>
+
+    <circle cx="12" cy="22" r="10" class="turret"/>
+    <text class="label" x="30" y="26">pancéřová otočná věž</text>
+
+    <rect x="2" y="38" width="20" height="14" class="wall"/>
+    <text class="label" x="30" y="50">ŽB stěna 1,00–1,50 m</text>
+
+    <rect x="2" y="60" width="20" height="14" class="room"/>
+    <text class="label" x="30" y="72">vnitřní prostory</text>
+
+    <rect x="8" y="82" width="8" height="14" class="streilna"/>
+    <text class="label" x="30" y="94">boční střílna LK</text>
+
+    <line x1="2" y1="112" x2="22" y2="112" stroke="#7A3B2E" stroke-width="1.5" marker-end="url(#ar38)"/>
+    <text class="label" x="30" y="116">palebný směr</text>
+
+    <line x1="2" y1="132" x2="22" y2="132" stroke="#7A3B2E" stroke-width="1.5" stroke-dasharray="3,3"/>
+    <text class="label" x="30" y="136">rotace věže</text>
+  </g>
+
+  <!-- Srovnání s řopíkem -->
+  <g transform="translate(570, 290)">
+    <text class="title" x="0" y="0" font-size="13">Srovnání s LO vz. 37:</text>
+    <text class="label" x="0" y="20">řopík: 30–60° boční kužel</text>
+    <text class="label" x="0" y="36">turek: 360° plný kruh</text>
+    <text class="label" x="0" y="52">1 turek ≈ 3–4 řopíky</text>
+    <text class="dim" x="0" y="72">(dle projektovaných plánů GŠ)</text>
+  </g>
+
+  <!-- Stav výstavby -->
+  <g transform="translate(570, 400)">
+    <text class="title" x="0" y="0" font-size="13">Stav (1938):</text>
+    <text class="label" x="0" y="20">postaveno: 2 prototypy</text>
+    <text class="label" x="0" y="36">plánováno: 150–200 ks</text>
+    <text class="callout" x="0" y="56">zmařeno Mnichovem</text>
+  </g>
+</svg>

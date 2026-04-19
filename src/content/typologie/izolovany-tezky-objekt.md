@@ -21,6 +21,8 @@ sources:
 
 ![MJ-S 4 „Předsunutý zvon" u Chvalovic — jediný objekt IV. stupně odolnosti v ČSR, nejmohutnější izolovaný TO](/img/typologie/izol-mj-s-4.jpg)
 
+![Srovnávací schéma čtyř izolovaných TO — MJ-S 4, MO-S 8, B-S 8 a T-S 19 s parametry odolnosti, osádky a výzbroje](/img/typologie/schema-izolovany-to.svg)
+
 ## Vznik kategorie
 
 Československá armáda si uvědomovala, že souvislá linie pěchotních srubů je ideál — ale realita předválečných let byla omezená rozpočtem a časem. **Strategie selektivní obrany** vybírala body, které musely být bráněny **stůj co stůj**, bez ohledu na to, zda je okolní terén pokryt další linií:

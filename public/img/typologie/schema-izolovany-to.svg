@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" font-family="Georgia, serif" font-size="12">
+  <style>
+    .bg { fill: #F4EFE6; }
+    .panel { fill: #EDE5D4; stroke: #8B7355; stroke-width: 0.6; }
+    .concrete { fill: #5A4632; stroke: #2A2522; stroke-width: 1.5; }
+    .armor { fill: #4A3A2C; stroke: #1A1510; stroke-width: 1.2; }
+    .turret { fill: #3A2A1C; stroke: #000; stroke-width: 1.2; }
+    .streilna { fill: #2A2522; }
+    .label { fill: #2A2522; font-size: 10.5px; }
+    .bold { fill: #2A2522; font-size: 11px; font-weight: bold; }
+    .title { fill: #3E2A1F; font-size: 16px; font-weight: bold; }
+    .subtitle { fill: #3E2A1F; font-size: 13px; font-weight: bold; }
+    .dim { fill: #5A6B4F; font-size: 10px; font-style: italic; }
+    .callout { fill: #7A3B2E; font-size: 10.5px; font-weight: bold; }
+  </style>
+
+  <rect class="bg" width="900" height="480"/>
+  <text class="title" x="20" y="28">Izolované těžké objekty — srovnání čtyř typů</text>
+  <text class="dim" x="20" y="46">Samostatné TO bez napojení na tvrz · stupně odolnosti I.–IV. · klesající velikost i osádka</text>
+
+  <!-- Panel 1: MJ-S 4 „Předsunutý zvon" (IV. stupeň) -->
+  <rect class="panel" x="30" y="70" width="200" height="370"/>
+  <text class="subtitle" x="45" y="95">MJ-S 4 „Předsunutý zvon"</text>
+  <text class="dim" x="45" y="111">Chvalovice · Znojemsko</text>
+  <text class="callout" x="45" y="127">IV. stupeň odolnosti</text>
+
+  <!-- Schéma – největší, 2 zvony, 1 kopule -->
+  <polygon class="concrete" points="55,170 205,170 215,230 205,310 180,360 80,360 55,310 45,230"/>
+  <circle class="turret" cx="95" cy="200" r="16"/>
+  <circle class="turret" cx="165" cy="200" r="16"/>
+  <circle class="armor" cx="130" cy="260" r="22"/>
+  <rect class="streilna" x="45" y="250" width="5" height="14"/>
+  <rect class="streilna" x="210" y="250" width="5" height="14"/>
+  <rect class="concrete" x="120" y="360" width="20" height="14"/>
+
+  <text class="label" x="45" y="395">stěny / strop: 3,5 m</text>
+  <text class="label" x="45" y="410">osádka: cca 55 mužů</text>
+  <text class="label" x="45" y="425">výzbroj: 2 zvony + kopule</text>
+
+  <!-- Panel 2: MO-S 8 „Dvůr Paseky" (III.) -->
+  <rect class="panel" x="245" y="70" width="200" height="370"/>
+  <text class="subtitle" x="260" y="95">MO-S 8 „Dvůr Paseky"</text>
+  <text class="dim" x="260" y="111">Šilheřovice · Ostravsko</text>
+  <text class="callout" x="260" y="127">III. stupeň · dělostřel. TO</text>
+
+  <polygon class="concrete" points="275,180 420,180 425,240 415,320 390,355 295,355 270,320 265,240"/>
+  <circle class="turret" cx="320" cy="210" r="14"/>
+  <circle class="armor" cx="370" cy="250" r="20"/>
+  <rect class="streilna" x="265" y="260" width="5" height="14"/>
+  <rect class="streilna" x="420" y="260" width="5" height="14"/>
+  <rect class="concrete" x="335" y="355" width="20" height="14"/>
+
+  <text class="label" x="260" y="395">stěny / strop: 2,25 m</text>
+  <text class="label" x="260" y="410">osádka: cca 40 mužů</text>
+  <text class="label" x="260" y="425">výzbroj: zvon + dělostř. k.</text>
+
+  <!-- Panel 3: B-S 8 „Hřbitov" (II.) -->
+  <rect class="panel" x="460" y="70" width="200" height="370"/>
+  <text class="subtitle" x="475" y="95">B-S 8 „Hřbitov"</text>
+  <text class="dim" x="475" y="111">Bratislava–Petržalka</text>
+  <text class="callout" x="475" y="127">II. stupeň · linie Dunaje</text>
+
+  <polygon class="concrete" points="490,195 635,195 640,245 630,315 605,345 515,345 485,315 480,245"/>
+  <circle class="turret" cx="540" cy="220" r="13"/>
+  <circle class="turret" cx="595" cy="220" r="13"/>
+  <rect class="streilna" x="480" y="265" width="5" height="14"/>
+  <rect class="streilna" x="635" y="265" width="5" height="14"/>
+  <rect class="concrete" x="550" y="345" width="20" height="14"/>
+
+  <text class="label" x="475" y="395">stěny / strop: 1,50 m</text>
+  <text class="label" x="475" y="410">osádka: cca 25 mužů</text>
+  <text class="label" x="475" y="425">výzbroj: 2 zvony, 2× TK</text>
+
+  <!-- Panel 4: T-S 19 „Turov" (II.) -->
+  <rect class="panel" x="675" y="70" width="200" height="370"/>
+  <text class="subtitle" x="690" y="95">T-S 19 „Turov"</text>
+  <text class="dim" x="690" y="111">Hronov-Rokytník · Orl. h.</text>
+  <text class="callout" x="690" y="127">II. stupeň · hřebenový TO</text>
+
+  <polygon class="concrete" points="705,200 850,200 855,245 845,310 820,340 730,340 700,310 695,245"/>
+  <circle class="turret" cx="755" cy="225" r="13"/>
+  <circle class="turret" cx="810" cy="225" r="13"/>
+  <rect class="streilna" x="695" y="270" width="5" height="14"/>
+  <rect class="streilna" x="850" y="270" width="5" height="14"/>
+  <rect class="concrete" x="765" y="340" width="20" height="14"/>
+
+  <text class="label" x="690" y="395">stěny / strop: 1,50 m</text>
+  <text class="label" x="690" y="410">osádka: cca 22 mužů</text>
+  <text class="label" x="690" y="425">výzbroj: 2 zvony, 2× TK</text>
+
+  <!-- Legenda dole -->
+  <g transform="translate(30, 450)">
+    <circle cx="10" cy="5" r="7" class="turret"/>
+    <text class="label" x="24" y="9">pancéřový zvon</text>
+
+    <circle cx="140" cy="5" r="10" class="armor"/>
+    <text class="label" x="156" y="9">dělostřelecká kopule</text>
+
+    <rect x="295" y="0" width="6" height="12" class="streilna"/>
+    <text class="label" x="308" y="9">střílna v lafetě</text>
+
+    <rect x="415" y="0" width="16" height="12" class="concrete"/>
+    <text class="label" x="438" y="9">železobeton (stupeň dle tloušťky)</text>
+
+    <text class="dim" x="650" y="9">Velikost panelů je ilustrativní, nikoli v měřítku.</text>
+  </g>
+</svg>

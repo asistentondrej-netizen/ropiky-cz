@@ -38,6 +38,8 @@ sources:
 
 ![Pancéřový zvon na pěchotním srubu MO-S 19 „Alej" v Hlučíně-Darkovičkách — typická instalace palebného zvonu na vrchu těžkého objektu](/img/typologie/zvon-srub-mo-s-19.jpg)
 
+![Anatomie pancéřového zvonu v řezu — lité tělo, svařený límec v ŽB stropu, střílny, vnitřní šachta a obsluha](/img/typologie/rez-pancerovy-zvon.svg)
+
 ## Technická specifikace
 
 ![Pozorovací zvon na srubu K-S 22a „Krok" (tvrz Bouda) — detail svářeného kotvení s betonovou konstrukcí](/img/typologie/zvon-srub-bouda.jpg)

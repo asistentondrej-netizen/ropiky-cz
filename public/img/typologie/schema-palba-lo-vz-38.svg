@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="Georgia, serif" font-size="12">
+  <style>
+    .bg { fill: #F4EFE6; }
+    .panel { fill: #EDE5D4; stroke: #8B7355; stroke-width: 0.8; }
+    .obj { fill: #5A4632; stroke: #2A2522; stroke-width: 1.5; }
+    .turret { fill: #4A3A2C; stroke: #1A1510; stroke-width: 1.5; }
+    .cone { fill: #C39552; fill-opacity: 0.35; stroke: #7A3B2E; stroke-width: 0.8; }
+    .full { fill: #7A3B2E; fill-opacity: 0.22; stroke: #7A3B2E; stroke-width: 0.8; }
+    .label { fill: #2A2522; font-size: 11px; }
+    .title { fill: #3E2A1F; font-size: 15px; font-weight: bold; }
+    .subtitle { fill: #3E2A1F; font-size: 13px; font-weight: bold; }
+    .callout { fill: #7A3B2E; font-size: 11px; font-weight: bold; }
+    .dim { fill: #5A6B4F; font-size: 10px; font-style: italic; }
+  </style>
+
+  <rect class="bg" width="900" height="420"/>
+  <text class="title" x="20" y="28">Palebné pokrytí — LO vz. 37 vs. LO vz. 38</text>
+  <text class="dim" x="20" y="46">Proč jeden „turek" teoreticky nahradí 3–4 řopíky: srovnání sektorů palby na stejném úseku</text>
+
+  <!-- Levý panel: LO vz. 37 -->
+  <rect class="panel" x="30" y="70" width="410" height="320"/>
+  <text class="subtitle" x="50" y="95">LO vz. 37 — „řopík"</text>
+  <text class="dim" x="50" y="111">3 objekty · každý boční kužel ~50° · palba do boku</text>
+
+  <!-- Řopík 1 (vlevo) -->
+  <rect class="obj" x="90" y="290" width="26" height="18"/>
+  <!-- kužel šířka 50°, směr vpravo/vpravo-vzhůru -->
+  <polygon class="cone" points="116,299 260,245 260,280"/>
+  <text class="label" x="80" y="325">objekt A</text>
+
+  <!-- Řopík 2 (uprostřed) -->
+  <rect class="obj" x="218" y="200" width="26" height="18"/>
+  <polygon class="cone" points="218,209 110,265 110,200"/>
+  <polygon class="cone" points="244,209 355,265 355,200"/>
+  <text class="label" x="208" y="195">objekt B</text>
+
+  <!-- Řopík 3 (vpravo) -->
+  <rect class="obj" x="350" y="290" width="26" height="18"/>
+  <polygon class="cone" points="350,299 210,245 210,280"/>
+  <text class="label" x="340" y="325">objekt C</text>
+
+  <!-- "Nepřítel" -->
+  <text class="callout" x="220" y="140">↑ směr nepřítele</text>
+
+  <!-- Krížením pokrytí -->
+  <text class="callout" x="145" y="365">kříženou palbou kryjí úsek</text>
+  <text class="dim" x="145" y="380">ale při výpadku 1 objektu vznikne mezera</text>
+
+  <!-- Pravý panel: LO vz. 38 -->
+  <rect class="panel" x="460" y="70" width="410" height="320"/>
+  <text class="subtitle" x="480" y="95">LO vz. 38 — „Turecká věž"</text>
+  <text class="dim" x="480" y="111">1 objekt · otočná věž · 360° plné pokrytí</text>
+
+  <!-- Plný kruh pokrytí -->
+  <circle class="full" cx="665" cy="250" r="120"/>
+
+  <!-- Objekt – kruhový -->
+  <circle class="obj" cx="665" cy="250" r="22"/>
+  <circle class="turret" cx="665" cy="250" r="13"/>
+
+  <!-- "Nepřítel" -->
+  <text class="callout" x="620" y="140">↑ směr nepřítele</text>
+
+  <!-- Popisy -->
+  <text class="callout" x="560" y="365">360° pokrytí z jediného objektu</text>
+  <text class="dim" x="560" y="380">flexibilní reakce + menší zastavěná plocha</text>
+
+  <!-- Porovnávací sipka -->
+  <path d="M 442 230 L 458 230" stroke="#7A3B2E" stroke-width="2" fill="none" marker-end="url(#arcmp)"/>
+  <defs>
+    <marker id="arcmp" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#7A3B2E"/>
+    </marker>
+  </defs>
+</svg>

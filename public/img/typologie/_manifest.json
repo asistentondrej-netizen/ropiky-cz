@@ -86,5 +86,45 @@
     "license": "Public domain",
     "source": "https://commons.wikimedia.org/wiki/File%3AK-S%2043%20%28Adam%29.jpg",
     "page": "delostrelecka-tvrz"
+  },
+  {
+    "file": "/img/typologie/pudorys-lo-vz-38.svg",
+    "alt": "Půdorys LO vz. 38 — kruhový objekt s centrální otočnou pancéřovou věží pro 2× TK vz. 37 a pomocnou boční střílnou.",
+    "author": "ropiky.cz (vlastní ilustrace)",
+    "license": "CC BY 4.0",
+    "source": "https://www.ropiky.cz/typologie/lo-vz-38",
+    "page": "lo-vz-38"
+  },
+  {
+    "file": "/img/typologie/rez-lo-vz-38.svg",
+    "alt": "Svislý řez LO vz. 38 — věž, rotační mechanismus, bojové patro a ubikace.",
+    "author": "ropiky.cz (vlastní ilustrace)",
+    "license": "CC BY 4.0",
+    "source": "https://www.ropiky.cz/typologie/lo-vz-38",
+    "page": "lo-vz-38"
+  },
+  {
+    "file": "/img/typologie/schema-palba-lo-vz-38.svg",
+    "alt": "Srovnání palebných sektorů — tři řopíky vz. 37 s úzkým bočním kuželem vs. jeden LO vz. 38 s 360° pokrytím.",
+    "author": "ropiky.cz (vlastní ilustrace)",
+    "license": "CC BY 4.0",
+    "source": "https://www.ropiky.cz/typologie/lo-vz-38",
+    "page": "lo-vz-38"
+  },
+  {
+    "file": "/img/typologie/rez-pancerovy-zvon.svg",
+    "alt": "Anatomie pancéřového zvonu v řezu — lité tělo, svařený límec v ŽB stropu, střílny, vnitřní šachta a obsluha.",
+    "author": "ropiky.cz (vlastní ilustrace)",
+    "license": "CC BY 4.0",
+    "source": "https://www.ropiky.cz/typologie/pancerovy-zvon",
+    "page": "pancerovy-zvon"
+  },
+  {
+    "file": "/img/typologie/schema-izolovany-to.svg",
+    "alt": "Srovnávací schéma čtyř izolovaných TO — MJ-S 4, MO-S 8, B-S 8 a T-S 19 s parametry odolnosti, osádky a výzbroje.",
+    "author": "ropiky.cz (vlastní ilustrace)",
+    "license": "CC BY 4.0",
+    "source": "https://www.ropiky.cz/typologie/izolovany-tezky-objekt",
+    "page": "izolovany-tezky-objekt"
   }
 ]
