@@ -7,10 +7,35 @@ const all = (await getCollection('pevnosti')).sort((a, b) =>
   a.data.title.localeCompare(b.data.title, 'cs')
 );
 
-// Unikátní filtry
+// Unikátní hodnoty pro filtry
 const lines = [...new Set(all.map((p) => p.data.line))].sort((a, b) => a.localeCompare(b, 'cs'));
 const types = [...new Set(all.map((p) => p.data.type))].sort();
+const states = [...new Set(all.map((p) => p.data.state))].sort();
 const total = all.length;
+
+// Štítky pro UI (konzistentní s mapou)
+const typeLabels: Record<string, string> = {
+  'delostrelecka-tvrz': 'Dělostřelecká tvrz',
+  'pechotni-srub': 'Pěchotní srub',
+  'izolovany-tezky-objekt': 'Izolovaný TO',
+  'lo-vz-37': 'Řopík (LO vz. 37)',
+  'lo-vz-36': 'LO vz. 36',
+  'lo-vz-38': 'LO vz. 38 (Turek)',
+  'objekt-vz-36': 'Objekt vz. 36',
+};
+
+const stateLabels: Record<string, string> = {
+  muzeum: 'Muzeum',
+  pristupny: 'Volně přístupný',
+  zavreny: 'Uzavřený',
+  rozpadly: 'Rozpadlý',
+  zničeny: 'Zničený',
+  neznamy: 'Neznámý stav',
+};
+
+const countByType = (t: string) => all.filter((p) => p.data.type === t).length;
+const countByState = (s: string) => all.filter((p) => p.data.state === s).length;
+const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
 ---
 
 <BaseLayout
@@ -25,37 +50,88 @@ const total = all.length;
       <h1>Katalog pevností</h1>
       <p class="article-hero__lead" style="margin-top: var(--s3);">
         Databáze <strong>{total}</strong> dokumentovaných objektů s GPS souřadnicemi, aktuálním stavem a fotografiemi.
-        Postupně doplňujeme.
+        Filtrujte podle typu, stavu nebo úseku — nebo si objekty prohlédněte <a href="/mapa">v mapě</a>.
       </p>
     </div>
   </header>
 
-  <section style="padding-top: var(--s4);">
+  <section style="padding-top: var(--s4); padding-bottom: var(--s5);">
     <div class="container">
-      <div class="catalog-filters" id="filters">
-        <button class="catalog-filter catalog-filter--active" data-filter="all">Vše ({total})</button>
-        {lines.map((l) => (
-          <button class="catalog-filter" data-filter={`line:${l}`}>{l}</button>
-        ))}
+
+      <!-- Rozcestník / filtry — strukturovaný jako na mapě -->
+      <div class="catalog-filters-box" id="filters">
+        <div class="filter-group">
+          <span class="filter-label">Typ:</span>
+          <button class="filter-btn is-active" data-filter="type" data-value="all">
+            Všechny ({total})
+          </button>
+          {types.map((t) => (
+            <button class="filter-btn" data-filter="type" data-value={t}>
+              {typeLabels[t] ?? t} ({countByType(t)})
+            </button>
+          ))}
+        </div>
+
+        <div class="filter-group">
+          <span class="filter-label">Stav:</span>
+          <button class="filter-btn is-active" data-filter="state" data-value="all">
+            Všechny
+          </button>
+          {states.map((s) => (
+            <button class="filter-btn" data-filter="state" data-value={s}>
+              {stateLabels[s] ?? s} ({countByState(s)})
+            </button>
+          ))}
+        </div>
+
+        <div class="filter-group">
+          <span class="filter-label">Úsek:</span>
+          <button class="filter-btn is-active" data-filter="line" data-value="all">
+            Všechny
+          </button>
+          {lines.map((l) => (
+            <button class="filter-btn" data-filter="line" data-value={l}>
+              {l} ({countByLine(l)})
+            </button>
+          ))}
+        </div>
+
+        <div class="filter-footer">
+          <span class="filter-counter">
+            Zobrazeno: <strong id="visible-count">{total}</strong> z {total}
+          </span>
+          <button class="filter-reset" id="reset-filters" type="button">Resetovat filtry</button>
+          <a href="/mapa" class="filter-mapa">Zobrazit v mapě →</a>
+        </div>
       </div>
 
       {all.length > 0 ? (
-        <div class="fort-grid" id="fort-grid">
-          {all.map((p) => (
-            <div data-line={p.data.line} data-type={p.data.type} data-state={p.data.state}>
-              <FortCard
-                title={p.data.title}
-                code={p.data.code}
-                line={p.data.line}
-                region={p.data.region}
-                type={p.data.type}
-                state={p.data.state}
-                href={`/katalog/${p.id.replace(/\.json$|\.yml$|\.yaml$/, '')}`}
-                imageUrl={p.data.photos?.[0]?.url}
-              />
-            </div>
-          ))}
-        </div>
+        <>
+          <div class="fort-grid" id="fort-grid">
+            {all.map((p) => (
+              <div
+                class="fort-grid-item"
+                data-line={p.data.line}
+                data-type={p.data.type}
+                data-state={p.data.state}
+              >
+                <FortCard
+                  title={p.data.title}
+                  code={p.data.code}
+                  line={p.data.line}
+                  region={p.data.region}
+                  type={p.data.type}
+                  state={p.data.state}
+                  href={`/katalog/${p.id.replace(/\.json$|\.yml$|\.yaml$/, '')}`}
+                  imageUrl={p.data.photos?.[0]?.url}
+                />
+              </div>
+            ))}
+          </div>
+          <div id="no-results" class="no-results" hidden>
+            Žádná pevnost neodpovídá vybraným filtrům. Zkuste je <button type="button" id="no-results-reset" class="link-btn">resetovat</button>.
+          </div>
+        </>
       ) : (
         <p style="font-style: italic; color: var(--ink-light); padding: var(--s5) 0;">
           Katalog se postupně plní. Podívejte se brzy.
@@ -64,25 +140,169 @@ const total = all.length;
     </div>
   </section>
 
+  <style>
+    .catalog-filters-box {
+      background: var(--paper-dark);
+      border: 1px solid var(--line);
+      padding: var(--s3);
+      margin-bottom: var(--s4);
+      display: flex;
+      flex-direction: column;
+      gap: var(--s2);
+    }
+    .filter-group {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+    }
+    .filter-label {
+      font-weight: 600;
+      font-size: 0.875rem;
+      color: var(--ink);
+      min-width: 60px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .filter-btn {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      padding: 6px 12px;
+      font-size: 0.8125rem;
+      font-family: inherit;
+      color: var(--ink);
+      cursor: pointer;
+      transition: all 0.15s ease;
+      border-radius: 0;
+    }
+    .filter-btn:hover {
+      background: var(--paper-dark);
+      border-color: #7A3B2E;
+    }
+    .filter-btn.is-active {
+      background: #7A3B2E;
+      color: white;
+      border-color: #7A3B2E;
+    }
+    .filter-footer {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: var(--s2);
+      padding-top: var(--s2);
+      margin-top: var(--s2);
+      border-top: 1px solid var(--line-soft);
+      font-size: 0.8125rem;
+      color: var(--ink-light);
+    }
+    .filter-counter {
+      font-family: monospace;
+    }
+    .filter-counter strong {
+      color: var(--ink);
+    }
+    .filter-reset {
+      background: transparent;
+      border: 1px solid var(--line);
+      padding: 4px 10px;
+      font-size: 0.8125rem;
+      font-family: inherit;
+      color: var(--ink);
+      cursor: pointer;
+      border-radius: 0;
+    }
+    .filter-reset:hover {
+      background: var(--paper);
+      border-color: var(--ink);
+    }
+    .filter-mapa {
+      margin-left: auto;
+      color: #7A3B2E;
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .filter-mapa:hover {
+      text-decoration: underline;
+    }
+    .no-results {
+      padding: var(--s5) 0;
+      text-align: center;
+      font-style: italic;
+      color: var(--ink-light);
+    }
+    .link-btn {
+      background: none;
+      border: none;
+      padding: 0;
+      color: #7A3B2E;
+      cursor: pointer;
+      font: inherit;
+      text-decoration: underline;
+    }
+
+    @media (max-width: 640px) {
+      .filter-group { flex-direction: column; align-items: flex-start; }
+      .filter-label { min-width: auto; }
+      .filter-footer { flex-direction: column; align-items: flex-start; }
+      .filter-mapa { margin-left: 0; }
+    }
+  </style>
+
   <script>
-    const filters = document.querySelectorAll<HTMLButtonElement>('[data-filter]');
-    const items = document.querySelectorAll<HTMLElement>('#fort-grid > div');
+    const filterState: Record<string, string> = { type: 'all', state: 'all', line: 'all' };
 
-    filters.forEach((btn) => {
+    const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+    const items = document.querySelectorAll<HTMLElement>('#fort-grid .fort-grid-item');
+    const counterEl = document.getElementById('visible-count');
+    const noResultsEl = document.getElementById('no-results');
+    const gridEl = document.getElementById('fort-grid');
+    const resetBtn = document.getElementById('reset-filters');
+    const noResultsResetBtn = document.getElementById('no-results-reset');
+
+    function applyFilters() {
+      let visible = 0;
+      items.forEach((item) => {
+        const matchType = filterState.type === 'all' || item.dataset.type === filterState.type;
+        const matchState = filterState.state === 'all' || item.dataset.state === filterState.state;
+        const matchLine = filterState.line === 'all' || item.dataset.line === filterState.line;
+        const show = matchType && matchState && matchLine;
+        item.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+      if (counterEl) counterEl.textContent = String(visible);
+      if (noResultsEl && gridEl) {
+        if (visible === 0) {
+          noResultsEl.removeAttribute('hidden');
+          gridEl.style.display = 'none';
+        } else {
+          noResultsEl.setAttribute('hidden', '');
+          gridEl.style.display = '';
+        }
+      }
+    }
+
+    buttons.forEach((btn) => {
       btn.addEventListener('click', () => {
-        filters.forEach((b) => b.classList.remove('catalog-filter--active'));
-        btn.classList.add('catalog-filter--active');
-
         const filter = btn.dataset.filter!;
-        items.forEach((item) => {
-          if (filter === 'all') {
-            item.style.display = '';
-          } else if (filter.startsWith('line:')) {
-            const line = filter.slice(5);
-            item.style.display = item.dataset.line === line ? '' : 'none';
-          }
-        });
+        const value = btn.dataset.value!;
+        btn.parentElement!.querySelectorAll<HTMLButtonElement>('.filter-btn').forEach((b) => b.classList.remove('is-active'));
+        btn.classList.add('is-active');
+        filterState[filter] = value;
+        applyFilters();
       });
     });
+
+    function resetAll() {
+      (['type', 'state', 'line'] as const).forEach((f) => {
+        filterState[f] = 'all';
+      });
+      buttons.forEach((b) => {
+        b.classList.toggle('is-active', b.dataset.value === 'all');
+      });
+      applyFilters();
+    }
+
+    resetBtn?.addEventListener('click', resetAll);
+    noResultsResetBtn?.addEventListener('click', resetAll);
   </script>
 </BaseLayout>
