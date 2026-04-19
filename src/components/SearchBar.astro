@@ -70,8 +70,8 @@
     async function ensurePagefind() {
       if (pagefindRef || pagefindFailed) return pagefindRef;
       try {
-        // @ts-ignore — import z runtime cesty
-        pagefindRef = await import('/pagefind/pagefind.js');
+        // @ts-ignore — import z runtime cesty (soubor vznikne až po astro build)
+        pagefindRef = await import(/* @vite-ignore */ '/pagefind/pagefind.js');
         await pagefindRef.options({
           excerptLength: 28,
         });

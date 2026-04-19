@@ -14,4 +14,13 @@ export default defineConfig({
       theme: 'github-light',
     },
   },
+  vite: {
+    build: {
+      rollupOptions: {
+        // Pagefind generuje /pagefind/pagefind.js až po buildu (astro-pagefind integrace),
+        // takže Rollup při build-time tu cestu nesmí resolvovat.
+        external: [/^\/pagefind\//],
+      },
+    },
+  },
 });
