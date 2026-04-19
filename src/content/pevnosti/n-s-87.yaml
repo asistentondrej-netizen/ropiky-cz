@@ -36,9 +36,4 @@ sources:
 - OpenStreetMap (OSM element node/3922646242)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
-photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_87_%28rok_2002%3B_01%29.jpg/1280px-N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_87_%28rok_2002%3B_01%29.jpg
-  alt: Pěchotní srub N-S 87 Les
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:N%C3%A1chod,_Dobro%C5%A1ov,_N-S_87_(rok_2002;_01).jpg
+photos: []

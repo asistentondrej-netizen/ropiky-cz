@@ -36,19 +36,4 @@ sources:
 - OpenStreetMap (OSM element way/389099979)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
-photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/N%C3%A1chod%2C_N-S_85_%28rok_2002%3B_01%29.jpg/1280px-N%C3%A1chod%2C_N-S_85_%28rok_2002%3B_01%29.jpg
-  alt: Pěchotní srub N-S 85 Montace
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:N%C3%A1chod,_N-S_85_(rok_2002;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/a/af/N-S_85_Montace_1.jpg
-  alt: Pěchotní srub N-S-85
-  author: Lasy
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:N-S_85_Montace_1.jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/a/ad/N-S_85_Montace_2.jpg
-  alt: Pěchotní srub N-S-85
-  author: Lasy
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:N-S_85_Montace_2.jpg
+photos: []

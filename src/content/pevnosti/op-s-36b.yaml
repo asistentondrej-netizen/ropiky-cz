@@ -36,19 +36,4 @@ sources:
 - OpenStreetMap (OSM element way/53334956)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
-photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/St%C4%9Bbo%C5%99ice%2C_Jamnice%2C_OP-S_36b_%282019-08-14%3B_01%29.jpg/1280px-St%C4%9Bbo%C5%99ice%2C_Jamnice%2C_OP-S_36b_%282019-08-14%3B_01%29.jpg
-  alt: Pěchotní srub OP-S 36b Dvoják dolní
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:St%C4%9Bbo%C5%99ice,_Jamnice,_OP-S_36b_(2019-08-14;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/0/0f/OP-S_36b_%281%29.jpg
-  alt: Pěchotní srub OP-S-36b
-  author: Hapesoft
-  license: CC BY 3.0
-  source: https://commons.wikimedia.org/wiki/File:OP-S_36b_(1).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/3/36/OP-S_36b_%282%29.jpg
-  alt: Pěchotní srub OP-S-36b
-  author: Hapesoft
-  license: CC BY 3.0
-  source: https://commons.wikimedia.org/wiki/File:OP-S_36b_(2).jpg
+photos: []

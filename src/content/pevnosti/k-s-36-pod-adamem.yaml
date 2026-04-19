@@ -7,7 +7,7 @@ location:
   lat: 50.106311
   lon: 16.618342
 built: '1937'
-state: rozpadly
+state: neznamy
 description: Pěchotní srub pod kótou Adam — odolnost III, oboustranný typ. V blízkosti
   dělostřelecké tvrze Adam, fungoval jako její předsunutý objekt. Nedokončená stavba
   v listopadu 1938.
@@ -15,14 +15,4 @@ sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
-photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_36_%28rok_2000%29.jpg/1280px-Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_36_%28rok_2000%29.jpg
-  alt: Pěchotní srub K-S 36 Pod Adamem
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Mladkov,_Petrovi%C4%8Dky,_K-S_36_(rok_2000).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/f/fe/K-S_36.jpg
-  alt: Pěchotní srub K-S 36
-  author: Martin Provazník
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File:K-S_36.jpg
+photos: []

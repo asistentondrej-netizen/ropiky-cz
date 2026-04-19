@@ -18,7 +18,7 @@ const all = await getCollection('pevnosti');
 const withPhoto = all.filter((p) => p.data.photos && p.data.photos.length > 0);
 
 const statePriority: Record<string, number> = {
-  muzeum: 1, pristupny: 2, zavreny: 3, rozpadly: 4, 'zničeny': 5, neznamy: 6,
+  muzeum: 1, pristupny: 2, zachovaly: 3, zavreny: 4, rozpadly: 5, 'zničeny': 6, neznamy: 7,
 };
 const pickByType = (typeKey: string, n: number) =>
   withPhoto

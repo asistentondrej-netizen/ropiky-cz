@@ -46,7 +46,7 @@ const pevnosti = defineCollection({
       address: z.string().optional(),
     }),
     built: z.string().optional(),        // datum dokončení
-    state: z.enum(['muzeum', 'pristupny', 'zavreny', 'rozpadly', 'zničeny', 'neznamy']),
+    state: z.enum(['muzeum', 'pristupny', 'zachovaly', 'zavreny', 'rozpadly', 'zničeny', 'neznamy']),
     description: z.string(),
     history: z.string().optional(),
     visit: z.string().optional(),        // info pro návštěvníky

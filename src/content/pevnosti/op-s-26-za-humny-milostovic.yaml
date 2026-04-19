@@ -7,26 +7,11 @@ location:
   lat: 49.95501
   lon: 17.82928
 built: '1937'
-state: rozpadly
+state: neznamy
 description: Pěchotní srub „Za humny Milostovic" — součást opavské linie. Oboustranný
   typ B odolnosti II. Zachované obvodové stěny, kopule a zvony demontovány.
 sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
-photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Opava%2C_Milostovice%2C_OP-S_26_%282019-08-14%3B_01%29.jpg/1280px-Opava%2C_Milostovice%2C_OP-S_26_%282019-08-14%3B_01%29.jpg
-  alt: Pěchotní srub OP-S 26 Za humny Milostovic
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Opava,_Milostovice,_OP-S_26_(2019-08-14;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/0/0c/OP-S_26.JPG
-  alt: Pěchotní srub OP-S 26
-  author: Lukáš Malý
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File:OP-S_26.JPG
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Opava%2C_Milostovice%2C_OP-S_26_%28rok_2001%29.jpg/1920px-Opava%2C_Milostovice%2C_OP-S_26_%28rok_2001%29.jpg
-  alt: Pěchotní srub OP-S 26
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Opava,_Milostovice,_OP-S_26_(rok_2001).jpg
+photos: []
