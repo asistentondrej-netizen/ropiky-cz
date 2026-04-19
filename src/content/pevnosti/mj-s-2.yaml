@@ -1,0 +1,44 @@
+title: MJ-S-2
+code: MJ-S-2
+type: pechotni-srub
+line: Mikulovsko-Jihlavsko
+region: Jihomoravský kraj
+location:
+  lat: 48.792317
+  lon: 16.003894
+state: neznamy
+description: Pěchotní srub MJ-S-2 na úseku Mikulovsko-Jihlavsko. Součást československého
+  těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
+history: 'Úsek Mikulov-Jihlava (jih Moravy) — naléhavě budováno po Anšlusu 1938, dokončeno
+  fragmentálně.
+
+
+  Srub MJ-S-2 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
+  dokončení a výzbroj závisely na fázi budování daného úseku.
+
+
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
+  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
+  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
+  v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
+  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
+  oblasti.
+
+
+  **GPS:** 48.792317, 16.003894 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.003894&y=48.792317&z=17&source=coor&id=16.003894%2C48.792317).
+
+
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
+  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
+  GPS navigaci.'
+sources:
+- OpenStreetMap (OSM element way/73545573)
+- ropiky.net — databáze čs. opevnění
+updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%C5%A0atov%2C_MJ-S_2_%28rok_2008%3B_02%29.jpg/1280px-%C5%A0atov%2C_MJ-S_2_%28rok_2008%3B_02%29.jpg
+  alt: Pěchotní srub MJ-S-2
+  author: User:Harold
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%A0atov,_MJ-S_2_(rok_2008;_02).jpg

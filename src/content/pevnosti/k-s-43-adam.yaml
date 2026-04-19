@@ -7,27 +7,36 @@ location:
   lat: 50.0587
   lon: 16.8234
   address: Mladkov, tvrz Adam
-built: '1936–1938'
+built: 1936–1938
 state: zavreny
-description: Jeden z pěti bojových srubů dělostřelecké tvrze Adam v králickém úseku. Tvrz jako celek viz samostatný záznam „Tvrz Adam".
-history: |
-  K-S 43 „Zahrada" je jedním z pěti bojových srubů tvrze Adam (dalšími jsou K-S 44 Jabloň, K-S 45 U boudy, K-S 45a Lípa a K-S 46 Můstek; vchodovým objektem tvrze je K-S 42). Stavebně dokončen 1938, pancéřování osazeno z cca 95 %, výzbroj však nainstalována nebyla.
+description: Jeden z pěti bojových srubů dělostřelecké tvrze Adam v králickém úseku.
+  Tvrz jako celek viz samostatný záznam „Tvrz Adam".
+history: 'K-S 43 „Zahrada" je jedním z pěti bojových srubů tvrze Adam (dalšími jsou
+  K-S 44 Jabloň, K-S 45 U boudy, K-S 45a Lípa a K-S 46 Můstek; vchodovým objektem
+  tvrze je K-S 42). Stavebně dokončen 1938, pancéřování osazeno z cca 95 %, výzbroj
+  však nainstalována nebyla.
 
-  Po Mnichovu obsazen Wehrmachtem jako součást komplexu tvrze Adam, využíván jako sklad. Po válce pod správou ČSLA jako sklad munice. V 90. letech s celou tvrzí prodán soukromému vlastníkovi; od té doby uzavřen.
 
-  Detailní kontext celé tvrze Adam — projekt, výzbroj, poválečný osud — je v záznamu „Tvrz Adam".
-visit: |
-  Samostatně není srub přístupný — je součástí uzavřeného areálu tvrze Adam v soukromém vlastnictví. Exteriér lze zdálky pozorovat z veřejných cest (modrá turistická značka Mladkov → Lichkov).
+  Po Mnichovu obsazen Wehrmachtem jako součást komplexu tvrze Adam, využíván jako
+  sklad. Po válce pod správou ČSLA jako sklad munice. V 90. letech s celou tvrzí prodán
+  soukromému vlastníkovi; od té doby uzavřen.
 
-  Nejbližší plně přístupné tvrze: **Bouda** (3 km) — nejkompletnější expozice ŘOP; **Hůrka** (5 km) — částečně přístupná.
+
+  Detailní kontext celé tvrze Adam — projekt, výzbroj, poválečný osud — je v záznamu
+  „Tvrz Adam".
+
+  '
+visit: 'Samostatně není srub přístupný — je součástí uzavřeného areálu tvrze Adam
+  v soukromém vlastnictví. Exteriér lze zdálky pozorovat z veřejných cest (modrá turistická
+  značka Mladkov → Lichkov).
+
+
+  Nejbližší plně přístupné tvrze: **Bouda** (3 km) — nejkompletnější expozice ŘOP;
+  **Hůrka** (5 km) — částečně přístupná.
+
+  '
 sources:
 - 'Stehlík E.: Lexikon tvrzí čs. opevnění (FORTprint, 2001)'
 - ropiky.net — tvrz Adam
 - Wikipedia — Adam (dělostřelecká tvrz)
-photos:
-- url: /img/forts/k-s-43-adam-.jpg
-  alt: K-S 43 „Zahrada" — bojový srub tvrze Adam
-  author: Jiří Šotola
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File:K-S_43_(Adam).jpg
 updated: '2026-04-19'

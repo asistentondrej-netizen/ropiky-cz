@@ -1,31 +1,22 @@
-title: KrK-S 32 „Na skalce"
-code: KrK-S 32
-type: pechotni-srub
-line: Krkonoše
-region: Královéhradecký kraj
+title: 'KrK-S 32 „Na skalce"'
+code: 'KrK-S 32'
+type: 'pechotni-srub'
+line: 'Krkonoše'
+region: 'Královéhradecký kraj'
 location:
   lat: 50.6783
-  lon: 15.732
-  address: Krkonoše — okolí Pomezních Bud
+  lon: 15.7320
+  address: 'Krkonoše — okolí Pomezních Bud'
 built: '1937'
-state: rozpadly
-description: Pěchotní srub „Na skalce" v krkonošském pohraničí — součást severní krkonošské linie. Oboustranný typ B odolnosti III. Po Mnichovu opuštěn, za války demontovány pancéřové prvky. Zachovalé torzo v lesním terénu nedaleko turistických cest.
-history: 'KrK-S 32 byl součástí krkonošské linie těžkého opevnění, jež nebyla nikdy plně dokončena. Sruby v této oblasti byly stavěny v náročných horských podmínkách.
-
+state: 'rozpadly'
+description: 'Pěchotní srub v podhůří Krkonoš. Po Mnichovu opuštěn, dnes torzo v terénu.'
+history: |
+  KrK-S 32 byl součástí krkonošské linie těžkého opevnění, jež nebyla nikdy plně dokončena. Sruby v této oblasti byly stavěny v náročných horských podmínkách.
 
   Po Mnichovu byly objekty zabrány Wehrmachtem, část výzbroje odvezena do Atlantického valu. Po válce postupně chátraly.
-
-  '
-visit: 'Objekt v terénu, vhodný jako součást turistické trasy. Vnitřek nepřístupný.
-
-  '
+visit: |
+  Objekt v terénu, vhodný jako součást turistické trasy. Vnitřek nepřístupný.
 sources:
-- ropiky.net — Krkonoše
-- Wikipedia — Československé opevnění v Krkonoších
+  - 'ropiky.net — Krkonoše'
+  - 'Wikipedia — Československé opevnění v Krkonoších'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/Harrachovy-kameny---op-k--01-.jpg
-  alt: Ilustrační foto — řopík LO vz. 37 u Harrachových kamenů v Krkonoších
-  author: Czeva
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Harrachovy_kameny,_%C5%99op%C3%ADk_(01).jpg

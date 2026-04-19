@@ -1,0 +1,44 @@
+title: N-S-78 „Polsko"
+code: N-S-78
+type: pechotni-srub
+line: Náchodsko
+region: Královéhradecký kraj
+location:
+  lat: 50.410504
+  lon: 16.204781
+state: neznamy
+description: Pěchotní srub N-S-78 „Polsko" na úseku Náchodsko. Součást československého
+  těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
+history: 'Úsek Náchodsko v podhůří Orlických hor — tvrze Dobrošov a Skutina plus 30+
+  pěchotních srubů. Stavěno 1937–1938.
+
+
+  Srub N-S-78 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
+  dokončení a výzbroj závisely na fázi budování daného úseku.
+
+
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
+  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
+  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
+  v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
+  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
+  oblasti.
+
+
+  **GPS:** 50.410504, 16.204781 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.204781&y=50.410504&z=17&source=coor&id=16.204781%2C50.410504).
+
+
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
+  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
+  GPS navigaci.'
+sources:
+- OpenStreetMap (OSM element way/389099969)
+- ropiky.net — databáze čs. opevnění
+updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/N-S_78_Polsko.JPG/1280px-N-S_78_Polsko.JPG
+  alt: Pěchotní srub N-S-78
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:N-S_78_Polsko.JPG

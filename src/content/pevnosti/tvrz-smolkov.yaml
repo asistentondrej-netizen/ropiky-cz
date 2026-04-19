@@ -1,77 +1,22 @@
-title: Tvrz Smolkov
-code: MO-S Tvrz Smolkov
-type: delostrelecka-tvrz
-line: Moravská Ostrava
-region: Moravskoslezský kraj
+title: 'Tvrz Smolkov'
+code: 'OP-S Tvrz Smolkov'
+type: 'delostrelecka-tvrz'
+line: 'Opava'
+region: 'Moravskoslezský kraj'
 location:
   lat: 49.8867
   lon: 18.0411
-  address: Smolkov, 747 92 Háj ve Slezsku
-built: 1936–1938
-state: pristupny
-description: Nejmenší ze pěti plně dokončených dělostřeleckých tvrzí, v moravskoostravském
-  úseku. Podzemí v délce 800 m v hloubce 16 m. Některé objekty dnes volně přístupné,
-  podzemí při speciálních akcích.
-history: 'Projekt tvrze Smolkov v podhůří Nízkého Jeseníku zpracovala IV. ekspozitura
-  ŘOP v Ostravě (podplukovník Antonín Žebrek) jako součást moravskoostravského úseku
-  chránícího přístup k ostravské průmyslové aglomeraci od severozápadu. Výstavbu zahájila
-  firma Kruliš-Hess v říjnu 1936.
+  address: 'Háj ve Slezsku-Smolkov'
+built: '1938'
+state: 'pristupny'
+description: 'Pátá z plně dokončených dělostřeleckých tvrzí. Nachází se v úseku Opava, je částečně přístupná.'
+history: |
+  Tvrz Smolkov v úseku Opava byla plně dokončena do léta 1938. Skládá se ze čtyř pěchotních srubů, jednoho vchodového objektu a podzemního systému.
 
-
-  Na rozdíl od „horských" tvrzí v Orlických horách a Králicku má Smolkov podstatně
-  menší rozsah — čtyři bojové sruby (MO-S 38 U potoka, MO-S 39 Stodola, MO-S 40 Na
-  výšině, MO-S 41 Na hrobech), vchodový objekt MO-S 37 a podzemí v délce 800 m v hloubce
-  pouze 16 m pod pahorkem. Důvodem menší hloubky byla geologická situace — Slezská
-  nížina nemá skalní podloží jako Orlické hory. Podzemí obsahuje jednu muniční komoru,
-  strojovnu (2× diesel ČKD 6L150), kasárna pro 290 mužů a filtrovanou vzduchotechniku.
-
-
-  Plánovaná výzbroj: dvě houfnice vz. 38 ráže 10 cm v otočné věži MO-S 40, minomety
-  M vz. 38, čtyři těžké kulomety vz. 37 v pancéřových zvonech. K září 1938 byla tvrz
-  stavebně kompletní (odolnost III, stěny 275 cm, stropy 350 cm), pancéřování osazeno
-  z 90 %, výzbroj však neinstalována. Garnison 290 mužů pod velením majora Jana Bohatého.
-
-
-  Po obsazení Sudet v říjnu 1938 připadla Smolkov přímo Třetí říši (území bylo začleněno
-  do okresu Opava). Wehrmacht tvrz používal jako muniční sklad až do konce války.
-  Po válce sloužila krátce Ministerstvu obrany ČSR, v 60. letech byla opuštěna.
-
-
-  Od 90. let se o zpřístupnění stará Klub přátel Československého opevnění Ostrava.
-  Povrchové objekty jsou dnes volně přístupné, podzemí se otevírá pouze při speciálních
-  akcích (Dny čs. opevnění, tématické víkendy). V roce 2018 byla Smolkov prohlášena
-  kulturní památkou.
-
-
-  Z hlediska ŘOP je Smolkov cenná jako příklad „nížinné" tvrze — jediná z pěti dokončených,
-  která není v hornatém terénu. To z ní dělá případovou studii pro srovnání konstrukčních
-  řešení v různých geologických podmínkách.
-
-  '
-visit: 'Povrchové objekty tvrze (bojové sruby a vchod) jsou volně přístupné celoročně
-  — leží v obecním lese Smolkov v severní části Háje ve Slezsku. Objekty jsou zvenku
-  zachovalé, přístupové šachty jsou zabezpečené.
-
-
-  Podzemí je přístupné pouze při organizovaných akcích (obvykle 3–4× ročně, často
-  v dubnu a v září). Aktuální program na klubcsopevneni.cz nebo na facebook.com/SmolkovTvrz.
-  Jednorázové prohlídky s průvodcem mimo veřejný program je možné domluvit telefonicky.
-
-
-  Parkoviště u obecního úřadu Háj ve Slezsku, odtud 1,2 km pěšky po zelené značce.
-  Veřejnou dopravou vlak do stanice Háj ve Slezsku, od nádraží 2 km pěšky. Smolkov
-  leží nedaleko hlavní silnice I/11 Opava–Ostrava.
-
-  '
+  Po Mnichovu byla předána Wehrmachtu. V poválečné éře sloužila armádě, po roce 1989 postupně přecházela pod správu místních spolků.
+visit: |
+  Některé objekty jsou přístupné volně, podzemní trasa jen při speciálních akcích. Informace na obecních webech Háje ve Slezsku a místního Klubu vojenské historie.
 sources:
-- klubcsopevneni.cz
-- 'Stehlík E.: Lexikon tvrzí čs. opevnění (FORTprint, 2001)'
-- 'Aron L. a kol.: Československé opevnění 1935–1938 (Dvůr Králové, 1990)'
-- ropiky.net — Smolkov
+  - 'Wikipedia — Smolkov (dělostřelecká tvrz)'
+  - 'ropiky.net — Smolkov'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/haj-ve-slezsku--mo-s-37--2015-04-14--01-.jpg
-  alt: MO-S 37 — pěchotní srub tvrze Smolkov v Háji ve Slezsku
-  author: Wikimedia Commons
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/Category:Tvrz_Smolkov

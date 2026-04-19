@@ -1,57 +1,24 @@
-title: N-S 75 „Zahrada"
-code: N-S 75
-type: pechotni-srub
-line: Náchodsko
-region: Královéhradecký kraj
+title: 'N-S 75 „Zahrada"'
+code: 'N-S 75'
+type: 'pechotni-srub'
+line: 'Náchodsko'
+region: 'Královéhradecký kraj'
 location:
   lat: 50.4177
   lon: 16.1633
-  address: Náchod — Běloves
+  address: 'Náchod — Běloves'
 built: '1937'
-state: pristupny
-description: Pěchotní srub „Zahrada" v Bělovsi u Náchoda — přímo na česko-polské hranici v lázeňské lokalitě. Oboustranný
-  typ B odolnosti III. V blízkosti muzea N-S 82 Březinka, součást turistického okruhu Pevnost Náchod.
-history: 'N-S 75 patří do náchodské linie, která byla součástí těch nejsilnějších úseků čs. opevnění díky strategické poloze
-  na pomezí Kladska.
-
+state: 'pristupny'
+description: 'Pěchotní srub přímo na česko-polské hranici v Náchodě. V turistické lokalitě s lázněmi Běloves.'
+history: |
+  N-S 75 patří do náchodské linie, která byla součástí těch nejsilnějších úseků čs. opevnění díky strategické poloze na pomezí Kladska.
 
   Po Mnichovu zabrán Wehrmachtem, části výzbroje odvezeny. Po válce objekt zůstal zakonzervován, později zpřístupněn veřejnosti.
 
-
   Dnes součást Vojensko-historického muzea Náchod, část trasy kolem linie N.
-
-  '
-visit: 'Součást naučné stezky na dělostřelecké tvrzi Dobrošov — objekt volně přístupný zvenčí, interiér v rámci placené prohlídky
-  tvrze.
-
-
-  **Otevírací doba (exteriér):** celoročně volně přístupný v rámci lesní naučné stezky. **Interiér:** duben–říjen, víkendy
-  10:00–17:00 (v rámci prohlídky tvrze Dobrošov).
-
-
-  **Vstupné:** exteriér zdarma, interiér cca 150 Kč (společně s dalšími objekty tvrze).
-
-
-  **Co uvidíte:** srub II. odolnosti s dobře zachovalou exteriérovou ocelovou pancéřovou věží (atypicky dochovanou), palebné
-  otvory, ukázka překážek. V okolí stopy po nedokončených objektech tvrze.
-
-
-  **Doporučená délka:** 20 minut pro exteriér, 45 minut s interiérem, 3 hodiny pro celou tvrz Dobrošov.
-
-
-  **Dostupnost:** Autem z Náchoda (6 km) k parkovišti pod tvrzí, 300 m pěšky. Vlakem do Náchoda + bus linka 647 směr Dobrošov.
-  Cyklisté — stezka z Náchoda do Dobrošova.
-
-
-  **Doporučeno kombinovat s:** hlavní prohlídkou tvrze Dobrošov (dělostřelecký srub, kasemata, vchodový objekt, 2 km podzemí),
-  muzeem v Náchodě, památnou horou Hejšovina (Polsko, 15 km).'
+visit: |
+  Zpřístupněn v rámci naučné stezky. Kombinace s lázněmi Běloves a Náchodem jako historická procházka.
 sources:
-- ropiky.net — Náchodsko
-- Muzeum Náchod
+  - 'ropiky.net — Náchodsko'
+  - 'Muzeum Náchod'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/n-chod-dobro-ov-n-s-75-rok-2001-01-.jpg
-  alt: N-S 75 V zahradě na Dobrošově
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:N%C3%A1chod,_Dobro%C5%A1ov,_N-S_75_(rok_2001;_01).jpg

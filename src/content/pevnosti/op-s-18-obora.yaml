@@ -1,46 +1,21 @@
-title: OP-S 18 „U obory"
-code: OP-S 18
-type: pechotni-srub
-line: Opava
-region: Moravskoslezský kraj
+title: 'OP-S 18 „U obory"'
+code: 'OP-S 18'
+type: 'pechotni-srub'
+line: 'Opava'
+region: 'Moravskoslezský kraj'
 location:
   lat: 49.9556
   lon: 17.9022
-  address: Opava — oblast Kylešovského lesa
+  address: 'Opava — oblast Kylešovského lesa'
 built: '1937'
-state: pristupny
-description: Pěchotní srub „Obora" u Milostovic — v opavské linii těžkého opevnění. Oboustranný typ B odolnosti II, zachovalá vnější konstrukce. Volně přístupný exteriér, interiér uzavřen. Součást naučné stezky opavského opevnění.
-history: 'Srub OP-S 18 byl součástí linie chránící Opavsko. Po Mnichovu opuštěn, během okupace využíván Wehrmachtem.
-
+state: 'pristupny'
+description: 'Pěchotní srub v úseku Opava, zachovalý v terénu. Volně přístupný, s dochovanou vnější strukturou.'
+history: |
+  Srub OP-S 18 byl součástí linie chránící Opavsko. Po Mnichovu opuštěn, během okupace využíván Wehrmachtem.
 
   Dnes stojí volně v terénu, je součástí místní turistické trasy.
-
-  '
-visit: 'Volně přístupný pěchotní srub „U obory" — jeden z objektů opavské linie ŘOP v oblasti Hlučínska. Exteriérová prohlídka, interiér nerekonstruován.
-
-
-  **Přístup:** celoročně volně, 24/7.
-
-
-  **Co uvidíte:** nerekonstruovaný srub II. stupně odolnosti — palebné otvory, pozorovací zvon, stopy po poválečném využití. V okolí rozvaliny překážkového systému. Objekt dobře dokumentuje stav typického „běžného" srubu ŘOP, nezasaženého restaurováním.
-
-
-  **Doporučená délka:** 20–30 minut (pouze exteriér).
-
-
-  **Dostupnost:** Autem z Opavy (10 km) po silnici na Hlučín, odbočit na Kravaře, lesní cesta 500 m. Vlakem do Kravař + 3 km pěšky.
-
-
-  **Bezpečnost:** srub není zrekonstruovaný, vstup dovnitř na vlastní nebezpečí — nejsou zajištěny šachty ani žebříky, hrozí pády. Doporučeno prohlížet pouze zvenčí.
-
-
-  **Doporučeno kombinovat s:** Areálem Hlučín-Darkovičky (12 km, muzeum), OP-S 25 Milostovice Památník (5 km), zámkem Kravaře (2 km) nebo Opavským muzeem.'
+visit: |
+  Vnějšek volně přístupný. Vnitřek zavřený.
 sources:
-- ropiky.net — OP-S 18
+  - 'ropiky.net — OP-S 18'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/Opava--Milostovice--OP-S-27--rok-2001--02.jpg
-  alt: Ilustrační foto — sousední srub OP-S 27 v Milostovicích (stejný typ II. odolnosti jako OP-S 18 „U obory")
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Opava,_Milostovice,_OP-S_27_(rok_2001;_02).jpg

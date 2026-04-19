@@ -1,33 +1,23 @@
-title: R-S 79 „Na mýtině"
-code: R-S 79
-type: pechotni-srub
-line: Rokytnice v Orlických horách
-region: Královéhradecký kraj
+title: 'R-S 79 „Na mýtině"'
+code: 'R-S 79'
+type: 'pechotni-srub'
+line: 'Rokytnice v Orlických horách'
+region: 'Královéhradecký kraj'
 location:
   lat: 50.1689
   lon: 16.4747
-  address: Rokytnice v Orlických horách
+  address: 'Rokytnice v Orlických horách'
 built: '1937'
-state: rozpadly
-description: Pěchotní srub na rokytnickém úseku orlickohorské linie. Typický horský srub v pokročilém stupni rozpadu.
-history: 'Rokytnická linie (R) byla součástí husté obrany Orlických hor. R-S 79 byl středně velký dvoukřídlý srub s bočními střílnami.
-
+state: 'rozpadly'
+description: 'Pěchotní srub na rokytnickém úseku orlickohorské linie. Typický horský srub v pokročilém stupni rozpadu.'
+history: |
+  Rokytnická linie (R) byla součástí husté obrany Orlických hor. R-S 79 byl středně velký dvoukřídlý srub s bočními střílnami.
 
   Po Mnichovu Wehrmacht zbavil objekty výzbroje. V poválečných letech část objektů využívala ČSLA jako cvičné cíle.
 
-
   Dnes objekt jen jako torzo v terénu — vhodné pro znalce vojenské architektury.
-
-  '
-visit: 'Přístupný po turistických stezkách Orlických hor. Vnitřek nedostupný.
-
-  '
+visit: |
+  Přístupný po turistických stezkách Orlických hor. Vnitřek nedostupný.
 sources:
-- ropiky.net — Rokytnice
+  - 'ropiky.net — Rokytnice'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/rokytnice-v-orlick-ch-hor-ch-horn-rokytnice-r-s-79-rok-2010-05-.jpg
-  alt: R-S 79 Na mýtině v Horní Rokytnici
-  author: User:Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_79_(rok_2010;_05).jpg

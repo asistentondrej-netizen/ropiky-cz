@@ -1,0 +1,45 @@
+title: B-S-3 „Paseka"
+code: B-S-3
+type: pechotni-srub
+line: Bratislavské předmostí
+region: Bratislavský kraj
+location:
+  lat: 48.130647
+  lon: 17.067846
+state: neznamy
+description: Pěchotní srub B-S-3 „Paseka" na úseku Bratislavské předmostí. Součást
+  československého těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického
+  Německa.
+history: 'Úsek Bratislava — jediné těžké opevnění na Slovensku. Petržalská linie podél
+  Dunaje proti útoku z Rakouska.
+
+
+  Srub B-S-3 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
+  dokončení a výzbroj závisely na fázi budování daného úseku.
+
+
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
+  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
+  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
+  v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
+  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
+  oblasti.
+
+
+  **GPS:** 48.130647, 17.067846 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=17.067846&y=48.130647&z=17&source=coor&id=17.067846%2C48.130647).
+
+
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
+  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
+  GPS navigaci.'
+sources:
+- OpenStreetMap (OSM element way/50170002)
+- ropiky.net — databáze čs. opevnění
+updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bratislava%2C_Petr%C5%BEalka%2C_B-S_3_%282013-10-25%3B_05%29.jpg/1280px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_3_%282013-10-25%3B_05%29.jpg
+  alt: Pěchotní srub B-S-3
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_3_(2013-10-25;_05).jpg

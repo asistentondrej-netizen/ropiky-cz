@@ -127,9 +127,12 @@ const stateLabels: Record<string, string> = {
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
     crossorigin="" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin="" is:inline></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" is:inline></script>
 
   <style>
     .map-filters {
@@ -320,6 +323,26 @@ const stateLabels: Record<string, string> = {
     .popup-card__badge--pristupny { background: #5A6B4F; color: white; }
     .popup-card__badge--zavreny { background: #8B6F47; color: white; }
 
+    /* Cluster marker — sjednocený design s ŘOP paletou */
+    .cluster-marker {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: #7A3B2E;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 3px solid white;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.4);
+      font-weight: 700;
+      font-size: 0.875rem;
+      font-family: monospace;
+    }
+    .cluster-marker span { line-height: 1; }
+    .marker-cluster { background: transparent !important; }
+    .marker-cluster div { background: transparent !important; }
+
     /* Custom marker classes */
     .fort-marker {
       border-radius: 50%;
@@ -416,7 +439,29 @@ const stateLabels: Record<string, string> = {
       }
 
       const allMarkers = points.map(createMarker);
-      const layerGroup = L.layerGroup(allMarkers).addTo(map);
+
+      // Marker cluster pro lepší výkon s hustě osazenými oblastmi (Králicko, Ostravsko)
+      const useCluster = typeof L.markerClusterGroup === 'function';
+      const layerGroup = useCluster
+        ? L.markerClusterGroup({
+            maxClusterRadius: 45,
+            disableClusteringAtZoom: 13,
+            spiderfyOnMaxZoom: true,
+            showCoverageOnHover: false,
+            chunkedLoading: true,
+            iconCreateFunction: (cluster) => {
+              const count = cluster.getChildCount();
+              const size = count > 100 ? 48 : (count > 30 ? 40 : 32);
+              return L.divIcon({
+                html: `<div class="cluster-marker"><span>${count}</span></div>`,
+                className: '',
+                iconSize: [size, size],
+              });
+            },
+          })
+        : L.layerGroup();
+      allMarkers.forEach((m) => layerGroup.addLayer(m));
+      layerGroup.addTo(map);
 
       // Auto-fit
       const bounds = points.map((p) => [p.lat, p.lon]);

@@ -28,21 +28,12 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
         <div class="article-list">
           {clanky.map((c) => (
             <a href={`/clanky/${c.slug}`} class="article-item">
-              {c.data.cover ? (
-                <div class="article-item__thumb">
-                  <img src={c.data.cover} alt={c.data.title} loading="lazy" />
-                </div>
-              ) : (
-                <div>
-                  <div class="article-item__date">
-                    {c.data.pubDate.toLocaleDateString('cs-CZ', { day: 'numeric', month: 'long', year: 'numeric' })}
-                  </div>
-                </div>
-              )}
               <div>
                 <div class="article-item__date">
                   {c.data.pubDate.toLocaleDateString('cs-CZ', { day: 'numeric', month: 'long', year: 'numeric' })}
                 </div>
+              </div>
+              <div>
                 <h3>{c.data.title}</h3>
                 <p>{c.data.description}</p>
               </div>

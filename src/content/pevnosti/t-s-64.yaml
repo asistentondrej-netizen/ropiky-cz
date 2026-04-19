@@ -1,0 +1,38 @@
+title: T-S-64
+code: T-S-64
+type: pechotni-srub
+line: Trutnovsko
+region: Královéhradecký kraj
+location:
+  lat: 50.607709
+  lon: 15.948677
+state: neznamy
+description: Pěchotní srub T-S-64 na úseku Trutnovsko. Součást československého těžkého
+  opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
+history: 'Úsek Trutnov — opevnění severně od Trutnova včetně tvrze Stachelberg (největší
+  plánovaná tvrz, částečně dokončená).
+
+
+  Srub T-S-64 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
+  dokončení a výzbroj závisely na fázi budování daného úseku.
+
+
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
+  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
+  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
+  v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
+  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
+  oblasti.
+
+
+  **GPS:** 50.607709, 15.948677 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=15.948677&y=50.607709&z=17&source=coor&id=15.948677%2C50.607709).
+
+
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
+  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
+  GPS navigaci.'
+sources:
+- OpenStreetMap (OSM element way/254038691)
+- ropiky.net — databáze čs. opevnění
+updated: '2026-04-19'

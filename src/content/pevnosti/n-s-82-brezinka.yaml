@@ -1,50 +1,22 @@
-title: N-S 82 „Březinka"
-code: N-S 82
-type: pechotni-srub
-line: Náchod
-region: Královéhradecký kraj
+title: 'N-S 82 „Březinka"'
+code: 'N-S 82'
+type: 'pechotni-srub'
+line: 'Náchod'
+region: 'Královéhradecký kraj'
 location:
   lat: 50.4261
   lon: 16.1631
-  address: Náchod — Běloves
+  address: 'Náchod — Běloves'
 built: '1937'
-state: muzeum
-description: Oboustranný pěchotní srub odolnosti III, součást náchodského úseku — rekonstruovaný Klubem vojenské historie Náchod na nejkvalitnější úroveň mezi soukromými expozicemi v ČR.
+state: 'muzeum'
+description: 'Pěchotní srub u Náchoda, precizně rekonstruovaný Klubem vojenské historie. Jeden z nejpropracovanějších exemplářů zpřístupněných veřejnosti mimo velké skanzeny.'
 history: |
-  Pěchotní srub N-S 82 „Březinka" byl postaven v roce 1937 jako součást náchodského obranného úseku, který měl krýt tzv. Kladskou bránu — historicky nejsnazší invazní koridor do Čech od severovýchodu. Projekt vypracovala II. ekspozitura ŘOP Hradec Králové, výstavbu zadala firma Ing. Rudolf Frič Praha. Jde o oboustranný pěchotní srub typu B, odolnost III (stěny 275 cm, stropy 350 cm železobetonu) — tedy ve vyšší kategorii než obvyklé sruby linie.
+  Srub N-S 82 „Březinka" byl součástí linie úseku Náchod. V září 1938 byl plně obsazen a připraven k boji, po Mnichovu předán Wehrmachtu.
 
-  Výzbroj: v obou křídlech protitankový kanón vz. 36 ráže 4,7 cm spřažený s těžkým kulometem vz. 37 (lafeta L1 „spárovaná střílna"), v týlu čelní střílny pro lehký kulomet vz. 26 v kulové lafetě N (obrana vchodu). Na střeše tři pancéřové zvony — dva pozorovací, jeden kulometný. Kasárna pro 38 mužů, vlastní studna, filtroventilace pro provoz ve zplyněném prostředí, záložní ruční ventilace.
-
-  V září 1938 byla Březinka v plném mobilizačním stavu — garnison pod velením nadporučíka Karla Žalmana, plná munice, funkční výzbroj. Díky vyšší odolnosti a poloze v relativním zakrytu (na výstupu z údolí Metuje) byla jednou z nejlépe bráněných pozic celé linie. Po Mnichovu byla bez boje předána Wehrmachtu.
-
-  Za války ji Wehrmacht používal pouze jako skladovací objekt. Zajímavostí je, že pancéřové zvony na N-S 82 nebyly odvezeny do Říše (na rozdíl od většiny blízkých srubů) — s největší pravděpodobností proto, že objekt ležel v bezprostřední blízkosti frontové zóny a Wehrmacht jej chtěl mít funkční. Po válce byl srub v relativně dobrém stavu, ale armáda o něj zájem neprojevila.
-
-  V 70. a 80. letech byl objekt volně přístupný, podléhal vandalismu a používán jako skladiště. Systematická rekonstrukce začala v roce 1995 pod vedením Klubu vojenské historie Náchod (KVH Náchod). V průběhu 20 let byla obnovena veškerá vnitřní výzbroj v replikách, pancéřová výzbroj (lafety L1, zvony s periskopy), včetně unikátní funkční filtroventilační centrály. V roce 2011 byl N-S 82 vybrán Ministerstvem obrany ČR jako referenční rekonstrukční objekt pro potřeby historického výzkumu.
-
-  Mezi odborníky je Březinka označována za jeden ze tří nejkvalitněji rekonstruovaných srubů v ČR (vedle K-S 14 U cihelny a MO-S 9 Forman). Rozdíl: Březinka je soukromá iniciativa KVH, tedy příklad „bottom-up" péče o ŘOP.
+  Po válce byl dlouho opuštěn. Od 90. let ho rekonstruuje Klub vojenské historie Náchod — dnes patří k nejkvalitnějším soukromým rekonstrukcím v Česku.
 visit: |
-  Muzeum N-S 82 Březinka je otevřeno od dubna do října, zpravidla o víkendech a státních svátcích (10:00–17:00). Aktuální provozní doba, vstupné a rezervace pro větší skupiny na kvh-nachod.cz nebo brezinka.cz.
-
-  Doporučená délka prohlídky: 75 minut. Trasa zahrnuje obě bojové místnosti s výzbrojí, filtroventilační strojovnu (funkční — průvodce předvede provoz), oba pancéřové zvony zevnitř, vchodovou střílnu a kasárnu s dobovou výbavou. Unikátní je možnost si vyzkoušet ovládání periskopu v pancéřovém zvonu. V objektu celoročně 10 °C, teplé oblečení nutné.
-
-  Každoročně třetí víkend v srpnu „Obranu Březinky" — bojová ukázka s reenactory. Pravidelné tématické akce jsou oznámeny na Facebooku KVH Náchod.
-
-  Parkování u areálu Lázní Běloves (500 m od srubu, pěší přístup po značené cestě). Autobusem Náchod MHD linka 4 do zastávky Běloves. Vlakem Náchod hl. n. + autobus 20 min. Březinka je běžná zastávka cykloturistů na trase KČT 4057.
+  Otevřeno sezónně víkendy a o prázdninách. Informace na kvh-nachod.cz nebo brezinka.cz.
 sources:
-- kvh-nachod.cz
-- brezinka.cz
-- 'Lakosil J., Svoboda T.: Opevnění Náchodsko (FORTprint, 2009)'
-- 'Stehlík E.: Československé opevnění 1935–1938 (Mladá Fronta, 2013)'
-- ropiky.net — N-S 82
+  - 'kvh-nachod.cz'
+  - 'ropiky.net — N-S 82'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/n-s-82-b-ezinka-1.jpg
-  alt: N-S 82 Březinka — muzeum náchodské linie
-  author: Vlasakovo
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:N-S_82_B%C5%99ezinka_1.jpg
-- url: /img/forts/n-chod-b-loves-n-s-82-rok-2002-01-.jpg
-  alt: N-S 82 Březinka v Bělovsi
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:N%C3%A1chod,_B%C4%9Bloves,_N-S_82_(rok_2002;_01).jpg

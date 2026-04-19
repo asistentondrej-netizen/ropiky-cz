@@ -1,41 +1,24 @@
-title: MO-S 26 „U Olše"
-code: MO-S 26
-type: pechotni-srub
-line: Moravská Ostrava
-region: Moravskoslezský kraj
+title: 'MO-S 26 „U Olše"'
+code: 'MO-S 26'
+type: 'pechotni-srub'
+line: 'Moravská Ostrava'
+region: 'Moravskoslezský kraj'
 location:
-  lat: 49.895
-  lon: 18.556
-  address: Bohumín, břeh řeky Olše
-built: '1937'
-state: rozpadly
-description: Pěchotní srub u řeky Olše — krajní severní objekt hlavního postavení. Odolnost II, po válce poškozen. Zachovány
-  betonové stěny, otvory pro zbraně vylámány.
-history: 'MO-S 26 byl budován v první fázi (1936) a patří mezi nejstarší objekty těžkého opevnění. Jeho úkolem byla obrana
-  železničního a silničního mostu přes Olši.
-
+  lat: 49.8950
+  lon: 18.5560
+  address: 'Bohumín, břeh řeky Olše'
+built: '1936'
+state: 'pristupny'
+description: 'Pěchotní srub u soutoku Odry a Olše. Jeden z nejstarších srubů linie MO, součástí obrany důležitého železničního uzlu Bohumín.'
+history: |
+  MO-S 26 byl budován v první fázi (1936) a patří mezi nejstarší objekty těžkého opevnění. Jeho úkolem byla obrana železničního a silničního mostu přes Olši.
 
   Po Mnichovu zabrán polskou armádou spolu s celým Těšínskem. Po válce součástí linie ČSLA, později opuštěn.
 
-
   Dnes volně přístupný vnějšek, součást informačního okruhu „Stopy opevnění na Ostravsku".
-
-  '
-visit: 'Volně přístupný objekt v blízkosti hraničního přechodu. Dobré výchozí místo pro návštěvu celé linie MO.
-
-  '
+visit: |
+  Volně přístupný objekt v blízkosti hraničního přechodu. Dobré výchozí místo pro návštěvu celé linie MO.
 sources:
-- ropiky.net — MO-S 26
-- Stopy opevnění Ostravska
+  - 'ropiky.net — MO-S 26'
+  - 'Stopy opevnění Ostravska'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/kozmice-mo-s-26-2015-05-01-01-.jpg
-  alt: MO-S 26 u Kozmic — pěchotní srub
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Kozmice,_MO-S_26_(2015-05-01;_01).jpg
-- url: /img/forts/kozmice-mo-s-26-2015-05-01-03-.jpg
-  alt: MO-S 26 — detail
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Kozmice,_MO-S_26_(2015-05-01;_03).jpg

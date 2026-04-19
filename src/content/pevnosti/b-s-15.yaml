@@ -1,0 +1,45 @@
+title: B-S-15 „Ostrov"
+code: B-S-15
+type: pechotni-srub
+line: Bratislavské předmostí
+region: Bratislavský kraj
+location:
+  lat: 48.100468
+  lon: 17.137743
+state: neznamy
+description: Pěchotní srub B-S-15 „Ostrov" na úseku Bratislavské předmostí. Součást
+  československého těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického
+  Německa.
+history: 'Úsek Bratislava — jediné těžké opevnění na Slovensku. Petržalská linie podél
+  Dunaje proti útoku z Rakouska.
+
+
+  Srub B-S-15 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
+  dokončení a výzbroj závisely na fázi budování daného úseku.
+
+
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
+  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
+  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
+  v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
+  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
+  oblasti.
+
+
+  **GPS:** 48.100468, 17.137743 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=17.137743&y=48.100468&z=17&source=coor&id=17.137743%2C48.100468).
+
+
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
+  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
+  GPS navigaci.'
+sources:
+- OpenStreetMap (OSM element way/210245335)
+- ropiky.net — databáze čs. opevnění
+updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bunker_B-S_15_Ostrov.jpg/1280px-Bunker_B-S_15_Ostrov.jpg
+  alt: Pěchotní srub B-S-15
+  author: TeodS
+  license: CC0
+  source: https://commons.wikimedia.org/wiki/File:Bunker_B-S_15_Ostrov.jpg

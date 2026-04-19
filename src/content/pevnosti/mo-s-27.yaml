@@ -1,0 +1,45 @@
+title: MO-S-27
+code: MO-S-27
+type: pechotni-srub
+line: Moravská Ostrava
+region: Moravskoslezský kraj
+location:
+  lat: 49.933153
+  lon: 18.171829
+state: neznamy
+description: Pěchotní srub MO-S-27 na úseku Moravská Ostrava. Součást československého
+  těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
+history: 'Úsek Moravská Ostrava — těžké opevnění 1935–1938, bránící průmyslovou oblast
+  Ostravy proti útoku z Polska a Německa. Jeden z nejkompletněji postavených úseků
+  čs. opevnění.
+
+
+  Srub MO-S-27 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
+  dokončení a výzbroj závisely na fázi budování daného úseku.
+
+
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
+  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
+  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
+  v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
+  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
+  oblasti.
+
+
+  **GPS:** 49.933153, 18.171829 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=18.171829&y=49.933153&z=17&source=coor&id=18.171829%2C49.933153).
+
+
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
+  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
+  GPS navigaci.'
+sources:
+- OpenStreetMap (OSM element way/52430941)
+- ropiky.net — databáze čs. opevnění
+updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kozmice%2C_MO-S_27_%282015-05-01%3B_02%29.jpg/1280px-Kozmice%2C_MO-S_27_%282015-05-01%3B_02%29.jpg
+  alt: Pěchotní srub MO-S-27
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kozmice,_MO-S_27_(2015-05-01;_02).jpg

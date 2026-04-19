@@ -21,6 +21,26 @@ const stateLabels: Record<string, string> = {
   zničeny: 'Zničený',
   neznamy: 'Neznámý stav',
 };
+
+// Typový nákres jako fallback místo generického placeholderu
+const typeDrawing: Record<string, string> = {
+  'pechotni-srub': '/img/typ-pechotni-srub.svg',
+  'delostrelecka-tvrz': '/img/typ-delostrelecka-tvrz.svg',
+  'lo-vz-37': '/img/typ-lo-vz-37.svg',
+  'lo-vz-36': '/img/typ-lo-vz-36.svg',
+  'lo-vz-38': '/img/typ-lo-vz-38.svg',
+  'pancerovy-zvon': '/img/typ-pancerovy-zvon.svg',
+};
+const drawingSrc = typeDrawing[d.type] || '/img/placeholder-bunker.svg';
+const typeNames: Record<string, string> = {
+  'pechotni-srub': 'pěchotní srub',
+  'delostrelecka-tvrz': 'dělostřelecká tvrz',
+  'lo-vz-37': 'řopík LO vz. 37',
+  'lo-vz-36': 'objekt LO vz. 36',
+  'lo-vz-38': 'objekt LO vz. 38',
+  'pancerovy-zvon': 'pancéřový zvon',
+};
+const typeName = typeNames[d.type] || d.type;
 ---
 
 <BaseLayout
@@ -42,9 +62,15 @@ const stateLabels: Record<string, string> = {
   </header>
 
   {(!d.photos || d.photos.length === 0) && (
-    <div class="fort-placeholder" aria-hidden="true">
+    <div class="fort-placeholder">
       <div class="container">
-        <img src="/img/placeholder-bunker.svg" alt="" loading="lazy" />
+        <figure style="margin: 0; max-width: 720px; margin-inline: auto;">
+          <img src={drawingSrc} alt={`Schematický nákres typu ${typeName}`} loading="lazy"
+               style="width: 100%; height: auto; background: var(--paper-dark); padding: var(--s4); border: 1px solid var(--line);" />
+          <figcaption style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s2); font-style: italic; text-align: center;">
+            Schematický nákres typu „{typeName}". Fotografie tohoto konkrétního objektu nemáme k dispozici — pokud nějakou máte, <a href="/kontakt">napište nám</a>.
+          </figcaption>
+        </figure>
       </div>
     </div>
   )}

@@ -1,0 +1,24 @@
+title: 'MO-S 9 „Forman"'
+code: 'MO-S 9'
+type: 'pechotni-srub'
+line: 'Moravská Ostrava'
+region: 'Moravskoslezský kraj'
+location:
+  lat: 49.9142
+  lon: 18.3244
+  address: 'Šilheřovice — Darkovičky'
+built: '1937'
+state: 'muzeum'
+description: 'Součást Vojensko-historického areálu Darkovičky — největšího muzea čs. opevnění v ČR. Plně vystrojený pěchotní srub s originální výzbrojí.'
+history: |
+  MO-S 9 „Forman" byl postaven v roce 1937 jako součást husté ostravské linie. Dvoukřídlý srub s bočními střílnami pro protitankové i protipěchotní zbraně.
+
+  Po Mnichovu zabrán Wehrmachtem. Po roce 1946 československá armáda objekty udržovala jako součást „studené války" — díky tomu se dochoval ve výborném stavu.
+
+  Od roku 1994 součást Vojensko-historického areálu Darkovičky pod správou Slezského zemského muzea. Jeden z nejpopulárnějších návštěvnických objektů čs. opevnění.
+visit: |
+  Muzeum Darkovičky — sezónně, vstupné, průvodcovský výklad. V areálu i další objekty MO-S 5, MO-S 7 a pozorovatelna. Srub je plně vystrojený.
+sources:
+  - 'szm.cz — Darkovičky'
+  - 'ropiky.net — MO-S 9'
+updated: '2026-04-18'

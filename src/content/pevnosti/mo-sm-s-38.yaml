@@ -1,0 +1,49 @@
+title: MO-SM-S-38
+code: MO-SM-S-38
+type: pechotni-srub
+line: Moravská Ostrava
+region: Moravskoslezský kraj
+location:
+  lat: 49.896282
+  lon: 18.081146
+state: neznamy
+description: Pěchotní srub MO-SM-S-38 náležející k dělostřelecké tvrzi Smolkov na
+  úseku Moravská Ostrava. Součást československého těžkého opevnění z let 1935–1938.
+history: 'Úsek Moravská Ostrava — těžké opevnění 1935–1938, bránící průmyslovou oblast
+  Ostravy proti útoku z Polska a Německa. Jeden z nejkompletněji postavených úseků
+  čs. opevnění.
+
+
+  Srub MO-SM-S-38 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
+  dokončení a výzbroj závisely na fázi budování daného úseku.
+
+
+  Srub byl stavěn jako součást obranného obvodu tvrze Smolkov — jednoho z hlavních
+  dělostřeleckých objektů plánované čs. linie.
+
+
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
+  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
+  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
+  v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
+  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
+  oblasti.
+
+
+  **GPS:** 49.896282, 18.081146 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=18.081146&y=49.896282&z=17&source=coor&id=18.081146%2C49.896282).
+
+
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
+  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
+  GPS navigaci.'
+sources:
+- OpenStreetMap (OSM element way/292573399)
+- ropiky.net — databáze čs. opevnění
+updated: '2026-04-19'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg/1280px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg
+  alt: Pěchotní srub MO-SM-S-38
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_01).jpg

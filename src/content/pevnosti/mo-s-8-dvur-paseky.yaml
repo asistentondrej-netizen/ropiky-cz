@@ -1,59 +1,25 @@
-title: MO-S 8 „Dvůr Paseky"
-code: MO-S 8
-type: pechotni-srub
-line: Moravská Ostrava
-region: Moravskoslezský kraj
+title: 'MO-S 8 „Dvůr Paseky"'
+code: 'MO-S 8'
+type: 'pechotni-srub'
+line: 'Moravská Ostrava'
+region: 'Moravskoslezský kraj'
 location:
   lat: 49.8861
   lon: 18.3305
-  address: Hlučín-Darkovičky, skanzen čs. opevnění
-built: 1935 (první betonáž 15.–22. 12. 1935)
-state: muzeum
-description: Historicky první pěchotní srub celého čs. opevnění — prvenství v betonáži v prosinci 1935. Dnes součást skanzenu
-  Darkovičky.
-history: 'Pěchotní srub MO-S 8 „Dvůr Paseky" u Bohumína je **historicky prvním realizovaným objektem** celého systému československého
-  opevnění. Betonáž probíhala ve dnech 15.–22. prosince 1935 jako pilotní projekt ŘOP.
-
+  address: 'Hlučín-Darkovičky, skanzen čs. opevnění'
+built: '1935 (první betonáž 15.–22. 12. 1935)'
+state: 'muzeum'
+description: 'Historicky první pěchotní srub celého čs. opevnění — prvenství v betonáži v prosinci 1935. Dnes součást skanzenu Darkovičky.'
+history: |
+  Pěchotní srub MO-S 8 „Dvůr Paseky" u Bohumína je **historicky prvním realizovaným objektem** celého systému československého opevnění. Betonáž probíhala ve dnech 15.–22. prosince 1935 jako pilotní projekt ŘOP.
 
   Sloužil jako referenční objekt, na němž byly odzkoušeny stavební postupy, které pak řídily výstavbu celé linie.
 
-
-  Po Mnichovu byl předán Wehrmachtu. Dnes je součástí pevnostního skanzenu Hlučín-Darkovičky, kde ho lze navštívit společně
-  s MO-S 5, MO-S 19 a MO-S 20.
-
-  '
-visit: 'Dělostřelecký srub — jediný dokončený svého typu v Areálu čs. opevnění Hlučín-Darkovičky. Doplňuje triumvirát pěchotních
-  srubů (MO-S 5, 19, 20) o ukázku nejtěžší výzbroje čs. opevnění.
-
-
-  **Otevírací doba:** duben–listopad, víkendy 10:00–17:00, v hlavní sezóně denně mimo pondělí. V rámci prohlídky areálu.
-
-
-  **Vstupné:** součást kombinované vstupenky skanzenu (150 Kč dospělí / 80 Kč děti / 380 Kč rodina).
-
-
-  **Co uvidíte:** rozsáhlý třístranný srub II. stupně odolnosti, ukázka dělostřelecké zbraňové platformy (houfnice 10cm vz.
-  38 byla plánována, dodána nebyla — dnes replika lafet), střelecké místnosti, ubytovny pro posádku 42 mužů, filtroventilace,
-  munice. Masivnější konstrukce než pěchotní sruby — stěny 275 cm betonu.
-
-
-  **Doporučená délka:** 30 minut, v rámci celkové prohlídky skanzenu 3–4 hodiny.
-
-
-  **Dostupnost:** V rámci areálu Hlučín-Darkovičky, vstup přes hlavní pokladnu. Parkování zdarma u vstupu. Vlakem do Hlučína
-  + 3 km.
-
-
-  **Doporučeno kombinovat s:** kompletní prohlídkou skanzenu (ostatní sruby a venkovní expozici zbraní). Pro srovnání s dělostřeleckou
-  tvrzí doporučujeme návštěvu Bouda (Králíky, 160 km) nebo Hanička (Orlické hory, 180 km).'
+  Po Mnichovu byl předán Wehrmachtu. Dnes je součástí pevnostního skanzenu Hlučín-Darkovičky, kde ho lze navštívit společně s MO-S 5, MO-S 19 a MO-S 20.
+visit: |
+  V rámci skanzenu Darkovičky, Slezské zemské muzeum. Aktuální otevírací doba na szm.cz.
 sources:
-- Slezské zemské muzeum
-- Wikipedia — Areál čs. opevnění Hlučín-Darkovičky
-- ropiky.net — MO-S 8
+  - 'Slezské zemské muzeum'
+  - 'Wikipedia — Areál čs. opevnění Hlučín-Darkovičky'
+  - 'ropiky.net — MO-S 8'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/-ilhe-ovice-mo-s-8-2015-05-08-17-.jpg
-  alt: MO-S 8 Paseky u Šilheřovic
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:%C5%A0ilhe%C5%99ovice,_MO-S_8_(2015-05-08;_17).jpg

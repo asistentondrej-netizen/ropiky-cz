@@ -9,58 +9,6 @@ cover: "/img/clanky/darkovicky-hero.jpg"
 
 **Naučná stezka Darkovičky** je **nejnavštěvovanější fortifikační stezka na Moravě** a zároveň jedna z nejrodinnějších. Provádí návštěvníka po kompletní **linii pěti pěchotních srubů** MO-S 19 až MO-S 23, kterou udržuje **Slezské zemské muzeum**. Stezka je vhodná pro všechny věkové kategorie, dobře dostupná z Ostravy a kombinuje **venkovní prohlídku** s **interiérovými expozicemi** tří otevřených objektů.
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-
-<div id="darkovicky-map" style="height: 460px; border: 1px solid #C9BFA8; background: #F5F1E8; margin: 24px 0;"></div>
-
-<script>
-(function(){
-  function init(){
-    if (typeof L === 'undefined') { setTimeout(init, 100); return; }
-    var el = document.getElementById('darkovicky-map');
-    if (!el || el._inited) return; el._inited = true;
-    var map = L.map('darkovicky-map', { scrollWheelZoom:false }).setView([49.912, 18.145], 15);
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom:18, attribution:'© OpenStreetMap' }).addTo(map);
-    map.on('click', function(){ map.scrollWheelZoom.enable(); });
-    var body = [
-      {n:'◆', title:'Muzejní vstup Darkovičky', lat:49.9098, lon:18.1418, href:null, note:'Pokladna, úvodní expozice, parkoviště', color:'#7A3B2E'},
-      {n:1, title:'MO-S 19 „Alej" (interiér)', lat:49.91037, lon:18.14058, href:'/katalog/mo-s-19-alej', note:'Nejrekonstruovanější srub v ČR — prohlídka 30 min s průvodcem', color:'#2D5F3F'},
-      {n:2, title:'MO-S 20 „Orel" (interiér)', lat:49.91112, lon:18.14203, href:'/katalog/mo-s-20-orel', note:'Hlavní palebný objekt — protitankový kanón vz. 36', color:'#2D5F3F'},
-      {n:3, title:'MO-S 21 „Šibenice" (interiér)', lat:49.91205, lon:18.14380, href:null, note:'Otevřeno od 2023 — jiný typ pancéřového zvonu', color:'#2D5F3F'},
-      {n:4, title:'MO-S 22 (externě)', lat:49.91310, lon:18.14570, href:null, note:'Neudržovaný srub — pedagogická ukázka destrukce', color:'#5A6B4F'},
-      {n:5, title:'MO-S 23 „Na chlupáči" (externě)', lat:49.91420, lon:18.14770, href:'/katalog/mo-s-23-na-chlupaci', note:'Externí objekt v polní krajině — ideální pro fotografii', color:'#5A6B4F'}
-    ];
-    body.forEach(function(p){
-      var icon = L.divIcon({ className:'', html:'<div style="width:30px;height:30px;border-radius:50%;background:'+p.color+';color:white;font-weight:700;display:flex;align-items:center;justify-content:center;font-size:14px;border:2px solid white;box-shadow:0 1px 5px rgba(0,0,0,0.4);">'+p.n+'</div>', iconSize:[34,34], iconAnchor:[17,17] });
-      var html = '<div style="font-family:inherit;min-width:220px;"><strong style="font-size:0.95rem;color:#3A2F20;">'+p.title+'</strong><br/><span style="font-size:0.8rem;color:#5A4A33;">'+p.note+'</span>'+(p.href?'<br/><a href="'+p.href+'" style="color:#7A3B2E;font-size:0.85rem;font-weight:600;margin-top:6px;display:inline-block;">Detail objektu →</a>':'')+'</div>';
-      L.marker([p.lat, p.lon], {icon:icon}).addTo(map).bindPopup(html);
-    });
-    L.polyline(body.map(function(p){return [p.lat, p.lon];}), {color:'#B85C2E', weight:3, opacity:0.85, dashArray:'6,4'}).addTo(map);
-    var bounds = L.latLngBounds(body.map(function(p){return [p.lat, p.lon];}));
-    map.fitBounds(bounds, {padding:[30,30]});
-  }
-  if (document.readyState==='loading') document.addEventListener('DOMContentLoaded', init); else init();
-})();
-</script>
-
-> **Okruh 4 km** — pět pěchotních srubů MO-S 19 Alej → MO-S 20 Orel → MO-S 21 Šibenice → MO-S 22 → MO-S 23 Na chlupáči. Tmavě zelené body jsou **muzea s interiérem**, světle zelené **externě přístupné**, hnědý kosočtverec je **vstup do areálu**. Klikněte na marker pro detail.
-
-<div class="photo-grid">
-  <figure>
-    <img src="/img/forts/hlu-n-darkovi-ky-mo-s-19-rok-2001-01-.jpg" alt="MO-S 19 Alej — pěchotní srub s rekonstruovaným interiérem" />
-    <figcaption>MO-S 19 Alej — nejrekonstruovanější srub v ČR (Wikimedia Commons)</figcaption>
-  </figure>
-  <figure>
-    <img src="/img/forts/darkovice-mo-s-20-2015-05-01-03-.jpg" alt="MO-S 20 Orel — hlavní palebný objekt linie Darkovičky" />
-    <figcaption>MO-S 20 Orel — s protitankovým kanónem vz. 36 v lafetě</figcaption>
-  </figure>
-  <figure>
-    <img src="/img/forts/darkovice--mo-s-23--2015-05-01--01-.jpg" alt="MO-S 23 — poslední objekt linie Darkovičky" />
-    <figcaption>MO-S 23 — externí objekt v polní krajině</figcaption>
-  </figure>
-</div>
-
 ## Základní údaje
 
 | Parametr | Hodnota |
@@ -95,7 +43,7 @@ Hned za vstupem **pole ocelových ježků a betonových zátarasů** — rekonst
 
 **Nejrekonstruovanější srub v ČR.** Vstupujete do plně vybaveného interiéru — lůžka, stoly, kulometné lafety, pancéřový zvon, munice v regálech. **Prohlídka trvá 30 minut** s průvodcem (plánovanou v každou celou hodinu).
 
-→ Detail: [MO-S 19 Alej](/katalog/mo-s-19-alej)
+→ Detail: [MO-S 19 Alej](/pevnosti/mo-s-19-alej)
 
 ### Zastavení 4: Polní opevnění mezi objekty
 
@@ -105,21 +53,21 @@ Mezi MO-S 19 a MO-S 20 je **rekonstruovaný úsek polního opevnění** — zák
 
 Druhé otevřené muzeum. Orel byl **hlavní palebný objekt** v linii — zde si můžete prohlédnout **protitankový kanón vz. 36 v originální lafetě** (replika). Prohlídka 25 min.
 
-→ Detail: [MO-S 20 Orel](/katalog/mo-s-20-orel)
+→ Detail: [MO-S 20 Orel](/pevnosti/mo-s-20-orel)
 
-### Zastavení 6: MO-S 21 „Šibenice" (interiér otevřen od 2023)
+### Zastavení 6: MO-S 21 „Ostrý" (interiér otevřen od 2023)
 
-**Nejnovější přírůstek** muzejní expozice. Otevřeno od jara 2023 po rozsáhlé rekonstrukci. Zajímavost: Šibenice má **jiný typ pancéřového zvonu** než předchozí dva objekty (vyšší stupeň odolnosti) — tabule vysvětluje rozdíl.
+**Nejnovější přírůstek** muzejní expozice. Otevřeno od jara 2023 po rozsáhlé rekonstrukci. Zajímavost: Ostrý má **jiný typ pancéřového zvonu** než předchozí dva objekty (vyšší stupeň odolnosti) — tabule vysvětluje rozdíl.
 
-### Zastavení 7: MO-S 22 (externě)
+→ Detail: [MO-S 21 Ostrý](/pevnosti/mo-s-21-ostry)
 
-**Pouze externě přístupný** srub. Tabule vysvětluje, proč tento objekt nebyl dosud rekonstruován — silně poškozen po válce. Pedagogický kontext: destruovaný objekt pro srovnání s rekonstruovanými sousedy.
+### Zastavení 7: MO-S 22 „Hotovost" (externě)
 
-### Zastavení 8: MO-S 23 „Na chlupáči" (externě)
+**Pouze externě přístupný** srub. Tabule vysvětluje, proč tento objekt nebyl dosud rekonstruován — **odhalen sovětskou minou** v 50. letech (po vojenských cvičeních), zůstává v tomto stavu. Pedagogický kontext: destruovaný objekt pro srovnání s rekonstruovanými sousedy.
+
+### Zastavení 8: MO-S 23 „Vršek" (externě)
 
 Poslední objekt linie, externě přístupný. Nachází se **na okraji pole**, v polně-krajinném prostředí — ideální pro **fotografii objektu v krajině**, jak byl původně zasazen.
-
-→ Detail: [MO-S 23 Na chlupáči](/katalog/mo-s-23-na-chlupaci)
 
 ### Zastavení 9: Podzemní dělostřelecká baterie (demonstrace)
 
@@ -180,7 +128,7 @@ Vhodné **od 6 let**, optimální od 8–10 let (kdy dítě rozumí historickém
 
 ## Související obsah
 
-- [MO-S 19 Alej](/katalog/mo-s-19-alej), [MO-S 20 Orel](/katalog/mo-s-20-orel), [MO-S 23 Na chlupáči](/katalog/mo-s-23-na-chlupaci)
+- [MO-S 19 Alej](/pevnosti/mo-s-19-alej), [MO-S 20 Orel](/pevnosti/mo-s-20-orel), [MO-S 21 Ostrý](/pevnosti/mo-s-21-ostry)
 - [Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu) — Darkovičky jsou v TOP 10 (č. 4)
 - [Typologie: pěchotní srub](/typologie/pechotni-srub) — pro teoretické pozadí
 

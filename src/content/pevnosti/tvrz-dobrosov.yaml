@@ -1,46 +1,25 @@
-title: Tvrz Dobrošov
-code: N-S Tvrz Dobrošov
-type: delostrelecka-tvrz
-line: Náchod
-region: Královéhradecký kraj
+title: 'Tvrz Dobrošov'
+code: 'N-S Tvrz Dobrošov'
+type: 'delostrelecka-tvrz'
+line: 'Náchod'
+region: 'Královéhradecký kraj'
 location:
   lat: 50.4106
   lon: 16.1856
-  address: Dobrošov 125, 547 01 Náchod
-built: 1937–1938 (nedokončeno)
-state: muzeum
-description: Rozestavěná dělostřelecká tvrz nad Náchodem — stavební práce pokročily pouze z 60 %, podzemní systém je však téměř kompletní. Sály v hloubce 40 m patří k největším v čs. opevnění. Pod správou Husitského muzea v Náchodě.
+  address: 'Dobrošov, 547 01 Náchod'
+built: '1938 (nedokončeno)'
+state: 'muzeum'
+description: 'Nedokončená tvrz s největšími podzemními sály čs. opevnění. Přístupná podzemní trasa je přes 1 km dlouhá.'
 history: |
-  Projekt tvrze Dobrošov na kopci Dobrošov (624 m n. m.) nad Náchodem zpracovala II. ekspozitura ŘOP v Hradci Králové (plukovník František Peřinka) jako uzlový bod náchodského úseku a obranu přístupu údolím Metuje. Výstavbu zajišťovala firma Ing. Záruba-Pfeffermann a spol. Praha, zahájení přišlo v listopadu 1937 — tedy téměř rok a půl po Boudě nebo Hůrce.
+  Tvrz Dobrošov u Náchoda byla stavěna od roku 1937 jako součást linie chránící severovýchodní Čechy. V září 1938 byla teprve v pokročilé fázi výstavby — povrchové sruby byly zčásti betonovány, podzemní systém vyražen téměř kompletně.
 
-  Tvrz měla sestávat ze šesti bojových srubů (N-S 72 Můstek, N-S 73 Jeřáb, N-S 74 Zelený, N-S 75 V zahradě, N-S 76 Na rozhraní a N-S 81 Jeřáb II) a vchodového objektu N-S 71, spojených podzemním systémem o plánované délce 1,8 km v hloubce 35–40 m pod hřebenem. Výzbroj měla zahrnovat čtyři houfnice vz. 38 ráže 10 cm v otočných věžích, minomety, těžké kulomety a pancéřové zvony s kulomety vz. 37.
+  Po Mnichovu byla výstavba přerušena. Wehrmacht zde od roku 1939 prováděl destruktivní střelecké pokusy, díky kterým je dnes v terénu vidět rozsáhlé poškození pancéřových prvků.
 
-  Ke dni 30. září 1938 byly stavebně dokončeny pouze dva bojové sruby (N-S 73, N-S 75), vchodový objekt z 90 %, ostatní pouze základy nebo hrubá betonáž. Podzemní ražba byla hotová z 90 % — sály S1 (muniční), S2 (strojovna), kasárna, filtrovna. Pancéřování nebylo osazeno prakticky vůbec, výzbroj žádná.
-
-  Po obsazení oblasti v říjnu 1938 začaly Wehrmacht a SS na tvrzi systematické střelecké zkoušky (říjen 1938–jaro 1939) — ostré testy průbojnosti granátů proti pancéřovým zvonům, výbušnými náložemi v podzemí, leteckými pumami. Část objektů byla zničena, pancéřové zvony ze srubů (vč. N-S 75) byly vytrženy a odvezeny do Říše k metalurgickému rozboru. Toto poškození je dodnes viditelné v terénu — srub N-S 73 má propálený zvon a poškozený strop.
-
-  Po válce byla tvrz ponechána v ruinách, pouze podzemí bylo použito krátce jako armádní sklad. V roce 1968 bylo Husitské muzeum v Náchodě (nyní Muzeum Náchodska) pověřeno postupným zpřístupněním — trvalo to až do 80. let. V roce 2010 byla prohlášena národní kulturní památkou. Dlouhodobá rekonstrukce probíhá dodnes s dotacemi z MK ČR.
+  Po válce byla tvrz částečně využívána armádou. Od 60. let probíhalo postupné zpřístupňování — dnes je jednou z nejnavštěvovanějších expozic čs. opevnění.
 visit: |
-  Expozici spravuje Muzeum Náchodska / Husitské muzeum v Náchodě. Otevřeno od poloviny dubna do konce října, prohlídky s průvodcem. Aktuální provozní doba a vstupné na muzeumnachodska.cz/expozice/pevnost-dobrosov.
-
-  Doporučená délka prohlídky: 80–100 minut. Prohlídková trasa zahrnuje vchodový objekt, podzemní galerii s 1 km ražených chodeb, hlavní muniční sál (80 × 10 × 7 m — jeden z největších podzemních sálů čs. opevnění), strojovnu a bojový srub N-S 73 (s propáleným zvonem jako mementem německých zkoušek). V podzemí je 7–9 °C — teplé oblečení nutné.
-
-  Parkování u infocentra v obci Dobrošov (cca 5 km od centra Náchoda). Pěší cesta od parkoviště k tvrzi 400 m. Přístup z Náchoda pěšky 1,5 h (červená značka přes Dobrošovský hřeben), autobusem Náchod–Nový Hrádek s výstupem Dobrošov. Tvrz je na cyklotrase KČT 4001.
+  Muzeum spravuje Husitské muzeum v Náchodě. Otevřeno od dubna do října, doba prohlídky podzemím cca 90 minut. Aktuální informace na muzeumnachodska.cz.
 sources:
-- muzeumnachodska.cz / Husitské muzeum Náchod
-- 'Stehlík E.: Lexikon tvrzí čs. opevnění (FORTprint, 2001)'
-- 'Aron L. a kol.: Československé opevnění 1935–1938 (Dvůr Králové, 1990)'
-- 'Lakosil J.: Dobrošov — osud tvrze (Fortprint, 2008)'
-- ropiky.net — Dobrošov
+  - 'Husitské muzeum — Pevnost Dobrošov'
+  - 'Wikipedia — Dobrošov (dělostřelecká tvrz)'
+  - 'ropiky.net — Dobrošov'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/tvrz-dobrosov-9.jpg
-  alt: Tvrz Dobrošov — bojový srub N-S 73 se stopami německých zkoušek
-  author: Martin Vraný
-  license: CC BY 2.5
-  source: https://commons.wikimedia.org/wiki/File:Tvrz-dobrosov-9.jpg
-- url: /img/forts/tvrz-dobrosov-6.jpg
-  alt: Tvrz Dobrošov — detail propáleného pancéřového prvku
-  author: Martin Vraný
-  license: CC BY 2.5
-  source: https://commons.wikimedia.org/wiki/File:Tvrz-dobrosov-6.jpg

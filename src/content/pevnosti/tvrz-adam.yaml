@@ -1,77 +1,22 @@
-title: Tvrz Adam
-code: K-S Tvrz Adam
-type: delostrelecka-tvrz
-line: Králíky
-region: Pardubický kraj
+title: 'Tvrz Adam'
+code: 'K-S Tvrz Adam'
+type: 'delostrelecka-tvrz'
+line: 'Králíky'
+region: 'Pardubický kraj'
 location:
   lat: 50.0942
   lon: 16.7769
-  address: Mladkov, 561 67 (okolí)
-built: 1936–1938
-state: zavreny
-description: Plně dokončená tvrz, třetí z trojice Bouda–Hůrka–Adam v Králickém úseku.
-  V soukromém vlastnictví a veřejnosti nepřístupná — jedna z mála tvrzí ŘOP, které
-  se dodnes nezpřístupnily.
-history: 'Tvrz Adam na severním okraji králického úseku byla projektována jako severní
-  „pant" páteřní linie Orlické hory–Jeseníky. Projekt zpracovala III. ekspozitura
-  ŘOP Brno, výstavbu zadala pražská firma Ing. Záruba-Pfeffermann v září 1936. Ze
-  tří králických tvrzí byla Adam stavebně zahájena jako poslední a dokončena jako
-  první.
+  address: 'Králíky'
+built: '1938'
+state: 'zavreny'
+description: 'Plně dokončená tvrz, třetí z trojice Bouda–Hůrka–Adam v Králickém pevnostním areálu. Nachází se v soukromém vlastnictví, veřejnosti zpravidla nepřístupná.'
+history: |
+  Tvrz Adam byla dokončena v roce 1938 jako třetí z „králické trojice" tvrzí. Po Mnichovu sloužila Wehrmachtu, po válce čs. armádě jako muniční sklad.
 
-
-  Tvrz zahrnuje pět bojových srubů (K-S 43 „Veverka" a K-S 45 „U cesty" — dělostřelecké;
-  K-S 44, K-S 46 a další — pěchotní) a vchodový objekt K-S 43a „Na sekyře". Podzemí
-  v délce 1 430 m je vyraženo v hloubce 25–30 m pod hřebenem, obsahuje dvě muniční
-  sály, strojovnu (3× diesel ČKD 6L150), kasárna pro 398 mužů, úpravnu vzduchu a filtroventilaci.
-  K září 1938 bylo stavebně kompletní, pancéřování osazeno z 95 %, výzbroj (houfnice,
-  minomety) však instalována nebyla.
-
-
-  Plánovaná výzbroj: dvě houfnicové věže vz. 38 ráže 10 cm v K-S 43 a K-S 45, minomety
-  M vz. 38 ráže 12 cm a osm těžkých kulometů vz. 37 v pancéřových zvonech.
-
-
-  Po obsazení v říjnu 1938 ji Wehrmacht použil pouze jako sklad munice. Německé armádní
-  zkoušky zde neprobíhaly — zřejmě proto, že Bouda a Hanička už poskytly dostatek
-  dat o čs. konstrukcích. Po válce Adam převzala československá armáda a od 50. let
-  ho provozovala jako sklad munice V. kategorie pod správou Ministerstva obrany.
-
-
-  V 90. letech byla tvrz prodána soukromému investorovi, který ji nezpřístupnil veřejnosti.
-  Od té doby je Adam uzavřený, s výjimkou nepravidelných akcí Klubu vojenské historie
-  nebo Společnosti přátel čs. opevnění. V roce 2017 byla prohlášena kulturní památkou,
-  ale její stav údržby není nezávisle ověřen.
-
-
-  Z pohledu historie ŘOP je Adam jedinou „zakonzervovanou" tvrzí — vnitřní stav z
-  roku 1945 je zřejmě zachován téměř beze změn, což ji činí unikátním potenciálem
-  pro budoucí archeologicko-fortifikační výzkum. Obecná odbornost se shoduje, že zpřístupnění
-  Adama by bylo pro poznání ŘOP zásadní.
-
-  '
-visit: 'Objekt je standardně uzavřený a v soukromém vlastnictví. Nepodnikejte pokusy
-  o samovolnou návštěvu — areál je oplocený a monitorovaný.
-
-
-  Výjimečné prohlídky občas pořádá Společnost přátel čs. opevnění nebo Klub vojenské
-  historie, informace o plánovaných akcích jsou na kvhkraliky.cz nebo v programu Dnů
-  NATO.
-
-
-  Povrchové objekty (bojové sruby a vchodový objekt) jsou zvenku částečně viditelné
-  z veřejných cest — jejich fotografování ze vzdálenosti je povolené. Nejlepší výhled
-  z modré turistické značky vedoucí od Mladkova směr Lichkov.
-
-  '
+  Na rozdíl od Boudy a Hůrky je Adam dnes v soukromém vlastnictví a veřejnosti zpravidla nepřístupný. Občas se pořádají výjimečné akce nebo prohlídky pro odborné skupiny.
+visit: |
+  Standardně uzavřeno. Sledujte informace Královéhradeckého kraje a Klubu vojenské historie, kteří občas pořádají speciální prohlídky.
 sources:
-- 'Stehlík E.: Lexikon tvrzí čs. opevnění (FORTprint, 2001)'
-- 'Aron L. a kol.: Československé opevnění 1935–1938 (Dvůr Králové, 1990)'
-- ropiky.net — Adam
-- Wikipedia — Adam (dělostřelecká tvrz)
+  - 'Wikipedia — Adam (dělostřelecká tvrz)'
+  - 'ropiky.net — Adam'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/k-s-36.jpg
-  alt: K-S 36 „Pod Adamem" — pěchotní srub tvrze Adam
-  author: Wikimedia Commons
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/Category:Czechoslovak_border_fortifications_in_Or%C5%82ick%C3%A9_hory

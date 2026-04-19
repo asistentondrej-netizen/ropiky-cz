@@ -1,61 +1,21 @@
-title: StM-S 33 „Na stráži"
-code: StM-S 33
-type: pechotni-srub
-line: Staré Město pod Sněžníkem
-region: Olomoucký kraj
+title: 'StM-S 33 „Na stráži"'
+code: 'StM-S 33'
+type: 'pechotni-srub'
+line: 'Staré Město pod Sněžníkem'
+region: 'Olomoucký kraj'
 location:
   lat: 50.1736
   lon: 16.9561
-  address: Staré Město pod Sněžníkem — Kunčice
+  address: 'Staré Město pod Sněžníkem — Kunčice'
 built: '1937'
-state: pristupny
-description: Pěchotní srub v horském terénu Jeseníků — jeden z nejvýše položených objektů čs. opevnění. Volně přístupný v
-  rámci turistických tras.
-history: 'StM-S 33 byl součástí horského úseku obrany v Jeseníkách. Výstavba probíhala v mimořádně náročných podmínkách —
-  těžba skály, transport materiálu vysokohorskou dopravou.
-
+state: 'pristupny'
+description: 'Pěchotní srub v horském terénu Jeseníků — jeden z nejvýše položených objektů čs. opevnění. Volně přístupný v rámci turistických tras.'
+history: |
+  StM-S 33 byl součástí horského úseku obrany v Jeseníkách. Výstavba probíhala v mimořádně náročných podmínkách — těžba skály, transport materiálu vysokohorskou dopravou.
 
   Po Mnichovu opuštěn, během okupace využíván Wehrmachtem. Dnes je součástí turistické trasy v oblasti Hanušovicka.
-
-  '
-visit: 'Volně přístupný pěchotní srub ve Staroměstské oblasti — součást obrany horní Moravy proti případnému útoku z Polska/Německa.
-
-
-  **Přístup:** celoročně volně, 24/7.
-
-
-  **Co uvidíte:** pěchotní srub II. odolnosti v horském terénu — střílny, pozorovací zvony. Objekt je nezrekonstruovaný, v
-  lesním prostředí.
-
-
-  **Doporučená délka:** 20 minut.
-
-
-  **Dostupnost:** Autem do Starého Města pod Sněžníkem (8 km) + polní cesta (500 m). Pěšky po horských stezkách z Ramzové
-  nebo Staroměstska.
-
-
-  **Bezpečnost:** horské prostředí, v zimě sněhové podmínky, v létě prudké svahy.
-
-
-  **Doporučeno kombinovat s:** Kralickým Sněžníkem, Ramzovou (lázeňský areál), Javornickou skálou. Horská túra s fortifikační
-  tématikou — typické pro Staroměstskou oblast.'
+visit: |
+  Volně přístupný vnějšek, součást pěších tras. Vnitřek zavřený.
 sources:
-- ropiky.net — StM-S 33
+  - 'ropiky.net — StM-S 33'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/p-chotn-srub-stm-s-33-les-k-01.jpg
-  alt: StM-S 33 Lesík — pěchotní srub
-  author: Michal Gregor
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_33_Les%C3%ADk_01.jpg
-- url: /img/forts/p-chotn-srub-stm-s-33-les-k-04.jpg
-  alt: StM-S 33 — celkový pohled
-  author: Michal Gregor
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_33_Les%C3%ADk_04.jpg
-- url: /img/forts/star-m-sto-stm-s-33-rok-2003-.jpg
-  alt: StM-S 33 ve stavu z roku 2003
-  author: User:Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_33_(rok_2003).jpg

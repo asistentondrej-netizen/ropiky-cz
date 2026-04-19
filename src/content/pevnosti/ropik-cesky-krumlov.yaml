@@ -1,31 +1,22 @@
-title: Řopíky u Českého Krumlova (šumavská linie)
-code: CK — jižní Čechy
-type: lo-vz-37
-line: Jižní Čechy (Šumava)
-region: Jihočeský kraj
+title: 'Řopíky u Českého Krumlova (šumavská linie)'
+code: 'CK — jižní Čechy'
+type: 'lo-vz-37'
+line: 'Jižní Čechy (Šumava)'
+region: 'Jihočeský kraj'
 location:
   lat: 48.7789
   lon: 14.3328
-  address: Okolí Českého Krumlova / Vyššího Brodu
+  address: 'Okolí Českého Krumlova / Vyššího Brodu'
 built: '1938'
-state: rozpadly
-description: Lehké opevnění kolem rakouské hranice v jižních Čechách. Objekty jsou roztroušené v lesích a polích, z velké části zarostlé a zchátralé.
-history: 'Jihočeská linie lehkého opevnění byla budována v poslední fázi výstavby (1937–1938) jako reakce na Anschluss Rakouska. Její hustota byla nižší než severní linie, systém se zaměřoval na hlavní komunikační uzly.
-
+state: 'rozpadly'
+description: 'Lehké opevnění kolem rakouské hranice v jižních Čechách. Objekty jsou roztroušené v lesích a polích, z velké části zarostlé a zchátralé.'
+history: |
+  Jihočeská linie lehkého opevnění byla budována v poslední fázi výstavby (1937–1938) jako reakce na Anschluss Rakouska. Její hustota byla nižší než severní linie, systém se zaměřoval na hlavní komunikační uzly.
 
   Po Mnichovu byla oblast součástí odstoupeného území. Po válce převážná většina řopíků zůstala opuštěná a postupně chátrala.
-
-  '
-visit: 'Objekty jsou rozeseté v terénu — vhodné jako součást turistiky v oblasti. Přehledné mapy nabízí ropiky.net a bunkry.cz.
-
-  '
+visit: |
+  Objekty jsou rozeseté v terénu — vhodné jako součást turistiky v oblasti. Přehledné mapy nabízí ropiky.net a bunkry.cz.
 sources:
-- ropiky.net — jižní Čechy
-- Wikipedia — Československé opevnění
+  - 'ropiky.net — jižní Čechy'
+  - 'Wikipedia — Československé opevnění'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/-op-k-u-R--en-iny-zahr-dky-2022-04-23.jpg
-  alt: Ilustrační foto — řopík u Růženčiny zahrádky v jižních Čechách
-  author: Olgierd Rudak
-  license: CC BY-SA 2.0
-  source: https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_u_R%C5%AF%C5%BEen%C4%8Diny_zahr%C3%A1dky_2022-04-23.jpg

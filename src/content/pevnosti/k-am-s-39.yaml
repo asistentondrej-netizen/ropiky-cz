@@ -1,0 +1,42 @@
+title: K-AM-S-39
+code: K-AM-S-39
+type: pechotni-srub
+line: Králicko
+region: Pardubický kraj
+location:
+  lat: 50.112025
+  lon: 16.609096
+state: neznamy
+description: Pěchotní srub K-AM-S-39 náležející k dělostřelecké tvrzi Adam na úseku
+  Králicko. Součást československého těžkého opevnění z let 1935–1938.
+history: 'Úsek Králicko na jižním úpatí Orlických hor — nejhustěji opevněný pás v
+  ČR. Tři dělostřelecké tvrze (Bouda, Adam, Hůrka) + přes 50 srubů.
+
+
+  Srub K-AM-S-39 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
+  dokončení a výzbroj závisely na fázi budování daného úseku.
+
+
+  Srub byl stavěn jako součást obranného obvodu tvrze Adam — jednoho z hlavních dělostřeleckých
+  objektů plánované čs. linie.
+
+
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
+  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
+  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
+  v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
+  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
+  oblasti.
+
+
+  **GPS:** 50.112025, 16.609096 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.609096&y=50.112025&z=17&source=coor&id=16.609096%2C50.112025).
+
+
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
+  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
+  GPS navigaci.'
+sources:
+- OpenStreetMap (OSM element node/3935647350)
+- ropiky.net — databáze čs. opevnění
+updated: '2026-04-19'

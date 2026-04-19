@@ -1,0 +1,38 @@
+title: T-S-43
+code: T-S-43
+type: pechotni-srub
+line: Trutnovsko
+region: Královéhradecký kraj
+location:
+  lat: 50.576417
+  lon: 16.015366
+state: neznamy
+description: Pěchotní srub T-S-43 na úseku Trutnovsko. Součást československého těžkého
+  opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
+history: 'Úsek Trutnov — opevnění severně od Trutnova včetně tvrze Stachelberg (největší
+  plánovaná tvrz, částečně dokončená).
+
+
+  Srub T-S-43 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
+  dokončení a výzbroj závisely na fázi budování daného úseku.
+
+
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
+  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
+  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
+  v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
+  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
+  oblasti.
+
+
+  **GPS:** 50.576417, 16.015366 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.015366&y=50.576417&z=17&source=coor&id=16.015366%2C50.576417).
+
+
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
+  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
+  GPS navigaci.'
+sources:
+- OpenStreetMap (OSM element way/253463486)
+- ropiky.net — databáze čs. opevnění
+updated: '2026-04-19'

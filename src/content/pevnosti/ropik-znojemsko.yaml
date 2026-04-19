@@ -1,58 +1,22 @@
-title: Řopíky na Znojemsku (linie Dyje)
-code: ZN — jižní Morava
-type: lo-vz-37
-line: Jižní Morava — Znojemsko
-region: Jihomoravský kraj
+title: 'Řopíky na Znojemsku (linie Dyje)'
+code: 'ZN — jižní Morava'
+type: 'lo-vz-37'
+line: 'Jižní Morava — Znojemsko'
+region: 'Jihomoravský kraj'
 location:
   lat: 48.8555
   lon: 16.0488
-  address: Okolí Znojma a Nového Šaldorfu
+  address: 'Okolí Znojma a Nového Šaldorfu'
 built: '1937'
-state: pristupny
-description: Linie lehkého opevnění kolem Dyje a rakouské hranice. Hustá síť řopíků v rovinatém až kopcovitém terénu jižní
-  Moravy.
-history: 'Znojemská linie byla zesílena po Anschlussu Rakouska v březnu 1938. V krátkém čase vzniklo několik stovek řopíků
-  podél toku Dyje a dnešní státní hranice.
+state: 'pristupny'
+description: 'Linie lehkého opevnění kolem Dyje a rakouské hranice. Hustá síť řopíků v rovinatém až kopcovitém terénu jižní Moravy.'
+history: |
+  Znojemská linie byla zesílena po Anschlussu Rakouska v březnu 1938. V krátkém čase vzniklo několik stovek řopíků podél toku Dyje a dnešní státní hranice.
 
-
-  Po Mnichovu a následné okupaci část objektů byla poškozena nebo odstřelena. Do dnešní doby se dochovala rozsáhlá síť, zčásti
-  zpřístupněná v rámci turistických tras.
-
-  '
-visit: 'Řopíky na linii Dyje v okolí Znojma — jižní část moravské obrany ŘOP proti Rakousku. Některé objekty jsou v přímém
-  sousedství národního parku Podyjí.
-
-
-  **Přístup:** celoročně volně, 24/7. Objekty rozptýlené v krajině.
-
-
-  **Co uvidíte:** cca 15 řopíků LO vz. 37 podél Dyje mezi Znojmem, Hnanicemi, Šatovem a Vranovem nad Dyjí. Některé přímo v
-  NP Podyjí — kombinace přírodních hodnot s vojenskou architekturou.
-
-
-  **Doporučená délka:** 3–5 hodin pro 4–6 řopíků s přírodními zastávkami.
-
-
-  **Dostupnost:** Autem ze Znojma (5–25 km podle objektu). Cyklisté: Moravská vinařská stezka nebo Národní park Podyjí cyklotrasy.
-  Vlakem do Znojma + kolo.
-
-
-  **Doporučeno kombinovat s:** Znojmem (Rotunda sv. Kateřiny, hrad), NP Podyjí (Šobes, Bítov), vinnými sklepy (Hnanice, Šatov),
-  hradem Vranov. Kombinace „opevnění + UNESCO (Lednicko-Valtický areál je blízko) + víno".'
+  Po Mnichovu a následné okupaci část objektů byla poškozena nebo odstřelena. Do dnešní doby se dochovala rozsáhlá síť, zčásti zpřístupněná v rámci turistických tras.
+visit: |
+  Oblast má hustou síť naučných stezek a cyklotras procházejících kolem řopíků. Některé objekty jsou udržované místními spolky.
 sources:
-- ropiky.net — Znojemsko
-- Vojenský klub Znojmo
+  - 'ropiky.net — Znojemsko'
+  - 'Vojenský klub Znojmo'
 updated: '2026-04-18'
-photos:
-- url: /img/forts/hevl-n-op-k-u-severn-silnice-4141-.jpg
-  alt: Řopík u Hevlína na Znojemsku — severní silnice
-  author: I would appreciate being notified if you use my work outside Wikimedia. Do not copy this image illegally by ignoring
-    the terms of the license below, a
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:Hevl%C3%ADn,_%C5%99op%C3%ADk_u_severn%C3%AD_silnice_(4141).jpg
-- url: /img/forts/hevl-n-op-k-u-p-ejezdu-4136-.jpg
-  alt: Řopík u Hevlína u přejezdu
-  author: I would appreciate being notified if you use my work outside Wikimedia. Do not copy this image illegally by ignoring
-    the terms of the license below, a
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:Hevl%C3%ADn,_%C5%99op%C3%ADk_u_p%C5%99ejezdu_(4136).jpg
