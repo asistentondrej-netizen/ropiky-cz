@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import SectionNav from '../../components/SectionNav.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('stranky');
@@ -26,4 +27,5 @@ const { Content } = await entry.render();
   sources={entry.data.sources}
 >
   <Content />
+  <SectionNav currentSlug={entry.slug} basePath="/o-opevneni" />
 </ArticleLayout>
