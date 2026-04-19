@@ -5,6 +5,7 @@ category: "lehke"
 description: "Experimentální kruhový objekt s otočnou pancéřovou věží. Nejvýraznější prototyp ŘOP — v provozu zůstaly dvě konstrukce před Mnichovem. Kvůli válce nebyl typ sériově vyráběn."
 period: "1938 (prototyp)"
 builtCount: 2
+isPrototype: true
 armament:
   - "Otočná věž pro 2× těžký kulomet vz. 37"
   - "Pomocný lehký kulomet vz. 26 v boční střílně"

@@ -337,8 +337,9 @@ section { padding: var(--s7) 0; }
 }
 .typology-card p { font-size: 0.9375rem; margin: 0; }
 
-/* Badge pro komponentu (pancéřový zvon apod.) */
-.typology-card--component {
+/* Badge a varianty typologických karet */
+.typology-card--component,
+.typology-card--prototype {
   border-style: dashed;
   background-color: var(--paper);
 }
@@ -356,19 +357,52 @@ section { padding: var(--s7) 0; }
   border-radius: 2px;
   z-index: 1;
 }
+.typology-card--prototype .typology-card__badge {
+  background: #7A3B2E;
+}
 
-/* Poznámka pod typologickým gridem */
-.typology-note {
-  margin-top: var(--s4);
-  padding: var(--s3);
-  background: var(--paper-dark);
-  border-left: 3px solid var(--rust, #7A3B2E);
+/* Oddělený blok "speciální případy / komponenty" */
+.typology-special {
+  margin-top: var(--s5);
+  padding-top: var(--s4);
+  border-top: 1px solid var(--line);
+}
+.typology-special__title {
+  font-size: 1rem;
+  font-family: var(--font-mono, monospace);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-light);
+  margin: 0 0 var(--s1) 0;
+  font-weight: 600;
+}
+.typology-special__lead {
   font-size: 0.875rem;
   color: var(--ink-light);
+  margin: 0 0 var(--s3) 0;
   line-height: 1.6;
 }
-.typology-note strong { color: var(--ink); }
-.typology-note a { color: var(--rust, #7A3B2E); font-weight: 600; }
+.typology-special__lead a {
+  color: #7A3B2E;
+  font-weight: 600;
+}
+/* Menší karty ve speciálním gridu */
+.typology-grid--special {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+.typology-grid--special .typology-card {
+  padding: var(--s3);
+  opacity: 0.92;
+}
+.typology-grid--special .typology-card h3 {
+  font-size: 1.125rem;
+}
+.typology-grid--special .typology-card__icon {
+  aspect-ratio: 20 / 12;
+}
+.typology-grid--special .typology-card:hover {
+  opacity: 1;
+}
 
 /* ---------- Karty pevností ---------- */
 .fort-grid {

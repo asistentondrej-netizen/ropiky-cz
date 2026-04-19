@@ -6,8 +6,12 @@ const typologie = (await getCollection('typologie')).sort(
   (a, b) => a.data.order - b.data.order
 );
 
-const lehke = typologie.filter((t) => t.data.category === 'lehke');
-const tezke = typologie.filter((t) => t.data.category === 'tezke');
+const isSpecial = (t: any) => t.data.isComponent === true || t.data.isPrototype === true;
+
+const lehkeMain     = typologie.filter((t) => t.data.category === 'lehke' && !isSpecial(t));
+const lehkeSpecial  = typologie.filter((t) => t.data.category === 'lehke' &&  isSpecial(t));
+const tezkeMain     = typologie.filter((t) => t.data.category === 'tezke' && !isSpecial(t));
+const tezkeSpecial  = typologie.filter((t) => t.data.category === 'tezke' &&  isSpecial(t));
 ---
 
 <BaseLayout
@@ -38,7 +42,7 @@ const tezke = typologie.filter((t) => t.data.category === 'tezke');
       </header>
 
       <div class="typology-grid">
-        {lehke.map((t) => (
+        {lehkeMain.map((t) => (
           <a href={`/typologie/${t.slug}`} class="typology-card">
             <div class="typology-card__icon" aria-hidden="true">
               <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
@@ -53,6 +57,38 @@ const tezke = typologie.filter((t) => t.data.category === 'tezke');
           </a>
         ))}
       </div>
+
+      {lehkeSpecial.length > 0 && (
+        <div class="typology-special">
+          <h3 class="typology-special__title">Speciální případy</h3>
+          <p class="typology-special__lead">
+            Prototypy a nesériové varianty — v <a href="/katalog">katalogu</a> ani v <a href="/mapa">mapě</a> je samostatně nenajdete.
+          </p>
+          <div class="typology-grid typology-grid--special">
+            {lehkeSpecial.map((t) => {
+              const isComp = t.data.isComponent === true;
+              const isProto = t.data.isPrototype === true;
+              const cls = ['typology-card', isComp ? 'typology-card--component' : '', isProto ? 'typology-card--prototype' : ''].filter(Boolean).join(' ');
+              const badge = isComp ? 'Komponenta' : (isProto ? 'Prototyp' : null);
+              return (
+                <a href={`/typologie/${t.slug}`} class={cls}>
+                  {badge && (<span class="typology-card__badge">{badge}</span>)}
+                  <div class="typology-card__icon" aria-hidden="true">
+                    <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
+                  </div>
+                  <div class="typology-card__code">{t.data.code}</div>
+                  <h3>{t.data.title}</h3>
+                  <div class="typology-card__meta">
+                    <span>{t.data.period}</span>
+                    {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
+                  </div>
+                  <p>{t.data.description}</p>
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      )}
     </div>
   </section>
 
@@ -67,7 +103,7 @@ const tezke = typologie.filter((t) => t.data.category === 'tezke');
       </header>
 
       <div class="typology-grid">
-        {tezke.map((t) => (
+        {tezkeMain.map((t) => (
           <a href={`/typologie/${t.slug}`} class="typology-card">
             <div class="typology-card__icon" aria-hidden="true">
               <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
@@ -82,6 +118,38 @@ const tezke = typologie.filter((t) => t.data.category === 'tezke');
           </a>
         ))}
       </div>
+
+      {tezkeSpecial.length > 0 && (
+        <div class="typology-special">
+          <h3 class="typology-special__title">Komponenty</h3>
+          <p class="typology-special__lead">
+            Samostatné prvky, které jsou součástí pěchotního srubu nebo dělostřelecké tvrze — ne celé objekty.
+          </p>
+          <div class="typology-grid typology-grid--special">
+            {tezkeSpecial.map((t) => {
+              const isComp = t.data.isComponent === true;
+              const isProto = t.data.isPrototype === true;
+              const cls = ['typology-card', isComp ? 'typology-card--component' : '', isProto ? 'typology-card--prototype' : ''].filter(Boolean).join(' ');
+              const badge = isComp ? 'Komponenta' : (isProto ? 'Prototyp' : null);
+              return (
+                <a href={`/typologie/${t.slug}`} class={cls}>
+                  {badge && (<span class="typology-card__badge">{badge}</span>)}
+                  <div class="typology-card__icon" aria-hidden="true">
+                    <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
+                  </div>
+                  <div class="typology-card__code">{t.data.code}</div>
+                  <h3>{t.data.title}</h3>
+                  <div class="typology-card__meta">
+                    <span>{t.data.period}</span>
+                    {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
+                  </div>
+                  <p>{t.data.description}</p>
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      )}
     </div>
   </section>
 </BaseLayout>

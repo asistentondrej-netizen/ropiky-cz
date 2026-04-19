@@ -8,6 +8,10 @@ const typologie = (await getCollection('typologie')).sort(
   (a, b) => a.data.order - b.data.order
 );
 
+// Rozdělení: hlavní typy objektů vs. speciální (komponenta, prototyp)
+const typMain = typologie.filter((t) => !t.data.isComponent && !t.data.isPrototype);
+const typSpecial = typologie.filter((t) => t.data.isComponent || t.data.isPrototype);
+
 // Výběr pevností pro úvodní stranu — typově různorodá showcase
 // (tvrze + sruby + řopíky), preferuj objekty s fotkou.
 const all = await getCollection('pevnosti');
@@ -78,23 +82,31 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
         </div>
       </header>
 
-      <div class="typology-grid">
-        {typologie.map((t) => {
-          const iconMap = {
-            'lo-vz-36': '/img/typ-lo-vz-36.svg',
-            'lo-vz-37': '/img/typ-lo-vz-37.svg',
-            'lo-vz-38': '/img/typ-lo-vz-38.svg',
-            'pechotni-srub': '/img/typ-pechotni-srub.svg',
-            'delostrelecka-tvrz': '/img/typ-delostrelecka-tvrz.svg',
-            'pancerovy-zvon': '/img/typ-pancerovy-zvon.svg',
-          };
+      {(() => {
+        const iconMap = {
+          'lo-vz-36': '/img/typ-lo-vz-36.svg',
+          'lo-vz-37': '/img/typ-lo-vz-37.svg',
+          'lo-vz-38': '/img/typ-lo-vz-38.svg',
+          'pechotni-srub': '/img/typ-pechotni-srub.svg',
+          'delostrelecka-tvrz': '/img/typ-delostrelecka-tvrz.svg',
+          'pancerovy-zvon': '/img/typ-pancerovy-zvon.svg',
+        };
+        const cardFor = (t) => {
           const icon = iconMap[t.slug] || null;
           const isComp = t.data.isComponent === true;
+          const isProto = t.data.isPrototype === true;
+          const cls = [
+            'typology-card',
+            isComp ? 'typology-card--component' : '',
+            isProto ? 'typology-card--prototype' : '',
+          ].filter(Boolean).join(' ');
+          const badge = isComp ? 'Komponenta' : (isProto ? 'Prototyp' : null);
+          const badgeTitle = isComp
+            ? 'Komponenta — součást pěchotního srubu nebo tvrze, ne samostatný objekt'
+            : 'Prototyp — jen 2 postavené objekty, bez sériové výroby';
           return (
-            <a href={`/typologie/${t.slug}`} class={`typology-card${isComp ? ' typology-card--component' : ''}`}>
-              {isComp && (
-                <span class="typology-card__badge" title="Komponenta — součást pěchotního srubu nebo tvrze, ne samostatný objekt">Komponenta</span>
-              )}
+            <a href={`/typologie/${t.slug}`} class={cls}>
+              {badge && (<span class="typology-card__badge" title={badgeTitle}>{badge}</span>)}
               {icon && (
                 <div class="typology-card__icon" aria-hidden="true">
                   <img src={icon} alt="" loading="lazy" />
@@ -109,13 +121,27 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
               <p>{t.data.description}</p>
             </a>
           );
-        })}
-      </div>
-      <p class="typology-note">
-        <strong>Pozn.:</strong> <em>Pancéřový zvon</em> je komponenta (součást pěchotního srubu nebo dělostřelecké tvrze), ne samostatný objekt —
-        proto ho nenajdete v <a href="/katalog">katalogu</a> ani v <a href="/mapa">mapě</a>.
-        <em>LO vz. 38 (Turek)</em> zůstal jen ve dvou prototypech, které zatím nejsou v databázi.
-      </p>
+        };
+        return (
+          <>
+            <div class="typology-grid">
+              {typMain.map(cardFor)}
+            </div>
+
+            {typSpecial.length > 0 && (
+              <div class="typology-special">
+                <h3 class="typology-special__title">Speciální případy</h3>
+                <p class="typology-special__lead">
+                  Komponenty pevností a nesériové prototypy — v <a href="/katalog">katalogu</a> ani v <a href="/mapa">mapě</a> je samostatně nenajdete.
+                </p>
+                <div class="typology-grid typology-grid--special">
+                  {typSpecial.map(cardFor)}
+                </div>
+              </div>
+            )}
+          </>
+        );
+      })()}
     </div>
   </section>
 
