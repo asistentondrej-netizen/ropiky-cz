@@ -44,4 +44,44 @@ import ArticleLayout from '../layouts/ArticleLayout.astro';
       <dt>Technologie:</dt><dd>Astro · Cloudflare Pages · OpenStreetMap</dd>
     </dl>
   </div>
+
+  <p class="visitor-counter">
+    <span class="visitor-counter__label">Dosavadní návštěvnost:</span>
+    <img
+      src="https://hits.sh/ropiky.cz.svg?style=flat-square&label=n%C3%A1v%C5%A1t%C4%9Bv&color=7A3B2E&labelColor=2B2926"
+      alt="Počet návštěv webu"
+      loading="lazy"
+      decoding="async"
+      width="130"
+      height="20"
+    />
+    <span class="visitor-counter__note">Anonymní počítadlo, bez cookies (hits.sh). Startuje od dubna 2026.</span>
+  </p>
 </ArticleLayout>
+
+<style>
+  .visitor-counter {
+    margin-top: var(--s5);
+    padding-top: var(--s3);
+    border-top: 1px dashed var(--line);
+    font-size: 0.875rem;
+    color: var(--ink-light);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem 0.75rem;
+  }
+  .visitor-counter__label {
+    font-weight: 600;
+  }
+  .visitor-counter img {
+    vertical-align: middle;
+  }
+  .visitor-counter__note {
+    flex-basis: 100%;
+    font-size: 0.75rem;
+    color: var(--ink-light);
+    opacity: 0.7;
+    margin-top: 0.25rem;
+  }
+</style>

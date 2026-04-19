@@ -1,5 +1,11 @@
 ---
 const year = new Date().getFullYear();
+
+// Skrytý tracking pixel pro počítadlo návštěv (hits.sh).
+// Viditelný badge je na /o-projektu/ — na této stránce pixel nerenderujeme,
+// aby nedošlo ke dvojímu započtení jedné návštěvy.
+const path = Astro.url.pathname.replace(/\/$/, '');
+const showHitsPixel = path !== '/o-projektu';
 ---
 
 <footer class="site-footer">
@@ -48,4 +54,16 @@ const year = new Date().getFullYear();
       <span class="mono">v0.1 · beta</span>
     </div>
   </div>
+  {showHitsPixel && (
+    <img
+      src="https://hits.sh/ropiky.cz.svg?style=flat-square&label=n%C3%A1v%C5%A1t%C4%9Bv&color=7A3B2E&labelColor=2B2926"
+      alt=""
+      aria-hidden="true"
+      loading="lazy"
+      decoding="async"
+      width="1"
+      height="1"
+      style="position:absolute;width:1px;height:1px;opacity:0;pointer-events:none;overflow:hidden;"
+    />
+  )}
 </footer>
