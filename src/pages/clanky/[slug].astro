@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import RelatedContent from '../../components/RelatedContent.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('clanky', ({ data }) => !data.draft);
@@ -26,4 +27,9 @@ const { Content } = await entry.render();
   cover={entry.data.cover}
 >
   <Content />
+  <RelatedContent
+    related={entry.data.related}
+    currentSlug={entry.slug}
+    currentCollection="clanky"
+  />
 </ArticleLayout>

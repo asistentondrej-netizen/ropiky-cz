@@ -13,6 +13,12 @@ sources:
   - "Delostrelectvocsarmady1918-1939.estranky.cz — Pevnostní děla (9cm minomet vz. 38, 10cm houfnice vz. 38)"
   - "Wikimedia Commons — fotografie (licence CC0, CC BY-SA, PD); viz /public/img/vyzbroj/_manifest.json"
   - "Denkschrift über die tschecho-slowakische Landesbefestigung (1941, OKH) — výkresy zbraní a pancéřových prvků (amtliches Werk / public domain); viz /public/img/denkschrift-vyzbroj/_manifest.json"
+related:
+  - "stranky/co-je-rop"
+  - "stranky/fortifikacni-linie"
+  - "stranky/nemecka-spionaz"
+  - "clanky/myty-o-ceskoslovenskem-opevneni"
+  - "clanky/chronologie-rop-1935-1938"
 ---
 
 Československé pevnostní objekty byly vybaveny **výhradně výzbrojí tuzemské produkce** — kulomety ze Zbrojovky Brno, pevnostním dělostřelectvem ze Škody Plzeň a pancéřovými prvky z Vítkovic, Škody a Třince. Tento přehled shrnuje kompletní sortiment zbraní, pancéřových komponent a překážkového systému ŘOP se stavy **ke září 1938**.

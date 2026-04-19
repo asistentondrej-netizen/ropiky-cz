@@ -5,6 +5,13 @@ pubDate: 2026-04-19
 author: "Redakce ropiky.cz"
 tags: ["historie", "analýza", "opevnění", "mýty"]
 cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg/1280px-Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg"
+related:
+  - "stranky/co-je-rop"
+  - "stranky/vyzbroj"
+  - "stranky/mnichov-a-osud-opevneni"
+  - "stranky/nemecka-spionaz"
+  - "clanky/chronologie-rop-1935-1938"
+  - "clanky/pamatkova-ochrana-opevneni-dnes"
 ---
 
 Kolem československého opevnění se po osmdesáti letech nakupila řada mýtů, polopravd a oblíbených „co by bylo kdyby" scénářů. Část z nich má racionální jádro, část je produktem poválečné politické propagandy — nejprve komunistické (opevnění jako „drahé zbytečnosti kapitalistické republiky"), později romantické (opevnění jako „neporazitelná betonová pěst, kterou jsme zradili sami sobě").

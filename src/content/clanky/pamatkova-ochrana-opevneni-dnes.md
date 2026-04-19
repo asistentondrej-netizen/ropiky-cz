@@ -5,6 +5,12 @@ pubDate: 2026-04-19
 author: "Redakce ropiky.cz"
 tags: ["památková péče", "muzea", "tvrze", "spolky"]
 cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg/1280px-N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg"
+related:
+  - "stranky/co-je-rop"
+  - "stranky/mnichov-a-osud-opevneni"
+  - "stranky/fortifikacni-linie"
+  - "clanky/myty-o-ceskoslovenskem-opevneni"
+  - "clanky/chronologie-rop-1935-1938"
 ---
 
 Po osmdesáti letech od svého vzniku stojí československé opevnění v polostínu mezi veřejným zájmem a státním zanedbáním. Zatímco francouzská Maginot linie má status národní kulturní dědictví a její klíčové pevnosti patří k top turistickým destinacím, v Česku existuje nesrovnalost: několik desítek objektů je zákonem chráněno jako kulturní památka, ale tisíce lehkých objektů vz. 37 dodnes stojí bez jakékoli právní ochrany a jejich osud závisí na dobré vůli vlastníků pozemků nebo spolků.

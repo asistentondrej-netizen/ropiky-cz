@@ -9,6 +9,8 @@ const stranky = defineCollection({
     order: z.number().default(99),
     updated: z.coerce.date().optional(),
     sources: z.array(z.string()).optional(),
+    // Související obsah — kurátorská volba. Formát: "clanky/slug" nebo "stranky/slug"
+    related: z.array(z.string()).optional(),
   }),
 });
 
@@ -73,6 +75,8 @@ const clanky = defineCollection({
     tags: z.array(z.string()).optional(),
     cover: z.string().optional(),
     draft: z.boolean().default(false),
+    // Související obsah — kurátorská volba. Formát: "clanky/slug" nebo "stranky/slug"
+    related: z.array(z.string()).optional(),
   }),
 });
 

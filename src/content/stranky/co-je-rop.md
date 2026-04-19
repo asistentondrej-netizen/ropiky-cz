@@ -11,6 +11,13 @@ sources:
   - "opevneni.cz"
   - "Stehlík, E.: Lexikon těžkých objektů čs. opevnění (FORTprint 2010)"
   - "Ráboň, M.; Gregar, O.; Kachlík, B.: Val na obranu republiky (2005)"
+related:
+  - "clanky/chronologie-rop-1935-1938"
+  - "stranky/historie-a-politicky-kontext"
+  - "stranky/fortifikacni-linie"
+  - "stranky/vyzbroj"
+  - "stranky/mnichov-a-osud-opevneni"
+  - "clanky/myty-o-ceskoslovenskem-opevneni"
 ---
 
 **Ředitelství opevňovacích prací** (zkráceně **ŘOP**) byl vojenský útvar zřízený 20. března 1935 pod Ministerstvem národní obrany Československé republiky. Jeho úkolem bylo v krátkém čase vybudovat systém pevnostní obrany proti rostoucí hrozbě ze strany nacistického Německa. Generál **Karel Husárek** jako přednosta ŘOP řídil projekt, který v průběhu tří a půl roku změnil tvář československého pohraničí.
@@ -108,13 +115,3 @@ Dnes je to fenomén, který spojuje:
 - **Krajinu** — zejména v severní Moravě, Orlických horách a jižní Moravě je opevnění organickou součástí turistické krajiny
 
 Tento web slouží jako **moderní referenční zdroj** pro všechny, kdo se o téma zajímají — ať už jako historici, návštěvníci, nebo jen lidé procházející kolem ropíku v lese a ptající se: *„Co to vlastně je?"*
-
-## Další témata
-
-- [Chronologie ŘOP 1935–1938](/clanky/chronologie-rop-1935-1938) — měsíc po měsíci s klíčovými daty
-- [Sedm mýtů o čs. opevnění](/clanky/myty-o-ceskoslovenskem-opevneni) — co je pravda a co legenda
-- [Památková ochrana opevnění dnes](/clanky/pamatkova-ochrana-opevneni-dnes) — muzea, zákony, rizika
-- [Historie a politický kontext](/o-opevneni/historie-a-politicky-kontext) — jak vznikl ŘOP
-- [Mnichov 1938 a osud opevnění](/o-opevneni/mnichov-a-osud-opevneni)
-- [Výzbroj čs. opevnění](/o-opevneni/vyzbroj)
-- [Fortifikační linie](/o-opevneni/fortifikacni-linie) — geografický přehled

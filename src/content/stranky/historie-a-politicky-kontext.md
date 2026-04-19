@@ -8,6 +8,12 @@ sources:
   - "armada.vojenstvi.cz"
   - "opevneni.cz"
   - "moderni-dejiny.cz"
+related:
+  - "stranky/co-je-rop"
+  - "clanky/chronologie-rop-1935-1938"
+  - "stranky/mnichov-a-osud-opevneni"
+  - "stranky/nemecka-spionaz"
+  - "clanky/myty-o-ceskoslovenskem-opevneni"
 ---
 
 Československé opevnění vzniklo jako **přímá odpověď na zhroucení evropského bezpečnostního uspořádání první poloviny třicátých let**. Mladá republika, oslavující na přelomu dekád svých prvních patnáct let existence, si nemohla dovolit ignorovat rychle se měnící geopolitickou realitu — a zároveň neměla dostatečnou mobilní kapacitu ani početné spojence, aby se konfliktu mohla úspěšně postavit otevřenou manévrovou válkou.

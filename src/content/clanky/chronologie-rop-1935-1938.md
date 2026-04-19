@@ -5,6 +5,13 @@ pubDate: 2026-04-19
 author: "Redakce ropiky.cz"
 tags: ["historie", "chronologie", "ŘOP", "1938"]
 cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg"
+related:
+  - "stranky/co-je-rop"
+  - "stranky/historie-a-politicky-kontext"
+  - "stranky/mnichov-a-osud-opevneni"
+  - "stranky/fortifikacni-linie"
+  - "clanky/myty-o-ceskoslovenskem-opevneni"
+  - "clanky/pamatkova-ochrana-opevneni-dnes"
 ---
 
 Československé opevnění vzniklo za tři a půl roku — od první oficiální směrnice v létě 1934 po poslední vylitou betonáž v druhé polovině září 1938. V evropském kontextu to bylo tempo bez paralely: Francouzi stavěli Maginotovu linii od roku 1929, Němci Westwall od roku 1936, ale československé Ředitelství opevňovacích prací (ŘOP) postavilo od nuly kompletní dvousledový systém za dobu, která by jinde neodpovídala ani přípravným studiím.

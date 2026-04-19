@@ -8,6 +8,12 @@ sources:
   - "germandocsinrussia.org — německá špionážní mapa"
   - "opevneni.eu/csop/hist.html — hosting scanů a kontextové texty"
   - "Aron L. a kol.: Československé opevnění 1935–1938 (FORTprint)"
+related:
+  - "stranky/vyzbroj"
+  - "stranky/mnichov-a-osud-opevneni"
+  - "stranky/historie-a-politicky-kontext"
+  - "clanky/myty-o-ceskoslovenskem-opevneni"
+  - "stranky/co-je-rop"
 ---
 
 Jedním z méně známých aspektů dějin ŘOP je rozsah, v jakém **německá vojenská rozvědka pronikla k technickým podkladům čs. opevnění ještě před Mnichovem**. Dokumenty dochované v Bundesarchivu dokládají, že Wehrmacht v letech **1936–1938**:

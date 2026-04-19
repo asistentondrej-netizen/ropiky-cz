@@ -8,6 +8,12 @@ sources:
   - "Wikipedia — Československé opevnění"
   - "moderni-dejiny.cz"
   - "Paměť národa"
+related:
+  - "stranky/historie-a-politicky-kontext"
+  - "clanky/myty-o-ceskoslovenskem-opevneni"
+  - "clanky/pamatkova-ochrana-opevneni-dnes"
+  - "stranky/nemecka-spionaz"
+  - "stranky/co-je-rop"
 ---
 
 Mnichovská dohoda je **jedním z nejbolestivějších momentů moderní československé historie**. Pro příběh opevnění představuje paradoxně okamžik, v němž systém dosáhl své maximální fyzické připravenosti — a kdy byl vzdán bez jediného výstřelu. Pro armádu, která měsíce budovala betonovou pěst na obranu republiky, šlo o zradu, která do roku 1989 zůstala jednou z klíčových traumat národní paměti.
