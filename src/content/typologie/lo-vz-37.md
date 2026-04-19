@@ -79,6 +79,8 @@ Následující půdorysy pocházejí z německé vojenské studie **Denkschrift 
 
 ![LO vz. 37 typy C a D — dobové půdorysy z Denkschriftu. Typ C (čelná palba, nejjednodušší), typ D (boční ochrana tvrzí).](/img/typologie/denkschrift/lo37-typ-c-d.jpg)
 
+> **Viz také:** [Německá špionáž a cvičné objekty](/o-opevneni/nemecka-spionaz) — Wehrmacht si v letech 1937–1938 postavil věrné kopie řopíků ve svých vojenských prostorech a získal zpravodajsky dokonce nákresy **armování** betonové skořepiny LO vz. 37.
+
 ## Stupně odolnosti
 
 Řopíky se stavěly ve **třech stupních odolnosti**, podle toho, jaké dělostřelecké ráže měly vydržet. Stupeň byl určen **tloušťkou stěn a stropu**:

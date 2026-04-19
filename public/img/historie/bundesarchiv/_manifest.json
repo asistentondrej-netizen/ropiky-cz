@@ -1,0 +1,68 @@
+{
+  "source": {
+    "title": "Německé předválečné špionážní a výcvikové materiály k čs. opevnění",
+    "primaryArchive": "Bundesarchiv (Spolkový archiv, Koblenz/Freiburg im Breisgau)",
+    "secondaryArchive": "germandocsinrussia.org (pro špionážní mapu)",
+    "period": "1936–1938 (předválečné, před anexí Sudet)",
+    "copyright": "Public domain — anonymní úřední dílo Wehrmachtu, > 70 let od vzniku (EU), § 5 UrhG v Německu (amtliches Werk).",
+    "context": "Německá armáda si na základě zpravodajských informací a později kořistních plánů budovala ve svých vojenských prostorech cvičné objekty čs. opevnění, aby na nich trénovala útočné postupy (demolice, napadení pancéřových desek, pyrotechnické útoky přes střílny). Tyto nákresy dokládají, jak přesně nepřítel znal čs. systém již před Mnichovem.",
+    "downloadedFrom": "https://opevneni.eu/csop/hist.html (sekundární hosting; práva na samotné dokumenty neexistují — PD)",
+    "downloadedAt": "2026-04-19"
+  },
+  "files": [
+    {
+      "file": "spionazni-mapa-orlicke-hory-jeseniky.jpg",
+      "archive": "germandocsinrussia.org",
+      "caption": "Výřez z německé špionážní mapy 1:300 000 s vyznačením čs. opevnění v prostoru Orlických hor a Jeseníků (předválečné zpravodajství)",
+      "assignment": "nemecka-spionaz, historie-a-politicky-kontext"
+    },
+    {
+      "file": "srub-to-cvicny-1.jpg",
+      "archive": "Bundesarchiv",
+      "caption": "Nákres objektu čs. těžkého opevnění, který byl postaven v německém vojenském prostoru jako cvičný cíl pro trénink útoku proti ŘOP",
+      "assignment": "nemecka-spionaz, pechotni-srub"
+    },
+    {
+      "file": "srub-to-cvicny-2.jpg",
+      "archive": "Bundesarchiv",
+      "caption": "Druhý nákres německého cvičného objektu těžkého opevnění (alternativní varianta konstrukčního provedení)",
+      "assignment": "nemecka-spionaz, pechotni-srub"
+    },
+    {
+      "file": "lo37-typ-a-cvicny.jpg",
+      "archive": "Bundesarchiv",
+      "caption": "Nákres cvičného objektu LO vz. 37 typ A (německé prameny používají opačné značení — tzv. typ B) — původní stav bez německých úprav",
+      "assignment": "nemecka-spionaz, lo-vz-37"
+    },
+    {
+      "file": "lo37-typ-b-cvicny.jpg",
+      "archive": "Bundesarchiv",
+      "caption": "Nákres cvičného objektu LO vz. 37 typ B (v něm. značení typ A) budovaného v německém výcvikovém prostoru; střílny osazeny pancéřovými deskami 422P01, pozorovací průzor zazděn",
+      "assignment": "nemecka-spionaz, lo-vz-37"
+    },
+    {
+      "file": "lo37-typ-b-prumzor-zazdeny.jpg",
+      "archive": "Bundesarchiv",
+      "caption": "LO vz. 37 typ B — detail cvičné úpravy: osazení německých desek 422P01 a zazdění pozorovacího průzoru",
+      "assignment": "nemecka-spionaz, lo-vz-37"
+    },
+    {
+      "file": "lo37-typ-b-pancer-deska.jpg",
+      "archive": "Bundesarchiv",
+      "caption": "LO vz. 37 typ B — nákres co nejvěrnější čs. originálu, vpravo varianta s osazenou pancéřovou deskou 422P01 (kompromis mezi věrností a dostupností německých komponentů)",
+      "assignment": "nemecka-spionaz, lo-vz-37"
+    },
+    {
+      "file": "lo37-armovani.jpg",
+      "archive": "Bundesarchiv",
+      "caption": "Nákres armování (výztuže) objektu LO vz. 37 získaný německou armádou zpravodajskou cestou — dokládá míru proniknutí německé špionáže k technickým podkladům ŘOP",
+      "assignment": "nemecka-spionaz, lo-vz-37"
+    },
+    {
+      "file": "lo37-varianta-nemecka.jpg",
+      "archive": "Bundesarchiv",
+      "caption": "Německý oboustranný objekt vycházející z LO vz. 37 typ A, upravený pro německé standardy: dvojice desek 6P7 (odolnost B) pro těžké kulomety, vchodová deska 48P8 (odolnost D), dveře 430P01",
+      "assignment": "nemecka-spionaz"
+    }
+  ]
+}

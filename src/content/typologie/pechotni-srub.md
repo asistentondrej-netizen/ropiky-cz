@@ -116,6 +116,8 @@ Autentické půdorysy níže pocházejí z německé vojenské studie **Denkschr
 
 ![Řez stejným srubem OP-S 10 — patra, schodiště, strojovna, filtroventilace. Denkschrift 1941.](/img/typologie/denkschrift/pechotni-srub-dvoupatr.jpg)
 
+> **Viz také:** [Německá špionáž a cvičné objekty](/o-opevneni/nemecka-spionaz) — předválečné nákresy čs. pěchotních srubů, které si Wehrmacht v letech 1937–1938 postavil jako cvičné objekty v německých vojenských prostorech pro trénink útočných postupů.
+
 ## Izolované vs. tvrzové nasazení
 
 **Izolovaný pěchotní srub** a **tvrzový pěchotní srub** nejsou odlišné stavební typy — jde o **stejnou konstrukci v odlišném taktickém nasazení**. Z celkových **~263 dokončených pěchotních srubů** bylo cca **227 izolovaných** (samostatně stojících v linii nebo v krajině) a **~36 tvrzových** (propojených podzemím do komplexu dělostřelecké tvrze). Starší literatura proto někdy uvádí „izolovaný těžký objekt" jako samostatnou kategorii — z pohledu stavební typologie je to ale **forma rozmístění**, ne jiný druh stavby.
