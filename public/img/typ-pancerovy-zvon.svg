@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="Pancéřový zvon — schéma">
+  <rect width="200" height="140" fill="#F1ECE0"/>
+  <!-- země -->
+  <path d="M 0 115 L 200 115 L 200 140 L 0 140 Z" fill="#5C6B3A" opacity="0.35"/>
+
+  <!-- ŽB srub (spodní část) -->
+  <g transform="translate(45 70)">
+    <rect x="0" y="0" width="110" height="45" fill="#8B7D62" stroke="#1A1612" stroke-width="1.5"/>
+    <path d="M 0 0 L 110 0 L 110 10 L 0 10 Z" fill="#7A6E55"/>
+    <!-- šachta uvnitř (tečkovaně) -->
+    <rect x="48" y="12" width="14" height="33" fill="none" stroke="#1A1612" stroke-width="0.8" stroke-dasharray="2 2" opacity="0.55"/>
+  </g>
+
+  <!-- límec zvonu (v ŽB stropu) -->
+  <rect x="78" y="62" width="44" height="10" fill="#5E5646" stroke="#1A1612" stroke-width="1"/>
+
+  <!-- pancéřový zvon — polokopule -->
+  <path d="M 78 68 Q 100 28 122 68 Z" fill="#5E5646" stroke="#1A1612" stroke-width="1.5"/>
+  <!-- horní lesk -->
+  <path d="M 86 60 Q 100 38 114 60" fill="none" stroke="#8A7F65" stroke-width="1" opacity="0.55"/>
+
+  <!-- 3 střílny po obvodu -->
+  <rect x="80" y="50" width="7" height="5" rx="1" fill="#1A1612"/>
+  <rect x="96.5" y="38" width="7" height="5" rx="1" fill="#1A1612"/>
+  <rect x="113" y="50" width="7" height="5" rx="1" fill="#1A1612"/>
+
+  <!-- 3 palebné linie -->
+  <g opacity="0.55" stroke="#7A3B2E" stroke-width="1" stroke-dasharray="3 3" fill="#7A3B2E">
+    <line x1="80" y1="52" x2="52" y2="40"/>
+    <polygon points="56,38 48,40 54,44"/>
+
+    <line x1="100" y1="35" x2="100" y2="14"/>
+    <polygon points="97,18 100,10 103,18"/>
+
+    <line x1="120" y1="52" x2="148" y2="40"/>
+    <polygon points="144,38 152,40 146,44"/>
+  </g>
+
+  <!-- patina -->
+  <path d="M 90 56 Q 92 62 88 68" stroke="#5A4E3A" stroke-width="0.8" fill="none" opacity="0.5"/>
+  <path d="M 110 56 Q 112 62 108 68" stroke="#5A4E3A" stroke-width="0.8" fill="none" opacity="0.5"/>
+
+  <text x="100" y="132" text-anchor="middle" font-family="monospace" font-size="9" fill="#1A1612" opacity="0.6">zvon — palba i pozorování</text>
+</svg>

@@ -83,8 +83,11 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
           const iconMap = {
             'lo-vz-36': '/img/typ-lo-vz-36.svg',
             'lo-vz-37': '/img/typ-lo-vz-37.svg',
+            'lo-vz-38': '/img/typ-lo-vz-38.svg',
             'pechotni-srub': '/img/typ-pechotni-srub.svg',
+            'izolovany-tezky-objekt': '/img/typ-izolovany-tezky-objekt.svg',
             'delostrelecka-tvrz': '/img/typ-delostrelecka-tvrz.svg',
+            'pancerovy-zvon': '/img/typ-pancerovy-zvon.svg',
           };
           const icon = iconMap[t.slug] || null;
           return (
