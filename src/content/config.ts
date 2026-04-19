@@ -26,6 +26,7 @@ const typologie = defineCollection({
     order: z.number().default(99),
     updated: z.coerce.date().optional(),
     sources: z.array(z.string()).optional(),
+    isComponent: z.boolean().default(false), // komponenta (zvon, kopule…), ne typ objektu
   }),
 });
 

@@ -5,6 +5,7 @@ category: "tezke"
 description: "Otočný nebo pevný pancéřový zvon — nejviditelnější detail pěchotních srubů a tvrzí. Ocelový odlitek o hmotnosti 7–25 tun pro pozorování a palbu. Vyráběla Škoda Plzeň a Vítkovice."
 period: "1936–1938"
 builtCount: 712
+isComponent: true
 armament:
   - "Lehký kulomet vz. 26 (pro palební zvony)"
   - "Pozorovací prostředky — stereoperiskop, dálkoměr"

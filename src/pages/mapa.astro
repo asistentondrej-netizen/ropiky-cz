@@ -95,6 +95,11 @@ const stateLabels: Record<string, string> = {
         </div>
       </div>
 
+      <p class="map-note">
+        <strong>Pozn.:</strong> V <a href="/">typologii</a> najdete i <em>pancéřový zvon</em> (komponenta pěchotního srubu a tvrze, ne samostatný objekt)
+        a <em>LO vz. 38 „Turek"</em> (dochovány jen 2 prototypy, zatím bez vlastních katalogových záznamů).
+      </p>
+
       <!-- Mapa -->
       <div id="map" style="height: 70vh; min-height: 540px; border: 1px solid var(--line); background: var(--paper-dark); position: relative;">
         <div id="map-counter" class="map-counter">Zobrazeno: <strong id="visible-count">{points.length}</strong> z {points.length}</div>
@@ -182,6 +187,17 @@ const stateLabels: Record<string, string> = {
       color: var(--ink);
       pointer-events: none;
     }
+    .map-note {
+      margin: 0 0 var(--s3) 0;
+      padding: var(--s3);
+      background: var(--paper-dark);
+      border-left: 3px solid #7A3B2E;
+      font-size: 0.875rem;
+      color: var(--ink-light);
+      line-height: 1.6;
+    }
+    .map-note strong { color: var(--ink); }
+    .map-note a { color: #7A3B2E; font-weight: 600; }
     .map-legend {
       margin-top: var(--s3);
       display: flex;

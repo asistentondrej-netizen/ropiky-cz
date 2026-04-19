@@ -104,6 +104,11 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
         </div>
       </div>
 
+      <p class="catalog-note">
+        <strong>Pozn.:</strong> V <a href="/">typologii</a> najdete i <em>pancéřový zvon</em> (komponenta pěchotního srubu a tvrze, ne samostatný objekt)
+        a <em>LO vz. 38 „Turek"</em> (dochovány jen 2 prototypy, zatím bez vlastních katalogových záznamů).
+      </p>
+
       {all.length > 0 ? (
         <>
           <div class="fort-grid" id="fort-grid">
@@ -223,6 +228,18 @@ const countByLine = (l: string) => all.filter((p) => p.data.line === l).length;
     .filter-mapa:hover {
       text-decoration: underline;
     }
+    .catalog-note {
+      margin-top: var(--s3);
+      margin-bottom: var(--s4);
+      padding: var(--s3);
+      background: var(--paper-dark);
+      border-left: 3px solid #7A3B2E;
+      font-size: 0.875rem;
+      color: var(--ink-light);
+      line-height: 1.6;
+    }
+    .catalog-note strong { color: var(--ink); }
+    .catalog-note a { color: #7A3B2E; font-weight: 600; }
     .no-results {
       padding: var(--s5) 0;
       text-align: center;

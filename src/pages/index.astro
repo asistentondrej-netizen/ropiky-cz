@@ -89,8 +89,12 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
             'pancerovy-zvon': '/img/typ-pancerovy-zvon.svg',
           };
           const icon = iconMap[t.slug] || null;
+          const isComp = t.data.isComponent === true;
           return (
-            <a href={`/typologie/${t.slug}`} class="typology-card">
+            <a href={`/typologie/${t.slug}`} class={`typology-card${isComp ? ' typology-card--component' : ''}`}>
+              {isComp && (
+                <span class="typology-card__badge" title="Komponenta — součást pěchotního srubu nebo tvrze, ne samostatný objekt">Komponenta</span>
+              )}
               {icon && (
                 <div class="typology-card__icon" aria-hidden="true">
                   <img src={icon} alt="" loading="lazy" />
@@ -107,6 +111,11 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
           );
         })}
       </div>
+      <p class="typology-note">
+        <strong>Pozn.:</strong> <em>Pancéřový zvon</em> je komponenta (součást pěchotního srubu nebo dělostřelecké tvrze), ne samostatný objekt —
+        proto ho nenajdete v <a href="/katalog">katalogu</a> ani v <a href="/mapa">mapě</a>.
+        <em>LO vz. 38 (Turek)</em> zůstal jen ve dvou prototypech, které zatím nejsou v databázi.
+      </p>
     </div>
   </section>
 

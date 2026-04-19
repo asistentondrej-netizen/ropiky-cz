@@ -337,6 +337,39 @@ section { padding: var(--s7) 0; }
 }
 .typology-card p { font-size: 0.9375rem; margin: 0; }
 
+/* Badge pro komponentu (pancéřový zvon apod.) */
+.typology-card--component {
+  border-style: dashed;
+  background-color: var(--paper);
+}
+.typology-card__badge {
+  position: absolute;
+  top: var(--s2);
+  right: var(--s2);
+  background: var(--khaki, #7A8270);
+  color: #fff;
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 2px;
+  z-index: 1;
+}
+
+/* Poznámka pod typologickým gridem */
+.typology-note {
+  margin-top: var(--s4);
+  padding: var(--s3);
+  background: var(--paper-dark);
+  border-left: 3px solid var(--rust, #7A3B2E);
+  font-size: 0.875rem;
+  color: var(--ink-light);
+  line-height: 1.6;
+}
+.typology-note strong { color: var(--ink); }
+.typology-note a { color: var(--rust, #7A3B2E); font-weight: 600; }
+
 /* ---------- Karty pevností ---------- */
 .fort-grid {
   display: grid;
@@ -435,21 +468,6 @@ section { padding: var(--s7) 0; }
 
 /* ---------- Blog / Aktuality ---------- */
 .article-list { display: grid; gap: var(--s4); }
-.article-item__thumb {
-  width: 100%;
-  aspect-ratio: 4 / 3;
-  overflow: hidden;
-  background: var(--paper-dark);
-  border: 1px solid var(--line);
-}
-.article-item__thumb img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  transition: transform 0.3s;
-}
-.article-item:hover .article-item__thumb img { transform: scale(1.04); }
 .article-item {
   display: grid;
   grid-template-columns: 1fr;
@@ -579,105 +597,6 @@ section { padding: var(--s7) 0; }
   transition: all 0.2s;
 }
 .article-body a:hover { color: var(--rust); border-color: var(--rust); }
-
-/* Article cover image below hero */
-.article-cover {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 var(--s4);
-}
-.article-cover img {
-  width: 100%;
-  height: auto;
-  max-height: 520px;
-  object-fit: cover;
-  border: 1px solid var(--line);
-}
-
-/* Inline images in article body */
-.article-body img {
-  max-width: 100%;
-  height: auto;
-  margin: var(--s4) 0;
-  border: 1px solid var(--line);
-}
-.article-body figure {
-  margin: var(--s4) 0;
-  text-align: center;
-}
-.article-body figure img { margin: 0; }
-.article-body figcaption {
-  font-size: 0.875rem;
-  color: var(--ink-light);
-  font-style: italic;
-  margin-top: var(--s1);
-}
-
-/* Tables inside articles */
-.article-body table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: var(--s4) 0;
-  font-size: 0.9375rem;
-}
-.article-body th,
-.article-body td {
-  padding: var(--s2) var(--s3);
-  text-align: left;
-  border-bottom: 1px solid var(--line-soft);
-  vertical-align: top;
-}
-.article-body th {
-  font-family: var(--font-mono);
-  font-size: 0.75rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--ink-med);
-  background-color: var(--paper-dark);
-  border-bottom: 2px solid var(--line);
-}
-
-/* Route maps / iframe embeds */
-.route-map {
-  margin: var(--s5) 0;
-  border: 1px solid var(--line);
-  background: var(--paper-dark);
-}
-.route-map iframe {
-  display: block;
-  width: 100%;
-  height: 420px;
-  border: 0;
-}
-.route-map__caption {
-  padding: var(--s2) var(--s3);
-  font-family: var(--font-mono);
-  font-size: 0.75rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--ink-med);
-  border-top: 1px solid var(--line);
-  background: var(--paper);
-}
-
-/* Photo grid (2–3 inline photos) */
-.photo-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: var(--s3);
-  margin: var(--s4) 0;
-}
-@media (min-width: 720px) {
-  .photo-grid { grid-template-columns: 1fr 1fr; }
-  .photo-grid--3 { grid-template-columns: 1fr 1fr 1fr; }
-}
-.photo-grid figure { margin: 0; }
-.photo-grid img {
-  margin: 0;
-  width: 100%;
-  height: 220px;
-  object-fit: cover;
-}
 
 .fact-box {
   background-color: var(--paper-dark);
