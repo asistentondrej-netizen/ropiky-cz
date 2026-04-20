@@ -51,7 +51,7 @@ Před Mnichovem byly dokončeny pouze **dva prototypy**, oba ve zkušebním poly
 - **Milovice (polygon vojenské akademie)** — první experimentální objekt, postaven v dubnu 1938. Sloužil k testování palebných úhlů a odolnosti věže proti různým kalibrům.
 - **Brdy / vojenský výcvikový prostor** — druhý objekt, dokončen v červnu 1938. Provedeny palebné zkoušky s ostrou municí (20 mm, 37 mm protitankové, 75 mm dělostřelecké).
 
-Oba objekty byly po Mnichovu ponechány v polygonech. **Milovický objekt** je dochovaný — dnes součást [Muzea čs. armády v Milovicích](/pevnosti/muzeum-milovice). Druhý objekt v Brdech je v uzavřeném vojenském prostoru.
+Oba objekty byly po Mnichovu ponechány v polygonech. **Milovický objekt** je dochovaný — dnes součást [Muzea čs. armády v Milovicích](/katalog/muzeum-milovice). Druhý objekt v Brdech je v uzavřeném vojenském prostoru.
 
 ## Plány sériové výroby
 
@@ -81,6 +81,6 @@ Přestože typ nebyl sériově vyráběn, v československé vojenské historiog
 
 ## Doporučené zdroje
 
-- **Milovice** — jedinou možnost vidět reálný LO vz. 38 dnes nabízí [Muzeum čs. armády Milovice](/pevnosti/muzeum-milovice), kde je dochován první prototyp.
+- **Milovice** — jedinou možnost vidět reálný LO vz. 38 dnes nabízí [Muzeum čs. armády Milovice](/katalog/muzeum-milovice), kde je dochován první prototyp.
 - **Literatura:** Pytlík, L., Durčák, J.: *Československé opevnění 1935–1938*, díl IV. Publikace obsahuje kompletní výkresovou dokumentaci LO vz. 38 včetně technické specifikace věže.
 - **Související typologie:** [LO vz. 37](/typologie/lo-vz-37) (hlavní typ řopíku), [pěchotní srub](/typologie/pechotni-srub) (srovnání s těžkým opevněním), [pancéřový zvon](/typologie/pancerovy-zvon) (související pancéřová technologie).

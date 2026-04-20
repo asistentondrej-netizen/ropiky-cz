@@ -90,8 +90,8 @@ V rámci rekonstrukce muzeí byly zvony buď:
 
 Pokud chcete zvony **vidět v originální kvalitě**, doporučujeme tyto lokality:
 
-- **[MO-S 19 Alej](/pevnosti/mo-s-19-alej)** a **[MO-S 20 Orel](/pevnosti/mo-s-20-orel)** — Hlučín-Darkovičky — repliky v kompletní rekonstrukci
-- **[K-S 14 U cihelny](/pevnosti/k-s-14-u-cihelny)** — Králíky — originální zvon vrácený z Francie
+- **[MO-S 19 Alej](/katalog/mo-s-19-alej)** a **[MO-S 20 Orel](/katalog/mo-s-20-orel)** — Hlučín-Darkovičky — repliky v kompletní rekonstrukci
+- **[K-S 14 U cihelny](/katalog/k-s-14-u-cihelny)** — Králíky — originální zvon vrácený z Francie
 - **Tvrz Bouda** — originální dochované zvony v původním stavu
 - **Pohraniční opevnění Stachelberg** — repliky a originály smíšeně
 

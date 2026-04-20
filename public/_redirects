@@ -1,0 +1,8 @@
+# 301 redirecty pro přesunuté výlety z /clanky/ do /cesty/
+# (kvůli zachování SEO hodnoty a externích linků)
+
+/clanky/naucna-stezka-betonova-hranice  /cesty/stezka-betonova-hranice  301
+/clanky/naucna-stezka-darkovicky        /cesty/stezka-darkovicky        301
+/clanky/naucna-stezka-dobrosov          /cesty/stezka-dobrosov          301
+/clanky/naucna-stezka-hanicka           /cesty/stezka-hanicka           301
+/clanky/tip-na-vylet-valticko           /cesty/valticko-cyklo           301
