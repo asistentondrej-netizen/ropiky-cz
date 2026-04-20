@@ -1,0 +1,176 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const cesty = (await getCollection('cesty', ({ data }) => !data.draft))
+  .sort((a, b) => a.data.delka_dni - b.data.delka_dni);
+
+const obtiznostLabel: Record<string, string> = {
+  snadna: 'Snadná',
+  stredni: 'Střední',
+  narocna: 'Náročná',
+};
+
+const dopravaLabel: Record<string, string> = {
+  auto: 'Autem',
+  'auto-chuze': 'Autem + pěšky',
+  'mhd-chuze': 'MHD + pěšky',
+  kolo: 'Na kole',
+  pesky: 'Pěšky',
+};
+
+const rocniLabel: Record<string, string> = {
+  celorocne: 'Celoročně',
+  'sezonne-duben-rijen': 'Duben–říjen',
+  'jen-leto': 'Jen v létě',
+};
+---
+
+<BaseLayout
+  title="Tematické cesty — okruhy po čs. opevnění"
+  description="Hotové itineráře pro víkendové i jednodenní výlety za československým opevněním. Králíky, Darkovičky, Hanička, Petržalka, Trutnovsko — vybrané kombinace pevností, muzeí a přírody."
+>
+  <header class="catalog-header">
+    <div class="container">
+      <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
+        <a href="/">Úvod</a> / <span>Tematické cesty</span>
+      </div>
+      <h1>Tematické cesty</h1>
+      <p class="article-hero__lead" style="margin-top: var(--s3);">
+        Hotové itineráře pro víkendové i jednodenní výlety — vybrané kombinace pevností, muzeí
+        a přírody s konkrétními časovými plány a dopravou.
+      </p>
+    </div>
+  </header>
+
+  <section>
+    <div class="container content-width">
+      {cesty.length > 0 ? (
+        <div class="cesty-grid">
+          {cesty.map((c) => (
+            <a href={`/cesty/${c.slug}`} class="cesta-card">
+              {c.data.cover && (
+                <div class="cesta-card__thumb">
+                  <img src={c.data.cover} alt={c.data.title} loading="lazy" />
+                </div>
+              )}
+              <div class="cesta-card__body">
+                <div class="cesta-card__meta">
+                  <span class="badge badge--region">{c.data.region}</span>
+                  <span class="badge">{c.data.delka_dni} {c.data.delka_dni === 1 ? 'den' : c.data.delka_dni < 5 ? 'dny' : 'dní'}</span>
+                  <span class="badge badge--{c.data.obtiznost}">{obtiznostLabel[c.data.obtiznost]}</span>
+                </div>
+                <h3>{c.data.title}</h3>
+                <p>{c.data.description}</p>
+                <div class="cesta-card__footer">
+                  <span>🚗 {dopravaLabel[c.data.doprava]}</span>
+                  {c.data.delka_km && <span>📏 {c.data.delka_km} km</span>}
+                  <span>📅 {rocniLabel[c.data.rocni]}</span>
+                </div>
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p style="font-style: italic; color: var(--ink-light);">
+          Tematické cesty připravujeme.
+        </p>
+      )}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .cesty-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: var(--s4);
+    margin-top: var(--s4);
+  }
+
+  .cesta-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--paper);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .cesta-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  }
+
+  .cesta-card__thumb {
+    aspect-ratio: 16/9;
+    overflow: hidden;
+    background: var(--ink-light);
+  }
+
+  .cesta-card__thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .cesta-card__body {
+    padding: var(--s4);
+    display: flex;
+    flex-direction: column;
+    gap: var(--s2);
+    flex: 1;
+  }
+
+  .cesta-card__meta {
+    display: flex;
+    gap: var(--s2);
+    flex-wrap: wrap;
+    font-size: 0.875rem;
+  }
+
+  .badge {
+    background: var(--background-soft);
+    padding: 2px 10px;
+    border-radius: 999px;
+    color: var(--ink);
+    font-weight: 500;
+  }
+
+  .badge--region {
+    background: var(--accent-soft, #f4eee4);
+    color: var(--accent, #8b6f2a);
+  }
+
+  .badge--snadna { background: #e6f4ea; color: #1e7a3c; }
+  .badge--stredni { background: #fff4d6; color: #8a6a1a; }
+  .badge--narocna { background: #fde8e8; color: #a62a2a; }
+
+  .cesta-card h3 {
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.3;
+  }
+
+  .cesta-card p {
+    color: var(--ink-light);
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin: 0;
+    flex: 1;
+  }
+
+  .cesta-card__footer {
+    display: flex;
+    gap: var(--s3);
+    flex-wrap: wrap;
+    font-size: 0.85rem;
+    color: var(--ink-light);
+    border-top: 1px solid var(--border);
+    padding-top: var(--s2);
+    margin-top: var(--s2);
+  }
+</style>

@@ -277,4 +277,48 @@ const clanky = defineCollection({
   }),
 });
 
-export const collections = { stranky, typologie, pevnosti, clanky };
+// ---------- Tematické cesty ----------
+const Obtiznost = z.enum(['snadna', 'stredni', 'narocna']);
+const Rocni = z.enum(['celorocne', 'sezonne-duben-rijen', 'jen-leto']);
+
+const cesty = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    region: z.string(),
+    delka_km: z.number().optional(),
+    delka_dni: z.number().default(1),
+    obtiznost: Obtiznost.default('stredni'),
+    rocni: Rocni.default('sezonne-duben-rijen'),
+    doprava: z.enum(['auto', 'auto-chuze', 'mhd-chuze', 'kolo', 'pesky']).default('auto-chuze'),
+    startPoint: z.object({
+      nazev: z.string(),
+      lat: z.number(),
+      lon: z.number(),
+    }),
+    endPoint: z
+      .object({
+        nazev: z.string(),
+        lat: z.number(),
+        lon: z.number(),
+      })
+      .optional(),
+    // Posloupnost zastávek — slugy pevností nebo externí body
+    zastavky: z.array(
+      z.object({
+        slug: z.string().optional(),
+        nazev: z.string(),
+        typ: z.enum(['pevnost', 'muzeum', 'obec', 'priroda', 'gastro']).default('pevnost'),
+        poznamka: z.string().optional(),
+        doba_minut: z.number().optional(),
+      })
+    ),
+    cover: z.string().optional(),
+    tags: z.array(z.string()).optional(),
+    draft: z.boolean().default(false),
+    updated: z.coerce.date().optional(),
+  }),
+});
+
+export const collections = { stranky, typologie, pevnosti, clanky, cesty };

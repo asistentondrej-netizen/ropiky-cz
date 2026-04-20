@@ -1,0 +1,306 @@
+---
+import { getCollection, getEntry } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('cesty', ({ data }) => !data.draft);
+  return entries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+// Načíst údaje o pevnostech pro zastávky se slugem
+const zastavkyEnriched = await Promise.all(
+  entry.data.zastavky.map(async (z) => {
+    if (!z.slug) return { ...z, fortData: null };
+    try {
+      const fortEntry = await getEntry('pevnosti', z.slug);
+      return {
+        ...z,
+        fortData: fortEntry
+          ? {
+              title: fortEntry.data.title,
+              lat: fortEntry.data.location.lat,
+              lon: fortEntry.data.location.lon,
+              region: fortEntry.data.region,
+              state: fortEntry.data.state,
+            }
+          : null,
+      };
+    } catch {
+      return { ...z, fortData: null };
+    }
+  })
+);
+
+const obtiznostLabel: Record<string, string> = {
+  snadna: 'Snadná',
+  stredni: 'Střední',
+  narocna: 'Náročná',
+};
+
+const dopravaLabel: Record<string, string> = {
+  auto: 'Autem',
+  'auto-chuze': 'Autem + pěšky',
+  'mhd-chuze': 'MHD + pěšky',
+  kolo: 'Na kole',
+  pesky: 'Pěšky',
+};
+
+const rocniLabel: Record<string, string> = {
+  celorocne: 'Celoročně',
+  'sezonne-duben-rijen': 'Duben–říjen',
+  'jen-leto': 'Jen v létě',
+};
+
+const typIcon: Record<string, string> = {
+  pevnost: '🏰',
+  muzeum: '🏛️',
+  obec: '🏘️',
+  priroda: '🌲',
+  gastro: '🍽️',
+};
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  breadcrumb={[
+    { label: 'Úvod', href: '/' },
+    { label: 'Tematické cesty', href: '/cesty' },
+    { label: entry.data.title, href: `/cesty/${entry.slug}` },
+  ]}
+  updated={entry.data.updated}
+  cover={entry.data.cover}
+>
+  <aside class="cesta-summary">
+    <dl>
+      <div>
+        <dt>Region</dt>
+        <dd>{entry.data.region}</dd>
+      </div>
+      <div>
+        <dt>Délka</dt>
+        <dd>{entry.data.delka_dni} {entry.data.delka_dni === 1 ? 'den' : entry.data.delka_dni < 5 ? 'dny' : 'dní'}{entry.data.delka_km && ` · ${entry.data.delka_km} km`}</dd>
+      </div>
+      <div>
+        <dt>Obtížnost</dt>
+        <dd>{obtiznostLabel[entry.data.obtiznost]}</dd>
+      </div>
+      <div>
+        <dt>Doprava</dt>
+        <dd>{dopravaLabel[entry.data.doprava]}</dd>
+      </div>
+      <div>
+        <dt>Kdy jet</dt>
+        <dd>{rocniLabel[entry.data.rocni]}</dd>
+      </div>
+      <div>
+        <dt>Start</dt>
+        <dd>{entry.data.startPoint.nazev}</dd>
+      </div>
+      {entry.data.endPoint && (
+        <div>
+          <dt>Cíl</dt>
+          <dd>{entry.data.endPoint.nazev}</dd>
+        </div>
+      )}
+    </dl>
+  </aside>
+
+  <section class="zastavky">
+    <h2>Zastávky na trase</h2>
+    <ol class="zastavky-list">
+      {zastavkyEnriched.map((z, i) => (
+        <li class="zastavka">
+          <div class="zastavka__num">{i + 1}</div>
+          <div class="zastavka__body">
+            <div class="zastavka__head">
+              <span class="zastavka__icon">{typIcon[z.typ]}</span>
+              {z.slug && z.fortData ? (
+                <h3><a href={`/katalog/${z.slug}`}>{z.nazev}</a></h3>
+              ) : (
+                <h3>{z.nazev}</h3>
+              )}
+              {z.doba_minut && <span class="zastavka__time">{z.doba_minut} min</span>}
+            </div>
+            {z.poznamka && <p class="zastavka__note">{z.poznamka}</p>}
+            {z.fortData && (
+              <p class="zastavka__meta">
+                <span>{z.fortData.region}</span>
+                <span> · </span>
+                <a href={`https://www.google.com/maps?q=${z.fortData.lat},${z.fortData.lon}`} target="_blank" rel="noopener">
+                  📍 {z.fortData.lat.toFixed(4)}, {z.fortData.lon.toFixed(4)}
+                </a>
+              </p>
+            )}
+          </div>
+        </li>
+      ))}
+    </ol>
+  </section>
+
+  <Content />
+
+  {entry.data.tags && entry.data.tags.length > 0 && (
+    <footer class="cesta-tags">
+      <strong>Štítky:</strong>
+      {entry.data.tags.map((t) => <span class="tag">{t}</span>)}
+    </footer>
+  )}
+</ArticleLayout>
+
+<style>
+  .cesta-summary {
+    background: var(--background-soft);
+    border-left: 4px solid var(--accent, #8b6f2a);
+    padding: var(--s4);
+    margin-bottom: var(--s5);
+    border-radius: 4px;
+  }
+
+  .cesta-summary dl {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: var(--s3);
+    margin: 0;
+  }
+
+  .cesta-summary dt {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-light);
+    margin: 0 0 2px 0;
+  }
+
+  .cesta-summary dd {
+    margin: 0;
+    font-weight: 500;
+  }
+
+  .zastavky {
+    margin: var(--s5) 0;
+    padding: var(--s4);
+    background: var(--paper);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+  }
+
+  .zastavky h2 {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
+  }
+
+  .zastavky-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    counter-reset: zastavka;
+  }
+
+  .zastavka {
+    display: flex;
+    gap: var(--s3);
+    padding: var(--s3) 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .zastavka:last-child {
+    border-bottom: none;
+  }
+
+  .zastavka__num {
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: var(--accent, #8b6f2a);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+
+  .zastavka__body {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .zastavka__head {
+    display: flex;
+    align-items: center;
+    gap: var(--s2);
+    flex-wrap: wrap;
+  }
+
+  .zastavka__icon {
+    font-size: 1.25rem;
+  }
+
+  .zastavka__head h3 {
+    margin: 0;
+    font-size: 1.1rem;
+  }
+
+  .zastavka__head h3 a {
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 1px dashed var(--accent, #8b6f2a);
+  }
+
+  .zastavka__head h3 a:hover {
+    color: var(--accent, #8b6f2a);
+  }
+
+  .zastavka__time {
+    background: var(--background-soft);
+    padding: 2px 8px;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    color: var(--ink-light);
+  }
+
+  .zastavka__note {
+    margin: var(--s2) 0 0 0;
+    color: var(--ink);
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+
+  .zastavka__meta {
+    margin: var(--s1) 0 0 0;
+    font-size: 0.85rem;
+    color: var(--ink-light);
+  }
+
+  .zastavka__meta a {
+    color: var(--accent, #8b6f2a);
+    text-decoration: none;
+  }
+
+  .cesta-tags {
+    margin-top: var(--s5);
+    padding-top: var(--s3);
+    border-top: 1px solid var(--border);
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--s2);
+    align-items: center;
+  }
+
+  .tag {
+    background: var(--background-soft);
+    padding: 3px 10px;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    color: var(--ink-light);
+  }
+</style>
