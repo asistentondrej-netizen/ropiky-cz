@@ -1,6 +1,7 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import pagefind from 'astro-pagefind';
+import fortLinker from './src/remark/fort-linker.mjs';
 
 // https://astro.build/config
 export default defineConfig({
@@ -13,6 +14,9 @@ export default defineConfig({
     shikiConfig: {
       theme: 'github-light',
     },
+    remarkPlugins: [
+      [fortLinker, { catalog: './src/content/pevnosti', maxLinksPerParagraph: 3 }],
+    ],
   },
   vite: {
     build: {
