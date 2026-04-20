@@ -48,9 +48,9 @@ def strip_html(s):
 
 
 def refresh_index():
-    def traverse(cat, depth=0, max_depth=4, seen=None):
-        if seen is None:
-            seen = set()
+    seen = set()
+
+    def traverse(cat, depth=0, max_depth=6):
         files = []
         if cat in seen or depth > max_depth:
             return files
@@ -61,21 +61,35 @@ def refresh_index():
                 "list": "categorymembers", "cmtitle": f"Category:{cat}",
                 "cmtype": "file|subcat", "cmlimit": "500",
             })
-        except Exception:
+        except Exception as e:
+            print(f"  err {cat}: {e}", file=sys.stderr)
             return files
-        time.sleep(0.3)
+        time.sleep(0.2)
         for m in r.get("query", {}).get("categorymembers", []):
             if m["title"].startswith("Category:"):
                 sub = m["title"].replace("Category:", "")
-                files.extend(traverse(sub, depth + 1, max_depth, seen))
+                files.extend(traverse(sub, depth + 1, max_depth))
             elif m["title"].startswith("File:"):
                 files.append(m["title"])
         return files
 
-    print("Stahuji index...")
-    files = traverse("Bunkers in the Czech Republic")
-    files_slovak = traverse("Bunkers in Slovakia")
-    all_files = sorted(set(files + files_slovak))
+    print("Stahuji index (max_depth=6)...")
+    all_files = []
+    for root in [
+        "Bunkers in the Czech Republic",
+        "Bunkers in Slovakia",
+        "Fortifications of World War II in Czechoslovakia",
+        "Czechoslovak light pillboxes Model 36 of ZVV Brno",
+        "Czechoslovak light pillboxes Model 36 of ZVV Praha",
+        "Czechoslovak light pillboxes Model 37 of I. army corps",
+        "Czechoslovak light pillboxes Model 37 of II. army corps",
+        "Czechoslovak light pillboxes Model 37 of III. army corps",
+        "Czechoslovak light pillboxes Model 37 of IV. army corps",
+    ]:
+        before = len(all_files)
+        all_files.extend(traverse(root))
+        print(f"  + {root}: +{len(all_files) - before}")
+    all_files = sorted(set(all_files))
     INDEX_FILE.write_text("\n".join(all_files), encoding="utf-8")
     print(f"Uloženo {len(all_files)} File: titles → {INDEX_FILE}")
     return all_files

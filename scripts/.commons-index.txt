@@ -78,6 +78,8 @@ File:05599 Sanok 1941.JPG
 File:058 Žlubinec za Konvalinkovou A-5 47 A-140 JJZ.jpg
 File:059 Za Srbskem B-7 6 A-200Z SSV.jpg
 File:059 Žlubinec za Konvalinkovou A-5 47 A-140 JJZ.jpg
+File:06 Valladolid Academia Caballeria Museo Armas ni (recortada).jpg
+File:06 Valladolid Academia Caballeria Museo Armas ni.jpg
 File:060 Za Srbskem B-7 6 A-200Z SSV.jpg
 File:060 Žlubinec za Konvalinkovou A-5 47 A-140 J.jpg
 File:061 Za Srbskem B-7 6 A-200Z JV.jpg
@@ -140,10 +142,14 @@ File:096 Od Šnárovy hory A-5 49 A-160 ZJZ.jpg
 File:097 Od Šnárovy hory A-5 49 A-160 VJV.jpg
 File:098 Od Šnárovy hory A-5 49 A-160 V.jpg
 File:099 Od Šnárovy hory A-5 49 A-160 VSV.jpg
+File:1 RAR soldier manning a position in Korea during 1952.jpg
+File:1 Samodzielna Brygada Spadochronowa w Wielkiej Brytanii (21-98-1).jpg
+File:1-15th Infantry Regiment in Yogyakarta, December 1948.jpg
 File:100 Od Šnárovy hory A-5 49 A-160 VSV.jpg
 File:101 Od Šnárovy hory A-5 49 A-160 S.jpg
 File:102 Od Šnárovy hory A-5 49 A-160 Z.jpg
 File:102-a rusia militbazo en Gjumri 06.jpg
+File:103399 kibbutz ein gav PikiWiki Israel.jpg
 File:113 Za Hostimí B-6 66 A-160Z JV.jpg
 File:114 Za Hostimí B-6 66 A-160Z VJV.jpg
 File:115 Za Hostimí B-6 66 A-160Z JJV.jpg
@@ -172,6 +178,7 @@ File:135 Nižbor za Nad Sklárnou B-6 2 A-180Z ZSZ.jpg
 File:136 Nižbor za Nad Sklárnou B-6 2 A-180Z.jpg
 File:137 Nižbor za Nad Sklárnou B-6 2 A-180Z J.jpg
 File:138 Nižbor za Nad Sklárnou B-6 2 A-180Z JJV.jpg
+File:14 July Revolution.jpg
 File:143 Nižbor Pod Žlubincem B-6 5 A-180 ZSZ.jpg
 File:144 Nižbor Pod Žlubincem B-6 5 A-180 ZSZ.jpg
 File:145 Nižbor Pod Žlubincem B-6 5 A-180 Z.jpg
@@ -206,17 +213,31 @@ File:193 Beroun u Damilu 116 122 A-180Z V.jpg
 File:1938 June Yellow River.gif
 File:194 Beroun u Damilu 116 122 A-180Z SSV.jpg
 File:1941jcj.jpg
+File:1944 Bren light machine gun.jpg
+File:1948 Arab-Israeli War (997008136344705171).jpg
+File:1948 Arab-Israeli War 997008136998005171.jpg
 File:195 Beroun u Damilu 116 122 A-180Z SSV.jpg
 File:195103 1950年朝鲜战争中国志愿军士兵.png
 File:196 Beroun u Damilu 116 122 A-180Z SSV.jpg
 File:197 Beroun u Damilu 116 122 A-180Z SZ.jpg
+File:1971 Bangladesh Liberation War Arms.jpg
 File:198 Beroun u Damilu 116 122 A-180Z SZ.jpg
 File:199 Beroun u Damilu 116 122 A-180Z SZ.jpg
+File:1RAR NCO school Bren gun training.jpg
+File:1RAR checkpoint and machine gun nest in Gloucester Valley.jpg
+File:1RAR soldiers dry off uniforms after rain.jpg
+File:1st Polish Corps during a training exercise in Perth, Scotland.jpg
+File:1st Special Service Brigade 4 April 1945.jpg
+File:1stAlameinBritDefense.jpg
+File:2 5th Bn AIF gun pits in New Guinea August 1943.jpg
+File:2-43rd Battalion Bren Gun position on Labuan 13 June 1945.jpg
 File:200 Beroun u Damilu 116 122 A-180Z SZ.jpg
 File:2008-04-22 Kryt nadrazi Adamov.jpg
 File:201 Beroun u Damilu 116 122 A-180Z J.jpg
 File:2010-04-29 Kryt na Coufave.jpg
+File:2012-Museo Giron anagoria 06.JPG
 File:20121005 Bretagne Audierne WW2 Einmannbunker Abriss DSC00495 PtrQs.jpg
+File:2016-06 Bohumín (5).jpg
 File:2017-02-25 GuentherZ (61) Schattau-Šatov Bunker.jpg
 File:2017-02-25 GuentherZ (62) Schattau-Šatov Bunker.jpg
 File:2017-02-25 GuentherZ (63) Schattau-Šatov Bunker.jpg
@@ -224,9 +245,12 @@ File:2017-02-25 GuentherZ (65) Schattau-Šatov Bunker.jpg
 File:2017-02-25 GuentherZ (66) Schattau-Šatov Bunker.jpg
 File:2017-08-13 10-39-46 reconst-histo-sentheim.jpg
 File:2017-08-13 10-40-21 reconst-histo-sentheim.jpg
+File:2018-10-20 Skoda 10 cm vz. 38 howitzer 1.jpg
+File:2018-10-20 Skoda 10 cm vz. 38 howitzer 2.jpg
 File:2019 Einmannbunker (Č. Těšín).jpg
 File:2021-09-06 Bunker under the old post office (Adamov).jpg
 File:2021-11-20 Kryt nadrazi Adamov.jpg
+File:20231010 154910 October 2023 in Białystok.jpg
 File:2025-03-16 CO 6 (Adamov) 1.jpg
 File:2025-03-16 CO 6 (Adamov) 2.jpg
 File:2025-03-16 CO 7 (Adamov).jpg
@@ -245,15 +269,38 @@ File:214 Za Berounem B-6 61 A-220Z SZ.jpg
 File:215 Za Berounem B-6 61 A-220Z ZSZ.jpg
 File:216 Za Berounem B-6 61 A-220Z SZ.jpg
 File:217 Za Berounem B-6 61 A-220Z J.jpg
+File:3 RAR defences on the Jamestown Line 1 January 1953 (AWM HOBJ3882).jpg
+File:3RAR foxhole on Hill Sardine.jpg
+File:3RAR soldiers cleans his Bren gun.jpg
+File:3RAR soldiers mop up in a hamlet north of the Kaeryong River near Pakchon.jpg
+File:3RAR soldiers pull a camouflage net over their mortar position.jpg
+File:3RAR troops await orders to sweep a North Korean village.jpg
+File:48th Highlanders of Canada Lieutenant preparing to give order to infantrymen San Leonardo Ortona December 1943.jpg
 File:4cm kanón vz. 36 Atlantic Wall P001180.jpg
 File:4cm kanón vz. 36 Atlantic Wall P011633.jpg
 File:4cm kanón vz. 36.jpg
+File:50th division.jpg
 File:65-PotsdamerPlatz.jpg
 File:671 22 Šatov, Czech Republic - panoramio (1).jpg
+File:7,92-мм югославский станковый пулемет системы В. Холека обр. 1938-40 годов (2).jpg
+File:7,92-мм югославский станковый пулемет системы В. Холека обр. 1938-40 годов (3).jpg
+File:7,92-мм югославский станковый пулемет системы В. Холека обр. 1938-40 годов.jpg
 File:7.9mm Machine Gun (9884972386).jpg
 File:7RAR soldier with captured Vietcong ZB vz. 26 machine gun.jpg
+File:8th Army Front- Italian Partisan Leader Honoured NA22066.jpg
+File:8th Army Front- Italian Partisan Leader Honoured NA22067.jpg
+File:8th Royal Scots halted 27-10-1944.jpg
+File:93СД.jpg
+File:A Bren gunner of the 1st Gordon Highlanders in action near Nieuwkuik, Holland, 6 November 1944. B11751.jpg
+File:A Bren gunner of the 8th Royal Scots at Moostdijk, Holland, 6 November 1944. B11758.jpg
+File:A British 17-pdr anti-tank gun and Sherman tank near Cassino, Italy, 17 May 1944. NA15075.jpg
+File:A British Bren gun crew in a trench at Anzio, Italy, 13 March 1944. NA12887.jpg
+File:A British infantryman armed with a Bren gun stops for a smoke during training in the UK, March 1944. TR1599.jpg
 File:A Chinese squad deployed outside Shanghai.jpg
+File:A Company, 3RAR position under snow.jpg
+File:A display of weapons by a World War Two reenactor during an open day at The Staffordshire Regiment Museum.jpg
 File:A dizzying descent into the unknown (53382253096).jpg
+File:A member of No. 9 Commando at Anzio, equipped for a patrol with his Bren gun, 5 March 1944. NA12469.jpg
 File:A-4 50 A-220Z-1 Za Dolním Bezděkovem.jpg
 File:A-4 50 A-220Z-10 Za Dolním Bezděkovem.jpg
 File:A-4 50 A-220Z-11 Za Dolním Bezděkovem.jpg
@@ -337,22 +384,68 @@ File:A-5 23 A-160-4 Před potokem Benešákem.jpg
 File:A-5 23 A-160-5 Před potokem Benešákem.jpg
 File:A-5 23 A-160-6 Před potokem Benešákem.jpg
 File:A-5 23 A-160-7 Před potokem Benešákem.jpg
+File:AA Harry 1945 v2 (2).jpg
+File:AKL024567.jpg
+File:AMISOM Kismayo Advance 01 (8049965975).jpg
+File:AWM 078508 47th Battalion Bougainville 1945.jpg
+File:AWM 091144.jpg
+File:Actie in de richting van Gading, Plajen en Wonosari. De infanterie rukte 's nach, Bestanddeelnr 109.jpg
+File:Actie in de richting van Gading, Plajen en Wonosari. De infanterie rukte 's nach, Bestanddeelnr 110.jpg
+File:Actie in de richting van Gading, Plajen en Wonosari. De infanterie rukte 's nach, Bestanddeelnr 111.jpg
+File:Actie in de richting van Gading, Plajen en Wonosari. De infanterie rukte 's nach, Bestanddeelnr 128.jpg
+File:Actie in de richting van Gading, Plajen en Wonosari. De infanterie rukte s nach, Bestanddeelnr 121.jpg
+File:Acties in de Poolse sector van de frontlijn in Nederland, Bestanddeelnr 26054 021.tif
 File:Adam bunkier.jpg
 File:Afghanistan – Seized Mujahideen weaponry 007.jpg
 File:Afghanistan – Seized Mujahideen weaponry 008.jpg
 File:Akce čs. armády proti sudetoněmeckým teroristům.gif
 File:Alarmzaunrelaisstelle Glöckelberg mittig zwischen innerem und aüßerem Todesstreifen - panoramio.jpg
+File:Allied Forces in the United Kingdom 1939-45 H11118.jpg
+File:Allied Forces in the United Kingdom 1939-45 H11120 (cropped).jpg
+File:Allied Forces in the United Kingdom 1939-45 H11120.jpg
+File:Allied Forces in the United Kingdom 1939-45 H7034.jpg
+File:Ambarawa In de bevrijde gebieden wordt de order staakt het vuren door de rond, Bestanddeelnr 356-6-1.jpg
+File:Ambarawa Leen Stokman heeft op de onderneming De Koffiepot een goed beklante , Bestanddeelnr 468-5-3.jpg
+File:Ambarawa Leen Stokman heeft op de onderneming De Koffiepot een goed beklante , Bestanddeelnr 468-5-5.jpg
+File:Ambarawa ook na de order tot het beëindigen der vijandelijkheden verontrusten d…, Bestanddeelnr 3935.jpg
+File:AmetralladoraAntiaerea.jpg
+File:Ametralladoras 01.jpg
+File:Animals at War 1939 - 1945 H12985.jpg
 File:Anlage Sperrstellung Wurzenpass.jpg
+File:Anti-French War for Vietnamese Independence, 1950s (9732180609).jpg
+File:Anti-aircraft BrenGun.jpg
 File:Anti-tank obstacle, Großmittel.jpg
 File:Apollonia-Bildstock bei der Kuenringer-Kaserne, Weitra.jpg
+File:Arakan Campaign - Battle of Rathedaung, 1943 Art.IWMARTLD3683.jpg
+File:Areal vstupniho objektu K-S 12a U rybnicku.JPG
 File:Areál československého opevnění - Hlučín-Darkovičky 03.jpg
+File:Areál československého opevnění - Hlučín-Darkovičky 04.jpg
+File:Areál čs. opevnění Darkovičky - interiér 2.jpg
 File:Areál čs. opevnění Darkovičky - interiér 3.jpg
 File:Areál čs. opevnění Darkovičky - interiér.jpg
+File:Areál čs. opevnění v Darkovičkách.jpg
+File:Armamento - Museo de Armas de la Nación 09.JPG
+File:Armamento - Museo de Armas de la Nación 102.jpg
 File:Army 29 Fighting 1937 (cropped).jpg
 File:Army 29 Fighting 1937.jpg
+File:Army 643 B, Bestanddeelnr 934-9499.jpg
+File:Army Commandos in a landing craft during training in Scotland, 28 February 1942. H17472.jpg
 File:Arnoldstein Krainberg Wurzenpass T34-Panzer-Schaustueck 13052015 3662.jpg
 File:Arnoldstein Krainberg Wurzenpass T34-Panzer-Schaustueck 13052015 3668.jpg
+File:Arnost Hrad.JPG
+File:Asahigraph1937-9a.jpg
+File:AskifouWM 24.JPG
 File:Atlas objektů těžkého opevnění úseku Moravská Ostrava.jpg
+File:Aust soldiers Wewak June 1945.jpg
+File:Australian Bren gun training, June 1943, New Guinea.jpg
+File:Australian Bren gunner awaits orders to advance.jpg
+File:Australian Bren gunners defend the ship Costa Rica against an attack by German or Italian aircraft during the evacuation of Greece.jpg
+File:Australian Corporal with Bren gun.jpg
+File:Australian assault on pillbox, January 1943, Papua, Giropa Point.jpg
+File:Australian soldier in Borneo 1965 (AWM CUN650724MC).png
+File:Australian soldier in Borneo 1965 (AWM CUN650823BMC).jpg
+File:Australian soldiers don flak vests before a night patrol.jpg
+File:Australian soldiers landing at Labuan on 10 June 1945.jpg
 File:B-6 50 D2-1 SZ.jpg
 File:B-6 50 D2-10.jpg
 File:B-6 50 D2-11 JZ.jpg
@@ -470,6 +563,12 @@ File:B-S-14 "Duna" - panoramio.jpg
 File:B-S-9 "Kittsee" - panoramio.jpg
 File:B-S-II "LO vz.37 typ H" - panoramio.jpg
 File:B-SV-1 - panoramio.jpg
+File:BESA-machine-gun-batey-haosef-3.jpg
+File:BESA-machine-gun-batey-haosef-4.jpg
+File:BREN GM MK II 1971 Bangladesh Liberation War Arms 2.jpg
+File:BREN GM MK II 1971 Bangladesh Liberation War Arms.jpg
+File:BREN Mk II submachine gun at Athens War Museum on November 22, 2022.jpg
+File:BREN gun (3848009518).jpg
 File:BS-1 "Štěrkoviště" - panoramio.jpg
 File:BS-1 guľometný zvon - panoramio.jpg
 File:BS-1 miesto pre delo-smer Dunaj - panoramio.jpg
@@ -501,7 +600,9 @@ File:Babí, Náchod 2017-05 15.jpg
 File:Babí, Náchod 2017-05 16.jpg
 File:Babí, Náchod 2017-05 17.jpg
 File:Babí-Stachelberg - panoramio (1).jpg
+File:Babí-Stachelberg - panoramio.jpg
 File:Balad Air Base Pond DVIDS22791.jpg
+File:Bandoeng Bij Terisi zijn houtdiefstallen geen uitzonderingen. Aangezien deze di, Bestanddeelnr 790.jpg
 File:Bangsbo Fort i Frederikshavn, den 15 mars 2008, bild 48.jpg
 File:Bartošovice v Orlických horách, Neratov, R-S 83 (rok 2002).jpg
 File:Bartošovice v Orlických horách, Neratov, R-S 83 (rok 2010; 01).jpg
@@ -616,9 +717,12 @@ File:Bartošovice v Orlických horách, protitankový příkop u R-S 62 (rok 201
 File:Bartošovice v Orlických horách, protitankový příkop u R-S 63 (rok 2010; 01).jpg
 File:Bartošovice v Orlických horách, protitankový příkop u R-S 63 (rok 2010; 02).jpg
 File:Bartošovice v Orlických horách, protitankový příkop u R-S 64 (rok 2010).jpg
+File:Battle of Arakan, 1943- Overlooking Japanese Positions at Rathedaung Art.IWMARTLD3161.jpg
 File:Battle of Changsha.jpg
 File:Beach Defenses, Normandy, 6 May 1944 (14321210636).jpg
+File:Beaufort Sabah StarcevichMemorialMonument-07.jpg
 File:Behoun.JPG
+File:Belgian Commandos in Training in Britain, 1945 D23711.jpg
 File:Berlin - "Der Sozialismus Siegt!".jpg
 File:Berlin - Wall and Guard Tower.jpg
 File:Berlin 1969, 3.jpg
@@ -635,6 +739,7 @@ File:Berlin- Ost; Spanische Reiter - LABW - Staatsarchiv Freiburg W 134 Nr. 1110
 File:Berlin- Ost; Spanische Reiter mit Kinderdreirad - LABW - Staatsarchiv Freiburg W 134 Nr. 111099d.jpeg
 File:Berliner Mauer mit Panzersperren (Liesenstraße-Gartenstraße 1980).jpg
 File:Berliner Mauer, Bouchéstraße, Blick von Ost nach West, ca. 1983 oder 1984.jpg
+File:Bermuda Volunteer Rifle Corps platoon in March 1944.jpg
 File:Bernauer Strasse 1973.jpg
 File:Beroun, Lištice řopík1.jpg
 File:Beroun, Lištice řopík2.jpg
@@ -645,10 +750,15 @@ File:Beroun, bunkry Pražské čáry.JPG
 File:Beroun, vojenský srub.jpg
 File:Beroun-Závodí, lávka přes Vrážský potok (01).jpg
 File:Berounka, Beroun - Závodí, Beroun, okr. Beroun, Středočeský kraj.JPG
+File:Besa 7.62 mm Makineli Tüfek.jpg
+File:Besa Mark II tank machine gun (Athens War Museum) on November 22, 2022.jpg
+File:Besa machine gun in display.jpg
+File:Besa machine gun.JPG
 File:Betonova hranice cedule.JPG
 File:Betonová hranice - bunkry koło Opavy.JPG
 File:Betonový práh pro zapuštění ocelových kolíků.jpg
 File:Betónový tank.jpg
+File:Beyt-gidi-389.jpg
 File:Bezkova Nuclear Bunker (16710865313).jpg
 File:Bezkova Nuclear Bunker (16710931203).jpg
 File:Bezkova Nuclear Bunker (17123747807).jpg
@@ -669,6 +779,21 @@ File:Bezkova Nuclear Bunker (17330794861).jpg
 File:Bezkova Nuclear Bunker (17330795571).jpg
 File:Bezkova Nuclear Bunker (17331125205).jpg
 File:Bezkova Nuclear Bunker (17331193145).jpg
+File:Bezoek van Hoofdalmoezenier kolonel H.J.J.M. van Straelen. Bij een mitrailleurpo, Bestanddeelnr 182A-6-2.jpg
+File:Bezoek van Hoofdalmoezenier kolonel H.J.J.M. van Straelen. Bij een mitrailleurpo, Bestanddeelnr 182A-6-3.jpg
+File:Bohumín, Starý Bohumín, MO-S 5 (rok 2001; 01).jpg
+File:Bohumín, Starý Bohumín, MO-S 5 (rok 2001; 02).jpg
+File:Bohumín, Starý Bohumín, MO-S 5 (rok 2001; 03).jpg
+File:Bohumín, bunker.jpg
+File:Bohuslavice, MO-S 28 (2015-05-01; 01).jpg
+File:Bohuslavice, MO-S 28 (2015-05-01; 02).jpg
+File:Bohuslavice, MO-S 28 (2015-05-01; 03).jpg
+File:Bohuslavice, MO-S 29 (2015-05-01; 01).jpg
+File:Bohuslavice, MO-S 29 (2015-05-01; 02).jpg
+File:Bohuslavice, MO-S 29 (2015-05-01; 03).jpg
+File:Bohuslavice, MO-S 30 (2015-05-01; 01).jpg
+File:Bohuslavice, MO-S 30 (2015-05-01; 02).jpg
+File:Bohuslavice, MO-S 30 (2015-05-01; 03).jpg
 File:Border fortification line in Slovakia 1, Devín, Bratislava.JPG
 File:Border fortification line in Slovakia 2, Devín, Bratislava.JPG
 File:Border fortification line in Slovakia 3, Devín, Bratislava.JPG
@@ -695,7 +820,20 @@ File:Bouda, podzemí (rok 2005; 06).jpg
 File:Bouda, podzemí (rok 2005; 07).jpg
 File:Bouda, podzemí (rok 2005; 08).jpg
 File:Bouda, podzemí (rok 2005; 09).jpg
+File:Boudatvrz.jpg
 File:Bozi dar hangar12.JPG
+File:Branná, StM-S 50 (rok 2003; 01).jpg
+File:Branná, StM-S 50 (rok 2003; 02).jpg
+File:Branná, StM-S 52 (rok 2009; 01).jpg
+File:Branná, StM-S 52 (rok 2009; 02).jpg
+File:Branná, StM-S 52 (rok 2009; 03).jpg
+File:Branná, StM-S 52 (rok 2009; 04).jpg
+File:Branná, StM-S 52 (rok 2009; 05).jpg
+File:Branná, StM-S 52 (rok 2009; 06).jpg
+File:Branná, StM-S 52 (rok 2009; 07).jpg
+File:Branná, StM-S 52 (rok 2009; 08).jpg
+File:Branná, StM-S 52 (rok 2009; 09).jpg
+File:Branná, StM-S 52 (rok 2009; 10).jpg
 File:Bratislava, B-S 10, stav v roce 1996 (01).jpg
 File:Bratislava, B-S 10, stav v roce 1996 (02).jpg
 File:Bratislava, B-S 3, stav v roce 1996.jpg
@@ -805,6 +943,46 @@ File:Bratronice (Kladno District), bunkr (6).jpg
 File:Bratronice (Kladno District), bunkr (7).jpg
 File:Bratronice, Dolní Bezděkov, most a opevnění.JPG
 File:Bregenz-OeBH Panzersperren-Tschechenigel-01.jpg
+File:Bren Forte di San Leo.JPG
+File:Bren Gun Royal Marines Commando 42, LST 1161, Vernon City, May 1961.jpg
+File:Bren Gun. . . (21261786971).jpg
+File:Bren LMG.jpg
+File:Bren MG exposée à winchester.jpg
+File:Bren MK 1 light machine gun (Athens War Museum) on November 22, 2022.jpg
+File:Bren RCRMM.jpg
+File:Bren gun HKMCD.JPG
+File:Bren gunner loads his magazines before setting out on a raid.jpg
+File:Bren gunner of the Royal Scots 06-11-1944.jpg
+File:Bren machine gun at the Athens War Museum.jpg
+File:Bren machinegeweerschuutter schiet op een doel. Achter hem twee andere militair, Bestanddeelnr 2856.jpg
+File:Bren wog.jpg
+File:Bren-LMG-batey-haosef-1.jpg
+File:Bren1.jpg
+File:Brenschutter en geweerschutter in een rijstveld, Bestanddeelnr 7322.jpg
+File:Brenschutter en geweerschutter in positie achter een versterking met zandzakken, Bestanddeelnr 7278.jpg
+File:Brenschutter en geweerschutter in positie achter een versterking met zandzakken, Bestanddeelnr 7279.jpg
+File:Brenschutter heeft zich ingegraven, Bestanddeelnr 7085.jpg
+File:Brenschutter in positie bij een brug over een rivier, links van hem een soldaat, Bestanddeelnr 2561.jpg
+File:Brenschutter met uitzicht op een brug, Bestanddeelnr 3079.jpg
+File:Brenschutter schietend vanuit dekking, liggend op de weg. Om hem heen zijn patr, Bestanddeelnr 15750.jpg
+File:Brenschutter wordt ondersteunt terwijl hij staand vuur afgeeft over rijstvelden, Bestanddeelnr 5356.jpg
+File:Brenschutter, staand in een positie, Bestanddeelnr 7411.jpg
+File:Brenschutters in dekking in het struikgewas, Bestanddeelnr 2972.jpg
+File:Brian Shaw and Henry W King.JPG
+File:Brian Shaw firing a Bren light machine gun, 1947.JPG
+File:British Bren light machine gun. (49192589148).jpg
+File:British Bren light machine gun. (49193088171).jpg
+File:British Bren machine guns seized during Operation URGENT FURY DD-ST-84-08791.jpg
+File:British Forces in the Middle East, 1945-1947 E31758.jpg
+File:British Forces in the Middle East, 1945-1947 E31803.jpg
+File:British Forces in the Middle East, 1945-1947 E31805.jpg
+File:British Forces in the Middle East, 1945-1947 E32043.jpg
+File:British Soldier & Lee Enfield.jpg
+File:British Soldier (7527780792).jpg
+File:British infantry ride on Sherman tanks in Holland, 24 September 1944. B10287.jpg
+File:British paratroops in Hamminkeln during the Allied airborne landings east of the Rhine, 25 March 1945. BU2293.jpg
+File:British troops herd cattle past a Morris 'Quad' artillery tractor and 25pdr field gun, Normandy, 8 July 1944. B6606.jpg
+File:British-troops-fighting-in-the-desert-352128943827.jpg
 File:Brno - Bílá hora, pozorovatelna, 2025-12, obr01.jpg
 File:Brno - Bílá hora, pozorovatelna, 2025-12, obr02.jpg
 File:Brno - Bílá hora, výhled na město, 2025-12, obr02.jpg
@@ -822,10 +1000,17 @@ File:Brunn-HBA 5100.JPG
 File:Brunn-HBA 5101.JPG
 File:Budňany, Karlštejn, ŘOPík, 2013 (01).jpg
 File:Budňany, Karlštejn, ŘOPík, 2013 (02).jpg
+File:Bundesarchiv B 145 Bild-F016203-15, Russland, MG-Stellung am Bug.jpg
+File:Bundesarchiv B 145 Bild-F016203-16, Russland, MG-Stellung am Bug.jpg
 File:Bundesarchiv B 145 Bild-P085282, Berlin, Checkpoint Charly, John F. Kennedy.jpg
 File:Bundesarchiv Bild 101I-298-1770-35A, Nordfrankreich, Sturmgeschütz.jpg
+File:Bundesarchiv Bild 101I-576-1846-11A, Italien, Fallschirmjäger mit Bren-MG in Ruhestellung Recolored.jpg
+File:Bundesarchiv Bild 101I-576-1846-11A, Italien, Fallschirmjäger mit Bren-MG in Ruhestellung.jpg
+File:Bundesarchiv Bild 101I-695-0403-17, Warschauer Aufstand, deutsche Soldaten.jpg
 File:Bundesarchiv Bild 101I-719-0240-05, Pas de Calais, Atlantikwall, Panzersperren.jpg
 File:Bundesarchiv Bild 101I-719-0240-26, Pas de Calais, Atlantikwall, Panzersperren.jpg
+File:Bundesarchiv Bild 101I-720-0318-04, Frankreich, Parade der Milice Francaise.jpg
+File:Bundesarchiv Bild 121-0469, Straßburg, Polizeiposten.jpg
 File:Bundesarchiv Bild 146-1970-005-46, Sudetenland, schwerer Schartenstand bei Schatzlar.jpg
 File:Bundesarchiv Bild 146-1984-051-27, Westwall, Straßensperre (Kampfwagenschranke).jpg
 File:Bundesarchiv Bild 146-2003-0038, Besetzung Sudetenland, Panzerwerk.jpg
@@ -836,7 +1021,25 @@ File:Bundesarchiv Bild 183-B12885, Barrikaden in Charkow.jpg
 File:Bunk10.jpg
 File:Bunk11.jpg
 File:Bunk12.jpg
+File:Bunk13.jpg
+File:Bunk14.jpg
+File:Bunk15.jpg
+File:Bunk16.jpg
+File:Bunk17.jpg
+File:Bunk18.jpg
+File:Bunk19.jpg
+File:Bunk2.jpg
+File:Bunk20.jpg
+File:Bunk21.jpg
+File:Bunk22.jpg
+File:Bunk23.jpg
+File:Bunk24.jpg
+File:Bunk25.jpg
+File:Bunk26.jpg
 File:Bunk3.jpg
+File:Bunk4.jpg
+File:Bunk5.jpg
+File:Bunk6.jpg
 File:Bunk7.jpg
 File:Bunk8.jpg
 File:Bunk9.jpg
@@ -884,6 +1087,15 @@ File:Bunker near Zlín 3.JPG
 File:Bunker-Umir.jpg
 File:Bunker1.jpg
 File:Bunker2.jpg
+File:Bunkier MO-S 18, okolice Hlučína (1).jpg
+File:Bunkier MO-S 18, okolice Hlučína (2).jpg
+File:Bunkier MO-S 18, okolice Hlučína (3).jpg
+File:Bunkier MO-S 18, okolice Hlučína (4).jpg
+File:Bunkier MO-S 18, okolice Hlučína (5).jpg
+File:Bunkier MO-S 18, okolice Hlučína (6).jpg
+File:Bunkier MO-S 19, okolice Hlučína (1).jpg
+File:Bunkier MO-S 19, okolice Hlučína (2).jpg
+File:Bunkier nieco na północ od Kralik - panoramio.jpg
 File:Bunkr - panoramio (1).jpg
 File:Bunkr - panoramio.jpg
 File:Bunkr 03-12-A-160 Z, Svádov, Ústí nad Labem, okres Ústí nad Labem.jpg
@@ -900,6 +1112,9 @@ File:Bunkr Doksy 09.jpg
 File:Bunkr Doksy 10.jpg
 File:Bunkr Doksy 11.jpg
 File:Bunkr Doksy 12.jpg
+File:Bunkr L2-40-A-180 poblíž Pekařova kříže v Lužických horách.jpg
+File:Bunkr Nad Lučinou, Nad Lučinou, Slezská Ostrava, Ostrava 01.jpg
+File:Bunkr Nad Lučinou, Nad Lučinou, Slezská Ostrava, Ostrava 02.jpg
 File:Bunkr Parukářka, boční východ.jpg
 File:Bunkr Parukářka, chodba k východu.jpg
 File:Bunkr Parukářka, chodba od východu.jpg
@@ -934,6 +1149,9 @@ File:Bunkr Parukářka, směrovka.jpg
 File:Bunkr Parukářka, těžší dveře, ven.jpg
 File:Bunkr Parukářka, těžší dveře.jpg
 File:Bunkr Pod SvedskymVrchem.jpg
+File:Bunkr Skutina 1 - panoramio.jpg
+File:Bunkr Skutina 2 - panoramio.jpg
+File:Bunkr Skutina 3 - panoramio.jpg
 File:Bunkr VIII-27-B2-80, Staré Město - Chrastice 2.jpg
 File:Bunkr VIII-27-B2-80, Staré Město - Chrastice.jpg
 File:Bunkr X 441 A-120, Skrbovice, Široká Niva, okres Bruntál, Slezsko, Moravskoslezský kraj, Česká republika 01.jpg
@@ -968,6 +1186,9 @@ File:Běloves, Náchod 2017-05 09.jpg
 File:Běloves, Náchod 2017-05 10.jpg
 File:Břeclav, cukrovar, Einmannbunker.jpg
 File:C 14 64A light pillbox 2019-03-23.jpg
+File:C Company, 1RAR Bren-gunner keeps watch.jpg
+File:C Company, 1RAR soldiers prepare to give fire support for a patrol.jpg
+File:C Company, 3RAR soldiers fire on enemy forces.jpg
 File:C-14 70 light pillbox Hradiště 2024-09-21.jpg
 File:C-27 67a light pillbox Strkovice 2024-09-21.jpg
 File:C14 13 light pillbox 2013.jpg
@@ -987,17 +1208,30 @@ File:C14 63 light pillbox 2018-10-13.jpg
 File:C14 71 light pillbox 2018-10-13.jpg
 File:C27 57 light pillbox 2015.jpg
 File:C27 70 light pillbox 2018-10-13.jpg
+File:CMSJ IMG 0489 (640x480) (3870370458).jpg
+File:COLLECTIE TROPENMUSEUM Indonesische soldaten van het KNIL oefenen met een machinegeweer TMnr 60043022.jpg
+File:COLLECTIE TROPENMUSEUM Training van militairen van het reservekorps in Tjilatjap TMnr 10028457.jpg
 File:CS fortification info - panoramio.jpg
 File:CSR soldiers ZB vz 26.PNG
+File:Canadian Gunner in WWII.jpg
+File:Canadian Infantry of the Regiment de Maisonneuve, moving through Holten to Rijssen, Netherlands, 04-09-1945 - NARA - 541912.jpg
+File:Canadian Perth Regiment sniper in Orsogna January 1944.jpg
+File:Canadians Advance in Normandy.jpg
+File:Casa Loma, Toronto Laslovarga32.JPG
+File:Castletown at War 2021 Castletown D Day Centre, Portland, Dorset. WWII Reenactor in British battledress uniform - Anklets gaiters boots weapons etc 51614432190.jpg
 File:Cave (military shelter) Výpustek - panoramio (1).jpg
 File:Cave (military shelter) Výpustek - panoramio (2).jpg
 File:Cave (military shelter) Výpustek - panoramio.jpg
+File:Cdn Forces in Hong Kong.jpg
 File:Cesta k Patrizánskému bunkru, Iľanovská dolina, Iľanovo.jpg
 File:Checkpoint Charlie - Flickr - The Central Intelligence Agency.jpg
 File:Chetniks and Germans in Lopare 1942.jpg
+File:Children of War, Maidan.jpg
+File:Chinese General P. Kiang and June Pattison, 'Miss Inglis,' posing with Bren gun outside plant at 100,000th Bren gun ceremony, John Inglis Co., Ltd. f1257 s1057 it2186.jpg
 File:Chinese pictorial front cover7.jpg
 File:Chinese red army's machine guns in 1936.jpg
 File:Chinese soldiers wearing gas masks and armed with a Czech ZB vz. 26 light machine gun.jpg
+File:Chinese troops advance toward Myitkyina.jpg
 File:Chinese, NVA Mach Guns (RPD) and Grenade Launchers (RPG-2), circa 1969.jpg
 File:Chomutov 2022-10-28 V.b 74 B light pillbox.jpg
 File:Chomutov 2022-11-06 V.b 73a B light pillbox 1.jpg
@@ -1083,9 +1317,23 @@ File:Chvalovice, MJ-S 4 (rok 2010; 05).jpg
 File:Chvalovice, MJ-S 4 (rok 2010; 06).jpg
 File:Chvalovice, MJ-S 4 (rok 2010; 07).jpg
 File:Chvalovice, MJ-S 4 (rok 2010; 08).jpg
+File:Collectie Fotocollectie Dienst voor Legercontacten Indonesië, fotonummer 11409, Bestanddeelnr 11409.jpg
+File:Collectie Fotocollectie Dienst voor Legercontacten Indonesië, fotonummer 11553, Bestanddeelnr 11553.jpg
+File:Collectie Fotocollectie Dienst voor Legercontacten Indonesië, fotonummer 15777, Bestanddeelnr 15777.jpg
+File:Collectie Fotocollectie Dienst voor Legercontacten Indonesië, fotonummer 1732-9-, Bestanddeelnr 1732-9-1.jpg
+File:Collectie Fotocollectie Dienst voor Legercontacten Indonesië, fotonummer 477-3-2, Bestanddeelnr 477-3-2.jpg
+File:Collectie Fotocollectie Dienst voor Legercontacten Indonesië, fotonummer 5747, Bestanddeelnr 5747.jpg
+File:Collectie Fotocollectie Dienst voor Legercontacten Indonesië, fotonummer 77-3-2, Bestanddeelnr 77-3-2.jpg
+File:Collectie Fotocollectie Dienst voor Legercontacten Indonesië, fotonummer 81-2-3, Bestanddeelnr 81-2-3.jpg
+File:Commandos Timbered Knoll.jpg
+File:Commonwealth Forces in North Africa 1940-1943 E11698.jpg
+File:Commonwealth Forces in North Africa E201.jpg
+File:Commonwealth Forces in North Africa E2502.jpg
 File:Csehszlovák erőd. A felvétel a Felvidék visszacsatolása után, a Budai Ciszterci Szent Imre Gimnázium cserkészcsapatának kirándulásán készült. Fortepan 83625.jpg
 File:Csehszlovák erőd. A felvétel a Felvidék visszacsatolása után, a Budai Ciszterci Szent Imre Gimnázium cserkészcsapatának kirándulásán készült. Fortepan 83641.jpg
 File:Csehszlovák erőd. A felvétel a Felvidék visszacsatolása után, a Budai Ciszterci Szent Imre Gimnázium cserkészcsapatának kirándulásán készült. Fortepan 83642.jpg
+File:Cuchillos, picas, armaduras y bayonetas - Museo de Armas de la Nación 52.JPG
+File:Cutaway drawing of Bren gun.png
 File:Czech hedgehog IDET.jpg
 File:Czech hedgehog NL.jpg
 File:Czech hedgehog.JPG
@@ -1095,6 +1343,10 @@ File:Czechoslovak border fortification before World War II in Křenov village (2
 File:Czechoslovak border fortification before World War II in Křenov village (3).JPG
 File:Czechoslovak legions exhibition of T-S 20 Pláň in Stárkov, Náchod District.jpg
 File:Czechoslovakian soldiers with ZB vz. 37.png
+File:Czołg. Grupa warowna Hanička.jpg
+File:D-day - British Forces during the Invasion of Normandy 6 June 1944 B5039.jpg
+File:D-day - British Forces during the Invasion of Normandy 6 June 1944 B5057.jpg
+File:D-day - British Forces during the Invasion of Normandy 6 June 1944 B5090.jpg
 File:D15 46 A-220 light pillbox 2024-04-06 Kryry.jpg
 File:D17 40 light pillbox 2013.jpg
 File:D17 46 light pillbox 2013.jpg
@@ -1107,13 +1359,55 @@ File:D31 63 light pillbox 2018-10-21.jpg
 File:D31 64 light pillbox 2018-10-21.jpg
 File:D31 79 light pillbox 2018-10-21.jpg
 File:D31 80 light pillbox 2018-10-21.jpg
+File:D50-2 Nr 146-1 (j) (1941-12-01) 7,9 mm leichtes Maschinengewehr 146-1 (j) - Puska-Mitralez 7,9 mm M 26 (Bild).png
+File:D50-2 Nr 146-2 (r) (1941-12-01) 7,9 mm leichtes Maschinengewehr 146-2 (r) - Rutschnoj pulemot obr 1926 (Bild).png
+File:D50-2 Nr 376 (e) (1941-01-02) 15 mm Kampfwagen-Maschinengewehr 376 (e) - 15 mm Besa Tank Machine Gun Mk I (Bild).png
+File:DA-SD-04-13607.jpg
 File:DNV bunker.jpg
+File:Dag der Infanterie in de Isabellakazerne te Den Bosch , AMX-gepantserde personen, Bestanddeelnr 914-3103.jpg
+File:Dag der Infanterie in de Isabellakazerne te Den Bosch, Bestanddeelnr 914-3104.jpg
+File:Daimler Ferret (1960) owned by Brian Laker pic1.JPG
+File:Daimler Ferret (1960) owned by Brian Laker pic2.JPG
+File:Daimler Ferret armoured car picture-002.JPG
+File:Daimler Ferret armoured car picture-003.JPG
 File:Darkovice, LO vz. 37 (II)-53-A-160 Z (2015-05-01; 01).jpg
+File:Darkovice, MO-S 20 (2015-05-01; 01).jpg
+File:Darkovice, MO-S 20 (2015-05-01; 02).jpg
+File:Darkovice, MO-S 20 (2015-05-01; 03).jpg
+File:Darkovice, MO-S 20 (2015-05-01; 04).jpg
+File:Darkovice, MO-S 20 (2015-05-01; 05).jpg
+File:Darkovice, MO-S 20 (2015-05-01; 06).jpg
+File:Darkovice, MO-S 20 (2015-05-01; 07).jpg
+File:Darkovice, MO-S 20 (rok 2001).jpg
+File:Darkovice, MO-S 21 (2015-05-01; 01).jpg
 File:Darkovice, MO-S 21 (2015-05-01; 02).jpg
+File:Darkovice, MO-S 21 (2015-05-01; 03).jpg
+File:Darkovice, MO-S 21 (2015-05-01; 04).jpg
+File:Darkovice, MO-S 21 (2015-05-01; 05).jpg
+File:Darkovice, MO-S 22 (2015-05-01; 01).jpg
+File:Darkovice, MO-S 22 (2015-05-01; 02).jpg
+File:Darkovice, MO-S 22 (2015-05-01; 03).jpg
+File:Darkovice, MO-S 22 (rok 2001).jpg
+File:Darkovice, MO-S 23 (2015-05-01; 01).jpg
+File:Darkovice, MO-S 23 (2015-05-01; 02).jpg
+File:Darkovice, MO-S 23 (2015-05-01; 03).jpg
+File:Darkovice, MO-S 23 (2015-05-01; 04).jpg
+File:Darkovice, MO-S 23 (2015-05-01; 05).jpg
+File:Darkovice, MO-S 23 (2015-05-01; 06).jpg
+File:Darkovice, MO-S 23 (rok 2001).jpg
 File:Darkovice, ježci u MO-S 21 (2015-05-01; 01).jpg
 File:Darkovice, levý protitankový příkop u MO-S 21 (2015-05-01; 01).jpg
 File:Darkovice, levý protitankový příkop u MO-S 21 (2015-05-01; 02).jpg
 File:Darkovice, levý protitankový příkop u MO-S 22 (2015-05-01; 01).jpg
+File:Darkovice, úkryt ÚŽ-6 u MO-S 22 (2015-05-01; 01).jpg
+File:Darkovice, úkryt ÚŽ-6 u MO-S 22 (2015-05-01; 02).jpg
+File:De aanval op Kertsch gaat verder. Gemotoriseerde Roemeense infanterie., Bestanddeelnr 29039 035.tif
+File:De eerste pantserwagens rukken Pematang Siantar binnen Brenschutter en commanda, Bestanddeelnr 7559.jpg
+File:De taak voor de militairen in de omgeving van Tasikmalaja is niet gemakkelijk. D, Bestanddeelnr 3418.jpg
+File:De taak voor de militairen in de omgeving van Tasikmalaja is niet gemakkelijk. D, Bestanddeelnr 3421.jpg
+File:De taak voor de militairen in de omgeving van Tasikmalaja is niet gemakkelijk. D, Bestanddeelnr 3424.jpg
+File:De verbinding in het veld De brenschutter voorop, daarachter de radiogroep Ter, Bestanddeelnr 71.jpg
+File:De verbinding in het veld. De brenschutter voorop, daarachter de radiogroep. Ter, Bestanddeelnr 72.jpg
 File:Delostrelecký zrub.jpg
 File:Denis, Husova (1).jpg
 File:Denis, Husova (2).jpg
@@ -1124,16 +1418,40 @@ File:Depot Decin 2015 03.JPG
 File:Depot Decin 2015 04.JPG
 File:Depot Decin 2015 14.JPG
 File:Diamantový příkop.jpg
+File:DobrosovAlofok (1).JPG
+File:DobrosovAlofok (10).JPG
+File:DobrosovAlofok (11).JPG
 File:DobrosovAlofok (12).JPG
 File:DobrosovAlofok (13).JPG
 File:DobrosovAlofok (14).JPG
+File:DobrosovAlofok (2).JPG
+File:DobrosovAlofok (3).JPG
+File:DobrosovAlofok (4).JPG
+File:DobrosovAlofok (5).JPG
 File:DobrosovAlofok (6).JPG
 File:DobrosovAlofok (7).JPG
+File:DobrosovAlofok (8).JPG
+File:DobrosovAlofok (9).JPG
 File:DobrosovAlofok.JPG
+File:Dobrošov Fortress N-D-S 72.jpg
 File:Dobrošov mapa-de.PNG
 File:Dobrošov mapa.jpg
+File:Dobrošov u Náchoda - pevnost.jpg
 File:Dobrošov, Náchod 2017-05 03.jpg
+File:Dobrošov, Náchod 2017-05 06.jpg
+File:Dobrošov, Náchod 2017-05 07.jpg
 File:Dobytá nepřátelská pevnůstka u Ostravy.gif
+File:Dolní Benešov, MO-S 33 (2015-04-14; 01).jpg
+File:Dolní Benešov, MO-S 33 (2015-04-14; 02).jpg
+File:Dolní Benešov, MO-S 33 (2015-04-14; 03).jpg
+File:Dolní Benešov, MO-S 33 (2015-04-14; 04).jpg
+File:Dolní Benešov, MO-S 33 (2015-04-14; 05).jpg
+File:Dolní Benešov, MO-S 33 (2015-04-14; 06).jpg
+File:Dolní Benešov, MO-S 33 (2015-04-14; 07).jpg
+File:Dolní Benešov, MO-S 34 (2015-04-14; 01).jpg
+File:Dolní Benešov, MO-S 34 (2015-04-14; 02).jpg
+File:Dolní Benešov, MO-S 34 (2015-04-14; 03).jpg
+File:Dolní Benešov, MO-S 35 (2015-04-14; 01).jpg
 File:Dolní Benešov, levý protitankový příkop u MO-S 33 (2015-04-14; 01).jpg
 File:Dolní Benešov, levý protitankový příkop u MO-S 33 (2015-04-14; 02).jpg
 File:Dolní Benešov, levý protitankový příkop u MO-S 34 (2015-04-14; 01).jpg
@@ -1142,11 +1460,18 @@ File:Dolní Benešov, pravý protitankový příkop u MO-S 34 (2015-04-14; 01).j
 File:Dolní Benešov, pravý protitankový příkop u MO-S 34 (2015-04-14; 02).jpg
 File:Domobranca na položajih.jpg
 File:Dornbirn-Werben-Panzerigel-01ASD.jpg
+File:Drie Indonesische vrijwilligers in een voertuig dat rijdt over spoorrails, Bestanddeelnr 3056.jpg
+File:Drie Indonesische vrijwilligers in een voertuig dat rijdt over spoorrails. Twee, Bestanddeelnr 3057.jpg
+File:Drie KNIL-militairen met verschillende wapens in aanslag (stengun, bren mitrail…, Bestanddeelnr 5360.jpg
+File:Drie Nederlandse militairen tijdens een actie. De brenschutter richt zijn wapen , Bestanddeelnr 5560.jpg
+File:Drie Nederlandse militairen tijdens een actie. De brenschutter richt zijn wapen , Bestanddeelnr 5561.jpg
+File:Drie Universal Carriers met bemanning, Bestanddeelnr 321-2-4.jpg
 File:Dukelský priesmyk, bunkre (1).jpg
 File:Dukelský priesmyk, bunkre (2).jpg
 File:Dukelský priesmyk, bunkre (3).jpg
 File:Dukelský priesmyk, bunkre (4).jpg
 File:Dukelský priesmyk, bunkre (5).jpg
+File:Dutch Troops Train in England, 1941 D2187.jpg
 File:Dyjákovice, MJ-S 15 (rok 2010; 01).jpg
 File:Dyjákovice, MJ-S 15 (rok 2010; 02).jpg
 File:Dyjákovice, MJ-S 15 (rok 2010; 03).jpg
@@ -1156,14 +1481,34 @@ File:Dyjákovice, MJ-S 15 (rok 2010; 06).jpg
 File:Dyjákovice, MJ-S 15 (rok 2010; 07).jpg
 File:Dyjákovice, MJ-S 15 (rok 2010; 08).jpg
 File:Dyjákovice, MJ-S 15 (rok 2010; 09).jpg
+File:Dělostřelecká tvrz Dobrošov (2).jpg
+File:Dělostřelecká tvrz Dobrošov (3).jpg
+File:Dělostřelecká tvrz Dobrošov (4).jpg
 File:Dělostřelecká tvrz Dobrošov (5).jpg
+File:Dělostřelecká tvrz Dobrošov.jpg
+File:Dělostřelecký srub Hanička.jpg
 File:Děčín, Rytířská a Polabí, restaurace Kocanda.jpg
+File:E 003743 E.jpg
 File:East Berlin - Potsdamer Platz from Berlin Wall.jpg
 File:East Berlin Death Strip seen from Axel Springer Building 1984.jpg
 File:East Berlin from the Berlin Wall.jpg
 File:East German Propaganda - Flickr - The Central Intelligence Agency.jpg
 File:East Germany Border Defenses - Flickr - The Central Intelligence Agency.jpg
+File:Eastern Command training 1942.jpg
 File:Echoes of covert operations (53283509885).jpg
+File:Edgar Hirshbain. Jerusalem. 1948 (D3050-082).jpg
+File:Een brenschutter (links) en een andere militair liggen in dekking langs een weg, Bestanddeelnr 14999.jpg
+File:Een brenschutter (links) en een andere militair liggen in dekking langs een weg, Bestanddeelnr 15000.jpg
+File:Een brenschutter en een andere infanterist liggen langs de kant van de weg, Bestanddeelnr 2976.jpg
+File:Een geïmproviseerde observatiepost in Klender, Bestanddeelnr 255-6839.jpg
+File:Een machinegeweerpost. Daarachter twee militairen die een stafkaart bestuderen, Bestanddeelnr 1727.jpg
+File:Een machinegeweerschutter lest zijn dorst met een kokosnoot, Bestanddeelnr 62-1-6.jpg
+File:Een sectie militairen met gevangenen tijdens een rustpauze, Bestanddeelnr 15855.jpg
+File:Een wachtpost met mitrailleur, Bestanddeelnr 900-3441.jpg
+File:Een wachtpost met mitrailleur, Bestanddeelnr 900-3442.jpg
+File:Een wachtpost met mitrailleur, Bestanddeelnr 900-3443.jpg
+File:Een wachtpost, Bestanddeelnr 7081.jpg
+File:Ein Hashofet Slik (7).JPG
 File:Einmanmbunker, Družstevní ulice, Staré Město, Třinec, okres Frýdek-Místek.jpg
 File:Einmanmbunker, Hřbitovní ulice, Staré Město, Třinec, okres Frýdek-Místek 2.jpg
 File:Einmanmbunker, Hřbitovní ulice, Staré Město, Třinec, okres Frýdek-Místek.jpg
@@ -1174,20 +1519,34 @@ File:Einmannbunker, Ostrava-Michálkovice 01.jpg
 File:Einmannbunker, Ostrava-Michálkovice 02.jpg
 File:Einmannbunker, Ostrava-Michálkovice 03.jpg
 File:Elfoglalt csehszlovák erőd a Kassára vezető út mellett, a háttérben a Zichy (egykor Wesselényi) kastély. Fortepan 71303.jpg
+File:Enfield Lock Interpretation Board1.JPG
 File:Erődítés a település közelében. Fortepan 3153.jpg
 File:Erődítés a település közelében. Fortepan 6163.jpg
+File:Exercise EDGED MALLET 2003 DM-SD-04-03844.jpg
 File:Exit sign (Vychod) (9641318893).jpg
+File:FAO-machine-gun-batey-haosef-1.jpg
 File:FNA Machine Guns (Kumasi Military Museum).jpg
 File:Fadil Hodža sa partizanima u Malesiji.jpg
 File:Family, Bunker Museum (9644555088).jpg
 File:Field Excursion Berlin 13.jpg
 File:Field Excursion Berlin 17.jpg
 File:Field Excursion Berlin 18.jpg
+File:Fightinggoodwood.jpg
 File:Fiŝlago Rozprechtický, fuorteto.jpg
 File:Fort de Fermont and its museum -Czech fortification SKODA Vz 36 4.7cm cannon and 7.92mm BRNO Vz 37.JPG
+File:Fortification on Krasnopresnenskaya Zastava.jpg
+File:Fyns Militærhistoriske Museum - Skydevåben.jpg
 File:Fyns Militærhistoriske Museum - Tjekkiske pindsvin.jpg
 File:Garamboš, lehký objekt vz. 37 2020-02-29.jpg
 File:Gasmasks, Bunker museum (9644554530).jpg
+File:Gaworski Tadeusz 4.jpg
+File:GazitYagurPalmachTraining.jpg
+File:Generaal Doorman in een machinegeweerpost, Bestanddeelnr 58-1-6.jpg
+File:Generaal Kruls, Bestanddeelnr 901-4975.jpg
+File:Generaal Kruls, Bestanddeelnr 901-4976.jpg
+File:Generaal Kruls, Bestanddeelnr 901-4977.jpg
+File:Generaal-majoor Opsomer bezocht verschillende posten van Nederlandse militairen , Bestanddeelnr 1180.jpg
+File:German POW, Dieppe Raid.jpg
 File:German bunker on Komenského street, Milovice 01.jpg
 File:German bunker on Komenského street, Milovice 02.jpg
 File:German bunker on Komenského street, Milovice 03.jpg
@@ -1200,7 +1559,11 @@ File:German bunker on Komenského street, Milovice 09.jpg
 File:German bunker on Komenského street, Milovice 10.jpg
 File:German bunker on Komenského street, Milovice 11.jpg
 File:German bunker on Komenského street, Milovice 12.jpg
+File:German soldiers defending Belgrade 1944.jpg
+File:Germans fighting Partisans in Lika.jpg
+File:Givati troops in Bet Daras.jpg
 File:Granátový skluz umístěný pod střílnami.jpg
+File:Gros Ouvrage du Hackenberg (9621923697).jpg
 File:Grupa oficerów na wizytacji czeskiego schronu.jpg
 File:GuentherZ 2014-10-18 (27) Vranov-Frain BunkerA.JPG
 File:GuentherZ 2014-10-18 (28) Vranov-Frain BunkerA.JPG
@@ -1212,6 +1575,7 @@ File:GuentherZ 2015-03-28 (10) Vratěnín Bunker1 Florian von Lorch.JPG
 File:GuentherZ 2015-03-28 (13) Vratěnín Bunker1 Florian von Lorch.JPG
 File:GuentherZ 2015-07-11 (119) Vratěnín-Fratting Bunker2 9-1266-A-200.JPG
 File:GuentherZ 2015-07-11 (120) Vratěnín-Fratting Bunker1 9-1263-A-140S.JPG
+File:Hanicka ob art.jpg
 File:Hanicka schronRS77.jpg
 File:Hanička - podzemí 01.jpg
 File:Hanička - podzemí 02.jpg
@@ -1222,6 +1586,8 @@ File:Hanička - podzemí 06.jpg
 File:Hanička - podzemí 07.jpg
 File:Hanička - podzemí 08.jpg
 File:Hanička - podzemí 09.jpg
+File:Hanička 2024 01.jpg
+File:Hanička 2024 02.jpg
 File:Hanička, podzemí (rok 2010; 01).jpg
 File:Hanička, podzemí (rok 2010; 02).jpg
 File:Hanička, podzemí (rok 2010; 03).jpg
@@ -1233,6 +1599,10 @@ File:Hanička, podzemí (rok 2010; 08).jpg
 File:Harrachovy kameny, řopík (01).jpg
 File:Heitersbergtunnel Barrikade.jpg
 File:Hel - Museum of Coastal Defence - Collections 35.jpg
+File:Het 411e bataljon hield een laatste grote oefening alvorens zijn posten in het g, Bestanddeelnr 2150.jpg
+File:Het bekend geworden KNIL-bataljon Infanterie I verzorgde het eerste konvooi naar, Bestanddeelnr 3137.jpg
+File:Het doorwaden van een kali bij een militaire oefening, Bestanddeelnr 255-8347.jpg
+File:Het kleine plaatsje Ponorogo, zo'n 28 kilometer ten zuiden van Madioen, werd doo, Bestanddeelnr 4.jpg
 File:Hevlín, MJ-S 16 (rok 2001).jpg
 File:Hevlín, MJ-S 16 (rok 2010; 01).jpg
 File:Hevlín, MJ-S 16 (rok 2010; 02).jpg
@@ -1258,16 +1628,29 @@ File:Hevlín, řopík u severní silnice - vchod (4147).jpg
 File:Hevlín, řopík u severní silnice - východní střílna (4146).jpg
 File:Hevlín, řopík u severní silnice - západní střílna (4149).jpg
 File:Hevlín, řopík u severní silnice - západní střílna (4150).jpg
+File:Hiram Sasa Attack.jpg
+File:Hish training.jpg
+File:Hladový vrch Ostrava 04.jpg
+File:Hladový vrch Ostrava 09.jpg
+File:Hladový vrch Ostrava 10.jpg
+File:Hladový vrch Ostrava 11.jpg
 File:Hladový vrch Ostrava náčrt pozorovatelen CO.jpg
+File:Hladový vrch výkres pozorovatelny.jpg
 File:Hlučín, Darkovičky, LO vz. 37 (II)-52-A-140 Z (2015-05-01; 01).jpg
+File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 01).jpg
 File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 02).jpg
+File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 03).jpg
+File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 04).jpg
 File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 05).jpg
+File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 06).jpg
 File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 07).jpg
 File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 08).jpg
 File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 09).jpg
 File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 10).jpg
 File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 11).jpg
 File:Hlučín, Darkovičky, MO-S 19 (2015-05-01; 12).jpg
+File:Hlučín, Darkovičky, MO-S 19 (rok 2001; 01).jpg
+File:Hlučín, Darkovičky, MO-S 19 (rok 2001; 02).jpg
 File:Hlučín, Darkovičky, levý protitankový příkop u MO-S 19 (2015-05-01; 01).jpg
 File:Hlučín, Darkovičky, levý protitankový příkop u MO-S 19 (2015-05-01; 02).jpg
 File:Hlučín, Darkovičky, pravý protitankový příkop u MO-S 19 (2015-05-01; 01).jpg
@@ -1287,6 +1670,9 @@ File:Hosín, observation point (03).jpg
 File:Hosín, observation point (04).jpg
 File:Hosín, observation point (05).jpg
 File:Houpák (794 m).JPG
+File:Houpák, 2021 (02).jpg
+File:Houpák, 2021 (03).jpg
+File:Houpák, 2021 (04).jpg
 File:Houpák, 2021 (06).jpg
 File:Houpák, 2021 (07).jpg
 File:Hrad Špilberk & okolí 20210602 091336 A.jpg
@@ -1303,15 +1689,82 @@ File:Hronov, Rokytník, T-S 19 (rok 2012; 06).jpg
 File:Hronov, Rokytník, T-S 19 (rok 2012; 07).jpg
 File:Hrádek nad Nisou, Horní Sedlo, pillbox.jpg
 File:Hurka lokomotiva ALD 2.JPG
+File:Háj ve Slezsku, Chabičov, MO-S 36 (2015-04-14; 01).jpg
+File:Háj ve Slezsku, Chabičov, MO-S 36 (2015-04-14; 02).jpg
+File:Háj ve Slezsku, Chabičov, MO-S 36 (2015-04-14; 03).jpg
+File:Háj ve Slezsku, MO-S 37 (2015-04-14; 01).jpg
+File:Háj ve Slezsku, MO-S 37 (2015-04-14; 02).jpg
+File:Háj ve Slezsku, MO-S 37 (2015-04-14; 03).jpg
+File:Háj ve Slezsku, MO-S 37 (2015-04-14; 04).jpg
+File:Háj ve Slezsku, MO-S 37 (2015-04-14; 05).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 38 (2015-04-14; 01).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 38 (2015-04-14; 02).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 38 (2015-04-14; 03).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 38 (2015-04-14; 04).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 38 (2015-04-14; 05).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 38 (2015-04-14; 06).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 38 (2015-04-14; 07).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 38 (2015-04-14; 08).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 38 (rok 2001).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 39 (2015-04-14; 01).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 39 (2015-04-14; 02).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 39 (2015-04-14; 03).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 39 (2015-04-14; 04).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 39 (2015-04-14; 05).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 39 (2015-04-14; 06).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 39 (rok 2001; 01).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 39 (rok 2001; 02).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 40 (2015-04-14; 01).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 40 (2015-04-14; 02).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 40 (2015-04-14; 03).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 40 (2015-04-14; 04).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 40 (2015-04-14; 05).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 40 (2015-04-14; 06).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 40 (rok 2001; 01).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 40 (rok 2001; 02).jpg
 File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 01).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 02).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 03).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 04).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 05).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 06).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 07).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 08).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 09).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 10).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 11).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 12).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 13).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 41 (2015-04-14; 14).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 42 (2015-04-14; 01).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 42 (2015-04-14; 02).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 42 (2015-04-14; 03).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 42 (2015-04-14; 04).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 42 (2015-04-14; 05).jpg
+File:Háj ve Slezsku, Smolkov, MO-S 42 (2015-04-14; 06).jpg
 File:I09 710 Grenzbefestigung bei Zlabings.jpg
 File:I09 711 Stacheldrahthindernis.jpg
 File:I09 712 Bunker der Grenzbefestigungen.jpg
 File:I09 713 Stacheldrahthindernis.jpg
 File:I09 714.jpg
 File:I09 715 Einmannbunker.jpg
+File:IAEA Director-General Rafael Mariano Grossi official visit to Ukraine in September 2024 - 8.jpg
 File:IIRC this was a hospital ward.jpg
+File:INDIAN TROOPS IN BURMA, 1944.jpg
+File:INF3-330 Unity of Strength British soldier with bren gun, allied servicemen in background.jpg
+File:IWM-B-10050-Loyd-Carrier-19440918.jpg
+File:IWM-E-16827-light-tank-AA-MkI-19420915.jpg
+File:IWM-NA-1643-Morris-LRC-Tunisia-19430330.jpg
+File:IWM-SE-5866-Jat-Bren- gunners-in-Surabaya-194511.jpg
+File:Indian sikh soldiers in Italian campaign.jpg
+File:Indian troops among pagodas on Mandalay.jpg
+File:Indonesische militairen buitgemaakte wapen.jpg
+File:Infanterie XXIII KNIL. Machinegeweerpost, Bestanddeelnr 2615.jpg
+File:Infantry of 51st Highland Division are carried into battle aboard Sherman tanks near Udenhout, Holland, 29 October 1944. B11463.jpg
+File:Infantry of the 2nd Battalion, South Wales Borderers hide themselves in a laurel bush during a brigade exercise near Ballymena in Northern Ireland, 19 September 1941. H14064.jpg
+File:Infantry of the King's Own Scottish Borderers engage the Germans with rifle and Bren gun fire in a street in Bremen, 25 April 1945. BU4322.jpg
 File:Informační tabule NS Rabštejn 08.jpg
+File:Inleveren van wapens door de Duitsers. Het wapendepot in Soest, waar de Duitsers, Bestanddeelnr 900-3062.jpg
 File:Interior of MJ-S 10 Zahrada casemate in Šatov - 8.jpg
 File:Interior of MJ-S 11 Zahrada casemate in Šatov - 9.jpg
 File:Interior of MJ-S 12 Zahrada casemate in Šatov - 10.jpg
@@ -1333,7 +1786,9 @@ File:Interior of MJ-S 9 Zahrada casemate in Šatov - 7.jpg
 File:Interior of T-S 20 Pláň in Stárkov, Náchod District.jpg
 File:JEDNA Z TABULÍ NS-BH - CELKOVÝ POHLED.JPG
 File:JEDNA Z TABULÍ NS-BH - DETAIL.JPG
+File:Jamnice, bunkr.JPG
 File:Jan Toschen DUBÁ bunker 1938.jpg
+File:Java, Bestanddeelnr 2483.jpg
 File:Jedlina-Klášterec nad Orlicí-stodola na bunkru.jpg
 File:Jedovary (u Trhových Svinů) - bunkr liniového opevnění (1).jpg
 File:Jedovary (u Trhových Svinů) - bunkr liniového opevnění (2).jpg
@@ -1367,19 +1822,104 @@ File:Jeskyně Výpustek.jpg
 File:Jeskyně Výpustek1.jpg
 File:Jeskyně Výpustek2.jpg
 File:Jez stalowy.jpg
+File:Join the Modern Army Art.IWMPST14596.jpg
+File:K-Ba-S 22 Horymír casemate1.JPG
+File:K-Bg-S 10 U boží muky 1.jpg
+File:K-Bg-S 10 U boží muky 2.jpg
+File:K-Bg-S 11 Na svahu 1.jpg
+File:K-Bg-S 11 Na svahu 2.jpg
+File:K-Bg-S 11 Na svahu 3.jpg
+File:K-Bg-S 11 Na svahu 4.jpg
+File:K-Bg-S 11 Na svahu 5.jpg
+File:K-Bg-S 11 Na svahu 6.jpg
+File:K-Bg-S 11 Na svahu 7.jpg
+File:K-Bg-S 11 Na svahu 8.jpg
+File:K-Bg-S 11 Na svahu 9.jpg
+File:K-Bg-S 11 Na svahu A. CelkovyPohledOdZapadu.jpg
+File:K-Bg-S 11 Na svahu B. CelkovyPohled-OpacnaStrana.jpg
+File:K-Bg-S 11 Na svahu C. Detail.jpg
+File:K-Bg-S 11 Na svahu D. Interier-Filtrovna.jpg
+File:K-Bg-S 11 Na svahu E. Interier-ProZasobnik.jpg
+File:K-Bg-S 11 Na svahu F. Interier-ZbytkyPancerovehoZvonu.jpg
+File:K-Bg-S 11 Na svahu G. StrilnaDela.jpg
+File:K-Bg-S 11 Na svahu H. StrilnaDela-Detail.jpg
+File:K-Bg-S 11 Na svahu I. Rochling-Pruraz.jpg
+File:K-Bg-S 11 Na svahu J. Rochling-Odraz.jpg
+File:K-Bg-S 11 Na svahu K. Rochling-CelniStena.jpg
+File:K-Bg-S 11 Na svahu L. PoskozenaStena.jpg
+File:K-Bg-S 12 Na kótě 1.jpg
+File:K-Bg-S 12 Na kótě 2.jpg
+File:K-Bg-S 12a U rybníčku casemate1.JPG
+File:K-Bg-S 12a U rybníčku casemate2.JPG
+File:K-Bg-S 12a U rybníčku casemate3.JPG
+File:K-Bg-S 12a U rybníčku casemate4.JPG
+File:K-Bg-S 12a U rybníčku casemate5.JPG
+File:K-Bg-S 13 U lomu 1.jpg
+File:K-Bg-S 13 U lomu casemate 2.jpg
+File:K-S 10.JPG
+File:K-S 12a U rybnicku.JPG
+File:K-S 12b Utrzeny 2.JPG
 File:K-S 12b Utrzeny A. CelkovyPohled.jpg
 File:K-S 12b Utrzeny B. Detail.jpg
+File:K-S 12b Utrzeny C. Schody.jpg
+File:K-S 12b Utrzeny E. Interier-Spojeni.jpg
+File:K-S 12b Utrzeny F. Interier-Vybavení.jpg
 File:K-S 12b Utrzeny G. Interier-PozorovaciZvon.jpg
+File:K-S 12b Utrzeny H. Interier-Ventilace.jpg
+File:K-S 12b Utrzeny I. Interier-ZbytkyVybaveni.jpg
+File:K-S 12b Utrzeny.JPG
+File:K-S 14 U cihelny 1.jpg
+File:K-S 14 U cihelny 10.jpg
+File:K-S 14 U cihelny 11.jpg
+File:K-S 14 U cihelny 2.jpg
+File:K-S 14 U cihelny 3.jpg
 File:K-S 14 U cihelny 4.jpg
+File:K-S 14 U cihelny 5.jpg
+File:K-S 14 U cihelny 6.jpg
+File:K-S 14 U cihelny 7.jpg
+File:K-S 14 U cihelny 8.jpg
+File:K-S 14 U cihelny 9.jpg
+File:K-S 15.JPG
+File:K-S 16.JPG
+File:K-S 32.JPG
+File:K-S 33.JPG
+File:K-S 35.jpg
+File:K-S 36.jpg
+File:K-S 37.jpg
+File:K-S 39 (Adam).jpg
+File:K-S 40 (Adam).jpg
+File:K-S 41 (Adam).jpg
+File:K-S 42 (Adam).jpg
+File:K-S 43 (Adam).jpg
+File:K-S 45 (Adam).jpg
+File:K-S 5 U potoka (1).jpg
+File:K-S 5 U potoka (3).jpg
 File:K-S 5 U potoka (4).jpg
+File:K-S 5 U potoka 1.jpg
+File:K-S 5 U potoka 2.jpg
 File:K-S 5 U potoka 3.jpg
+File:K-S 5 U potoka 4.jpg
 File:K-S 5 U potoka A. CestaPresPotok.jpg
 File:K-S 5 U potoka B. CestaPrekazky.jpg
+File:K-S 5 U potoka C. CestaSchudky.jpg
+File:K-S 5 U potoka D. PohledOdJihu.jpg
+File:K-S 5 U potoka E. PohledOdVychodu.jpg
 File:K-S 5 U potoka.JPG
+File:K-S 6 U kapličky 2.jpg
+File:K-S 6 U kapličky.jpg
+File:K-S 7 U vesnice.jpg
 File:K-S 8 U nadrazi 1.JPG
 File:K-S 8 U nadrazi.JPG
+File:K-S 8 U nádraží 1.jpg
+File:K-S 8 U nádraží 2.jpg
+File:K-S 8 U nádraží.jpg
+File:K-S U potoka (2).jpg
 File:K-S12b.jpg
+File:K-S14.JPG
+File:K-S22 nadhled.jpg
 File:K-S22a sikmy z leva.JPG
+File:K-S32.JPG
+File:K-S8.jpg
 File:K51 21 light box 2016.jpg
 File:K51 22 light box 2016.jpg
 File:K51 4 light box 2013.jpg
@@ -1389,6 +1929,10 @@ File:K51 9 light box 2013.jpg
 File:KK 23 Kabelová komora Hlučín 2.jpg
 File:KK 23 Kabelová komora Hlučín.jpg
 File:KK 23, Kabelová komora typu B - s popisem.png
+File:KNIL bren-carriers rijden in colonne, Bestanddeelnr 7386.jpg
+File:KNIL-korporaal met helm en brengun rookt pijp, Bestanddeelnr 7037.jpg
+File:KNIL-militair met brengun met geopende mond naar boven, Bestanddeelnr 6473.jpg
+File:KNIL-militairen doorzoeken een huis, Bestanddeelnr 5732.jpg
 File:Kabelova komora - panoramio - bredus (1).jpg
 File:Kabelova komora - panoramio - bredus.jpg
 File:Kabelova komora - panoramio.jpg
@@ -1397,6 +1941,8 @@ File:Kabelová komora, vojenský bunkr, Hlučín 2.jpg
 File:Kabelová komora, vojenský bunkr, Hlučín.jpg
 File:Kadaň 2023-09-16 K-50 8 A-180 light pillbox.jpg
 File:Kamýk nad Vltavou, řopík 126-6-A-140Z 2017-08-23.jpg
+File:Karlinsky tunel1.JPG
+File:Karlinsky tunel2.JPG
 File:Karlinsky tunel3.JPG
 File:Karlinsky tunel4.JPG
 File:Karlinsky tunel5.JPG
@@ -1416,6 +1962,10 @@ File:Kašperské Hory, Žlíbek, LO vz. 37 H-40-6-A-140 (2013-08-15; 01).jpg
 File:Kašperské Hory, Žlíbek, LO vz. 37 H-40-6-A-140 (2013-08-15; 02).jpg
 File:Kennedy in Berlin.jpg
 File:Kladruby, Pozorka, road No 203.jpg
+File:Klášterec nad Orlicí, K-S 51 (rok 2002).jpg
+File:Klášterec nad Orlicí, K-S 52 (rok 2002).jpg
+File:Klášterec nad Orlicí, K-S 53a (rok 2002).jpg
+File:Klášterec nad Orlicí, K-S 53b (rok 2002).jpg
 File:Klášterec nad Orlicí, R-S 54 (rok 2000).jpg
 File:Klášterec nad Orlicí, R-S 54 (rok 2010; 01).jpg
 File:Klášterec nad Orlicí, R-S 54 (rok 2010; 02).jpg
@@ -1446,6 +1996,9 @@ File:Klášterec nad Orlicí, R-S 56 (rok 2010; 04).jpg
 File:Klášterec nad Orlicí, R-S 56 (rok 2010; 05).jpg
 File:Klášterec nad Orlicí, R-S 56 (rok 2010; 06).jpg
 File:Klášterec nad Orlicí, R-S 56 (rok 2010; 07).jpg
+File:Klášterec-nad-Orlicí-Jedlina-velký-bunkr-v-lese2017.jpg
+File:Klášterec-nad-Orlicí-Jedlina-velký-bunkr-v-lese2017b.jpg
+File:Klášterec-nad-Orlicí-Jedlina-velký-bunkr-v-lese2017c.jpg
 File:Klášterec-nad-Orlicí-bunkr-nad-Kláštereckou-alejí-u-křižovatky-s-Bleskavcem2017.jpg
 File:Klášterec-nad-Orlicí-bunkr-nad-Kláštereckou-alejí-u-křižovatky-s-Bleskavcem2017b.jpg
 File:Klášterec-nad-Orlicí-bunkr-nad-Kláštereckou-alejí-u-křižovatky-s-Bleskavcem2017c.jpg
@@ -1454,12 +2007,17 @@ File:Klášterecká-alej-bunkr-na-rozcestí2017b.jpg
 File:Klášterecká-alej-párty-bunkr2017.jpg
 File:Klášterecká-alej-párty-bunkr2017b.jpg
 File:Kolín, Zborovská, pozorovatelna A 01.jpg
+File:Komando.jpg
 File:Komáří vrch 10.jpg
 File:Komáří vrch 13.jpg
 File:Komáří vrch 19.jpg
 File:Komáří vrch 20.jpg
 File:Komáří vrch 8.jpg
 File:Komáří vrch 9.jpg
+File:Koninkijke Nederlandse Prinses Irene Brigade in Nederland De weg Tilburg-Breda, Bestanddeelnr 934-9728.jpg
+File:Koninklijke Nederlandse Brigade Prinses Irene in training brenschutter, Bestanddeelnr 934-9629.jpg
+File:Koninklijke Nederlandse Brigade Prinses Irene in training. Brengun carriers., Bestanddeelnr 934-9633.jpg
+File:Koninklijke Nederlandse Brigade Prinses Irene in training. Brenschutter, Bestanddeelnr 934-9640.jpg
 File:Konopáč (Lužické hory) 2012 (16).jpg
 File:Konopáč (Lužické hory) 2012 (17).jpg
 File:Konopáč (Lužické hory) 2012 (7).jpg
@@ -1468,6 +2026,22 @@ File:Kosovo Partisan 1943.jpg
 File:Kotvina 2021-11-21 Řopík 12b.jpg
 File:Kotvina 2021-11-21 Řopík 13b.jpg
 File:Kotvina 2021-11-21 Řopík 14c.jpg
+File:Kozmice, MO-S 26 (2015-05-01; 01).jpg
+File:Kozmice, MO-S 26 (2015-05-01; 02).jpg
+File:Kozmice, MO-S 26 (2015-05-01; 03).jpg
+File:Kozmice, MO-S 26 (2015-05-01; 04).jpg
+File:Kozmice, MO-S 27 (2015-05-01; 01).jpg
+File:Kozmice, MO-S 27 (2015-05-01; 02).jpg
+File:Kozmice, MO-S 27 (2015-05-01; 03).jpg
+File:Kozmice, MO-S 27 (2015-05-01; 04).jpg
+File:Kozmice, MO-S 31 (2015-05-01; 01).jpg
+File:Kozmice, MO-S 31 (2015-05-01; 02).jpg
+File:Kozmice, MO-S 31 (2015-05-01; 03).jpg
+File:Kozmice, MO-S 32 (2015-04-14; 01).jpg
+File:Kozmice, MO-S 32 (2015-04-14; 02).jpg
+File:Kozmice, MO-S 32 (2015-04-14; 03).jpg
+File:Kozmice, MO-S 32 (2015-04-14; 04).jpg
+File:Kozmice, MO-S 32 (2015-04-14; 05).jpg
 File:Kozmice, kabelová komora 2423-B (2015-05-01; 01).jpg
 File:Kozmice, kabelová komora 2423-B (2015-05-01; 02).jpg
 File:Kozmice, kabelová komora 2423-B (2015-05-01; 03).jpg
@@ -1607,12 +2181,83 @@ File:Kryt nadrazi Dejvice 4.jpg
 File:Kryt Šárka vstup (01).jpg
 File:Kryt Šárka vstup (02).jpg
 File:Kryt Šárka vstup (03).jpg
+File:Králíky, Dolní Boříkovice, K-S 21 (rok 2000).jpg
+File:Králíky, Dolní Boříkovice, K-S 21 (rok 2004).jpg
+File:Králíky, Dolní Boříkovice, K-S 21 (rok 2005; 01).jpg
+File:Králíky, Dolní Boříkovice, K-S 21 (rok 2005; 02).jpg
+File:Králíky, Dolní Boříkovice, K-S 21 (rok 2005; 03).jpg
+File:Králíky, Dolní Boříkovice, K-S 21 (rok 2005; 04).jpg
+File:Králíky, Dolní Boříkovice, K-S 21 (rok 2006).jpg
+File:Králíky, Dolní Boříkovice, K-S 22 (rok 2004).jpg
+File:Králíky, Dolní Boříkovice, K-S 22 (rok 2005; 01).jpg
+File:Králíky, Dolní Boříkovice, K-S 22 (rok 2005; 02).jpg
+File:Králíky, Dolní Boříkovice, K-S 22 (rok 2005; 03).jpg
+File:Králíky, Dolní Boříkovice, K-S 22 (rok 2006; 01).jpg
+File:Králíky, Dolní Boříkovice, K-S 22 (rok 2006; 02).jpg
+File:Králíky, Dolní Boříkovice, K-S 23 (rok 2000).jpg
+File:Králíky, Dolní Boříkovice, K-S 23 (rok 2004).jpg
+File:Králíky, Dolní Boříkovice, K-S 23 (rok 2005; 01).jpg
+File:Králíky, Dolní Boříkovice, K-S 23 (rok 2005; 02).jpg
+File:Králíky, Dolní Boříkovice, K-S 23 (rok 2006).jpg
+File:Králíky, Horní Lipka, K-S 8 (rok 2000).jpg
+File:Králíky, Horní Lipka, K-S 8 (rok 2003).jpg
+File:Králíky, Horní Lipka, K-S 8 (rok 2010; 01).jpg
+File:Králíky, Horní Lipka, K-S 8 (rok 2010; 02).jpg
+File:Králíky, Horní Lipka, K-S 8 (rok 2010; 03).jpg
+File:Králíky, Horní Lipka, K-S 9 (rok 2008; 01).jpg
+File:Králíky, Horní Lipka, K-S 9 (rok 2008; 02).jpg
+File:Králíky, Horní Lipka, K-S 9 (rok 2008; 03).jpg
+File:Králíky, Horní Lipka, K-S 9 (rok 2008; 04).jpg
+File:Králíky, Horní Lipka, K-S 9 (rok 2008; 05).jpg
+File:Králíky, Horní Lipka, K-S 9 (rok 2008; 06).jpg
+File:Králíky, Horní Lipka, překážka u K-S 9 (rok 2008).jpg
 File:Králíky, Horní Lipka, příkop u K-S 9 (rok 2008).jpg
 File:Králíky, K-S 12a (rok 2008; 01).jpg
 File:Králíky, K-S 12a (rok 2008; 02).jpg
+File:Králíky, K-S 12a (rok 2008; 03).jpg
+File:Králíky, K-S 12a (rok 2008; 04).jpg
+File:Králíky, K-S 12a (rok 2008; 05).jpg
+File:Králíky, K-S 12a (rok 2008; 06).jpg
 File:Králíky, K-S 12a (rok 2008; 07).jpg
+File:Králíky, K-S 12a (rok 2008; 08).jpg
+File:Králíky, K-S 12a (rok 2010; 01).jpg
+File:Králíky, K-S 12a (rok 2010; 02).jpg
+File:Králíky, K-S 12a (rok 2010; 03).jpg
 File:Králíky, K-S 12a (rok 2010; 04).jpg
 File:Králíky, K-S 12a (rok 2010; 05).jpg
+File:Králíky, K-S 12a (rok 2010; 06).jpg
+File:Králíky, K-S 12b (rok 2000).jpg
+File:Králíky, Prostřední Lipka, K-S 10 (rok 2006; 01).jpg
+File:Králíky, Prostřední Lipka, K-S 10 (rok 2006; 02).jpg
+File:Králíky, Prostřední Lipka, K-S 10 (rok 2006; 03).jpg
+File:Králíky, Prostřední Lipka, K-S 10 (rok 2006; 04).jpg
+File:Králíky, Prostřední Lipka, K-S 10 (rok 2006; 05).jpg
+File:Králíky, Prostřední Lipka, K-S 11 (rok 2000).jpg
+File:Králíky, Prostřední Lipka, K-S 11 (rok 2006; 01).jpg
+File:Králíky, Prostřední Lipka, K-S 11 (rok 2006; 02).jpg
+File:Králíky, Prostřední Lipka, K-S 12 (rok 2006; 01).jpg
+File:Králíky, Prostřední Lipka, K-S 12 (rok 2006; 02).jpg
+File:Králíky, Prostřední Lipka, K-S 12 (rok 2006; 03).jpg
+File:Králíky, Prostřední Lipka, K-S 13 (rok 2006; 01).jpg
+File:Králíky, Prostřední Lipka, K-S 13 (rok 2006; 02).jpg
+File:Králíky, Prostřední Lipka, K-S 13 (rok 2006; 03).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2000).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2003).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2007; 01).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2007; 02).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2007; 03).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2007; 04).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2007; 05).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2007; 06).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2007; 07).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2007; 08).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2007; 09).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2010; 01).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2010; 02).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2010; 03).jpg
+File:Králíky, Prostřední Lipka, K-S 14 (rok 2010; 04).jpg
+File:Králíky, Prostřední Lipka, překážka u K-S 14 (rok 2007; 01).jpg
+File:Králíky, Prostřední Lipka, překážka u K-S 14 (rok 2007; 02).jpg
 File:Králíky, Prostřední Lipka, příkop u K-S 14 (rok 2003).jpg
 File:Krásná Lípa 2022-10-28 K-51 6 D1.jpg
 File:Krásná Lípa 2022-10-28 K-51 7 A-220.jpg
@@ -1648,6 +2293,12 @@ File:LVI-330-A-140 05.JPG
 File:LVI-330-A-140 06.JPG
 File:LVI-330-A-140 07.JPG
 File:LVI-330-A-140 08.JPG
+File:Leaving the assault craft.jpg
+File:Legeroefening in Duitsland. Bren-schutters in stelling, Bestanddeelnr 913-0470.jpg
+File:Legeroefening in Duitsland. Bren-schutters in stelling, Bestanddeelnr 913-0471.jpg
+File:Legeroefening in Duitsland. Bren-schutters in stelling, Bestanddeelnr 913-0475.jpg
+File:Legeroefening in Duitsland. Bren-schutters in stelling, Bestanddeelnr 913-0476.jpg
+File:Legeroefening in Duitsland. Soldaten met Bren-mitrailleur in stelling, Bestanddeelnr 913-0456.jpg
 File:Lehké opevnění vzor 36 na Turoldu, Úsek 4 Mikulov.jpg
 File:Lehké opevnění vzor 37 Pohořelice 2.jpg
 File:Lehké opevnění vzor 37 Pohořelice.jpg
@@ -1671,19 +2322,51 @@ File:Levy zvon MO-S 19.jpg
 File:Levý zvon MJ-S 2.JPG
 File:Lešany - vojenské muzeum, Tankový den 2024, obr18.jpg
 File:Lešany - vojenské muzeum, Tankový den 2024, obr20.jpg
+File:Liberation of Europe- Commando Troops in Normandy B5057.jpg
 File:Libeňský plynojem 2017-06-25 (cropped).jpg
 File:Libeňský plynojem 2017-06-25.jpg
+File:Lichkov, K-S 24 (rok 2000).jpg
+File:Lichkov, K-S 24 (rok 2004; 01).jpg
+File:Lichkov, K-S 24 (rok 2004; 02).jpg
+File:Lichkov, K-S 24 (rok 2005; 01).jpg
+File:Lichkov, K-S 24 (rok 2005; 02).jpg
+File:Lichkov, K-S 24 (rok 2005; 03).jpg
+File:Lichkov, K-S 24 (rok 2005; 04).jpg
+File:Lichkov, K-S 24 (rok 2005; 05).jpg
+File:Lichkov, K-S 24 (rok 2005; 06).jpg
+File:Lichkov, K-S 24 (rok 2005; 07).jpg
+File:Lichkov, K-S 24 (rok 2005; 08).jpg
+File:Lichkov, K-S 24 (rok 2005; 09).jpg
+File:Lichkov, K-S 24 (rok 2005; 10).jpg
+File:Lichkov, K-S 24 (rok 2005; 11).jpg
+File:Lichkov, K-S 24 (rok 2006; 01).jpg
+File:Lichkov, K-S 24 (rok 2006; 02).jpg
+File:Lichkov, K-S 24 (rok 2006; 03).jpg
+File:Lichkov, K-S 25 (rok 2000; 01).jpg
+File:Lichkov, K-S 25 (rok 2000; 02).jpg
+File:Lichkov, K-S 31 (rok 2003; 01).jpg
+File:Lichkov, K-S 31 (rok 2003; 02).jpg
+File:Lichkov, K-S 32 (rok 2003).jpg
 File:Light Machine Guns (9884891323).jpg
+File:Light Machine Guns (9885084876).jpg
 File:Light Machine Guns (9885097525).jpg
 File:Light Machine Guns (9885103166).jpg
 File:Light Machine Guns (9885114005).jpg
+File:Light Machine Guns (9885120405).jpg
 File:Light Machine Guns (9885142086).jpg
 File:Light Machine Guns (9885158494).jpg
 File:Light pillbox 1 1101 A-160Z near Janov, Staré Hobzí, Jindřichův Hradec District.jpg
+File:Lithuanian partisans of the Algimantas military district, forming the Columns of Gediminas using weapons, 1949.jpg
+File:Lithuanian partisans of the Kęstutis military district photographed in the summer of 1955 (the oldest known photography of the Lithuanian partisans).jpg
+File:Lithuanian soldiers on the Eastern Front, 1943 late November.png
 File:Lo.vz 37 Liběchovská příčka.jpg
 File:Louny - Stezka Ohře - View East on Bunker I.jpg
 File:Louny - Stezka Ohře - View East on Bunker II.jpg
 File:Louny - Stezka Ohře - View NE on Bunker.jpg
+File:MEMBERS OF THE JEWISH SETTLEMENT POLICE DURING A FIELD LESSON WITH A MACHINE GUN AT THE J.S.P. TRAINING BASE IN "KFAR YELADIM". בסיס האימונים של משטרתD5-140.jpg
+File:MEMBERS OF THE JEWISH SETTLEMENT POLICE DURING A FIELD LESSON WITH A MACHINE GUN AT THE J.S.P. TRAINING BASE IN "KFAR YELADIM". בסיס האימונים של משטרתD550-091.jpg
+File:MEMBERS OF THE JEWISH SETTLEMENT POLICE TRAINING AT "KFAR YELADIM" WITH MACHINE GUNS AIMED FOR USE AGAINST PARACHUTE TROOPS. בסיס האימונים של משטרת היD550-095.jpg
+File:MEMBERS OF THE JEWISH SETTLEMENT POLICE TRAINING AT "KFAR YELADIM" WITH MACHINE GUNS AIMED FOR USE AGAINST PARACHUTE TROOPS. בסיס האימונים של משטרת היD6-003.jpg
 File:MJ-S 15 Zavora, pravy zvon.JPG
 File:MJ-S 15.JPG
 File:MJ-S 2, Satov.JPG
@@ -1711,25 +2394,56 @@ File:MJ-S29 ,,SVAH".jpg
 File:MO S-1.jpg
 File:MO S-11 suba.jpg
 File:MO S-11 supra.jpg
+File:MO S-18 historia.jpg
 File:MO S-18 suba.jpg
 File:MO S-18 supra.jpg
 File:MO S-18(b).jpg
+File:MO S-18.jpg
 File:MO S-19 perspektivo.jpg
 File:MO S-19 suba.jpg
 File:MO S-19 supra.jpg
+File:MO S-19(g).jpg
 File:MO S-20 suba.jpg
 File:MO S-20 supra.jpg
+File:MO S-20.jpg
 File:MO S-5 dekstra suba.jpg
 File:MO S-5 dekstra supra.jpg
 File:MO S-5 maldekstra suba.jpg
 File:MO S-5 maldekstra supra.jpg
+File:MO-Or-S 20 tvrze Orel 1.jpg
+File:MO-Or-S 20 tvrze Orel 2.jpg
+File:MO-S 18 Obora.jpg
+File:MO-S 20 Orel.jpg
+File:MO-S 21 U Jaroše 1.jpg
+File:MO-S 21 U Jaroše 2.jpg
+File:MO-S 21 U Jaroše 3.jpg
 File:MO-S 21 U Jaroše 4.jpg
+File:MO-S 40 Nad silnici.jpg
+File:MO-S5 Na trati A.jpg
+File:MO-S5 Na trati B.jpg
+File:MO-S5 Na trati chodba.jpg
+File:MO-Sm-38 V lese 1.jpg
+File:MO-Sm-38 V lese 2 (výřez).jpg
+File:MO-Sm-38 V lese 2.jpg
+File:MO-Sm-39 U trigonometru.jpg
+File:MO-Sm-42 Nad hajem 1.jpg
+File:MO-Sm-42 Nad hajem 2.jpg
+File:MOS 18 Obora - panoramio.jpg
 File:MSU Czech hedgehog (Cavallo di Frisia).jpg
+File:Machine Gun (8037159644).jpg
+File:Machine Gun Post.jpg
+File:Machinegeweerschutter in actie in een verdekte opstelling, Bestanddeelnr 62-2-6.jpg
+File:Machinegeweerschutter in dekking in het struikgewas, Bestanddeelnr 277-3-1.jpg
+File:Machinegeweerschutter lest zijn dorst met een kokosnoot, Bestanddeelnr 62-4-1.jpg
 File:Machineguns, Museum of the Chinese People's Revolution.jpg
 File:Mad Days.jpg
 File:Maketa tanku - panoramio - bredus (1).jpg
 File:Maketa tanku - panoramio - bredus.jpg
 File:Maketa tanku - panoramio.jpg
+File:Malang. Een gewapende militair in een stad met kapotgeschoten gebouwen, Bestanddeelnr 11727.jpg
+File:Malayan Emergency Bren Gun.jpg
+File:Malta-fortmanoel-military-2009.jpg
+File:Malá Morava, K-S 5 (rok 2000).jpg
 File:Malé Svatoňovice - Řopíky 2.jpg
 File:Malé Svatoňovice - Řopíky 3.jpg
 File:Malé Svatoňovice - Řopíky 4.jpg
@@ -1758,17 +2472,49 @@ File:Malé Svatoňovice, Odolov, T-S 28 (rok 2012; 06).jpg
 File:Malé Svatoňovice, Odolov, T-S 28 (rok 2012; 07).jpg
 File:Manager bedroom of T-S 20 Pláň in Stárkov, Náchod District.jpg
 File:Manager room of T-S 20 Pláň in Stárkov, Náchod District.jpg
+File:Manifestação estudantil contra a Ditadura Militar 673.tif
 File:Mapa Dobrošov.jpg
 File:Mapa civilního krytu N-S 84 Voda.jpg
 File:Mapa pěchotního srubu N-S 84 Voda.jpg
+File:Marine with a RPG-2 rocket launcher and a Bren light machine gun.JPEG
 File:Mariánské Lázně, bunkr na letišti II.jpg
 File:Mariánské Lázně, bunkr na letišti.jpg
+File:Markvartovice, MO-S 15 (2015-05-08; 01).jpg
+File:Markvartovice, MO-S 15 (2015-05-08; 02).jpg
+File:Markvartovice, MO-S 15 (2015-05-08; 03).jpg
+File:Markvartovice, MO-S 15 (2015-05-08; 04).jpg
+File:Markvartovice, MO-S 15 (2015-05-08; 05).jpg
+File:Markvartovice, MO-S 15 (2015-05-08; 06).jpg
+File:Markvartovice, MO-S 15 (2015-05-08; 07).jpg
+File:Markvartovice, MO-S 15 (2015-05-08; 08).jpg
+File:Markvartovice, MO-S 15 (2015-05-08; 09).jpg
+File:Markvartovice, MO-S 15 (2015-05-08; 10).jpg
+File:Markvartovice, MO-S 16 (2015-05-01; 01).jpg
+File:Markvartovice, MO-S 16 (2015-05-01; 02).jpg
+File:Markvartovice, MO-S 16 (2015-05-01; 03).jpg
+File:Markvartovice, MO-S 16 (2015-05-01; 04).jpg
+File:Markvartovice, MO-S 16 (2015-05-08; 01).jpg
+File:Markvartovice, MO-S 16 (rok 2001).jpg
 File:Markvartovice, levý protitankový příkop u MO-S 14 (2015-05-08; 01).jpg
 File:Markvartovice, levý protitankový příkop u MO-S 14 (2015-05-08; 02).jpg
 File:Markvartovice, pravý protitankový příkop u MO-S 15 (2015-05-08; 01).jpg
 File:Markvartovice, pravý protitankový příkop u MO-S 16 (2015-05-08; 01).jpg
 File:Markvartovice, pravý protitankový příkop u MO-S 16 (2015-05-08; 02).jpg
+File:Markvartovice, žabí klapka MO-S 14 (2015-05-08; 01).jpg
+File:Medan de ondercommandant der Z-Brigade, luitenant-kolonel Sjouke, neemt persoon, Bestanddeelnr 7420.jpg
 File:Mellingen Heitersberg.JPG
+File:Member of the 2-8th Commando Squadron with a Bren Gun in June 1945.jpg
+File:Member of the FFI.jpg
+File:Members of 1st Battalion The Queen's Own Highlanders on a river patrol in Brunei, 1962.jpg
+File:Men of 6th Battalion, the Green Howards in an assault landing craft during Exercise 'Fabius', 5 May 1944. H38229.jpg
+File:Men of 7th Battalion, The Green Howards on an exercise among the sand dunes at Sandbanks, near Poole in Dorset, 31 July 1940. H2669.jpg
+File:Men of the 1-6th Duke of Wellington's Regiment chat to naval officers on board the Polish steamer SOBIESKI on their way to Norway, 20 April 1940. N27.jpg
+File:Men of the 2-6th Queens's Regiment advance past a pair of burning German PzKpfw IV tank in the Salerno area, Italy, 22 September 1943. NA7137.jpg
+File:Men of the 2nd Seaforth Highlanders embarking onto landing craft at Sousse, Tunisia, en route for Sicily, 5 July 1943. NA4072.jpg
+File:Men of the Leicestershire Rgt. man a Bren gun near Tobruk.jpg
+File:Men of the Royal Marines Division training in snow during 1942.jpg
+File:Men of the Royal West Kent Regiment in a dugout on Monastery Hill at Cassino, Italy, 26 March 1944. NA13362.jpg
+File:Metralletas.JPG
 File:Mikulov, MJ-S 29 (rok 1996).jpg
 File:Mikulov, MJ-S 29 (rok 2000).jpg
 File:Mikulov, MJ-S 29 (rok 2010; 01).jpg
@@ -1782,18 +2528,49 @@ File:Mikulov, MJ-S 29 (rok 2010; 08).jpg
 File:Mikulov, MJ-S 29 (rok 2010; 09).jpg
 File:Mikulov, MJ-S 29 (rok 2010; 10).jpg
 File:Mikulov, MJ-S 29 (rok 2010; 11).jpg
+File:Militair met een brengun in een geïmproviseerde wachtpost bij de militaire basis, Bestanddeelnr 255-8254.jpg
+File:Militair met machinegeweer (in actie), Bestanddeelnr 39-4-3.jpg
+File:Militair voertuig met daarop een automatisch wapen tijdens de militaire parade o, Bestanddeelnr 255-1002.jpg
+File:Militaire oefening Cross Country, Bestanddeelnr 909-6604.jpg
+File:Militaire oefeningen Castricum (parachutisten), Bestanddeelnr 904-8100.jpg
+File:Militaire patrouille, Bestanddeelnr 255-8349.jpg
+File:Militairen met brenguns bij een wachtpost, Bestanddeelnr 255-8261.jpg
+File:Militairen van de Irish Guards ingegraven aan de bosrand van Aalst, Bestanddeelnr 255-9034.jpg
+File:Military Lightweight (2865771644).jpg
+File:Military outpost guarding kibbutzim boundaries the Gaza Strip (997009324022705171.jpg
+File:MilitaryPoliceIsrael1948-2.jpg
 File:Milovice airport - hangar.jpg
 File:Milovice airport 2.jpg
 File:Milovice airport 3.jpg
 File:Milovice airport 6.jpg
+File:Ministry of Information Exhibitions during the Second World War, London, England, UK, 1943 D15087.jpg
+File:Mitrailleuse Bren - Pegasus Museum - Bénouville.jpg
+File:Mitraliera md 1937 de cazemată 01.jpg
+File:Mitraliera md 1937 de cazemată 02.jpg
+File:Mitraliera md 1937 de cazemată 03.jpg
+File:Mitraliera md 1937 de cazemată 11.jpg
+File:Mitraliera md 1937 de cazemată 12.jpg
+File:Mitralieră md 1937 cu afet 01.jpg
+File:Mitralieră md 1937 cu afet 02.jpg
+File:Mitralieră md 1937 cu afet 03.jpg
+File:Mitralieră md 1937 cu afet 04.jpg
+File:Mitralieră md 1937 cu afet 07.jpg
+File:Mk2 bren machinegun.jpg
+File:Mladkov, K-S 28 (rok 2000).jpg
+File:Mladkov, Petrovičky, K-S 38 (rok 2000).jpg
 File:Mladkov, objekt A 43 A-180Z.jpg
 File:Mlynek Zizice CZ LO vz. 36 050.jpg
 File:Mlynek Zizice CZ LO vz. 36 053.jpg
 File:Mlynek Zizice CZ LO vz. 36 056.jpg
 File:Mníšek - liniové opevnění.JPG
+File:Mo-s4 seda vila, leto (kvh bohumin).jpg
+File:Mo-s4 seda vila, zima (kvh bohumin).jpg
+File:Moscow, Friedricha Engelsa Street X Third Ring, Mar 2026 03.jpg
 File:Motorcyclist by the Ohře River, Březno - panoramio.jpg
 File:Mradice 2021-05-09 Řopík.jpg
 File:Mradice bunkr.JPG
+File:Museo Resistenza piacentina Moschetti.JPG
+File:Museu de Polícia Militar do Estado de São Paulo 06.jpg
 File:Museum in Ouvrage du Four à Chaux 02.jpg
 File:Museum of light fortification near Karlštejn. Czech Republic.jpg
 File:Muzeum lehkého opevnění Karlštejn 02.JPG
@@ -1852,12 +2629,30 @@ File:Muzeum protivzdušné obrany Bunkr Drnov 2018-10-11 21-47-44 Nikon JH (4927
 File:Muzeum protivzdušné obrany Bunkr Drnov 2018-10-11 21-47-58 Nikon JH (49274656443).jpg
 File:Muzeum protivzdušné obrany Bunkr Drnov 2018-10-11 21-53-02 Nikon JH (49275325252).jpg
 File:Město Stříbro (2).jpg
+File:N-D-S 72 Můstek 0300aca8.jpg
+File:N-D-S 72 Můstek 09b486f753.jpg
+File:N-D-S 72 Můstek 1bc53385e81.jpg
+File:N-D-S 72 Můstek 205a4556a.jpg
+File:N-D-S 72 Můstek 3e8f24b750.jpg
+File:N-D-S 72 Můstek 5e39ab164.jpg
+File:N-D-S 72 Můstek 67f827d5-5818-4eff-a675-5cfdd272fdbf.jpg
+File:N-D-S 72 Můstek b7b44e41713.jpg
+File:N-D-S 72 Můstek bab6f786b.jpg
+File:N-D-S 72 Můstek ec397d722.jpg
+File:N-D-S 72 Můstek f43f539ebf2.jpg
+File:N-D-S 72 Můstek fe4c16e7f0.jpg
 File:N-S 43 (1).jpg
 File:N-S 43.jpg
 File:N-S 44 (1).jpg
 File:N-S 44 (2).jpg
 File:N-S 44.jpg
 File:N-S 45 Polom.jpg
+File:N-S 72.JPG
+File:N-S 73.JPG
+File:N-S 75 (Dobrosov) a budova muzea.JPG
+File:N-S 75 Embrasure.jpg
+File:N-S 75.JPG
+File:N-S 75.jpg
 File:N-S 78 Polsko vchod.jpg
 File:N-S 78 Polsko.JPG
 File:N-S 78 Polsko.jpg
@@ -1890,16 +2685,38 @@ File:NS Totalita rozděluje 02, bunkr 36C (01).jpg
 File:NS Totalita rozděluje 02, bunkr 36C (02).jpg
 File:NS Totalita rozděluje 02, bunkr 36C (03).jpg
 File:NS Totalita rozděluje 07, zbytky bunkru (01).jpg
+File:Na aankomst van de beveiligingsgroep die onze stelling inneemt, gaan we verder tot de kampongrand en hebben we het voorterrein onder vuur, Bestanddeelnr 344016 005.tif
+File:Nationaal Archief, Bestanddeelnr 151-1004.jpg
+File:Nationaal Archief, Bestanddeelnr 151-1005.jpg
 File:Natural monument Březinka in 2016 (8).JPG
 File:Naučná stezka, Einmannbunker, Ostrava-Michálkovice.jpg
+File:Neboj Karlinsky tunel Praha.jpg
+File:Negev Brigade (997009323182005171.jpg
+File:Negev Brigade (997009323287905171.jpg
+File:Netherlands Brigade Manoeuvres. 38. A brengun fired Oefeningen Prinses Irene Br, Bestanddeelnr 934-9378.jpg
+File:Netherlands Brigade Manoeuvres. Batman and orderly take up position Oefeningen , Bestanddeelnr 934-9335.jpg
+File:Netherlands Brigade Manoeuvres. Brengun in A.A. position Oefeningen Prinses Ire, Bestanddeelnr 934-9380.jpg
+File:Netherlands Brigade Manoeuvres. Infantry on reconnaisance Oefeningen Prinses Ir, Bestanddeelnr 934-9336.jpg
+File:Netherlands Brigade Manoeuvres. Oefeningen Prinses Irene Brigade , Bestanddeelnr 934-9376.jpg
+File:Netherlands Brigade Manoeuvres. Oefeningen Prinses Irene Brigade. Geen bijschri, Bestanddeelnr 934-9377.jpg
+File:Netherlands Brigade Manoeuvres. Oefeningen Prinses Irene Brigade. Geen bijschri, Bestanddeelnr 934-9379.jpg
+File:Netherlands Brigade Manoeuvres. The attackers cross te smoke screen covering the, Bestanddeelnr 934-9328.jpg
 File:Neustift-JH-2008-09-03-RopikAKostel.JPG
+File:Neustoupil.png
 File:Nezdice na Šumavě, Ždánov, LO vz. 37 H-40-1-A-140 (2013-08-15; 01).jpg
 File:Nezdice na Šumavě, Ždánov, LO vz. 37 H-40-1-A-140 (2013-08-15; 02).jpg
 File:Nezdice na Šumavě, Ždánov, LO vz. 37 H-40-2-A-160 (2013-08-15; 01).jpg
+File:No. 4 Commando 22 April 1942.jpg
 File:Normandy beach obstacles 1944-06-09 2.jpg
 File:Nuclear bunker bar (9644550714).jpg
+File:Nudgee Beach, Qld. 1944-01-07 (AWM 062565).jpg
 File:Náchod, Běloves, N-S 82 (rok 2002; 01).jpg
 File:Náchod, Běloves, N-S 82 (rok 2002; 02).jpg
+File:Náchod, Dobrošov, N-S 72 (rok 2001; 01).jpg
+File:Náchod, Dobrošov, N-S 72 (rok 2001; 02).jpg
+File:Náchod, Dobrošov, N-S 73 (rok 2002).jpg
+File:Náchod, Dobrošov, N-S 75 (rok 2001; 01).jpg
+File:Náchod, Dobrošov, N-S 75 (rok 2001; 02).jpg
 File:Náchod, Dobrošov, N-S 78 (rok 2002; 01).jpg
 File:Náchod, Dobrošov, N-S 78 (rok 2002; 02).jpg
 File:Náchod, Dobrošov, N-S 79 (rok 2002; 01).jpg
@@ -1907,6 +2724,7 @@ File:Náchod, Dobrošov, N-S 79 (rok 2002; 02).jpg
 File:Náchod, Dobrošov, N-S 80 (rok 2002).jpg
 File:Náchod, Dobrošov, N-S 81 (rok 2002; 01).jpg
 File:Náchod, Dobrošov, N-S 81 (rok 2002; 02).jpg
+File:Návštěvnické centrum pevnosti Dobrošov.jpg
 File:Německý bunkr na ulici Komenského, Milovice 02.jpg
 File:Německý bunkr na ulici Komenského, Milovice.jpg
 File:OL Bezručovy sady kryt civilní ochrany 01.jpg
@@ -1922,10 +2740,24 @@ File:OL Bývalý kryt CO technika 06.jpg
 File:OL Bývalý kryt CO vybavení 01.jpg
 File:OL Bývalý kryt CO vybavení 02.jpg
 File:OL Bývalý kryt CO vybavení 03.jpg
+File:OP-S 10 Křižovatka (1).jpg
+File:OP-S 10 Křižovatka (2).jpg
+File:OP-S 24.JPG
+File:OP-S 25 U triginometru 1.jpg
 File:OP-S 25 U triginometru 2.jpg
+File:OP-S 25 U triginometru 3.jpg
 File:OP-S 25 U triginometru 4.jpg
+File:OP-S 25 U triginometru 5.jpg
 File:OP-S 25 U triginometru 6.JPG
+File:OP-S 25.JPG
+File:OP-S 26.JPG
+File:OP-S 27.JPG
+File:OP-S 36a (1).jpg
+File:OP-S 36a (2).jpg
+File:OP-S 36b (1).jpg
+File:OP-S 36b (2).jpg
 File:OP-S 36b (3).jpg
+File:Objekt CE zvon.JPG
 File:Objekt F2-72-A-160Z 01.jpg
 File:Objekt F2-72-A-160Z 02.jpg
 File:Objekt F2-72-A-160Z 03.jpg
@@ -1938,6 +2770,7 @@ File:Objekt F2-73-A-160Z 04.jpg
 File:Objekt ÚŽ-6a.jpg
 File:Objekt československého lehkého opevnění.jpg
 File:Obstacles Tank Bailey-OverlordMuseum.jpg
+File:Ochranná střílna u československého opevnění.jpg
 File:Ohrenstand.jpg
 File:Okolí Srního potoka.JPG
 File:Olbramovice (okres Znojmo) - Minimuzeum čs. opevnění obr01.jpg
@@ -1952,6 +2785,7 @@ File:Olbramovice (okres Znojmo) - Minimuzeum čs. opevnění obr11.jpg
 File:Olbramovice (okres Znojmo) - Minimuzeum čs. opevnění obr12.jpg
 File:Olbramovice (okres Znojmo) - Minimuzeum čs. opevnění obr14.jpg
 File:Old bunkers near Lakšárska Nová Ves.jpg
+File:Old-Gesher-253.jpg
 File:Oldřichovská vrchovina, sever, bunkr 01.jpg
 File:Oldřichovská vrchovina, sever, bunkr 02.jpg
 File:Oldřichovská vrchovina, sever, bunkr 03.jpg
@@ -1963,19 +2797,40 @@ File:Oldřichovská vrchovina, sever, bunkr 08.jpg
 File:Oldřichovská vrchovina, sever, bunkr 09.jpg
 File:Oldřichovská vrchovina, sever, bunkr 10.jpg
 File:Oldřichovská vrchovina, sever, bunkr 11.jpg
+File:Olešnice v Orlických horách, N-S 49 (rok 2002; 01).jpg
+File:Olešnice v Orlických horách, N-S 49 (rok 2002; 02).jpg
+File:On Board a Battleship, November 1942 TR325.jpg
+File:One of these two soldiers is Private Simpson. (2983844994).jpg
+File:Ontario Regiment Museum's Aquino, 30 mai 2015.jpg
 File:Opava, Milostovice, LO vz. 37 III-302-A-160 (2019-08-14; 01).jpg
 File:Opava, Milostovice, LO vz. 37 III-318-A-140 Z (2019-08-14; 01).jpg
 File:Opava, Milostovice, OP-S 25 (2019-08-14; 01).jpg
 File:Opava, Milostovice, OP-S 25 (2019-08-14; 02).jpg
 File:Opava, Milostovice, OP-S 25 (2019-08-14; 03).jpg
 File:Opava, Milostovice, OP-S 25 (2019-08-14; 04).jpg
+File:Opava, Milostovice, OP-S 25 (2019-08-14; 05).jpg
 File:Opava, Milostovice, OP-S 25 (2019-08-14; 06).jpg
 File:Opava, Milostovice, OP-S 25 (2019-08-14; 07).jpg
 File:Opava, Milostovice, OP-S 25 (2019-08-14; 08).jpg
 File:Opava, Milostovice, OP-S 25 (2019-08-14; 09).jpg
+File:Opava, Milostovice, OP-S 25 (2019-08-14; 10).jpg
+File:Opava, Milostovice, OP-S 25 (2019-08-14; 11).jpg
+File:Opava, Milostovice, OP-S 25 (2019-08-14; 12).jpg
+File:Opava, Milostovice, OP-S 25 (rok 2001).jpg
+File:Opava, Milostovice, OP-S 26 (rok 2001).jpg
 File:Opava, Milostovice, OP-S 27 (rok 2001; 01).jpg
+File:Opava, Milostovice, OP-S 27 (rok 2001; 02).jpg
 File:Operacni sal na Hanicce.JPG
+File:Operatie Schoonschip. Een gevangen genomen Republikeinse strijder, gekleed in Ne, Bestanddeelnr 5438.jpg
+File:Operatie Schoonschip. Patrouille loopt door een watergang, Bestanddeelnr 5391.jpg
+File:Operation Crusader.jpg
+File:Operation Elkayam. V.jpg
+File:Operation IRAQI FREEDOM 041129-M-0173F-016.jpg
+File:Operation URGENT FURY DN-SN-84-11981.jpg
 File:Opevneni-Bourny.jpg
+File:Opevnění Náchod from air K1.jpg
+File:Opevnění Náchod from air K2.jpg
+File:Opevnění Náchod from air K3.jpg
 File:Opevnění Soumarský most.jpg
 File:Opevnění mezi Odolovem a Žaltmanem.jpg
 File:Opevnění u Lednických rybníků.jpg
@@ -1987,6 +2842,8 @@ File:Opevnění v Jestřebích horách, vz. 37, typ A - 140N, kóta 619 Kolčark
 File:Opevnění v Jestřebích horách.jpg
 File:Opevnění, Kořenov (2).jpg
 File:Opevnění, Kořenov.jpg
+File:Opleiding van vrijwilligers in kamp Victory, Bestanddeelnr 900-6622.jpg
+File:Opleidingskamp Bloemendaal, Bestanddeelnr 901-5159.jpg
 File:Orlické Záhoří, Černá Voda u Orlického Záhoří, R-S 90-I (rok 2010; 01).jpg
 File:Orlické Záhoří, Černá Voda u Orlického Záhoří, R-S 90-I (rok 2010; 02).jpg
 File:Orlické Záhoří, Černá Voda u Orlického Záhoří, R-S 90-I (rok 2010; 03).jpg
@@ -2012,6 +2869,7 @@ File:Oslavany, zámek, německý bunkr (02).jpg
 File:Oslavany, zámek, německý bunkr.jpg
 File:Ostnatý drát vedle lehkého opevnění, tzv. Řopíku, Kubova Huť.jpg
 File:Otvice 2016-04-29 Opevnění.jpg
+File:Overloon War Museum 2010, diorama military equipment.jpg
 File:Overview of T-S 20 Pláň in Stárkov, Náchod District.jpg
 File:Overview of bunker 1 near T-S 20 Pláň in Stárkov, Náchod District.jpg
 File:Overview of bunker 2 near T-S 20 Pláň in Stárkov, Náchod District.jpg
@@ -2028,6 +2886,8 @@ File:PTK stena 1 - panoramio.jpg
 File:PTK stena 2 - panoramio.jpg
 File:PTK stena 3 - panoramio.jpg
 File:Pancerove dvere.jpg
+File:Panorama StM S 53 (cropped).jpg
+File:Panorama StM S 53.jpg
 File:Panské Pole (Hanička) u Rokytnice v Orlických horách - srub těžkého opevnění R-S 74 Na holém (1).jpg
 File:Panské Pole (Hanička) u Rokytnice v Orlických horách - srub těžkého opevnění R-S 74 Na holém (2).jpg
 File:Panské Pole (Hanička) u Rokytnice v Orlických horách - srub těžkého opevnění R-S 74 Na holém (3).jpg
@@ -2035,8 +2895,14 @@ File:Panzersperre hoetensleben.jpg
 File:Panzersperre-024.JPG
 File:Panzersperre-03.JPG
 File:Panzersperre-Wirkung-01.JPG
+File:Papuan soldier with Mk. VII Bren (36453987060).png
+File:Parachute Regiment soldiers enforce a curfew in Palestine.jpg
+File:ParachuteRgmtMuseumWeapons.jpg
+File:Paras from 5th (Scots) Parachute Battalion, 2nd Parachute Brigade, take cover on a street corner in Athens during operations against members of ELAS, 6 December 1944. NA20515.jpg
 File:Pardubice, Paramo, Einmannbunker.jpg
 File:Part of fortification near Kubova Hut in 2011 (2).JPG
+File:Partizani na DAG.jpg
+File:Partizani na Konjuh planini 1944.jpg
 File:Partizánske bunkre - panoramio.jpg
 File:Partizánsky bunker, Iľanovská dolina, Iľanovo, Liptovský M.jpg
 File:Partizánská zemljanka, Nýrov, okres Blansko (02).jpg
@@ -2045,11 +2911,16 @@ File:Partizánský bunkr, Prosetín, okres Žďár nad Sázavou (02).jpg
 File:Partizánský bunkr, Prosetín, okres Žďár nad Sázavou (03).jpg
 File:Partizánský bunkr, Prosetín, okres Žďár nad Sázavou.jpg
 File:Parýzánský bunkr - panoramio.jpg
+File:Patjet-Batoe Brenschutter tijdens een vuurgevecht, Bestanddeelnr 4503.jpg
 File:Patrizánsky bunker, Iľanovská dolina, Iľanovo, Lipt. Mik. 2.jpg
 File:Patrizánsky bunker, Iľanovská dolina, Iľanovo, Lipt. Mik. 3.jpg
 File:Patrizánsky bunker, Iľanovská dolina, Iľanovo, Lipt. Mik.jpg
+File:Patrouille KNIL Tandjoeng (Borneo). Mannen van het KNIL detachement van inf. 13 , Bestanddeelnr 1552-3-3.jpg
+File:Patrouille KNIL Tandjoeng (Borneo). Mannen van het KNIL detachement van inf. 13 , Bestanddeelnr 1552-4-3.jpg
 File:Pec pod Sněžkou, Modré sedlo, H1-258-A-160 (rok 2012; 01).jpg
+File:Peta prekomorska brigada v Črnomlju.jpg
 File:Petrov hill in Brno, Brno-City District.jpg
+File:Pevnost Hanička.jpg
 File:Pevnost Stachelberg z rozhledny Eliška.jpg
 File:Pevnostni areal Slavonice (1).JPG
 File:Pevnostni areal Slavonice (2).JPG
@@ -2057,7 +2928,18 @@ File:Pevnostni areal Slavonice (3).JPG
 File:Pevnostni areal Slavonice (4).JPG
 File:Pevnostni areal Slavonice (5).JPG
 File:Pevnostni areal Slavonice (6).JPG
+File:PikiWiki Israel 20707 The Palmach.jpg
+File:PikiWiki Israel 20788 The Palmach.jpg
+File:PikiWiki Israel 21023 The Palmach.jpg
+File:PikiWiki Israel 21420 The Palmach.JPG
+File:PikiWiki Israel 298 Kibutz Gan-Shmuel sk2- 42 גן-שמואל-אימוני נשק 1940-7.jpg
+File:PikiWiki Israel 310 Kibutz Gan-Shmuel sk5- 43 גן-שמואל-אימוני נשק 1942-7.jpg
+File:PikiWiki Israel 45242 Israel Defense Forces.JPG
+File:PikiWiki Israel 45245 Israel Defense Forces.JPG
+File:PikiWiki Israel 6369 Kibbutz Gan-Shmuel - Training weapons of the HAGA.jpg
+File:PikiWiki Israel 8001 Gan-Shmuel - weapons training.jpg
 File:Plougonvelin - Musée Mémoires 39-45 01.jpg
+File:Plougonvelin - Musée Mémoires 39-45 33.jpg
 File:Plzeň, nápis na zdi.JPG
 File:Podzemi galerie Hurka.JPG
 File:Podzemi tvrze Hanicka.JPG
@@ -2066,6 +2948,11 @@ File:Podzemní kryt Šárka 2024-02-02.jpg
 File:Podzemí tvrze Stachelberg.jpg
 File:Pohansko (2).jpg
 File:Pohansko opevneni.jpg
+File:Pohled od K-S 12b Utrzeny A. ZVrcholuVeselka.jpg
+File:Pohled od K-S 12b Utrzeny B. Severozapad.jpg
+File:Pohled od K-S 12b Utrzeny C. Jihozapad.jpg
+File:Pohled od K-S 12b Utrzeny F. Jih.jpg
+File:Pohled z pěchotního srubu MO-Or-S 20 Orel.jpg
 File:Pohořelice, bunkr u Pohořelického rybníka (1).JPG
 File:Pohořelice, bunkr u Pohořelického rybníka (2).JPG
 File:Pohořelice, bunkr u Pohořelického rybníka (3).JPG
@@ -2080,7 +2967,10 @@ File:Pohořelice, bunkr v polích (5).JPG
 File:Pohraniční opevnění mezi Odolovem a Věznicí Odolov.jpg
 File:Pohraniční opevnění u stoupání na Žaltman (2).jpg
 File:Pohraniční opevnění u stoupání na Žaltman.jpg
+File:Pomnik. Grupa warowna Hanička.jpg
+File:Pomník u Haničky.jpg
 File:Pootje baden in Noordwijk aan Zee Pootje baden in Noordwijk aan Zee, Bestanddeelnr 901-6934.jpg
+File:Postrelovany N-S 73.JPG
 File:Potsdamer Platz 1962 1.jpg
 File:Potsdamer Platz, 1961-11-22.jpg
 File:Pozorovatelna civilní obrany Hosín.jpg
@@ -2109,10 +2999,19 @@ File:Praha Nusle Kryt Folimanka 6.jpg
 File:Praha Nusle Kryt Folimanka 7.jpg
 File:Praha Nusle Kryt Folimanka 8.jpg
 File:Praha Nusle Kryt Folimanka 9.jpg
+File:Praha Vinohrady Park Nad Belehradskou street art 1.jpg
+File:Praha Vinohrady Park Nad Belehradskou street art 2.jpg
+File:Praha, Karlín, Thámova, Žižkovský tunel.jpg
+File:Praha, Karlín, tunel.jpg
 File:Praha, Karlín, Žižkovský tunel.jpg
 File:Praha, tunel Karlín-Žižkov.jpg
+File:Praha, Žižkov, tunel.jpg
 File:Praha-Hradschin-Straßensperre-01.jpg
 File:Praha-Hradschin-Straßensperre-02.jpg
+File:Praha-Karlín-Žižkovský-tunel-Neboj2024.jpg
+File:Praha-Karlín-Žižkovský-tunel-Neboj2024a.jpg
+File:Praha-Karlín-Žižkovský-tunel-Neboj2024b.jpg
+File:Praha-Karlín-Žižkovský-tunel2024.jpg
 File:Praha-Vitkov-NationalMonument-Bunker-01.jpg
 File:Praha-Vitkov-NationalMonument-Bunker-02.jpg
 File:Praha-Vitkov-NationalMonument-Bunker-03.jpg
@@ -2125,7 +3024,10 @@ File:Praha-Žižkovský-tunel2024e.jpg
 File:Praha-Žižkovský-tunel2024f.jpg
 File:Praseci ocasek.jpg
 File:Pravy zvon srubu MO-S 19.jpg
+File:Pravá strana objektu MO-S5 (současný stav).jpg
 File:Prevraceny ropik.JPG
+File:Prinses Irene Brigade. Recruten uit Zuid-Afrika. Bijschrift South Africa and Ho…, Bestanddeelnr 934-9221.jpg
+File:Private of the Canadian Perth Regiment advancing through forest north of Arnhem with Bren gun 1945.jpg
 File:Promenádní – U bunkru (15223657822).jpg
 File:Prosetín (okres Žďár nad Sázavou) - bunkr oddílu Jermak, 2025-08, obr01.jpg
 File:Prosetín (okres Žďár nad Sázavou) - bunkr oddílu Jermak, 2025-08, obr02.jpg
@@ -2155,6 +3057,10 @@ File:Protiatomový kryt Výpustek 21.jpg
 File:Protiatomový kryt Výpustek 22.jpg
 File:Protiatomový kryt Výpustek 23.jpg
 File:Protiatomový kryt Výpustek 24.jpg
+File:Protiletecká pozorovatelna, Halda dolu Hubert (Stachanov), Ostrava-Hrušov, Moravskoslezský kraj 01.jpg
+File:Protiletecká pozorovatelna, Halda dolu Hubert (Stachanov), Ostrava-Hrušov, Moravskoslezský kraj 02.jpg
+File:Protiletecká pozorovatelna, Halda dolu Hubert (Stachanov), Ostrava-Hrušov, Moravskoslezský kraj 03.jpg
+File:Protiletecká pozorovatelna, Halda dolu Hubert (Stachanov), Ostrava-Hrušov, Moravskoslezský kraj 04.jpg
 File:Protiletecký kryt 10-Z v Brně 01.jpg
 File:Protiletecký kryt 10-Z v Brně 02.jpg
 File:Protiletecký kryt 10-Z v Brně 03.jpg
@@ -2188,6 +3094,8 @@ File:Protiletecký kryt 10-Z v Brně 30.jpg
 File:Protiletecký kryt 10-Z v Brně 31.jpg
 File:Protiletecký kryt 10-Z v Brně 32.jpg
 File:Protitankovy prikop (K-S 14).JPG
+File:Protivotankovy yozh 01 1941.jpg
+File:Protivotankovy yozh 02 1941.jpg
 File:Proviantný partizánsky bunker, Iľanovská dolina, Iľanovo 01.jpg
 File:Proviantný partizánsky bunker, Iľanovská dolina, Iľanovo 02.jpg
 File:Proviantný partizánsky bunker, Iľanovská dolina, Iľanovo 03.jpg
@@ -2195,30 +3103,93 @@ File:Proviantný partizánsky bunker, Iľanovská dolina, Iľanovo 04.jpg
 File:Provozní centrum (1).jpg
 File:Prusek mezi ropiky.JPG
 File:Prva vaška straža.jpg
+File:Putting the clothes out to dry under summer skies in Korea.jpg
+File:Pěchotní srub CE na Jordánu2.JPG
+File:Pěchotní srub K-S 14 u Prostřední Lipky 1938.jpg
+File:Pěchotní srub K-S 32 Na růžku 2022.jpg
 File:Pěchotní srub MO-S 19 V aleji (2).jpg
+File:Pěchotní srub MO-S 19 V aleji (3).jpg
+File:Pěchotní srub MO-S 19 V aleji.jpg
+File:Pěchotní srub MO-S 20 U orla.jpg
+File:Pěchotní srub MO-S-8 Dvůr Pasek, Šilheřovice.jpg
+File:Pěchotní srub N-D-S 72 Můstek.jpg
 File:Pěchotní srub N-S 44 - šachta pro zvon.jpg
 File:Pěchotní srub N-S 81 Lom.jpg
 File:Pěchotní srub N-S 82 (Březinka).jpg
 File:Pěchotní srub N-S 82 Březinka.jpg
 File:Pěchotní srub N-S 84 "Voda".jpg
 File:Pěchotní srub Na holém, Panské Pole, Rokytnice v Orlických horách, okres Rychnov nad Kněžnou.jpg
+File:Pěchotní srub OP-S26 Milostovice 01.jpg
+File:Pěchotní srub OP-S26 Milostovice 02.jpg
+File:Pěchotní srub Obora, Šilheřovice, okres Opava 3.jpg
+File:Pěchotní srub Obora, Šilheřovice, okres Opava 4.jpg
+File:Pěchotní srub Obora, Šilheřovice, okres Opava 5.jpg
 File:Pěchotní srub R-S 87 Průsek.jpg
+File:Pěchotní srub StM-S 31a Borek 01.jpg
+File:Pěchotní srub StM-S 31a Borek 02.jpg
+File:Pěchotní srub StM-S 31a Borek 03.jpg
+File:Pěchotní srub StM-S 31b Ozdravovna 01.jpg
+File:Pěchotní srub StM-S 31b Ozdravovna 02.jpg
+File:Pěchotní srub StM-S 31b Ozdravovna 03.jpg
+File:Pěchotní srub StM-S 31b Ozdravovna 04.jpg
+File:Pěchotní srub StM-S 31b Ozdravovna 05.jpg
+File:Pěchotní srub StM-S 31b Ozdravovna 06.jpg
+File:Pěchotní srub StM-S 32 Krajní, interiér 01.jpg
+File:Pěchotní srub StM-S 32 Krajní, interiér 02.jpg
+File:Pěchotní srub StM-S 32 Krajní, interiér 03.jpg
+File:Pěchotní srub StM-S 32 Krajní, interiér 04.jpg
+File:Pěchotní srub StM-S 32 Krajní, interiér 05.jpg
+File:Pěchotní srub StM-S 32 Krajní, interiér 06.jpg
+File:Pěchotní srub StM-S 32 Krajní, interiér 07.jpg
+File:Pěchotní srub StM-S 32 Krajní, interiér 08.jpg
+File:Pěchotní srub StM-S 32 Krajní.jpg
+File:Pěchotní srub StM-S 33 Lesík 01.jpg
+File:Pěchotní srub StM-S 33 Lesík 02.jpg
+File:Pěchotní srub StM-S 33 Lesík 03.jpg
+File:Pěchotní srub StM-S 33 Lesík 04.jpg
+File:Pěchotní srub StM-S 34 Svah 01.jpg
+File:Pěchotní srub StM-S 34 Svah 02.jpg
+File:Pěchotní srub StM-S 34 Svah 03.jpg
+File:Pěchotní srub StM-S 34 Svah 04.jpg
+File:Pěchotní srub StM-S 34 Svah 05.jpg
+File:Pěchotní srub StM-S 34 Svah 06.jpg
+File:Pěchotní srub StM-S 34 Svah 07.jpg
+File:Pěchotní srub v Brdech, Jordán - letecká fotografie.jpg
+File:Pěchotního srub OP-S24 Gelovo pole 19.jpg
+File:Pěchotního srub OP-S24 Gelovo pole 20.jpg
+File:Pěchotního srub OP-S25 U trigonometru 07.jpg
 File:Pěchotního srub OP-S25 U trigonometru 08.jpg
 File:Pěchotního srub OP-S25 U trigonometru 09.jpg
 File:Pěchotního srub OP-S25 U trigonometru 10.jpg
+File:Pěchotního srub OP-S25 U trigonometru 11.jpg
 File:Pěchotního srub OP-S25 U trigonometru 12.jpg
+File:Pěchotního srub OP-S25 U trigonometru 13.jpg
+File:Pěchotního srub OP-S25 U trigonometru 14.jpg
 File:Pěchotního srub OP-S25 U trigonometru 15.jpg
 File:Pěchotního srub OP-S25 U trigonometru 16.jpg
+File:Pěchotního srub OP-S25 U trigonometru 17.jpg
+File:Pěchotního srub OP-S25 U trigonometru 18.jpg
 File:Pěchotního srub OP-S25 U trigonometru 19.jpg
 File:Přehrazení silnice Mladkov - Lichkov.gif
+File:Překážkový kolík v týlu objektu CE.JPG
 File:Přibice - Lehké opevnění vzor 37, VEČ 998 obr1.jpg
 File:Přibice - Lehké opevnění vzor 37, VEČ 998 obr2.jpg
 File:Přibice - železniční trať 253 - most přes Jihlavu obr2.jpg
 File:Přibice - železniční trať 253 - most přes Jihlavu obr7.jpg
 File:Přistavěné LO vz. 37 k Hraničnímu zámku v Hlohovci.JPG
 File:Příroda si bere zpět, co jí člověk vzal.jpg
+File:R-H-S 76, tvrz Hanička.JPG
 File:R-S 74 v zimě.jpg
+File:R-S 76 Lom 1.jpg
+File:R-S 76 Lom 2.jpg
+File:R-S 76.JPG
+File:R-S 76.jpg
+File:R2-D2 v Praze 01.jpg
+File:R2-D2 v Praze 02.jpg
+File:R2-D2 v Praze 03.jpg
 File:RENOVACE - Thomayerova nemocnice 20230106 082724.jpg
+File:RIAN archive 604273 Barricades on city streets.jpg
+File:RIAN archive 789 People digging trenches.jpg
 File:ROPIK TYP B.JPG
 File:RR5712-0011R.jpg
 File:RS74.jpg
@@ -2251,29 +3222,77 @@ File:Radvanice, Slavětín, T-S 44 (rok 2012; 06).jpg
 File:Radvanice, Slavětín, T-S 44 (rok 2012; 07).jpg
 File:Radvanice, Slavětín, T-S 44 (rok 2012; 08).jpg
 File:Radvanice, Slavětín, T-S 44 (rok 2012; 09).jpg
+File:Raid on Vaagso, 27 December 1941 N459.jpg
 File:Railway bridge over thaya between laa and hevlin.jpg
 File:Ralsko - řopík.jpg
+File:Ramat Gan (997009322910705171.jpg
+File:Rare Bren.jpg
+File:Revolução Constitucionalista de 1932 (6).jpg
+File:Revolução Constitucionalista de 1932 (8).jpg
+File:Revolução Constitucionalista de 1932 - Pelotão tenente Raphael no assalto à estação de Cascata (SP).jpg
+File:Revolução Constitucionalista de 1932 - Posto de municiamento, de Cascata.jpg
+File:Rhodesians of 60th KRRC in North Africa fire Bren gun, 1942.jpg
 File:Rich Town (20220504).jpg
 File:Rich Town 2 (20220504).jpg
+File:Roemeense brugbewaking in het Koeban bruggehoofd, Bestanddeelnr 29039 070.tif
+File:Roemeense veldstelling aan de kust van de Zee van Azow, Bestanddeelnr 29039 004.tif
+File:Rohling N-S 72.JPG
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 75 (rok 2010; 01).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 75 (rok 2010; 02).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 75 (rok 2010; 03).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 75 (rok 2010; 04).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 75 (rok 2010; 05).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 75 (rok 2010; 06).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2000; 01).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2000; 02).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 01).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 02).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 03).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 04).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 05).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 06).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 07).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 08).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 09).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 10).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 11).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 76 (rok 2010; 12).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 77 (rok 2000).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 77 (rok 2010; 01).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 77 (rok 2010; 02).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 77 (rok 2010; 03).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 77 (rok 2010; 04).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 77 (rok 2010; 05).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 78 (rok 2000).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 78 (rok 2010; 01).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 78 (rok 2010; 02).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 78 (rok 2010; 03 - výřez).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 78 (rok 2010; 03).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 78 (rok 2010; 04).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 78 (rok 2010; 05).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 78 (rok 2010; 06).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2000; 01).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2000; 02).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2010; 01).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2010; 02).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2010; 03).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2010; 04).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2010; 05).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2010; 06).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2010; 07).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2010; 08).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2010; 09).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79 (rok 2010; 10).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79a (rok 2010; 01).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79a (rok 2010; 02).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79a (rok 2010; 03).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79a (rok 2010; 04).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79a (rok 2010; 05).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 79a (rok 2010; 06).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 80 (rok 2010; 01).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 80 (rok 2010; 02).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 80 (rok 2010; 03).jpg
+File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 80 (rok 2010; 04).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 81 (rok 2002; 01).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 81 (rok 2002; 02).jpg
 File:Rokytnice v Orlických horách, Horní Rokytnice, R-S 81 (rok 2010; 01).jpg
@@ -2339,6 +3358,7 @@ File:Rokytnice v Orlických horách, Panské Pole, R-S 74 (rok 2010; 05).jpg
 File:Rokytnice v Orlických horách, Panské Pole, protitankový příkop u R-S 74 (rok 2010; 01).jpg
 File:Rokytnice v Orlických horách, Panské Pole, protitankový příkop u R-S 74 (rok 2010; 02).jpg
 File:Rokytnice v Orlických horách, Panské Pole, protitankový příkop u R-S 74 (rok 2010; 03).jpg
+File:Romanian Army in the fight for the liberation of Czechoslovakia-19.jpg
 File:Rop 1938.jpg
 File:Ropik - Hůrka.mit .JPG
 File:Ropik Jesenske.jpg
@@ -2355,6 +3375,15 @@ File:Ropik.jpg
 File:Ropiky.JPG
 File:Ropík na Záhorí.jpg
 File:Row przeciwpancerny.jpg
+File:Royal Air Force Operations in the Far East, 1941-1945 CF397.jpg
+File:Royal Air Force Operations in the Far East, 1941-1945. CF233.jpg
+File:Royal Air Force Operations in the Far East, 1941-1945. CI692.jpg
+File:Royal Air Force- 2nd Tactical Air Force, 1943-1945. CL2103.jpg
+File:Royal Air Force- Italy, the Balkans and South-east Europe, 1944-1945. CNA2864.jpg
+File:Royal Air Force- Operations in the Middle East and North Africa, 1939-1943. CM3930.jpg
+File:Royal Hamilton Light Infantry, 24 March 1945.jpg
+File:Rozhledna Eliška 2015 02.jpg
+File:Rozhledna Šibenice 2022.jpg
 File:Rozsocháč.jpg
 File:Rtyně v Podkrkonoší, T-S 25 (rok 2012; 01).jpg
 File:Rtyně v Podkrkonoší, T-S 25 (rok 2012; 02).jpg
@@ -2380,25 +3409,36 @@ File:Rýchory, hřeben (11).jpg
 File:Rýchory, hřeben (7).jpg
 File:Rýchory, hřeben (8).jpg
 File:SBB Bommerstein Tunnel II (42718465020).jpg
+File:SU-100, Darkovičky.jpg
 File:Sazená, křižovatka.jpg
 File:Sazená, vodní mlýn čp.38.jpg
 File:Scheme of a German bunker, Komenského street, Milovice.png
 File:Schron Anna. Anenský vrch (Orlické hory).jpg
 File:Schron KS5.JPG
 File:Schron R-S-87. Grupa warowna Hanička.jpg
+File:Schron artyleryjski R-H-S 79.jpg
+File:Schron artyleryjski. R-H-S 79.jpg
+File:Schron dla piechoty R-H-S 80.jpg
 File:Schron. Grupa warowna Hanička 1.jpg
 File:Schron. Grupa warowna Hanička.0.jpg
 File:Schron. Grupa warowna Hanička.jpg
+File:Schron.artyleryjski R-H-S 79.jpg
 File:Schöberlinie in Sudetenland (Tsjechoslowakije) door Duitsland overgenomen. Bunkercomple, Bestanddeelnr 24007 034.jpg
 File:Schöberlinie in Sudetenland (Tsjechoslowakije) door Duitsland overgenomen. Prikkeldraadversperringen, Bestanddeelnr 24007 036.jpg
 File:Schöberlinie in Sudetenland (Tsjechoslowakije) door Duitsland overgenomen. Verdedigingsstelling in een bos, Bestanddeelnr 24007 035.jpg
+File:Second World War machine gun on Cathedral Square, Peterborough - geograph.org.uk - 6196111.jpg
+File:Secret Nuclear Bunker (6773704728).jpg
 File:Semi-permanent Roadblock (16475994688).jpg
+File:Setting Up a Light Machine-gun Art.IWMARTLD3088.jpg
+File:Shaurya Smarak Gallery (20).jpg
 File:Sign of Naučná stezka Betonová hranice in Mladkov, Ústí nad Orlicí District.jpg
 File:Signal Vrch CKP.jpg
 File:Signs of T-S 20 Pláň in Stárkov, Náchod District.jpg
+File:Sikh troops armed with Bren guns and a 2-inch mortar, training in the Western Desert, 6 August 1941. E4667.jpg
 File:Skupice 2022-04-23 Bunkr C-13 31a.jpg
 File:Skupice 2022-04-23 Bunkr C-13 35.jpg
 File:Skupina borcev Gradnikove brigade v taboru pod Krnom v drugi polovici julija 1943,.jpg
+File:Skutina - panoramio.jpg
 File:Skutina.JPG
 File:Slavonický les, bunkr 01.jpg
 File:Slavíkov (u Náchoda) - bunkr Kóta A u rozhledny Na Signálu.jpg
@@ -2408,8 +3448,17 @@ File:Slavíkov (u Náchoda) - rozhledna Na Signálu (1).jpg
 File:Slowaakse infanterist achter een machinegeweer, Bestanddeelnr 29044 014.tif
 File:Smečno, bunkřík.JPG
 File:Smědavská hornatina, Jizera, bunkr 01.jpg
+File:Sněžné, N-S 48 (rok 2002; 01).jpg
+File:Sněžné, N-S 48 (rok 2002; 02).jpg
 File:Soch47DSC 1014.JPG
+File:Soemardjono in Enam Djam di Djogdja, Peran Pemuda dalam Kebangkitan Film Indonesia, p124.jpg
+File:Soengai Pisang. Jonkers (uit Lunteren) ofwel Toean Piet, zoals hij genoemd wor, Bestanddeelnr 3873.jpg
+File:Soldado armado Campanha da Legalidade.jpg
+File:Soldiers of 1st Battalion, The Middlesex Regiment (Duke of Cambridge's Own), with a Mk I Ferret Scout Car in the Troodos mountains, 1957.jpg
+File:Soldiers of the 1st Battalion Cameron Highlanders receive instruction on a Bren gun fitted on an anti-aircraft mounting at Aldershot, 1939. H655.jpg
+File:Soliders tarakan (AWM 108076).jpg
 File:Soumarský most 1938.jpg
+File:Soviet Maxim Machin Gun.jpg
 File:Spanelsky jezdec (drevo).JPG
 File:Spanelsky jezdec (ocel).JPG
 File:Spanischer-reiter.jpg
@@ -2426,6 +3475,7 @@ File:Srbsko, vojenský bunkr v Srbsku u Berouna (2).jpg
 File:Srbsko, vojenský bunkr v Srbsku u Berouna (3).jpg
 File:Srni potok, okoli 1.jpg
 File:Srub Jaroslav.jpg
+File:Srub MO S–5 Na trati Bohumin.jpg
 File:Stachelberg TS73 schodiste.JPG
 File:Stachelberg, bunkier - .22.08.2023.jpg
 File:Stachelberg, bunkier - 2023.08.22.jpg
@@ -2450,9 +3500,23 @@ File:Stachelberg, podzemí (rok 2012; 10).jpg
 File:Stachelberg, podzemí (rok 2012; 11).jpg
 File:Stachelberg, podzemí (rok 2012; 12).jpg
 File:Stachelberg, podzemí (rok 2012; 13).jpg
+File:Stachelberg.jpg
 File:Standard aircraft shelter at Namest Air Base (8124431855).jpg
+File:Stanowisko niemieckiego karabinu maszynowego (2-27).jpg
+File:Staré Město, StM-S 30 (rok 2003; 01).jpg
+File:Staré Město, StM-S 30 (rok 2003; 02).jpg
+File:Staré Město, StM-S 30 (rok 2006; 01).jpg
+File:Staré Město, StM-S 30 (rok 2006; 02).jpg
+File:Staré Město, StM-S 30 (rok 2006; 03).jpg
+File:Staré Město, StM-S 30 (rok 2006; 04).jpg
+File:Staré Město, StM-S 31a (rok 2003).jpg
+File:Staré Město, StM-S 31b (rok 2003).jpg
+File:Staré Město, StM-S 32 (rok 2003).jpg
+File:Staré Město, StM-S 33 (rok 2003).jpg
+File:Staré Město, StM-S 34 (rok 2003).jpg
 File:Staňkov, LO vz. 37 I-184-112-A-160 Z (2020-07-06; 01).jpg
 File:Steel spider - Fastening point (16475975698).jpg
+File:Stewart Air Show 2017 DSC00306 (31878011487).jpg
 File:Stožec (Lužické hory) 2018 (11).jpg
 File:Stožec (Lužické hory) 2018 (12).jpg
 File:Stožec (Lužické hory) 2018 (6).jpg
@@ -2485,8 +3549,32 @@ File:Stárkov, Chlívce, T-S 24 (rok 2012; 14).jpg
 File:Stárkov, Chlívce, T-S 24 (rok 2012; 15).jpg
 File:Stárkov, Chlívce, protitankový příkop u T-S 20 (rok 2012; 01).jpg
 File:Stárkov, Chlívce, protitankový příkop u T-S 20 (rok 2012; 02).jpg
+File:Stěbořice, Březová, místo OP-Š-S 34 (2019-08-14; 01).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 01).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 02).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 03).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 04).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 05).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 06).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 07).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 08).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 09).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 10).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 11).jpg
+File:Stěbořice, Jamnice, rozhledna Šibenice (2019-08-14; 12).jpg
+File:Stěbořice, Jamnice, výhled z rozhledny Šibenice (2019-08-14; 01).jpg
+File:Stěbořice, Jamnice, výhled z rozhledny Šibenice (2019-08-14; 02).jpg
 File:Stěbořice, Jamnice, výhled z rozhledny Šibenice (2019-08-14; 03).jpg
 File:Stěbořice, Jamnice, výhled z rozhledny Šibenice (2019-08-14; 04).jpg
+File:Stěbořice, Jamnice, výhled z rozhledny Šibenice (2019-08-14; 05).jpg
+File:Stěbořice, Jamnice, úkryt u rozhledny (2019-08-14; 01).jpg
+File:Stěbořice, Jamnice, úkryt u rozhledny (2019-08-14; 02).jpg
+File:Stěbořice, Jamnice, úkryt u rozhledny (2019-08-14; 03).jpg
+File:Stěbořice, Jamnice, úkryt u rozhledny (2019-08-14; 04).jpg
+File:Stěbořice, Jamnice, úkryt u rozhledny (2019-08-14; 05).jpg
+File:Stěbořice, Jamnice, úkryt u rozhledny (2019-08-14; 06).jpg
+File:Střela Röchling ve stěně dělostřeleckého srubu K-S 11 "Na svahu".jpg
+File:Střílny hlavních zbraní objektu CE.JPG
 File:Svaznice Hurka.JPG
 File:Světla nad bunkry 2023.jpg
 File:Swiss Army - Roadblock assembly set (26804191278).jpg
@@ -2509,9 +3597,21 @@ File:T-S 69 view.png
 File:T-S 70 plan G.png
 File:T-S 70 plan U.png
 File:T-S 70 view.png
+File:T-S 72 01.JPG
+File:T-S 72 02.JPG
+File:T-S 72 03.JPG
+File:T-S 72 04.JPG
+File:T-S 72 05.JPG
+File:T-S 72 06.JPG
+File:T-S 73 Polom 01.JPG
+File:T-S 73 Polom 02.JPG
 File:T-S 73 Polom 03.JPG
 File:T-S 73 Polom 04.JPG
+File:T-S 73 Polom 05.JPG
+File:T-S 73 Polom 06.JPG
 File:T-S 73 Polom.jpg
+File:T-S 74 U silnice.jpg
+File:T-S 76.JPG
 File:T-S 81a plan G.png
 File:T-S 81a plan U.png
 File:T-S 81a view.png
@@ -2523,17 +3623,60 @@ File:T-S 82 plan U.png
 File:T-S 82 view.png
 File:T-ST all.png
 File:T-ST map 0.png
+File:T-ST-S 71 plan G.png
+File:T-ST-S 71 plan U.png
+File:T-ST-S 71 view.png
+File:T-ST-S 72 plan G.png
+File:T-ST-S 72 plan U.png
+File:T-ST-S 72 view.png
+File:T-ST-S 73 plan G.png
+File:T-ST-S 73 plan U.png
+File:T-ST-S 73 view.png
+File:T-ST-S 74 plan G.png
+File:T-ST-S 74 plan U.png
+File:T-ST-S 74 view.png
+File:T-ST-S 75 plan G.png
+File:T-ST-S 75 plan U.png
+File:T-ST-S 75 view.png
+File:T-ST-S 76 plan G.png
+File:T-ST-S 76 plan U.png
+File:T-ST-S 76 view.png
 File:T-ST-S 76a plan Ga.png
 File:T-ST-S 76a plan Gb.png
 File:T-ST-S 76a plan U.png
 File:T-ST-S 76a view.png
+File:T-ST-S 77 plan G.png
+File:T-ST-S 77 plan U.png
+File:T-ST-S 77 view.png
+File:T-ST-S 78 plan G.png
+File:T-ST-S 78 plan U.png
+File:T-ST-S 78 view.png
+File:T-ST-S 79-80 plan G.png
+File:T-ST-S 79-80 plan U1.png
+File:T-ST-S 79-80 plan U2.png
+File:T-ST-S 79-80 view.png
+File:T-ST-S 80a plan G.png
+File:T-ST-S 80a plan U.png
+File:T-ST-S 80a view.png
 File:T34 am Wurzenpass.jpg
 File:TORÅS FORT Kystfort 1939-1999 Tjøme Norway Ex-German WW2 coastal fortress Nedre leir Vakt forlegningsbrakke Pol 3 III baug Welding Olsen monument pansersperring Czech hedgehog svaberg Færder Militærhistorisk museum bunker inngang.jpg
 File:TORÅS FORT Kystfort 1939-1999 Tjøme Norway WW2 coastal fortress Nedre leir Vaktbrakke Garasje Parkering Pol 3 Welding Olsen monument Pansersperring Grunnmur Svaberg Færder Militærhistorisk museum Bunker inngang Distorted panorama.jpg
 File:TORÅS FORT Kystfort 1939-1999 Tjøme Norway WW2 coastal fortress Nedre leir Vaktbrakke Messe Parkering Pol 3 Welding Olsen monument Pansersperring Svaberg grunnmur Færder Militærhistorisk museum Distorted handheld panorama 2021-08-.jpg
+File:TR 18614 THE BRUNEI REVOLT 1962 - 1963.jpg
+File:Tablica. Grupa warowna Hanička.jpg
+File:Tachovské náměstí, pěší tunel (01).jpg
+File:Tachovské náměstí, pěší tunel.jpg
+File:Tachovské náměstí, tunel (01).jpg
+File:Tachovské náměstí, tunel (02).jpg
+File:Tachovské náměstí, tunel (03).jpg
+File:Tachovské náměstí, tunel a restaurace Planeta.jpg
+File:Tank T-34-85 u MO-Or-S 20 Orel.jpg
 File:Tank trap - Alderney.jpg
 File:Tankovske ovire (cropped).JPG
 File:Tankovske ovire.JPG
+File:Tanks, Trucks and Firepower Show 2023 20230826 104607 (53156816097).jpg
+File:Tanks, Trucks and Firepower Show 2024 (53962910496).jpg
+File:Tanks, Trucks and Firepower Show 2024 (53963127411).jpg
 File:Technické centrum TC 4, ČÚZK 2023.jpg
 File:Technické centrum TC4 Palmovka00001.jpg
 File:Technické centrum TC4 Palmovka00002.jpg
@@ -2560,12 +3703,174 @@ File:Technické centrum TC4 Palmovka00022.jpg
 File:Technické centrum TC4 Palmovka00023.jpg
 File:Technické centrum TC4 Palmovka00024.jpg
 File:Technické centrum TC4 Palmovka00025.jpg
+File:Tel Aviv-Yafo (997008136516405171).jpg
+File:Tester fires off round from completed Bren gun in special test room. Un technicien d'essai tire une balle de fusil-mitrailleur Bren dans une salle d'essai spéciale (4678562459).jpg
+File:The Allied Campaign in North-west Europe, 6 June 1944 - 7 May 1945 B5382.jpg
+File:The British Army in Burma 1944 SE564.jpg
+File:The British Army in Burma 1944 SE728.jpg
+File:The British Army in Burma 1944 SE729.jpg
+File:The British Army in Burma 1944 SE778.jpg
+File:The British Army in Burma 1945 SE1627.jpg
+File:The British Army in Burma 1945 SE2055.jpg
+File:The British Army in Burma 1945 SE2067.jpg
+File:The British Army in Burma 1945 SE2374.jpg
+File:The British Army in Burma 1945 SE2377.jpg
+File:The British Army in Burma 1945 SE3267.jpg
+File:The British Army in Burma 1945 SE3757.jpg
+File:The British Army in France 1939 O125.jpg
+File:The British Army in France 1939 O152.jpg
+File:The British Army in France 1939-40 O620.jpg
+File:The British Army in France 1939-40 O835.jpg
+File:The British Army in France 1940 F2038.jpg
+File:The British Army in France 1940 F2548.jpg
+File:The British Army in France 1940 F2871.jpg
+File:The British Army in France 1940 F3012.jpg
+File:The British Army in France 1940 F3599.jpg
+File:The British Army in Italy 1943 NA8236.jpg
+File:The British Army in Italy 1943 NA8508.jpg
+File:The British Army in Italy 1943 NA8979.jpg
+File:The British Army in Italy 1944 NA16537.jpg
+File:The British Army in Italy 1944 NA18124.jpg
+File:The British Army in Italy 1945 NA24363.jpg
+File:The British Army in Italy 1945 NA24374.jpg
+File:The British Army in Normandy 1944 B5039.jpg
+File:The British Army in Normandy 1944 B5382.jpg
+File:The British Army in Normandy 1944 B6140.jpg
+File:The British Army in Normandy 1944 B7602.jpg
+File:The British Army in Normandy 1944 B7622.jpg
+File:The British Army in Normandy 1944 B7624.jpg
+File:The British Army in Normandy 1944 B7749.jpg
+File:The British Army in Normandy 1944 B8200.jpg
+File:The British Army in Normandy 1944 B8238.jpg
+File:The British Army in Normandy 1944 B8921.jpg
+File:The British Army in Normandy 1944 B8978.jpg
+File:The British Army in North Africa 1941 E1636.jpg
 File:The British Army in North Africa 1941 E4967.jpg
+File:The British Army in North Africa 1941 E6377.jpg
+File:The British Army in North Africa 1941 E7084.jpg
+File:The British Army in North Africa 1942 E12667.jpg
+File:The British Army in North Africa 1942 E14578.jpg
+File:The British Army in North Africa 1942 E17620.jpg
+File:The British Army in North Africa 1942 E17797.jpg
+File:The British Army in North Africa 1942 E19690.jpg
+File:The British Army in North Africa E128.jpg
+File:The British Army in North Africa E129.jpg
+File:The British Army in North Africa E133.jpg
+File:The British Army in North Africa E8822.jpg
+File:The British Army in North-west Europe 1944-45 B10361.jpg
+File:The British Army in North-west Europe 1944-45 B11220.jpg
+File:The British Army in North-west Europe 1944-45 B11221.jpg
+File:The British Army in North-west Europe 1944-45 B11289.jpg
+File:The British Army in North-west Europe 1944-45 B12241.jpg
+File:The British Army in North-west Europe 1944-45 B13124.jpg
+File:The British Army in North-west Europe 1944-45 B14759.jpg
+File:The British Army in North-west Europe 1944-45 B15008.jpg
+File:The British Army in North-west Europe 1944-45 B15071.jpg
+File:The British Army in North-west Europe 1944-45 B15107.jpg
+File:The British Army in North-west Europe 1944-45 BU1226.jpg
+File:The British Army in North-west Europe 1944-45 BU1387.jpg
+File:The British Army in North-west Europe 1944-45 BU1603.jpg
+File:The British Army in North-west Europe 1944-45 BU1753.jpg
+File:The British Army in North-west Europe 1944-45 BU2051.jpg
+File:The British Army in North-west Europe 1944-45 BU245.jpg
+File:The British Army in North-west Europe 1944-45 BU254.jpg
+File:The British Army in North-west Europe 1944-45 BU3057.jpg
+File:The British Army in North-west Europe 1944-45 BU3832.jpg
+File:The British Army in North-west Europe 1944-45 BU3936.jpg
+File:The British Army in North-west Europe 1944-45 BU3947.jpg
+File:The British Army in North-west Europe 1944-45 BU3967.jpg
+File:The British Army in North-west Europe 1944-45 BU4127.jpg
+File:The British Army in North-west Europe 1944-45 BU4157.jpg
+File:The British Army in North-west Europe 1944-45 BU4901.jpg
+File:The British Army in Norway April - June 1940 N110.jpg
+File:The British Army in the Middle East 1943 E25358.jpg
+File:The British Army in the Normandy Campaign 1944 B5235.jpg
+File:The British Army in the Normandy Campaign 1944 B5585.jpg
+File:The British Army in the Normandy Campaign 1944 B6986.jpg
+File:The British Army in the Normandy Campaign 1944 B9617.jpg
+File:The British Army in the United Kingdom 1939-1945 H16696.jpg
+File:The British Army in the United Kingdom 1939-1945 H5108.jpg
+File:The British Army in the United Kingdom 1939-45 H1023.jpg
+File:The British Army in the United Kingdom 1939-45 H10972.jpg
+File:The British Army in the United Kingdom 1939-45 H11772.jpg
+File:The British Army in the United Kingdom 1939-45 H12049.jpg
+File:The British Army in the United Kingdom 1939-45 H12984.jpg
+File:The British Army in the United Kingdom 1939-45 H14652.jpg
+File:The British Army in the United Kingdom 1939-45 H16292.jpg
+File:The British Army in the United Kingdom 1939-45 H17510.jpg
+File:The British Army in the United Kingdom 1939-45 H17780.jpg
+File:The British Army in the United Kingdom 1939-45 H19376.jpg
+File:The British Army in the United Kingdom 1939-45 H20380.jpg
+File:The British Army in the United Kingdom 1939-45 H21687.jpg
+File:The British Army in the United Kingdom 1939-45 H21934.jpg
+File:The British Army in the United Kingdom 1939-45 H22489.jpg
+File:The British Army in the United Kingdom 1939-45 H23829.jpg
+File:The British Army in the United Kingdom 1939-45 H25874.jpg
+File:The British Army in the United Kingdom 1939-45 H26173.jpg
+File:The British Army in the United Kingdom 1939-45 H2664.jpg
+File:The British Army in the United Kingdom 1939-45 H27559.jpg
+File:The British Army in the United Kingdom 1939-45 H3098.jpg
+File:The British Army in the United Kingdom 1939-45 H3669.jpg
+File:The British Army in the United Kingdom 1939-45 H37157.jpg
+File:The British Army in the United Kingdom 1939-45 H378.jpg
+File:The British Army in the United Kingdom 1939-45 H386.jpg
+File:The British Army in the United Kingdom 1939-45 H478.jpg
+File:The British Army in the United Kingdom 1939-45 H483.jpg
+File:The British Army in the United Kingdom 1939-45 H4953A.jpg
+File:The British Army in the United Kingdom 1939-45 H654.jpg
+File:The British Army in the United Kingdom- Evacuation From Dunkirk, May-June 1940 H1686.jpg
+File:The British Expeditionary Force (BEF) in France 1939-1940 O12.jpg
+File:The British Mandate in Palestine 1917-1948 E32160.jpg
+File:The British Occupation of Java SE5661.jpg
+File:The British Occupation of Java SE7146.jpg
+File:The Campaign in Italy, May 1944 TR1800.jpg
+File:The Campaign in North West Europe 1944-45 B12993.jpg
+File:The Campaign in North West Europe 1944-45 B14403.jpg
+File:The Campaign in North West Europe 1944-45 BU1206.jpg
+File:The Caribbean Regiment during the Second World War E31193.jpg
+File:The Caribbean Regiment during the Second World War E31212.jpg
+File:The Dieppe Raid, 19 August 1942 H22580.jpg
+File:The Dieppe Raid, 19 August 1942 H22588.jpg
+File:The Dieppe Raid, 19 August 1942 H22597.jpg
+File:The Dieppe Raid, 19 August 1942 H22604.jpg
 File:The Gate - panoramio.jpg
+File:The Home Guard 1939-45 H12425.jpg
+File:The Home Guard 1939-45 H12631.jpg
+File:The Home Guard in the Second World War H5839.jpg
+File:The Home Guard in the Second World War H5844.jpg
+File:The Home Guard in the Second World War H5848.jpg
+File:The Home Guard, 1940 H5840.jpg
 File:The Longest Yarn - juno beach.jpg
+File:The Narvik Campaign, 1940. N25.jpg
+File:The National Library of Israel, Nadav Man - Bitmuna Collection, Operation Horev Golany-003.jpg
+File:The National Library of Israel, Nadav Man - Bitmuna Collection, Operation Horev Golany-020.jpg
+File:The National Library of Israel, Nadav Man - Bitmuna Collection, Operation Horev Golany-021.jpg
+File:The National Library of Israel, Nadav Man - Bitmuna Collection, Operation Horev Golany-022.jpg
+File:The National Library of Israel, Nadav Man - Bitmuna Collection, Operation Horev Golany-075.jpg
+File:The National Library of Israel, Nadav Man - Bitmuna Collection, Operation Horev Golany-093.jpg
+File:The National Library of Israel, Nadav Man - Bitmuna Collection, Operation Horev Golany-094.jpg
+File:The National Library of Israel, Nadav Man - Bitmuna Collection, Operation Horev Golany-106.jpg
+File:The Polish Independent Carpathian Rifles Brigade in the Siege of Tobruk, 1941 E5565.jpg
+File:The Royal Marines 1939-45 H17700 (cut).jpg
+File:The Royal Marines 1939-45 H17700.jpg
+File:The Royal Marines. With the Royal Marines of the Home Fleet, October and November, 1942. A16289.jpg
+File:The War in the Far East- the Burma Campaign 1941-1945 IND3479.jpg
+File:Thámova, od Pernerovy k tunelu.jpg
+File:Tired and dishevelled troops at Newhaven after the Diepper raid, 19 August 1942. H22626.jpg
 File:Tobruk-1-OverlordMuseum.jpg
 File:Tour at the Bunker museum (9644553794).jpg
+File:Trafostanice u K-S 12a U rybnicku.JPG
+File:Training For War Work- Chiswick Polytechnic, Turnham Green, 1941 D3800.jpg
+File:Tramvaj-bohumin.jpg
+File:Tripod Mounted Bren Gun (8673664404).jpg
+File:Tripod mounted Bren Gun. (8673664162).jpg
+File:Triumph WO3-SW Armoured Bren gun carrier replica pic2.JPG
+File:Triumph WO3-SW Armoured Bren gun carrier replica pic3.JPG
 File:Trnovany (u Žatce) - bunkr C-14 54A-160 Z.jpg
+File:Troops of the 1st Norfolk Regiment during the advance on Wanssum, Holland, 26 November 1944. B12156.jpg
+File:Troops of the 2nd Monmouthshire Regiment leap from their Universal carrier during an exercise near Newry in Northern Ireland, 26 April 1941. H9234.jpg
+File:Troops of the 7th Battalion, the Suffolk Regiment, negotiate barbed-wire obstacles during training on the beach at Sandbanks near Poole, 22 March 1941. H8393.jpg
+File:Troops of the West Yorkshire Regiment warily search Japanese dugouts in Meiktila, Burma, 28 February 1945. SE3287.jpg
 File:Trutnov, Babí, G3-52-D2 (rok 2012; 01).jpg
 File:Trutnov, Babí, G3-52-D2 (rok 2012; 02).jpg
 File:Trutnov, Babí, G3-53-A-180 Z (rok 2012; 01).jpg
@@ -2588,12 +3893,43 @@ File:Trutnov, Babí, T-S 70 (rok 2012; 03).jpg
 File:Trutnov, Babí, T-S 70 (rok 2012; 04).jpg
 File:Trutnov, Babí, T-S 70 (rok 2012; 05).jpg
 File:Trutnov, Babí, T-S 70 (rok 2012; 06).jpg
+File:Trutnov, Babí, T-S 71 (rok 2012; 01).jpg
+File:Trutnov, Babí, T-S 71 (rok 2012; 02).jpg
+File:Trutnov, Babí, T-S 72 (rok 2008; 01).jpg
+File:Trutnov, Babí, T-S 72 (rok 2008; 02).jpg
+File:Trutnov, Babí, T-S 72 (rok 2012; 01).jpg
+File:Trutnov, Babí, T-S 72 (rok 2012; 02).jpg
+File:Trutnov, Babí, T-S 73 (rok 2000).jpg
+File:Trutnov, Babí, T-S 73 (rok 2002; 01).jpg
+File:Trutnov, Babí, T-S 73 (rok 2002; 02).jpg
+File:Trutnov, Babí, T-S 73 (rok 2004).jpg
+File:Trutnov, Babí, T-S 73 (rok 2008; 01).jpg
+File:Trutnov, Babí, T-S 73 (rok 2008; 02).jpg
 File:Trutnov, Babí, T-S 73 (rok 2008; 03).jpg
 File:Trutnov, Babí, T-S 73 (rok 2008; 04).jpg
+File:Trutnov, Babí, T-S 73 (rok 2008; 05).jpg
+File:Trutnov, Babí, T-S 73 (rok 2008; 06).jpg
+File:Trutnov, Babí, T-S 73 (rok 2008; 07).jpg
 File:Trutnov, Babí, T-S 73 (rok 2012; 01).jpg
 File:Trutnov, Babí, T-S 73 (rok 2012; 02).jpg
+File:Trutnov, Babí, T-S 73 (rok 2012; 03).jpg
+File:Trutnov, Babí, T-S 73 (rok 2012; 04).jpg
+File:Trutnov, Babí, T-S 73 (rok 2012; 05).jpg
 File:Trutnov, Babí, T-S 73 (rok 2012; 06).jpg
+File:Trutnov, Babí, T-S 73 (rok 2012; 07).jpg
 File:Trutnov, Babí, T-S 73 (rok 2012; 08).jpg
+File:Trutnov, Babí, T-S 74 (rok 2000).jpg
+File:Trutnov, Babí, T-S 74 (rok 2008).jpg
+File:Trutnov, Babí, T-S 74 (rok 2012; 01).jpg
+File:Trutnov, Babí, T-S 74 (rok 2012; 02).jpg
+File:Trutnov, Babí, T-S 74 (rok 2012; 03).jpg
+File:Trutnov, Babí, T-S 74 (rok 2012; 04).jpg
+File:Trutnov, Babí, T-S 76 (rok 2012; 01).jpg
+File:Trutnov, Babí, T-S 76 (rok 2012; 02).jpg
+File:Trutnov, Babí, T-S 76 (rok 2012; 03).jpg
+File:Trutnov, Babí, T-S 80a (rok 2012; 01).jpg
+File:Trutnov, Babí, T-S 80a (rok 2012; 02).jpg
+File:Trutnov, Babí, T-S 80a (rok 2012; 03).jpg
 File:Trutnov, Babí, T-S 81a (rok 2002).jpg
 File:Trutnov, Babí, T-S 81a (rok 2008; 01).jpg
 File:Trutnov, Babí, T-S 81a (rok 2008; 02).jpg
@@ -2702,12 +4038,18 @@ File:Trutnov, Debrné, T-S 63 (rok 2012; 11).jpg
 File:Trutnov, Debrné, T-S 63 (rok 2012; 12).jpg
 File:Trutnov, Debrné, T-S 63 (rok 2012; 13).jpg
 File:Tschechenigel Raverside-Museum 2024.jpg
+File:Tula defense lines.jpg
 File:Tunnel in Prague from Zizkov-Karlin.jpg
 File:Tunnel to National Memorial, Vitkov (9618429964).jpg
 File:Turany Airport - Hangars (5863923999).jpg
 File:Turany Airport - Hangars (5864481922).jpg
 File:Turany Airport - Hangars (Brno-Tuřany Airport).jpg
+File:Tvrz Bouda - objekt K-S 22a - Krok.jpg
+File:Tvrz Hůrka - Dělostřelecký srub K-S 11 ,,Na svahu,,.jpg
+File:Tvrz-dobrosov-1.jpg
 File:Tvrz-dobrosov-10.jpg
+File:Tvrz-dobrosov-11.jpg
+File:Tvrz-dobrosov-2.jpg
 File:Tvrz-dobrosov-3.jpg
 File:Tvrz-dobrosov-4.jpg
 File:Tvrz-dobrosov-5.jpg
@@ -2715,11 +4057,23 @@ File:Tvrz-dobrosov-6.jpg
 File:Tvrz-dobrosov-7.jpg
 File:Tvrz-dobrosov-8.jpg
 File:Tvrz-dobrosov-9.jpg
+File:Twee brenschutters liggen naast elkaar in positie. Achter hen een jeep en ander, Bestanddeelnr 2921.jpg
+File:Twee militairen poseren met wapens bij de zee, Bestanddeelnr 163-4-4.jpg
 File:Twierdza Stachelberg - 2023.08.22.jpg
 File:Twierdza Stachelberg, bunkier - 2023.08.22.jpg
 File:Twierdza Stachelberg-2023.08.22.jpg
 File:Twierdza Stachelberg-22.08.2023.jpg
+File:Twin Bren gun anti-aircraft mounting at RAF Duxford.jpg
+File:Tysklandsbrigaden, øvelse Skandia III - Fo30141603020010.jpg
+File:Tysklandsbrigaden, øvelse Skandia III - Fo30141603020011.jpg
+File:Túnel de Žižkov - Karlín - 20250727 114543.jpg
+File:Týlová strana objektu CE.JPG
+File:Těchonín, K-S 22a (rok 2000).jpg
 File:Těchonín, K-S 22a (rok 2002).jpg
+File:Těchonín, K-S 22a (rok 2004).jpg
+File:Těchonín, K-S 22a (rok 2005; 01).jpg
+File:Těchonín, K-S 22a (rok 2005; 02).jpg
+File:Udobne check-point.jpg
 File:Uhelný důl, pevnostní silnice (1).jpg
 File:Uhelný důl, pevnostní silnice (2).jpg
 File:Uhrovec, Jankov vŕšok, bunkre (1).jpg
@@ -2746,6 +4100,7 @@ File:Underground facility of the Thomayer University Hospital (7).JPG
 File:Underground facility of the Thomayer University Hospital (8).JPG
 File:Underground facility of the Thomayer University Hospital (9).JPG
 File:Uniforms exhibition of T-S 20 Pláň in Stárkov, Náchod District.jpg
+File:Universal Carrier armoured WW2 vehicles (4958430510).jpg
 File:V.b 102 C light pillbox 2013.jpg
 File:V.b 103 B light pillbox 2013.jpg
 File:V.b 64 C light pillbox 2013.jpg
@@ -2764,9 +4119,31 @@ File:VI. 108 B light pillbox 2016.jpg
 File:VI. 109 C light pillbox 2016.jpg
 File:VTM Lešany - Einmannbunker.jpg
 File:VZ26-light-machine-gun-batey-haosef-1.jpg
+File:Van tijd tot tijd worden de onderdelen, die in Indonesië hun dienst doen, uit de, Bestanddeelnr 781.jpg
 File:Vchod do srubu chráněný krakorcem a ochrannou střílnou.JPG
+File:Vchodový objekt K-S 12a tvrze Hůrka.jpg
 File:Veletice 2024-04-06 light pillbox C-14 48 A-160.jpg
+File:Velké Hoštice, OP-S 10 (rok 2001; 01).jpg
+File:Velké Hoštice, OP-S 10 (rok 2001; 02).jpg
+File:Verkhnyaya Pyshma Tank Museum 2011 174.jpg
+File:Verkhnyaya Pyshma Tank Museum 2011 175.jpg
+File:Verkhnyaya Pyshma Tank Museum 2011 176.jpg
+File:Verkhnyaya Pyshma Tank Museum 2012 0216.jpg
 File:Vermani pri zasledovanju pohorskega bataljona.jpg
+File:Veronica Foster, an employee of the John Inglis Co.jpg
+File:Veronica Foster, ww2 gunsmith, displays a finished Bren gun -c.jpg
+File:VeronicaFoster-RonnieBrenGunGirl-smoke.jpg
+File:Victory Show Cosby 2012 Picture 225 (7971961674).jpg
+File:Victory Show Cosby UK 06-09-2015 WW2 re-enactment Trade stalls Militaria personal gear replicas reprod. zaphad1 Flickr CCBY2.0 Camo net cans boilersuitflying suit webbing tents etc IMG 3861.jpg
+File:Victory Show Cosby UK 06-09-2015 WW2 re-enactment display Trade stalls Misc. militaria personal gear replicas reprod. originals collect. zaphad1 Flickr CCBY2.0 Brengun machinegun magazine etc IMG 3838.jpg
+File:Victory Show Cosby UK 06-09-2015 WW2 re-enactment display Trade stalls Misc. militaria personal gear replicas reprod. originals collect. zaphad1 Flickr CCBY2.0 Brengun machinegun magazine etc IMG 3839.jpg
+File:Victory Show Cosby UK 06-09-2015 WW2 re-enactment display Trade stalls Misc. militaria personal gear replicas reprod. originals collect. zaphad1 Flickr CCBY2.0 Brengun tent etc IMG 3836.jpg
+File:Victory Show Cosby UK 06-09-2015 WW2 re-enactment display Trade stalls Misc. militaria personal gear replicas reprod. originals collect. zaphad1 Flickr CCBY2.0 Brengun tent weapons visitors etc IMG 3837.jpg
+File:Victory Show Cosby UK 06-09-2015 WW2 re-enactment display Trade stalls Misc. militaria personal gear replicas reprod. originals collect. zaphad1 Flickr CCBY2.0 Brengun visitors etc IMG 3835.jpg
+File:Vier militairen poseren met wapens bij de zee, Bestanddeelnr 163-4-2.jpg
+File:Vier militairen poseren met wapens bij de zee, Bestanddeelnr 163-4-3.jpg
+File:Vietnam Military History Museum in 2014 A 35.jpg
+File:View of a drum in the National Army Museum - geograph.org.uk - 5380953.jpg
 File:Vltavský luh, řopík 01a.jpg
 File:Vltavský luh, řopík 02a.jpg
 File:Vltavský luh, řopík 02b.jpg
@@ -2820,6 +4197,7 @@ File:Vrbno pod Pradědem, Železná, LO vz. 37 XXI-14-A-120 ŠP (2021-08-18; 01)
 File:Vrbno pod Pradědem, Železná, LO vz. 37 XXI-14-A-120 ŠP (2021-08-18; 02).jpg
 File:Vrchovany, bunkr Q1-16-A-180 (01).jpg
 File:Vrchovany, bunkr Q1-17-A-180.jpg
+File:Vstupni uzaver R–S 79a.JPG
 File:Vypustek (1804).jpg
 File:Vypustek 01.JPG
 File:Vypustek 02.jpg
@@ -2868,6 +4246,7 @@ File:Vypustek.JPG
 File:Vypustek2013 50.jpg
 File:Vystava S padakem nad hlavou.JPG
 File:Vystava v Praze - 1965.jpg
+File:Vytrváme!.png
 File:Vzor 37 B-712A-160Z (10).JPG
 File:Vzor 37 B-712A-160Z (11).JPG
 File:Vzor 37 B-712A-160Z (12).JPG
@@ -2883,16 +4262,77 @@ File:Vzor 37A Milostovice 02.jpg
 File:Vzor 37A Milostovice 03.jpg
 File:Vzor 37A Milostovice 04.jpg
 File:Výhled ze srubu Můstek.jpg
+File:Větrací štola sever, Folimanka Vinohrady (01).jpg
+File:Větrací štola sever, Folimanka Vinohrady (02).jpg
+File:Větrací štola sever, Folimanka Vinohrady (03).jpg
+File:Větrací štola západ, Folimanka Vinohrady (01).jpg
+File:Větrací štola západ, Folimanka Vinohrady (02).jpg
+File:Větrací štola západ, Folimanka Vinohrady (03).jpg
+File:Větrací štola západ, Folimanka Vinohrady (04).jpg
+File:Větrací štola západ, Folimanka Vinohrady (05).jpg
+File:Větrací štola západ, Folimanka Vinohrady (06).jpg
+File:Vřesina, MO-S 24 (2015-05-01; 01).jpg
+File:Vřesina, MO-S 24 (2015-05-01; 02).jpg
+File:Vřesina, MO-S 24 (2015-05-01; 03).jpg
+File:Vřesina, MO-S 24 (2015-05-01; 04).jpg
+File:Vřesina, MO-S 24 (2015-05-01; 05).jpg
+File:Vřesina, MO-S 24 (2015-05-01; 06).jpg
+File:Vřesina, MO-S 24 (2015-05-01; 07).jpg
+File:Vřesina, MO-S 24 (rok 2001).jpg
+File:Vřesina, MO-S 25 (2015-05-01; 01).jpg
+File:Vřesina, MO-S 25 (2015-05-01; 02).jpg
+File:Vřesina, MO-S 25 (2015-05-01; 03).jpg
+File:Vřesina, MO-S 25 (2015-05-01; 04).jpg
 File:Vřesina, pravý protitankový příkop u MO-S 24 (2015-05-01; 01).jpg
+File:WW2 Battle Reenactment (3666516950).jpg
+File:WW2 Liberation of France c 1944-45 Allied US troops Normandy etc Libération de la France à la fin de la Seconde Guerre mondiale Photos en couleurs Photos Normandie Flickr soldiers beach ruins etc 13.jpg
+File:Wachtpost beveiligd met zandzakken, Bestanddeelnr 255-8192.jpg
+File:Wachtpost bij interneringskamp Vught Een bren op een tafel, Bestanddeelnr 31017 077.jpg
+File:War Office Second World War Official Collection B10047.jpg
+File:War Office Second World War Official Collection B12458.jpg
+File:War Office Second World War Official Collection B8919.jpg
+File:War Office Second World War Official Collection E16585.jpg
+File:War Office Second World War Official Collection E17308.jpg
+File:War damages in Kyiv, 15 March 2022 (51).jpg
+File:Waranedja Soldaat Asmita en soldaat Ikim van het 1ste peloton 3de compie Andjin, Bestanddeelnr 386-5-3.jpg
+File:Warsaw Uprising by Gąszewski - Kampinos Regiment leaving for Warsaw.jpg
+File:Wartime in the Scillies- Everyday Life on the Scilly Isles, April 1941 D3337.jpg
 File:Weapon room of T-S 20 Pláň in Stárkov, Náchod District.jpg
+File:Weapons (8037197288).jpg
+File:Weapons training at Abu Hydra Range during Operation Desert Shield DM-ST-91-12003.jpg
 File:Weshor-2015-05-30-Bunkr-Obr01.JPG
 File:Weshor-2015-05-30-Bunkr-Obr02.JPG
+File:West Indians in Britain during the Second World War H15869.jpg
+File:Wildhoef te Bloemendaal, Bestanddeelnr 901-5420.jpg
+File:Willys-latrun-1-1.jpg
+File:Willys-latrun-1-2.jpg
+File:World War II (10469837186).jpg
 File:XX Century Weapons (5519565490).jpg
+File:YM-battlefield-Bren-1.jpg
+File:YaTB on Bolshaya Kaluzhskaya.jpg
+File:Yad Mordechai 997008137151605171.jpg
+File:Yad Mordechai 997008137151705171.jpg
+File:Yad Mordechai 997008137151805171.jpg
+File:Yatsenyuk visit to Russia-Ukraine barrier, Oct 2014, 13.jpg
+File:Yoddhasthal Permanent Exhibition Southern command Indian Army Bhopal (38).jpg
+File:Yoddhasthal Permanent Exhibition Southern command Indian Army Bhopal (39).jpg
+File:Yoddhasthal Permanent Exhibition Southern command Indian Army Bhopal (51).jpg
+File:Yoddhasthal Permanent Exhibition Southern command Indian Army Bhopal (53).jpg
+File:Yodhasthal (Bhopal, India) (4).jpg
+File:Yodhasthal (Bhopal, India) (5).jpg
+File:Yom Ha'atzmaut parade (997009857424505171).jpg
+File:ZB Vz. 39 RIGHT.jpg
+File:ZB vz. 26 Waffen-SS.png
 File:ZB vz. 26 at Great Patriotic War museum in Smolensk.jpg
 File:ZB-26 in Taipei.JPG
+File:ZB-53 Czechoslovak machine gun. (49193286337).jpg
+File:ZB37. IMG 2581.jpg
+File:ZBvz.37.JPG
+File:Zb26.jpg
 File:Zemljamka nedaleko Nýrova.JPG
 File:Zemljanka - partyzánský bunkr (Pivonín) - interiér.JPG
 File:Zemljanka - partyzánský bunkr (Pivonín) - vchod.JPG
+File:Zkušební a výcvikový objekt CE týl celkový pohled.JPG
 File:Zlatá Olešnice, T-S 64 (rok 2012; 01).jpg
 File:Zlatá Olešnice, T-S 64 (rok 2012; 02).jpg
 File:Zlatá Olešnice, T-S 64 (rok 2012; 03).jpg
@@ -2944,12 +4384,16 @@ File:Zlaté návrší je opravdu zlaté.jpg
 File:Zoo Praha, štola.jpg
 File:Zvon B-S 1 Sterkoviste 1.JPG
 File:Zvon B-S 1 Sterkoviste 2.JPG
+File:Zvon na objektu CE.JPG
 File:Zvon srubu B-S 4.JPG
 File:Zvon srubu K-S 12b.JPG
 File:Záblatí 23 – kryt.jpg
 File:Zámek Rosice, bunkr 01.jpg
 File:Ústí nad Labem - Hostovice, bunkr XI.-188-B obr01.jpg
 File:Ústí nad Labem - ulice U Chemičky, protiletecký kryt.jpg
+File:Ćwiczenia 1 DPanc. (PSZ) przed inwazją na kontynent - żołnierz z rkm Bren Mk I NAC 24-372-7.jpg
+File:Ćwiczenia polskiej piechoty w Szkocji (21-127-3).jpg
+File:Ćwiczenia polskiej piechoty w Szkocji (21-127-8).jpg
 File:Černá Hať 2022-11-26 D-18 1 A-120 light pillbox 3.jpg
 File:Černá Hať 2022-11-26 D-18 1 A-120 light pillbox 4.jpg
 File:Černá Hať 2022-11-26 D-18 1 A-120 light pillbox 5.jpg
@@ -2975,6 +4419,11 @@ File:Československé opevnění, ŘOP vzor 37, ul. Na Hrázi, Beroun, okr. Bero
 File:Československé opevnění, ŘOP vzor 37, ul. Na Hrázi, Beroun, okr. Beroun, Středočeský kraj 08.JPG
 File:Československé opevnění, ŘOP vzor 37, ul. Na Hrázi, Beroun, okr. Beroun, Středočeský kraj 09.JPG
 File:České Petrovice bunkier 4.jpg
+File:České Petrovice, K-S 46 (rok 2002).jpg
+File:České Petrovice, K-S 47 (rok 2002).jpg
+File:České Petrovice, K-S 48 (rok 2002).jpg
+File:České Petrovice, K-S 49 (rok 2002).jpg
+File:České Petrovice, K-S 50 (rok 2002).jpg
 File:Čížov (Horní Břečkov) - budova celního úřadu u Hardeggského mostu, pevnůstka.jpg
 File:Čížov (Horní Břečkov) - návštěvnické centrum NPP, nárožní objekt.jpg
 File:ŘOP 1, Prachatice.jpg
@@ -3558,12 +5007,125 @@ File:Šatov, MJ-S 3 (rok 2010; 01).jpg
 File:Šatov, MJ-S 3 (rok 2010; 02).jpg
 File:Šatov, MJ-S 3 (rok 2010; 03).jpg
 File:Šatov, MJ-S 3 (rok 2010; 04).jpg
+File:Šibenice.jpg
+File:Šilheřovice, MO-S 10 (2015-05-08; 01).jpg
+File:Šilheřovice, MO-S 10 (2015-05-08; 02).jpg
+File:Šilheřovice, MO-S 10 (2015-05-08; 03).jpg
+File:Šilheřovice, MO-S 10 (2015-05-08; 04).jpg
+File:Šilheřovice, MO-S 10 (2015-05-08; 05).jpg
+File:Šilheřovice, MO-S 10 (2015-05-08; 06).jpg
+File:Šilheřovice, MO-S 10 (2015-05-08; 07).jpg
+File:Šilheřovice, MO-S 11 (2015-05-08; 01).jpg
+File:Šilheřovice, MO-S 11 (2015-05-08; 02).jpg
+File:Šilheřovice, MO-S 11 (2015-05-08; 03).jpg
+File:Šilheřovice, MO-S 11 (2015-05-08; 04).jpg
+File:Šilheřovice, MO-S 11 (2015-05-08; 05).jpg
+File:Šilheřovice, MO-S 11 (2015-05-08; 06).jpg
+File:Šilheřovice, MO-S 11 (2015-05-08; 07).jpg
+File:Šilheřovice, MO-S 12 (2015-05-08; 01).jpg
+File:Šilheřovice, MO-S 12 (2015-05-08; 02).jpg
+File:Šilheřovice, MO-S 12 (2015-05-08; 03).jpg
+File:Šilheřovice, MO-S 12 (2015-05-08; 04).jpg
+File:Šilheřovice, MO-S 12 (2015-05-08; 05).jpg
+File:Šilheřovice, MO-S 12 (2015-05-08; 06).jpg
+File:Šilheřovice, MO-S 12 (2015-05-08; 07).jpg
+File:Šilheřovice, MO-S 12 (2015-05-08; 08).jpg
+File:Šilheřovice, MO-S 13 (2015-05-08; 01).jpg
+File:Šilheřovice, MO-S 13 (2015-05-08; 02).jpg
+File:Šilheřovice, MO-S 13 (2015-05-08; 03).jpg
+File:Šilheřovice, MO-S 13 (2015-05-08; 04).jpg
+File:Šilheřovice, MO-S 13 (2015-05-08; 05).jpg
+File:Šilheřovice, MO-S 13 (2015-05-08; 06).jpg
+File:Šilheřovice, MO-S 13 (2015-05-08; 07).jpg
+File:Šilheřovice, MO-S 13 (2015-05-08; 08).jpg
+File:Šilheřovice, MO-S 14 (2015-05-08; 01).jpg
+File:Šilheřovice, MO-S 14 (2015-05-08; 02).jpg
+File:Šilheřovice, MO-S 14 (2015-05-08; 03).jpg
+File:Šilheřovice, MO-S 14 (2015-05-08; 04).jpg
+File:Šilheřovice, MO-S 17 (2015-05-01; 01).jpg
+File:Šilheřovice, MO-S 17 (2015-05-01; 02).jpg
+File:Šilheřovice, MO-S 17 (2015-05-01; 03).jpg
+File:Šilheřovice, MO-S 17 (2015-05-01; 04).jpg
+File:Šilheřovice, MO-S 17 (2015-05-01; 05).jpg
+File:Šilheřovice, MO-S 17 (2015-05-01; 06).jpg
+File:Šilheřovice, MO-S 17 (2015-05-01; 07).jpg
+File:Šilheřovice, MO-S 17 (2015-05-01; 08).jpg
+File:Šilheřovice, MO-S 17 (2015-05-01; 09).jpg
+File:Šilheřovice, MO-S 17 (2015-05-01; 10).jpg
+File:Šilheřovice, MO-S 18 (2015-05-01; 01).jpg
+File:Šilheřovice, MO-S 18 (2015-05-01; 02).jpg
+File:Šilheřovice, MO-S 18 (2015-05-01; 03).jpg
+File:Šilheřovice, MO-S 18 (2015-05-01; 04).jpg
 File:Šilheřovice, MO-S 18 (2015-05-01; 05).jpg
+File:Šilheřovice, MO-S 18 (rok 2001).jpg
+File:Šilheřovice, MO-S 6 (2015-05-08; 01).jpg
+File:Šilheřovice, MO-S 6 (2015-05-08; 02).jpg
+File:Šilheřovice, MO-S 6 (2015-05-08; 03).jpg
+File:Šilheřovice, MO-S 6 (2015-05-08; 04).jpg
+File:Šilheřovice, MO-S 6 (2015-05-08; 05).jpg
+File:Šilheřovice, MO-S 6 (2015-05-08; 06).jpg
+File:Šilheřovice, MO-S 6 (2015-05-08; 07).jpg
+File:Šilheřovice, MO-S 6 (2015-05-08; 08).jpg
+File:Šilheřovice, MO-S 6 (rok 2001).jpg
+File:Šilheřovice, MO-S 7 (2015-05-08; 01).jpg
+File:Šilheřovice, MO-S 7 (2015-05-08; 02).jpg
+File:Šilheřovice, MO-S 7 (2015-05-08; 03).jpg
+File:Šilheřovice, MO-S 7 (2015-05-08; 04).jpg
+File:Šilheřovice, MO-S 7 (2015-05-08; 05).jpg
+File:Šilheřovice, MO-S 7 (2015-05-08; 06).jpg
+File:Šilheřovice, MO-S 7 (2015-05-08; 07).jpg
+File:Šilheřovice, MO-S 7 (2015-05-08; 08).jpg
+File:Šilheřovice, MO-S 7 (2015-05-08; 09).jpg
+File:Šilheřovice, MO-S 7 (2015-05-08; 10).jpg
+File:Šilheřovice, MO-S 7 (rok 2001).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 01).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 02).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 03).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 04).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 05).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 06).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 07).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 08).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 09).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 10).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 11).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 12).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 13).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 14).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 15).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 16).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 17).jpg
+File:Šilheřovice, MO-S 8 (2015-05-08; 18).jpg
+File:Šilheřovice, MO-S 8 (rok 2001; 01).jpg
+File:Šilheřovice, MO-S 8 (rok 2001; 02).jpg
+File:Šilheřovice, MO-S 9 (2015-05-08; 01).jpg
+File:Šilheřovice, MO-S 9 (2015-05-08; 02).jpg
+File:Šilheřovice, MO-S 9 (2015-05-08; 03).jpg
+File:Šilheřovice, MO-S 9 (2015-05-08; 04).jpg
+File:Šilheřovice, MO-S 9 (2015-05-08; 05).jpg
+File:Šilheřovice, MO-S 9 (2015-05-08; 06).jpg
+File:Šilheřovice, MO-S 9 (2015-05-08; 07).jpg
+File:Šilheřovice, MO-S 9 (2015-05-08; 08).jpg
 File:Šilheřovice, levý protitankový příkop u MO-S 13 (2015-05-08; 01).jpg
 File:Šilheřovice, levý protitankový příkop u MO-S 13 (2015-05-08; 02).jpg
 File:Šilheřovice, levý protitankový příkop u MO-S 13 (2015-05-08; 03).jpg
 File:Šilheřovice, levý protitankový příkop u MO-S 9 (2015-05-08; 01).jpg
 File:Šilheřovice, levý protitankový příkop u MO-S 9 (2015-05-08; 02).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 01).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 02).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 03).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 04).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 05).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 06).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 07).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 08).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 09).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 10).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 11).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 12).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 13).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 14).jpg
+File:Šilheřovice, opevněná studánka u MO-S 12 a MO-S 13 (2015-05-08; 15).jpg
 File:Šilheřovice, pravý protitankový příkop u MO-S 10 (2015-05-08; 01).jpg
 File:Šilheřovice, pravý protitankový příkop u MO-S 13 (2015-05-08; 01).jpg
 File:Šilheřovice, pravý protitankový příkop u MO-S 13 (2015-05-08; 02).jpg
@@ -3572,6 +5134,13 @@ File:Šilheřovice, pravý protitankový příkop u MO-S 14 (2015-05-08; 01).jpg
 File:Šilheřovice, pravý protitankový příkop u MO-S 8 (2015-05-08; 01).jpg
 File:Šilheřovice, pravý protitankový příkop u MO-S 8 (2015-05-08; 02).jpg
 File:Šilheřovice, pravý protitankový příkop u MO-S 8 (2015-05-08; 03).jpg
+File:Štitina, bunkr VI.jpg
+File:Štítina, OP-S 6 (rok 2001).jpg
+File:Štítina, bunkr II.jpg
+File:Štítina, bunkr III.jpg
+File:Štítina, bunkr IV.jpg
+File:Štítina, bunkr V.jpg
+File:Štítina, bunkr.jpg
 File:Šumperský zámek - kostel a radnice z okna zámku.jpg
 File:Šumperský zámek - vstup do protileteckého krytu1.jpg
 File:Šumperský zámek -protiletecký kryt1.jpg
@@ -3586,6 +5155,39 @@ File:Železní ježci nad Březinkou.jpg
 File:Železobetonový ježek.JPG
 File:Žižkovský tunel (01).jpg
 File:Žižkovský tunel (02).jpg
+File:Žižkovský tunel 303 metrů.jpg
 File:Žižkovský tunel pro pěší, Praha 3 - panoramio.jpg
+File:Žižkovský tunel.jpg
+File:Бойцы инженерных частей в Ленинграде отправляются на строительство оборонительных сооружений.jpg
+File:Несение службы военнослужащими ВДВ на блокпостах в Киевской области 008.png
+File:Передова на північних околицях Авдіївки (27422665472).jpg
+File:Противотанковые ежи и баррикады у комбината «Правда».jpg
+File:Противотанковые ежи на границе Восточной Пруссии. Август 1944 г.png
+File:Разминирование сельхозугодий в Херсонской области 005.png
+File:Саратов Парк Победы противотанковые ежи.jpg
+File:Советские военнослужащие несут новогоднюю елку на передовые позиции.jpg
 File:Советские партизаны одного из украинских соединений в строю.jpg
+File:הבריגדה היהודית באיטליה, חיילים בגבול האוסטרי-ZKlugerPhotos-00132pw-0907170685137df4.jpg
+File:המחלקה הגרמנית בבריגדה היהודית - CAMPROSSO - סדרת אימונים-154307.jpg
+File:המחלקה הגרמנית בבריגדה היהודית - בסדרת אימונים - CAMPROSSO-154314.jpg
+File:הסליק בקיבוץ יגור - עמק זבולון (78).JPG
+File:הסליק בקיבוץ יגור - עמק זבולון (87).JPG
+File:חטיבת הנגב - 10 - חיות הנגב - במשמר הנגב. צבי ציפר-139443.jpg
+File:חטיבת הנגב - 10 - חיות הנגב - משמר הנגב- על הפילבוקס. יעקב (יקי) גולדמן עמוס קר-139467.jpg
+File:חטיבת הנגב - 2 - הגדוד השני - במאבק על התעבורה לנגב - בדיקת מקלע ברן לקראת ל-139083.jpg
+File:חטיבת הנגב - 2 - הישובים בהתבצרות ובלחימה - קיבוץ סעד. אימונים בנשק הצכי-139219.jpg
+File:חטיבת הראל - הגדוד החמישי - 1 - ההגנה על בית הקרן הקיימת לישראל בבית-דגון - בעמד-135665.jpg
+File:חטיבת הראל הגדוד הרביעי הפורצים 1 - מבצע יבוסי - לוחמים באזור קריית ענבים-153424.jpg
+File:חטיבת יפתח - הגדוד הראשון - 2 - מבצע גיס (גבעתי-יפתח-סרגיי) - קיבוץ גת במצור-134711.jpg
+File:חטיבת יפתח - הגדוד השלישי - 2 - המערכה על צפת - הכשרת עי-גב - במשלט בין הר כנען-135247.jpg
+File:חטיבת יפתח - הגדוד השלישי - הכשרות - 9 - הכשרת הצופים ד עין-גב - במשלט בין הר כ-135914.jpg
+File:חטיבת יפתח הגדוד השני גדוד הנגב - אימונים - מעלה החמישה - אימוני ירי במקלע ברן-147457.jpg
+File:טקס דתי צבאי, ראש השנה, תל אביב-ZKlugerPhotos-00132kh-090717068512a0ff.jpg
+File:טקס צבאי דתי, ראש השנה, תל אביב-ZKlugerPhotos-00132kh-090717068512a0fb.jpg
+File:מערת הפלמח - עמק יזרעאל והגלבוע (15).JPG
+File:מערת הפלמח - עמק יזרעאל והגלבוע (16).JPG
+File:מערת הפלמח - עמק יזרעאל והגלבוע (17).JPG
+File:מקלע ברן על משורין בגבול הצפון 1939 - iיהודה בן דודi btm2573.jpeg
+File:משחררי צפת חדש.jpg
 File:江门19491025.jpg
+File:영국군인들이 낙동강 전선에서 전투에 임하고 있는 모습.jpg

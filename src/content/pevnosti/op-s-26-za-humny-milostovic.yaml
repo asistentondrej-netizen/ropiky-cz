@@ -14,4 +14,12 @@ sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
-photos: []
+
+# === MÉDIA ===
+photos:
+  - url: /img/forts/op-s-26.jpg
+    alt: "OP-S 26 „Za humny Milostovic\" — OP-S 26"
+    author: "Lukáš Malý"
+    license: CC0
+    source: https://commons.wikimedia.org/wiki/File%3AOP-S%2026.JPG
+

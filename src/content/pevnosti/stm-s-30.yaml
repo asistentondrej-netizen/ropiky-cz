@@ -36,4 +36,12 @@ sources:
 - OpenStreetMap (OSM element way/142124864)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
-photos: []
+
+# === MÉDIA ===
+photos:
+  - url: /img/forts/star-m-sto-stm-s-30-rok-2003-01.jpg
+    alt: "STM-S-30 — STM-S-30"
+    author: "User:Harold"
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File%3AStar%C3%A9%20M%C4%9Bsto%2C%20StM-S%2030%20%28rok%202003%3B%2001%29.jpg
+
