@@ -92,6 +92,7 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
       <!-- Rychlé předvolby -->
       <div class="preset-bar" aria-label="Rychlé předvolby">
         <span class="preset-label">Rychlá volba:</span>
+        <button class="preset-btn preset-btn--featured" data-preset="prvni-vylet" type="button" title="Muzea s průvodcem a volně přístupné objekty s dobrou dostupností — ideální pro začátek">🎯 Pro první výlet</button>
         <button class="preset-btn" data-preset="muzea" type="button">🏛️ Muzea</button>
         <button class="preset-btn" data-preset="tvrze" type="button">🏰 Dělostřelecké tvrze</button>
         <button class="preset-btn" data-preset="ropiky" type="button">🔹 Řopíky</button>
@@ -253,6 +254,14 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
                 data-has-photos={(p.data.photos?.length ?? 0) > 0 ? 'yes' : 'no'}
                 data-has-floorplan={p.data.floorplan ? 'yes' : 'no'}
                 data-vstupne={p.data.navsteva?.vstupne?.zdarma === true ? 'zdarma' : ''}
+                data-first-trip={(() => {
+                  const s = p.data.state;
+                  const pr = p.data.navsteva?.pristupnost;
+                  const easyAccess = pr === 'auto-az-k-objektu' || pr === 'auto-kratka-chuze';
+                  if (s === 'muzeum') return 'yes';
+                  if (s === 'pristupny' && easyAccess) return 'yes';
+                  return 'no';
+                })()}
                 data-title={p.data.title.toLowerCase()}
                 data-code={p.data.code.toLowerCase()}
               >
@@ -336,6 +345,20 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
       color: white;
       border-color: #7A3B2E;
       font-weight: 600;
+    }
+    .preset-btn--featured {
+      background: #7A3B2E;
+      color: white;
+      border-color: #7A3B2E;
+      font-weight: 600;
+    }
+    .preset-btn--featured:hover {
+      background: #5c2c23;
+      border-color: #5c2c23;
+    }
+    .preset-btn--featured.is-active {
+      background: var(--ink);
+      border-color: var(--ink);
     }
     .filter-group {
       display: flex;
@@ -559,12 +582,12 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
 
   <script>
     const PER_PAGE = 50;
-    type FilterKey = 'type' | 'state' | 'region' | 'odolnost' | 'pristupnost' | 'pamatka' | 'has-photos' | 'has-floorplan' | 'vstupne';
-    const FILTER_KEYS: FilterKey[] = ['type', 'state', 'region', 'odolnost', 'pristupnost', 'pamatka', 'has-photos', 'has-floorplan', 'vstupne'];
+    type FilterKey = 'type' | 'state' | 'region' | 'odolnost' | 'pristupnost' | 'pamatka' | 'has-photos' | 'has-floorplan' | 'vstupne' | 'first-trip';
+    const FILTER_KEYS: FilterKey[] = ['type', 'state', 'region', 'odolnost', 'pristupnost', 'pamatka', 'has-photos', 'has-floorplan', 'vstupne', 'first-trip'];
     const filterState: Record<string, string> = {
       type: 'all', state: 'all', region: 'all',
       odolnost: 'all', pristupnost: 'all', pamatka: 'all',
-      'has-photos': 'all', 'has-floorplan': 'all', vstupne: 'all',
+      'has-photos': 'all', 'has-floorplan': 'all', vstupne: 'all', 'first-trip': 'all',
     };
     let currentPage = 1;
 
@@ -595,6 +618,7 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
       if (state['has-photos'] !== 'all' && item.dataset.hasPhotos !== state['has-photos']) return false;
       if (state['has-floorplan'] !== 'all' && item.dataset.hasFloorplan !== state['has-floorplan']) return false;
       if (state.vstupne !== 'all' && item.dataset.vstupne !== state.vstupne) return false;
+      if (state['first-trip'] !== 'all' && item.dataset.firstTrip !== state['first-trip']) return false;
       return true;
     }
 
@@ -767,6 +791,10 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
       // Reset vše
       FILTER_KEYS.forEach((k) => { filterState[k] = 'all'; });
       switch (preset) {
+        case 'prvni-vylet':
+          filterState['first-trip'] = 'yes';
+          filterState['has-photos'] = 'yes';
+          break;
         case 'muzea':
           filterState.state = 'muzeum';
           break;

@@ -8,13 +8,45 @@ export async function getStaticPaths() {
   const entries = await getCollection('pevnosti');
   return entries.map((entry) => ({
     params: { slug: entry.id.replace(/\.json$|\.yml$|\.yaml$/, '') },
-    props: { entry },
+    props: { entry, allEntries: entries },
   }));
 }
 
-const { entry } = Astro.props;
+const { entry, allEntries } = Astro.props;
 const d = entry.data;
 const slug = entry.id.replace(/\.json$|\.yml$|\.yaml$/, '');
+
+// ---------- Výpočet nejbližších objektů ----------
+function haversineKm(lat1: number, lon1: number, lat2: number, lon2: number): number {
+  const R = 6371;
+  const dLat = ((lat2 - lat1) * Math.PI) / 180;
+  const dLon = ((lon2 - lon1) * Math.PI) / 180;
+  const a =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos((lat1 * Math.PI) / 180) * Math.cos((lat2 * Math.PI) / 180) * Math.sin(dLon / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(a));
+}
+
+const NEARBY_RADIUS_KM = 5;
+const NEARBY_MAX = 5;
+
+const nearbyAll = allEntries
+  .filter((e: any) => e.id !== entry.id && e.data.location?.lat && e.data.location?.lon)
+  .map((e: any) => ({
+    slug: e.id.replace(/\.json$|\.yml$|\.yaml$/, ''),
+    title: e.data.title,
+    code: e.data.code,
+    type: e.data.type,
+    state: e.data.state,
+    lat: e.data.location.lat,
+    lon: e.data.location.lon,
+    distance: haversineKm(d.location.lat, d.location.lon, e.data.location.lat, e.data.location.lon),
+  }))
+  .sort((a: any, b: any) => a.distance - b.distance);
+
+const nearby = nearbyAll.filter((n: any) => n.distance <= NEARBY_RADIUS_KM).slice(0, NEARBY_MAX);
+// Fallback — pokud nic v 5 km, ukážeme 3 nejbližší objekty bez ohledu na radius
+const nearbyFallback = nearby.length === 0 ? nearbyAll.slice(0, 3) : [];
 
 // ---------- Slovníky ----------
 const stateLabels: Record<string, string> = {
@@ -559,6 +591,58 @@ const hasAsideContent = d.navsteva || hasRelated || true; // citace vždy
             </section>
           )}
 
+          {/* POLOHA + NEJBLIŽŠÍ OBJEKTY */}
+          <section id="poloha" style="margin-top: var(--s6);">
+            <h2>Poloha a okolní objekty</h2>
+            <div
+              id="mini-mapa"
+              class="mini-mapa"
+              data-lat={d.location.lat}
+              data-lon={d.location.lon}
+              data-code={d.code}
+              data-title={d.title}
+              data-nearby={JSON.stringify(nearby)}
+              aria-label={`Mapa polohy ${d.title}`}
+            ></div>
+            <div style="margin-top: var(--s2); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: var(--s2); font-size: 0.8125rem; color: var(--ink-light);">
+              <span>Mapové podklady © <a href="https://www.openstreetmap.org/copyright" rel="noopener" target="_blank">OpenStreetMap</a> přispěvatelé</span>
+              <a href={`/mapa?focus=${d.location.lat},${d.location.lon}`}>Otevřít v plné mapě →</a>
+            </div>
+
+            {nearby.length > 0 ? (
+              <>
+                <h3 style="margin-top: var(--s5);">Nejbližší objekty (do {NEARBY_RADIUS_KM} km)</h3>
+                <ul class="nearby-list">
+                  {nearby.map((n: any) => (
+                    <li class="nearby-item">
+                      <a href={`/katalog/${n.slug}`}>
+                        <span class="nearby-item__code mono">{n.code}</span>
+                        <span class="nearby-item__title">{n.title}</span>
+                        <span class="nearby-item__distance mono">{n.distance < 1 ? `${Math.round(n.distance * 1000)} m` : `${n.distance.toFixed(1)} km`}</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            ) : nearbyFallback.length > 0 ? (
+              <>
+                <h3 style="margin-top: var(--s5);">Nejbližší objekty</h3>
+                <p style="font-size: 0.9375rem; color: var(--ink-med);">V rádiu {NEARBY_RADIUS_KM} km nejsou další katalogizované objekty. Nejbližší:</p>
+                <ul class="nearby-list">
+                  {nearbyFallback.map((n: any) => (
+                    <li class="nearby-item">
+                      <a href={`/katalog/${n.slug}`}>
+                        <span class="nearby-item__code mono">{n.code}</span>
+                        <span class="nearby-item__title">{n.title}</span>
+                        <span class="nearby-item__distance mono">{n.distance.toFixed(1)} km</span>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            ) : null}
+          </section>
+
           {/* JAK POMOCI */}
           <section style="margin-top: var(--s6); padding: var(--s4); background: var(--paper-dark); border: 1px solid var(--line);">
             <h3 style="margin-top: 0;">Pomozte zlepšit tento záznam</h3>
@@ -749,6 +833,76 @@ const hasAsideContent = d.navsteva || hasRelated || true; // citace vždy
     </div>
   </div>
 
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin="" is:inline></script>
+
+  <script is:inline>
+    (function () {
+      const el = document.getElementById('mini-mapa');
+      if (!el || typeof L === 'undefined') return;
+      const lat = parseFloat(el.dataset.lat);
+      const lon = parseFloat(el.dataset.lon);
+      const code = el.dataset.code || '';
+      const title = el.dataset.title || '';
+      let nearby = [];
+      try { nearby = JSON.parse(el.dataset.nearby || '[]'); } catch (e) {}
+
+      const map = L.map(el, {
+        center: [lat, lon],
+        zoom: 13,
+        scrollWheelZoom: false,
+        dragging: !L.Browser.mobile, // na mobilu kvůli skrolování
+        tap: true,
+        attributionControl: false,
+      });
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+      }).addTo(map);
+
+      // Hlavní objekt — zvýrazněný marker
+      const mainIcon = L.divIcon({
+        className: 'mini-marker mini-marker--main',
+        html: `<span>${code}</span>`,
+        iconSize: [46, 24],
+        iconAnchor: [23, 12],
+      });
+      L.marker([lat, lon], { icon: mainIcon })
+        .addTo(map)
+        .bindPopup(`<strong>${title}</strong><br><span style="font-family:monospace;">${code}</span>`);
+
+      // Sousední objekty
+      const bounds = L.latLngBounds([[lat, lon]]);
+      nearby.forEach((n) => {
+        const icon = L.divIcon({
+          className: 'mini-marker mini-marker--neighbor',
+          html: `<span>${n.code}</span>`,
+          iconSize: [46, 22],
+          iconAnchor: [23, 11],
+        });
+        const m = L.marker([n.lat, n.lon], { icon }).addTo(map);
+        const distLabel = n.distance < 1 ? `${Math.round(n.distance * 1000)} m` : `${n.distance.toFixed(1)} km`;
+        m.bindPopup(
+          `<strong><a href="/katalog/${n.slug}">${n.title}</a></strong><br>` +
+          `<span style="font-family:monospace;">${n.code}</span> · ${distLabel}`
+        );
+        bounds.extend([n.lat, n.lon]);
+      });
+
+      if (nearby.length > 0) {
+        map.fitBounds(bounds, { padding: [40, 40], maxZoom: 14 });
+      }
+
+      // Klik aktivuje scroll wheel zoom (aby stránka šla normálně skrolovat)
+      map.on('click', () => map.scrollWheelZoom.enable());
+      map.on('mouseout', () => map.scrollWheelZoom.disable());
+    })();
+  </script>
+
   <style>
     @media (max-width: 900px) {
       .fort-detail-grid {
@@ -756,6 +910,98 @@ const hasAsideContent = d.navsteva || hasRelated || true; // citace vždy
       }
       .fort-aside {
         position: static !important;
+      }
+    }
+
+    /* Mini-mapa na detailu pevnosti */
+    .mini-mapa {
+      height: 340px;
+      width: 100%;
+      border: 1px solid var(--line);
+      background: var(--paper-dark);
+      z-index: 0; /* aby neprekrývala sticky header */
+    }
+    @media (max-width: 640px) {
+      .mini-mapa { height: 280px; }
+    }
+
+    /* Vlastní markery */
+    .mini-marker {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-mono);
+      font-size: 0.6875rem;
+      font-weight: 700;
+      letter-spacing: 0.03em;
+      border-radius: 4px;
+      white-space: nowrap;
+      padding: 0 4px;
+      border: 1.5px solid var(--ink);
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+    .mini-marker--main {
+      background: var(--rust);
+      color: white;
+      border-color: var(--ink);
+      z-index: 1000 !important;
+    }
+    .mini-marker--neighbor {
+      background: rgba(255, 255, 255, 0.95);
+      color: var(--ink);
+    }
+
+    /* Seznam nejbližších objektů */
+    .nearby-list {
+      list-style: none;
+      padding: 0;
+      margin: var(--s3) 0 0 0;
+      display: grid;
+      gap: 2px;
+    }
+    .nearby-item a {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      gap: var(--s3);
+      align-items: center;
+      padding: var(--s2) var(--s3);
+      background: var(--paper-dark);
+      border: 1px solid var(--line);
+      text-decoration: none;
+      color: var(--ink);
+      transition: all 0.15s;
+    }
+    .nearby-item a:hover {
+      border-color: var(--khaki);
+      background: var(--paper);
+      transform: translateX(2px);
+    }
+    .nearby-item__code {
+      font-size: 0.75rem;
+      color: var(--rust);
+      font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+    .nearby-item__title {
+      font-size: 0.9375rem;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .nearby-item__distance {
+      font-size: 0.8125rem;
+      color: var(--ink-light);
+      font-weight: 500;
+    }
+    @media (max-width: 640px) {
+      .nearby-item a {
+        grid-template-columns: auto 1fr;
+        grid-template-rows: auto auto;
+        gap: var(--s1) var(--s2);
+      }
+      .nearby-item__distance {
+        grid-column: 2;
+        justify-self: start;
       }
     }
   </style>
