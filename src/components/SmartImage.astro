@@ -1,5 +1,9 @@
 ---
-import { wikimediaSrcset } from '../lib/wikimedia';
+// POZN: srcset dočasně VYPNUTO pro Wikimedia URL.
+// Wikimedia rate-limituje (HTTP 429) on-demand generované thumbnail šířky,
+// takže browser při výběru ze srcset narazí na 429 → obrázek se nezobrazí.
+// Ponecháváme jen plain <img> s předem cached 1280px variantou (viz cover v .md).
+// Performance optimalizace se vrátí, až převedeme covery na lokální kopie + Astro Image.
 
 export interface Props {
   src: string;
@@ -16,7 +20,6 @@ export interface Props {
 const {
   src,
   alt,
-  sizes,
   loading = 'lazy',
   fetchpriority,
   width,
@@ -24,32 +27,15 @@ const {
   class: className,
   style,
 } = Astro.props;
-
-const srcset = wikimediaSrcset(src);
 ---
 
-{srcset ? (
-  <img
-    src={src}
-    srcset={srcset}
-    sizes={sizes}
-    alt={alt}
-    loading={loading}
-    fetchpriority={fetchpriority}
-    width={width}
-    height={height}
-    class={className}
-    style={style}
-  />
-) : (
-  <img
-    src={src}
-    alt={alt}
-    loading={loading}
-    fetchpriority={fetchpriority}
-    width={width}
-    height={height}
-    class={className}
-    style={style}
-  />
-)}
+<img
+  src={src}
+  alt={alt}
+  loading={loading}
+  fetchpriority={fetchpriority}
+  width={width}
+  height={height}
+  class={className}
+  style={style}
+/>
