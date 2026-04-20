@@ -17,6 +17,7 @@ import yaml from 'js-yaml';
 const ROOT = resolve(process.cwd());
 const PEVNOSTI_DIR = resolve(ROOT, 'src/content/pevnosti');
 const CLANKY_DIR = resolve(ROOT, 'src/content/clanky');
+const TYPOLOGIE_DIR = resolve(ROOT, 'src/content/typologie');
 
 const jsonOutput = process.argv.includes('--json');
 
@@ -80,19 +81,22 @@ function checkCompleteness(slug, data) {
 async function main() {
   const pevnosti = await loadYamlDir(PEVNOSTI_DIR);
   const clanky = await loadMdDir(CLANKY_DIR);
+  const typologie = await loadMdDir(TYPOLOGIE_DIR);
 
   log(`\n=== Orphan detector ===`);
   log(`Pevností: ${pevnosti.size}`);
   log(`Článků: ${clanky.size}`);
+  log(`Typologií: ${typologie.size}`);
 
   const report = {
     timestamp: new Date().toISOString(),
-    totals: { pevnosti: pevnosti.size, clanky: clanky.size },
+    totals: { pevnosti: pevnosti.size, clanky: clanky.size, typologie: typologie.size },
     issues: {
       incomplete: [],
       noIncomingLinks: [],
       noArticleMentions: [],
       brokenRelatedLinks: [],
+      brokenTypologieLinks: [],
     },
   };
 
@@ -134,6 +138,23 @@ async function main() {
     }
   }
 
+  // 3b. Rozbité odkazy na typologii (tech.komponenty + related.typologie)
+  for (const [slug, data] of pevnosti) {
+    const allTypSlugs = [
+      ...(data.tech?.komponenty ?? []),
+      ...(data.related?.typologie ?? []),
+    ];
+    for (const target of allTypSlugs) {
+      if (!typologie.has(target)) {
+        report.issues.brokenTypologieLinks.push({
+          from: slug,
+          fromTitle: data.title,
+          brokenTarget: target,
+        });
+      }
+    }
+  }
+
   // 4. Pevnosti bez zmínky v článku (kontrola heuristicky — kód pevnosti)
   if (clanky.size > 0) {
     const allArticleText = [...clanky.values()].join('\n').toLowerCase();
@@ -154,7 +175,7 @@ async function main() {
     return;
   }
 
-  const { incomplete, noIncomingLinks, noArticleMentions, brokenRelatedLinks } = report.issues;
+  const { incomplete, noIncomingLinks, noArticleMentions, brokenRelatedLinks, brokenTypologieLinks } = report.issues;
 
   log(`\n─── 1. Neúplné pevnosti (${incomplete.length}) ───`);
   incomplete.slice(0, 20).forEach((item) => {
@@ -174,6 +195,11 @@ async function main() {
     log(`  • ${item.from} → ${item.brokenTarget} (neexistuje)`);
   });
 
+  log(`\n─── 3b. Rozbité odkazy na typologii (${brokenTypologieLinks.length}) ───`);
+  brokenTypologieLinks.forEach((item) => {
+    log(`  • ${item.from} → /typologie/${item.brokenTarget} (neexistuje)`);
+  });
+
   if (clanky.size > 0) {
     log(`\n─── 4. Bez zmínky v článku (${noArticleMentions.length} z ${pevnosti.size}) ───`);
     log(`  (kontrola zda je kód nebo název pevnosti zmíněn v nějakém článku)`);
@@ -187,13 +213,15 @@ async function main() {
   log(`  Nekompletní:              ${incomplete.length} / ${pevnosti.size}`);
   log(`  Bez incoming linků:       ${noIncomingLinks.length} / ${pevnosti.size}`);
   log(`  Rozbité related odkazy:   ${brokenRelatedLinks.length}`);
+  log(`  Rozbité typologie odkazy: ${brokenTypologieLinks.length}`);
   if (clanky.size > 0) {
     log(`  Bez zmínky v článku:      ${noArticleMentions.length} / ${pevnosti.size}`);
   }
 
   // Exit code: pokud jsou rozbité linky → fail (CI-friendly)
-  if (brokenRelatedLinks.length > 0) {
-    console.error(`\n✘ FAIL: ${brokenRelatedLinks.length} rozbitých cross-linků.`);
+  const totalBroken = brokenRelatedLinks.length + brokenTypologieLinks.length;
+  if (totalBroken > 0) {
+    console.error(`\n✘ FAIL: ${totalBroken} rozbitých cross-linků.`);
     process.exit(1);
   }
   log(`\n✓ OK: žádné rozbité cross-linky.`);
