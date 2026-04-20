@@ -423,13 +423,13 @@ const crumb = breadcrumbList([
     overflow: hidden;
     background: var(--line-soft);
   }
-  .related-cesta__thumb img {
+  .related-cesta__thumb :global(img) {
     width: 100%;
     height: 100%;
     object-fit: cover;
     transition: transform 0.4s;
   }
-  .related-cesta:hover .related-cesta__thumb img { transform: scale(1.04); }
+  .related-cesta:hover .related-cesta__thumb :global(img) { transform: scale(1.04); }
   .related-cesta__body {
     padding: var(--s3);
     display: flex;
