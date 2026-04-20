@@ -33,7 +33,7 @@ const isActive = (path: string) =>
     </div>
   </div>
 
-  <nav id="mobile-nav" class="mobile-nav" aria-label="Mobilní navigace" hidden>
+  <nav id="mobile-nav" class="mobile-nav" aria-label="Mobilní navigace">
     <a href="/o-opevneni/co-je-rop" aria-current={isActive('/o-opevneni') ? 'page' : undefined}>O opevnění</a>
     <a href="/typologie" aria-current={isActive('/typologie') ? 'page' : undefined}>Typologie</a>
     <a href="/katalog" aria-current={isActive('/katalog') ? 'page' : undefined}>Katalog pevností</a>
@@ -51,12 +51,12 @@ const isActive = (path: string) =>
 
     function closeMenu() {
       toggle.setAttribute('aria-expanded', 'false');
-      menu.hidden = true;
+      menu.classList.remove('is-open');
       document.body.classList.remove('nav-open');
     }
     function openMenu() {
       toggle.setAttribute('aria-expanded', 'true');
-      menu.hidden = false;
+      menu.classList.add('is-open');
       document.body.classList.add('nav-open');
     }
 

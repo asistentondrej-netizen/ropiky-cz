@@ -179,14 +179,17 @@ p { margin-bottom: var(--s3); max-width: 68ch; }
 
 /* ---------- Mobile drawer nav ---------- */
 .mobile-nav {
-  display: flex;
+  display: none;
   flex-direction: column;
   background-color: rgba(241, 236, 224, 0.98);
   backdrop-filter: blur(8px);
   border-top: 1px solid var(--line-soft);
   border-bottom: 1px solid var(--line-soft);
   padding: var(--s2) var(--s3);
+  width: 100%;
+  box-sizing: border-box;
 }
+.mobile-nav.is-open { display: flex; }
 .mobile-nav a {
   display: block;
   padding: var(--s2) 0;
@@ -203,7 +206,8 @@ p { margin-bottom: var(--s3); max-width: 68ch; }
   padding-left: var(--s1);
 }
 @media (min-width: 900px) {
-  .mobile-nav { display: none !important; }
+  .mobile-nav,
+  .mobile-nav.is-open { display: none !important; }
 }
 body.nav-open { overflow: hidden; }
 
