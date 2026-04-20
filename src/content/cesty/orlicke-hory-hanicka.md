@@ -48,6 +48,21 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rokytnice_v_Orl
 updated: '2026-04-20'
 ---
 
+![Předsunutý srub R-S 74 „Na holém" v zimní krajině Orlických hor — ikonický objekt na hřebeni s výhledem do Polska. Foto: archiv ropiky.net](/img/forts/r-s-74-v-zim-.jpg)
+*R-S 74 „Na holém" — oboustranný srub II. odolnosti v alpské krajině Orlických hor.*
+
+## Na první pohled
+
+| | |
+|---|---|
+| **Start** | Rokytnice v Orlických horách (z Prahy 2:30 autem) |
+| **Délka** | 15 km (auto + pěšky) |
+| **Cena** | Tvrz Hanička ~220 Kč dospělý, rodinné ~500 Kč (ověřte aktuálně) |
+| **Sezona** | Sezónně duben–říjen, prohlídky s průvodcem |
+| **Rezervace** | Doporučena, v létě nutná 1 týden dopředu |
+| **Pro koho** | Zájemci o studenou válku, zdatní návštěvníci (2 km k R-S 74) |
+| **Oficiální web** | [hanicka.cz](https://www.hanicka.cz) |
+
 ## Proč právě Hanička
 
 Tvrz Hanička je **jediný objekt v Česku, kde vidíte dvě historické vrstvy v jednom komplexu**:
@@ -55,6 +70,9 @@ Tvrz Hanička je **jediný objekt v Česku, kde vidíte dvě historické vrstvy 
 - **1978–1993** — projekt Kahan: přestavba Haničky na **protiatomový kryt** pro vládu ČSSR během studené války (tajný projekt, zveřejněn až po roce 1991)
 
 Tato kombinace dělá z Haničky **nejsilnější vzdělávací zážitek** — historie 20. století ve vrstvách pod jednou střechou. Na rozdíl od Boudy je Hanička **méně přeplněná** a umožňuje hlubší prohlídku.
+
+![Podzemí tvrze Hanička — chodby z 80. let, kdy byla tvrz přestavěna na rezervní stanoviště ÚV KSČ. Foto: Harold / Wikimedia (CC BY-SA 3.0)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg/1280px-Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg)
+*Podzemní chodby Haničky — unikátní vrstva studené války v původním čs. objektu.*
 
 ## Časový plán (1 den)
 
@@ -70,7 +88,12 @@ Vstupné 220 Kč / 120 Kč / rodinné 500 Kč. Prohlídky 9:00, 10:30, 13:00, 14
 
 **12:00–13:30 — Oběd na Panském Poli** (horská restaurace 500 m od tvrze).
 
-**13:30–15:30 — R-S 74 „Na holém"** (2 km pěšky po červené značce po hřebeni Orlických hor). Předsunutý oboustranný srub II. odolnosti s panoramatickým výhledem na Broumovské stěny a polskou hranici. **Den posádky** — každoročně první víkend v září s rekonstrukcí bojové pohotovosti 1938.
+**13:30–15:30 — R-S 74 „Na holém"** (2 km pěšky po červené značce po hřebeni Orlických hor). Předsunutý oboustranný srub II. odolnosti s panoramatickým výhledem na Broumovské stěny a polskou hranici.
+
+![R-S 79 „Horní Rokytnice" — vchodový srub tvrze Hanička. Foto: archiv ropiky.net](/img/forts/rokytnice-v-orlick-ch-hor-ch-horn-rokytnice-r-s-79-rok-2010-05-.jpg)
+*R-S 79 — vchodový objekt tvrze, dnes vstup do muzea.*
+
+**Den posádky** — každoročně první víkend v září s rekonstrukcí bojové pohotovosti 1938.
 
 **16:00–17:00 — Procházka hřebenem Orlických hor** — pokračování po červené značce směrem k Zemské bráně. Krásné výhledy, alpské louky.
 

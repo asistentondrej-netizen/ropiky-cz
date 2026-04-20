@@ -43,6 +43,21 @@ cover: /img/forts/german-bunker-on-komensk-ho-street-milovice-07.jpg
 updated: '2026-04-20'
 ---
 
+![Německý bunkr na Komenského ulici v Milovicích — součást bývalého německého výcvikového prostoru z války. Foto: archiv ropiky.net](/img/forts/german-bunker-on-komensk-ho-street-milovice-07.jpg)
+*Milovice jsou unikátní tím, že v sobě spojují německé válečné objekty, čs. poválečnou armádu, sovětskou okupaci i dnešní muzeum.*
+
+## Na první pohled
+
+| | |
+|---|---|
+| **Start** | Praha (z Masarykova nádraží vlak 45 min) |
+| **Délka** | 80 km auto nebo 2× vlak |
+| **Cena** | ~170 Kč dospělý, ~90 Kč dítě, rodinné ~400 Kč |
+| **Sezona** | Celoročně, úterý–neděle 9–17 (zima do 16) |
+| **Rezervace** | Bez rezervace, větší skupiny ohlásit |
+| **Pro koho** | Rodiny s dětmi 6+, první vstup do tématu, zima |
+| **Oficiální web** | [muzeum-milovice.cz](https://www.muzeum-milovice.cz) |
+
 ## Proč právě Milovice
 
 Muzeum čs. armády Milovice je **nejdostupnější fortifikační expozice z Prahy** (40 km, 40 minut autem, 45 minut vlakem) a **ideální vstup do tématu čs. opevnění pro rodiny a školy**. Jediná muzejní expozice v Středočeském kraji s ucelenou fortifikační částí. Výhoda: **celoroční otevření** — na rozdíl od sezónních expozic v pohraničí.

@@ -43,6 +43,21 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hronov%2C_Rokyt
 updated: '2026-04-20'
 ---
 
+![T-S 19 „Turov" — pěchotní srub s panoramatickým výhledem na Broumovské stěny a Kladsko. Foto: archiv ropiky.net](/img/forts/hronov--rokytnik--t-s-19--rok-2012--01-.jpg)
+*T-S 19 „Turov" u Hronova — ideální dopolední zastávka před Adršpachem.*
+
+## Na první pohled
+
+| | |
+|---|---|
+| **Start** | Hronov (z Prahy 2 h autem) |
+| **Délka** | 30 km auto + 5 km pěšky |
+| **Cena** | T-S 19 ~80 Kč, Adršpach ~150 Kč, Broumovské stěny zdarma |
+| **Sezona** | Sezónně květen–září (T-S 19), celoročně Adršpach |
+| **Rezervace** | Adršpach POVINNÁ v červenci–srpnu přes skalyadrspach.cz |
+| **Pro koho** | Rodiny s dětmi od 8 let, kdo chce kombinaci historie + přírody |
+| **Oficiální weby** | [klub-vojenske-historie.cz](https://www.klub-vojenske-historie.cz), [skalyadrspach.cz](https://www.skalyadrspach.cz) |
+
 ## Proč kombinovat fortifikaci s přírodou
 
 Trutnovská linie čs. opevnění leží **v nejkrásnější pískovcové krajině Česka** — Adršpašské skály, Broumovské stěny, Teplicko-adršpašské skály. Jedinečná kombinace: **dopoledne historie (T-S 19), odpoledne příroda** (Adršpach). Ideální pro rodiny s dětmi (od 8 let) a páry.
@@ -74,6 +89,9 @@ Vstupné 80 Kč / 40 Kč, otevřeno víkendy květen–září 10:00–17:00, v 
 
 **2 dny:**
 - **Den 2:** tvrz Stachelberg (15 km jižně od T-S 19) — druhá dělostřelecká tvrz oblasti, nedokončená (jen 3 % hotovo v září 1938, největší podzemní systém v čs. opevnění).
+
+![Podzemí tvrze Stachelberg — největší podzemní systém čs. opevnění, v září 1938 dokončen ze 3 %. Foto: archiv ropiky.net](/img/forts/stachelberg-podzem-rok-2008-03-.jpg)
+*Podzemí tvrze Stachelberg — nejvíc autentický zážitek nedokončené čs. obrany.*
 - **Alternativa:** T-S 73 „Jeřáb" (12 km od T-S 19) + další sruby trutnovské linie.
 
 **3 dny:**
