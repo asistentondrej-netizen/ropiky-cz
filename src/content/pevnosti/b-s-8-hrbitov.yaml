@@ -1,60 +1,167 @@
 title: B-S 8 „Hřbitov"
 code: B-S 8
 type: pechotni-srub
-line: Bohumín
-region: Moravskoslezský kraj
+line: Bratislava-Petržalka
+region: Slovensko
 location:
   lat: 48.10790278
   lon: 17.08155833
+  address: Bratislava-Petržalka-Kopčany, u hřbitova
+  elevation: 135
+
 built: '1938'
 state: muzeum
-description: Lehký objekt vzor 37 typ A-160 u hřbitova v Petržalce-Kopčanech. Muzejní
-  rekonstrukce (2010–2012) Zachráňme petržalské bunkre. Kompletní interiér s lafetou
-  M, ventilací, periskopem.
-sources:
-- Wikimedia Commons
-- ropiky.net
-updated: '2026-04-18'
+
+description: >
+  Oboustranný pěchotní srub II. stupně odolnosti u hřbitova v Petržalce-Kopčanech.
+  Jeden z nejnavštěvovanějších objektů bratislavské čáry. Kompletní muzejní
+  rekonstrukce interiéru (2010–2012) — ventilace, pancéřové dveře, periskop,
+  lafeta M. Součást sítě expozic v Petržalce.
+
+# === TECHNICKÁ KARTA ===
+tech:
+  odolnost: 'II'
+  stupenDokonceni: dokonceny
+  typObjektu: Pěchotní srub oboustranný (typ B)
+  orientace: Palebné pole k dunajskému břehu a kopčianskému hřbitovu
+  posadka:
+    mini: 20
+    maxi: 30
+  vyzbroj:
+    - zbran: Těžký kulomet ZB vz. 37
+      pocet: 4
+      umisteni: pravá a levá kasemata
+    - zbran: Protitankový kanón vz. 36 (3,7 cm)
+      pocet: 2
+      umisteni: střílny kasemat
+    - zbran: Lehký kulomet ZB vz. 26
+      pocet: 2
+      umisteni: pancéřový zvon
+  steny:
+    tloustka_cm: 225
+    material: Železobeton B500
+  komponenty:
+    - pancerovy-zvon
+
+# === STAVBA ===
+stavba:
+  projektant: Ředitelství opevňovacích prací (ŘOP)
+  zahajeni: '1937'
+  dokonceni: '1938'
+  poznamka: Jeden z nejsevernějších srubů petržalské linie, kryl přístup od Dunaje.
+
+# === HISTORIE ===
+history: >
+  B-S 8 „Hřbitov" byl postaven v letech 1937–1938 jako součást jižní čáry
+  bratislavského pásma. Jméno „Hřbitov" pochází z blízkosti místního
+  kopčianského hřbitova. Oboustranný srub II. stupně odolnosti, posádka
+  30 mužů.
+
+
+  V září 1938 plně obsazen. Po Vídeňské arbitráži v listopadu 1938 Petržalka
+  připadla Německu — B-S 8 přešel pod správu Wehrmachtu, který demontoval
+  výzbroj. Za války sloužil jako sklad.
+
+
+  Po roce 1945 objekt převzala ČSLA, v době studené války sklad pohraniční
+  stráže. Po roce 1989 opuštěn, devastován. Kompletní rekonstrukce v letech
+  2010–2012 občanským sdružením B-S 8 Hřbitov. Dnes muzejní objekt s
+  „Múzeom obrany Československa" — nejkomplexnější výklad předválečné
+  obrany na Slovensku.
+
+historieMilniky:
+  - datum: 1937–1938
+    udalost: Stavba srubu
+  - datum: září 1938
+    udalost: Plné obsazení posádkou pluku 39
+  - datum: listopad 1938
+    udalost: Vídeňská arbitráž — přechod pod Wehrmacht
+  - datum: 1939–1945
+    udalost: Sklad Wehrmachtu
+  - datum: 1948–1989
+    udalost: Sklad pohraniční stráže
+  - datum: 2010–2012
+    udalost: Muzejní rekonstrukce občanským sdružením B-S 8 Hřbitov
+
+# === NÁVŠTĚVA ===
+visit: >
+  Muzejní expozice „Múzeum obrany Československa" v rekonstruovaném srubu.
+  Kombinujte s dalšími objekty v Petržalce (B-S 5 Žabí most, B-S 6 Vrba,
+  B-S 4 Lány). Otevřeno duben–říjen, víkendy 10:00–17:00, během letních
+  prázdnin i všední dny od 13:00. Aktuální informace na bs8.sk.
+
+navsteva:
+  pristupnost: auto-kratka-chuze
+  vhodnostRodiny: doporuceno
+  doporucenaDoba_minut: 45
+  otevreno:
+    sezonne: true
+    obdobi: duben–říjen
+    dny: víkendy 10:00–17:00
+    poznamka: Letní prázdniny i všední dny od 13:00.
+  vstupne:
+    zakladni_kc: 100
+    snizene_kc: 50
+    poznamka: Ceny v EUR (4/2). Skupinové slevy.
+  mhd: Trolejbus č. 201 z autobusového nádraží Bratislava, zastávka Bradáčova.
+  parkovani: V okolí ulice Kopčianska.
+  teplotaUvnitr_C: 12
+  upozorneni:
+    - Ideální pro kombinaci s Bratislavským hradem nebo procházkou po Dunaji.
+    - Bratislavský okruh po srubech — jediná ucelená expozice čs. opevnění v SR.
+
+# === SPRÁVCE ===
+spravujicSubjekt:
+  nazev: B-S 8 Hřbitov (občianske združenie)
+  typ: klub-vojenske-historie
+  web: https://www.bs8.sk
+
+# === PAMÁTKOVÁ OCHRANA ===
+pamatka:
+  status: kulturni-pamatka
+
+# === MÉDIA ===
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_02%29.jpg/1280px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_02%29.jpg
-  alt: Pěchotní srub B-S 8 „Hřbitov"
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_8_(2013-11-11;_02).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bratislava%2C_B-S_8%2C_stav_v_roce_1996.jpg/1920px-Bratislava%2C_B-S_8%2C_stav_v_roce_1996.jpg
-  alt: Pěchotní srub B-S 8
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Bratislava,_B-S_8,_stav_v_roce_1996.jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_01%29.jpg/1920px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_01%29.jpg
-  alt: Pěchotní srub B-S 8
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_8_(2013-11-11;_01).jpg
-visit: 'Pěchotní srub „Hřbitov" v Bratislavě-Petržalce — součást Múzea obrany Československa
-  s nejkomplexnějším výkladem předválečné obrany na Slovensku. Provozuje klub B-S
-  8 Hřbitov.
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_02%29.jpg/1280px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_02%29.jpg
+    alt: Pěchotní srub B-S 8 „Hřbitov"
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_8_(2013-11-11;_02).jpg
+    category: exterier
+    featured: true
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bratislava%2C_B-S_8%2C_stav_v_roce_1996.jpg/1920px-Bratislava%2C_B-S_8%2C_stav_v_roce_1996.jpg
+    alt: B-S 8 — stav v roce 1996 před rekonstrukcí
+    author: "User:Harold's family"
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Bratislava,_B-S_8,_stav_v_roce_1996.jpg
+    category: dobova
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_01%29.jpg/1920px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_01%29.jpg
+    alt: B-S 8 — detail vchodu
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_8_(2013-11-11;_01).jpg
+    category: detail
 
+# === CROSS-LINKING ===
+related:
+  pevnosti:
+    - b-s-2
+    - b-s-4-lany
+    - b-s-5-zabi-most
+    - b-s-6-vrba
+  typologie:
+    - pechotni-srub
+    - pancerovy-zvon
 
-  **Otevírací doba:** duben–říjen, víkendy 10:00–17:00. Během letních prázdnin i ve
-  všední dny od 13:00. Aktuální info na bs8.sk.
+# === ZDROJE ===
+sources:
+  - title: B-S 8 Hřbitov — oficiální web
+    url: https://www.bs8.sk
+    type: web
+  - title: Zachráňme petržalské bunkre
+    url: https://www.zachranmepetrzalskebunkre.sk
+    type: web
+  - title: ropiky.net — B-S 8
+    type: web
 
-
-  **Vstupné:** cca 4 € dospělí, 2 € děti. Skupinové slevy.
-
-
-  **Co uvidíte:** rekonstruovaný interiér oboustranného srubu II. odolnosti, repliky
-  kulometů, expozice výstroje a výzbroje čs. armády 1938, dokumentace bojů v Petržalce
-  (září 1938). Objekt má specifický význam — leží vedle bývalého hřbitova, odtud název.
-
-
-  **Doporučená délka:** 45 minut.
-
-
-  **Dostupnost:** Autem z centra Bratislavy (5 km), MHD trolejbus č. 201 z autobusového
-  nádraží, zastávka Bradáčova. Pěšky 10 minut od řeky Dunaj.
-
-
-  **Doporučeno kombinovat s:** dalšími sruby v Petržalce (B-S 5 Žabí most, B-S 6 Vrba,
-  B-S 4 Lány — z toho některé volně přístupné). Ideální víkendový okruh po bratislavském
-  opevnění. Kombinace s Bratislavským hradem nebo procházkou po nábřeží Dunaje.'
+updated: '2026-04-20'
