@@ -347,18 +347,20 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
       font-weight: 600;
     }
     .preset-btn--featured {
-      background: #7A3B2E;
-      color: white;
-      border-color: #7A3B2E;
+      background: var(--paper-dark);
+      color: #7A3B2E;
+      border: 2px solid #7A3B2E;
+      padding: 4px 9px; /* kompenzace 2px okraje → stejná celková výška */
       font-weight: 600;
     }
     .preset-btn--featured:hover {
-      background: #5c2c23;
-      border-color: #5c2c23;
+      background: #7A3B2E;
+      color: white;
     }
     .preset-btn--featured.is-active {
-      background: var(--ink);
-      border-color: var(--ink);
+      background: #7A3B2E;
+      color: white;
+      border-color: #7A3B2E;
     }
     .filter-group {
       display: flex;
