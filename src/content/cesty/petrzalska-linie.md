@@ -44,7 +44,7 @@ tags:
   - petrzalka
   - slovensko
   - mestsky-okruh
-cover: /img/forts/vojensk-m-zeum-petr-alka-05.jpg
+cover: /img/forts/bratislava--petrzalka--b-s-8--2013-11-11--07-.jpg
 updated: '2026-04-20'
 ---
 

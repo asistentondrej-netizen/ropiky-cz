@@ -133,15 +133,6 @@ pamatka:
   status: kulturni-pamatka
   poznamka: Součást souboru petržalských bunkrů SR.
 
-# === MÉDIA ===
-photos:
-  - url: /img/forts/vojensk-m-zeum-petr-alka-05.jpg
-    alt: Vojenské muzeum Petržalka — srub B-S 5 součástí expozice
-    author: KVH Bratislava
-    license: CC BY-SA 4.0
-    category: exterier
-    featured: true
-
 # === CROSS-LINKING ===
 related:
   pevnosti:
