@@ -64,6 +64,9 @@ updated: 2026-04-20
 
 **Naučná stezka Darkovičky** je **nejnavštěvovanější fortifikační stezka na Moravě** a zároveň jedna z nejrodinnějších. Provádí návštěvníka po kompletní **linii pěti pěchotních srubů** MO-S 19 až MO-S 23, kterou udržuje **Slezské zemské muzeum**. Stezka je vhodná pro všechny věkové kategorie, dobře dostupná z Ostravy a kombinuje **venkovní prohlídku** s **interiérovými expozicemi** tří otevřených objektů.
 
+![Pěchotní srub MO-S 19 „Alej" v aleji stromů — nejrekonstruovanější čs. srub s plně vybaveným interiérem. Foto: archiv ropiky.net](/img/forts/p-chotn-srub-mo-s-19-v-aleji.jpg)
+*MO-S 19 „Alej" — ikonický pohled, který se objevuje téměř ve všech publikacích o čs. opevnění.*
+
 ## Zvláštnosti stezky
 
 - **Nejkompletnější linie** — pět objektů v řadě, zkrácená verze toho, jak by fungovala celá pohraniční linie
@@ -86,6 +89,12 @@ updated: 2026-04-20
 - 13:30–14:00 — MO-S 21 Ostrý prohlídka
 - 14:00–15:00 — Zbylá zastavení 6–10
 - 15:00 — Odjezd
+
+![MO-S 20 „Orel" — hlavní palebný objekt linie s protitankovým kanónem. Foto: archiv ropiky.net](/img/forts/darkovice-mo-s-20-2015-05-01-03-.jpg)
+*MO-S 20 „Orel" — střed linie, protitankový kanón vz. 36 v originální lafetě (replika).*
+
+![MO-S 23 „Vršek" — poslední objekt linie, externě přístupný. Foto: archiv ropiky.net](/img/forts/darkovice--mo-s-23--2015-05-01--01-.jpg)
+*MO-S 23 „Vršek" — ukázka srubu v krajině, ideální pro fotografii.*
 
 ## Pro rodiny s dětmi
 

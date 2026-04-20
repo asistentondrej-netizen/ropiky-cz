@@ -52,6 +52,9 @@ updated: 2026-04-20
 
 **Naučná stezka Hanička** je **nejkratší z velkých fortifikačních stezek v ČR** — ale v obsahu unikátní. Stezka kroutí okolo **tvrze Hanička**, jedné z pěti čs. dělostřeleckých tvrzí, která prošla **dvojí přestavbou**: nejprve jako čs. opevnění 1937–1938, pak v 70. a 80. letech jako **rezervní stanoviště ÚV KSČ** pro případ jaderné války. Tato **dvoubarevná historie** — fortifikační a studenoválečná — dělá ze stezky jedinečný zážitek.
 
+![Podzemí tvrze Hanička — chodba z 80. let, kdy byl objekt přestavěn na rezervní stanoviště ÚV KSČ. Foto: Harold / Wikimedia (CC BY-SA 3.0)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg/1280px-Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg)
+*Podzemí tvrze Hanička — chodby ze 70.–80. let slouží dnes jako unikátní muzeum studené války.*
+
 ## Unikátnost stezky: dvě historie
 
 Zatímco většina fortifikačních naučných stezek pracuje s jedním tématem (čs. opevnění 1935–1938), **Hanička nese dvě vrstvy**:

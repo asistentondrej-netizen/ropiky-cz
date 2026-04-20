@@ -62,6 +62,9 @@ updated: 2026-04-20
 
 **Valticko je jediný fortifikační region v ČR, kde řopíky stojí přímo v UNESCO parku.** Tento průvodce popisuje **dva cyklovýlety** s reálnou startovací adresou, ověřenou GPS polylinií z OpenStreetMap a popisem každého zastavení. Oba výlety vyjíždějí od **Prosecco Residence Marko, Úvaly 9, Valtice** — ubytovacího zařízení v klidné části Valtic-Úvaly, 4 km západně od centra.
 
+![Pohled z Kolonády Rajstna na Úvaly u Valtic — v popředí vinice, za vesnicí Pálava. Foto: Palickap / Wikimedia (CC BY-SA 4.0)](/img/clanky/valticko/uvaly-z-reistny.jpg)
+*Pohled z Rajstny na Úvaly — startovní vesnici obou cyklovýletů.*
+
 ## Startovní bod
 
 **Prosecco Residence Marko**
@@ -78,15 +81,40 @@ GPS: **48.7451°N, 16.6994°E** · [Ukázat na mapě](https://www.openstreetmap.
 
 **Navigace:** [GPX ke stažení](/img/clanky/valticko/varianta1-trasa.gpx)
 
+![Cyklovýlet 1 — 19,7 km okruh z Úval přes Valtice a Boří les. Zelený puntík = start/cíl, oranžové body = zastavení. Podklad: © OpenStreetMap contributors.](/img/clanky/valticko/varianta1-mapa.jpg)
+*Trasa Varianty 1 — polyline vygenerovaná přes OSRM bike router nad OSM daty.*
+
 ### Itinerář
 
-- **0 km** — Prosecco Residence Marko (start), směr Valtice po vinařské cestě 41417
-- **4 km** — Zámek Valtice (prohlídka 60 min volitelně)
-- **5 km** — Kolonáda Rajstna, 1 km stoupání Belvederskou cestou
-- **6,5 km** — Řopík 5/143/1 v Boří lese
-- **13 km** — Řopík 6/68/A-160 S Pod dvorem
-- **15 km** — Valtice centrum, volitelně Národní salon vín
-- **19,7 km** — návrat Úvaly 9
+**0 km — Prosecco Residence Marko (start)** — vyjedete z Úval směrem na Valtice po silnici 41417 (vinařská cesta).
+
+**4 km — Zámek Valtice**
+
+![Zámek Valtice — hlavní rezidence knížat Liechtensteinů do roku 1945. Foto: VitVit / Wikimedia (CC BY-SA 4.0)](/img/clanky/valticko/zamek-valtice.jpg)
+
+Prohlídka 60 min volitelně, nebo jen zastávka na pohled z nádvoří. → [www.zamek-valtice.cz](https://www.zamek-valtice.cz)
+
+**5 km — Kolonáda Rajstna (Reistna)**
+
+![Kolonáda Rajstna (1817) — klasicistní dominanta nad Valticemi s výhledem na Pálavu a Rakousko. Foto: Pudelek / Wikimedia (CC BY-SA 3.0)](/img/clanky/valticko/kolonada-rajstna.jpg)
+
+1 km stoupání od zámku Belvederskou cestou. Z Rajstny je krásný pohled zpět na Valtice i na startovní Úvaly.
+
+![Valtice z Rajstny — po pravé straně zámek, v dáli Břeclav. Foto: Palickap / Wikimedia (CC BY-SA 4.0)](/img/clanky/valticko/valtice-z-reistny.jpg)
+
+**6,5 km — Řopík 5/143/1 (Boří les jih)**
+
+![Boří les — lichtenštejnský lovecký revír, dnes přírodní park s řadou řopíků v podrostu. Foto: RomanM82 / Wikimedia (CC BY-SA 4.0)](/img/clanky/valticko/bori-les.jpg)
+
+Typ LO vz. 37 v autentickém lesním prostředí, dobře zachovalý. **Klíčový bod** — mnoho návštěvníků vidí svůj první řopík právě zde.
+
+**13 km — Řopík 6/68/A-160 S (Pod dvorem)** — přes polní cesty směrem k Valticím. Pro představu, jak vypadá typ LO vz. 37, slouží dobře zachovalý sousední objekt **8/13/A-160 S u Boří dvora**:
+
+![Řopík 8/13/A-160 S u Boří dvora — nejzachovalejší LO vz. 37 Boří lesa, stejný typ jako 6/68 Pod dvorem. Foto: Doronenko / Wikimedia (CC BY-SA 4.0)](/img/forts/-op-k-8-13-a-160-s-bo-dv-r.jpg)
+
+**15 km — Valtice centrum** — volitelně Národní salon vín (degustace 100 vzorků).
+
+**19,7 km — návrat Úvaly 9** přes vinice po vinařské stezce.
 
 ### Co si vzít
 
@@ -103,17 +131,46 @@ GPS: **48.7451°N, 16.6994°E** · [Ukázat na mapě](https://www.openstreetmap.
 
 **Navigace:** [GPX ke stažení](/img/clanky/valticko/varianta2-trasa.gpx)
 
+![Cyklovýlet 2 — 34 km UNESCO okruh přes Lednici, Hlohovec a Valtice. Podklad: © OpenStreetMap contributors.](/img/clanky/valticko/varianta2-mapa.jpg)
+*Trasa Varianty 2 — polyline přes OSRM bike router nad OSM daty.*
+
 ### Itinerář
 
-- **0 km** — Prosecco Residence Marko (start), na sever kolem Prostředního rybníka
-- **6 km** — Apollonův chrám, krátká zastávka na fotku
-- **7 km** — Řopík 6/54/A-180 zasazený v hrázi Hlohoveckého rybníka
-- **11 km** — Zámek Lednice (UNESCO)
-- **13 km** — Minaret (2 km průjezd parkem)
-- **20 km** — Rajstna (návratová zastávka)
-- **22 km** — Řopík 5/143/1 v Boří lese
-- **26 km** — Zámek Valtice, volitelně Národní salon vín
-- **34 km** — návrat Úvaly 9
+**0 km — Prosecco Residence Marko (start)** — vyjedete z Úval směrem na sever kolem Prostředního rybníka po cyklostezce.
+
+**6 km — Apollonův chrám**
+
+![Apollonův chrám u Prostředního rybníka — klasicistní salet podle návrhu Josefa Kornhäusela (1817). Foto: Palickap / Wikimedia (CC BY-SA 4.0)](/img/clanky/valticko/apollonuv-chram.jpg)
+
+Krátká zastávka na fotku — salet stojí přímo u vody s pohledem na Pálavu.
+
+**7 km — Řopík 6/54/A-180 v hrázi Hlohoveckého rybníka**
+
+![Hlohovecký rybník — v hrázi vlevo sedí řopík 6/54/A-180, nejfotogeničtější LO vz. 37 oblasti. Foto: Herbert Frank / Wikimedia (CC BY 2.0)](/img/clanky/valticko/hlohovecky-rybnik.jpg)
+
+Nejtěžší standardní typ LO vz. 37 s bočním postřelováním, zasazený přímo do hráze rybníka. Pro srovnání — stejný typ A-180 v lesním prostředí u Lednických rybníků:
+
+![Řopík u Lednických rybníků — stejná A-180 v jiném zasazení. Foto: RomanM82 / Wikimedia (CC BY-SA 4.0)](/img/clanky/valticko/ropik-8-4083-lednicke-rybniky.jpg)
+
+**11 km — Zámek Lednice (UNESCO)**
+
+![Zámek Lednice — novogotická přestavba 1846–58, od 1996 UNESCO. Foto: Pudelek / Wikimedia (CC BY-SA 4.0)](/img/clanky/valticko/zamek-lednice.jpg)
+
+Prohlídka Reprezentativních sálů 60 min nebo procházka parkem zdarma. → [www.zamek-lednice.com](https://www.zamek-lednice.com)
+
+**13 km — Minaret v Lednickém parku**
+
+![Minaret (1802) — 60 m vysoká romantická stavba, nejvyšší mimo Orient. Foto: VitVit / Wikimedia (CC BY-SA 4.0)](/img/clanky/valticko/minaret-lednice.jpg)
+
+300 schodů vede na ochoz s panoramatem celého areálu. 2 km průjezd parkem z lednického zámku.
+
+**20 km — Rajstna** (návratová zastávka přes vinice)
+
+**22 km — Řopík 5/143/1 v Boří lese**
+
+**26 km — Zámek Valtice**, volitelně Národní salon vín.
+
+**34 km — návrat Úvaly 9**
 
 ### Volitelné odbočky
 

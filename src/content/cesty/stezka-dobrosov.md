@@ -74,6 +74,9 @@ updated: 2026-04-20
 
 **Naučná stezka Dobrošovem** je doprovodný okruh kolem [dělostřelecké tvrze Dobrošov](/katalog/tvrz-dobrosov) v okrese Náchod. Na rozdíl od velké Betonové hranice u Králík je tato stezka **kompaktnější** (8 km, 12 zastavení) a tím je ideální pro **jednodenní výlet z Náchoda nebo Hradce Králové**. Stezka kombinuje hlavní atrakci — tvrz Dobrošov — s dalšími objekty, panoramatickými výhledy a místy bojů z let 1938–1945.
 
+![Tvrz Dobrošov — vstupní srub a hlavní atrakce stezky. Foto: archiv ropiky.net](/img/forts/tvrz-dobrosov-6.jpg)
+*Tvrz Dobrošov — nedokončená dělostřelecká tvrz ve fázi rozestavěnosti z roku 1938.*
+
 ## O trase
 
 Stezka začíná v **Náchodě u Vojenského muzea** (zastávka MHD Vojenská), je **kruhová** a vrátí se do výchozího bodu. Můžete ji projít pěšky nebo (s opatrností) na trekkingovém kole. Převýšení 200 m, značení žluté turistické se symbolem srubu, provozovatel Klub vojenské historie Náchod.
@@ -89,6 +92,15 @@ Stezka začíná v **Náchodě u Vojenského muzea** (zastávka MHD Vojenská), 
 - 14:00–14:30 — Oběd v restauraci u tvrze
 - 14:30–17:00 — Pokračování stezky (zastavení 7–11)
 - 17:00 — Návrat do Náchoda
+
+![N-S 75 „Závoz" — první bunkrový objekt na trase, 1 km od muzea. Foto: archiv ropiky.net](/img/forts/n-chod-dobro-ov-n-s-75-rok-2001-01-.jpg)
+*N-S 75 „Závoz" — externě prohlížitelný, dva pancéřové zvony v originálním stavu.*
+
+![Tvrz Dobrošov — pohled na vnější betonovou stěnu srubu tvrze. Foto: archiv ropiky.net](/img/forts/tvrz-dobrosov-9.jpg)
+*Detail betonové konstrukce — masivní II. a III. odolnostní třídy typu pro hlavní pohraniční linii.*
+
+![N-S 80 „Jirásek" — závěrečný betonový objekt na trase, chránil křižovatku silnic do Police a Trutnova. Foto: archiv ropiky.net](/img/forts/nachod--dobrosov--n-s-80--rok-2002-.jpg)
+*N-S 80 „Jirásek" — izolovaný TO externě prohlížitelný.*
 
 ## Co si vzít
 
