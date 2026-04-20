@@ -54,11 +54,11 @@ Do Mnichova v září 1938 tak **žádná pozorovací kopule nebyla instalována
 
 Pozorovací kopule byly projekčně zakresleny zejména v **dělostřeleckých tvrzích Orlických hor a Králicka**:
 
-- **[Tvrz Hanička](/katalog/tvrz-hanicka)** — plánované pozorovatelny pro dělostřelecký blok
+- **[Tvrz Hanička](/katalog/tvrz-hanicka)** — plánovaná kopule v pozorovacím bloku dělostřeleckého srubu
 - **[Tvrz Dobrošov](/katalog/tvrz-dobrosov)** — projekt počítal s kopulí v pozorovacím bloku
-- **[Tvrz Hůrka](/katalog/tvrz-hurka)** — kompletní tvrz u Králík, pozorovatelny pro dělostřeleckou podporu
-- **Tvrz Bouda** — částečně dokončená kopule v pozorovacím bloku (nejblíže k realizaci)
-- **Tvrz Adam, Stachelberg** — plán, ale bez reálné instalace
+- **[Tvrz Hůrka](/katalog/tvrz-hurka)** — plánovaná pozorovací kopule v pozorovacím bloku
+- **[Tvrz Bouda](/katalog/tvrz-bouda)** — částečně rozpracovaná kopule v pozorovacím bloku (nejblíže k realizaci)
+- **[Tvrz Stachelberg](/katalog/tvrz-stachelberg)** — projekt největší čs. tvrze počítal s kopulemi, ale stavba sotva začala
 
 ## Osudy po Mnichovu
 

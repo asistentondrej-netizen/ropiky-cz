@@ -46,6 +46,7 @@ tech:
     material: Železobeton B500 (třída A)
   komponenty:
     - pancerovy-zvon
+    - kopule-pozorovaci
 
 # === STAVBA ===
 stavba:

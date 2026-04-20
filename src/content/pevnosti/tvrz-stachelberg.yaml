@@ -30,6 +30,7 @@ tech:
     poznamka: Plný stav plánován 778 mužů. Reálně nikdy neobsazena.
   komponenty:
     - pancerovy-zvon
+    - kopule-pozorovaci
 
 # === STAVBA ===
 stavba:
