@@ -9,7 +9,9 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "check:orphans": "node scripts/check-orphans.mjs",
+    "check:orphans:json": "node scripts/check-orphans.mjs --json"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.7",
