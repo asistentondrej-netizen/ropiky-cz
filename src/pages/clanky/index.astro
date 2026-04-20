@@ -1,5 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import SmartImage from '../../components/SmartImage.astro';
+import { CARD_SIZES } from '../../lib/wikimedia';
 import { getCollection } from 'astro:content';
 
 const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
@@ -30,7 +32,7 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
             <a href={`/clanky/${c.slug}`} class="article-item">
               {c.data.cover && (
                 <div class="article-item__thumb">
-                  <img src={c.data.cover} alt={c.data.title} loading="lazy" />
+                  <SmartImage src={c.data.cover} alt={c.data.title} sizes={CARD_SIZES} loading="lazy" />
                 </div>
               )}
               <div>

@@ -3,17 +3,43 @@ import { getCollection, getEntry } from 'astro:content';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
 import JsonLd from '../../components/JsonLd.astro';
 import { cestaSchema, breadcrumbList } from '../../lib/schema';
+import SmartImage from '../../components/SmartImage.astro';
+import { RELATED_SIZES } from '../../lib/wikimedia';
 
 export async function getStaticPaths() {
   const entries = await getCollection('cesty', ({ data }) => !data.draft);
   return entries.map((entry) => ({
     params: { slug: entry.slug },
-    props: { entry },
+    props: { entry, allEntries: entries },
   }));
 }
 
-const { entry } = Astro.props;
+const { entry, allEntries } = Astro.props;
 const { Content } = await entry.render();
+
+// ---------- Související cesty ----------
+// Skóre: shoda regionu (+3) + shoda každého tagu (+2) + preferenčně podobná obtížnost (+1)
+const others = allEntries.filter((e: any) => e.slug !== entry.slug);
+const myTags = new Set(entry.data.tags || []);
+const related = others
+  .map((e: any) => {
+    let score = 0;
+    if (e.data.region === entry.data.region) score += 3;
+    const eTags = e.data.tags || [];
+    for (const t of eTags) if (myTags.has(t)) score += 2;
+    if (e.data.obtiznost === entry.data.obtiznost) score += 1;
+    return { entry: e, score };
+  })
+  .filter((r: any) => r.score > 0)
+  .sort((a: any, b: any) => b.score - a.score)
+  .slice(0, 3)
+  .map((r: any) => r.entry);
+
+const relatedLabel: Record<string, string> = {
+  snadna: 'Snadná',
+  stredni: 'Střední',
+  narocna: 'Náročná',
+};
 
 // Načíst údaje o pevnostech pro zastávky se slugem
 const zastavkyEnriched = await Promise.all(
@@ -174,6 +200,37 @@ const crumb = breadcrumbList([
 
   <Content />
 
+  {related.length > 0 && (
+    <section class="related-cesty">
+      <h2>Podobné výlety</h2>
+      <div class="related-cesty__grid">
+        {related.map((r: any) => (
+          <a href={`/cesty/${r.slug}`} class="related-cesta">
+            {r.data.cover && (
+              <div class="related-cesta__thumb">
+                <SmartImage src={r.data.cover} alt={r.data.title} sizes={RELATED_SIZES} loading="lazy" />
+              </div>
+            )}
+            <div class="related-cesta__body">
+              <div class="related-cesta__meta">
+                <span>{r.data.region}</span>
+                <span> · </span>
+                <span>{r.data.delka_dni} {r.data.delka_dni === 1 ? 'den' : r.data.delka_dni < 5 ? 'dny' : 'dní'}</span>
+                <span> · </span>
+                <span>{relatedLabel[r.data.obtiznost]}</span>
+              </div>
+              <h3>{r.data.title}</h3>
+              <p>{r.data.description}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div style="margin-top: var(--s4); text-align: center;">
+        <a href="/cesty" style="color: var(--khaki); text-decoration: none; font-weight: 600;">Všechny tematické cesty →</a>
+      </div>
+    </section>
+  )}
+
   {entry.data.tags && entry.data.tags.length > 0 && (
     <footer class="cesta-tags">
       <strong>Štítky:</strong>
@@ -330,5 +387,74 @@ const crumb = breadcrumbList([
     border-radius: 999px;
     font-size: 0.85rem;
     color: var(--ink-light);
+  }
+
+  .related-cesty {
+    margin-top: var(--s6);
+    padding-top: var(--s5);
+    border-top: 2px solid var(--ink);
+  }
+  .related-cesty h2 {
+    margin-top: 0;
+    margin-bottom: var(--s4);
+  }
+  .related-cesty__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: var(--s3);
+  }
+  .related-cesta {
+    display: flex;
+    flex-direction: column;
+    background: var(--paper-dark);
+    border: 1px solid var(--line);
+    text-decoration: none;
+    color: inherit;
+    overflow: hidden;
+    transition: all 0.2s;
+  }
+  .related-cesta:hover {
+    border-color: var(--khaki);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  }
+  .related-cesta__thumb {
+    aspect-ratio: 16/10;
+    overflow: hidden;
+    background: var(--line-soft);
+  }
+  .related-cesta__thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s;
+  }
+  .related-cesta:hover .related-cesta__thumb img { transform: scale(1.04); }
+  .related-cesta__body {
+    padding: var(--s3);
+    display: flex;
+    flex-direction: column;
+    gap: var(--s2);
+    flex: 1;
+  }
+  .related-cesta__meta {
+    font-family: var(--font-mono);
+    font-size: 0.6875rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-med);
+  }
+  .related-cesta h3 {
+    margin: 0;
+    font-size: 1.125rem;
+    line-height: 1.3;
+    color: var(--ink);
+  }
+  .related-cesta:hover h3 { color: var(--khaki); }
+  .related-cesta p {
+    font-size: 0.875rem;
+    color: var(--ink-med);
+    line-height: 1.5;
+    margin: 0;
   }
 </style>

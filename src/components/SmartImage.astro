@@ -1,0 +1,55 @@
+---
+import { wikimediaSrcset } from '../lib/wikimedia';
+
+export interface Props {
+  src: string;
+  alt: string;
+  sizes?: string;
+  loading?: 'lazy' | 'eager';
+  fetchpriority?: 'high' | 'low' | 'auto';
+  width?: number;
+  height?: number;
+  class?: string;
+  style?: string;
+}
+
+const {
+  src,
+  alt,
+  sizes,
+  loading = 'lazy',
+  fetchpriority,
+  width,
+  height,
+  class: className,
+  style,
+} = Astro.props;
+
+const srcset = wikimediaSrcset(src);
+---
+
+{srcset ? (
+  <img
+    src={src}
+    srcset={srcset}
+    sizes={sizes}
+    alt={alt}
+    loading={loading}
+    fetchpriority={fetchpriority}
+    width={width}
+    height={height}
+    class={className}
+    style={style}
+  />
+) : (
+  <img
+    src={src}
+    alt={alt}
+    loading={loading}
+    fetchpriority={fetchpriority}
+    width={width}
+    height={height}
+    class={className}
+    style={style}
+  />
+)}

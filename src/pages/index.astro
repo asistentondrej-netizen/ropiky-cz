@@ -4,6 +4,8 @@ import { getCollection } from 'astro:content';
 import FortCard from '../components/FortCard.astro';
 import JsonLd from '../components/JsonLd.astro';
 import { organization, webSite } from '../lib/schema';
+import SmartImage from '../components/SmartImage.astro';
+import { CARD_SIZES } from '../lib/wikimedia';
 
 const obtiznostLabel: Record<string, string> = {
   snadna: 'Snadná',
@@ -220,7 +222,7 @@ const cesty = cestyAll.slice(0, 3);
           {cesty.map((c) => (
             <a href={`/cesty/${c.slug}`} class="home-cesta-card">
               <div class="home-cesta-card__thumb">
-                <img src={c.data.cover} alt={c.data.title} loading="lazy" />
+                <SmartImage src={c.data.cover} alt={c.data.title} sizes={CARD_SIZES} loading="lazy" />
                 <div class="home-cesta-card__duration">
                   {c.data.delka_dni} {c.data.delka_dni === 1 ? 'den' : c.data.delka_dni < 5 ? 'dny' : 'dní'}
                 </div>

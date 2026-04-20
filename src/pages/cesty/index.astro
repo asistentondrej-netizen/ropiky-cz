@@ -1,5 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import SmartImage from '../../components/SmartImage.astro';
+import { CARD_SIZES } from '../../lib/wikimedia';
 import { getCollection } from 'astro:content';
 
 const cesty = (await getCollection('cesty', ({ data }) => !data.draft))
@@ -51,7 +53,7 @@ const rocniLabel: Record<string, string> = {
             <a href={`/cesty/${c.slug}`} class="cesta-card">
               {c.data.cover && (
                 <div class="cesta-card__thumb">
-                  <img src={c.data.cover} alt={c.data.title} loading="lazy" />
+                  <SmartImage src={c.data.cover} alt={c.data.title} sizes={CARD_SIZES} loading="lazy" />
                 </div>
               )}
               <div class="cesta-card__body">

@@ -3,6 +3,8 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import JsonLd from '../../components/JsonLd.astro';
 import { pevnostSchema, breadcrumbList } from '../../lib/schema';
+import SmartImage from '../../components/SmartImage.astro';
+import { HERO_SIZES } from '../../lib/wikimedia';
 
 export async function getStaticPaths() {
   const entries = await getCollection('pevnosti');
@@ -235,6 +237,7 @@ const hasAsideContent = d.navsteva || hasRelated || true; // citace vždy
 <BaseLayout
   title={`${d.title} (${d.code})`}
   description={d.description}
+  image={featuredPhoto?.url}
 >
   <JsonLd data={[placeSchema, crumb]} />
 
@@ -271,7 +274,7 @@ const hasAsideContent = d.navsteva || hasRelated || true; // citace vždy
     <div class="fort-hero-photo">
       <div class="container">
         <figure style="margin: 0; max-width: 960px; margin-inline: auto;">
-          <img src={heroImageUrl} alt={featuredPhoto?.alt || d.title} loading="eager" fetchpriority="high"
+          <SmartImage src={heroImageUrl} alt={featuredPhoto?.alt || d.title} sizes={HERO_SIZES} loading="eager" fetchpriority="high"
                style="width: 100%; height: auto; border: 1px solid var(--line); aspect-ratio: 16/10; object-fit: cover;" />
           <figcaption style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s2); font-style: italic; text-align: center;">
             {featuredPhoto?.caption && <span>{featuredPhoto.caption} · </span>}
@@ -479,7 +482,7 @@ const hasAsideContent = d.navsteva || hasRelated || true; // citace vždy
                     {photos.map((p: any) => (
                       <figure style="margin: 0;">
                         <a href={p.url} target="_blank" rel="noopener">
-                          <img src={p.url} alt={p.alt} loading="lazy" style="border: 1px solid var(--line); width: 100%; height: auto;" />
+                          <SmartImage src={p.url} alt={p.alt} sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" loading="lazy" style="border: 1px solid var(--line); width: 100%; height: auto;" />
                         </a>
                         <figcaption style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s1); font-style: italic;">
                           {p.caption || p.alt}
