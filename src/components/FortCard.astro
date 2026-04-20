@@ -20,11 +20,28 @@ const stateLabels: Record<string, string> = {
   neznamy: 'Neznámý stav',
 };
 
+// Typ → SVG placeholder (pro pevnosti bez fotky)
+const typePlaceholder: Record<string, string> = {
+  'pechotni-srub': '/img/typ-pechotni-srub.svg',
+  'delostrelecka-tvrz': '/img/typ-delostrelecka-tvrz.svg',
+  'lo-vz-37': '/img/typ-lo-vz-37.svg',
+  'lo-vz-36': '/img/typ-lo-vz-36.svg',
+  'lo-vz-38': '/img/typ-lo-vz-38.svg',
+  'pancerovy-zvon': '/img/typ-pancerovy-zvon.svg',
+};
+
 const { title, code, line, region, type, state, href, imageUrl } = Astro.props;
+
+const placeholderSrc = (!imageUrl && type) ? (typePlaceholder[type] || '/img/placeholder-bunker.svg') : null;
 ---
 
 <a href={href} class="fort-card">
-  <div class="fort-card__image" style={imageUrl ? `background-image: url(${imageUrl}); background-size: cover; background-position: center;` : ''}>
+  <div
+    class:list={['fort-card__image', placeholderSrc && 'fort-card__image--placeholder']}
+    style={imageUrl
+      ? `background-image: url(${imageUrl}); background-size: cover; background-position: center;`
+      : (placeholderSrc ? `background-image: url(${placeholderSrc}); background-size: contain; background-position: center; background-repeat: no-repeat;` : '')}
+  >
     <span class="fort-card__image-label">{code}</span>
   </div>
   <div class="fort-card__body">

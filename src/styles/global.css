@@ -767,6 +767,11 @@ section { padding: var(--s7) 0; }
   display: flex; align-items: flex-end;
   padding: var(--s2);
 }
+/* Placeholder varianta — typologický SVG nákres místo foto */
+.fort-card__image--placeholder {
+  background-color: var(--paper-dark);
+  /* přebijeme gradient — paper-dark + SVG nastavený inline */
+}
 .fort-card__image-label {
   position: relative;
   font-family: var(--font-mono);
@@ -775,6 +780,13 @@ section { padding: var(--s7) 0; }
   background: rgba(26, 22, 18, 0.7);
   padding: 4px 8px;
   letter-spacing: 0.1em;
+}
+/* Kód na placeholderu — tmavý text na světlém pozadí */
+.fort-card__image--placeholder .fort-card__image-label {
+  color: var(--ink);
+  background: rgba(255, 255, 255, 0.85);
+  font-size: 0.75rem;
+  font-weight: 700;
 }
 .fort-card__body { padding: var(--s3); flex: 1; display: flex; flex-direction: column; }
 .fort-card__header {
