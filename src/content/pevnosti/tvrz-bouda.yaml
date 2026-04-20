@@ -135,7 +135,7 @@ navsteva:
     poznamka: Rodinné = 2 dospělí + 2 děti.
   rezervace:
     nutna: false
-    url: https://www.pevnostbouda.cz
+    url: https://www.tvrzbouda.cz
     telefon: +420 605 285 324
   parkovani: Zdarma cca 300 m od vchodu, kapacita 30 aut.
   mhd: Autobus Králíky — Těchonín, zastávka Těchonín-Bouda, pak 1 km pěšky.
@@ -149,8 +149,8 @@ navsteva:
 spravujicSubjekt:
   nazev: Společnost přátel československého opevnění
   typ: klub-vojenske-historie
-  web: https://www.pevnostbouda.cz
-  email: info@pevnostbouda.cz
+  web: https://www.tvrzbouda.cz
+  email: info@tvrzbouda.cz
   telefon: +420 605 285 324
 
 # === PAMÁTKOVÁ OCHRANA ===
@@ -161,6 +161,21 @@ pamatka:
 
 # === MÉDIA ===
 photos:
+  - url: /img/forts/bouda-k-s-22a-krok-exterier.jpg
+    alt: Bojový srub K-S 22a „Krok" — tvrz Bouda
+    caption: Pěchotní srub K-S 22a „Krok", součást dělostřelecké tvrze Bouda.
+    author: VitBaloun
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:Tvrz_Bouda_-_objekt_K-S_22a_-_Krok.jpg
+    category: exterier
+    featured: true
+  - url: /img/forts/bouda-k-s-22a-krok-zvon.jpg
+    alt: Pancéřový zvon na srubu K-S 22a „Krok"
+    caption: Pancéřový zvon pro kulomety ZB vz. 37 — srub K-S 22a.
+    author: Lukáš Malý
+    license: Public domain
+    source: https://commons.wikimedia.org/wiki/File:Bouda_-_K-S_22a_Krok_-_zvon.JPG
+    category: exterier
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg/1920px-Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg
     alt: Hlavní podzemní chodba tvrze Bouda
     caption: Centrální páteřní chodba v hloubce 38 m pod úrovní terénu.
@@ -168,7 +183,13 @@ photos:
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Bouda,_podzem%C3%AD_(rok_2005;_01).jpg
     category: interier
-    featured: true
+  - url: /img/forts/bouda-expozice-muzea.jpg
+    alt: Expozice muzea v tvrzi Bouda
+    caption: Expozice muzea — dobové vybavení a výzbroj.
+    author: Lukáš Malý
+    license: Public domain
+    source: https://commons.wikimedia.org/wiki/File:Bouda_-_exponaty.JPG
+    category: interier
 
 # === CROSS-LINKING ===
 related:
@@ -195,8 +216,8 @@ sources:
     type: kniha
   - title: Vojenský ústřední archiv Praha — fond ŘOP, stavební deník K-S
     type: archiv
-  - title: Muzeum pevnost Bouda
-    url: https://www.pevnostbouda.cz
+  - title: Muzeum tvrz Bouda
+    url: https://www.tvrzbouda.cz
     type: web
 
 updated: 2026-04-19
