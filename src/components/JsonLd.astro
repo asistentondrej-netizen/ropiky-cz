@@ -1,0 +1,17 @@
+---
+/**
+ * Jednotná komponenta pro vložení JSON-LD structured dat.
+ * Pokud dostane pole, spojí do @graph bloku — jinak jeden objekt.
+ */
+export interface Props {
+  data: Record<string, any> | Record<string, any>[];
+}
+
+const { data } = Astro.props;
+
+const payload = Array.isArray(data)
+  ? { '@context': 'https://schema.org', '@graph': data }
+  : { '@context': 'https://schema.org', ...data };
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(payload)} />

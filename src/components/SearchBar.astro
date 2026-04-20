@@ -101,6 +101,17 @@
     // trigger → open
     trigger.addEventListener('click', open);
 
+    // URL param ?q= (pro SearchAction z Google) — auto-otevře modal s dotazem
+    try {
+      const urlQ = new URLSearchParams(window.location.search).get('q');
+      if (urlQ && urlQ.length >= 2) {
+        input!.value = urlQ;
+        open();
+        // trigger search
+        setTimeout(() => input!.dispatchEvent(new Event('input', { bubbles: true })), 120);
+      }
+    } catch (_) { /* URL API selhalo → ignorovat */ }
+
     // close button + klik mimo (kliknutí na ::backdrop)
     closeBtn.addEventListener('click', close);
     dialog.addEventListener('click', (e) => {

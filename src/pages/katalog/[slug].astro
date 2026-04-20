@@ -1,6 +1,8 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import JsonLd from '../../components/JsonLd.astro';
+import { pevnostSchema, breadcrumbList } from '../../lib/schema';
 
 export async function getStaticPaths() {
   const entries = await getCollection('pevnosti');
@@ -142,29 +144,50 @@ if (d.tech?.steny?.tloustka_cm) {
 }
 
 // ---------- Schema.org JSON-LD ----------
-const schemaOrg: any = {
-  '@context': 'https://schema.org',
-  '@type': d.state === 'muzeum' ? ['TouristAttraction', 'Museum'] : ['TouristAttraction', 'LandmarksOrHistoricalBuildings'],
-  'name': d.title,
-  'alternateName': d.code,
-  'description': d.description,
-  'url': `https://ropiky.cz/katalog/${slug}`,
-  'geo': {
-    '@type': 'GeoCoordinates',
-    'latitude': d.location.lat,
-    'longitude': d.location.lon,
-  },
-};
-if (featuredPhoto) schemaOrg.image = featuredPhoto.url;
-if (d.location.address) schemaOrg.address = d.location.address;
-if (d.navsteva?.vstupne?.zakladni_kc || d.navsteva?.vstupne?.zdarma) {
-  schemaOrg.offers = {
-    '@type': 'Offer',
-    'price': d.navsteva.vstupne.zdarma ? '0' : String(d.navsteva.vstupne.zakladni_kc),
-    'priceCurrency': 'CZK',
-  };
-  schemaOrg.isAccessibleForFree = !!d.navsteva.vstupne.zdarma;
-}
+const keywords = [
+  d.code,
+  d.line,
+  d.region,
+  typeName,
+  ...(d.tech?.komponenty ?? []),
+  ...(d.related?.typologie ?? []),
+].filter(Boolean);
+
+const placeSchema = pevnostSchema({
+  slug,
+  title: d.title,
+  code: d.code,
+  description: d.description,
+  state: d.state,
+  line: d.line,
+  region: d.region,
+  lat: d.location.lat,
+  lon: d.location.lon,
+  elevation: d.location.elevation,
+  address: d.location.address,
+  photoUrl: featuredPhoto?.url,
+  photoAuthor: featuredPhoto?.author,
+  photoLicense: featuredPhoto?.license,
+  entryPriceCzk: d.navsteva?.vstupne?.zakladni_kc,
+  entryFree: d.navsteva?.vstupne?.zdarma,
+  openingSeason: [
+    d.navsteva?.otevreno?.obdobi,
+    d.navsteva?.otevreno?.dny,
+    d.navsteva?.otevreno?.hodiny,
+  ].filter(Boolean).join(', ') || undefined,
+  telephone: d.navsteva?.rezervace?.telefon || d.spravujicSubjekt?.telefon,
+  reservationUrl: d.navsteva?.rezervace?.url,
+  operatorName: d.spravujicSubjekt?.nazev,
+  operatorWeb: d.spravujicSubjekt?.web,
+  keywords,
+  dateBuilt: d.stavba?.dokonceni || d.built,
+});
+
+const crumb = breadcrumbList([
+  { name: 'Úvod', url: '/' },
+  { name: 'Katalog', url: '/katalog' },
+  { name: `${d.title} (${d.code})`, url: `/katalog/${slug}` },
+]);
 
 // ---------- Související ----------
 const hasRelated = d.related && (
@@ -181,7 +204,7 @@ const hasAsideContent = d.navsteva || hasRelated || true; // citace vždy
   title={`${d.title} (${d.code})`}
   description={d.description}
 >
-  <script type="application/ld+json" set:html={JSON.stringify(schemaOrg)} />
+  <JsonLd data={[placeSchema, crumb]} />
 
   <header class="article-hero">
     <div class="container">

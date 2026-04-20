@@ -2,6 +2,8 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import FortCard from '../components/FortCard.astro';
+import JsonLd from '../components/JsonLd.astro';
+import { organization, webSite } from '../lib/schema';
 
 // Typologie sorted by order
 const typologie = (await getCollection('typologie')).sort(
@@ -43,6 +45,7 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
   title="Ropiky.cz"
   description="Referenční portál o československém opevnění z let 1935–1938. Typologie, katalog pevností, historie a mapy."
 >
+  <JsonLd data={[organization(), webSite()]} />
   <!-- HERO -->
   <section class="hero hero--with-illustration">
     <div class="hero__content">

@@ -1,6 +1,8 @@
 ---
 import { getCollection, getEntry } from 'astro:content';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import JsonLd from '../../components/JsonLd.astro';
+import { cestaSchema, breadcrumbList } from '../../lib/schema';
 
 export async function getStaticPaths() {
   const entries = await getCollection('cesty', ({ data }) => !data.draft);
@@ -64,6 +66,31 @@ const typIcon: Record<string, string> = {
   priroda: '🌲',
   gastro: '🍽️',
 };
+
+const tripSchema = cestaSchema({
+  slug: entry.slug,
+  title: entry.data.title,
+  description: entry.data.description,
+  region: entry.data.region,
+  delka_km: entry.data.delka_km,
+  delka_dni: entry.data.delka_dni,
+  cover: entry.data.cover,
+  startLat: entry.data.startPoint.lat,
+  startLon: entry.data.startPoint.lon,
+  startName: entry.data.startPoint.nazev,
+  endLat: entry.data.endPoint?.lat,
+  endLon: entry.data.endPoint?.lon,
+  endName: entry.data.endPoint?.nazev,
+  zastavky: entry.data.zastavky,
+  updated: entry.data.updated,
+  tags: entry.data.tags,
+});
+
+const crumb = breadcrumbList([
+  { name: 'Úvod', url: '/' },
+  { name: 'Tematické cesty', url: '/cesty' },
+  { name: entry.data.title, url: `/cesty/${entry.slug}` },
+]);
 ---
 
 <ArticleLayout
@@ -77,6 +104,7 @@ const typIcon: Record<string, string> = {
   updated={entry.data.updated}
   cover={entry.data.cover}
 >
+  <JsonLd data={[tripSchema, crumb]} />
   <aside class="cesta-summary">
     <dl>
       <div>
