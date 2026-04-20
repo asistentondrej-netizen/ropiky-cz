@@ -1,33 +1,137 @@
-title: 'Tvrz Adam'
-code: 'K-S Tvrz Adam'
-type: 'delostrelecka-tvrz'
-line: 'Králíky'
-region: 'Pardubický kraj'
+title: Tvrz Adam
+code: K-S Tvrz Adam
+type: delostrelecka-tvrz
+line: Králíky
+region: Pardubický kraj
 location:
   lat: 50.0942
   lon: 16.7769
-  address: 'Králíky'
-built: '1938'
-state: 'zavreny'
-description: 'Plně dokončená tvrz, třetí z trojice Bouda–Hůrka–Adam v Králickém pevnostním areálu. Nachází se v soukromém vlastnictví, veřejnosti zpravidla nepřístupná.'
-history: |
-  Tvrz Adam byla dokončena v roce 1938 jako třetí z „králické trojice" tvrzí. Po Mnichovu sloužila Wehrmachtu, po válce čs. armádě jako muniční sklad.
+  address: České Petrovice, 564 01
+  elevation: 810
 
-  Na rozdíl od Boudy a Hůrky je Adam dnes v soukromém vlastnictví a veřejnosti zpravidla nepřístupný. Občas se pořádají výjimečné akce nebo prohlídky pro odborné skupiny.
-visit: |
-  Standardně uzavřeno. Sledujte informace Královéhradeckého kraje a Klubu vojenské historie, kteří občas pořádají speciální prohlídky.
-sources:
-  - 'Wikipedia — Adam (dělostřelecká tvrz)'
-  - 'ropiky.net — Adam'
-updated: '2026-04-19'
+built: '1938'
+state: zavreny
+
+description: >
+  Plně dokončená dělostřelecká tvrz, třetí z trojice Bouda–Hůrka–Adam
+  v Králickém pevnostním areálu. Nachází se v blízkosti Českých Petrovic
+  v nadmořské výšce přes 800 m. V současnosti je veřejnosti nepřístupná
+  (objekt v rukou soukromého vlastníka), občas se pořádají výjimečné akce.
+
+# === TECHNICKÁ KARTA ===
+tech:
+  odolnost: IV
+  stupenDokonceni: dokonceny
+  typObjektu: Dělostřelecká tvrz (4 bojové sruby + vchodový)
+  posadka:
+    mini: 290
+    maxi: 303
+  vyzbroj:
+    - zbran: Kulomet ZB vz. 37 (těžký)
+      pocet: 10
+      umisteni: střílny a zvony
+    - zbran: Protitankový kanón vz. 36 (4 cm)
+      pocet: 3
+      umisteni: bojové sruby
+  steny:
+    tloustka_cm: 350
+    material: Železobeton B500
+  komponenty:
+    - pancerovy-zvon
+
+# === STAVBA ===
+stavba:
+  projektant: Ředitelství opevňovacích prací (ŘOP)
+  zahajeni: '1936'
+  dokonceni: '1938'
+
+# === HISTORIE ===
+history: >
+  Tvrz Adam je třetí a zároveň nejvýše položenou tvrzí Králické linie —
+  nachází se v nadmořské výšce přes 800 m u Českých Petrovic. Stavba probíhala
+  souběžně s Boudou a Hůrkou v letech 1936–1938.
+
+
+  Komplex tvoří čtyři bojové sruby (K-S 11 „U lesa", K-S 10 „U silničky",
+  K-S 9 „Pod hřbitovem", K-S 8 „U obce") a vchodový srub K-S 11a, propojené
+  přibližně 1 000 m podzemních chodeb.
+
+
+  Po Mnichovu byla tvrz odevzdána Wehrmachtu bez boje. Po roce 1945 ji
+  převzala Československá lidová armáda a do 90. let ji využívala jako
+  muniční sklad. Na rozdíl od Boudy a Hůrky přešla po privatizaci do soukromých
+  rukou a veřejnosti zůstává zpravidla uzavřena. Občas se pořádají speciální
+  prohlídky pro odborné skupiny nebo při vybraných příležitostech.
+
+historieMilniky:
+  - datum: '1936'
+    udalost: Zahájení stavby
+  - datum: '1938'
+    udalost: Dokončení betonáže a hlavní výstroje
+  - datum: 30. 9. 1938
+    udalost: Mnichov — předání Wehrmachtu
+  - datum: 1945–1993
+    udalost: Muniční sklad ČSLA
+  - datum: po 2000
+    udalost: Privatizace — soukromý vlastník, uzavřeno veřejnosti
+
+# === NÁVŠTĚVA ===
+visit: >
+  Tvrz Adam je standardně veřejnosti **nepřístupná**. Občas se pořádají
+  speciální prohlídky pro odborné skupiny nebo při vybraných akcích
+  Klubu vojenské historie. Sledujte oznámení Králického pevnostního areálu
+  nebo Královéhradeckého kraje. Exteriér bojových srubů lze navštívit
+  samostatně — jsou viditelné z turistických stezek.
+
+navsteva:
+  pristupnost: pesky-turisticka
+  vhodnostRodiny: doporuceno
+  doporucenaDoba_minut: 45
+  otevreno:
+    sezonne: false
+    poznamka: Interiér standardně uzavřen; exteriéry přístupné z turistických stezek.
+  upozorneni:
+    - Interiér tvrze není veřejnosti přístupný.
+    - Exteriéry bojových srubů lze navštívit z veřejných cest.
+
+# === PAMÁTKOVÁ OCHRANA ===
+pamatka:
+  status: kulturni-pamatka
+
+# === MÉDIA ===
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/2/20/Adam_bunkier.jpg
     alt: Bojový srub tvrze Adam
     author: Tomasz Leśniowski
     license: CC BY-SA 4.0
     source: https://commons.wikimedia.org/wiki/File:Adam_bunkier.jpg
+    category: exterier
+    featured: true
   - url: https://upload.wikimedia.org/wikipedia/commons/e/ed/%C4%8Cesk%C3%A9_Petrovice_bunkier_4.jpg
     alt: Srub tvrze Adam v Českých Petrovicích
     author: Tomasz Leśniowski
     license: CC BY-SA 4.0
     source: https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%A9_Petrovice_bunkier_4.jpg
+    category: exterier
+
+# === CROSS-LINKING ===
+related:
+  pevnosti:
+    - tvrz-bouda
+    - tvrz-hurka
+    - tvrz-hanicka
+    - tvrz-stachelberg
+    - tvrz-smolkov
+    - tvrz-dobrosov
+  typologie:
+    - delostrelecka-tvrz
+    - pancerovy-zvon
+
+# === ZDROJE ===
+sources:
+  - title: Wikipedie — Adam (dělostřelecká tvrz)
+    type: web
+  - title: ropiky.net — K-S Tvrz Adam
+    type: web
+
+updated: '2026-04-20'

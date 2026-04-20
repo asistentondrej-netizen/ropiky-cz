@@ -1,31 +1,159 @@
-title: 'Tvrz Hanička'
-code: 'R-S Tvrz Hanička'
-type: 'delostrelecka-tvrz'
-line: 'Rokytnice v Orlických horách'
-region: 'Královéhradecký kraj'
+title: Tvrz Hanička
+code: R-S Tvrz Hanička
+type: delostrelecka-tvrz
+line: Rokytnice v Orlických horách
+region: Královéhradecký kraj
 location:
   lat: 50.1967
   lon: 16.4925
-  address: 'Rokytnice v Orlických horách'
+  address: Rokytnice v Orlických horách, 517 61
+  elevation: 790
+
 built: '1938'
-state: 'muzeum'
-description: 'Plně dokončená tvrz v Orlických horách, přístupná veřejnosti. Během studené války upravena jako tajný kryt — zajímavá vrstva pozdější historie.'
-history: |
-  Tvrz Hanička byla stavěna v letech 1936–1938 a patřila k pěti plně dokončeným tvrzím čs. opevnění. Skládá se ze šesti bojových objektů a jednoho vchodového, propojených podzemím v délce přibližně 1 800 metrů.
+state: muzeum
 
-  V září 1938 byla plně obsazena a připravena k boji. Po Mnichovu opuštěna a předána Wehrmachtu, který ji v letech 1939–1945 využíval pro destruktivní pokusy.
+description: >
+  Plně dokončená dělostřelecká tvrz v Orlických horách, jedna z pěti plně
+  dostavěných tvrzí čs. opevnění. Šest bojových objektů propojených přibližně
+  1 800 metry podzemních chodeb. V období studené války přestavěna na tajný
+  protijaderný kryt ÚV KSČ (akce „Kahan"), což z ní činí unikátní dvojvrstvou
+  památku — ŘOP 1938 + komunistický bunkr 70. let.
 
-  V 70. a 80. letech byla tvrz reaktivována jako tajný protijaderný kryt Ústředního výboru KSČ (projekt „Kahan"). Tato novodobá vrstva dnes tvoří samostatný zajímavý okruh prohlídky.
-visit: |
-  Muzeum je otevřeno od dubna do listopadu, prohlídky s průvodcem. Aktuální otevírací doba a rezervace na hanicka.cz.
-sources:
-  - 'hanicka.cz — oficiální web muzea'
-  - 'Wikipedia — Hanička (dělostřelecká tvrz)'
-  - 'ropiky.net — Hanička'
-updated: '2026-04-18'
+# === TECHNICKÁ KARTA ===
+tech:
+  odolnost: IV
+  stupenDokonceni: dokonceny
+  typObjektu: Dělostřelecká tvrz (6 bojových srubů + vchodový)
+  posadka:
+    mini: 426
+    maxi: 451
+    poznamka: Plánovaný plný stav; za mobilizace 1938 cca 450 mužů.
+  vyzbroj:
+    - zbran: Kulomet ZB vz. 37 (těžký)
+      pocet: 14
+      umisteni: střílny a zvony
+    - zbran: Protitankový kanón vz. 36 (4 cm)
+      pocet: 4
+      umisteni: bojové sruby
+    - zbran: Kulomet ZB vz. 26 (lehký)
+      pocet: 20
+      umisteni: pomocné střílny
+  steny:
+    tloustka_cm: 350
+    material: Železobeton B500
+  komponenty:
+    - pancerovy-zvon
+    - kopule-pozorovaci
+
+# === STAVBA ===
+stavba:
+  projektant: Ředitelství opevňovacích prací (ŘOP)
+  zahajeni: '1936'
+  dokonceni: '1938'
+  poznamka: Dokončena v předvečer mobilizace, po Mnichovu nepoužitá, odevzdána Německu.
+
+# === HISTORIE ===
+history: >
+  Tvrz Hanička byla stavěna v letech 1936–1938 jako součást úseku obrany
+  Rokytnice v Orlických horách. Komplex tvoří šest bojových objektů
+  (R-S 74 až R-S 79) a vchodový srub R-S 79a, propojené podzemím v celkové
+  délce přibližně 1 800 metrů.
+
+
+  V září 1938 byla tvrz plně obsazena posádkou a připravena k boji. Po podepsání
+  Mnichovské dohody 30. září 1938 byla odevzdána Wehrmachtu, který ji
+  v letech 1939–1945 využíval především pro destruktivní pokusy s protipancéřovou
+  municí. Řada objektů utrpěla rozsáhlé poškození, které je dodnes patrné.
+
+
+  V 70. a 80. letech byla Hanička tajně reaktivována v rámci projektu „Kahan"
+  jako protijaderný kryt Ústředního výboru KSČ pro případ třetí světové války.
+  Vnitřní prostory byly kompletně přestavěny a vybaveny klimatizací, filtrovnou,
+  vlastní elektrocentrálou a spací kapacitou pro stovky osob. Tento utajovaný
+  statut trval až do roku 1993.
+
+
+  Od poloviny 90. let je tvrz zpřístupněna veřejnosti. Prohlídka kombinuje
+  obě historické vrstvy — původní opevnění z roku 1938 i pozdější komunistický
+  kryt, což z Haničky činí jedinečnou expozici v evropském kontextu.
+
+historieMilniky:
+  - datum: '1936'
+    udalost: Zahájení stavby tvrze
+  - datum: 9. 1938
+    udalost: Mobilizace — tvrz plně obsazena, připravena k boji
+  - datum: 30. 9. 1938
+    udalost: Mnichov — odevzdána Wehrmachtu nepoužita
+  - datum: 1939–1945
+    udalost: Německé destruktivní pokusy s municí
+  - datum: 1975–1993
+    udalost: Projekt „Kahan" — přestavba na protijaderný kryt ÚV KSČ
+  - datum: '1995'
+    udalost: Zpřístupnění veřejnosti, otevření muzea
+
+# === NÁVŠTĚVA ===
+visit: >
+  Muzeum Tvrz Hanička je otevřeno sezónně od dubna do listopadu s prohlídkami
+  pouze s průvodcem. Nabízí dva různé okruhy: klasický pevnostní (původní stav
+  1938) a „Kahan" (komunistický kryt 70. let). Komplexní návštěva trvá
+  cca 2 hodiny. Aktuální otevírací doba a rezervace na hanicka.cz.
+
+navsteva:
+  pristupnost: auto-kratka-chuze
+  vhodnostRodiny: starsi-deti
+  doporucenaDoba_minut: 120
+  otevreno:
+    sezonne: true
+    obdobi: duben–listopad
+    poznamka: Prohlídka pouze s průvodcem. Aktuální hodiny viz hanicka.cz.
+  teplotaUvnitr_C: 9
+  upozorneni:
+    - Celoroční teplota v podzemí cca 9 °C — teplé oblečení nutné.
+    - Prohlídka zahrnuje schodiště a delší chůzi v podzemí.
+    - Možnost dvou různých okruhů — pevnostního i „Kahan".
+
+# === SPRÁVCE ===
+spravujicSubjekt:
+  nazev: Muzeum Hanička
+  typ: muzeum
+  web: https://www.hanicka.cz
+
+# === PAMÁTKOVÁ OCHRANA ===
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Zapsáno mezi kulturní památky ČR.
+
+# === MÉDIA ===
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg/1280px-Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg
-  alt: Interiér podzemí dělostřelecké tvrze Hanička
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Hani%C4%8Dka,_podzem%C3%AD_(rok_2010;_01).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg/1280px-Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg
+    alt: Interiér podzemí dělostřelecké tvrze Hanička
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Hani%C4%8Dka,_podzem%C3%AD_(rok_2010;_01).jpg
+    category: interier
+    featured: true
+
+# === CROSS-LINKING ===
+related:
+  pevnosti:
+    - tvrz-bouda
+    - tvrz-adam
+    - tvrz-dobrosov
+    - tvrz-hurka
+    - tvrz-smolkov
+    - tvrz-stachelberg
+  typologie:
+    - delostrelecka-tvrz
+    - pancerovy-zvon
+
+# === ZDROJE ===
+sources:
+  - title: Muzeum Hanička — oficiální web
+    url: https://www.hanicka.cz
+    type: web
+  - title: Wikipedie — Hanička (dělostřelecká tvrz)
+    type: web
+  - title: ropiky.net — R-S Tvrz Hanička
+    type: web
+
+updated: '2026-04-20'
