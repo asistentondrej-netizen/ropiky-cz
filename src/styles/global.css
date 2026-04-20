@@ -670,6 +670,82 @@ section { padding: var(--s7) 0; }
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: var(--s3);
 }
+
+/* ---------- Karty cest na homepage ---------- */
+.home-cesty-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--s4);
+  margin-top: var(--s4);
+}
+.home-cesta-card {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--paper-dark);
+  border: 1px solid var(--line);
+  text-decoration: none;
+  color: inherit;
+  overflow: hidden;
+  transition: all 0.2s;
+}
+.home-cesta-card:hover {
+  border-color: var(--khaki);
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-strong);
+}
+.home-cesta-card__thumb {
+  position: relative;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  background-color: var(--line-soft);
+}
+.home-cesta-card__thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s;
+}
+.home-cesta-card:hover .home-cesta-card__thumb img { transform: scale(1.04); }
+.home-cesta-card__duration {
+  position: absolute;
+  top: var(--s2);
+  left: var(--s2);
+  background-color: rgba(26, 22, 18, 0.85);
+  color: var(--paper);
+  padding: 4px 10px;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.home-cesta-card__body {
+  padding: var(--s3) var(--s4) var(--s4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--s2);
+  flex: 1;
+}
+.home-cesta-card__meta {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-med);
+  text-transform: uppercase;
+}
+.home-cesta-card h3 {
+  margin: 0;
+  font-size: 1.375rem;
+  line-height: 1.25;
+  color: var(--ink);
+}
+.home-cesta-card:hover h3 { color: var(--khaki); }
+.home-cesta-card p {
+  color: var(--ink-med);
+  font-size: 0.9375rem;
+  line-height: 1.55;
+  margin: 0;
+  flex: 1;
+}
 .fort-card {
   background-color: var(--paper-dark);
   border: 1px solid var(--line);

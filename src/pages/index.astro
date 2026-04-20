@@ -5,6 +5,17 @@ import FortCard from '../components/FortCard.astro';
 import JsonLd from '../components/JsonLd.astro';
 import { organization, webSite } from '../lib/schema';
 
+const obtiznostLabel: Record<string, string> = {
+  snadna: 'Snadná',
+  stredni: 'Střední',
+  narocna: 'Náročná',
+};
+const rocniLabelShort: Record<string, string> = {
+  celorocne: 'Celoročně',
+  'sezonne-duben-rijen': 'Duben–říjen',
+  'jen-leto': 'Jen v létě',
+};
+
 // Typologie sorted by order
 const typologie = (await getCollection('typologie')).sort(
   (a, b) => a.data.order - b.data.order
@@ -39,6 +50,12 @@ const pevnosti = [
 const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 4);
+
+// Tematické cesty — 3 nejlepší entry pointy (1denní / 2denní), preferuj ty s cover fotkou
+const cestyAll = (await getCollection('cesty', ({ data }) => !data.draft))
+  .filter((c) => c.data.cover)
+  .sort((a, b) => a.data.delka_dni - b.data.delka_dni);
+const cesty = cestyAll.slice(0, 3);
 ---
 
 <BaseLayout
@@ -57,6 +74,7 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
       </p>
       <div class="hero__actions">
         <a href="/katalog" class="btn btn--primary">Prozkoumat katalog</a>
+        <a href="/cesty" class="btn btn--ghost">Naplánovat výlet</a>
         <a href="/o-opevneni/co-je-rop" class="btn btn--ghost">Co je ŘOP?</a>
       </div>
 
@@ -186,6 +204,49 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
     </div>
   </section>
 
+  <!-- CESTY -->
+  {cesty.length > 0 && (
+    <section id="cesty-preview">
+      <div class="container">
+        <header class="section-header">
+          <span class="section-header__num">III.</span>
+          <div class="section-header__content">
+            <h2>Tematické cesty</h2>
+            <p>Hotové itineráře pro víkendy i jednodenní výlety</p>
+          </div>
+        </header>
+
+        <div class="home-cesty-grid">
+          {cesty.map((c) => (
+            <a href={`/cesty/${c.slug}`} class="home-cesta-card">
+              <div class="home-cesta-card__thumb">
+                <img src={c.data.cover} alt={c.data.title} loading="lazy" />
+                <div class="home-cesta-card__duration">
+                  {c.data.delka_dni} {c.data.delka_dni === 1 ? 'den' : c.data.delka_dni < 5 ? 'dny' : 'dní'}
+                </div>
+              </div>
+              <div class="home-cesta-card__body">
+                <div class="home-cesta-card__meta">
+                  <span>{c.data.region}</span>
+                  <span> · </span>
+                  <span>{obtiznostLabel[c.data.obtiznost]}</span>
+                  <span> · </span>
+                  <span>{rocniLabelShort[c.data.rocni]}</span>
+                </div>
+                <h3>{c.data.title}</h3>
+                <p>{c.data.description}</p>
+              </div>
+            </a>
+          ))}
+        </div>
+
+        <div style="text-align: center; margin-top: var(--s5);">
+          <a href="/cesty" class="btn btn--link">Všechny tematické cesty →</a>
+        </div>
+      </div>
+    </section>
+  )}
+
   <!-- FEATURES -->
   <section>
     <div class="container">
@@ -214,7 +275,7 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
     <section>
       <div class="container">
         <header class="section-header">
-          <span class="section-header__num">III.</span>
+          <span class="section-header__num">IV.</span>
           <div class="section-header__content">
             <h2>Aktuality</h2>
             <p>Nové články, objevené objekty, výzkumné zápisky</p>
