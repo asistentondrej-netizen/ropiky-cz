@@ -55,7 +55,7 @@ tags:
   - tvrze
   - vikendovy-okruh
   - rodinna-dovolena
-cover: /img/forts/ks14-cover.jpg
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2000%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2000%29.jpg
 updated: '2026-04-20'
 ---
 

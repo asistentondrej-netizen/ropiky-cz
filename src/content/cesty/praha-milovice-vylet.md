@@ -39,7 +39,7 @@ tags:
   - rodinny-vylet
   - celorocne
   - vychod-do-tematu
-cover: /img/forts/milovice-cover.jpg
+cover: /img/forts/german-bunker-on-komensk-ho-street-milovice-07.jpg
 updated: '2026-04-20'
 ---
 

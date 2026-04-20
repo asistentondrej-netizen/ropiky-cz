@@ -39,7 +39,7 @@ tags:
   - broumovsko
   - priroda-a-historie
   - rodinny-vylet
-cover: /img/forts/t-s-19-cover.jpg
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_01%29.jpg/1280px-Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_01%29.jpg
 updated: '2026-04-20'
 ---
 

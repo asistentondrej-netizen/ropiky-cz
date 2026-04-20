@@ -44,7 +44,7 @@ tags:
   - darkovicky
   - jednodenni
   - rodinny-vylet
-cover: /img/forts/mo-s-5-cover.jpg
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg/1280px-Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg
 updated: '2026-04-20'
 ---
 

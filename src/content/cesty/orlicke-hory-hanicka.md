@@ -44,7 +44,7 @@ tags:
   - kahan
   - studena-valka
   - jednodenni
-cover: /img/forts/hanicka-cover.jpg
+cover: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg
 updated: '2026-04-20'
 ---
 
