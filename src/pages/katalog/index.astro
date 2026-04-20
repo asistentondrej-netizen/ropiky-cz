@@ -13,6 +13,11 @@ const types = [...new Set(all.map((p) => p.data.type))].sort();
 const states = [...new Set(all.map((p) => p.data.state))].sort();
 const total = all.length;
 
+// Rozšířené filtry — jen hodnoty, které reálně existují v datech
+const odolnosti = [...new Set(all.map((p) => p.data.tech?.odolnost).filter(Boolean))].sort();
+const pristupnosti = [...new Set(all.map((p) => p.data.navsteva?.pristupnost).filter(Boolean))].sort();
+const pamatkaStatuses = [...new Set(all.map((p) => p.data.pamatka?.status).filter(Boolean))].sort();
+
 // Štítky pro UI (konzistentní s mapou)
 const typeLabels: Record<string, string> = {
   'delostrelecka-tvrz': 'Dělostřelecká tvrz',
@@ -33,9 +38,35 @@ const stateLabels: Record<string, string> = {
   neznamy: 'Neznámý stav',
 };
 
+const odolnostLabels: Record<string, string> = {
+  'I': 'I (lehké)',
+  'II': 'II',
+  'III': 'III',
+  'IV': 'IV (těžké)',
+  'specialni': 'Speciální',
+};
+
+const pristupnostLabels: Record<string, string> = {
+  'auto': 'Autem až k objektu',
+  'auto-kratka-chuze': 'Auto + krátká chůze',
+  'turisticka-chuze': 'Turistická chůze (30+ min)',
+  'obtizna': 'Obtížný přístup',
+};
+
+const pamatkaLabels: Record<string, string> = {
+  'kulturni-pamatka': 'Kulturní památka',
+  'narodni-kulturni-pamatka': 'Národní kulturní památka',
+};
+
 const countByType = (t: string) => all.filter((p) => p.data.type === t).length;
 const countByState = (s: string) => all.filter((p) => p.data.state === s).length;
 const countByRegion = (r: string) => all.filter((p) => p.data.region === r).length;
+const countByOdolnost = (o: string) => all.filter((p) => p.data.tech?.odolnost === o).length;
+const countByPristupnost = (pr: string) => all.filter((p) => p.data.navsteva?.pristupnost === pr).length;
+const countByPamatka = (pm: string) => all.filter((p) => p.data.pamatka?.status === pm).length;
+const countWithPhotos = all.filter((p) => (p.data.photos?.length ?? 0) > 0).length;
+const countWithFloorplan = all.filter((p) => !!p.data.floorplan).length;
+const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === true).length;
 ---
 
 <BaseLayout
@@ -50,7 +81,7 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
       <h1>Katalog pevností</h1>
       <p class="article-hero__lead" style="margin-top: var(--s3);">
         Databáze <strong>{total}</strong> dokumentovaných objektů s GPS souřadnicemi, aktuálním stavem a fotografiemi.
-        Filtrujte podle typu, stavu nebo úseku — nebo si objekty prohlédněte <a href="/mapa">v mapě</a>.
+        Filtrujte podle typu, stavu, kraje nebo dalších kritérií — nebo si objekty prohlédněte <a href="/mapa">v mapě</a>.
       </p>
     </div>
   </header>
@@ -58,7 +89,18 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
   <section style="padding-top: var(--s4); padding-bottom: var(--s5);">
     <div class="container">
 
-      <!-- Rozcestník / filtry — strukturovaný jako na mapě -->
+      <!-- Rychlé předvolby -->
+      <div class="preset-bar" aria-label="Rychlé předvolby">
+        <span class="preset-label">Rychlá volba:</span>
+        <button class="preset-btn" data-preset="muzea" type="button">🏛️ Muzea</button>
+        <button class="preset-btn" data-preset="tvrze" type="button">🏰 Dělostřelecké tvrze</button>
+        <button class="preset-btn" data-preset="ropiky" type="button">🔹 Řopíky</button>
+        <button class="preset-btn" data-preset="fotky" type="button">📷 S fotografií</button>
+        <button class="preset-btn" data-preset="zdarma" type="button">🎟️ Zdarma</button>
+        <button class="preset-btn" data-preset="pamatky" type="button">⭐ Památky</button>
+      </div>
+
+      <!-- Hlavní filtry -->
       <div class="catalog-filters-box" id="filters">
         <div class="filter-group">
           <span class="filter-label">Typ:</span>
@@ -67,7 +109,7 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
           </button>
           {types.map((t) => (
             <button class="filter-btn" data-filter="type" data-value={t}>
-              {typeLabels[t] ?? t} ({countByType(t)})
+              {typeLabels[t] ?? t} (<span class="facet-count" data-facet-count={`type:${t}`}>{countByType(t)}</span>)
             </button>
           ))}
         </div>
@@ -79,7 +121,7 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
           </button>
           {states.map((s) => (
             <button class="filter-btn" data-filter="state" data-value={s}>
-              {stateLabels[s] ?? s} ({countByState(s)})
+              {stateLabels[s] ?? s} (<span class="facet-count" data-facet-count={`state:${s}`}>{countByState(s)}</span>)
             </button>
           ))}
         </div>
@@ -91,16 +133,97 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
           </button>
           {regions.map((r) => (
             <button class="filter-btn" data-filter="region" data-value={r}>
-              {r} ({countByRegion(r)})
+              {r} (<span class="facet-count" data-facet-count={`region:${r}`}>{countByRegion(r)}</span>)
             </button>
           ))}
         </div>
+
+        <!-- Rozšířené filtry (toggleable) -->
+        <details class="filter-advanced">
+          <summary class="filter-advanced-toggle">
+            <span>Rozšířené filtry</span>
+            <span class="filter-advanced-hint">— odolnost, přístupnost, památková ochrana, média</span>
+          </summary>
+          <div class="filter-advanced-body">
+
+            {odolnosti.length > 1 && (
+              <div class="filter-group">
+                <span class="filter-label">Odolnost:</span>
+                <button class="filter-btn is-active" data-filter="odolnost" data-value="all">
+                  Vše
+                </button>
+                {odolnosti.map((o) => (
+                  <button class="filter-btn" data-filter="odolnost" data-value={o}>
+                    {odolnostLabels[o] ?? o} (<span class="facet-count" data-facet-count={`odolnost:${o}`}>{countByOdolnost(o)}</span>)
+                  </button>
+                ))}
+              </div>
+            )}
+
+            {pristupnosti.length > 0 && (
+              <div class="filter-group">
+                <span class="filter-label">Přístup:</span>
+                <button class="filter-btn is-active" data-filter="pristupnost" data-value="all">
+                  Vše
+                </button>
+                {pristupnosti.map((pr) => (
+                  <button class="filter-btn" data-filter="pristupnost" data-value={pr}>
+                    {pristupnostLabels[pr] ?? pr} (<span class="facet-count" data-facet-count={`pristupnost:${pr}`}>{countByPristupnost(pr)}</span>)
+                  </button>
+                ))}
+              </div>
+            )}
+
+            {pamatkaStatuses.length > 0 && (
+              <div class="filter-group">
+                <span class="filter-label">Památka:</span>
+                <button class="filter-btn is-active" data-filter="pamatka" data-value="all">
+                  Vše
+                </button>
+                {pamatkaStatuses.map((pm) => (
+                  <button class="filter-btn" data-filter="pamatka" data-value={pm}>
+                    {pamatkaLabels[pm] ?? pm} (<span class="facet-count" data-facet-count={`pamatka:${pm}`}>{countByPamatka(pm)}</span>)
+                  </button>
+                ))}
+              </div>
+            )}
+
+            <div class="filter-group">
+              <span class="filter-label">Média:</span>
+              <button class="filter-btn is-active" data-filter="has-photos" data-value="all">
+                Vše
+              </button>
+              <button class="filter-btn" data-filter="has-photos" data-value="yes">
+                📷 Má fotografie (<span class="facet-count" data-facet-count="has-photos:yes">{countWithPhotos}</span>)
+              </button>
+              {countWithFloorplan > 0 && (
+                <button class="filter-btn" data-filter="has-floorplan" data-value="yes">
+                  📐 Má půdorys (<span class="facet-count" data-facet-count="has-floorplan:yes">{countWithFloorplan}</span>)
+                </button>
+              )}
+            </div>
+
+            {countFreeEntry > 0 && (
+              <div class="filter-group">
+                <span class="filter-label">Vstupné:</span>
+                <button class="filter-btn is-active" data-filter="vstupne" data-value="all">
+                  Vše
+                </button>
+                <button class="filter-btn" data-filter="vstupne" data-value="zdarma">
+                  Zdarma (<span class="facet-count" data-facet-count="vstupne:zdarma">{countFreeEntry}</span>)
+                </button>
+              </div>
+            )}
+
+          </div>
+        </details>
 
         <div class="filter-footer">
           <span class="filter-counter">
             Zobrazeno: <strong id="visible-count">{total}</strong> z {total}
           </span>
           <button class="filter-reset" id="reset-filters" type="button">Resetovat filtry</button>
+          <button class="filter-export" id="export-csv" type="button" title="Export viditelných pevností do CSV">📊 CSV</button>
           <a href="/mapa" class="filter-mapa">Zobrazit v mapě →</a>
         </div>
       </div>
@@ -124,6 +247,14 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
                 data-region={p.data.region}
                 data-type={p.data.type}
                 data-state={p.data.state}
+                data-odolnost={p.data.tech?.odolnost ?? ''}
+                data-pristupnost={p.data.navsteva?.pristupnost ?? ''}
+                data-pamatka={p.data.pamatka?.status ?? ''}
+                data-has-photos={(p.data.photos?.length ?? 0) > 0 ? 'yes' : 'no'}
+                data-has-floorplan={p.data.floorplan ? 'yes' : 'no'}
+                data-vstupne={p.data.navsteva?.vstupne?.zdarma === true ? 'zdarma' : ''}
+                data-title={p.data.title.toLowerCase()}
+                data-code={p.data.code.toLowerCase()}
               >
                 <FortCard
                   title={p.data.title}
@@ -165,6 +296,47 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
       flex-direction: column;
       gap: var(--s2);
     }
+    .preset-bar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: var(--s3);
+      padding: var(--s2) var(--s3);
+      background: #fff;
+      border: 1px solid var(--line-soft);
+      border-left: 3px solid #7A3B2E;
+    }
+    .preset-label {
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: var(--ink-light);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin-right: 4px;
+    }
+    .preset-btn {
+      background: var(--paper-dark);
+      border: 1px solid var(--line);
+      padding: 5px 10px;
+      font-size: 0.8125rem;
+      font-family: inherit;
+      color: var(--ink);
+      cursor: pointer;
+      transition: all 0.15s ease;
+      border-radius: 0;
+    }
+    .preset-btn:hover {
+      background: #7A3B2E;
+      color: white;
+      border-color: #7A3B2E;
+    }
+    .preset-btn.is-active {
+      background: #7A3B2E;
+      color: white;
+      border-color: #7A3B2E;
+      font-weight: 600;
+    }
     .filter-group {
       display: flex;
       flex-wrap: wrap;
@@ -175,7 +347,7 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
       font-weight: 600;
       font-size: 0.875rem;
       color: var(--ink);
-      min-width: 60px;
+      min-width: 80px;
       text-transform: uppercase;
       letter-spacing: 0.05em;
     }
@@ -199,6 +371,46 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
       color: white;
       border-color: #7A3B2E;
     }
+    .filter-btn.is-disabled {
+      opacity: 0.4;
+      pointer-events: none;
+    }
+    .filter-advanced {
+      border-top: 1px dashed var(--line-soft);
+      padding-top: var(--s2);
+      margin-top: 4px;
+    }
+    .filter-advanced-toggle {
+      cursor: pointer;
+      padding: 4px 0;
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--ink);
+      list-style: none;
+      user-select: none;
+    }
+    .filter-advanced-toggle::-webkit-details-marker { display: none; }
+    .filter-advanced-toggle::before {
+      content: '▶ ';
+      display: inline-block;
+      margin-right: 4px;
+      transition: transform 0.15s ease;
+      font-size: 0.75rem;
+    }
+    .filter-advanced[open] .filter-advanced-toggle::before {
+      transform: rotate(90deg);
+    }
+    .filter-advanced-hint {
+      font-weight: 400;
+      color: var(--ink-light);
+      font-size: 0.8125rem;
+    }
+    .filter-advanced-body {
+      display: flex;
+      flex-direction: column;
+      gap: var(--s2);
+      padding-top: var(--s2);
+    }
     .filter-footer {
       display: flex;
       flex-wrap: wrap;
@@ -216,7 +428,7 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
     .filter-counter strong {
       color: var(--ink);
     }
-    .filter-reset {
+    .filter-reset, .filter-export {
       background: transparent;
       border: 1px solid var(--line);
       padding: 4px 10px;
@@ -226,7 +438,7 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
       cursor: pointer;
       border-radius: 0;
     }
-    .filter-reset:hover {
+    .filter-reset:hover, .filter-export:hover {
       background: var(--paper);
       border-color: var(--ink);
     }
@@ -238,6 +450,11 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
     }
     .filter-mapa:hover {
       text-decoration: underline;
+    }
+    .facet-count {
+      font-family: monospace;
+      font-size: 0.75rem;
+      opacity: 0.85;
     }
     .catalog-note {
       margin-top: var(--s3);
@@ -336,20 +553,29 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
       .filter-label { min-width: auto; }
       .filter-footer { flex-direction: column; align-items: flex-start; }
       .filter-mapa { margin-left: 0; }
+      .preset-bar { flex-direction: column; align-items: flex-start; }
     }
   </style>
 
   <script>
     const PER_PAGE = 50;
-    const filterState: Record<string, string> = { type: 'all', state: 'all', region: 'all' };
+    type FilterKey = 'type' | 'state' | 'region' | 'odolnost' | 'pristupnost' | 'pamatka' | 'has-photos' | 'has-floorplan' | 'vstupne';
+    const FILTER_KEYS: FilterKey[] = ['type', 'state', 'region', 'odolnost', 'pristupnost', 'pamatka', 'has-photos', 'has-floorplan', 'vstupne'];
+    const filterState: Record<string, string> = {
+      type: 'all', state: 'all', region: 'all',
+      odolnost: 'all', pristupnost: 'all', pamatka: 'all',
+      'has-photos': 'all', 'has-floorplan': 'all', vstupne: 'all',
+    };
     let currentPage = 1;
 
     const buttons = document.querySelectorAll<HTMLButtonElement>('.filter-btn');
+    const presetBtns = document.querySelectorAll<HTMLButtonElement>('.preset-btn');
     const items = Array.from(document.querySelectorAll<HTMLElement>('#fort-grid .fort-grid-item'));
     const counterEl = document.getElementById('visible-count');
     const noResultsEl = document.getElementById('no-results');
     const gridEl = document.getElementById('fort-grid');
     const resetBtn = document.getElementById('reset-filters');
+    const exportBtn = document.getElementById('export-csv');
     const noResultsResetBtn = document.getElementById('no-results-reset');
     const paginationEl = document.getElementById('pagination');
     const pagesEl = document.getElementById('pagination-pages');
@@ -357,13 +583,44 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
     const nextBtn = document.getElementById('page-next') as HTMLButtonElement | null;
     const paginationTopEl = document.getElementById('pagination-top');
     const paginationInfoEl = document.getElementById('pagination-info');
+    const advancedEl = document.querySelector('.filter-advanced') as HTMLDetailsElement | null;
+
+    function itemMatches(item: HTMLElement, state: Record<string, string>): boolean {
+      if (state.type !== 'all' && item.dataset.type !== state.type) return false;
+      if (state.state !== 'all' && item.dataset.state !== state.state) return false;
+      if (state.region !== 'all' && item.dataset.region !== state.region) return false;
+      if (state.odolnost !== 'all' && item.dataset.odolnost !== state.odolnost) return false;
+      if (state.pristupnost !== 'all' && item.dataset.pristupnost !== state.pristupnost) return false;
+      if (state.pamatka !== 'all' && item.dataset.pamatka !== state.pamatka) return false;
+      if (state['has-photos'] !== 'all' && item.dataset.hasPhotos !== state['has-photos']) return false;
+      if (state['has-floorplan'] !== 'all' && item.dataset.hasFloorplan !== state['has-floorplan']) return false;
+      if (state.vstupne !== 'all' && item.dataset.vstupne !== state.vstupne) return false;
+      return true;
+    }
 
     function getMatchedItems() {
-      return items.filter((item) => {
-        const matchType = filterState.type === 'all' || item.dataset.type === filterState.type;
-        const matchState = filterState.state === 'all' || item.dataset.state === filterState.state;
-        const matchRegion = filterState.region === 'all' || item.dataset.region === filterState.region;
-        return matchType && matchState && matchRegion;
+      return items.filter((item) => itemMatches(item, filterState));
+    }
+
+    // Dynamické facet counts — kolik položek by zbylo, kdyby uživatel změnil jen tento filtr
+    function updateFacetCounts() {
+      const facets = document.querySelectorAll<HTMLElement>('[data-facet-count]');
+      facets.forEach((el) => {
+        const [filter, value] = (el.dataset.facetCount || '').split(':');
+        if (!filter || !value) return;
+        // Aplikuj všechny ostatní filtry kromě aktuálního
+        const tempState = { ...filterState, [filter]: value };
+        const count = items.filter((it) => itemMatches(it, tempState)).length;
+        el.textContent = String(count);
+        // Disable button if count is 0 (kromě aktivního)
+        const btn = el.closest<HTMLButtonElement>('.filter-btn');
+        if (btn) {
+          if (count === 0 && !btn.classList.contains('is-active')) {
+            btn.classList.add('is-disabled');
+          } else {
+            btn.classList.remove('is-disabled');
+          }
+        }
       });
     }
 
@@ -377,7 +634,6 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
       prevBtn.disabled = currentPage === 1;
       nextBtn.disabled = currentPage === totalPages;
       pagesEl.innerHTML = '';
-      // Sousedy ±2, vždy zobraz 1 a last, ellipsis pokud mezera
       const pages = new Set<number>([1, totalPages, currentPage - 1, currentPage, currentPage + 1]);
       const validPages = [...pages].filter((p) => p >= 1 && p <= totalPages).sort((a, b) => a - b);
       let prev = 0;
@@ -400,15 +656,13 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
       }
     }
 
-    function render() {
+    function render(updateUrl = true) {
       const matched = getMatchedItems();
       const total = matched.length;
       const totalPages = Math.max(1, Math.ceil(total / PER_PAGE));
       if (currentPage > totalPages) currentPage = totalPages;
 
-      // Skryj nejprve všechno
       items.forEach((it) => (it.style.display = 'none'));
-      // Zobraz jen položky na aktuální straně z filtrovaných
       const from = (currentPage - 1) * PER_PAGE;
       const to = from + PER_PAGE;
       matched.slice(from, to).forEach((it) => (it.style.display = ''));
@@ -434,25 +688,63 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
         }
       }
       renderPagination(totalPages);
+      updateFacetCounts();
+      if (updateUrl) syncUrl();
     }
 
     function goToPage(p: number) {
       currentPage = p;
       render();
-      // Scroll na začátek filtrů (aby bylo vidět od kolik-kam)
       const filtersEl = document.getElementById('filters');
       if (filtersEl) filtersEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 
-    prevBtn?.addEventListener('click', () => {
-      if (currentPage > 1) goToPage(currentPage - 1);
-    });
-    nextBtn?.addEventListener('click', () => {
-      const matched = getMatchedItems();
-      const totalPages = Math.max(1, Math.ceil(matched.length / PER_PAGE));
-      if (currentPage < totalPages) goToPage(currentPage + 1);
+    // ===== URL SYNC =====
+    function syncUrl() {
+      const params = new URLSearchParams();
+      FILTER_KEYS.forEach((k) => {
+        if (filterState[k] && filterState[k] !== 'all') {
+          params.set(k, filterState[k]);
+        }
+      });
+      if (currentPage > 1) params.set('page', String(currentPage));
+      const qs = params.toString();
+      const newUrl = qs ? `?${qs}` : window.location.pathname;
+      history.replaceState(null, '', newUrl);
+    }
+
+    function loadFromUrl() {
+      const params = new URLSearchParams(window.location.search);
+      let anyNonDefault = false;
+      FILTER_KEYS.forEach((k) => {
+        const v = params.get(k);
+        if (v) {
+          filterState[k] = v;
+          anyNonDefault = true;
+        }
+      });
+      const pageParam = params.get('page');
+      if (pageParam) currentPage = Math.max(1, parseInt(pageParam, 10) || 1);
+      // Otevři rozšířené filtry, pokud jsou aplikované
+      const advancedKeys: FilterKey[] = ['odolnost', 'pristupnost', 'pamatka', 'has-photos', 'has-floorplan', 'vstupne'];
+      if (advancedEl && advancedKeys.some((k) => filterState[k] !== 'all')) {
+        advancedEl.open = true;
+      }
+      // Aktivuj správné tlačítka
+      buttons.forEach((btn) => {
+        const f = btn.dataset.filter!;
+        const v = btn.dataset.value!;
+        btn.classList.toggle('is-active', filterState[f] === v);
+      });
+      return anyNonDefault;
+    }
+
+    window.addEventListener('popstate', () => {
+      loadFromUrl();
+      render(false);
     });
 
+    // ===== FILTER BUTTON HANDLER =====
     buttons.forEach((btn) => {
       btn.addEventListener('click', () => {
         const filter = btn.dataset.filter!;
@@ -461,17 +753,74 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
         btn.classList.add('is-active');
         filterState[filter] = value;
         currentPage = 1;
+        clearPresets();
         render();
       });
     });
 
-    function resetAll() {
-      (['type', 'state', 'region'] as const).forEach((f) => {
-        filterState[f] = 'all';
+    // ===== PRESETY =====
+    function clearPresets() {
+      presetBtns.forEach((b) => b.classList.remove('is-active'));
+    }
+
+    function applyPreset(preset: string) {
+      // Reset vše
+      FILTER_KEYS.forEach((k) => { filterState[k] = 'all'; });
+      switch (preset) {
+        case 'muzea':
+          filterState.state = 'muzeum';
+          break;
+        case 'tvrze':
+          filterState.type = 'delostrelecka-tvrz';
+          break;
+        case 'ropiky':
+          filterState.type = 'lo-vz-37';
+          break;
+        case 'fotky':
+          filterState['has-photos'] = 'yes';
+          break;
+        case 'zdarma':
+          filterState.vstupne = 'zdarma';
+          break;
+        case 'pamatky':
+          filterState.pamatka = 'kulturni-pamatka';
+          if (advancedEl) advancedEl.open = true;
+          break;
+      }
+      syncButtonsFromState();
+      currentPage = 1;
+      render();
+    }
+
+    function syncButtonsFromState() {
+      buttons.forEach((btn) => {
+        const f = btn.dataset.filter!;
+        const v = btn.dataset.value!;
+        btn.classList.toggle('is-active', filterState[f] === v);
       });
+    }
+
+    presetBtns.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const preset = btn.dataset.preset!;
+        const wasActive = btn.classList.contains('is-active');
+        clearPresets();
+        if (!wasActive) {
+          btn.classList.add('is-active');
+          applyPreset(preset);
+        } else {
+          resetAll();
+        }
+      });
+    });
+
+    // ===== RESET =====
+    function resetAll() {
+      FILTER_KEYS.forEach((f) => { filterState[f] = 'all'; });
       buttons.forEach((b) => {
         b.classList.toggle('is-active', b.dataset.value === 'all');
       });
+      clearPresets();
       currentPage = 1;
       render();
     }
@@ -479,7 +828,36 @@ const countByRegion = (r: string) => all.filter((p) => p.data.region === r).leng
     resetBtn?.addEventListener('click', resetAll);
     noResultsResetBtn?.addEventListener('click', resetAll);
 
-    // Inicializace
-    render();
+    // ===== CSV EXPORT =====
+    exportBtn?.addEventListener('click', () => {
+      const matched = getMatchedItems();
+      const header = ['title', 'code', 'type', 'state', 'region', 'url'];
+      const rows = [header.join(',')];
+      matched.forEach((it) => {
+        const card = it.querySelector<HTMLAnchorElement>('a');
+        const href = card?.getAttribute('href') ?? '';
+        const title = it.dataset.title ?? '';
+        const code = it.dataset.code ?? '';
+        const type = it.dataset.type ?? '';
+        const state = it.dataset.state ?? '';
+        const region = it.dataset.region ?? '';
+        const esc = (v: string) => `"${v.replace(/"/g, '""')}"`;
+        rows.push([esc(title), esc(code), esc(type), esc(state), esc(region), esc(href)].join(','));
+      });
+      const csv = rows.join('\n');
+      const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `ropiky-katalog-${new Date().toISOString().slice(0, 10)}.csv`;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    });
+
+    // ===== INICIALIZACE =====
+    loadFromUrl();
+    render(false);
   </script>
 </BaseLayout>
