@@ -24,7 +24,62 @@ const isActive = (path: string) =>
 
     <div class="header-actions">
       <SearchBar />
-      <a href="/katalog" class="header-action">Prozkoumat</a>
+      <a href="/katalog" class="header-action header-action--desktop">Prozkoumat</a>
+      <button class="nav-toggle" type="button" aria-label="Otevřít menu" aria-expanded="false" aria-controls="mobile-nav">
+        <span class="nav-toggle__bar"></span>
+        <span class="nav-toggle__bar"></span>
+        <span class="nav-toggle__bar"></span>
+      </button>
     </div>
   </div>
+
+  <nav id="mobile-nav" class="mobile-nav" aria-label="Mobilní navigace" hidden>
+    <a href="/o-opevneni/co-je-rop" aria-current={isActive('/o-opevneni') ? 'page' : undefined}>O opevnění</a>
+    <a href="/typologie" aria-current={isActive('/typologie') ? 'page' : undefined}>Typologie</a>
+    <a href="/katalog" aria-current={isActive('/katalog') ? 'page' : undefined}>Katalog pevností</a>
+    <a href="/mapa" aria-current={isActive('/mapa') ? 'page' : undefined}>Mapa</a>
+    <a href="/cesty" aria-current={isActive('/cesty') ? 'page' : undefined}>Cesty</a>
+    <a href="/clanky" aria-current={isActive('/clanky') ? 'page' : undefined}>Články</a>
+  </nav>
 </header>
+
+<script is:inline>
+  (function () {
+    const toggle = document.querySelector('.nav-toggle');
+    const menu = document.getElementById('mobile-nav');
+    if (!toggle || !menu) return;
+
+    function closeMenu() {
+      toggle.setAttribute('aria-expanded', 'false');
+      menu.hidden = true;
+      document.body.classList.remove('nav-open');
+    }
+    function openMenu() {
+      toggle.setAttribute('aria-expanded', 'true');
+      menu.hidden = false;
+      document.body.classList.add('nav-open');
+    }
+
+    toggle.addEventListener('click', () => {
+      const expanded = toggle.getAttribute('aria-expanded') === 'true';
+      if (expanded) closeMenu(); else openMenu();
+    });
+
+    // Close menu when a link is clicked
+    menu.querySelectorAll('a').forEach((a) => {
+      a.addEventListener('click', closeMenu);
+    });
+
+    // Close on Escape
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') {
+        closeMenu();
+        toggle.focus();
+      }
+    });
+
+    // Close when viewport grows past breakpoint
+    const mq = window.matchMedia('(min-width: 900px)');
+    mq.addEventListener('change', (e) => { if (e.matches) closeMenu(); });
+  })();
+</script>

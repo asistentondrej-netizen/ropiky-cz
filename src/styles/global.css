@@ -139,6 +139,74 @@ p { margin-bottom: var(--s3); max-width: 68ch; }
   gap: var(--s2);
 }
 
+/* ---------- Mobile hamburger ---------- */
+.nav-toggle {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  width: 40px;
+  height: 40px;
+  background: transparent;
+  border: 1px solid var(--line);
+  cursor: pointer;
+  padding: 0;
+  transition: border-color 0.15s;
+}
+.nav-toggle:hover,
+.nav-toggle[aria-expanded="true"] { border-color: var(--khaki); }
+.nav-toggle__bar {
+  display: block;
+  width: 20px;
+  height: 2px;
+  background-color: var(--ink);
+  transition: transform 0.2s, opacity 0.2s;
+}
+.nav-toggle[aria-expanded="true"] .nav-toggle__bar:nth-child(1) {
+  transform: translateY(7px) rotate(45deg);
+}
+.nav-toggle[aria-expanded="true"] .nav-toggle__bar:nth-child(2) { opacity: 0; }
+.nav-toggle[aria-expanded="true"] .nav-toggle__bar:nth-child(3) {
+  transform: translateY(-7px) rotate(-45deg);
+}
+@media (min-width: 900px) {
+  .nav-toggle { display: none; }
+}
+@media (max-width: 899px) {
+  .header-action--desktop { display: none; }
+}
+
+/* ---------- Mobile drawer nav ---------- */
+.mobile-nav {
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(241, 236, 224, 0.98);
+  backdrop-filter: blur(8px);
+  border-top: 1px solid var(--line-soft);
+  border-bottom: 1px solid var(--line-soft);
+  padding: var(--s2) var(--s3);
+}
+.mobile-nav a {
+  display: block;
+  padding: var(--s2) 0;
+  font-family: var(--font-serif);
+  font-size: 1.125rem;
+  color: var(--ink);
+  border-bottom: 1px solid var(--line-soft);
+  transition: color 0.15s, padding-left 0.15s;
+}
+.mobile-nav a:last-child { border-bottom: none; }
+.mobile-nav a:hover,
+.mobile-nav a[aria-current="page"] {
+  color: var(--khaki);
+  padding-left: var(--s1);
+}
+@media (min-width: 900px) {
+  .mobile-nav { display: none !important; }
+}
+body.nav-open { overflow: hidden; }
+
 /* ---------- Search — lupa v headeru ---------- */
 .search-trigger {
   display: inline-flex;
@@ -906,4 +974,32 @@ section { padding: var(--s7) 0; }
   .hero__content { padding: var(--s5) var(--s3); }
   .section-header { flex-direction: column; gap: var(--s1); }
   .section-header__num { font-size: 2rem; }
+
+  /* Logo zmenšit na telefonu */
+  .site-logo__primary { font-size: 1.125rem; }
+  .site-logo__secondary { font-size: 0.625rem; letter-spacing: 0.1em; }
+
+  /* Tabulky v článcích — na mobilu horizontální scroll místo překryvu */
+  .article-body table {
+    display: block;
+    overflow-x: auto;
+    width: 100%;
+    max-width: 100%;
+    font-size: 0.875rem;
+    -webkit-overflow-scrolling: touch;
+  }
+  .article-body th,
+  .article-body td {
+    padding: var(--s1) var(--s2);
+    white-space: normal;
+  }
+
+  /* Obrázky v článcích přesahující nikdy přes viewport */
+  .article-body img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Karty trochu menší padding */
+  .fort-card { padding: var(--s3); }
 }
