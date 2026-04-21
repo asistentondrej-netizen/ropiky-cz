@@ -6,6 +6,7 @@ region: Pardubický kraj
 location:
   lat: 50.086518
   lon: 16.73699
+  elevation: 545
 built: '1937'
 state: zachovaly
 description: Pěchotní srub podél železnice Králíky–Hanušovice. Oboustranný typ B odolnosti

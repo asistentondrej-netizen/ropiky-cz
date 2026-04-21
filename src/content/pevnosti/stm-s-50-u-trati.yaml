@@ -6,6 +6,7 @@ region: Olomoucký kraj
 location:
   lat: 50.16564
   lon: 17.02641
+  elevation: 680
 built: '1938'
 state: neznamy
 description: Pěchotní srub u železniční trati ve Branné. Pozdní stavba (1938), odolnost

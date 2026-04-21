@@ -6,6 +6,7 @@ region: 'Liberecký kraj'
 location:
   lat: 50.8421
   lon: 15.2310
+  elevation: 978
   address: 'Jizerské hory — okolí Smědavy'
 built: '1937'
 state: neznamy

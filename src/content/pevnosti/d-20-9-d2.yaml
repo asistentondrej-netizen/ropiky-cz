@@ -6,6 +6,7 @@ region: "Karlovarský kraj"
 location:
   lat: 49.895495
   lon: 13.058820
+  elevation: 525
 state: neznamy
 description: Lehký objekt vz. 36 D-20/9/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

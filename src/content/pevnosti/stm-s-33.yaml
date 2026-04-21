@@ -6,6 +6,7 @@ region: Olomoucký kraj
 location:
   lat: 50.17317
   lon: 16.96254
+  elevation: 696
   address: Staré Město pod Sněžníkem — Kunčice
 built: '1937'
 state: zachovaly

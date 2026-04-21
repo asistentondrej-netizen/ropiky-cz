@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.415475
   lon: 16.198026
+  elevation: 479
   address: Náchod-Běloves
 built: '1937'
 state: muzeum

@@ -6,6 +6,7 @@ region: 'Královéhradecký kraj'
 location:
   lat: 50.6783
   lon: 15.7320
+  elevation: 1086
   address: 'Krkonoše — okolí Pomezních Bud'
 built: '1937'
 state: neznamy

@@ -6,6 +6,7 @@ region: "Karlovarský kraj"
 location:
   lat: 49.834964
   lon: 13.056467
+  elevation: 376
   # start_date: 1937-01-15
 built: '1937'
 state: neznamy

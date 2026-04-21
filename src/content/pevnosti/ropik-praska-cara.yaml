@@ -6,6 +6,7 @@ region: 'Středočeský kraj'
 location:
   lat: 49.9889
   lon: 14.2194
+  elevation: 411
   address: 'oblast Rudná–Loděnice, Praha-západ'
 built: '1938'
 state: neznamy

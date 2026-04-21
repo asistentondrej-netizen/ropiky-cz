@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.72852
   lon: 16.77366
+  elevation: 240
   address: Boří les jižně od Valtic, směr Kolonáda Rajstna
 built: '1937'
 state: pristupny

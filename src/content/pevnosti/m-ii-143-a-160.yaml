@@ -6,6 +6,7 @@ region: "Košický kraj"
 location:
   lat: 48.577740
   lon: 21.553358
+  elevation: 167
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" M-II/143/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

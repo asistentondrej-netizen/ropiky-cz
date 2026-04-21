@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 50.186234
   lon: 15.019729
+  elevation: 187
 state: neznamy
 description: "Pěchotní srub Pozotrovatelna CO Drahelice. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

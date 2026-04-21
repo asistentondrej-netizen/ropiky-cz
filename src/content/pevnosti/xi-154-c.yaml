@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 50.588478
   lon: 13.837510
+  elevation: 196
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" XI./154/C -. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

@@ -6,6 +6,7 @@ region: "Žilinský kraj"
 location:
   lat: 49.017207
   lon: 19.292515
+  elevation: 538
 state: neznamy
 description: "Dělostřelecký objekt Bunker SNP. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

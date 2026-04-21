@@ -6,6 +6,7 @@ region: 'Jihočeský kraj'
 location:
   lat: 48.7789
   lon: 14.3328
+  elevation: 740
   address: 'Okolí Českého Krumlova / Vyššího Brodu'
 built: '1938'
 state: neznamy

@@ -6,6 +6,7 @@ region: "Prešovský kraj"
 location:
   lat: 48.919294
   lon: 22.097944
+  elevation: 678
 state: neznamy
 description: "Pěchotní srub Prvorepublikový bunker č.2. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

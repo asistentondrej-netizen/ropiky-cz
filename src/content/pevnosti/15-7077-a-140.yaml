@@ -6,6 +6,7 @@ region: "Kraj Vysočina"
 location:
   lat: 49.004141
   lon: 16.401257
+  elevation: 218
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" 15/7077/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

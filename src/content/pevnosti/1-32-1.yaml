@@ -6,6 +6,7 @@ region: Neurčeno
 location:
   lat: 48.903380
   lon: 15.813240
+  elevation: 383
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" 1/32/1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

@@ -6,6 +6,7 @@ region: "Ústecký kraj"
 location:
   lat: 50.834823
   lon: 14.361633
+  elevation: 268
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" N2/31/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

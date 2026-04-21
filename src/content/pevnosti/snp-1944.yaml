@@ -6,6 +6,7 @@ region: "Žilinský kraj"
 location:
   lat: 49.017497
   lon: 19.284525
+  elevation: 575
 state: neznamy
 description: Lehký objekt vz. 36 SNP 1944. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

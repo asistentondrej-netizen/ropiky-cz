@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.4078
   lon: 16.1783
+  elevation: 453
   address: Dobrošov, nad tvrzí
 built: '1938'
 state: zachovaly

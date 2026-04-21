@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.78309
   lon: 16.77869
+  elevation: 170
   address: Jižní břeh Hlohoveckého rybníka, obec Hlohovec
 built: '1938'
 state: pristupny

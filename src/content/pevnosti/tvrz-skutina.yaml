@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.354305555
   lon: 16.292222222
+  elevation: 743
   address: Sněžné
 state: zachovaly
 

@@ -6,6 +6,7 @@ region: 'Jihomoravský kraj'
 location:
   lat: 48.7708
   lon: 16.0103
+  elevation: 240
   address: 'Šatov 395, 671 22 Šatov'
 built: '1938'
 state: 'muzeum'

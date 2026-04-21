@@ -6,6 +6,7 @@ region: "Plzeňský kraj"
 location:
   lat: 49.639874
   lon: 12.997441
+  elevation: 443
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" VIII.a/38/A. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

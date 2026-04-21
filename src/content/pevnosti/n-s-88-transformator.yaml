@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.43086667
   lon: 16.18144167
+  elevation: 413
 built: '1937'
 state: neznamy
 description: Pěchotní srub „Transformátor" — název podle přibližnosti trafostanice.

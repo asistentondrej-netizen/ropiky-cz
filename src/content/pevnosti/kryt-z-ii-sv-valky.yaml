@@ -6,6 +6,7 @@ region: "Královéhradecký kraj"
 location:
   lat: 50.234352
   lon: 15.801875
+  elevation: 247
 state: neznamy
 description: "Pěchotní srub Kryt z II. sv. války. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

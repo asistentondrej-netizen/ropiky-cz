@@ -6,6 +6,7 @@ region: "Bratislavský kraj"
 location:
   lat: 48.117089
   lon: 17.081486
+  elevation: 134
 state: neznamy
 description: Lehký objekt vz. 36 Kugelstand. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

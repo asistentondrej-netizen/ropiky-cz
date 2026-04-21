@@ -6,6 +6,7 @@ region: "Žilinský kraj"
 location:
   lat: 49.015092
   lon: 19.289012
+  elevation: 625
 state: neznamy
 description: Lehký objekt vz. 36 SNP 1944 - sklad munície. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

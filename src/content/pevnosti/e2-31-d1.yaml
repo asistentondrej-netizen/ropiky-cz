@@ -6,6 +6,7 @@ region: "Královéhradecký kraj"
 location:
   lat: 50.434117
   lon: 16.177530
+  elevation: 420
 state: neznamy
 description: Lehký objekt vz. 36 E2/31/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

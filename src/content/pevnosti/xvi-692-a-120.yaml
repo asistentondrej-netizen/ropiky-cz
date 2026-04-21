@@ -6,6 +6,7 @@ region: "Banskobystrický kraj"
 location:
   lat: 48.227585
   lon: 19.360198
+  elevation: 387
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" XVI/692/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

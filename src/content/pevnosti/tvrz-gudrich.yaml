@@ -6,6 +6,7 @@ region: Moravskoslezský kraj
 location:
   lat: 49.9758
   lon: 17.6725
+  elevation: 492
   address: Opavsko
 state: zachovaly
 

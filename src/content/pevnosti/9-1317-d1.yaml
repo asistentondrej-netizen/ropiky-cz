@@ -6,6 +6,7 @@ region: "Jihočeský kraj"
 location:
   lat: 49.006018
   lon: 15.324098
+  elevation: 589
 state: neznamy
 description: Lehký objekt vz. 36 9/1317/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

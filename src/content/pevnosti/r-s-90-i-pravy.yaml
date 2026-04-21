@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.23141111
   lon: 16.487825
+  elevation: 957
 built: '1938'
 state: zachovaly
 description: Pravostranný objekt dvojice R-S 90 — pozdní stavba v pohraniční oblasti

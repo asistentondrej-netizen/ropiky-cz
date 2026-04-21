@@ -6,6 +6,7 @@ region: "Žilinský kraj"
 location:
   lat: 49.168069
   lon: 18.879584
+  elevation: 519
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" Partizánske zemľanky. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

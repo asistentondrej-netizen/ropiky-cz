@@ -6,6 +6,7 @@ region: Pardubický kraj
 location:
   lat: 50.075096
   lon: 16.669935
+  elevation: 780
 built: '1937'
 state: pristupny
 description: Pěchotní srub na horském sedle mezi Lichkovem a Mladkovem. Odolnost III,

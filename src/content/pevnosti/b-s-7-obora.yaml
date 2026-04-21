@@ -6,6 +6,7 @@ region: Slovensko
 location:
   lat: 48.1292
   lon: 17.1049
+  elevation: 138
   address: Bratislava-Petržalka, Obora
 built: '1937'
 state: zachovaly

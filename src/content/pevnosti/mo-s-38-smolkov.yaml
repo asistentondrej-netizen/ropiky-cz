@@ -6,6 +6,7 @@ region: Moravskoslezský kraj
 location:
   lat: 49.9187
   lon: 18.2145
+  elevation: 262
   address: Háj ve Slezsku - Smolkov
 built: '1937'
 state: zachovaly

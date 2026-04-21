@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 49.728085
   lon: 13.866991
+  elevation: 754
 state: neznamy
 description: Objekt československého opevnění Bunkr Jordán. Základní záznam — čeká na doplnění dat.
 sources:

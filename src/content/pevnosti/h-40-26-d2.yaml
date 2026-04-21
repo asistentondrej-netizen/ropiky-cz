@@ -6,6 +6,7 @@ region: "Plzeňský kraj"
 location:
   lat: 49.184095
   lon: 13.491235
+  elevation: 585
 state: neznamy
 description: Lehký objekt vz. 36 H-40/26/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

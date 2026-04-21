@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.5644
   lon: 15.9121
+  elevation: 416
   address: Trutnov — okolí Sedmihorek
 built: '1937'
 state: zachovaly

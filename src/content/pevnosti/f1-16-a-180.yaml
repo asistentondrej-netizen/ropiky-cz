@@ -6,6 +6,7 @@ region: "Královéhradecký kraj"
 location:
   lat: 50.458247
   lon: 16.167087
+  elevation: 490
   # start_date: 1938-01-01
 built: '1938'
 state: neznamy

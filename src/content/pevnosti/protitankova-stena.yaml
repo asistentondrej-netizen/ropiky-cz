@@ -6,6 +6,7 @@ region: "Bratislavský kraj"
 location:
   lat: 48.105540
   lon: 17.107090
+  elevation: 137
 state: neznamy
 description: Objekt československého opevnění Protitanková stena. Základní záznam — čeká na doplnění dat.
 sources:

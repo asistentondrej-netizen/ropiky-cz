@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.7329405
   lon: 16.8974508
+  elevation: 157
   address: NPR Soutok jižně od Lanžhota, lužní lesy u slovenské hranice
 built: '1938'
 state: pristupny

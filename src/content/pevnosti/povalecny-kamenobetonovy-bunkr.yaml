@@ -6,6 +6,7 @@ region: "Jihočeský kraj"
 location:
   lat: 48.715344
   lon: 14.708588
+  elevation: 788
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" Poválečný kamenobetonový bunkr. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

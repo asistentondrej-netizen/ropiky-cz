@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.5878
   lon: 16.1567
+  elevation: 584
   address: Teplice nad Metují, svah nad obcí
 built: '1938'
 state: muzeum

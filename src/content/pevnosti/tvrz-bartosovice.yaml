@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.1661111
   lon: 16.5094444
+  elevation: 664
   address: Bartošovice v Orlických horách
 state: zachovaly
 

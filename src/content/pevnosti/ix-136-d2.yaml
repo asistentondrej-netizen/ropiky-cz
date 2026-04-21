@@ -6,6 +6,7 @@ region: "Olomoucký kraj"
 location:
   lat: 50.169500
   lon: 16.999487
+  elevation: 747
 state: neznamy
 description: Lehký objekt vz. 36 IX/136/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

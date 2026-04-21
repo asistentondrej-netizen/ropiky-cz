@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.8183362
   lon: 16.5389716
+  elevation: 178
   address: Polní trať jižně od Novosedel, poblíž silnice do Dobrého Pole
 built: '1938'
 state: pristupny

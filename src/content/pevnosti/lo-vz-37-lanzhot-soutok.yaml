@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.66317
   lon: 16.93284
+  elevation: 152
   address: Hrázová cesta, Lanžhot (NPR Soutok Dyje—Moravy)
 built: '1938'
 state: pristupny

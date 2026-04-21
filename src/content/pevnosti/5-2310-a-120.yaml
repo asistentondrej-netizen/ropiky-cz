@@ -6,6 +6,7 @@ region: "Jihomoravský kraj"
 location:
   lat: 48.851840
   lon: 15.932950
+  elevation: 406
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" 5/2310/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.15930833
   lon: 16.52389722
+  elevation: 650
 built: '1937'
 state: pristupny
 description: Pěchotní srub „Křivá" — název podle zakřiveného tvaru půdorysu. Odolnost

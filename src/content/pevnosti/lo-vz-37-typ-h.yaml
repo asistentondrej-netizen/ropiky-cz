@@ -6,6 +6,7 @@ region: "Bratislavský kraj"
 location:
   lat: 48.121168
   lon: 17.081525
+  elevation: 133
 state: neznamy
 description: Objekt československého opevnění LO vz.37 typ H. Základní záznam — čeká na doplnění dat.
 sources:

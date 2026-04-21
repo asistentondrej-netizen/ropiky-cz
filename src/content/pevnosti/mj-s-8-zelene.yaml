@@ -6,6 +6,7 @@ region: Jihočeský kraj
 location:
   lat: 49.0129
   lon: 15.3608
+  elevation: 522
   address: Slavonice, u železniční stanice
 built: '1938'
 state: neznamy

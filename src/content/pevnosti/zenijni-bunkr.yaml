@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 50.028618
   lon: 13.708620
+  elevation: 484
 state: neznamy
 description: Objekt československého opevnění Ženijní bunkr. Základní záznam — čeká na doplnění dat.
 sources:

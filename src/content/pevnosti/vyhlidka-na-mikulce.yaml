@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 49.765830
   lon: 13.382234
+  elevation: 370
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" vyhlídka na Mikulce. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

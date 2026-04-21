@@ -6,6 +6,7 @@ region: "Jihočeský kraj"
 location:
   lat: 49.037425
   lon: 13.712720
+  elevation: 889
 state: neznamy
 description: Lehký objekt vz. 36 H-41/6/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

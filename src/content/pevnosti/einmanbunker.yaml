@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 50.044811
   lon: 15.230301
+  elevation: 230
 state: neznamy
 description: "Pěchotní srub Einmanbunker. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

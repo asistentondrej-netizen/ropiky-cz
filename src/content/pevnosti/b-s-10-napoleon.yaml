@@ -6,6 +6,7 @@ region: Slovensko
 location:
   lat: 48.1145
   lon: 17.0887
+  elevation: 134
   address: Bratislava-Petržalka, Kopčianska
 built: '1937'
 state: pristupny

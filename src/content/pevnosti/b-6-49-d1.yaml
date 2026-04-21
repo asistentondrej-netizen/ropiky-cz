@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 49.967703
   lon: 14.076541
+  elevation: 221
 state: neznamy
 description: Lehký objekt vz. 36 B-6/49/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

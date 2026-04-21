@@ -6,6 +6,7 @@ region: Pardubický kraj
 location:
   lat: 50.06934
   lon: 16.677046
+  elevation: 800
 state: muzeum
 description: Pěchotní srub K-S-22a na úseku Králicko. Součást československého těžkého
   opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.

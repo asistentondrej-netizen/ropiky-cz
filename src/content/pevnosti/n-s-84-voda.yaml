@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.42166667
   lon: 16.19004167
+  elevation: 343
 built: '1937'
 state: neznamy
 description: Pěchotní srub „Voda" v prostoru Běloves u Náchoda. Odolnost II, po válce

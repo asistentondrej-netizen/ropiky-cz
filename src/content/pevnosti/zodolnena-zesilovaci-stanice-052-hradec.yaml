@@ -6,6 +6,7 @@ region: "Královéhradecký kraj"
 location:
   lat: 50.174212
   lon: 15.862099
+  elevation: 273
 state: neznamy
 description: Objekt československého opevnění Zodolněná zesilovací stanice 052 Hradec . Základní záznam — čeká na doplnění dat.
 sources:

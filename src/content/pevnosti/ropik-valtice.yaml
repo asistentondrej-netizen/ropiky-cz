@@ -6,6 +6,7 @@ region: 'Jihomoravský kraj'
 location:
   lat: 48.7411
   lon: 16.7558
+  elevation: 196
   address: 'Valtice a okolí, Lednicko-valtický areál'
 built: '1937'
 state: 'pristupny'

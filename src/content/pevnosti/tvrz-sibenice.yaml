@@ -6,6 +6,7 @@ region: Moravskoslezský kraj
 location:
   lat: 49.9524
   lon: 17.7758
+  elevation: 374
   address: Jamnice
 state: zachovaly
 

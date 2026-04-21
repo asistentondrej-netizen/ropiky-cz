@@ -6,6 +6,7 @@ region: "Prešovský kraj"
 location:
   lat: 49.168206
   lon: 20.967718
+  elevation: 514
 state: neznamy
 description: "Pěchotní srub ÚŽ-6. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

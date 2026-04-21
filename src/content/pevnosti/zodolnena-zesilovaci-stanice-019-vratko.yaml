@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 50.032830
   lon: 14.822833
+  elevation: 295
 state: neznamy
 description: Objekt československého opevnění Zodolněná zesilovací stanice 019- Vrátko. Základní záznam — čeká na doplnění dat.
 sources:

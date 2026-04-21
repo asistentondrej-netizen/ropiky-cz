@@ -6,6 +6,7 @@ region: "Pardubický kraj"
 location:
   lat: 50.112323
   lon: 16.818547
+  elevation: 612
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" XXXVI/53/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

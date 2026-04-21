@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.72195
   lon: 16.82206
+  elevation: 185
   address: Genžova cesta, Poštorná (Boří les, samota Boří dvůr)
 built: '1938'
 state: pristupny

@@ -6,6 +6,7 @@ region: "Ústecký kraj"
 location:
   lat: 50.600605
   lon: 13.885401
+  elevation: 208
   # start_date: 1938-12-31
 built: '1938'
 state: neznamy

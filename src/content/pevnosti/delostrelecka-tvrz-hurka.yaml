@@ -6,6 +6,7 @@ region: "Královéhradecký kraj"
 location:
   lat: 50.088086
   lon: 16.769174
+  elevation: 613
 state: neznamy
 description: Objekt československého opevnění Dělostřelecká tvrz Hůrka. Základní záznam — čeká na doplnění dat.
 sources:

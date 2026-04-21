@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.14955278
   lon: 16.54877222
+  elevation: 660
 built: '1937'
 state: zachovaly
 description: Pěchotní srub v prostoru Bartošovic v Orlických horách. Oboustranný objekt

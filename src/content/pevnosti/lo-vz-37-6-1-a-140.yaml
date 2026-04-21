@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.798145
   lon: 16.627875
+  elevation: 203
   address: Severní okraj Lednice, poblíž Rybničního zámečku (UNESCO Lednicko-valtický areál)
 built: '1938'
 state: pristupny

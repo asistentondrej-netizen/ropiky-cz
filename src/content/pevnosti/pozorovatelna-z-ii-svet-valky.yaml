@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 50.225614
   lon: 14.860112
+  elevation: 193
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" pozorovatelna z II. svět. války. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

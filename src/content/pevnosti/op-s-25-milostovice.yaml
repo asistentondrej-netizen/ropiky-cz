@@ -6,6 +6,7 @@ region: Moravskoslezský kraj
 location:
   lat: 49.951843
   lon: 17.838105
+  elevation: 300
   address: Opava-Milostovice
 built: '1937'
 state: neznamy

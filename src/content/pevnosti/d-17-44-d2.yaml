@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 50.070273
   lon: 13.287342
+  elevation: 444
 state: neznamy
 description: Lehký objekt vz. 36 D-17/44/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

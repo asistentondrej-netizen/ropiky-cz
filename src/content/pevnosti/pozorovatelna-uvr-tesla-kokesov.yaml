@@ -6,6 +6,7 @@ region: "Královéhradecký kraj"
 location:
   lat: 50.020817
   lon: 15.653678
+  elevation: 248
 state: neznamy
 description: "Pěchotní srub Pozorovatelna - ÚVR Tesla Kokešov. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

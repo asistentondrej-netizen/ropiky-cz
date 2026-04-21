@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 50.332101
   lon: 13.648271
+  elevation: 192
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" C-27/69/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

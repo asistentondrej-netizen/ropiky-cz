@@ -6,6 +6,7 @@ region: Pardubický kraj
 location:
   lat: 50.0587
   lon: 16.8234
+  elevation: 946
   address: Mladkov, tvrz Adam
 built: 1936–1938
 state: zachovaly

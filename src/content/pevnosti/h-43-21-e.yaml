@@ -6,6 +6,7 @@ region: "Jihočeský kraj"
 location:
   lat: 49.019177
   lon: 15.245973
+  elevation: 587
   # start_date: 1937-10-14
 built: '1937'
 state: neznamy

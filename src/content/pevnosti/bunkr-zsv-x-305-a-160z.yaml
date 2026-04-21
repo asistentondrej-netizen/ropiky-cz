@@ -6,6 +6,7 @@ region: "Královéhradecký kraj"
 location:
   lat: 50.221255
   lon: 16.503930
+  elevation: 934
 state: neznamy
 description: Objekt československého opevnění ‎Bunkr ŽSV X/305/A-160Z. Základní záznam — čeká na doplnění dat.
 sources:

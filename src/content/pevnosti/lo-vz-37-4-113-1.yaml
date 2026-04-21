@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.80528
   lon: 16.6165
+  elevation: 204
   address: Pole jižně od Novosedel, přímo na předválečné čáře hranice s Rakouskem
 built: '1938'
 state: pristupny

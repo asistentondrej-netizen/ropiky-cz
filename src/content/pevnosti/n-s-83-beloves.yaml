@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.4221
   lon: 16.1762
+  elevation: 402
   address: Náchod-Běloves, přechod Metuje
 built: '1937'
 state: zachovaly

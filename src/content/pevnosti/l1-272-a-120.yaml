@@ -6,6 +6,7 @@ region: "Liberecký kraj"
 location:
   lat: 50.799436
   lon: 14.868027
+  elevation: 454
   # start_date: 1937-06-01
 built: '1937'
 state: neznamy

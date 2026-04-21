@@ -6,6 +6,7 @@ region: "Moravskoslezský kraj"
 location:
   lat: 49.732259
   lon: 18.291920
+  elevation: 257
 state: neznamy
 description: Objekt československého opevnění Tvrz Paskov. Základní záznam — čeká na doplnění dat.
 sources:

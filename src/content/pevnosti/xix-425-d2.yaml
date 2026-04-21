@@ -6,6 +6,7 @@ region: "Moravskoslezský kraj"
 location:
   lat: 49.776630
   lon: 18.597220
+  elevation: 272
 state: neznamy
 description: Lehký objekt vz. 36 XIX/425/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

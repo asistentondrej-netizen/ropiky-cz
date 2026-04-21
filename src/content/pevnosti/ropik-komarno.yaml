@@ -6,6 +6,7 @@ region: Slovensko
 location:
   lat: 47.7600
   lon: 18.1300
+  elevation: 113
   address: 'Komárno a okolí, Podunajsko'
 built: '1937'
 state: neznamy

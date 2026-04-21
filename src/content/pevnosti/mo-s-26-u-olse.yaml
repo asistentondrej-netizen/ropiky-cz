@@ -6,6 +6,7 @@ region: Moravskoslezský kraj
 location:
   lat: 49.895
   lon: 18.556
+  elevation: 220
   address: Bohumín, břeh řeky Olše
 built: '1936'
 state: zachovaly

@@ -6,6 +6,7 @@ region: 'Moravskoslezský kraj'
 location:
   lat: 49.9556
   lon: 17.9022
+  elevation: 258
   address: 'Opava — oblast Kylešovského lesa'
 built: '1937'
 state: 'pristupny'

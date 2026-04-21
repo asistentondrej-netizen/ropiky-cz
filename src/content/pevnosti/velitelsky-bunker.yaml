@@ -6,6 +6,7 @@ region: "Banskobystrický kraj"
 location:
   lat: 48.735061
   lon: 19.148545
+  elevation: 347
 state: neznamy
 description: Objekt československého opevnění Veliteľský bunker. Základní záznam — čeká na doplnění dat.
 sources:

@@ -6,6 +6,7 @@ region: "Liberecký kraj"
 location:
   lat: 50.868307
   lon: 15.113782
+  elevation: 408
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" J2/226/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

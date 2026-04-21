@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.727657
   lon: 16.89301
+  elevation: 159
   address: NPR Soutok blízko slovensko-moravské hranice (řeka Morava)
 built: '1938'
 state: pristupny

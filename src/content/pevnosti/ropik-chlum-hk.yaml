@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.2517
   lon: 15.7497
+  elevation: 271
   address: Chlum u Hradce Králové, náves
 built: '1938'
 state: pristupny

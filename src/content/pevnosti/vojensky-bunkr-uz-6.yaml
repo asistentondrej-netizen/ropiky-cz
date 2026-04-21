@@ -6,6 +6,7 @@ region: "Zlínský kraj"
 location:
   lat: 48.962953
   lon: 17.471888
+  elevation: 312
 state: neznamy
 description: "Pěchotní srub vojenský bunkr ÚŽ 6. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

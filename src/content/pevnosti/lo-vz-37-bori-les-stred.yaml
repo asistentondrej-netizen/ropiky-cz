@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.75232
   lon: 16.83632
+  elevation: 196
   address: Boří les, mezi Valticemi a Charvátskou Novou Vsi
 built: '1937'
 state: pristupny

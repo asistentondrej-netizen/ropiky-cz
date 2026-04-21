@@ -6,6 +6,7 @@ region: "Moravskoslezský kraj"
 location:
   lat: 49.919745
   lon: 17.977275
+  elevation: 237
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" II/14/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

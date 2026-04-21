@@ -6,6 +6,7 @@ region: "Praha"
 location:
   lat: 50.084509
   lon: 14.459170
+  elevation: 256
 state: neznamy
 description: "Pěchotní srub Kryt civilního obyvatelstva Parukářka. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

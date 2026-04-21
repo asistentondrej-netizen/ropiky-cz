@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 49.728275
   lon: 13.558006
+  elevation: 507
 state: neznamy
 description: Objekt československého opevnění Vojenský bunkr. Základní záznam — čeká na doplnění dat.
 sources:

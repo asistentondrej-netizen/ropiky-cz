@@ -6,6 +6,7 @@ region: "Královéhradecký kraj"
 location:
   lat: 50.029069
   lon: 15.758790
+  elevation: 220
 state: neznamy
 description: "Pěchotní srub Pozorovatelna Kriegsnotspitals. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

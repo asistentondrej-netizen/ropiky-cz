@@ -6,6 +6,7 @@ region: "Kraj Vysočina"
 location:
   lat: 49.002620
   lon: 16.368380
+  elevation: 262
 state: neznamy
 description: Lehký objekt vz. 36 16/12/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

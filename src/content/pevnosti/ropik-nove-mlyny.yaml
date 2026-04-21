@@ -6,6 +6,7 @@ region: 'Jihomoravský kraj'
 location:
   lat: 48.8611
   lon: 16.6361
+  elevation: 428
   address: 'Mikulovsko, oblast Pálavy a Nových Mlýnů'
 built: '1938'
 state: 'pristupny'

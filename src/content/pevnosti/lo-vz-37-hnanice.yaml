@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.8092
   lon: 15.9821
+  elevation: 300
   address: Hnanice (Gnadlersdorf), poblíž česko-rakouské hranice
 built: '1937'
 state: muzeum

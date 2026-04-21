@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 50.478948
   lon: 14.498808
+  elevation: 306
 state: neznamy
 description: Lehký objekt vz. 36 P3/78/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

@@ -6,6 +6,7 @@ region: "Jihomoravský kraj"
 location:
   lat: 49.041491
   lon: 16.639643
+  elevation: 342
 state: neznamy
 description: "Pěchotní srub ÚŽ-6a. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.75901
   lon: 16.76676
+  elevation: 207
   address: Severní okraj Valtic, mezi městem a Boří lesem
 built: '1937'
 state: pristupny

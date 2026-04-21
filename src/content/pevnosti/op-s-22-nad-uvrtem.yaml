@@ -6,6 +6,7 @@ region: Moravskoslezský kraj
 location:
   lat: 49.8672
   lon: 17.8745
+  elevation: 301
   address: Hradec nad Moravicí, u zámku
 built: '1937'
 state: pristupny

@@ -6,6 +6,7 @@ region: "Banskobystrický kraj"
 location:
   lat: 48.227590
   lon: 19.359000
+  elevation: 387
 state: neznamy
 description: Lehký objekt vz. 36 XVI/694/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

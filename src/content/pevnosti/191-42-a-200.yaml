@@ -6,6 +6,7 @@ region: "Jihočeský kraj"
 location:
   lat: 48.970363
   lon: 13.768963
+  elevation: 948
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" 191/42/A-200. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

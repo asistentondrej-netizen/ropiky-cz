@@ -6,6 +6,7 @@ region: "Bratislavský kraj"
 location:
   lat: 48.320963
   lon: 16.909417
+  elevation: 140
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" LI/22/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

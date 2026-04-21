@@ -6,6 +6,7 @@ region: "Jihomoravský kraj"
 location:
   lat: 48.831609
   lon: 16.573306
+  elevation: 239
 state: neznamy
 description: Lehký objekt vz. 36 4/3042/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

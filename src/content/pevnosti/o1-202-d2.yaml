@@ -6,6 +6,7 @@ region: "Ústecký kraj"
 location:
   lat: 50.869135
   lon: 14.252564
+  elevation: 287
 state: neznamy
 description: Lehký objekt vz. 36 O1/202/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

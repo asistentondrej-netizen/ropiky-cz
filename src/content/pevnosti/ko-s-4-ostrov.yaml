@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 47.75361111
   lon: 18.11305556
+  elevation: 108
 built: '1937'
 state: neznamy
 description: Pěchotní srub „Ostrov" v úseku Komárov — jediný objekt typu v této oblasti.

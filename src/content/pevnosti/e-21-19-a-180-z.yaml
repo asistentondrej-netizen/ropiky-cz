@@ -6,6 +6,7 @@ region: "Karlovarský kraj"
 location:
   lat: 49.826098
   lon: 13.069280
+  elevation: 370
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" E-21/19/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

@@ -6,6 +6,7 @@ region: "Bratislavský kraj"
 location:
   lat: 48.464190
   lon: 16.865900
+  elevation: 149
 state: neznamy
 description: Lehký objekt vz. 36 LI/10/D2 Z. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

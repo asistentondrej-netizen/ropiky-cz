@@ -6,6 +6,7 @@ region: Pardubický kraj
 location:
   lat: 50.110035
   lon: 16.807437
+  elevation: 606
 built: '1937'
 state: pristupny
 description: Pěchotní srub v jižní části králického úseku, u Mladkova. Oboustranný

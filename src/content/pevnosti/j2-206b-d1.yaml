@@ -6,6 +6,7 @@ region: "Liberecký kraj"
 location:
   lat: 50.871377
   lon: 15.068903
+  elevation: 537
 state: neznamy
 description: Lehký objekt vz. 36 J2/206b/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

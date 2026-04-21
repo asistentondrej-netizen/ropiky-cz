@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 50.588396
   lon: 13.854105
+  elevation: 201
   # start_date: 1936-01-02
 built: '1936'
 state: neznamy

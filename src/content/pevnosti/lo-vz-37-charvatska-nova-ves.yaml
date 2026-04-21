@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.78347
   lon: 16.84179
+  elevation: 156
   address: Ladenská cesta, Charvátská Nová Ves (Břeclav)
 built: '1937'
 state: pristupny

@@ -6,6 +6,7 @@ region: "Olomoucký kraj"
 location:
   lat: 49.975005
   lon: 17.675967
+  elevation: 493
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" VI/984/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

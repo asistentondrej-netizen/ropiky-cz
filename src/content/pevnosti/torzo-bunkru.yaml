@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 49.974947
   lon: 14.756992
+  elevation: 483
 state: neznamy
 description: Objekt československého opevnění torzo bunkru. Základní záznam — čeká na doplnění dat.
 sources:

@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.7715
   lon: 16.746435
+  elevation: 192
   address: Jihovýchodní okraj Valtic, lesopark pod kolonádou Rajstna
 built: '1938'
 state: pristupny

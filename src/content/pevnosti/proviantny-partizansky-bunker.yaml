@@ -6,6 +6,7 @@ region: "Žilinský kraj"
 location:
   lat: 49.023023
   lon: 19.608188
+  elevation: 825
 state: neznamy
 description: "Pěchotní srub Proviantný partizánsky bunker. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

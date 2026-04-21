@@ -6,6 +6,7 @@ region: "Jihočeský kraj"
 location:
   lat: 48.981570
   lon: 13.978205
+  elevation: 848
 state: neznamy
 description: Lehký objekt vz. 36 H-33/20/D1 Z. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.1689
   lon: 16.4747
+  elevation: 627
   address: Rokytnice v Orlických horách
 built: '1937'
 state: zachovaly

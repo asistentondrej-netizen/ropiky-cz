@@ -6,6 +6,7 @@ region: Slovensko
 location:
   lat: 48.1738
   lon: 16.9779
+  elevation: 185
   address: 'Devín, okolí soutoku Moravy a Dunaje'
 built: '1936'
 state: neznamy

@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.755507
   lon: 16.829257
+  elevation: 192
   address: Východní okraj Mikulova, pod Svatým kopečkem s křížovou cestou
 built: '1938'
 state: zachovaly

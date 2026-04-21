@@ -6,6 +6,7 @@ region: Pardubický kraj
 location:
   lat: 50.098453
   lon: 16.63459
+  elevation: 540
 built: '1937'
 state: pristupny
 description: Pěchotní srub v prostoru Lichkova — odolnost III, typická pozice na svahu.

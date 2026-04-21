@@ -6,6 +6,7 @@ region: 'Jihomoravský kraj'
 location:
   lat: 48.8555
   lon: 16.0488
+  elevation: 290
   address: 'Okolí Znojma a Nového Šaldorfu'
 built: '1937'
 state: 'pristupny'

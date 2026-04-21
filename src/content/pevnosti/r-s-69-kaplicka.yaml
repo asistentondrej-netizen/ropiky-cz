@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.16988889
   lon: 16.51923611
+  elevation: 701
 built: '1937'
 state: pristupny
 description: Pěchotní srub „Kaplička" — název podle blízké kapličky. Oboustranný typ

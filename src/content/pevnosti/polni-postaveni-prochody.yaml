@@ -6,6 +6,7 @@ region: "Královéhradecký kraj"
 location:
   lat: 50.045848
   lon: 16.144219
+  elevation: 297
 state: neznamy
 description: Objekt československého opevnění Polní postavení Prochody. Základní záznam — čeká na doplnění dat.
 sources:

@@ -6,6 +6,7 @@ region: "Královéhradecký kraj"
 location:
   lat: 50.607310
   lon: 15.972300
+  elevation: 576
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" III/152/C -. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

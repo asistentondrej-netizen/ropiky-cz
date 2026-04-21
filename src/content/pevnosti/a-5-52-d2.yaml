@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 50.005656
   lon: 13.991182
+  elevation: 260
 state: neznamy
 description: Lehký objekt vz. 36 A-5/52/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

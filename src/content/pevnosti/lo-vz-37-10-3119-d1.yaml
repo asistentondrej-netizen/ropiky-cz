@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.81418
   lon: 16.55402
+  elevation: 182
   address: Jižní svah CHKO Pálava, pod zříceninou Sirotčí hrádek
 built: '1938'
 state: pristupny

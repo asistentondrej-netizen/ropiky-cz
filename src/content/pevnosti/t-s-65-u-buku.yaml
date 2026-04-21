@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.61078333
   lon: 15.9457
+  elevation: 521
 built: '1937'
 state: pristupny
 description: Pěchotní srub „U buku" — název podle výrazného stromu, který zde stál

@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.80878
   lon: 16.5881
+  elevation: 199
   address: Jižní podhůří Pálavy mezi obcemi Klentnice a Pavlov
 built: '1938'
 state: pristupny

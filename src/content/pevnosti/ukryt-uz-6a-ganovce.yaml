@@ -6,6 +6,7 @@ region: "Prešovský kraj"
 location:
   lat: 49.035150
   lon: 20.325457
+  elevation: 688
 state: neznamy
 description: "Pěchotní srub Úkryt ÚŽ-6a Gánovce. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

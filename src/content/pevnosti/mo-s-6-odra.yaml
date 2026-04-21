@@ -6,6 +6,7 @@ region: Moravskoslezský kraj
 location:
   lat: 49.90911
   lon: 18.31791
+  elevation: 200
 built: '1937'
 state: zachovaly
 description: Pěchotní srub pojmenovaný podle řeky, kterou kontroloval. Oboustranný

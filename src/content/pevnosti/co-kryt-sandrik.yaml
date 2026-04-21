@@ -6,6 +6,7 @@ region: "Nitranský kraj"
 location:
   lat: 48.455337
   lon: 18.773046
+  elevation: 325
 state: neznamy
 description: "Pěchotní srub CO kryt Sandrik. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

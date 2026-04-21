@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.8330453
   lon: 16.5222357
+  elevation: 188
   address: Jihozápadně od Drnholce v nivě řeky Jevišovky
 built: '1938'
 state: pristupny

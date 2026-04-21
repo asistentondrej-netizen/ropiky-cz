@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.60291667
   lon: 15.95281944
+  elevation: 440
 built: '1937'
 state: muzeum
 description: Pěchotní srub „U potoka" — odolnost II, typická poloha u vodního toku.

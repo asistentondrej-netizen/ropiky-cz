@@ -6,6 +6,7 @@ region: Královéhradecký kraj
 location:
   lat: 50.4177
   lon: 16.1633
+  elevation: 357
   address: Náchod — Běloves
 built: '1937'
 state: zachovaly

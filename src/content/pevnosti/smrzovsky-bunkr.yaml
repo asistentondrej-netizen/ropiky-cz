@@ -6,6 +6,7 @@ region: "Liberecký kraj"
 location:
   lat: 50.734292
   lon: 15.245095
+  elevation: 647
 state: neznamy
 description: Objekt československého opevnění Smržovský bunkr. Základní záznam — čeká na doplnění dat.
 sources:

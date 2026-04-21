@@ -6,6 +6,7 @@ region: "Středočeský kraj"
 location:
   lat: 49.710143
   lon: 13.883753
+  elevation: 831
 state: neznamy
 description: "Pěchotní srub Pozorovatelna. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

@@ -6,6 +6,7 @@ region: "Kraj Vysočina"
 location:
   lat: 49.223662
   lon: 16.483026
+  elevation: 356
 state: neznamy
 description: Objekt československého opevnění Podzemní bunkr. Základní záznam — čeká na doplnění dat.
 sources:

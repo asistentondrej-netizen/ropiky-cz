@@ -6,6 +6,7 @@ region: Moravskoslezský kraj
 location:
   lat: 49.9421
   lon: 17.8754
+  elevation: 279
   address: Opava-sever
 built: '1937'
 state: pristupny

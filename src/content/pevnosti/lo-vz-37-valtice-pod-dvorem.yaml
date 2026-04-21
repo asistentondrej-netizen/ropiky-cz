@@ -6,6 +6,7 @@ region: Jihomoravský kraj
 location:
   lat: 48.73136
   lon: 16.7994
+  elevation: 196
   address: Ulice Pod dvorem, východní okraj Valtic
 built: '1938'
 state: pristupny

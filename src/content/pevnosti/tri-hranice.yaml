@@ -6,6 +6,7 @@ region: "Bratislavský kraj"
 location:
   lat: 48.101304
   lon: 17.095244
+  elevation: 134
 state: neznamy
 description: "Lehký objekt vz. 37 „řopík\" Tři hranice. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
 sources:

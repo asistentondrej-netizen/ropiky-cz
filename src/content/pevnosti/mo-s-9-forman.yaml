@@ -6,6 +6,7 @@ region: Moravskoslezský kraj
 location:
   lat: 49.9142
   lon: 18.3244
+  elevation: 195
   address: Šilheřovice — Darkovičky
 built: '1937'
 state: zachovaly

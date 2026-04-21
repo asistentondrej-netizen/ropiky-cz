@@ -6,6 +6,7 @@ region: "Královéhradecký kraj"
 location:
   lat: 50.631757
   lon: 15.907881
+  elevation: 637
 state: neznamy
 description: Objekt československého opevnění Základová deska bunkru T-St-74. Základní záznam — čeká na doplnění dat.
 sources:

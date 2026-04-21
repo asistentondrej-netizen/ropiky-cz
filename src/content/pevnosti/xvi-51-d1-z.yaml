@@ -6,6 +6,7 @@ region: "Moravskoslezský kraj"
 location:
   lat: 49.913615
   lon: 18.439325
+  elevation: 200
 state: neznamy
 description: Lehký objekt vz. 36 XVI/51/D1 Z. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:

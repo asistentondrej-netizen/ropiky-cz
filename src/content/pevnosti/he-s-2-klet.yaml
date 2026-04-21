@@ -6,6 +6,7 @@ region: Karlovarský kraj
 location:
   lat: 50.1797
   lon: 12.5497
+  elevation: 484
   address: Habartov, svah nad obcí
 built: '1938'
 state: pristupny
