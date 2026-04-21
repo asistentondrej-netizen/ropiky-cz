@@ -1,0 +1,43 @@
+title: Tvrz Gudrich
+code: OP-S Tvrz Gudrich
+type: delostrelecka-tvrz
+line: Opava
+region: Moravskoslezský kraj
+location:
+  lat: 49.9758
+  lon: 17.6725
+  address: Opavsko
+state: zachovaly
+
+description: >
+  Dělostřelecká tvrz na opavském úseku čs. opevnění 1935–1938. Nebyla dokončena před Mnichovem.
+
+history: >
+  Tvrz Gudrich byla součástí plánu výstavby čs. opevnění 1935–1938.
+  Realizace byla přerušena po Mnichovské dohodě 30. 9. 1938, tvrz zůstala
+  nedokončená. Některé betonové objekty jsou dodnes patrné v krajině.
+
+visit: >
+  Tvrz je **rozestavěná** — jednotlivé objekty jsou volně přístupné v terénu,
+  ale bez interiérů a vybavení. Před návštěvou ověřte přístupnost, některé
+  části mohou být na soukromých pozemcích.
+
+related:
+  pevnosti:
+    - tvrz-bouda
+    - tvrz-hurka
+    - tvrz-adam
+    - tvrz-hanicka
+    - tvrz-smolkov
+    - tvrz-dobrosov
+  typologie:
+    - delostrelecka-tvrz
+
+sources:
+  - title: Wikipedie — Tvrz Gudrich (dělostřelecká tvrz)
+    url: https://cs.wikipedia.org/wiki/Gudrich_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
+    type: web
+
+wikidata_id: Q12018501
+wikipedia_url: "https://cs.wikipedia.org/wiki/Gudrich_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
+updated: '2026-04-21'

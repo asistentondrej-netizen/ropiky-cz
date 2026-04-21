@@ -1,0 +1,44 @@
+title: Tvrz Skutina
+code: R-S Tvrz Skutina
+type: delostrelecka-tvrz
+line: Orlické hory
+region: Královéhradecký kraj
+location:
+  lat: 50.354305555
+  lon: 16.292222222
+  address: Sněžné
+state: zachovaly
+
+description: >
+  Rozestavěná dělostřelecká tvrz u Sněžného, severní část Orlických hor. Součást čs. opevnění 1935–1938. Nedokončena před Mnichovem, dnes zčásti zpřístupněna jako muzeum.
+
+history: >
+  Tvrz Skutina byla součástí plánu výstavby čs. opevnění 1935–1938.
+  Realizace byla přerušena po Mnichovské dohodě 30. 9. 1938, tvrz zůstala
+  nedokončená. Některé betonové objekty jsou dodnes patrné v krajině.
+
+visit: >
+  Tvrz je **rozestavěná** — jednotlivé objekty jsou volně přístupné v terénu,
+  ale bez interiérů a vybavení. Před návštěvou ověřte přístupnost, některé
+  části mohou být na soukromých pozemcích.
+
+related:
+  pevnosti:
+    - tvrz-bouda
+    - tvrz-hurka
+    - tvrz-adam
+    - tvrz-hanicka
+    - tvrz-smolkov
+    - tvrz-dobrosov
+  typologie:
+    - delostrelecka-tvrz
+
+sources:
+  - title: Wikipedie — Tvrz Skutina (dělostřelecká tvrz)
+    url: https://cs.wikipedia.org/wiki/Skutina_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
+    type: web
+
+wikidata_id: Q12054591
+wikipedia_url: "https://cs.wikipedia.org/wiki/Skutina_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
+commons_category: Skutina (fortress)
+updated: '2026-04-21'

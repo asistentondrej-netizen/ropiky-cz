@@ -1,0 +1,44 @@
+title: Tvrz Orel
+code: MO-S Tvrz Orel
+type: delostrelecka-tvrz
+line: Moravská Ostrava
+region: Moravskoslezský kraj
+location:
+  lat: 49.92872
+  lon: 18.21632
+  address: Darkovice / Darkovičky
+state: zachovaly
+
+description: >
+  Rozestavěná dělostřelecká tvrz u Darkovic a Darkoviček na úseku Moravské Ostravy. Součást čs. opevnění 1935–1938, před Mnichovem nedokončena.
+
+history: >
+  Tvrz Orel byla součástí plánu výstavby čs. opevnění 1935–1938.
+  Realizace byla přerušena po Mnichovské dohodě 30. 9. 1938, tvrz zůstala
+  nedokončená. Některé betonové objekty jsou dodnes patrné v krajině.
+
+visit: >
+  Tvrz je **rozestavěná** — jednotlivé objekty jsou volně přístupné v terénu,
+  ale bez interiérů a vybavení. Před návštěvou ověřte přístupnost, některé
+  části mohou být na soukromých pozemcích.
+
+related:
+  pevnosti:
+    - tvrz-bouda
+    - tvrz-hurka
+    - tvrz-adam
+    - tvrz-hanicka
+    - tvrz-smolkov
+    - tvrz-dobrosov
+  typologie:
+    - delostrelecka-tvrz
+
+sources:
+  - title: Wikipedie — Tvrz Orel (dělostřelecká tvrz)
+    url: https://cs.wikipedia.org/wiki/Orel_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
+    type: web
+
+wikidata_id: Q12042864
+wikipedia_url: "https://cs.wikipedia.org/wiki/Orel_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
+commons_category: Orel (fortress)
+updated: '2026-04-21'

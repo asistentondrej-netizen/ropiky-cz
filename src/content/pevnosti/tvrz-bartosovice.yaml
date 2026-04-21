@@ -1,0 +1,43 @@
+title: Tvrz Bartošovice
+code: R-S Tvrz Bartošovice
+type: delostrelecka-tvrz
+line: Rokytnice v Orlických horách
+region: Královéhradecký kraj
+location:
+  lat: 50.1661111
+  lon: 16.5094444
+  address: Bartošovice v Orlických horách
+state: zachovaly
+
+description: >
+  Dělostřelecká tvrz na úseku Rokytnice v Orlických horách, součást čs. opevnění 1935–1938. Do Mnichova nedokončena.
+
+history: >
+  Tvrz Bartošovice byla součástí plánu výstavby čs. opevnění 1935–1938.
+  Realizace byla přerušena po Mnichovské dohodě 30. 9. 1938, tvrz zůstala
+  nedokončená. Některé betonové objekty jsou dodnes patrné v krajině.
+
+visit: >
+  Tvrz je **rozestavěná** — jednotlivé objekty jsou volně přístupné v terénu,
+  ale bez interiérů a vybavení. Před návštěvou ověřte přístupnost, některé
+  části mohou být na soukromých pozemcích.
+
+related:
+  pevnosti:
+    - tvrz-bouda
+    - tvrz-hurka
+    - tvrz-adam
+    - tvrz-hanicka
+    - tvrz-smolkov
+    - tvrz-dobrosov
+  typologie:
+    - delostrelecka-tvrz
+
+sources:
+  - title: Wikipedie — Tvrz Bartošovice (dělostřelecká tvrz)
+    url: https://cs.wikipedia.org/wiki/Barto%C5%A1ovice_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
+    type: web
+
+wikidata_id: Q11059733
+wikipedia_url: "https://cs.wikipedia.org/wiki/Barto%C5%A1ovice_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
+updated: '2026-04-21'
