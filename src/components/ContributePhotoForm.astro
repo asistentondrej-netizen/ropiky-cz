@@ -5,6 +5,9 @@
 // předmětem [RPKY-SUBMIT] {code} a strukturovaným body.
 // Uživatel sám přiloží fotku a odešle.
 //
+// Jméno je volitelné — pokud nezadá, příspěvek je anonymní (žádná atribuce).
+// Email se nebere z formuláře, ale z From: hlavičky přijatého emailu.
+//
 // Props:
 //   code: string        — kód objektu (např. "B-S 1")
 //   slug: string        — URL slug (např. "b-s-1-sterkoviste")
@@ -23,7 +26,7 @@ const formId = `contrib-${slug}`;
   <h2 style="margin-top: 0;">Přispět fotkou nebo informací</h2>
   <p style="margin-bottom: var(--s3); color: var(--ink-light);">
     Máte vlastní fotografii <strong>{title}</strong> ({code}) nebo aktuální informaci?
-    Vyplňte krátký formulář — váš mailový klient se otevře s předvyplněným textem, stačí připojit fotku a odeslat.
+    Klikněte na tlačítko níže — otevře se váš mailový klient s předvyplněným textem, stačí připojit fotku a odeslat.
   </p>
 
   <form id={formId} class="contrib-form__form" onsubmit="return false;">
@@ -31,42 +34,31 @@ const formId = `contrib-${slug}`;
     <input type="hidden" name="object_slug" value={slug} />
 
     <div class="contrib-form__row">
-      <label for={`${formId}-name`}>Vaše jméno <span class="req" title="Pro citaci pod fotkou">*</span></label>
+      <label for={`${formId}-name`}>
+        Vaše jméno <span class="optional">(nepovinné — pro atribuci pod fotkou)</span>
+      </label>
       <input
         type="text"
         id={`${formId}-name`}
         name="contributor_name"
-        placeholder="Jan Novák"
-        required
+        placeholder="Jan Novák (pokud nevyplníte, bude anonymní)"
         autocomplete="name"
       />
     </div>
 
     <div class="contrib-form__row">
-      <label for={`${formId}-email`}>Váš email <span class="req" title="Pro komunikaci, nezveřejníme">*</span></label>
-      <input
-        type="email"
-        id={`${formId}-email`}
-        name="contributor_email"
-        placeholder="jmeno@example.cz"
-        required
-        autocomplete="email"
-      />
-    </div>
-
-    <div class="contrib-form__row">
-      <label for={`${formId}-desc`}>Popisek / kontext fotky</label>
+      <label for={`${formId}-desc`}>Popisek / kontext fotky <span class="optional">(nepovinné)</span></label>
       <textarea
         id={`${formId}-desc`}
         name="description"
-        rows="4"
+        rows="3"
         placeholder="Kdy jste to fotil, z jaké strany, co je na fotce zvláštního…"
       ></textarea>
     </div>
 
     <div class="contrib-form__row contrib-form__row--checkbox">
       <label>
-        <input type="checkbox" id={`${formId}-license`} name="license_accepted" required />
+        <input type="checkbox" id={`${formId}-license`} name="license_accepted" checked />
         <span>
           Souhlasím se zveřejněním pod licencí <strong><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.cs" target="_blank" rel="noopener">CC BY-SA 4.0</a></strong>
           (ostatní smějí fotku použít s uvedením autora).
@@ -104,12 +96,12 @@ const formId = `contrib-${slug}`;
     font-weight: 600;
     font-size: 0.9375rem;
   }
-  .contrib-form__row .req {
-    color: var(--rust);
-    cursor: help;
+  .contrib-form__row .optional {
+    font-weight: 400;
+    font-size: 0.8125rem;
+    color: var(--ink-light);
   }
   .contrib-form__row input[type="text"],
-  .contrib-form__row input[type="email"],
   .contrib-form__row textarea {
     padding: var(--s2);
     border: 1px solid var(--line);
@@ -183,26 +175,24 @@ const formId = `contrib-${slug}`;
     btn.addEventListener('click', function (e) {
       e.preventDefault();
 
-      // Validace
       const name = form.querySelector('[name="contributor_name"]').value.trim();
-      const email = form.querySelector('[name="contributor_email"]').value.trim();
       const desc = form.querySelector('[name="description"]').value.trim();
       const license = form.querySelector('[name="license_accepted"]').checked;
       const code = form.querySelector('[name="object_code"]').value;
       const slug = form.querySelector('[name="object_slug"]').value;
 
-      if (!name) { alert('Vyplňte prosím vaše jméno.'); return; }
-      if (!email) { alert('Vyplňte prosím email.'); return; }
-      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { alert('Email nemá platný formát.'); return; }
-      if (!license) { alert('Pro zveřejnění fotky je potřeba souhlasit s licencí CC BY-SA 4.0.'); return; }
+      // Jediná povinná věc: licence (ostatní volitelné)
+      if (!license) {
+        alert('Pro zveřejnění fotky je potřeba souhlasit s licencí CC BY-SA 4.0.');
+        return;
+      }
 
-      // Sestav strukturované tělo
+      // Sestav strukturované tělo — jméno i popis volitelné
       const bodyLines = [
         '=== RPKY-SUBMIT ===',
         `object_code: ${code}`,
         `object_slug: ${slug}`,
-        `contributor_name: ${name}`,
-        `contributor_email: ${email}`,
+        `contributor_name: ${name || '(anonymní)'}`,
         `license: CC BY-SA 4.0`,
         `description: ${desc || '(nevyplněno)'}`,
         '=== END ===',
@@ -216,10 +206,8 @@ const formId = `contrib-${slug}`;
 
       const mailto = `mailto:info@ropiky.cz?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
-      // Otevři mail klient
       window.location.href = mailto;
 
-      // Zobraz success zprávu
       if (success) {
         success.hidden = false;
         success.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
