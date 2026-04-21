@@ -9,7 +9,15 @@ location:
 built: "1938"
 state: neznamy
 description: "Lehký objekt vz. 37 („řopík“), typ A-140 Z — oboustranný kulometný (čelní úhel 140°, zesílený (II. stupeň odolnosti)). Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
+photos:
+  - url: /img/forts/ropik-6-17-a-140-z-01.jpg
+    alt: "Řopík 6/17/A-140 Z uprostřed zoraného pole — pohled ze strany, viditelná boční střílna a vstupní otvor, mechem porostlá střecha"
+    caption: "Řopík z února 2020"
+    author: "Ondřej"
+    license: CC BY-SA 4.0
+    category: exterier
+    featured: true
 sources:
   - OpenStreetMap
   - ropiky.net — Mikulovsko
-updated: '2026-04-19'
+updated: '2026-04-21'
