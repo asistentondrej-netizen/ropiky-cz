@@ -36,4 +36,11 @@ sources:
 - OpenStreetMap (OSM element way/53334956)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
-photos: []
+# === MÉDIA ===
+photos:
+  - url: /img/forts/op-s-36b-3.jpg
+    alt: 'OP-S-36b — OP-S-36b'
+    author: "Hapesoft"
+    license: CC BY 3.0
+    source: https://commons.wikimedia.org/wiki/File%3AOP-S%2036b%20%283%29.jpg
+

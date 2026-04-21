@@ -6,54 +6,154 @@ region: Královéhradecký kraj
 location:
   lat: 50.50550278
   lon: 16.13366667
+  address: Hronov-Rokytník, hřeben nad obcí
+  elevation: 588
+
 built: '1937'
 state: muzeum
-description: Pěchotní srub „Turov" u Hronova — soukromě rekonstruované muzeum. Odolnost
-  III s kompletně obnoveným interiérem. Společná vstupenka s expozicí Pevnost Hronov.
-sources:
-- Wikimedia Commons
-- ropiky.net
-updated: '2026-04-18'
-visit: 'Pěchotní srub T-S 19 „Turov" na hřebenu Orlických hor — součást obranné linie
-  nad Hronovem. Rekonstrukce provozovaná Klubem vojenské historie Náchod.
+
+description: >
+  Soukromě rekonstruované muzeum „Pevnost Hronov" v pěchotním srubu T-S 19
+  „Turov". Oboustranný srub III. odolnosti s kompletně obnoveným interiérem,
+  replikami výzbroje a panoramatickým výhledem na Broumovské stěny a
+  Adršpašské skály. Spravuje Klub vojenské historie Náchod.
+
+# === TECHNICKÁ KARTA ===
+tech:
+  odolnost: 'III'
+  stupenDokonceni: dokonceny
+  typObjektu: Pěchotní srub oboustranný (typ C)
+  posadka:
+    mini: 22
+    maxi: 32
+  vyzbroj:
+    - zbran: Těžký kulomet ZB vz. 37
+      pocet: 4
+      umisteni: pravá a levá kasemata
+    - zbran: Protitankový kanón vz. 36 (3,7 cm)
+      pocet: 2
+      umisteni: střílny spřažené s kulometem
+    - zbran: Lehký kulomet ZB vz. 26
+      pocet: 2
+      umisteni: pancéřové zvony
+  steny:
+    tloustka_cm: 275
+    material: Železobeton B500
+  komponenty:
+    - pancerovy-zvon
+
+# === STAVBA ===
+stavba:
+  projektant: Ředitelství opevňovacích prací (ŘOP)
+  zahajeni: '1937'
+  dokonceni: '1938'
+  poznamka: Součást obranné linie nad Hronovem proti směru na Polsko (Kladsko).
+
+# === HISTORIE ===
+history: >
+  T-S 19 „Turov" byl postaven v letech 1937–1938 jako součást trutnovské
+  linie čs. opevnění. Oboustranný typ C s odolností III, plánovaná posádka
+  32 mužů. V září 1938 byl plně vyzbrojen a obsazen.
 
 
-  **Otevírací doba:** květen–září, víkendy 10:00–17:00, v červenci a srpnu i všední
-  dny. Aktuální info na klub-vojenske-historie.cz.
+  Po Mnichovu odevzdán Wehrmachtu, během okupace sloužil jako cíl zkušebních
+  střeleb a sklad. Po válce postupně chátrající. Od 90. let rekonstrukce
+  soukromou iniciativou, od roku 2005 provozuje Klub vojenské historie
+  Náchod jako muzejní expozici „Pevnost Hronov".
 
 
-  **Vstupné:** cca 80 Kč dospělí, 40 Kč děti.
+  Interiér zahrnuje zrekonstruovanou ubytovnu posádky, střelecké stanoviště,
+  strojovnu a dobovou výbavu. Specifikem muzea je důraz na osobní příběhy
+  vojáků a unikátní poloha s rozhledy.
 
+historieMilniky:
+  - datum: 1937–1938
+    udalost: Stavba
+  - datum: září 1938
+    udalost: Plné obsazení
+  - datum: 30. 9. 1938
+    udalost: Mnichov — předání Wehrmachtu
+  - datum: 1939–1945
+    udalost: Sklad, cíl zkušebních střeleb
+  - datum: 90. léta
+    udalost: Zahájení soukromé rekonstrukce
+  - datum: '2005'
+    udalost: Otevření muzea Pevnost Hronov
 
-  **Co uvidíte:** zrekonstruovaný interiér srubu II. odolnosti, repliky kulometů,
-  ukázka posádkového života. Srub je zasazen na kopci s panoramatickým výhledem na
-  Broumovské stěny a Adršpašské skály.
+# === NÁVŠTĚVA ===
+visit: >
+  Muzeum „Pevnost Hronov" spravuje Klub vojenské historie Náchod. Otevřeno
+  květen–září, víkendy 10:00–17:00, v červenci a srpnu i všední dny. Ideální
+  pro cyklisty — navazuje na síť cyklostezek Broumovska. Kombinujte s T-S 73
+  „Jeřáb" (12 km), Adršpašskými skálami a tvrzí Dobrošov (25 km). Aktuální
+  informace na klub-vojenske-historie.cz.
 
+navsteva:
+  pristupnost: pesky-turisticka
+  vhodnostRodiny: doporuceno
+  doporucenaDoba_minut: 45
+  otevreno:
+    sezonne: true
+    obdobi: květen–září
+    dny: víkendy 10:00–17:00
+    poznamka: Červenec–srpen i všední dny.
+  vstupne:
+    zakladni_kc: 80
+    snizene_kc: 40
+    poznamka: Společná vstupenka s expozicí Pevnost Hronov.
+  parkovani: V obci Rokytník, pak 1 km pěšky.
+  mhd: Vlakem do Hronova, odtud taxi nebo kolo.
+  teplotaUvnitr_C: 10
+  upozorneni:
+    - Panoramatický výhled na Broumovské stěny a Adršpach.
+    - Ideální pro cyklisty — navazuje na cyklostezky Broumovska.
+    - Od zastávky 1 km pěšky po lesní cestě.
 
-  **Doporučená délka:** 30 minut pro srub, 2 hodiny s procházkou po hřebenu (výhledy).
+# === SPRÁVCE ===
+spravujicSubjekt:
+  nazev: Klub vojenské historie Náchod
+  typ: klub-vojenske-historie
+  web: https://www.klub-vojenske-historie.cz
 
+# === PAMÁTKOVÁ OCHRANA ===
+pamatka:
+  status: kulturni-pamatka
 
-  **Dostupnost:** Autem z Hronova (6 km) po silnici na Velké Petrovice + 1 km pěšky
-  po lesní cestě. Vlakem do Hronova + taxi nebo kolo. Ideální pro cyklisty — navazuje
-  na síť cyklostezek Broumovska.
-
-
-  **Doporučeno kombinovat s:** tvrz Dobrošov (25 km — největší cíl regionu), Adršpašské
-  skály (15 km), T-S 73 Polom (12 km, volně přístupný), Broumovský klášter (20 km).
-  Celodenní túra s několika objekty ŘOP.'
+# === MÉDIA ===
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_01%29.jpg/1280px-Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_01%29.jpg
-  alt: Pěchotní srub T-S 19
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Hronov,_Rokytn%C3%ADk,_T-S_19_(rok_2012;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_01%29.jpg/1920px-Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_01%29.jpg
-  alt: Pěchotní srub T-S 19
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Hronov,_Rokytn%C3%ADk,_T-S_19_(rok_2012;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_02%29.jpg/1920px-Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_02%29.jpg
-  alt: Pěchotní srub T-S 19
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Hronov,_Rokytn%C3%ADk,_T-S_19_(rok_2012;_02).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_01%29.jpg/1280px-Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_01%29.jpg
+    alt: Pěchotní srub T-S 19 „Turov"
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Hronov,_Rokytn%C3%ADk,_T-S_19_(rok_2012;_01).jpg
+    category: exterier
+    featured: true
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_02%29.jpg/1920px-Hronov%2C_Rokytn%C3%ADk%2C_T-S_19_%28rok_2012%3B_02%29.jpg
+    alt: T-S 19 — boční pohled
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Hronov,_Rokytn%C3%ADk,_T-S_19_(rok_2012;_02).jpg
+    category: exterier
+
+# === CROSS-LINKING ===
+related:
+  pevnosti:
+    - t-s-1a-kota-a
+    - t-s-20-na-plani
+    - t-s-26
+    - t-s-63-u-potoka
+    - t-s-73-jerab
+    - tvrz-stachelberg
+  typologie:
+    - pechotni-srub
+    - pancerovy-zvon
+
+# === ZDROJE ===
+sources:
+  - title: Klub vojenské historie Náchod
+    url: https://www.klub-vojenske-historie.cz
+    type: web
+  - title: ropiky.net — T-S 19
+    type: web
+
+updated: '2026-04-20'

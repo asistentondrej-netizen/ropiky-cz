@@ -1,31 +1,135 @@
-title: 'Tvrz Stachelberg'
-code: 'T-S Tvrz Stachelberg'
-type: 'delostrelecka-tvrz'
-line: 'Trutnov'
-region: 'Královéhradecký kraj'
+title: Tvrz Stachelberg
+code: T-S Tvrz Stachelberg
+type: delostrelecka-tvrz
+line: Trutnov
+region: Královéhradecký kraj
 location:
   lat: 50.6206
   lon: 15.9139
-  address: 'Babí, 541 01 Trutnov'
+  address: Babí, 541 01 Trutnov
+  elevation: 632
+
 built: '1938 (nedokončeno)'
-state: 'muzeum'
-description: 'Největší plánovaná dělostřelecká tvrz čs. opevnění. Stavebně dokončen jen jeden srub a část podzemí, dnes přístupná expozice s podzemní trasou.'
-history: |
-  Stachelberg u Trutnova měla být největší tvrzí celého systému — v plánu bylo celkem dvanáct bojových objektů, dva vchodové a podzemí v délce přes 5 kilometrů.
+state: muzeum
 
-  Do září 1938 byla stavba v relativně rané fázi — dokončen byl jen pěchotní srub T-S 73 „Na mušce" a část podzemí. Po Mnichovu byla výstavba přerušena.
+description: >
+  Největší plánovaná dělostřelecká tvrz čs. opevnění — pokud by byla dokončena,
+  stala by se jednou z největších pevnostních staveb v Evropě. Projekt zahrnoval
+  12 bojových objektů, 2 vchodové a přes 5 km podzemí. Do září 1938 byl dokončen
+  jediný pěchotní srub a část podzemních chodeb. Dnes muzeum s přístupnou
+  podzemní trasou.
 
-  Po válce tvrz sloužila různým vojenským účelům. Od 90. let je postupně zpřístupňována jako muzeum.
-visit: |
-  Muzeum Tvrz Stachelberg provozuje občanské sdružení. Otevřeno od dubna do října. Aktuální informace na stachelberg.cz.
-sources:
-  - 'stachelberg.cz'
-  - 'Wikipedia — Stachelberg'
-  - 'ropiky.net — Stachelberg'
-updated: '2026-04-18'
+# === TECHNICKÁ KARTA ===
+tech:
+  odolnost: IV
+  stupenDokonceni: rozestaveny
+  typObjektu: Dělostřelecká tvrz (plánováno 12 + 2 vchodové)
+  posadka:
+    mini: 0
+    maxi: 778
+    poznamka: Plný stav plánován 778 mužů. Reálně nikdy neobsazena.
+  komponenty:
+    - pancerovy-zvon
+    - kopule-pozorovaci
+
+# === STAVBA ===
+stavba:
+  projektant: Ředitelství opevňovacích prací (ŘOP)
+  zahajeni: '1937'
+  dokonceni: 1938 (nedokončeno)
+  poznamka: Jediný dokončený objekt — T-S 73 „Na mušce". Podzemí cca 15 % dokončeno.
+
+# === HISTORIE ===
+history: >
+  Stachelberg u Trutnova měl být vrcholem československého opevnění. V plánu
+  bylo dvanáct bojových objektů (včetně tří dělostřeleckých srubů s kanóny
+  ráže 100 mm), dva vchodové objekty a více než 5 kilometrů podzemních chodeb
+  v hloubce 40 metrů pod povrchem. Plánovaná odolnost IV+ a posádka 778 mužů
+  z něj činily největší projektovanou tvrz celého systému.
+
+
+  Stavba byla zahájena na jaře 1937 a probíhala ve vysokém tempu. Do září 1938
+  byl stavebně dokončen pouze pěchotní srub T-S 73 „Na mušce" a podzemí v délce
+  několika set metrů (cca 15 % plánovaného rozsahu). Po Mnichovské dohodě byla
+  výstavba zastavena a nedokončené konstrukce přešly k Wehrmachtu.
+
+
+  Po válce sloužila lokalita různým vojenským účelům. Od 90. let 20. století
+  probíhá postupné zpřístupňování — od roku 1995 zde funguje muzeum, které
+  provozuje občanské sdružení Stachelberg. Prohlídka zahrnuje dokončený srub
+  T-S 73 a dostupné úseky podzemí.
+
+historieMilniky:
+  - datum: '1937'
+    udalost: Zahájení stavby
+  - datum: '1938'
+    udalost: Dokončen jediný srub T-S 73 „Na mušce"
+  - datum: 30. 9. 1938
+    udalost: Mnichov — stavba zastavena
+  - datum: '1995'
+    udalost: Otevření muzea občanským sdružením Stachelberg
+
+# === NÁVŠTĚVA ===
+visit: >
+  Muzeum Tvrz Stachelberg provozuje občanské sdružení a je **otevřené sezónně**
+  (duben–říjen). Prohlídka zahrnuje dokončený pěchotní srub T-S 73 „Na mušce",
+  část podzemí a venkovní expozici. Trvá cca 90 minut, je možná i bez průvodce.
+  Aktuální otevírací doba a ceník na stachelberg.cz.
+
+navsteva:
+  pristupnost: auto-kratka-chuze
+  vhodnostRodiny: starsi-deti
+  doporucenaDoba_minut: 90
+  otevreno:
+    sezonne: true
+    obdobi: duben–říjen
+    poznamka: Aktuální hodiny viz stachelberg.cz.
+  teplotaUvnitr_C: 8
+  upozorneni:
+    - Teplota v podzemí celoročně cca 8 °C.
+    - Venkovní expozice přístupná bez bariér.
+
+# === SPRÁVCE ===
+spravujicSubjekt:
+  nazev: Stachelberg z.s.
+  typ: klub-vojenske-historie
+  web: https://www.stachelberg.cz
+
+# === PAMÁTKOVÁ OCHRANA ===
+pamatka:
+  status: kulturni-pamatka
+
+# === MÉDIA ===
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Stachelberg%2C_podzem%C3%AD_%28rok_2008%3B_01%29.jpg/1280px-Stachelberg%2C_podzem%C3%AD_%28rok_2008%3B_01%29.jpg
-  alt: Interiér podzemí dělostřelecké tvrze Stachelberg
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Stachelberg,_podzem%C3%AD_(rok_2008;_01).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Stachelberg%2C_podzem%C3%AD_%28rok_2008%3B_01%29.jpg/1280px-Stachelberg%2C_podzem%C3%AD_%28rok_2008%3B_01%29.jpg
+    alt: Interiér podzemí dělostřelecké tvrze Stachelberg
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Stachelberg,_podzem%C3%AD_(rok_2008;_01).jpg
+    category: interier
+    featured: true
+
+# === CROSS-LINKING ===
+related:
+  pevnosti:
+    - tvrz-bouda
+    - tvrz-hanicka
+    - tvrz-hurka
+    - tvrz-adam
+    - tvrz-smolkov
+    - tvrz-dobrosov
+  typologie:
+    - delostrelecka-tvrz
+    - pancerovy-zvon
+
+# === ZDROJE ===
+sources:
+  - title: Stachelberg z.s. — oficiální web muzea
+    url: https://www.stachelberg.cz
+    type: web
+  - title: Wikipedie — Stachelberg
+    type: web
+  - title: ropiky.net — T-S Tvrz Stachelberg
+    type: web
+
+updated: '2026-04-20'

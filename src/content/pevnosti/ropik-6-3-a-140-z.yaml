@@ -13,3 +13,12 @@ sources:
   - OpenStreetMap
   - ropiky.net — Mikulovsko
 updated: '2026-04-19'
+
+# === MÉDIA ===
+photos:
+  - url: /img/forts/b-6-63-a-140z-10-jv.jpg
+    alt: 'Řopík 6/3/A-140 Z (Mikulovsko) — 6/3/A-140 Z'
+    author: "Janmanak"
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File%3AB-6%2063%20A-140Z-10%20JV.jpg
+

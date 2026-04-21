@@ -14,4 +14,11 @@ sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
-photos: []
+# === MÉDIA ===
+photos:
+  - url: /img/forts/opava-milostovice-op-s-27-rok-2001-01.jpg
+    alt: "OP-S 27 „Paletovo pole\" — OP-S 27"
+    author: "User:Harold's family"
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File%3AOpava%2C%20Milostovice%2C%20OP-S%2027%20%28rok%202001%3B%2001%29.jpg
+

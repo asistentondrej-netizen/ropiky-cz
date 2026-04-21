@@ -9,7 +9,15 @@ location:
 built: "1936-1937"
 state: neznamy
 description: "Lehký objekt vz. 36 — starší koncepce s čelní palbou. Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované v letech 1936—1937 pro ochranu rakouské hranice před Anschlussem. V září 1938 obsazen posádkou, po Mnichovu předán Německu a často použit jako cíl zkušební střelby."
+photos:
+  - url: /img/forts/ropik-4-122-1-01.jpg
+    alt: "LO vz. 36 4/122/1 u Mikulova — pohled z boku na objekt uprostřed vinice se vstupem do podzemí"
+    caption: "Vlastní fotka (příspěvek přes formulář na ropiky.cz)"
+    author: "Ondřej"
+    license: CC BY-SA 4.0
+    category: exterier
+    featured: true
 sources:
   - OpenStreetMap
   - ropiky.net — Mikulovsko
-updated: '2026-04-19'
+updated: '2026-04-21'

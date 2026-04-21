@@ -7,86 +7,151 @@ location:
   lat: 48.131
   lon: 17.1175
   address: Bratislava-Petržalka, Chorvátske rameno
+  elevation: 134
+
 built: '1938'
 state: muzeum
-description: Rekonstruovaný jednostranný pěchotní srub v centru pevnostní linie kolem
-  Petržalky. Součást expozice „Petržalské bunkre" spolku Zachráňme petržalské bunkre.
-  Jeden z mála přístupných čs. srubů na Slovensku.
-history: 'B-S 5 „Žabí most" byl vybudován v letech 1937–1938 firmou Ing. Záruba-Pfeffermann
-  Brno jako součást obrany bratislavské čáry proti hrozbě z Maďarska a Rakouska. Jednostranný
-  pěchotní srub II. stupně, výzbroj 2 TK vz. 37 a 1 PTK vz. 36.
+
+description: >
+  Vlajkový rekonstruovaný pěchotní srub bratislavské Petržalky. Jednostranný
+  srub II. stupně odolnosti je součástí expozice „Petržalské bunkre" spolku
+  Zachráňme petržalské bunkre — jediné ucelené prohlídkové trasy čs. opevnění
+  na Slovensku. Zrekonstruovaný interiér s replikami zbraní, pancéřovými
+  dveřmi a pozorovacím zvonem.
+
+# === TECHNICKÁ KARTA ===
+tech:
+  odolnost: 'II'
+  stupenDokonceni: dokonceny
+  typObjektu: Pěchotní srub jednostranný (typ A)
+  orientace: Palebné pole přes Chorvátske rameno
+  posadka:
+    mini: 15
+    maxi: 21
+  vyzbroj:
+    - zbran: Těžký kulomet ZB vz. 37
+      pocet: 2
+      umisteni: střílna kasematy
+    - zbran: Protitankový kanón vz. 36 (3,7 cm)
+      pocet: 1
+      umisteni: střílna spřažená s kulometem
+    - zbran: Lehký kulomet ZB vz. 26
+      pocet: 1
+      umisteni: pancéřový zvon
+  steny:
+    tloustka_cm: 225
+    material: Železobeton B500
+  komponenty:
+    - pancerovy-zvon
+
+# === STAVBA ===
+stavba:
+  projektant: Ředitelství opevňovacích prací (ŘOP)
+  stavebniFirma: Ing. Záruba-Pfeffermann, Brno
+  zahajeni: '1937'
+  dokonceni: '1938'
+  poznamka: Součást bratislavské čáry proti hrozbě z Maďarska a Rakouska.
+
+# === HISTORIE ===
+history: >
+  B-S 5 „Žabí most" byl vybudován v letech 1937–1938 firmou Ing.
+  Záruba-Pfeffermann Brno jako součást obrany bratislavské čáry. Jednostranný
+  pěchotní srub II. stupně s výzbrojí 2 TK vz. 37, 1 PTK vz. 36 a 1 LK v zvonu.
 
 
-  Název „Žabí most" pochází z pomístního označení — v blízkosti objektu se nacházel
-  malý most přes Chorvátske rameno, kde v jarních měsících žily velké populace žab.
-  V září 1938 plně obsazen posádkou slovenské části čs. armády (pluk 39 „Výhlad")
-  pod velením nadp. Štefana Adámka.
+  Název „Žabí most" pochází z pomístního označení — v blízkosti objektu se
+  nacházel malý most přes Chorvátske rameno, kde v jarních měsících žily velké
+  populace žab. V září 1938 plně obsazen posádkou slovenské části čs. armády
+  (pluk 39 „Výhlad") pod velením nadp. Štefana Adámka.
 
 
-  Po Vídeňské arbitráži (listopad 1938) byla Petržalka přičleněna k Německu a Maďarsku.
-  B-S 5 zůstal v německé části, Němci demontovali výzbroj. Za války sloužil jako sklad
-  munice Luftwaffe.
+  Po Vídeňské arbitráži (listopad 1938) byla Petržalka přičleněna k Německu.
+  B-S 5 zůstal v německé části, Wehrmacht demontoval výzbroj. Za války sloužil
+  jako sklad munice Luftwaffe.
 
 
-  Po roce 1945 objekt převzala ČSLA, v 50.–80. letech sloužil jako sklad pohraniční
-  stráže. Po roce 1989 opuštěn, v 90. letech devastován vandaly a bezdomovci.
+  Po roce 1945 objekt převzala ČSLA, v 50.–80. letech sloužil jako sklad
+  pohraniční stráže. Po roce 1989 opuštěn, v 90. letech devastován vandaly.
 
 
-  Systematická rekonstrukce proběhla v letech 2007–2015 spolkem **Zachráňme petržalské
-  bunkre** — obnoven interiér, instalovány repliky lafet M, obnoven pozorovací zvon
-  a vchod s pancéřovými dveřmi.'
-visit: 'B-S 5 „Žabí most" je součástí **expozice Petržalské bunkre** — tematické trasy
-  přes deset rekonstruovaných řopíků a pěchotních srubů v Petržalce. Nejdostupnější
-  objekt v centru městské části.
+  Systematická rekonstrukce proběhla v letech 2007–2015 spolkem Zachráňme
+  petržalské bunkre — obnoven interiér, instalovány repliky lafet M, obnoven
+  pozorovací zvon a vchod s pancéřovými dveřmi.
 
+historieMilniky:
+  - datum: 1937–1938
+    udalost: Stavba firmou Záruba-Pfeffermann
+  - datum: září 1938
+    udalost: Plné obsazení — nadp. Adámek, pluk 39 „Výhlad"
+  - datum: listopad 1938
+    udalost: Vídeňská arbitráž — připojení k Německu
+  - datum: 1939–1945
+    udalost: Sklad munice Luftwaffe
+  - datum: 1948–1989
+    udalost: Sklad pohraniční stráže ČSLA
+  - datum: 2007–2015
+    udalost: Muzejní rekonstrukce (Zachráňme petržalské bunkre)
 
-  **Otevírací doba:** Víkendy duben–říjen, zpravidla 13:00–17:00. Prohlídka s průvodcem
-  každou celou hodinu. Zimní období uzavřeno. Aktuální program na zacranmepetrzalskebunkre.sk.
+# === NÁVŠTĚVA ===
+visit: >
+  Součást tematické trasy „Petržalské bunkre" — jediné ucelené expozice čs.
+  opevnění na Slovensku. Otevřeno víkendy duben–říjen 13:00–17:00, prohlídky
+  s průvodcem každou celou hodinu. Každoročně v září se koná Den čs. opevnění
+  s rekonstrukcí bojové pohotovosti 1938. Aktuální program na
+  zacranmepetrzalskebunkre.sk.
 
+navsteva:
+  pristupnost: pesky-turisticka
+  vhodnostRodiny: doporuceno
+  doporucenaDoba_minut: 45
+  otevreno:
+    sezonne: true
+    obdobi: duben–říjen
+    dny: víkendy 13:00–17:00
+    poznamka: Zima uzavřeno. Prohlídka s průvodcem každou celou hodinu.
+  vstupne:
+    zakladni_kc: 125
+    snizene_kc: 75
+    rodinne_kc: 300
+    poznamka: Ceny v EUR (5/3/12). Kombinovaná s B-S 4, B-S 6, B-S 8 za 3 h prohlídky.
+  mhd: Tramvaj 1 nebo 3 do zastávky Pečnianska, 5 min pěšky.
+  parkovani: Parkovací dům OC Aupark, 10 min pěšky.
+  teplotaUvnitr_C: 12
+  upozorneni:
+    - Cyklostezka Chorvátske rameno vede přímo kolem objektu.
+    - Kombinujte s historickým centrem Bratislavy (2 h) a Bratislavským hradem.
+    - Den čs. opevnění v září — dobové rekonstrukce, velké návštěvnické akce.
 
-  **Vstupné:** 5 EUR dospělí, 3 EUR děti/studenti. Rodinná vstupenka 12 EUR.
+# === SPRÁVCE ===
+spravujicSubjekt:
+  nazev: Zachráňme petržalské bunkre (občianske združenie)
+  typ: klub-vojenske-historie
+  web: https://www.zachranmepetrzalskebunkre.sk
 
+# === PAMÁTKOVÁ OCHRANA ===
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Součást souboru petržalských bunkrů SR.
 
-  **Délka prohlídky:** 45 minut (samotný objekt) nebo 2,5 hodiny pro kombinovanou
-  prohlídku s sousedními B-S 6 „Vrba" a B-S 4 „Lány".
+# === CROSS-LINKING ===
+related:
+  pevnosti:
+    - b-s-2
+    - b-s-4-lany
+    - b-s-6-vrba
+    - b-s-8-hrbitov
+  typologie:
+    - pechotni-srub
+    - pancerovy-zvon
 
-
-  **Dostupnost:**
-
-
-  - MHD: tramvaj 1 nebo 3 do zastávky Pečnianska, pak 5 min pěšky
-
-  - Autem: Petržalka, parkovací dům OC Aupark (placený), odtud 10 min pěšky
-
-  - Na kole: cyklostezka Chorvátske rameno vede přímo kolem objektu
-
-  - Pěšky z centra Bratislavy přes Nový most: 35 min
-
-
-  **Co vidět:**
-
-
-  - Rekonstruovaná střelecká místnost s replikou TK vz. 37 v lafetě M
-
-  - Pancéřové dveře typu N a vnitřní uzávěra
-
-  - Pozorovací zvon s periskopem
-
-  - Pancéřová vložka střílny s dochovanou cedulí „ZB-53"
-
-  - Expozice bratislavské čáry v suterénu
-
-
-  **Doporučená kombinace:** Celá trasa Petržalských bunkrů (3 hod) + historické centrum
-  Bratislavy (2 hod) + Bratislavský hrad = **celodenní výlet do slovenského fortifikačního
-  dědictví**.
-
-
-  **Tip:** Každý rok v září se na lokalitě koná **Den čs. opevnění** s rekonstrukcí
-  bojové pohotovosti posádek z roku 1938. Obrovská návštěvnická akce s dobovým oblečením,
-  historickými zbraněmi a ukázkami střeleb.'
+# === ZDROJE ===
 sources:
-- Zachráňme petržalské bunkre (zacranmepetrzalskebunkre.sk)
-- ropiky.net — B-S 5
-- 'Svoboda T., Lakosil J.: Pevnostní areál Bratislava'
-updated: '2026-04-18'
+  - title: Zachráňme petržalské bunkre
+    url: https://www.zachranmepetrzalskebunkre.sk
+    type: web
+  - title: ropiky.net — B-S 5
+    type: web
+  - title: "Svoboda T., Lakosil J.: Pevnostní areál Bratislava"
+    type: kniha
+
+updated: '2026-04-20'

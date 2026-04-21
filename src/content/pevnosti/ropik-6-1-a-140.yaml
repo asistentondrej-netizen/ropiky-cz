@@ -13,3 +13,12 @@ sources:
   - OpenStreetMap
   - ropiky.net — Mikulovsko
 updated: '2026-04-19'
+
+# === MÉDIA ===
+photos:
+  - url: /img/forts/trutnov-bab-g3-61-a-140-z-rok-2012-01.jpg
+    alt: 'Řopík 6/1/A-140 (Mikulovsko) — 6/1/A-140'
+    author: "Harold"
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File%3ATrutnov%2C%20Bab%C3%AD%2C%20G3-61-A-140%20Z%20%28rok%202012%3B%2001%29.jpg
+
