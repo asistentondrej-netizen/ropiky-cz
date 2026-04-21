@@ -1,0 +1,15 @@
+title: Pozorovatelna CO Rozdělov
+code: Pozorovatelna CO Rozdělov
+type: pechotni-srub
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 50.146583
+  lon: 14.065782
+state: neznamy
+description: "Pěchotní srub Pozorovatelna CO Rozdělov. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/8521978865
+    type: web
+updated: '2026-04-21'

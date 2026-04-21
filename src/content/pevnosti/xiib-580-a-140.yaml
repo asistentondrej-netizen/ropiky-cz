@@ -1,0 +1,15 @@
+title: XIIb/580/A-140
+code: XIIb/580/A-140
+type: lo-vz-37
+line: Neurčeno
+region: "Olomoucký kraj"
+location:
+  lat: 50.137286
+  lon: 17.398970
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XIIb/580/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371724037
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: ŘOP 177/19
+code: ŘOP 177/19
+type: lo-vz-37
+line: Neurčeno
+region: "Jihomoravský kraj"
+location:
+  lat: 48.879008
+  lon: 15.855015
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" ŘOP 177/19. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/92024472
+    type: web
+updated: '2026-04-21'

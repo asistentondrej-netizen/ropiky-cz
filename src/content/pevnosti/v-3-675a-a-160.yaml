@@ -1,0 +1,15 @@
+title: V-3/675a/A-160
+code: V-3/675a/A-160
+type: lo-vz-37
+line: V-3
+region: "Olomoucký kraj"
+location:
+  lat: 49.968417
+  lon: 17.674037
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" V-3/675a/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723464
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: Prvorepublikový bunker č.2
+code: Prvorepublikový bunker č.2
+type: pechotni-srub
+line: Neurčeno
+region: "Prešovský kraj"
+location:
+  lat: 48.919294
+  lon: 22.097944
+state: neznamy
+description: "Pěchotní srub Prvorepublikový bunker č.2. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/8962917526
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: V.b/65/C
+code: V.b/65/C
+type: lo-vz-37
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 50.460649
+  lon: 13.366690
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" V.b/65/C. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/655070174
+    type: web
+updated: '2026-04-21'

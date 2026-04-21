@@ -1,0 +1,15 @@
+title: E1/65/A-120 Z
+code: E1/65/A-120 Z
+type: lo-vz-37
+line: E1
+region: "Královéhradecký kraj"
+location:
+  lat: 50.391976
+  lon: 16.225422
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" E1/65/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371651630
+    type: web
+updated: '2026-04-21'

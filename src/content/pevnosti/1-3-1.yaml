@@ -1,0 +1,15 @@
+title: "1/3/1"
+code: "1/3/1"
+type: lo-vz-37
+line: Neurčeno
+region: "Jihočeský kraj"
+location:
+  lat: 49.017090
+  lon: 15.358265
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 1/3/1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372075452
+    type: web
+updated: '2026-04-21'

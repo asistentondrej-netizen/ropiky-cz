@@ -1,0 +1,15 @@
+title: K3/32/D2
+code: K3/32/D2
+type: lo-vz-36
+line: K3
+region: "Liberecký kraj"
+location:
+  lat: 50.797084
+  lon: 14.936032
+state: neznamy
+description: Lehký objekt vz. 36 K3/32/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371401954
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: H-33/19/E
+code: H-33/19/E
+type: lo-vz-37
+line: H-33
+region: "Jihočeský kraj"
+location:
+  lat: 48.982508
+  lon: 13.980410
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" H-33/19/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/1099741013
+    type: web
+updated: '2026-04-21'

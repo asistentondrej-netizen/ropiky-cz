@@ -1,0 +1,15 @@
+title: "3/84/1"
+code: "3/84/1"
+type: lo-vz-37
+line: Neurčeno
+region: "Jihomoravský kraj"
+location:
+  lat: 48.799425
+  lon: 16.371810
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 3/84/1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372075779
+    type: web
+updated: '2026-04-21'

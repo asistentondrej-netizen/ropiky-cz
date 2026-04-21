@@ -1,0 +1,18 @@
+title: Tři hranice
+code: Tři hranice
+type: lo-vz-37
+line: Neurčeno
+region: "Bratislavský kraj"
+location:
+  lat: 48.101304
+  lon: 17.095244
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" Tři hranice. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/43328731
+    type: web
+  - title: Wikidata Q27969851
+    url: https://www.wikidata.org/wiki/Q27969851
+    type: web
+updated: '2026-04-21'

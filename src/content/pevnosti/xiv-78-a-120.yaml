@@ -1,0 +1,15 @@
+title: XIV/78/A-120
+code: XIV/78/A-120
+type: lo-vz-37
+line: XIV
+region: "Olomoucký kraj"
+location:
+  lat: 50.195380
+  lon: 17.220490
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XIV/78/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371724298
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: D-16/56/B1-80
+code: D-16/56/B1-80
+type: lo-vz-37
+line: D-16
+region: "Středočeský kraj"
+location:
+  lat: 50.154390
+  lon: 13.441322
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" D-16/56/B1-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/375011478
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: D-16/15/A-140
+code: D-16/15/A-140
+type: lo-vz-37
+line: D-16
+region: "Středočeský kraj"
+location:
+  lat: 50.159480
+  lon: 13.437450
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" D-16/15/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/261416050
+    type: web
+updated: '2026-04-21'

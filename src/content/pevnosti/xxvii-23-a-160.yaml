@@ -1,0 +1,15 @@
+title: XXVII/23/A-160
+code: XXVII/23/A-160
+type: lo-vz-37
+line: XXVII
+region: "Olomoucký kraj"
+location:
+  lat: 50.196122
+  lon: 17.238416
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XXVII/23/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371724373
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: I.d/51b/B
+code: I.d/51b/B
+type: lo-vz-37
+line: Neurčeno
+region: "Královéhradecký kraj"
+location:
+  lat: 50.414929
+  lon: 16.200867
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" I.d/51b/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371652757
+    type: web
+updated: '2026-04-21'

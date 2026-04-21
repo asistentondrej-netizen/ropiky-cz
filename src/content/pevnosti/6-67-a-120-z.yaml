@@ -1,0 +1,15 @@
+title: 6/67/A-120 Z
+code: 6/67/A-120 Z
+type: lo-vz-37
+line: "6"
+region: "Jihomoravský kraj"
+location:
+  lat: 48.738520
+  lon: 16.793380
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 6/67/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372076269
+    type: web
+updated: '2026-04-21'

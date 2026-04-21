@@ -1,0 +1,15 @@
+title: XIIa/510/A-160 Z
+code: XIIa/510/A-160 Z
+type: lo-vz-37
+line: Neurčeno
+region: "Olomoucký kraj"
+location:
+  lat: 50.114640
+  lon: 17.448054
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XIIa/510/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723987
+    type: web
+updated: '2026-04-21'

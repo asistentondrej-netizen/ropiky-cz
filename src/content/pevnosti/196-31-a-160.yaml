@@ -1,0 +1,15 @@
+title: "196/31/A-160"
+code: "196/31/A-160"
+type: lo-vz-37
+line: "196"
+region: "Jihočeský kraj"
+location:
+  lat: 48.836010
+  lon: 14.116915
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 196/31/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/270426901
+    type: web
+updated: '2026-04-21'

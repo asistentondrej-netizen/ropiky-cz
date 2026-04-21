@@ -1,0 +1,15 @@
+title: R2/238/A-140
+code: R2/238/A-140
+type: lo-vz-37
+line: R2
+region: "Liberecký kraj"
+location:
+  lat: 50.678587
+  lon: 14.747552
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" R2/238/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/655224581
+    type: web
+updated: '2026-04-21'

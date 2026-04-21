@@ -1,0 +1,18 @@
+title: Bunkr Jordán
+code: Bunkr Jordán
+type: neurceno
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 49.728085
+  lon: 13.866991
+state: neznamy
+description: Objekt československého opevnění Bunkr Jordán. Základní záznam — čeká na doplnění dat.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/175858457
+    type: web
+  - title: Wikidata Q14195926
+    url: https://www.wikidata.org/wiki/Q14195926
+    type: web
+updated: '2026-04-21'

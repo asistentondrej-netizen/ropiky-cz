@@ -1,0 +1,15 @@
+title: H-33/15/B1-100
+code: H-33/15/B1-100
+type: lo-vz-37
+line: H-33
+region: "Jihočeský kraj"
+location:
+  lat: 48.978865
+  lon: 13.995780
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" H-33/15/B1-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371992167
+    type: web
+updated: '2026-04-21'

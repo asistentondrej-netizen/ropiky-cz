@@ -7,159 +7,94 @@ location:
   lat: 48.1297
   lon: 17.1189
   address: Bratislava-Petržalka, Einsteinova ul.
-  elevation: 135
-
 built: '1938'
 state: muzeum
-
-description: >
-  Pěchotní srub u východního okraje Petržalky se silným lidským příběhem —
-  posádka v září 1938 odmítla uvěřit rozkazu k ústupu a musel přijet plk.
-  Ludvík Svoboda (pozdější prezident ČSR), aby ji přesvědčil. Rekonstruovaný
-  objekt je druhou nejnavštěvovanější zastávkou trasy Petržalské bunkre.
-
-# === TECHNICKÁ KARTA ===
-tech:
-  odolnost: 'I'
-  stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub jednostranný (typ A)
-  posadka:
-    mini: 14
-    maxi: 20
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 2
-      umisteni: střílna kasematy
-    - zbran: Protitankový kanón vz. 36 (3,7 cm)
-      pocet: 1
-      umisteni: střílna spřažená s kulometem
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 1
-      umisteni: pancéřový zvon
-  steny:
-    tloustka_cm: 175
-    material: Železobeton B500
-  komponenty:
-    - pancerovy-zvon
-
-# === STAVBA ===
-stavba:
-  projektant: Ředitelství opevňovacích prací (ŘOP)
-  zahajeni: '1938'
-  dokonceni: '1938'
-  poznamka: Vznikl v rámci urgentní dostavby bratislavské čáry po anšlusu Rakouska.
-
-# === HISTORIE ===
-history: >
-  B-S 6 „Vrba" vznikl v létě 1938 v rámci urgentní dostavby bratislavské čáry
-  po anšlusu Rakouska. Jednostranný srub I. stupně s plánovanou výzbrojí
-  2 TK vz. 37, 1 PTK vz. 36 a 1 LK v zvonu.
+description: Oboustranný pěchotní srub I. stupně odolnosti u východního okraje Petržalky.
+  Srub, jehož posádka v září 1938 odmítla uvěřit rozkazu k ústupu — musel přijet plukovník,
+  aby je přesvědčil. Dnes součást expozice Petržalských bunkrů.
+history: 'B-S 6 „Vrba" vznikl v létě 1938 v rámci urgentního dostavby bratislavské
+  čáry po anšlusu Rakouska. Jednostranný srub I. stupně, výzbroj plánovaná 2 TK vz.
+  37 + 1 PTK vz. 36.
 
 
-  Legendární incident 29. září 1938: poté, co generální štáb nařídil ústup
-  čs. armády z linie, posádka B-S 6 pod velením npor. Jozefa Husovského
-  odmítla uvěřit, že rozkaz je pravdivý — považovala ho za sabotáž. Teprve
-  po osobní intervenci plk. Ludvíka Svobody (pozdější prezident ČSR) posádka
-  objekt večer 30. září 1938 opustila.
+  **Legendární incident 29. září 1938:** Poté, co generální štáb nařídil ústup čs.
+  armády z linie, posádka B-S 6 pod velením npor. Jozefa Husovského **odmítla uvěřit**,
+  že rozkaz je pravdivý — považovala ho za sabotáž a podvržený příkaz. Teprve po osobní
+  intervenci **plk. Ludvíka Svobody** (pozdější prezident ČSR) posádka objekt večer
+  30. září 1938 opustila.
 
 
-  Svoboda později v pamětech napsal: „Tito muži byli připraveni umřít za
-  republiku — a nemohli uvěřit, že jim velení nařídí, aby odešli bez boje.
-  Byl to těžký rozhovor, ten nejtěžší v mém životě." Incident se stal
-  symbolem morálky čs. vojáků roku 1938.
+  Svoboda později v pamětech napsal: „Tito muži byli připraveni umřít za republiku
+  — a nemohli uvěřit, že jim velení nařídí, aby odešli bez boje. Byl to těžký rozhovor,
+  ten nejtěžší v mém životě." Incident se stal symbolem morálky čs. vojáků roku 1938.
 
 
-  Po okupaci Wehrmacht demontoval výzbroj. Za války sklad Luftwaffe. Po roce
-  1945 sklad pohraniční stráže ČSLA. Od 2010 v péči spolku Zachráňme
-  petržalské bunkre — rekonstrukce do stavu září 1938.
+  Po okupaci Němci demontovali výzbroj, srub stáhli ze služby. Za války sklad Luftwaffe.
+  Po roce 1945 stal sklad pohraniční stráže ČSLA. Od 2010 v péči spolku Zachráňme
+  petržalské bunkre.'
+visit: 'B-S 6 „Vrba" je druhým nejnavštěvovanějším objektem expozice Petržalské bunkre
+  (po B-S 5). Přitažlivý především pro **silný lidský příběh** posádky z 29. září
+  1938.
 
-historieMilniky:
-  - datum: léto 1938
-    udalost: Urgentní stavba v rámci dostavby po anšlusu Rakouska
-  - datum: 29. 9. 1938
-    udalost: Posádka odmítla uvěřit rozkazu k ústupu
-  - datum: 30. 9. 1938
-    udalost: Opuštěno po osobní intervenci plk. Ludvíka Svobody
-  - datum: 1939–1945
-    udalost: Sklad Luftwaffe
-  - datum: 1948–1989
-    udalost: Sklad pohraniční stráže
-  - datum: od 2010
-    udalost: Muzejní rekonstrukce spolkem Zachráňme petržalské bunkre
 
-# === NÁVŠTĚVA ===
-visit: >
-  Součást expozice Petržalské bunkre. Prohlídka s průvodcem s důrazem na
-  příběh posádky a dobové fotografie. Každoročně 29.–30. září pietní akce
-  za posádku. Otevřeno víkendy duben–říjen 13:00–17:00. Aktuální program na
-  zacranmepetrzalskebunkre.sk.
+  **Otevírací doba:** Víkendy duben–říjen, 13:00–17:00. Prohlídka s průvodcem každou
+  celou hodinu. Aktuální program na zacranmepetrzalskebunkre.sk.
 
-navsteva:
-  pristupnost: pesky-turisticka
-  vhodnostRodiny: doporuceno
-  doporucenaDoba_minut: 40
-  otevreno:
-    sezonne: true
-    obdobi: duben–říjen
-    dny: víkendy 13:00–17:00
-    poznamka: Prohlídka s průvodcem každou celou hodinu.
-  vstupne:
-    zakladni_kc: 125
-    snizene_kc: 75
-    poznamka: Ceny v EUR (5/3). Kombinovaná s B-S 5 + B-S 4 za 10 €.
-  mhd: Tramvaj 1 nebo 3 do zastávky Starohájska, 8 min pěšky.
-  parkovani: Modré zóny na Einsteinově ul. (placené).
-  teplotaUvnitr_C: 12
-  upozorneni:
-    - 15 min pěšky od B-S 5 „Žabí most" přes Chorvátske rameno.
-    - Výklad obsahuje video s vnučkou npor. Husovského.
-    - Pietní akce k 29.–30. září — účast zástupců armády.
 
-# === SPRÁVCE ===
-spravujicSubjekt:
-  nazev: Zachráňme petržalské bunkre
-  typ: klub-vojenske-historie
-  web: https://www.zachranmepetrzalskebunkre.sk
+  **Vstupné:** 5 EUR dospělí, 3 EUR děti. Společná vstupenka s B-S 5 a B-S 4: 10 EUR.
 
-# === PAMÁTKOVÁ OCHRANA ===
-pamatka:
-  status: kulturni-pamatka
 
-# === MÉDIA ===
-photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bratislava%2C_Petr%C5%BEalka%2C_B-S_6_%282013-11-11%3B_01%29.jpg/1280px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_6_%282013-11-11%3B_01%29.jpg
-    alt: Pěchotní srub B-S 6 „Vrba"
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_6_(2013-11-11;_01).jpg
-    category: exterier
-    featured: true
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/B-S_6_Vrba.JPG/1920px-B-S_6_Vrba.JPG
-    alt: B-S 6 — pohled
-    author: Lukáš Malý
-    license: Public domain
-    source: https://commons.wikimedia.org/wiki/File:B-S_6_Vrba.JPG
-    category: exterier
+  **Délka prohlídky:** 40 minut, s důrazem na **příběh posádky** (vyprávění průvodce)
+  a dobové fotografie z archivu.
 
-# === CROSS-LINKING ===
-related:
-  pevnosti:
-    - b-s-2
-    - b-s-4-lany
-    - b-s-5-zabi-most
-    - b-s-8-hrbitov
-  typologie:
-    - pechotni-srub
-    - pancerovy-zvon
 
-# === ZDROJE ===
+  **Dostupnost:**
+
+
+  - MHD: tramvaj 1 nebo 3 do zastávky Starohájska, pak 8 min pěšky
+
+  - Autem: parkování na Einsteinova ul. (modré zóny, placené)
+
+  - Pěšky: 15 min od B-S 5 „Žabí most" přes Chorvátske rameno
+
+
+  **Specifika prohlídky:**
+
+
+  - Vnitřek zrekonstruován do stavu září 1938 (poslední hodiny před ústupem)
+
+  - Dobová výstroj posádky (uniformy čs. pěchoty, přilby, pušky vz. 24)
+
+  - **Rekonstrukce situační zprávy** popsané Ludvíkem Svobodou v pamětech
+
+  - Video s vyprávěním vnučky npor. Husovského (10 min)
+
+
+  **Doporučeno kombinovat:** B-S 5 + B-S 6 + krátká procházka po Chorvátskem rameni
+  (1 km) = **2 hodiny** intenzivního fortifikačního programu.
+
+
+  **Speciální akce:** Každoročně 29.–30. září se zde koná **pietní akce** za posádku
+  a památku všech obránců čs. opevnění z roku 1938. Účast zástupců armády, věnce,
+  vojenská hudba.'
 sources:
-  - title: Zachráňme petržalské bunkre
-    url: https://www.zachranmepetrzalskebunkre.sk
-    type: web
-  - title: ropiky.net — B-S 6
-    type: web
-  - title: "Svoboda L.: Cestami života (paměti)"
-    type: kniha
-
-updated: '2026-04-20'
+- Zachráňme petržalské bunkre
+- ropiky.net — B-S 6
+- 'Svoboda L.: Cestami života (paměti)'
+updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bratislava%2C_Petr%C5%BEalka%2C_B-S_6_%282013-11-11%3B_01%29.jpg/1280px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_6_%282013-11-11%3B_01%29.jpg
+  alt: Pěchotní srub B-S 6 Vrba v Bratislavě-Petržalce
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_6_(2013-11-11;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/B-S_6_Vrba.JPG/1920px-B-S_6_Vrba.JPG
+  alt: Pěchotní srub B-S 6
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:B-S_6_Vrba.JPG
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bratislava%2C_Petr%C5%BEalka%2C_B-S_6_%282013-11-11%3B_01%29.jpg/1920px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_6_%282013-11-11%3B_01%29.jpg
+  alt: Pěchotní srub B-S 6
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_6_(2013-11-11;_01).jpg

@@ -1,0 +1,15 @@
+title: VI/407/A-180
+code: VI/407/A-180
+type: lo-vz-37
+line: VI
+region: "Olomoucký kraj"
+location:
+  lat: 49.983930
+  lon: 17.623945
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" VI/407/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723536
+    type: web
+updated: '2026-04-21'

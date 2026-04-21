@@ -1,0 +1,15 @@
+title: D-17/77/E
+code: D-17/77/E
+type: lo-vz-37
+line: D-17
+region: "Středočeský kraj"
+location:
+  lat: 50.084657
+  lon: 13.283033
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" D-17/77/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371969347
+    type: web
+updated: '2026-04-21'

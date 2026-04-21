@@ -1,0 +1,15 @@
+title: cvicne/(2)/C1
+code: cvicne/(2)/C1
+type: lo-vz-37
+line: Neurčeno
+region: "Olomoucký kraj"
+location:
+  lat: 49.340780
+  lon: 16.951230
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" cvicne/(2)/C1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372141195
+    type: web
+updated: '2026-04-21'

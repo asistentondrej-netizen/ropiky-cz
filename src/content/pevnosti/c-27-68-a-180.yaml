@@ -1,0 +1,15 @@
+title: C-27/68/A-180
+code: C-27/68/A-180
+type: lo-vz-37
+line: C-27
+region: "Středočeský kraj"
+location:
+  lat: 50.331011
+  lon: 13.653483
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" C-27/68/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/940149096
+    type: web
+updated: '2026-04-21'

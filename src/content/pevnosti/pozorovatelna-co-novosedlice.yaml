@@ -1,0 +1,15 @@
+title: Pozorovatelna CO Novosedlice
+code: Pozorovatelna CO Novosedlice
+type: pechotni-srub
+line: Neurčeno
+region: "Ústecký kraj"
+location:
+  lat: 50.658662
+  lon: 13.813216
+state: neznamy
+description: "Pěchotní srub Pozorovatelna CO Novosedlice. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/8521885181
+    type: web
+updated: '2026-04-21'

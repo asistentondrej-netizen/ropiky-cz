@@ -1,0 +1,15 @@
+title: D2/221/C1
+code: D2/221/C1
+type: lo-vz-37
+line: Neurčeno
+region: "Královéhradecký kraj"
+location:
+  lat: 50.373818
+  lon: 16.247975
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" D2/221/C1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371651166
+    type: web
+updated: '2026-04-21'

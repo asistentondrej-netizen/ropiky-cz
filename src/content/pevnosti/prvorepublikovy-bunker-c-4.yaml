@@ -1,0 +1,15 @@
+title: Prvorepublikový bunker č.4
+code: Prvorepublikový bunker č.4
+type: pechotni-srub
+line: Neurčeno
+region: "Prešovský kraj"
+location:
+  lat: 48.898795
+  lon: 22.063870
+state: neznamy
+description: "Pěchotní srub Prvorepublikový bunker č.4. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/5779137877
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: 182/20/A-200 Z
+code: 182/20/A-200 Z
+type: lo-vz-37
+line: "182"
+region: "Jihočeský kraj"
+location:
+  lat: 48.876850
+  lon: 14.601070
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 182/20/A-200 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372001358
+    type: web
+updated: '2026-04-21'

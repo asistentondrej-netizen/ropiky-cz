@@ -1,0 +1,15 @@
+title: O1/202/D2
+code: O1/202/D2
+type: lo-vz-36
+line: O1
+region: "Ústecký kraj"
+location:
+  lat: 50.869135
+  lon: 14.252564
+state: neznamy
+description: Lehký objekt vz. 36 O1/202/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/1207842075
+    type: web
+updated: '2026-04-21'

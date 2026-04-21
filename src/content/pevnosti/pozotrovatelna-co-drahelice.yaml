@@ -1,0 +1,15 @@
+title: Pozotrovatelna CO Drahelice
+code: Pozotrovatelna CO Drahelice
+type: pechotni-srub
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 50.186234
+  lon: 15.019729
+state: neznamy
+description: "Pěchotní srub Pozotrovatelna CO Drahelice. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/6514110318
+    type: web
+updated: '2026-04-21'

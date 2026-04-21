@@ -1,0 +1,15 @@
+title: Veliteľský bunker
+code: Veliteľský bunker
+type: neurceno
+line: Neurčeno
+region: "Banskobystrický kraj"
+location:
+  lat: 48.735061
+  lon: 19.148545
+state: neznamy
+description: Objekt československého opevnění Veliteľský bunker. Základní záznam — čeká na doplnění dat.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/11309545210
+    type: web
+updated: '2026-04-21'

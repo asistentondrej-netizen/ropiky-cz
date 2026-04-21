@@ -1,0 +1,15 @@
+title: K2/249/A-140 Z
+code: K2/249/A-140 Z
+type: lo-vz-37
+line: K2
+region: "Liberecký kraj"
+location:
+  lat: 50.799412
+  lon: 14.985046
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" K2/249/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371400229
+    type: web
+updated: '2026-04-21'

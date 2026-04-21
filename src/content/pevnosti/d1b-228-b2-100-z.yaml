@@ -1,0 +1,15 @@
+title: D1b/228/B2-100 Z
+code: D1b/228/B2-100 Z
+type: lo-vz-37
+line: Neurčeno
+region: "Královéhradecký kraj"
+location:
+  lat: 50.364411
+  lon: 16.255927
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" D1b/228/B2-100 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2441596597
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: XIII/244/A-120
+code: XIII/244/A-120
+type: lo-vz-37
+line: XIII
+region: "Olomoucký kraj"
+location:
+  lat: 50.166095
+  lon: 16.870060
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XIII/244/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371652888
+    type: web
+updated: '2026-04-21'

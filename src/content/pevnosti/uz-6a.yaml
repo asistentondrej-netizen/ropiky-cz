@@ -1,0 +1,15 @@
+title: ÚŽ-6a
+code: ÚŽ-6a
+type: pechotni-srub
+line: Neurčeno
+region: "Jihomoravský kraj"
+location:
+  lat: 49.041491
+  lon: 16.639643
+state: neznamy
+description: "Pěchotní srub ÚŽ-6a. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/11575963893
+    type: web
+updated: '2026-04-21'

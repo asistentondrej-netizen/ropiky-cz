@@ -1,0 +1,15 @@
+title: XXXVI/32/B2-100 Z
+code: XXXVI/32/B2-100 Z
+type: lo-vz-37
+line: XXXVI
+region: "Královéhradecký kraj"
+location:
+  lat: 50.095431
+  lon: 16.778816
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XXXVI/32/B2-100 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371653093
+    type: web
+updated: '2026-04-21'

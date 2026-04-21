@@ -1,0 +1,15 @@
+title: C-13/24/A-200 Z
+code: C-13/24/A-200 Z
+type: lo-vz-37
+line: C-13
+region: "Středočeský kraj"
+location:
+  lat: 50.360835
+  lon: 13.716818
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" C-13/24/A-200 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/463261248
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: ŘOP 339/8
+code: ŘOP 339/8
+type: lo-vz-37
+line: Neurčeno
+region: "Jihomoravský kraj"
+location:
+  lat: 48.858197
+  lon: 15.857003
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" ŘOP 339/8. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/95952360
+    type: web
+updated: '2026-04-21'

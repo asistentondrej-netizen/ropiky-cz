@@ -1,0 +1,15 @@
+title: 185/244/A-160 Z
+code: 185/244/A-160 Z
+type: lo-vz-37
+line: "185"
+region: "Jihočeský kraj"
+location:
+  lat: 49.034361
+  lon: 15.084119
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 185/244/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/231375512
+    type: web
+updated: '2026-04-21'

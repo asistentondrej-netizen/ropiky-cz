@@ -1,0 +1,15 @@
+title: K-Ns T2
+code: K-Ns T2
+type: delostrelecka-tvrz
+line: Neurčeno
+region: "Bratislavský kraj"
+location:
+  lat: 48.173586
+  lon: 17.055813
+state: neznamy
+description: "Dělostřelecký objekt K-Ns T2. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2203508006
+    type: web
+updated: '2026-04-21'

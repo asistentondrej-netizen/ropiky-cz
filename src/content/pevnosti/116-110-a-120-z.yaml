@@ -1,0 +1,15 @@
+title: 116/110/A-120 Z
+code: 116/110/A-120 Z
+type: lo-vz-37
+line: "116"
+region: "Středočeský kraj"
+location:
+  lat: 49.939117
+  lon: 14.134580
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 116/110/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371816476
+    type: web
+updated: '2026-04-21'

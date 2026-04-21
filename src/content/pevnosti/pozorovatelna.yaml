@@ -1,0 +1,15 @@
+title: Pozorovatelna
+code: Pozorovatelna
+type: pechotni-srub
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 49.710143
+  lon: 13.883753
+state: neznamy
+description: "Pěchotní srub Pozorovatelna. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/4107687311
+    type: web
+updated: '2026-04-21'

@@ -7,134 +7,128 @@ location:
   lat: 50.2411
   lon: 14.8858
   address: Milovice, bývalý vojenský prostor
-  elevation: 189
-
 built: '1937'
 state: muzeum
-
-description: >
-  Rozsáhlý muzejní areál v bývalém vojenském prostoru Milovice — nejdostupnější
-  fortifikační expozice z Prahy (40 km). Jediná ucelená expozice čs. opevnění
-  ve Středočeském kraji se třemi přesunutými originálními řopíky a kopií
-  pěchotního srubu v měřítku 1:1. Ideální rodinný cíl z metropole.
-
-# === TECHNICKÁ KARTA ===
-tech:
-  odolnost: neurceno
-  stupenDokonceni: dokonceny
-  typObjektu: Muzejní expozice — 3 přenesené řopíky + kopie pěchotního srubu
-  posadka:
-    poznamka: Nezávislé objekty — každý řopík měl posádku 7 mužů.
-  komponenty:
-    - pancerovy-zvon
-
-# === STAVBA ===
-stavba:
-  projektant: Ředitelství opevňovacích prací (ŘOP)
-  zahajeni: '1937'
-  dokonceni: '1938'
-  poznamka: Přenesení objektů 2008–2012 v rámci programu Ministerstva obrany Záchrana ohrožených fortifikačních objektů.
-
-# === HISTORIE ===
-history: >
-  Muzeum čs. armády Milovice bylo otevřeno v roce 2010 v areálu bývalého
-  vojenského prostoru Milovice-Mladá (ČSLA 1948–1968, sovětská okupační armáda
-  1968–1991). Areál zahrnuje několik desítek hektarů bývalých kasáren,
-  hangárů a cvičných ploch.
+description: Rozsáhlý muzejní areál v bývalém vojenském prostoru Milovice s přesunutými řopíky z různých lokalit. Jediná ucelená
+  expozice čs. opevnění ve Středočeském kraji. Vhodné pro rodinné výlety z Prahy.
+history: 'Muzeum čs. armády Milovice bylo otevřeno v roce **2010** v areálu bývalého sovětského vojenského prostoru (ČSLA
+  1948–1968, sovětská okupační armáda 1968–1991). Areál zahrnuje **několik desítek hektarů** bývalých kasáren, hangárů a cvičných
+  ploch.
 
 
-  Fortifikační expozice muzea vznikla v letech 2008–2012 v rámci projektu
-  „Záchrana ohrožených fortifikačních objektů" financovaného Ministerstvem
-  obrany ČR. Přeneseny byly tři originální řopíky z jižní a jihovýchodní
-  Moravy, které by jinak padly za oběť demolicím nebo degradaci.
+  **Fortifikační expozice** muzea zahrnuje:
 
 
-  V roce 2015 doplněna plnohodnotná kopie pěchotního srubu v měřítku 1:1
-  — unikátní vzdělávací prostor pro pochopení těžkého opevnění bez nutnosti
-  cestovat do pohraničí.
+  - **3 originální řopíky** přenesené z jižní a jihovýchodní Moravy (před demolicí)
+
+  - **1 kopie pěchotního srubu** v měřítku 1:1 (postavená 2015)
+
+  - **Venkovní trenažér** pro ukázky bojové činnosti posádky
+
+  - **Expozice v interiérech** kasáren s modely, plány, dokumenty
 
 
-  Dnes je Milovice nejdostupnější fortifikační expozicí z Prahy a ideálním
-  vstupem do tématu čs. opevnění pro rodiny, školy a zájmovou veřejnost.
+  Přenesení řopíků bylo realizováno v letech 2008–2012 v rámci projektu **Záchrana ohrožených fortifikačních objektů** (financováno
+  Ministerstvem obrany ČR).'
+visit: 'Muzeum čs. armády Milovice je **největší vojenské muzeum** ve Středočeském kraji a **nejlépe dostupné pevnostní místo
+  z Prahy** (40 km). Vhodné pro rodiny s dětmi, školní exkurze a zájemce o komplexní vojenskou historii.
 
-historieMilniky:
-  - datum: 1948–1968
-    udalost: Vojenský prostor ČSLA
-  - datum: 1968–1991
-    udalost: Sovětská okupační armáda
-  - datum: '2010'
-    udalost: Otevření Muzea čs. armády Milovice
-  - datum: 2008–2012
-    udalost: Přenesení tří originálních řopíků z Moravy
-  - datum: '2015'
-    udalost: Dokončení kopie pěchotního srubu 1:1
 
-# === NÁVŠTĚVA ===
-visit: >
-  Největší vojenské muzeum ve Středočeském kraji, nejlépe dostupné pevnostní
-  místo z Prahy (40 km, vlakem 45 min). Otevřeno celoročně, úterý–neděle
-  9:00–17:00 (zima do 16:00). Pondělí zavřeno kromě svátků. Aktuální
-  informace na muzeum-milovice.cz.
+  **Otevírací doba:** Celoročně, úterý–neděle 9:00–17:00 (zimní období do 16:00). Pondělí zavřeno kromě svátků. muzeum-milovice.cz.
 
-navsteva:
-  pristupnost: auto-az-k-objektu
-  vhodnostRodiny: idealni
-  doporucenaDoba_minut: 180
-  otevreno:
-    sezonne: false
-    dny: úterý–neděle
-    hodiny: 9:00–17:00 (zima do 16:00)
-    poznamka: Pondělí zavřeno kromě svátků.
-  vstupne:
-    zakladni_kc: 170
-    snizene_kc: 90
-    rodinne_kc: 400
-    poznamka: Předškoláci zdarma. Skupinové slevy.
-  parkovani: Zdarma u muzea.
-  mhd: Vlakem z Prahy (linky 070/072, 45 min), pak 15 min pěšky. Autobusem linka 432.
-  teplotaUvnitr_C: 18
-  upozorneni:
-    - Ideální celodenní rodinný výlet z Prahy.
-    - Letní tábor (červenec–srpen) s historickou tematikou.
-    - Září — Sudetská krize s komentovanými prohlídkami.
-    - Venkovní areál s 40 exponáty techniky (tanky, transportéry, letadla).
 
-# === SPRÁVCE ===
-spravujicSubjekt:
-  nazev: Muzeum čs. armády Milovice
-  typ: muzeum
-  web: https://www.muzeum-milovice.cz
+  **Vstupné:** 170 Kč dospělí, 90 Kč děti/studenti, rodinná vstupenka 400 Kč. Studenti a senioři mají slevu.
 
-# === PAMÁTKOVÁ OCHRANA ===
-pamatka:
-  status: zadna
-  poznamka: Objekty mimo původní lokalitu, památková ochrana se nevztahuje.
 
-# === MÉDIA ===
-photos:
-  - url: /img/forts/german-bunker-on-komensk-ho-street-milovice-07.jpg
-    alt: Muzeum čs. armády Milovice — přenesený objekt
-    author: Doronenko
-    license: CC BY-SA 4.0
-    source: https://commons.wikimedia.org/wiki/File%3AGerman_bunker_on_Komensk%C3%A9ho_street%2C_Milovice_07.jpg
-    category: exterier
-    featured: true
+  **Délka prohlídky:** 3–4 hodiny pro celý areál (dostatek pro prohlídku hlavních expozic).
 
-# === CROSS-LINKING ===
-related:
-  pevnosti:
-    - muzeum-drazovice
-    - muzeum-sumperk-srub
-    - lo-vz-37-hnanice
-  typologie:
-    - lo-vz-37
 
-# === ZDROJE ===
+  **Struktura areálu:**
+
+
+  1. **Hlavní budova** (1 h) — historie čs. armády 1918–1991
+
+  2. **Fortifikační expozice** (1 h) — tři autentické řopíky, kopie pěchotního srubu
+
+  3. **Zbraňová expozice** (30 min) — palné zbraně 20. století
+
+  4. **Venkovní areál** (1 h) — tanky, transportéry, letadla (40 exponátů)
+
+  5. **Kavárna a shop** s fortifikační literaturou
+
+
+  **Fortifikační část podrobně:**
+
+
+  - **Řopík 1 — typ A-120** (ze severní Moravy) — plně vystrojen, vstupný
+
+  - **Řopík 2 — typ A-180** (ze Slovácka) — venkovní prohlídka
+
+  - **Řopík 3 — typ B** (z Podyjí) — neukončená rekonstrukce, jen venkovní
+
+  - **Kopie srubu** — vnitřek s pěti místnostmi, dobovým vybavením, lze projít
+
+
+  **Dostupnost:**
+
+
+  - **Vlakem z Prahy**: do Milovic (45 min, linky 070/072), pak 15 min pěšky
+
+  - **Autem**: D10 z Prahy, výjezd Milovice (45 min), parkoviště zdarma
+
+  - **Autobusem**: linka 432 z Prahy-Palmovky (60 min)
+
+
+  **Doporučený program:**
+
+
+  - 9:00: Odjezd z Prahy
+
+  - 10:00: Příjezd, parkování, vstup do muzea
+
+  - 10:30–12:30: **Hlavní expozice + fortifikační část**
+
+  - 12:30–13:30: Oběd v kavárně muzea (nebo restauraci Milovice v obci)
+
+  - 13:30–15:30: **Venkovní areál s tanky + zbraňová expozice**
+
+  - 16:00: Odjezd, návrat do Prahy kolem 17:00
+
+
+  **Pro rodiny s dětmi:**
+
+
+  - Vstup volný pro předškoláky
+
+  - Interaktivní prvky (děti si mohou sednout do tanku, sáhnout na výstrojní prvky)
+
+  - Dětský koutek v hlavní budově
+
+  - **Letní tábor** (červenec–srpen) s historickou tematikou
+
+
+  **Speciální akce:**
+
+
+  - **Květen** — Den armády ČR s ukázkami moderní techniky
+
+  - **Srpen** — Historický den s rekonstrukcí bojů 1938 a 1945
+
+  - **Září** — Sudetská krize s komentovanými prohlídkami
+
+  - **Listopad** — Den veteránů
+
+
+  **Doporučení:** Milovice jsou **ideální rodinný víkendový výlet z Prahy**. Kombinace rozsáhlé expozice, venkovního areálu,
+  dostupnosti a přiměřeného vstupného z něj dělá jedno z nejoblíbenějších muzeí v ČR.'
 sources:
-  - title: Muzeum čs. armády Milovice — oficiální web
-    url: https://www.muzeum-milovice.cz
-    type: web
-  - title: Ministerstvo obrany ČR — program záchrany opevnění
-    type: web
-
-updated: '2026-04-20'
+- Muzeum čs. armády Milovice
+- muzeum-milovice.cz
+- Ministerstvo obrany ČR
+updated: '2026-04-18'
+photos:
+- url: /img/forts/german-bunker-on-komensk-ho-street-milovice-07.jpg
+  alt: Muzeum čs. armády Milovice — German bunker at the Slepá/Vrutická/Komenského roundabout, Milovice. The top flo
+  author: Doronenko
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File%3AGerman_bunker_on_Komensk%C3%A9ho_street%2C_Milovice_07.jpg

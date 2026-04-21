@@ -1,0 +1,15 @@
+title: IV/1012/A-180
+code: IV/1012/A-180
+type: lo-vz-37
+line: IV
+region: "Olomoucký kraj"
+location:
+  lat: 49.948015
+  lon: 17.821565
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" IV/1012/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723334
+    type: web
+updated: '2026-04-21'

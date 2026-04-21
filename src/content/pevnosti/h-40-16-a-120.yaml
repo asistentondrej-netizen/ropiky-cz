@@ -1,0 +1,15 @@
+title: H-40/16/A-120
+code: H-40/16/A-120
+type: lo-vz-37
+line: H-40
+region: "Plzeňský kraj"
+location:
+  lat: 49.176968
+  lon: 13.517958
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" H-40/16/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371992184
+    type: web
+updated: '2026-04-21'

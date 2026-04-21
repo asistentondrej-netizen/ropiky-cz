@@ -1,0 +1,15 @@
+title: 159/73a/A-160 Z
+code: 159/73a/A-160 Z
+type: lo-vz-37
+line: "159"
+region: "Středočeský kraj"
+location:
+  lat: 50.101309
+  lon: 13.316563
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 159/73a/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/1098271090
+    type: web
+updated: '2026-04-21'

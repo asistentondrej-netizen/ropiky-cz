@@ -1,0 +1,17 @@
+title: XI./156/C -
+code: XI./156/C -
+type: lo-vz-37
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 50.588396
+  lon: 13.854105
+  # start_date: 1936-01-02
+built: '1936'
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XI./156/C -. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/1479256120
+    type: web
+updated: '2026-04-21'

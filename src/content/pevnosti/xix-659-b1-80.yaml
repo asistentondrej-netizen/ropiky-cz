@@ -1,0 +1,15 @@
+title: XIX/659/B1-80
+code: XIX/659/B1-80
+type: lo-vz-37
+line: XIX
+region: "Moravskoslezský kraj"
+location:
+  lat: 49.775890
+  lon: 18.594040
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XIX/659/B1-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371724316
+    type: web
+updated: '2026-04-21'

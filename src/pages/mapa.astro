@@ -1,8 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import liniePolylines from '../data/linie-polylines.json';
-import hranice1938 from '../data/hranice-1938.json';
 
 const pevnosti = await getCollection('pevnosti');
 
@@ -96,19 +94,12 @@ const stateLabels: Record<string, string> = {
             );
           })}
         </div>
-
-        <div class="filter-group">
-          <span class="filter-label">Vrstvy:</span>
-          <label class="filter-check"><input type="checkbox" id="layer-linie" checked /> Obranné linie</label>
-          <label class="filter-check"><input type="checkbox" id="layer-hranice" checked /> Hranice ČSR 1938</label>
-          <label class="filter-check"><input type="checkbox" id="layer-pevnosti" checked /> Pevnosti</label>
-        </div>
       </div>
 
       <p class="map-note">
-        <strong>Pozn.:</strong> V <a href="/">typologii</a> najdete i <em>pancéřový zvon</em> (komponenta pěchotního srubu a tvrze, ne samostatný objekt)
-        a <em>LO vz. 38 „Turek"</em> (dochovány jen 2 prototypy, zatím bez vlastních katalogových záznamů).
-        U <em>dělostřeleckých tvrzí</em> zde najdete <strong>7 bodů</strong> — 5 plně dokončených (Adam, Bouda, Hanička, Hůrka, Smolkov) a 2 rozestavěné muzejní (Dobrošov, Stachelberg).
+        <strong>Pozn.:</strong> Katalog obsahuje {points.length} objektů (stav duben 2026). Většina bodů pochází z dat OpenStreetMap (CC BY-SA)
+        a obsahuje zatím pouze GPS a typovou klasifikaci — popis, fotografie a historie se postupně doplňují.
+        Mapa používá clustering; rozkliknutím shluku se rozpadá na jednotlivé objekty.
       </p>
 
       <!-- Mapa -->
@@ -124,9 +115,6 @@ const stateLabels: Record<string, string> = {
         <span class="legend-item"><span class="legend-dot" style="background:#7A8270;"></span> LO vz. 36</span>
         <span class="legend-divider">|</span>
         <span class="legend-item"><span class="legend-ring" style="border-color:#2D5F3F;"></span> Muzeum (rámeček)</span>
-        <span class="legend-divider">|</span>
-        <span class="legend-item"><span class="legend-line" style="background:#7A3B2E;"></span> Obranné linie ŘOP</span>
-        <span class="legend-item"><span class="legend-line legend-line--dashed" style="background:#555;"></span> Hranice ČSR 1938</span>
       </div>
 
       <p style="font-size: 0.8125rem; color: var(--ink-light); margin-top: var(--s3); font-style: italic;">
@@ -248,29 +236,6 @@ const stateLabels: Record<string, string> = {
     .legend-divider {
       color: var(--line);
     }
-    .legend-line {
-      display: inline-block;
-      width: 22px;
-      height: 3px;
-    }
-    .legend-line--dashed {
-      background: repeating-linear-gradient(90deg, #555 0 6px, transparent 6px 10px) !important;
-      height: 2px;
-    }
-    .filter-check {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      padding: 6px 10px;
-      font-size: 0.8125rem;
-      color: var(--ink);
-      background: var(--paper);
-      border: 1px solid var(--line);
-      cursor: pointer;
-    }
-    .filter-check input {
-      margin: 0;
-    }
 
     /* Popup styling */
     .leaflet-popup-content {
@@ -379,33 +344,6 @@ const stateLabels: Record<string, string> = {
     .marker-cluster { background: transparent !important; }
     .marker-cluster div { background: transparent !important; }
 
-    /* Vlastní cluster design pro Leaflet.markercluster */
-    .fort-cluster {
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      color: white;
-      font-weight: 700;
-      font-family: monospace;
-      border: 3px solid white;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.35);
-    }
-    .fort-cluster.cluster-sm {
-      background: #5A6B4F;
-      font-size: 0.85rem;
-    }
-    .fort-cluster.cluster-md {
-      background: #7A3B2E;
-      font-size: 0.95rem;
-    }
-    .fort-cluster.cluster-lg {
-      background: #5A2420;
-      font-size: 1.05rem;
-    }
-
     /* Custom marker classes */
     .fort-marker {
       border-radius: 50%;
@@ -423,7 +361,7 @@ const stateLabels: Record<string, string> = {
     }
   </style>
 
-  <script define:vars={{ points, typeLabels, stateLabels, liniePolylines, hranice1938 }}>
+  <script define:vars={{ points, typeLabels, stateLabels }}>
     window.addEventListener('load', () => {
       if (typeof L === 'undefined') {
         console.error('Leaflet failed to load');
@@ -503,63 +441,28 @@ const stateLabels: Record<string, string> = {
 
       const allMarkers = points.map(createMarker);
 
-      // ---- Vrstva: hranice ČSR 1938 ----
-      const hraniceLayer = L.geoJSON(hranice1938, {
-        style: {
-          color: '#444',
-          weight: 2,
-          opacity: 0.75,
-          dashArray: '6, 8',
-          fill: false,
-        },
-      }).bindTooltip('Hranice Československé republiky 1938', { sticky: true });
+      // ---- Cluster group (řeší výkon pro 6000+ bodů) ----
+      const clusterGroup = (typeof L.markerClusterGroup === 'function')
+        ? L.markerClusterGroup({
+            chunkedLoading: true,
+            spiderfyOnMaxZoom: true,
+            showCoverageOnHover: false,
+            maxClusterRadius: 55,
+            disableClusteringAtZoom: 14,
+            iconCreateFunction: function (cluster) {
+              const n = cluster.getChildCount();
+              const size = n < 10 ? 32 : (n < 100 ? 40 : 48);
+              return L.divIcon({
+                html: '<div class="cluster-marker"><span>' + n + '</span></div>',
+                className: 'marker-cluster',
+                iconSize: [size, size],
+              });
+            },
+          })
+        : L.layerGroup();
 
-      // ---- Vrstva: obranné linie ŘOP ----
-      const linieLayer = L.geoJSON(liniePolylines, {
-        style: (feature) => ({
-          color: feature.properties.barva || '#7A3B2E',
-          weight: 4,
-          opacity: 0.75,
-        }),
-        onEachFeature: (feature, layer) => {
-          const name = feature.properties.name;
-          const slug = feature.properties.slug;
-          layer.bindTooltip(name, { sticky: true });
-          layer.bindPopup(`<div class="popup-card"><div class="popup-card__body">
-            <h3 class="popup-card__title">${name}</h3>
-            <a class="popup-card__link" href="/linie/${slug}">Detail úseku →</a>
-          </div></div>`, { maxWidth: 260 });
-          layer.on('mouseover', () => layer.setStyle({ weight: 6, opacity: 0.95 }));
-          layer.on('mouseout', () => linieLayer.resetStyle(layer));
-        },
-      });
-
-      hraniceLayer.addTo(map);
-      linieLayer.addTo(map);
-
-      // Clustering: používáme markerClusterGroup místo prostého layerGroup.
-      // Objekty jsou v ČR rozprostřené v husté linii, bez clusteringu přehlednost trpí.
-      const layerGroup = L.markerClusterGroup({
-        maxClusterRadius: 50,
-        spiderfyOnMaxZoom: true,
-        showCoverageOnHover: false,
-        zoomToBoundsOnClick: true,
-        disableClusteringAtZoom: 13,
-        iconCreateFunction: function (cluster) {
-          const count = cluster.getChildCount();
-          let size = 36;
-          let cls = 'cluster-sm';
-          if (count >= 100) { size = 56; cls = 'cluster-lg'; }
-          else if (count >= 25) { size = 46; cls = 'cluster-md'; }
-          return L.divIcon({
-            html: `<div class="fort-cluster ${cls}"><span>${count}</span></div>`,
-            className: '',
-            iconSize: [size, size],
-          });
-        },
-      });
-      layerGroup.addLayers(allMarkers);
-      map.addLayer(layerGroup);
+      allMarkers.forEach((m) => clusterGroup.addLayer(m));
+      clusterGroup.addTo(map);
 
       // Auto-fit
       const bounds = points.map((p) => [p.lat, p.lon]);
@@ -570,18 +473,20 @@ const stateLabels: Record<string, string> = {
       const counterEl = document.getElementById('visible-count');
 
       function applyFilters() {
-        layerGroup.clearLayers();
-        const filtered = [];
+        clusterGroup.clearLayers();
+        let visible = 0;
+        const toAdd = [];
         allMarkers.forEach((m) => {
           const p = m._point;
           const matchType = filterState.type === 'all' || p.type === filterState.type;
           const matchState = filterState.state === 'all' || p.state === filterState.state;
           if (matchType && matchState) {
-            filtered.push(m);
+            toAdd.push(m);
+            visible++;
           }
         });
-        layerGroup.addLayers(filtered);
-        if (counterEl) counterEl.textContent = filtered.length;
+        clusterGroup.addLayers(toAdd);
+        if (counterEl) counterEl.textContent = visible;
       }
 
       // Click handlers
@@ -597,24 +502,6 @@ const stateLabels: Record<string, string> = {
           filterState[filter] = value;
           applyFilters();
         });
-      });
-
-      // ---- Layer toggles ----
-      const layerLinie = document.getElementById('layer-linie');
-      const layerHranice = document.getElementById('layer-hranice');
-      const layerPevnosti = document.getElementById('layer-pevnosti');
-
-      if (layerLinie) layerLinie.addEventListener('change', () => {
-        if (layerLinie.checked) linieLayer.addTo(map);
-        else map.removeLayer(linieLayer);
-      });
-      if (layerHranice) layerHranice.addEventListener('change', () => {
-        if (layerHranice.checked) hraniceLayer.addTo(map);
-        else map.removeLayer(hraniceLayer);
-      });
-      if (layerPevnosti) layerPevnosti.addEventListener('change', () => {
-        if (layerPevnosti.checked) layerGroup.addTo(map);
-        else map.removeLayer(layerGroup);
       });
     });
   </script>

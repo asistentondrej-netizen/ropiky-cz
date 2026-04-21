@@ -1,0 +1,15 @@
+title: Ženijní bunkr
+code: Ženijní bunkr
+type: neurceno
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 50.028618
+  lon: 13.708620
+state: neznamy
+description: Objekt československého opevnění Ženijní bunkr. Základní záznam — čeká na doplnění dat.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/12956542971
+    type: web
+updated: '2026-04-21'

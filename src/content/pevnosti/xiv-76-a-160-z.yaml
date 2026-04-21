@@ -1,0 +1,15 @@
+title: XIV/76/A-160 Z
+code: XIV/76/A-160 Z
+type: lo-vz-37
+line: XIV
+region: "Olomoucký kraj"
+location:
+  lat: 50.194328
+  lon: 17.213470
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XIV/76/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371724297
+    type: web
+updated: '2026-04-21'

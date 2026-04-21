@@ -1,0 +1,15 @@
+title: G1/107/A-140
+code: G1/107/A-140
+type: lo-vz-37
+line: G1
+region: "Královéhradecký kraj"
+location:
+  lat: 50.597805
+  lon: 15.967575
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" G1/107/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371584271
+    type: web
+updated: '2026-04-21'

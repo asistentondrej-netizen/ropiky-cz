@@ -7,158 +7,71 @@ location:
   lat: 49.8862
   lon: 18.3285
   address: Hlučín-Darkovičky, skanzen čs. opevnění
-  elevation: 258
-
 built: '1937'
 state: muzeum
-
-description: >
-  Jednostranný pěchotní srub se zachovaným pancéřovým zvonem a rekonstrukcí
-  kasematy. Třetí klíčový objekt Areálu čs. opevnění Hlučín-Darkovičky. Spolu
-  s MO-S 5 „Na trati" a MO-S 19 „Alej" tvoří triumvirát nejkvalitněji
-  rekonstruovaných srubů skanzenu.
-
-# === TECHNICKÁ KARTA ===
-tech:
-  odolnost: 'II'
-  stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub jednostranný (typ B1)
-  orientace: Boční palebné pole směrem k MO-S 19
-  posadka:
-    mini: 15
-    maxi: 22
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 2
-      umisteni: střílna kasematy
-    - zbran: Protitankový kanón vz. 36 (3,7 cm)
-      pocet: 1
-      umisteni: střílna spřažená s kulometem
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 1
-      umisteni: pancéřový zvon
-  steny:
-    tloustka_cm: 225
-    material: Železobeton B500
-  komponenty:
-    - pancerovy-zvon
-
-# === STAVBA ===
-stavba:
-  projektant: Ředitelství opevňovacích prací (ŘOP)
-  stavebniFirma: Kruliš-Hess, Ostrava
-  zahajeni: '1936'
-  dokonceni: '1937'
-  poznamka: Sousední objekt s MO-S 19 — boční palba do mezilehlého prostoru.
-
-# === HISTORIE ===
-history: >
-  Srub MO-S 20 byl betonován v letech 1936–1937 firmou Kruliš-Hess Ostrava.
-  Konstrukčně jde o jednostranný pěchotní srub II. stupně odolnosti s bočním
-  palebným polem směřujícím k sousednímu MO-S 19.
+description: Jednostranný pěchotní srub se zachovaným pozorovacím zvonem a rekonstrukcí
+  kazematy. Třetí klíčový objekt Areálu čs. opevnění Hlučín-Darkovičky. Vedle MO-S
+  19 „Alej" a MO-S 5 „Na trati" tvoří triumvirát nejkvalitněji zachovalých srubů skanzenu.
+history: 'Srub MO-S 20 byl betonován v letech 1936–1937 firmou Kruliš-Hess Ostrava.
+  Konstrukčně jde o jednostranný pěchotní srub II. stupně odolnosti s bočním palebným
+  polem směřujícím k sousednímu MO-S 19. Výzbroj plánovaná na 2 těžké kulomety vz.
+  37 a 1 protitankový kanón vz. 36.
 
 
-  Po okupaci pohraničí v říjnu 1938 sloužil srub Wehrmachtu ke zkušebním
-  střelbám — Němci testovali odolnost stěn proti 15cm a 21cm dělostřelectvu.
-  Srub zkouškám odolal bez prolomení vnitřních prostor, pouze povrchové
-  poškození vnějších stěn.
+  Po okupaci pohraničí v říjnu 1938 sloužil srub Wehrmachtu ke zkušebním střelbám
+  — Němci testovali odolnost stěn proti 15cm a 21cm dělostřelectvu. Srub zkouškám
+  odolal bez prolomení vnitřních prostor, pouze povrchové poškození vnějších stěn.
 
 
-  V 70. a 80. letech byl součástí skladu civilní obrany. Rekonstrukce pro
-  muzejní účely proběhla v letech 1993–1998 Slezským zemským muzeem. Byla
-  osazena replika pozorovacího zvonu, repliky kulometů v původních lafetách
-  a kompletně zrekonstruován interiér včetně ubikací, strojovny a munice.
+  V 70. a 80. letech byl součástí skladu civilní obrany. Rekonstrukce pro muzejní
+  účely proběhla v letech 1993–1998 Slezským zemským muzeem. Byla osazena replika
+  pozorovacího zvonu, repliky kulometů v původních lafetách a kompletně zrekonstruován
+  interiér včetně ubikací, strojovny a munice.'
+visit: 'Součást Areálu čs. opevnění Hlučín-Darkovičky — největšího souvislého skanzenu
+  těžkého opevnění v ČR. Prohlídka MO-S 20 je zahrnuta ve společné vstupence s MO-S
+  5, MO-S 8, MO-S 9 a MO-S 19.
 
-historieMilniky:
-  - datum: '1936'
-    udalost: Zahájení betonáže
-  - datum: '1937'
-    udalost: Dokončení a výzbroj
-  - datum: 30. 9. 1938
-    udalost: Mnichov — předání Wehrmachtu
-  - datum: 1939–1945
-    udalost: Zkušební střelby Wehrmachtu
-  - datum: 1993–1998
-    udalost: Muzejní rekonstrukce, osazení replik
 
-# === NÁVŠTĚVA ===
-visit: >
-  Součást Areálu čs. opevnění Hlučín-Darkovičky — největšího souvislého
-  skanzenu těžkého opevnění v ČR. Prohlídka MO-S 20 je zahrnuta ve společné
-  vstupence s MO-S 5, MO-S 8 a MO-S 19. Celý areál 3–4 hodiny, samotné MO-S 20
-  cca 45 minut. Otevřeno duben–listopad, aktuální informace na szm.cz.
+  **Otevírací doba:** duben–listopad, víkendy 10:00–17:00, v hlavní sezóně (červen–srpen)
+  denně mimo pondělí. V zimním období uzavřeno. Aktuální otevírací doba a vstupné
+  na szm.cz.
 
-navsteva:
-  pristupnost: auto-kratka-chuze
-  vhodnostRodiny: doporuceno
-  doporucenaDoba_minut: 45
-  otevreno:
-    sezonne: true
-    obdobi: duben–listopad
-    poznamka: V hlavní sezóně (červen–srpen) denně mimo pondělí.
-  vstupne:
-    zakladni_kc: 150
-    snizene_kc: 80
-    rodinne_kc: 380
-    poznamka: Společná vstupenka pro celý areál Darkoviček.
-  parkovani: Parkoviště u areálu zdarma.
-  mhd: Z Ostravy bus linka 268 do Hlučína, odtud místní bus nebo 3 km pěšky.
-  teplotaUvnitr_C: 10
-  upozorneni:
-    - Součástí expozice je venkovní výstava zbraní a techniky.
-    - Cyklostezka podél Odry (Ostrava–Bohumín) prochází kolem.
 
-# === SPRÁVCE ===
-spravujicSubjekt:
-  nazev: Slezské zemské muzeum — Areál čs. opevnění Hlučín-Darkovičky
-  typ: muzeum
-  web: https://www.szm.cz
+  **Vstupné:** cca 150 Kč dospělí, 80 Kč děti/studenti, rodinné vstupné 380 Kč (pro
+  všechny sruby areálu).
 
-# === PAMÁTKOVÁ OCHRANA ===
-pamatka:
-  status: nkp
-  poznamka: Národní kulturní památka (součást areálu Darkovičky).
 
-# === MÉDIA ===
-photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Darkovice%2C_MO-S_20_%282015-05-01%3B_07%29.jpg/1280px-Darkovice%2C_MO-S_20_%282015-05-01%3B_07%29.jpg
-    alt: Pěchotní srub MO-S 20 „Orel"
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Darkovice,_MO-S_20_(2015-05-01;_07).jpg
-    category: exterier
-    featured: true
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Darkovice%2C_MO-S_20_%282015-05-01%3B_01%29.jpg/1920px-Darkovice%2C_MO-S_20_%282015-05-01%3B_01%29.jpg
-    alt: MO-S 20 — celkový pohled
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Darkovice,_MO-S_20_(2015-05-01;_01).jpg
-    category: exterier
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Darkovice%2C_MO-S_20_%282015-05-01%3B_02%29.jpg/1920px-Darkovice%2C_MO-S_20_%282015-05-01%3B_02%29.jpg
-    alt: MO-S 20 — detail pancéřového zvonu
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Darkovice,_MO-S_20_(2015-05-01;_02).jpg
-    category: detail
+  **Doporučená délka prohlídky:** 45 minut pro MO-S 20, celý areál 3–4 hodiny. Trasa
+  zahrnuje vnitřek srubu (střelecké místnosti, ubikace, strojovna), přístup k pozorovacímu
+  zvonu a venkovní expozici zbraní.
 
-# === CROSS-LINKING ===
-related:
-  pevnosti:
-    - mo-s-5-na-trati
-    - mo-s-19-alej
-    - mo-s-21
-    - mo-s-22
-    - tvrz-smolkov
-  typologie:
-    - pechotni-srub
-    - pancerovy-zvon
 
-# === ZDROJE ===
+  **Dostupnost:** Autem po D1 z Ostravy (12 km), parkování u areálu zdarma. Vlakem
+  do Hlučína, odtud 3 km pěšky nebo autobus linka 268. Cyklisté mohou využít stezku
+  podél Odry (Ostrava–Bohumín).
+
+
+  **Doporučeno kombinovat s:** návštěvou Ostravy (Dolní Vítkovice, Nová radnice),
+  Hlučínským jezerem (léto) nebo zámku Kravaře (18 km). Pro hlubší fortifikační zážitek
+  pokračovat do Opavy (srub OP-S 25 Památník, 25 km).'
 sources:
-  - title: Slezské zemské muzeum — Areál čs. opevnění Hlučín-Darkovičky
-    url: https://www.szm.cz
-    type: web
-  - title: ropiky.net — MO-S 20
-    type: web
-
-updated: '2026-04-20'
+- Slezské zemské muzeum — Pevnostní areál Hlučín-Darkovičky
+- ropiky.net — MO-S 20
+- szm.cz
+updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Darkovice%2C_MO-S_20_%282015-05-01%3B_07%29.jpg/1280px-Darkovice%2C_MO-S_20_%282015-05-01%3B_07%29.jpg
+  alt: Pěchotní srub MO-S 20
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Darkovice,_MO-S_20_(2015-05-01;_07).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Darkovice%2C_MO-S_20_%282015-05-01%3B_01%29.jpg/1920px-Darkovice%2C_MO-S_20_%282015-05-01%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 20
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Darkovice,_MO-S_20_(2015-05-01;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Darkovice%2C_MO-S_20_%282015-05-01%3B_02%29.jpg/1920px-Darkovice%2C_MO-S_20_%282015-05-01%3B_02%29.jpg
+  alt: Pěchotní srub MO-S 20
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Darkovice,_MO-S_20_(2015-05-01;_02).jpg

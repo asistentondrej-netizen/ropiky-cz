@@ -1,0 +1,15 @@
+title: "171/58/E"
+code: "171/58/E"
+type: lo-vz-37
+line: "171"
+region: "Karlovarský kraj"
+location:
+  lat: 49.883845
+  lon: 13.041638
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 171/58/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/944462899
+    type: web
+updated: '2026-04-21'

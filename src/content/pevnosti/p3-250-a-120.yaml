@@ -1,0 +1,15 @@
+title: P3/250/A-120
+code: P3/250/A-120
+type: lo-vz-37
+line: P3
+region: "Středočeský kraj"
+location:
+  lat: 50.472548
+  lon: 14.493614
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" P3/250/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371451065
+    type: web
+updated: '2026-04-21'

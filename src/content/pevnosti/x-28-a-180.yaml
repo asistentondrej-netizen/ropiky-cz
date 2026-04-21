@@ -1,0 +1,15 @@
+title: X/28/A-180
+code: X/28/A-180
+type: lo-vz-37
+line: X
+region: "Královéhradecký kraj"
+location:
+  lat: 50.307407
+  lon: 16.379550
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" X/28/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371584443
+    type: web
+updated: '2026-04-21'

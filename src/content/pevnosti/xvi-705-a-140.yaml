@@ -1,0 +1,15 @@
+title: XVI/705/A-140
+code: XVI/705/A-140
+type: lo-vz-37
+line: XVI
+region: "Banskobystrický kraj"
+location:
+  lat: 48.224210
+  lon: 19.355470
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XVI/705/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372141130
+    type: web
+updated: '2026-04-21'

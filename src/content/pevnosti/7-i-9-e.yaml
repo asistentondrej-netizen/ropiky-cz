@@ -1,0 +1,15 @@
+title: "7/I/9/E"
+code: "7/I/9/E"
+type: lo-vz-37
+line: Neurčeno
+region: "Jihomoravský kraj"
+location:
+  lat: 48.855008
+  lon: 16.041329
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 7/I/9/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372076429
+    type: web
+updated: '2026-04-21'

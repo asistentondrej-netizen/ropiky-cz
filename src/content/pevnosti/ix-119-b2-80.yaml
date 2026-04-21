@@ -1,0 +1,15 @@
+title: IX/119/B2-80
+code: IX/119/B2-80
+type: lo-vz-37
+line: IX
+region: "Olomoucký kraj"
+location:
+  lat: 50.168246
+  lon: 16.990762
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" IX/119/B2-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723390
+    type: web
+updated: '2026-04-21'

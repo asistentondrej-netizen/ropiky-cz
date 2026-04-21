@@ -1,0 +1,15 @@
+title: VI/615/B2-90
+code: VI/615/B2-90
+type: lo-vz-37
+line: Neurčeno
+region: "Olomoucký kraj"
+location:
+  lat: 49.981830
+  lon: 17.623810
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" VI/615/B2-90. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723556
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: "183/55/A-120"
+code: "183/55/A-120"
+type: lo-vz-37
+line: "183"
+region: "Jihočeský kraj"
+location:
+  lat: 48.942810
+  lon: 14.714903
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 183/55/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3019721441
+    type: web
+updated: '2026-04-21'

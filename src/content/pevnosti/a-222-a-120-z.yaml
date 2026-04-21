@@ -1,0 +1,15 @@
+title: A/222/A-120 Z
+code: A/222/A-120 Z
+type: lo-vz-37
+line: A
+region: "Královéhradecký kraj"
+location:
+  lat: 50.121280
+  lon: 16.579823
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" A/222/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371582992
+    type: web
+updated: '2026-04-21'

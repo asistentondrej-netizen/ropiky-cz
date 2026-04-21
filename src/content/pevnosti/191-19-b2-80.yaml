@@ -1,0 +1,15 @@
+title: "191/19/B2-80"
+code: "191/19/B2-80"
+type: lo-vz-37
+line: "191"
+region: "Jihočeský kraj"
+location:
+  lat: 48.935013
+  lon: 13.799578
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 191/19/B2-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372001379
+    type: web
+updated: '2026-04-21'

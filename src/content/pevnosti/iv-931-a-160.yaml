@@ -1,0 +1,15 @@
+title: IV/931/A-160
+code: IV/931/A-160
+type: lo-vz-37
+line: IV
+region: "Olomoucký kraj"
+location:
+  lat: 49.958577
+  lon: 17.767493
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" IV/931/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723366
+    type: web
+updated: '2026-04-21'

@@ -13,12 +13,3 @@ sources:
   - OpenStreetMap
   - ropiky.net — Mikulovsko
 updated: '2026-04-19'
-
-# === MÉDIA ===
-photos:
-  - url: /img/forts/mj-s29-svah.jpg
-    alt: 'MJ-S 29 — Mikulov — MJ-S 29'
-    author: "Tomašoun"
-    license: CC BY-SA 4.0
-    source: https://commons.wikimedia.org/wiki/File%3AMJ-S29%20%2C%2CSVAH%22.jpg
-

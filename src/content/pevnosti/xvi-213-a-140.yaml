@@ -1,0 +1,15 @@
+title: XVI/213/A-140
+code: XVI/213/A-140
+type: lo-vz-37
+line: XVI
+region: "Moravskoslezský kraj"
+location:
+  lat: 49.908401
+  lon: 18.448593
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XVI/213/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/97293397
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: 10/3111/A-160 Z
+code: 10/3111/A-160 Z
+type: lo-vz-37
+line: "10"
+region: "Jihomoravský kraj"
+location:
+  lat: 48.828323
+  lon: 16.512103
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 10/3111/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/362978242
+    type: web
+updated: '2026-04-21'

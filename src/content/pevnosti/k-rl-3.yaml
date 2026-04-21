@@ -1,0 +1,15 @@
+title: K-Rl 3
+code: K-Rl 3
+type: delostrelecka-tvrz
+line: Neurčeno
+region: "Bratislavský kraj"
+location:
+  lat: 48.185217
+  lon: 17.107433
+state: neznamy
+description: "Dělostřelecký objekt K-Rl 3. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2203508012
+    type: web
+updated: '2026-04-21'

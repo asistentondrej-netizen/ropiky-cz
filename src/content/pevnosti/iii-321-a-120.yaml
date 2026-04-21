@@ -1,0 +1,15 @@
+title: III/321/A-120
+code: III/321/A-120
+type: lo-vz-37
+line: III
+region: "Olomoucký kraj"
+location:
+  lat: 49.940885
+  lon: 17.852970
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" III/321/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723298
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: "5/148/1"
+code: "5/148/1"
+type: lo-vz-37
+line: Neurčeno
+region: "Jihomoravský kraj"
+location:
+  lat: 48.783560
+  lon: 16.803130
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 5/148/1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372076138
+    type: web
+updated: '2026-04-21'

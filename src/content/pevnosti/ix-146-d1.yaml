@@ -1,0 +1,15 @@
+title: IX/146/D1
+code: IX/146/D1
+type: lo-vz-36
+line: IX
+region: "Olomoucký kraj"
+location:
+  lat: 50.172384
+  lon: 17.013926
+state: neznamy
+description: Lehký objekt vz. 36 IX/146/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723412
+    type: web
+updated: '2026-04-21'

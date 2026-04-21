@@ -1,0 +1,15 @@
+title: II/14/A-160
+code: II/14/A-160
+type: lo-vz-37
+line: II
+region: "Moravskoslezský kraj"
+location:
+  lat: 49.919745
+  lon: 17.977275
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" II/14/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723062
+    type: web
+updated: '2026-04-21'

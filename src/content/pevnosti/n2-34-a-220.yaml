@@ -1,0 +1,15 @@
+title: N2/34/A-220
+code: N2/34/A-220
+type: lo-vz-37
+line: Neurčeno
+region: "Ústecký kraj"
+location:
+  lat: 50.834082
+  lon: 14.367261
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" N2/34/A-220. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/194034963
+    type: web
+updated: '2026-04-21'

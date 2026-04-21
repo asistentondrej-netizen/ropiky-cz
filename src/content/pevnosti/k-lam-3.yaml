@@ -1,0 +1,15 @@
+title: K-Lam 3
+code: K-Lam 3
+type: delostrelecka-tvrz
+line: Neurčeno
+region: "Bratislavský kraj"
+location:
+  lat: 48.180283
+  lon: 17.068700
+state: neznamy
+description: "Dělostřelecký objekt K-Lam 3. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2203508003
+    type: web
+updated: '2026-04-21'

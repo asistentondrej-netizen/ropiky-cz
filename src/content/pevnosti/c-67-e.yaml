@@ -1,0 +1,15 @@
+title: C/67/E
+code: C/67/E
+type: lo-vz-37
+line: C
+region: "Královéhradecký kraj"
+location:
+  lat: 50.272440
+  lon: 16.433770
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" C/67/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371584058
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: "9/1324/A-180"
+code: "9/1324/A-180"
+type: lo-vz-37
+line: "9"
+region: "Jihočeský kraj"
+location:
+  lat: 49.014200
+  lon: 15.299223
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 9/1324/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372077036
+    type: web
+updated: '2026-04-21'

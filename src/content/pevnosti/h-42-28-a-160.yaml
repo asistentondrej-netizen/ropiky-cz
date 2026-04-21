@@ -1,0 +1,15 @@
+title: H-42/28/A-160
+code: H-42/28/A-160
+type: lo-vz-37
+line: H-42
+region: "Jihočeský kraj"
+location:
+  lat: 48.974499
+  lon: 13.962290
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" H-42/28/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/1099741005
+    type: web
+updated: '2026-04-21'

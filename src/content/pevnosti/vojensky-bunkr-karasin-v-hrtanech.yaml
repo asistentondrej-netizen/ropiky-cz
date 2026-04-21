@@ -1,0 +1,15 @@
+title: Vojensky bunkr - Karasín „V hrtanech”
+code: Vojensky bunkr - Karasín „V hrtanech”
+type: neurceno
+line: Neurčeno
+region: "Kraj Vysočina"
+location:
+  lat: 49.546768
+  lon: 16.284073
+state: neznamy
+description: Objekt československého opevnění Vojensky bunkr - Karasín „V hrtanech”. Základní záznam — čeká na doplnění dat.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/5924544680
+    type: web
+updated: '2026-04-21'

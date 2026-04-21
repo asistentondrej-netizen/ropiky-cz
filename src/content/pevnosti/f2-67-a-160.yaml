@@ -1,0 +1,15 @@
+title: F2/67/A-160
+code: F2/67/A-160
+type: lo-vz-37
+line: F2
+region: "Královéhradecký kraj"
+location:
+  lat: 50.512005
+  lon: 16.111995
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" F2/67/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371584188
+    type: web
+updated: '2026-04-21'

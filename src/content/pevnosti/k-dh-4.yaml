@@ -1,0 +1,15 @@
+title: K-Dh 4
+code: K-Dh 4
+type: delostrelecka-tvrz
+line: Neurčeno
+region: "Bratislavský kraj"
+location:
+  lat: 48.191520
+  lon: 17.015944
+state: neznamy
+description: "Dělostřelecký objekt K-Dh 4. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2203507994
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: bývalá pozorovatelna Civilní obrany
+code: bývalá pozorovatelna Civilní obrany
+type: pechotni-srub
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 50.392597
+  lon: 14.926438
+state: neznamy
+description: "Pěchotní srub bývalá pozorovatelna Civilní obrany. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/5571621574
+    type: web
+updated: '2026-04-21'

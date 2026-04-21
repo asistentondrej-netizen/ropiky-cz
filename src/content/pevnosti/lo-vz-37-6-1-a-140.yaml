@@ -1,5 +1,5 @@
 title: Řopík 6/1/A-140 — Rybniční zámeček
-code: 6/1/A-140
+code: "6/1/A-140"
 type: lo-vz-37
 line: Lednicko — Lednicko-valtický areál (UNESCO)
 region: Jihomoravský kraj
@@ -26,16 +26,8 @@ visit: |
   **Doporučená délka:** 15–20 minut u objektu; jako součást většího výletu po linii 2–4 hodiny.
 
   **Doporučeno kombinovat s:** zámkem Lednice, Rybničním zámečkem, Apollonovým chrámem, minaretem.
+photos: []
 sources:
   - OpenStreetMap — military=bunker (OSM node)
   - 'ropiky.net — ID 1105625139: https://ropiky.net/dbase_objekt.php?id=1105625139'
 updated: '2026-04-19'
-
-# === MÉDIA ===
-photos:
-  - url: /img/forts/trutnov-bab-g3-61-a-140-z-rok-2012-01.jpg
-    alt: 'Řopík 6/1/A-140 — Rybniční zámeček — 6/1/A-140'
-    author: "Harold"
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File%3ATrutnov%2C%20Bab%C3%AD%2C%20G3-61-A-140%20Z%20%28rok%202012%3B%2001%29.jpg
-

@@ -1,0 +1,15 @@
+title: H1/259/A-140
+code: H1/259/A-140
+type: lo-vz-37
+line: H1
+region: "Liberecký kraj"
+location:
+  lat: 50.726550
+  lon: 15.697160
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" H1/259/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371461131
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,17 @@
+title: VII.b/107/C
+code: VII.b/107/C
+type: lo-vz-37
+line: Neurčeno
+region: "Karlovarský kraj"
+location:
+  lat: 49.834964
+  lon: 13.056467
+  # start_date: 1937-01-15
+built: '1937'
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" VII.b/107/C. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/854956416
+    type: web
+updated: '2026-04-21'

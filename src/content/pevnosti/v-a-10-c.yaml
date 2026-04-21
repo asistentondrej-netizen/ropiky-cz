@@ -1,0 +1,17 @@
+title: V.a/10/C
+code: V.a/10/C
+type: lo-vz-37
+line: Neurčeno
+region: "Ústecký kraj"
+location:
+  lat: 50.350361
+  lon: 13.176809
+  # start_date: 1936-12-31
+built: '1936'
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" V.a/10/C. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/758100648
+    type: web
+updated: '2026-04-21'

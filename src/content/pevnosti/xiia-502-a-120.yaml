@@ -1,0 +1,15 @@
+title: XIIa/502/A-120
+code: XIIa/502/A-120
+type: lo-vz-37
+line: Neurčeno
+region: "Olomoucký kraj"
+location:
+  lat: 50.118380
+  lon: 17.438467
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XIIa/502/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723980
+    type: web
+updated: '2026-04-21'

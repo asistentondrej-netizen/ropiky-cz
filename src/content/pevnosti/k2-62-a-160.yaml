@@ -1,0 +1,15 @@
+title: K2/62/A-160
+code: K2/62/A-160
+type: lo-vz-37
+line: K2
+region: "Liberecký kraj"
+location:
+  lat: 50.804303
+  lon: 15.001830
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" K2/62/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371400268
+    type: web
+updated: '2026-04-21'

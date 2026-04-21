@@ -1,0 +1,15 @@
+title: M-I/41/A-140
+code: M-I/41/A-140
+type: lo-vz-37
+line: M-I
+region: "Košický kraj"
+location:
+  lat: 48.501940
+  lon: 21.653234
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" M-I/41/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372140630
+    type: web
+updated: '2026-04-21'

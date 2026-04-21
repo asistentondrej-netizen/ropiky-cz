@@ -1,0 +1,15 @@
+title: Protitanková stena
+code: Protitanková stena
+type: neurceno
+line: Neurčeno
+region: "Bratislavský kraj"
+location:
+  lat: 48.105540
+  lon: 17.107090
+state: neznamy
+description: Objekt československého opevnění Protitanková stena. Základní záznam — čeká na doplnění dat.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2211324693
+    type: web
+updated: '2026-04-21'

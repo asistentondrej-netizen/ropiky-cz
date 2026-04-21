@@ -1,0 +1,15 @@
+title: Z1/32/A-140
+code: Z1/32/A-140
+type: lo-vz-37
+line: Z1
+region: "Královéhradecký kraj"
+location:
+  lat: 50.650336
+  lon: 15.862511
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" Z1/32/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371461143
+    type: web
+updated: '2026-04-21'

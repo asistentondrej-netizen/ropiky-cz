@@ -1,0 +1,15 @@
+title: Na zbytkovém
+code: Na zbytkovém
+type: lo-vz-37
+line: Neurčeno
+region: "Moravskoslezský kraj"
+location:
+  lat: 49.919965
+  lon: 18.004915
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" Na zbytkovém. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/52430001
+    type: web
+updated: '2026-04-21'

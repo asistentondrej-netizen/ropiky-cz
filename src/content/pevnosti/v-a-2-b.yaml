@@ -1,0 +1,17 @@
+title: V.a/2/B
+code: V.a/2/B
+type: lo-vz-37
+line: Neurčeno
+region: "Ústecký kraj"
+location:
+  lat: 50.333849
+  lon: 13.170137
+  # start_date: 1936-12-31
+built: '1936'
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" V.a/2/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/854956419
+    type: web
+updated: '2026-04-21'

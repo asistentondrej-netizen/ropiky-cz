@@ -1,0 +1,15 @@
+title: Podzemní bunkr
+code: Podzemní bunkr
+type: neurceno
+line: Neurčeno
+region: "Kraj Vysočina"
+location:
+  lat: 49.223662
+  lon: 16.483026
+state: neznamy
+description: Objekt československého opevnění Podzemní bunkr. Základní záznam — čeká na doplnění dat.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/7485821986
+    type: web
+updated: '2026-04-21'

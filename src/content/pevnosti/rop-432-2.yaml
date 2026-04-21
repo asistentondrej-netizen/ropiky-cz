@@ -1,0 +1,15 @@
+title: ŘOP 432/2
+code: ŘOP 432/2
+type: lo-vz-37
+line: Neurčeno
+region: "Jihomoravský kraj"
+location:
+  lat: 48.808329
+  lon: 15.974377
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" ŘOP 432/2. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/86573244
+    type: web
+updated: '2026-04-21'

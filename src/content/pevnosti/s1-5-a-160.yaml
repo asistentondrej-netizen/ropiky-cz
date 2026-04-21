@@ -1,0 +1,15 @@
+title: S1/5/A-160
+code: S1/5/A-160
+type: lo-vz-37
+line: S1
+region: "Liberecký kraj"
+location:
+  lat: 50.712760
+  lon: 14.824035
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" S1/5/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371458264
+    type: web
+updated: '2026-04-21'

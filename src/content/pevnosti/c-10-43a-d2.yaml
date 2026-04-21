@@ -1,0 +1,15 @@
+title: C-10/43a/D2
+code: C-10/43a/D2
+type: lo-vz-36
+line: C-10
+region: "Středočeský kraj"
+location:
+  lat: 50.411410
+  lon: 14.120690
+state: neznamy
+description: Lehký objekt vz. 36 C-10/43a/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371968781
+    type: web
+updated: '2026-04-21'

@@ -6,173 +6,45 @@ region: Pardubický kraj
 location:
   lat: 50.0867
   lon: 16.7569
-  address: Prostřední Lipka, 561 69 Králíky
-  elevation: 504
-
+  address: Králíky, okolí Hedče
 built: '1937'
 state: muzeum
-
-description: >
-  Největší a nejvíce rekonstruovaný pěchotní srub v ČR. Vlajkový objekt
-  Vojensko-historického areálu Cihelna u Králík. Každoroční dějiště akce
-  „Cihelna" — jedné z největších vojensko-historických rekonstrukcí v Evropě.
-  Kompletní dobová výzbroj, ubikace, strojovna, filtrovna.
-
-# === TECHNICKÁ KARTA ===
-tech:
-  odolnost: 'III'
-  stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub oboustranný (typ C)
-  orientace: S–J, palebné pole do údolí Lipkovského potoka
-  posadka:
-    mini: 27
-    maxi: 37
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 4
-      umisteni: pravá a levá kasemata
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 2
-      umisteni: pancéřový zvon
-    - zbran: Protitankový kanón vz. 36 (3,7 cm) spřažený s kulometem
-      pocet: 2
-      umisteni: střílny kasemat
-  steny:
-    tloustka_cm: 275
-    material: Železobeton B500
-  komponenty:
-    - pancerovy-zvon
-
-# === STAVBA ===
-stavba:
-  projektant: Ředitelství opevňovacích prací (ŘOP)
-  stavebniFirma: Záruba-Pfeffermann, Praha
-  zahajeni: '1937'
-  dokonceni: '1938'
-  poznamka: Jeden z objektů odolnosti III v klíčovém králickém úseku.
-
-# === HISTORIE ===
-history: >
-  Pěchotní srub K-S 14 „U cihelny" byl součástí silně opevněné králicko-orlické
-  linie. Stavba probíhala v letech 1937–1938 firmou Záruba-Pfeffermann.
-  Oboustranný typ C s odolností III a plánovanou posádkou 37 mužů.
+description: Pěchotní srub s muzejní expozicí v rámci Vojensko-historického areálu
+  Cihelna u Králík. Jeden z nejlépe rekonstruovaných srubů.
+history: 'K-S 14 „U cihelny" byl součástí silně opevněné králicko-orlické linie. Stavba
+  probíhala v letech 1937–1938.
 
 
-  V září 1938 byl plně obsazen. Po Mnichovu odevzdán Wehrmachtu. Během okupace
-  sloužil jako sklad a cíl zkušebních střeleb. Po válce přešel k ČSLA.
-  V 60. letech v souvislosti s projektem „Kahan" byla tvrz Hanička i okolní
-  sruby převzaty pro armádní účely — K-S 14 sloužil jako muniční sklad.
+  Po Mnichovu zabrán Wehrmachtem, po válce léta opuštěn. Od 90. let intenzivní rekonstrukce
+  — dnes muzejní objekt s autentickou výzbrojí, ubikacemi a strojovnou.
 
 
-  Od začátku 90. let probíhá rozsáhlá muzejní rekonstrukce. Dnes je K-S 14
-  vlajkovým objektem Vojensko-historického areálu Cihelna spravovaného
-  občanským sdružením. Interiér zahrnuje autentickou výzbroj, ubikace,
-  filtrovnu, strojovnu, muniční sklad a velitelské stanoviště.
+  Pravidelně se zde konají rekonstrukce dobových bojů „Cihelna" — jedna z největších
+  vojensko-historických akcí v ČR.
 
+  '
+visit: 'Muzeum K-S 14 „U cihelny" — sezónně otevřené, vstupné. Součást areálu Vojenské
+  muzeum Králíky. Akce „Cihelna" obvykle v srpnu.
 
-  Každoročně v srpnu se zde koná akce „Cihelna" — rekonstrukce dobových
-  bojů s účastí stovek reenaktorů, těžké techniky a tisíců návštěvníků.
-
-historieMilniky:
-  - datum: '1937'
-    udalost: Zahájení betonáže
-  - datum: '1938'
-    udalost: Dokončení a výzbroj
-  - datum: 30. 9. 1938
-    udalost: Mnichov — předání Wehrmachtu
-  - datum: 1939–1945
-    udalost: Sklad a cíl zkušebních střeleb
-  - datum: 60. léta
-    udalost: Muniční sklad ČSLA (projekt Kahan)
-  - datum: 90. léta
-    udalost: Zahájení muzejní rekonstrukce
-  - datum: každoročně srpen
-    udalost: Akce „Cihelna" — vojensko-historická rekonstrukce
-
-# === NÁVŠTĚVA ===
-visit: >
-  Vojensko-historický areál Cihelna zahrnuje pěchotní srub K-S 14 „U cihelny",
-  kavernu Prostřední Lipka a venkovní expozici těžké techniky (tanky, děla,
-  transportéry). Sezónně otevřeno duben–listopad. Akce „Cihelna" se koná
-  tradičně o prvním srpnovém víkendu. Provozuje Vojensko-historický klub.
-  Aktuální informace na vojenske-muzeum-kraliky.cz a akce-cihelna.cz.
-
-navsteva:
-  pristupnost: auto-kratka-chuze
-  vhodnostRodiny: doporuceno
-  doporucenaDoba_minut: 90
-  otevreno:
-    sezonne: true
-    obdobi: duben–listopad
-    dny: víkendy, hlavní sezóna denně
-    poznamka: Akce „Cihelna" 1. víkend v srpnu — rozšířený provoz.
-  vstupne:
-    zakladni_kc: 120
-    snizene_kc: 60
-    rodinne_kc: 280
-    poznamka: Vyšší vstupné při akci „Cihelna".
-  parkovani: Parkoviště u areálu zdarma.
-  teplotaUvnitr_C: 11
-  upozorneni:
-    - Kombinujte s návštěvou tvrze Bouda (5 km) nebo Hůrka (3 km).
-    - Akce „Cihelna" — velké davy, doporučena rezervace ubytování.
-    - Prohlídky s průvodcem, skupinové nebo individuální.
-
-# === SPRÁVCE ===
-spravujicSubjekt:
-  nazev: Vojensko-historický klub Pardubicko
-  typ: klub-vojenske-historie
-  web: https://www.vojenske-muzeum-kraliky.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
-pamatka:
-  status: kulturni-pamatka
-  poznamka: Součást rozsáhlého souboru králických opevnění.
-
-# === MÉDIA ===
-photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg
-    alt: Pěchotní srub K-S 14 „U cihelny"
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_14_(rok_2007;_01).jpg
-    category: exterier
-    featured: true
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2000%29.jpg/1920px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2000%29.jpg
-    alt: K-S 14 pohled na střílny
-    author: "User:Harold's family"
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_14_(rok_2000).jpg
-    category: detail
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2003%29.jpg/1920px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2003%29.jpg
-    alt: K-S 14 — boční pohled
-    author: "User:Harold"
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_14_(rok_2003).jpg
-    category: exterier
-
-# === CROSS-LINKING ===
-related:
-  pevnosti:
-    - k-s-8-u-nadrazi
-    - k-s-21-jilm
-    - tvrz-bouda
-    - tvrz-hurka
-    - tvrz-adam
-    - tvrz-hanicka
-  typologie:
-    - pechotni-srub
-    - pancerovy-zvon
-
-# === ZDROJE ===
+  '
 sources:
-  - title: Vojenské muzeum Králíky
-    url: https://www.vojenske-muzeum-kraliky.cz
-    type: web
-  - title: Akce Cihelna — oficiální web
-    url: https://www.akce-cihelna.cz
-    type: web
-  - title: ropiky.net — K-S 14
-    type: web
-
-updated: '2026-04-20'
+- vojenske-muzeum-kraliky.cz
+- akce-cihelna.cz
+- ropiky.net — K-S 14
+updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg
+  alt: Pěchotní srub K-S 14
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_14_(rok_2007;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2000%29.jpg/1920px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2000%29.jpg
+  alt: Pěchotní srub K-S 14
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_14_(rok_2000).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2003%29.jpg/1920px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2003%29.jpg
+  alt: Pěchotní srub K-S 14
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Prost%C5%99edn%C3%AD_Lipka,_K-S_14_(rok_2003).jpg

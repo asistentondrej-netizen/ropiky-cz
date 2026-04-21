@@ -1,0 +1,15 @@
+title: R1/29/A-160 Z
+code: R1/29/A-160 Z
+type: lo-vz-37
+line: R1
+region: "Liberecký kraj"
+location:
+  lat: 50.676275
+  lon: 14.728799
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" R1/29/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/655224600
+    type: web
+updated: '2026-04-21'

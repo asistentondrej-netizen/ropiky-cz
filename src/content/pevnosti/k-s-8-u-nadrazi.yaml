@@ -6,158 +6,55 @@ region: Pardubický kraj
 location:
   lat: 50.10509
   lon: 16.781779
-  address: Králíky, nádraží ČD
-  elevation: 558
-
 built: '1937'
 state: muzeum
-
-description: >
-  Pěchotní srub u železniční stanice Králíky — nejsnadněji dostupný objekt
-  těžkého opevnění v ČR (200 m od nádraží). Oboustranný objekt odolnosti III
-  s rekonstruovanou výzbrojí. Ideální start pro pochopení systému Pevnostní
-  oblasti Králíky. Provozuje Klub vojenské historie.
-
-# === TECHNICKÁ KARTA ===
-tech:
-  odolnost: 'III'
-  stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub oboustranný (typ C)
-  orientace: Palebné pole přes přechod železniční trati
-  posadka:
-    mini: 22
-    maxi: 32
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 4
-      umisteni: pravá a levá kasemata
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 2
-      umisteni: pancéřový zvon
-    - zbran: Protitankový kanón vz. 36 (3,7 cm) spřažený s kulometem
-      pocet: 2
-      umisteni: střílny kasemat
-  steny:
-    tloustka_cm: 275
-    material: Železobeton B500
-  komponenty:
-    - pancerovy-zvon
-
-# === STAVBA ===
-stavba:
-  projektant: Ředitelství opevňovacích prací (ŘOP)
-  zahajeni: '1937'
-  dokonceni: '1938'
-  poznamka: Objekt v klíčové poloze u železniční trati Králíky–Międzylesie.
-
-# === HISTORIE ===
-history: >
-  K-S 8 „U nádraží" byl postaven v letech 1937–1938 jako součást králické
-  linie. Jeho hlavním úkolem byla kontrola železničního přechodu Králíky —
-  Międzylesie (tehdy německá Mittelwalde) a palebná podpora sousedních objektů
-  K-S 7 a K-S 9.
-
-
-  V září 1938 plně obsazen pluky Sušice a Olomouc. Po Mnichovu odevzdán
-  Wehrmachtu. Během okupace sloužil jako cíl zkušebních střeleb a sklad.
-  Po roce 1945 přešel pod ČSLA, později sklad civilní obrany.
-
-
-  Od 90. let postupná rekonstrukce občanským sdružením Klub vojenské historie
-  Králíky. Dnes muzejní objekt s autentickými replikami výzbroje a interiéru.
-  Součást ucelené prohlídkové trasy Pevnostní oblasti Králíky.
-
-historieMilniky:
-  - datum: '1937'
-    udalost: Zahájení betonáže
-  - datum: '1938'
-    udalost: Dokončení a výzbroj
-  - datum: 30. 9. 1938
-    udalost: Mnichov — předání Wehrmachtu
-  - datum: 1939–1945
-    udalost: Sklad a zkušební střelby
-  - datum: 90. léta
-    udalost: Zahájení muzejní rekonstrukce
-
-# === NÁVŠTĚVA ===
-visit: >
-  Provozuje Klub vojenské historie Králíky. Jeden z nejdostupnějších objektů
-  ŘOP v ČR vlakem (200 m od nádraží). Otevřeno květen–říjen, víkendy
-  10:00–17:00. V hlavní sezóně i všední dny. Prohlídky s průvodcem v
-  pravidelných intervalech. Aktuální informace na kvh-kraliky.cz.
-
-navsteva:
-  pristupnost: auto-az-k-objektu
-  vhodnostRodiny: idealni
-  doporucenaDoba_minut: 45
-  otevreno:
-    sezonne: true
-    obdobi: květen–říjen
-    dny: víkendy 10:00–17:00
-    poznamka: V hlavní sezóně i všední dny.
-  vstupne:
-    zakladni_kc: 100
-    snizene_kc: 60
-    poznamka: Aktuální info na kvh-kraliky.cz.
-  parkovani: U nádraží a v centru Králík.
-  mhd: Vlakem do Králíky, 200 m pěšky.
-  teplotaUvnitr_C: 11
-  upozorneni:
-    - Ideální jako startovní bod pro prohlídku králických opevnění.
-    - Kombinujte s tvrzí Bouda (18 km) nebo Hůrka (10 km).
-    - Ukázka překážkového systému (protitankové jámy) ve venkovním prostoru.
-
-# === SPRÁVCE ===
-spravujicSubjekt:
-  nazev: Klub vojenské historie Králíky
-  typ: klub-vojenske-historie
-  web: https://www.kvh-kraliky.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
-pamatka:
-  status: kulturni-pamatka
-
-# === MÉDIA ===
-photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kr%C3%A1l%C3%ADky%2C_Horn%C3%AD_Lipka%2C_K-S_8_%28rok_2000%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Horn%C3%AD_Lipka%2C_K-S_8_%28rok_2000%29.jpg
-    alt: Pěchotní srub K-S 8 „U nádraží"
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Horn%C3%AD_Lipka,_K-S_8_(rok_2000).jpg
-    category: exterier
-    featured: true
-  - url: https://upload.wikimedia.org/wikipedia/commons/0/0f/K-S8.jpg
-    alt: K-S 8 — detail
-    author: Railfort
-    license: Public domain
-    source: https://commons.wikimedia.org/wiki/File:K-S8.jpg
-    category: detail
-  - url: https://upload.wikimedia.org/wikipedia/commons/c/c6/K-S_8_U_nadrazi.JPG
-    alt: K-S 8 pohled zvenku
-    author: Lukáš Malý
-    license: Public domain
-    source: https://commons.wikimedia.org/wiki/File:K-S_8_U_nadrazi.JPG
-    category: exterier
-
-# === CROSS-LINKING ===
-related:
-  pevnosti:
-    - k-s-14-u-cihelny
-    - k-s-21-jilm
-    - tvrz-bouda
-    - tvrz-hurka
-    - tvrz-adam
-    - tvrz-hanicka
-  typologie:
-    - pechotni-srub
-    - pancerovy-zvon
-
-# === ZDROJE ===
+description: Pěchotní srub u železniční stanice Králíky — kontroloval přechod trati.
+  Oboustranný objekt odolnosti III s rekonstruovanou výzbrojí. Provozuje Vojensko-historické
+  muzeum Králíky.
 sources:
-  - title: Klub vojenské historie Králíky
-    url: https://www.kvh-kraliky.cz
-    type: web
-  - title: ropiky.net — K-S 8
-    type: web
+- Wikimedia Commons
+- ropiky.net
+updated: '2026-04-18'
+visit: 'Pěchotní srub u nádraží Králíky — jeden z nejdostupnějších objektů těžkého
+  opevnění v ČR. Vhodný start pro pochopení systému Pevnostní oblasti Králíky. Provozuje
+  Klub vojenské historie.
 
-updated: '2026-04-20'
+
+  **Otevírací doba:** květen–říjen, víkendy 10:00–17:00. V hlavní sezóně i všední
+  dny. Prohlídky s průvodcem v pravidelných intervalech.
+
+
+  **Vstupné:** cca 100 Kč dospělí, 60 Kč děti. Aktuální info na kvh-kraliky.cz.
+
+
+  **Co uvidíte:** oboustranný pěchotní srub s replikami kulometů v původních lafetách,
+  rekonstruovaný interiér, pozorovací zvon. Exteriér objektu s ukázkou překážkového
+  systému (reverzní výstupek, protitankové jámy).
+
+
+  **Doporučená délka:** 30–45 minut.
+
+
+  **Dostupnost:** Přímo u vlakového nádraží v Králíkách (200 m pěšky) — jeden z nejsnáze
+  dostupných objektů ŘOP v ČR vlakem. Autem parkování u nádraží.
+
+
+  **Doporučeno kombinovat s:** tvrz Bouda (18 km), tvrz Hůrka (10 km), Vojenské muzeum
+  Králíky (centrum města, 1 km). Pro celodenní fortifikační výlet doporučujeme využít
+  Králíky jako základnu — ubytování v penzionech na náměstí.'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kr%C3%A1l%C3%ADky%2C_Horn%C3%AD_Lipka%2C_K-S_8_%28rok_2000%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Horn%C3%AD_Lipka%2C_K-S_8_%28rok_2000%29.jpg
+  alt: Pěchotní srub K-S 8 U nádraží
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Horn%C3%AD_Lipka,_K-S_8_(rok_2000).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/0/0f/K-S8.jpg
+  alt: Pěchotní srub K-S 8
+  author: Railfort
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:K-S8.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/c/c6/K-S_8_U_nadrazi.JPG
+  alt: Pěchotní srub K-S 8
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:K-S_8_U_nadrazi.JPG

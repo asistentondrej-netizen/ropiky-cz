@@ -6,166 +6,104 @@ region: Královéhradecký kraj
 location:
   lat: 50.1753
   lon: 16.4728
-  address: Rokytnice v Orl. horách, hřeben Panské Pole
-  elevation: 752
-
+  address: Rokytnice v Orl. horách, hřeben
 built: '1938'
 state: muzeum
-
-description: >
-  Rekonstruovaný oboustranný pěchotní srub na exponovaném hřebenu Orlických
-  hor — součást muzejního okruhu tvrze Hanička. Samostatná muzejní expozice
-  zaměřená na posádku a organizaci boje. Ideální rozšíření návštěvy tvrze
-  Hanička na celodenní program.
-
-# === TECHNICKÁ KARTA ===
-tech:
-  odolnost: 'II'
-  stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub oboustranný (typ C)
-  orientace: Palebné pole hřebenem směrem k polské hranici
-  posadka:
-    mini: 22
-    maxi: 32
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 4
-      umisteni: pravá a levá kasemata
-    - zbran: Protitankový kanón vz. 36 (3,7 cm)
-      pocet: 1
-      umisteni: střílna kasematy
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 2
-      umisteni: pancéřové zvony
-  steny:
-    tloustka_cm: 225
-    material: Železobeton B500
-  komponenty:
-    - pancerovy-zvon
-
-# === STAVBA ===
-stavba:
-  projektant: Ředitelství opevňovacích prací (ŘOP)
-  stavebniFirma: Ing. Záruba-Pfeffermann, Brno
-  zahajeni: '1937'
-  dokonceni: '1938'
-  poznamka: Předsunutý srub tvrze Hanička, ochrana přístupů k tvrzi.
-
-# === HISTORIE ===
-history: >
-  R-S 74 „Na holém" byl postaven v letech 1937–1938 firmou Záruba-Pfeffermann
-  jako předsunutý srub tvrze Hanička. Oboustranný typ II. stupně, plánovaná
-  posádka 32 mužů pod velením por. Miloslava Šimečka.
+description: Rekonstruovaný oboustranný pěchotní srub na exponovaném hřebenu Orlických
+  hor. Součást muzejního okruhu tvrze Hanička, vlastní expozice o posádce a organizaci
+  boje.
+history: 'R-S 74 „Na holém" byl postaven v letech 1937–1938 firmou Záruba-Pfeffermann
+  Brno jako předsunutý srub tvrze Hanička. Oboustranný typ II. stupně, výzbroj 4 TK
+  + 1 PTK, plánovaná posádka 32 mužů.
 
 
-  V září 1938 plně obsazen a vyzbrojen. Po Mnichovu evakuován, během okupace
-  Němci demontovali pancéřové prvky. V letech 1946–1947 znovu krátce obsazen
-  v rámci pokusu o oživení obrany, poté opuštěn.
+  V září 1938 plně obsazen a vyzbrojen pod velením por. Miloslava Šimečka. Po Mnichovu
+  evakuován, během okupace Němci demontovali pancéřové prvky. V letech 1946–1947 znovu
+  obsazen v rámci pokusu o oživení obrany proti novým hrozbám, poté opuštěn.
 
 
-  V 60. letech v rámci armádního projektu „Kahan" spolu s tvrzí Haničkou
-  převzat a adaptován pro sklady civilní obrany. Systematická muzejní
-  rekonstrukce proběhla v letech 2004–2012 spolkem Klub vojenské historie
-  Rokytnice. Obnovena dvě střelecká stanoviště, strojovna, ubikace a
-  zásobovací prostory.
+  Systematická rekonstrukce proběhla v letech 2004–2012 spolkem **Klub vojenské historie
+  Rokytnice**. Byla obnovena dvě střelecká stanoviště, strojovna, ubikace a část zásobovacích
+  prostor.'
+visit: 'R-S 74 „Na holém" je **samostatná muzejní expozice** doplňující prohlídku
+  tvrze Hanička. Doporučujeme navštívit jako součást **celodenního programu Orlické
+  hory**.
 
-historieMilniky:
-  - datum: 1937–1938
-    udalost: Stavba firmou Záruba-Pfeffermann
-  - datum: září 1938
-    udalost: Plné obsazení pod velením por. Šimečka
-  - datum: 30. 9. 1938
-    udalost: Mnichov — evakuace
-  - datum: 1946–1947
-    udalost: Krátké znovuobsazení
-  - datum: 60. léta
-    udalost: Sklad civilní obrany (projekt Kahan)
-  - datum: 2004–2012
-    udalost: Muzejní rekonstrukce Klubem vojenské historie Rokytnice
 
-# === NÁVŠTĚVA ===
-visit: >
-  Samostatná muzejní expozice doplňující prohlídku tvrze Hanička. Otevřeno
-  víkendy a svátky duben–říjen 10:00–17:00, v hlavní sezóně denně. Společná
-  vstupenka s tvrzí Hanička (300 Kč dospělí, úspora 50 Kč). Každoročně
-  první víkend v září Den posádky s rekonstrukcí bojové pohotovosti 1938.
-  Aktuální program na hanicka.cz.
+  **Otevírací doba:** Víkendy a svátky duben–říjen, 10:00–17:00. V hlavní sezóně (červen–srpen)
+  denně. Prohlídka s průvodcem každou celou hodinu. Aktuální otevírací doba a rezervace
+  prohlídky na hanicka.cz.
 
-navsteva:
-  pristupnost: auto-kratka-chuze
-  vhodnostRodiny: doporuceno
-  doporucenaDoba_minut: 45
-  otevreno:
-    sezonne: true
-    obdobi: duben–říjen
-    dny: víkendy a svátky 10:00–17:00
-    poznamka: V hlavní sezóně (červen–srpen) denně.
-  vstupne:
-    zakladni_kc: 80
-    snizene_kc: 40
-    rodinne_kc: 180
-    poznamka: Společná vstupenka s tvrzí Hanička 300 Kč / dospělý.
-  parkovani: U tvrze Hanička (cca 2 km pěšky).
-  mhd: Bus linka 790 z Rychnova, víkendová obsluha.
-  teplotaUvnitr_C: 10
-  upozorneni:
-    - Od tvrze Hanička 2 km pěšky po červené turistické značce.
-    - Součást celodenního programu s návštěvou Haničky.
-    - Den posádky — 1. víkend v září, velká rodinná akce.
 
-# === SPRÁVCE ===
-spravujicSubjekt:
-  nazev: Klub vojenské historie Rokytnice
-  typ: klub-vojenske-historie
-  web: https://www.hanicka.cz
+  **Vstupné:** 80 Kč dospělí, 40 Kč děti, rodinná vstupenka 180 Kč. **Společná vstupenka
+  s tvrzí Hanička**: 300 Kč dospělí (úspora 50 Kč).
 
-# === PAMÁTKOVÁ OCHRANA ===
-pamatka:
-  status: kulturni-pamatka
 
-# === MÉDIA ===
-photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg
-    alt: Pěchotní srub R-S 74 „Na holém"
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Pansk%C3%A9_Pole,_R-S_74_(rok_2010;_01).jpg
-    category: exterier
-    featured: true
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%281%29.jpg/1920px-Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%281%29.jpg
-    alt: R-S 74 — boční pohled
-    author: MartinVeselka
-    license: CC BY-SA 4.0
-    source: https://commons.wikimedia.org/wiki/File:Pansk%C3%A9_Pole_(Hani%C4%8Dka)_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_(1).jpg
-    category: exterier
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%282%29.jpg/1920px-Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%282%29.jpg
-    alt: R-S 74 — detail
-    author: MartinVeselka
-    license: CC BY-SA 4.0
-    source: https://commons.wikimedia.org/wiki/File:Pansk%C3%A9_Pole_(Hani%C4%8Dka)_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_(2).jpg
-    category: detail
+  **Délka prohlídky:** 45 minut s průvodcem.
 
-# === CROSS-LINKING ===
-related:
-  pevnosti:
-    - tvrz-hanicka
-    - r-h-s-76
-    - r-h-s-78
-    - r-h-s-79
-    - r-s-72
-    - r-s-87
-  typologie:
-    - pechotni-srub
-    - pancerovy-zvon
 
-# === ZDROJE ===
+  **Jak se tam dostat:**
+
+
+  - Autem: 40 km východně od Rychnova nad Kněžnou po silnici 310, pak odbočka do Rokytnice
+  a 2 km pěšky od tvrze Hanička
+
+  - Autobusem: linka 790 z Rychnova (nejlépe ve víkend)
+
+  - Pěšky z Rokytnice: 1 hodina po červené turistické značce
+
+
+  **Co zde uvidíte:**
+
+
+  - **Rekonstruované střelecké stanoviště** s replikou TK vz. 37 v lafetě M
+
+  - **Dobové ubikace posádky** (32 mužů) — lůžka, kuchyně, stoly, dokumenty
+
+  - **Strojovna** s dieselagregátem (repliku)
+
+  - **Dochované pancéřové prvky** (2 zvony)
+
+  - **Unikátní expozice o životě v srubu** — osobní věci vojáků, dopisy, fotografie
+
+
+  **Doporučený celodenní program:**
+
+
+  - 9:00: Příjezd do Rokytnice, parkování u tvrze Hanička
+
+  - 9:30–12:00: **Tvrz Hanička** (podzemní prohlídka 2 h + expozice civilní obrany
+  30 min)
+
+  - 12:00–13:00: Oběd v restauraci Rokytnické Hanička
+
+  - 13:00–15:00: **R-S 74 „Na holém"** (45 min) + procházka po naučné stezce po sousedních
+  srubech (45 min)
+
+  - 15:00–17:00: Volný program — hřeben Orlických hor, pěší turistika
+
+
+  **Speciální akce:** Každoročně **první víkend v září** se zde koná **Den posádky**
+  s rekonstrukcí bojové pohotovosti z roku 1938. Ukázky střeleb, dobová strava, vojenský
+  koncert. Velká rodinná akce.'
 sources:
-  - title: Tvrz Hanička — oficiální web
-    url: https://www.hanicka.cz
-    type: web
-  - title: Klub vojenské historie Rokytnice
-    type: web
-  - title: ropiky.net — R-S 74
-    type: web
-
-updated: '2026-04-20'
+- Tvrz Hanička (hanicka.cz)
+- Klub vojenské historie Rokytnice
+- ropiky.net — R-S 74
+updated: '2026-04-18'
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub R-S 74 Na holém
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Pansk%C3%A9_Pole,_R-S_74_(rok_2010;_01).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%281%29.jpg/1920px-Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%281%29.jpg
+  alt: Pěchotní srub R-S 74
+  author: MartinVeselka
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Pansk%C3%A9_Pole_(Hani%C4%8Dka)_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_(1).jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%282%29.jpg/1920px-Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%282%29.jpg
+  alt: Pěchotní srub R-S 74
+  author: MartinVeselka
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Pansk%C3%A9_Pole_(Hani%C4%8Dka)_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_(2).jpg

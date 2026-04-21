@@ -36,11 +36,4 @@ sources:
 - OpenStreetMap (OSM element way/389099979)
 - ropiky.net — databáze čs. opevnění
 updated: '2026-04-19'
-# === MÉDIA ===
-photos:
-  - url: /img/forts/n-s-85-montace-1.jpg
-    alt: 'N-S-85 — N-S-85'
-    author: "Lasy"
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File%3AN-S%2085%20Montace%201.jpg
-
+photos: []

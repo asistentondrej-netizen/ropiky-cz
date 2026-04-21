@@ -1,0 +1,15 @@
+title: Kugelstand
+code: Kugelstand
+type: lo-vz-36
+line: Neurčeno
+region: "Bratislavský kraj"
+location:
+  lat: 48.117089
+  lon: 17.081486
+state: neznamy
+description: Lehký objekt vz. 36 Kugelstand. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/12784077205
+    type: web
+updated: '2026-04-21'

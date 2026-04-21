@@ -1,0 +1,15 @@
+title: K3/215/A-140
+code: K3/215/A-140
+type: lo-vz-37
+line: K3
+region: "Liberecký kraj"
+location:
+  lat: 50.792405
+  lon: 14.907365
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" K3/215/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371401938
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: II/50/A-140
+code: II/50/A-140
+type: lo-vz-37
+line: II
+region: "Moravskoslezský kraj"
+location:
+  lat: 49.916310
+  lon: 18.003400
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" II/50/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723073
+    type: web
+updated: '2026-04-21'

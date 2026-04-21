@@ -1,0 +1,15 @@
+title: I.a/16/A -
+code: I.a/16/A -
+type: lo-vz-37
+line: Neurčeno
+region: "Královéhradecký kraj"
+location:
+  lat: 50.190255
+  lon: 16.548670
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" I.a/16/A -. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371652707
+    type: web
+updated: '2026-04-21'

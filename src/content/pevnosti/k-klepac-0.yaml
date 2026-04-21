@@ -1,0 +1,15 @@
+title: K-Klepáč 0
+code: K-Klepáč 0
+type: delostrelecka-tvrz
+line: Neurčeno
+region: "Bratislavský kraj"
+location:
+  lat: 48.181400
+  lon: 17.078083
+state: neznamy
+description: "Dělostřelecký objekt K-Klepáč 0. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2203507998
+    type: web
+updated: '2026-04-21'

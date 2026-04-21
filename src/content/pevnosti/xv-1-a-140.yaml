@@ -1,0 +1,15 @@
+title: XV/1/A-140
+code: XV/1/A-140
+type: lo-vz-37
+line: XV
+region: "Královéhradecký kraj"
+location:
+  lat: 50.057010
+  lon: 16.775025
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XV/1/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371653005
+    type: web
+updated: '2026-04-21'

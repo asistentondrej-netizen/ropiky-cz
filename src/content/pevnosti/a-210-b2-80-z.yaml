@@ -1,0 +1,15 @@
+title: A/210/B2-80 Z
+code: A/210/B2-80 Z
+type: lo-vz-37
+line: A
+region: "Královéhradecký kraj"
+location:
+  lat: 50.135100
+  lon: 16.565710
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" A/210/B2-80 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371582979
+    type: web
+updated: '2026-04-21'

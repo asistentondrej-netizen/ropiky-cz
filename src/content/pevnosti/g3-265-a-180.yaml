@@ -1,0 +1,15 @@
+title: G3/265/A-180
+code: G3/265/A-180
+type: lo-vz-37
+line: G3
+region: "Královéhradecký kraj"
+location:
+  lat: 50.615120
+  lon: 15.921630
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" G3/265/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371584378
+    type: web
+updated: '2026-04-21'

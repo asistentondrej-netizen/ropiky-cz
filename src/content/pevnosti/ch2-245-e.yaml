@@ -1,0 +1,15 @@
+title: CH2/245/E
+code: CH2/245/E
+type: lo-vz-37
+line: CH2
+region: "Liberecký kraj"
+location:
+  lat: 50.752907
+  lon: 15.358189
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" CH2/245/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371408341
+    type: web
+updated: '2026-04-21'

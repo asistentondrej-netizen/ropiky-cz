@@ -1,0 +1,15 @@
+title: G1/312/E1
+code: G1/312/E1
+type: lo-vz-37
+line: Neurčeno
+region: "Královéhradecký kraj"
+location:
+  lat: 50.583143
+  lon: 15.988998
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" G1/312/E1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371584327
+    type: web
+updated: '2026-04-21'

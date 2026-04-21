@@ -1,0 +1,15 @@
+title: CO kryt Sandrik
+code: CO kryt Sandrik
+type: pechotni-srub
+line: Neurčeno
+region: "Nitranský kraj"
+location:
+  lat: 48.455337
+  lon: 18.773046
+state: neznamy
+description: "Pěchotní srub CO kryt Sandrik. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/13456893865
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: "9/1308/A-140"
+code: "9/1308/A-140"
+type: lo-vz-37
+line: "9"
+region: "Jihočeský kraj"
+location:
+  lat: 48.990229
+  lon: 15.372195
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 9/1308/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372077022
+    type: web
+updated: '2026-04-21'

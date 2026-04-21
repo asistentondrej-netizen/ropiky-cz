@@ -1,0 +1,15 @@
+title: Už
+code: Už
+type: lo-vz-37
+line: Neurčeno
+region: "Košický kraj"
+location:
+  lat: 48.418718
+  lon: 21.961050
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" Už. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/12554498503
+    type: web
+updated: '2026-04-21'

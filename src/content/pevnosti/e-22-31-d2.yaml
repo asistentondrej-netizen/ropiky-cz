@@ -1,0 +1,15 @@
+title: E-22/31/D2
+code: E-22/31/D2
+type: lo-vz-36
+line: E-22
+region: "Karlovarský kraj"
+location:
+  lat: 49.739013
+  lon: 12.999973
+state: neznamy
+description: Lehký objekt vz. 36 E-22/31/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2294788187
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: XXI/726/D1
+code: XXI/726/D1
+type: lo-vz-36
+line: XXI
+region: "Olomoucký kraj"
+location:
+  lat: 50.094890
+  lon: 17.448395
+state: neznamy
+description: Lehký objekt vz. 36 XXI/726/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371724370
+    type: web
+updated: '2026-04-21'

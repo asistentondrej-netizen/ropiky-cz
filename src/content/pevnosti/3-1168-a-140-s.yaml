@@ -1,0 +1,15 @@
+title: 3/1168/A-140 S
+code: 3/1168/A-140 S
+type: lo-vz-37
+line: "3"
+region: "Jihočeský kraj"
+location:
+  lat: 48.906890
+  lon: 15.576240
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 3/1168/A-140 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372075734
+    type: web
+updated: '2026-04-21'

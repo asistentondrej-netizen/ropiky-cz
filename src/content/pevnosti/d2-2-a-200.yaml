@@ -1,0 +1,15 @@
+title: D2/2/A-200
+code: D2/2/A-200
+type: lo-vz-37
+line: D2
+region: "Královéhradecký kraj"
+location:
+  lat: 50.389915
+  lon: 16.232115
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" D2/2/A-200. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2089946789
+    type: web
+updated: '2026-04-21'

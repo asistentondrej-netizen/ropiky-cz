@@ -1,0 +1,15 @@
+title: N1/60/A-120
+code: N1/60/A-120
+type: lo-vz-37
+line: N1
+region: "Liberecký kraj"
+location:
+  lat: 50.839359
+  lon: 14.572674
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" N1/60/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/229015485
+    type: web
+updated: '2026-04-21'

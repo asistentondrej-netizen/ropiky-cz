@@ -1,0 +1,15 @@
+title: VI/404/A-160 Z
+code: VI/404/A-160 Z
+type: lo-vz-37
+line: VI
+region: "Olomoucký kraj"
+location:
+  lat: 49.982300
+  lon: 17.631980
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" VI/404/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723533
+    type: web
+updated: '2026-04-21'

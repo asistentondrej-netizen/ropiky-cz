@@ -1,0 +1,15 @@
+title: F2/228/A-120
+code: F2/228/A-120
+type: lo-vz-37
+line: F2
+region: "Královéhradecký kraj"
+location:
+  lat: 50.530820
+  lon: 16.087575
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" F2/228/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371584130
+    type: web
+updated: '2026-04-21'

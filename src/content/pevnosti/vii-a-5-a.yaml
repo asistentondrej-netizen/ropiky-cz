@@ -1,0 +1,15 @@
+title: VII.a/5/A
+code: VII.a/5/A
+type: lo-vz-37
+line: Neurčeno
+region: "Karlovarský kraj"
+location:
+  lat: 49.782760
+  lon: 13.079055
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" VII.a/5/A. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371969682
+    type: web
+updated: '2026-04-21'

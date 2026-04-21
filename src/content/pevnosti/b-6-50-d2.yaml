@@ -1,0 +1,15 @@
+title: B-6/50/D2
+code: B-6/50/D2
+type: lo-vz-36
+line: B-6
+region: "Středočeský kraj"
+location:
+  lat: 49.967326
+  lon: 14.076915
+state: neznamy
+description: Lehký objekt vz. 36 B-6/50/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/108597779
+    type: web
+updated: '2026-04-21'

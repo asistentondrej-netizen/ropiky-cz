@@ -1,0 +1,15 @@
+title: XIV/12/B2-100
+code: XIV/12/B2-100
+type: lo-vz-37
+line: XIV
+region: "Olomoucký kraj"
+location:
+  lat: 50.184310
+  lon: 17.165610
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XIV/12/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371724056
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: K1/280/A-160 Z
+code: K1/280/A-160 Z
+type: lo-vz-37
+line: K1
+region: "Liberecký kraj"
+location:
+  lat: 50.834045
+  lon: 15.034840
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" K1/280/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371405990
+    type: web
+updated: '2026-04-21'

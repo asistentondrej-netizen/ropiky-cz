@@ -1,0 +1,15 @@
+title: D-31/53/D2
+code: D-31/53/D2
+type: lo-vz-36
+line: D-31
+region: "Středočeský kraj"
+location:
+  lat: 50.055022
+  lon: 13.286858
+state: neznamy
+description: Lehký objekt vz. 36 D-31/53/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371969435
+    type: web
+updated: '2026-04-21'

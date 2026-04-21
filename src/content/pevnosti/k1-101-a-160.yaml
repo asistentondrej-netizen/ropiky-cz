@@ -1,0 +1,15 @@
+title: K1/101/A-160
+code: K1/101/A-160
+type: lo-vz-37
+line: K1
+region: "Liberecký kraj"
+location:
+  lat: 50.853382
+  lon: 15.040536
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" K1/101/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/666406135
+    type: web
+updated: '2026-04-21'

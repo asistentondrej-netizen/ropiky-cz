@@ -1,0 +1,15 @@
+title: V.b/77/B
+code: V.b/77/B
+type: lo-vz-37
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 50.482454
+  lon: 13.363098
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" V.b/77/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/262550520
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: K-Rl 1
+code: K-Rl 1
+type: delostrelecka-tvrz
+line: Neurčeno
+region: "Bratislavský kraj"
+location:
+  lat: 48.182667
+  lon: 17.116183
+state: neznamy
+description: "Dělostřelecký objekt K-Rl 1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2203508010
+    type: web
+updated: '2026-04-21'

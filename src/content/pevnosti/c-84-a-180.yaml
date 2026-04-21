@@ -1,0 +1,15 @@
+title: C/84/A-180
+code: C/84/A-180
+type: lo-vz-37
+line: C
+region: "Královéhradecký kraj"
+location:
+  lat: 50.252370
+  lon: 16.443620
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" C/84/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371584075
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: B-6/63/A-140 Z
+code: B-6/63/A-140 Z
+type: lo-vz-37
+line: B-6
+region: "Středočeský kraj"
+location:
+  lat: 49.959848
+  lon: 14.106925
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" B-6/63/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371816430
+    type: web
+updated: '2026-04-21'

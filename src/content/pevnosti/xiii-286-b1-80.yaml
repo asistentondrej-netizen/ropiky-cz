@@ -1,0 +1,15 @@
+title: XIII/286/B1-80
+code: XIII/286/B1-80
+type: lo-vz-37
+line: XIII
+region: "Olomoucký kraj"
+location:
+  lat: 50.170060
+  lon: 16.862230
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XIII/286/B1-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371653000
+    type: web
+updated: '2026-04-21'

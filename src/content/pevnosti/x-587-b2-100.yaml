@@ -1,0 +1,15 @@
+title: X/587/B2-100
+code: X/587/B2-100
+type: lo-vz-37
+line: X
+region: "Olomoucký kraj"
+location:
+  lat: 50.027690
+  lon: 17.519260
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" X/587/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723917
+    type: web
+updated: '2026-04-21'

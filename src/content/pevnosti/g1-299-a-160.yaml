@@ -1,0 +1,15 @@
+title: G1/299/A-160
+code: G1/299/A-160
+type: lo-vz-37
+line: G1
+region: "Královéhradecký kraj"
+location:
+  lat: 50.594230
+  lon: 15.972965
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" G1/299/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371584314
+    type: web
+updated: '2026-04-21'

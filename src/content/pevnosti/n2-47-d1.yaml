@@ -1,0 +1,15 @@
+title: N2/47/D1
+code: N2/47/D1
+type: lo-vz-36
+line: N2
+region: "Ústecký kraj"
+location:
+  lat: 50.835660
+  lon: 14.386970
+state: neznamy
+description: Lehký objekt vz. 36 N2/47/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371401024
+    type: web
+updated: '2026-04-21'

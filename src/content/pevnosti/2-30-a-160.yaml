@@ -1,0 +1,15 @@
+title: "2/30/A-160"
+code: "2/30/A-160"
+type: lo-vz-37
+line: "2"
+region: "Jihomoravský kraj"
+location:
+  lat: 48.747690
+  lon: 16.385110
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 2/30/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372075516
+    type: web
+updated: '2026-04-21'

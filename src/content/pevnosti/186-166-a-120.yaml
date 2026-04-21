@@ -1,0 +1,15 @@
+title: "186/166/A-120"
+code: "186/166/A-120"
+type: lo-vz-37
+line: "186"
+region: "Jihočeský kraj"
+location:
+  lat: 49.032188
+  lon: 15.185949
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 186/166/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/502642037
+    type: web
+updated: '2026-04-21'

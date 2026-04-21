@@ -1,0 +1,15 @@
+title: "8/14a/B2-80"
+code: "8/14a/B2-80"
+type: lo-vz-37
+line: "8"
+region: "Jihomoravský kraj"
+location:
+  lat: 48.786004
+  lon: 16.815845
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 8/14a/B2-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372076903
+    type: web
+updated: '2026-04-21'

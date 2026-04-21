@@ -1,0 +1,15 @@
+title: IX/107/A-160 Z
+code: IX/107/A-160 Z
+type: lo-vz-37
+line: IX
+region: "Olomoucký kraj"
+location:
+  lat: 50.170925
+  lon: 16.997825
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" IX/107/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723381
+    type: web
+updated: '2026-04-21'

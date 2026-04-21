@@ -1,0 +1,15 @@
+title: Pytliacky bunker
+code: Pytliacky bunker
+type: pechotni-srub
+line: Neurčeno
+region: "Žilinský kraj"
+location:
+  lat: 48.983475
+  lon: 19.701333
+state: neznamy
+description: "Pěchotní srub Pytliacky bunker. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/12909363518
+    type: web
+updated: '2026-04-21'

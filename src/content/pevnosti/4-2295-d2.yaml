@@ -1,0 +1,15 @@
+title: "4/2295/D2"
+code: "4/2295/D2"
+type: lo-vz-36
+line: "4"
+region: "Jihomoravský kraj"
+location:
+  lat: 48.824275
+  lon: 16.466070
+state: neznamy
+description: Lehký objekt vz. 36 4/2295/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372076035
+    type: web
+updated: '2026-04-21'

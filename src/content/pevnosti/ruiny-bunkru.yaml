@@ -1,0 +1,15 @@
+title: ruiny bunkru
+code: ruiny bunkru
+type: neurceno
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 50.441707
+  lon: 14.455929
+state: neznamy
+description: Objekt československého opevnění ruiny bunkru. Základní záznam — čeká na doplnění dat.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/9782737269
+    type: web
+updated: '2026-04-21'

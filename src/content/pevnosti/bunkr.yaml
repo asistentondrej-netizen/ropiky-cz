@@ -1,0 +1,15 @@
+title: Bunkr
+code: Bunkr
+type: neurceno
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 50.006578
+  lon: 14.754427
+state: neznamy
+description: Objekt československého opevnění Bunkr. Základní záznam — čeká na doplnění dat.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/26820514
+    type: web
+updated: '2026-04-21'

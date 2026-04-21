@@ -1,0 +1,15 @@
+title: H-40/12/A-220
+code: H-40/12/A-220
+type: lo-vz-37
+line: Neurčeno
+region: "Plzeňský kraj"
+location:
+  lat: 49.162360
+  lon: 13.533435
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" H-40/12/A-220. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371992181
+    type: web
+updated: '2026-04-21'

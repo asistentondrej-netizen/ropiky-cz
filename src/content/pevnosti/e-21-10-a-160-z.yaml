@@ -1,0 +1,15 @@
+title: E-21/10/A-160 Z
+code: E-21/10/A-160 Z
+type: lo-vz-37
+line: E-21
+region: "Karlovarský kraj"
+location:
+  lat: 49.848558
+  lon: 13.035022
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" E-21/10/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/10067639270
+    type: web
+updated: '2026-04-21'

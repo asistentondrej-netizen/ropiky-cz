@@ -1,0 +1,15 @@
+title: B-6/7/A-160
+code: B-6/7/A-160
+type: lo-vz-37
+line: B-6
+region: "Středočeský kraj"
+location:
+  lat: 50.003272
+  lon: 14.006830
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" B-6/7/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/311416554
+    type: web
+updated: '2026-04-21'

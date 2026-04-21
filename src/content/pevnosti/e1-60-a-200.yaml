@@ -1,0 +1,15 @@
+title: E1/60/A-200
+code: E1/60/A-200
+type: lo-vz-37
+line: E1
+region: "Královéhradecký kraj"
+location:
+  lat: 50.397334
+  lon: 16.222248
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" E1/60/A-200. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371651625
+    type: web
+updated: '2026-04-21'

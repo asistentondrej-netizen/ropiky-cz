@@ -1,0 +1,15 @@
+title: 185/229/A-140 Z
+code: 185/229/A-140 Z
+type: lo-vz-37
+line: "185"
+region: "Jihočeský kraj"
+location:
+  lat: 49.034428
+  lon: 15.108128
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 185/229/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2697393988
+    type: web
+updated: '2026-04-21'

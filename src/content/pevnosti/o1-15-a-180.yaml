@@ -1,0 +1,15 @@
+title: O1/15/A-180
+code: O1/15/A-180
+type: lo-vz-37
+line: O1
+region: "Ústecký kraj"
+location:
+  lat: 50.870610
+  lon: 14.250969
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" O1/15/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/229015347
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: K-50/7/A-220
+code: K-50/7/A-220
+type: lo-vz-37
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 50.397194
+  lon: 13.252009
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" K-50/7/A-220. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/473770991
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: J1/128/A-160
+code: J1/128/A-160
+type: lo-vz-37
+line: J1
+region: "Liberecký kraj"
+location:
+  lat: 50.836313
+  lon: 15.302088
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" J1/128/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371406265
+    type: web
+updated: '2026-04-21'

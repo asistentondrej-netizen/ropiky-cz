@@ -1,0 +1,15 @@
+title: Smržovský bunkr
+code: Smržovský bunkr
+type: neurceno
+line: Neurčeno
+region: "Liberecký kraj"
+location:
+  lat: 50.734292
+  lon: 15.245095
+state: neznamy
+description: Objekt československého opevnění Smržovský bunkr. Základní záznam — čeká na doplnění dat.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/1418745285
+    type: web
+updated: '2026-04-21'

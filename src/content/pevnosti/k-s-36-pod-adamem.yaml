@@ -15,12 +15,4 @@ sources:
 - Wikimedia Commons
 - ropiky.net
 updated: '2026-04-18'
-
-# === MÉDIA ===
-photos:
-  - url: /img/forts/k-s-36.jpg
-    alt: "K-S 36 „Pod Adamem\" — K-S 36"
-    author: "Martin Provazník"
-    license: CC0
-    source: https://commons.wikimedia.org/wiki/File%3AK-S%2036.jpg
-
+photos: []

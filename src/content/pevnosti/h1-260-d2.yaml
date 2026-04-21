@@ -1,0 +1,15 @@
+title: H1/260/D2
+code: H1/260/D2
+type: lo-vz-36
+line: H1
+region: "Královéhradecký kraj"
+location:
+  lat: 50.726903
+  lon: 15.700870
+state: neznamy
+description: Lehký objekt vz. 36 H1/260/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371461132
+    type: web
+updated: '2026-04-21'

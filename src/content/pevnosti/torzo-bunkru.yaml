@@ -1,0 +1,15 @@
+title: torzo bunkru
+code: torzo bunkru
+type: neurceno
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 49.974947
+  lon: 14.756992
+state: neznamy
+description: Objekt československého opevnění torzo bunkru. Základní záznam — čeká na doplnění dat.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2572681613
+    type: web
+updated: '2026-04-21'

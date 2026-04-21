@@ -1,0 +1,15 @@
+title: F2/78/A-180 Z
+code: F2/78/A-180 Z
+type: lo-vz-37
+line: F2
+region: "Královéhradecký kraj"
+location:
+  lat: 50.500700
+  lon: 16.142523
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" F2/78/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/1446275629
+    type: web
+updated: '2026-04-21'

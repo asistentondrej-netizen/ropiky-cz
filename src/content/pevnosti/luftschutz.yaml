@@ -1,0 +1,15 @@
+title: Luftschutz
+code: Luftschutz
+type: pechotni-srub
+line: Neurčeno
+region: "Královéhradecký kraj"
+location:
+  lat: 49.975481
+  lon: 16.359607
+state: neznamy
+description: "Pěchotní srub Luftschutz. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/7356600681
+    type: web
+updated: '2026-04-21'

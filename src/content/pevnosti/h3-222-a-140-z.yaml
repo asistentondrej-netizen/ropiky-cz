@@ -1,0 +1,15 @@
+title: H3/222/A-140 Z
+code: H3/222/A-140 Z
+type: lo-vz-37
+line: H3
+region: "Liberecký kraj"
+location:
+  lat: 50.753343
+  lon: 15.547063
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" H3/222/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/565627585
+    type: web
+updated: '2026-04-21'

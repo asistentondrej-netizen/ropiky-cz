@@ -1,0 +1,15 @@
+title: A/9/A-120
+code: A/9/A-120
+type: lo-vz-37
+line: A
+region: "Královéhradecký kraj"
+location:
+  lat: 50.136280
+  lon: 16.565705
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" A/9/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371583683
+    type: web
+updated: '2026-04-21'

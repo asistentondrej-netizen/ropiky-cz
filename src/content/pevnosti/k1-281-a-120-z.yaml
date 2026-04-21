@@ -1,0 +1,15 @@
+title: K1/281/A-120 Z
+code: K1/281/A-120 Z
+type: lo-vz-37
+line: K1
+region: "Liberecký kraj"
+location:
+  lat: 50.835213
+  lon: 15.036177
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" K1/281/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371405991
+    type: web
+updated: '2026-04-21'

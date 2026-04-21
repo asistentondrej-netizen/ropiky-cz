@@ -1,0 +1,17 @@
+title: C-11/73/A-120
+code: C-11/73/A-120
+type: lo-vz-37
+line: C-11
+region: "Středočeský kraj"
+location:
+  lat: 50.378558
+  lon: 13.934137
+  # start_date: 1937
+built: '1937'
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" C-11/73/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/257982701
+    type: web
+updated: '2026-04-21'

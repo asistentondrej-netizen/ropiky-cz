@@ -1,0 +1,15 @@
+title: M-III/104/A-160
+code: M-III/104/A-160
+type: lo-vz-37
+line: M-III
+region: "Košický kraj"
+location:
+  lat: 48.399623
+  lon: 21.739477
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" M-III/104/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372140677
+    type: web
+updated: '2026-04-21'

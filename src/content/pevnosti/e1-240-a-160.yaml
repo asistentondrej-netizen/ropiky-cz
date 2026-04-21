@@ -1,0 +1,15 @@
+title: E1/240/A-160
+code: E1/240/A-160
+type: lo-vz-37
+line: E1
+region: "Královéhradecký kraj"
+location:
+  lat: 50.419230
+  lon: 16.184333
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" E1/240/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371651184
+    type: web
+updated: '2026-04-21'

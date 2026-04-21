@@ -1,0 +1,15 @@
+title: III/344/A-160
+code: III/344/A-160
+type: lo-vz-37
+line: III
+region: "Olomoucký kraj"
+location:
+  lat: 49.942100
+  lon: 17.857630
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" III/344/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371723318
+    type: web
+updated: '2026-04-21'

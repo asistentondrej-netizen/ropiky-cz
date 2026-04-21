@@ -1,0 +1,15 @@
+title: A/10/D1
+code: A/10/D1
+type: lo-vz-36
+line: A
+region: "Královéhradecký kraj"
+location:
+  lat: 50.136145
+  lon: 16.568035
+state: neznamy
+description: Lehký objekt vz. 36 A/10/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371582958
+    type: web
+updated: '2026-04-21'

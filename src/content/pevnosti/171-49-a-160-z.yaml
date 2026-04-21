@@ -1,0 +1,15 @@
+title: 171/49/A-160 Z
+code: 171/49/A-160 Z
+type: lo-vz-37
+line: "171"
+region: "Karlovarský kraj"
+location:
+  lat: 49.876760
+  lon: 13.033367
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 171/49/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/854956409
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: "137/22/D1Z"
+code: "137/22/D1Z"
+type: lo-vz-37
+line: Neurčeno
+region: "Jihočeský kraj"
+location:
+  lat: 49.357039
+  lon: 14.273286
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 137/22/D1Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/7413634852
+    type: web
+updated: '2026-04-21'

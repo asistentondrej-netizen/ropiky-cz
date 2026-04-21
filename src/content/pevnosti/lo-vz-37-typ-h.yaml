@@ -1,0 +1,18 @@
+title: LO vz.37 typ H
+code: LO vz.37 typ H
+type: neurceno
+line: Neurčeno
+region: "Bratislavský kraj"
+location:
+  lat: 48.121168
+  lon: 17.081525
+state: neznamy
+description: Objekt československého opevnění LO vz.37 typ H. Základní záznam — čeká na doplnění dat.
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/210245333
+    type: web
+  - title: Wikidata Q27970154
+    url: https://www.wikidata.org/wiki/Q27970154
+    type: web
+updated: '2026-04-21'

@@ -1,0 +1,15 @@
+title: Pozorovatelna CO jih
+code: Pozorovatelna CO jih
+type: pechotni-srub
+line: Neurčeno
+region: "Středočeský kraj"
+location:
+  lat: 50.172861
+  lon: 15.029201
+state: neznamy
+description: "Pěchotní srub Pozorovatelna CO jih. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/8078274663
+    type: web
+updated: '2026-04-21'

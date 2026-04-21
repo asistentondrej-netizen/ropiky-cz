@@ -1,0 +1,15 @@
+title: L2/37/A-160
+code: L2/37/A-160
+type: lo-vz-37
+line: L2
+region: "Liberecký kraj"
+location:
+  lat: 50.812223
+  lon: 14.802927
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" L2/37/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/472316126
+    type: web
+updated: '2026-04-21'

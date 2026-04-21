@@ -1,0 +1,15 @@
+title: XXI/5/A-140
+code: XXI/5/A-140
+type: lo-vz-37
+line: XXI
+region: "Olomoucký kraj"
+location:
+  lat: 50.158703
+  lon: 17.370185
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XXI/5/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371724362
+    type: web
+updated: '2026-04-21'

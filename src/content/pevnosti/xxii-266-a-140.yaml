@@ -1,0 +1,15 @@
+title: XXII/266/A-140
+code: XXII/266/A-140
+type: lo-vz-37
+line: XXII
+region: "Pardubický kraj"
+location:
+  lat: 50.128327
+  lon: 16.828283
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" XXII/266/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371653059
+    type: web
+updated: '2026-04-21'

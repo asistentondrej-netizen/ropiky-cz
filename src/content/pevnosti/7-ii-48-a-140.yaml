@@ -1,0 +1,15 @@
+title: "7-II/48/A-140"
+code: "7-II/48/A-140"
+type: lo-vz-37
+line: "7-II"
+region: "Jihomoravský kraj"
+location:
+  lat: 48.785160
+  lon: 16.206190
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 7-II/48/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372076287
+    type: web
+updated: '2026-04-21'

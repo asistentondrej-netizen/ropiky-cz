@@ -1,0 +1,15 @@
+title: "172/4/A-160"
+code: "172/4/A-160"
+type: lo-vz-37
+line: "172"
+region: "Plzeňský kraj"
+location:
+  lat: 49.695728
+  lon: 12.974157
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 172/4/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/1098271077
+    type: web
+updated: '2026-04-21'

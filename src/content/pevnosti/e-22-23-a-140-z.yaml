@@ -1,0 +1,15 @@
+title: E-22/23/A-140 Z
+code: E-22/23/A-140 Z
+type: lo-vz-37
+line: E-22
+region: "Karlovarský kraj"
+location:
+  lat: 49.748991
+  lon: 12.998491
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" E-22/23/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/53788814
+    type: web
+updated: '2026-04-21'

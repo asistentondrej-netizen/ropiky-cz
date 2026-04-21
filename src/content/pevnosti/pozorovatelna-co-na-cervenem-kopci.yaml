@@ -1,0 +1,15 @@
+title: Pozorovatelna CO na Červeném kopci
+code: Pozorovatelna CO na Červeném kopci
+type: pechotni-srub
+line: Neurčeno
+region: "Jihomoravský kraj"
+location:
+  lat: 49.183052
+  lon: 16.591373
+state: neznamy
+description: "Pěchotní srub Pozorovatelna CO na Červeném kopci. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2771960910
+    type: web
+updated: '2026-04-21'

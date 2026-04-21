@@ -1,0 +1,15 @@
+title: BUNKER
+code: BUNKER
+type: lo-vz-37
+line: Neurčeno
+region: "Žilinský kraj"
+location:
+  lat: 48.929454
+  lon: 18.935611
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" BUNKER. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/5090783013
+    type: web
+updated: '2026-04-21'

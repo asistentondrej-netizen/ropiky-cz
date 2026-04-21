@@ -1,0 +1,15 @@
+title: 8/b3/A-200 S
+code: 8/b3/A-200 S
+type: lo-vz-37
+line: Neurčeno
+region: "Jihomoravský kraj"
+location:
+  lat: 48.623180
+  lon: 16.919613
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" 8/b3/A-200 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372076959
+    type: web
+updated: '2026-04-21'

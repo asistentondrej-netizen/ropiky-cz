@@ -1,0 +1,18 @@
+title: A-3/41/B2-80 Z
+code: A-3/41/B2-80 Z
+type: lo-vz-37
+line: A-3
+region: "Středočeský kraj"
+location:
+  lat: 50.189053
+  lon: 14.033040
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" A-3/41/B2-80 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/623454969
+    type: web
+  - title: Wikidata Q113453176
+    url: https://www.wikidata.org/wiki/Q113453176
+    type: web
+updated: '2026-04-21'

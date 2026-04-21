@@ -1,0 +1,15 @@
+title: D-31/61/A-200 Z
+code: D-31/61/A-200 Z
+type: lo-vz-37
+line: D-31
+region: "Středočeský kraj"
+location:
+  lat: 50.037103
+  lon: 13.285210
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" D-31/61/A-200 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371969444
+    type: web
+updated: '2026-04-21'

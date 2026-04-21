@@ -1,0 +1,15 @@
+title: Tobruk (ringstand 58c)
+code: Tobruk (ringstand 58c)
+type: lo-vz-37
+line: Neurčeno
+region: "Moravskoslezský kraj"
+location:
+  lat: 49.393523
+  lon: 18.857424
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" Tobruk (ringstand 58c). Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/2430535857
+    type: web
+updated: '2026-04-21'

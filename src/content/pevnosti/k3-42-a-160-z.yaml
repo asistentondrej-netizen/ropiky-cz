@@ -1,0 +1,15 @@
+title: K3/42/A-160 Z
+code: K3/42/A-160 Z
+type: lo-vz-37
+line: K3
+region: "Liberecký kraj"
+location:
+  lat: 50.796686
+  lon: 14.956380
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" K3/42/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371401964
+    type: web
+updated: '2026-04-21'

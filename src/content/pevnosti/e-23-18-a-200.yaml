@@ -1,0 +1,15 @@
+title: E-23/18/A-200
+code: E-23/18/A-200
+type: lo-vz-37
+line: E-23
+region: "Plzeňský kraj"
+location:
+  lat: 49.640935
+  lon: 12.985685
+state: neznamy
+description: "Lehký objekt vz. 37 „řopík\" E-23/18/A-200. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+sources:
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371969631
+    type: web
+updated: '2026-04-21'
