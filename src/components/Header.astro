@@ -4,6 +4,7 @@ import SearchBar from './SearchBar.astro';
 const { pathname } = Astro.url;
 const isActive = (path: string) =>
   pathname === path || (path !== '/' && pathname.startsWith(path));
+const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
 ---
 
 <header class="site-header">
@@ -14,17 +15,68 @@ const isActive = (path: string) =>
     </a>
 
     <nav class="site-nav" aria-label="Hlavní navigace">
-      <a href="/o-opevneni/co-je-rop" aria-current={isActive('/o-opevneni') ? 'page' : undefined}>O opevnění</a>
-      <a href="/typologie" aria-current={isActive('/typologie') ? 'page' : undefined}>Typologie</a>
-      <a href="/vyzbroj" aria-current={isActive('/vyzbroj') ? 'page' : undefined}>Výzbroj</a>
-      <a href="/tvrze" aria-current={isActive('/tvrze') ? 'page' : undefined}>Tvrze</a>
-      <a href="/linie" aria-current={isActive('/linie') ? 'page' : undefined}>Linie</a>
-      <a href="/katalog" aria-current={isActive('/katalog') ? 'page' : undefined}>Katalog</a>
-      <a href="/mapa" aria-current={isActive('/mapa') ? 'page' : undefined}>Mapa</a>
-      <a href="/cesty" aria-current={isActive('/cesty') ? 'page' : undefined}>Cesty</a>
-      <a href="/casova-osa" aria-current={isActive('/casova-osa') ? 'page' : undefined}>Časová osa</a>
-      <a href="/clanky" aria-current={isActive('/clanky') ? 'page' : undefined}>Články</a>
-      <a href="/glosar" aria-current={isActive('/glosar') ? 'page' : undefined}>Glosář</a>
+      <div class="nav-item nav-item--dropdown">
+        <button
+          type="button"
+          class="nav-link nav-link--trigger"
+          aria-haspopup="true"
+          aria-expanded="false"
+          aria-current={groupActive(['/o-opevneni', '/typologie', '/vyzbroj']) ? 'page' : undefined}
+        >
+          O opevnění
+          <svg class="nav-chevron" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true">
+            <path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+        <div class="nav-dropdown">
+          <a href="/o-opevneni/co-je-rop" aria-current={isActive('/o-opevneni') ? 'page' : undefined}>Co je ŘOP</a>
+          <a href="/typologie" aria-current={isActive('/typologie') ? 'page' : undefined}>Typologie pevností</a>
+          <a href="/vyzbroj" aria-current={isActive('/vyzbroj') ? 'page' : undefined}>Výzbroj</a>
+        </div>
+      </div>
+
+      <div class="nav-item nav-item--dropdown">
+        <button
+          type="button"
+          class="nav-link nav-link--trigger"
+          aria-haspopup="true"
+          aria-expanded="false"
+          aria-current={groupActive(['/katalog', '/tvrze', '/linie']) ? 'page' : undefined}
+        >
+          Objekty
+          <svg class="nav-chevron" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true">
+            <path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+        <div class="nav-dropdown">
+          <a href="/katalog" aria-current={isActive('/katalog') ? 'page' : undefined}>Katalog pevností</a>
+          <a href="/tvrze" aria-current={isActive('/tvrze') ? 'page' : undefined}>Dělostřelecké tvrze</a>
+          <a href="/linie" aria-current={isActive('/linie') ? 'page' : undefined}>Obranné linie</a>
+        </div>
+      </div>
+
+      <a href="/mapa" class="nav-link" aria-current={isActive('/mapa') ? 'page' : undefined}>Mapa</a>
+      <a href="/cesty" class="nav-link" aria-current={isActive('/cesty') ? 'page' : undefined}>Cesty</a>
+
+      <div class="nav-item nav-item--dropdown">
+        <button
+          type="button"
+          class="nav-link nav-link--trigger"
+          aria-haspopup="true"
+          aria-expanded="false"
+          aria-current={groupActive(['/clanky', '/casova-osa', '/glosar']) ? 'page' : undefined}
+        >
+          Obsah
+          <svg class="nav-chevron" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true">
+            <path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+        <div class="nav-dropdown">
+          <a href="/clanky" aria-current={isActive('/clanky') ? 'page' : undefined}>Články</a>
+          <a href="/casova-osa" aria-current={isActive('/casova-osa') ? 'page' : undefined}>Časová osa</a>
+          <a href="/glosar" aria-current={isActive('/glosar') ? 'page' : undefined}>Glosář</a>
+        </div>
+      </div>
     </nav>
 
     <div class="header-actions">
@@ -39,19 +91,131 @@ const isActive = (path: string) =>
   </div>
 
   <nav id="mobile-nav" class="mobile-nav" aria-label="Mobilní navigace">
-    <a href="/o-opevneni/co-je-rop" aria-current={isActive('/o-opevneni') ? 'page' : undefined}>O opevnění</a>
-    <a href="/typologie" aria-current={isActive('/typologie') ? 'page' : undefined}>Typologie</a>
-    <a href="/vyzbroj" aria-current={isActive('/vyzbroj') ? 'page' : undefined}>Výzbroj</a>
-    <a href="/tvrze" aria-current={isActive('/tvrze') ? 'page' : undefined}>Tvrze</a>
-    <a href="/linie" aria-current={isActive('/linie') ? 'page' : undefined}>Linie</a>
-    <a href="/katalog" aria-current={isActive('/katalog') ? 'page' : undefined}>Katalog pevností</a>
-    <a href="/mapa" aria-current={isActive('/mapa') ? 'page' : undefined}>Mapa</a>
-    <a href="/cesty" aria-current={isActive('/cesty') ? 'page' : undefined}>Cesty</a>
-    <a href="/casova-osa" aria-current={isActive('/casova-osa') ? 'page' : undefined}>Časová osa</a>
-    <a href="/clanky" aria-current={isActive('/clanky') ? 'page' : undefined}>Články</a>
-    <a href="/glosar" aria-current={isActive('/glosar') ? 'page' : undefined}>Glosář</a>
+    <div class="mobile-nav__group">
+      <p class="mobile-nav__heading">O opevnění</p>
+      <a href="/o-opevneni/co-je-rop" aria-current={isActive('/o-opevneni') ? 'page' : undefined}>Co je ŘOP</a>
+      <a href="/typologie" aria-current={isActive('/typologie') ? 'page' : undefined}>Typologie pevností</a>
+      <a href="/vyzbroj" aria-current={isActive('/vyzbroj') ? 'page' : undefined}>Výzbroj</a>
+    </div>
+
+    <div class="mobile-nav__group">
+      <p class="mobile-nav__heading">Objekty</p>
+      <a href="/katalog" aria-current={isActive('/katalog') ? 'page' : undefined}>Katalog pevností</a>
+      <a href="/tvrze" aria-current={isActive('/tvrze') ? 'page' : undefined}>Dělostřelecké tvrze</a>
+      <a href="/linie" aria-current={isActive('/linie') ? 'page' : undefined}>Obranné linie</a>
+    </div>
+
+    <div class="mobile-nav__group">
+      <p class="mobile-nav__heading">V terénu</p>
+      <a href="/mapa" aria-current={isActive('/mapa') ? 'page' : undefined}>Mapa</a>
+      <a href="/cesty" aria-current={isActive('/cesty') ? 'page' : undefined}>Cesty</a>
+    </div>
+
+    <div class="mobile-nav__group">
+      <p class="mobile-nav__heading">Obsah</p>
+      <a href="/clanky" aria-current={isActive('/clanky') ? 'page' : undefined}>Články</a>
+      <a href="/casova-osa" aria-current={isActive('/casova-osa') ? 'page' : undefined}>Časová osa</a>
+      <a href="/glosar" aria-current={isActive('/glosar') ? 'page' : undefined}>Glosář</a>
+    </div>
   </nav>
 </header>
+
+<style>
+  /* Dropdown nav — desktop */
+  .nav-item {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+  }
+  .nav-link {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--ink-med);
+    position: relative;
+    padding: 4px 0;
+    transition: color 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    background: none;
+    border: 0;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .nav-link:hover,
+  .nav-link[aria-current="page"] { color: var(--khaki); }
+  .nav-chevron { transition: transform 0.2s; }
+  .nav-item--dropdown:hover .nav-chevron,
+  .nav-item--dropdown:focus-within .nav-chevron,
+  .nav-item--dropdown.is-open .nav-chevron {
+    transform: rotate(180deg);
+  }
+  .nav-dropdown {
+    position: absolute;
+    top: calc(100% + 10px);
+    left: -12px;
+    min-width: 220px;
+    background-color: rgba(241, 236, 224, 0.98);
+    backdrop-filter: blur(8px);
+    border: 1px solid var(--line-soft);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    padding: 6px 0;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-4px);
+    transition: opacity 0.15s, transform 0.15s, visibility 0.15s;
+    z-index: 100;
+  }
+  .nav-item--dropdown:hover .nav-dropdown,
+  .nav-item--dropdown:focus-within .nav-dropdown,
+  .nav-item--dropdown.is-open .nav-dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+  .nav-dropdown::before {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: 0;
+    right: 0;
+    height: 10px;
+  }
+  .nav-dropdown a {
+    display: block;
+    padding: 8px 16px;
+    font-size: 0.9rem;
+    color: var(--ink);
+    transition: background-color 0.15s, color 0.15s;
+  }
+  .nav-dropdown a:hover,
+  .nav-dropdown a[aria-current="page"] {
+    background-color: rgba(122, 107, 75, 0.1);
+    color: var(--khaki);
+  }
+  /* Override global .site-nav a underline effect inside dropdowns */
+  .nav-dropdown a::after { display: none; }
+
+  /* Mobile grouped drawer */
+  .mobile-nav__group {
+    padding: var(--s2) 0;
+    border-bottom: 1px solid var(--line-soft);
+  }
+  .mobile-nav__group:last-child { border-bottom: none; }
+  .mobile-nav__heading {
+    margin: 0 0 6px 0;
+    font-family: var(--font-mono);
+    font-size: 0.6875rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--khaki);
+  }
+  :global(.mobile-nav .mobile-nav__group a) {
+    padding: 8px 0 !important;
+    border-bottom: none !important;
+    font-size: 1rem !important;
+  }
+</style>
 
 <script is:inline>
   (function () {
@@ -91,5 +255,43 @@ const isActive = (path: string) =>
     // Close when viewport grows past breakpoint
     const mq = window.matchMedia('(min-width: 900px)');
     mq.addEventListener('change', (e) => { if (e.matches) closeMenu(); });
+
+    // Desktop dropdown — toggle on click (for touch + keyboard)
+    document.querySelectorAll('.nav-item--dropdown .nav-link--trigger').forEach((trigger) => {
+      trigger.addEventListener('click', (e) => {
+        const item = trigger.closest('.nav-item--dropdown');
+        const isOpen = item.classList.contains('is-open');
+        document.querySelectorAll('.nav-item--dropdown.is-open').forEach((el) => {
+          el.classList.remove('is-open');
+          el.querySelector('.nav-link--trigger').setAttribute('aria-expanded', 'false');
+        });
+        if (!isOpen) {
+          item.classList.add('is-open');
+          trigger.setAttribute('aria-expanded', 'true');
+        }
+      });
+    });
+
+    // Close dropdowns on outside click
+    document.addEventListener('click', (e) => {
+      if (!e.target.closest('.nav-item--dropdown')) {
+        document.querySelectorAll('.nav-item--dropdown.is-open').forEach((el) => {
+          el.classList.remove('is-open');
+          const trig = el.querySelector('.nav-link--trigger');
+          if (trig) trig.setAttribute('aria-expanded', 'false');
+        });
+      }
+    });
+
+    // Close dropdowns on Escape
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        document.querySelectorAll('.nav-item--dropdown.is-open').forEach((el) => {
+          el.classList.remove('is-open');
+          const trig = el.querySelector('.nav-link--trigger');
+          if (trig) trig.setAttribute('aria-expanded', 'false');
+        });
+      }
+    });
   })();
 </script>
