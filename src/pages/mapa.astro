@@ -104,6 +104,18 @@ const stateLabels: Record<string, string> = {
 
       <!-- Mapa -->
       <div id="map" style="height: 70vh; min-height: 540px; border: 1px solid var(--line); background: var(--paper-dark); position: relative;">
+        <div id="map-search" class="map-search">
+          <input
+            type="search"
+            id="map-search-input"
+            class="map-search__input"
+            placeholder="Hledej pevnost, úsek, město (např. Mikulov, B-S 6, Bouda)…"
+            autocomplete="off"
+            aria-label="Vyhledávání v mapě"
+          />
+          <button type="button" id="map-search-clear" class="map-search__clear" aria-label="Vymazat" hidden>×</button>
+          <ul id="map-search-results" class="map-search__results" hidden></ul>
+        </div>
         <div id="map-counter" class="map-counter">Zobrazeno: <strong id="visible-count">{points.length}</strong> z {points.length}</div>
       </div>
 
@@ -191,6 +203,88 @@ const stateLabels: Record<string, string> = {
       font-family: monospace;
       color: var(--ink);
       pointer-events: none;
+    }
+
+    /* Vyhledávání v mapě */
+    .map-search {
+      position: absolute;
+      top: 12px;
+      left: 12px;
+      z-index: 500;
+      width: min(360px, calc(100% - 90px));
+      background: rgba(255,255,255,0.98);
+      border: 1px solid var(--line);
+      box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    }
+    .map-search__input {
+      width: 100%;
+      box-sizing: border-box;
+      padding: 10px 36px 10px 14px;
+      border: 0;
+      font-size: 0.9375rem;
+      font-family: inherit;
+      color: var(--ink);
+      background: transparent;
+      outline: none;
+    }
+    .map-search__input::placeholder {
+      color: var(--ink-light);
+      font-size: 0.875rem;
+    }
+    .map-search__input:focus {
+      background: rgba(122, 59, 46, 0.03);
+    }
+    .map-search__clear {
+      position: absolute;
+      right: 6px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 26px;
+      height: 26px;
+      background: transparent;
+      border: 0;
+      font-size: 1.25rem;
+      line-height: 1;
+      color: var(--ink-light);
+      cursor: pointer;
+      padding: 0;
+    }
+    .map-search__clear:hover { color: var(--accent, #7A3B2E); }
+    .map-search__results {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      max-height: min(55vh, 380px);
+      overflow-y: auto;
+      border-top: 1px solid var(--line);
+    }
+    .map-search__item {
+      padding: 8px 14px;
+      cursor: pointer;
+      border-bottom: 1px solid rgba(0,0,0,0.04);
+      font-size: 0.875rem;
+      color: var(--ink);
+      line-height: 1.35;
+    }
+    .map-search__item:last-child { border-bottom: 0; }
+    .map-search__item:hover,
+    .map-search__item.is-focused {
+      background: rgba(122, 59, 46, 0.08);
+    }
+    .map-search__item-title {
+      font-weight: 600;
+      display: block;
+    }
+    .map-search__item-meta {
+      font-size: 0.75rem;
+      color: var(--ink-light);
+      font-family: monospace;
+    }
+    .map-search__empty {
+      padding: 12px 14px;
+      font-size: 0.8125rem;
+      color: var(--ink-light);
+      font-style: italic;
     }
     .map-note {
       margin: 0 0 var(--s3) 0;
@@ -357,7 +451,15 @@ const stateLabels: Record<string, string> = {
     @media (max-width: 640px) {
       .filter-group { flex-direction: column; align-items: flex-start; }
       .filter-label { min-width: auto; }
-      .map-counter { font-size: 0.6875rem; padding: 4px 8px; }
+      .map-counter { font-size: 0.6875rem; padding: 4px 8px; top: 8px; right: 8px; }
+      .map-search {
+        top: 8px;
+        left: 8px;
+        right: 64px;
+        width: auto;
+      }
+      .map-search__input { font-size: 16px; padding: 8px 32px 8px 12px; }
+      .map-search__item { padding: 10px 14px; font-size: 0.9375rem; }
     }
   </style>
 
@@ -502,6 +604,181 @@ const stateLabels: Record<string, string> = {
           filterState[filter] = value;
           applyFilters();
         });
+      });
+
+      // ---- Vyhledávání ----
+      const searchInput = document.getElementById('map-search-input');
+      const searchClear = document.getElementById('map-search-clear');
+      const searchResults = document.getElementById('map-search-results');
+      const MAX_RESULTS = 10;
+
+      // Normalizace — strip diakritiky, lowercase
+      function normalize(s) {
+        return (s || '')
+          .toString()
+          .normalize('NFD')
+          .replace(/[\u0300-\u036f]/g, '')
+          .toLowerCase()
+          .trim();
+      }
+
+      // Searchable index — předpočítaný
+      const searchIndex = points.map((p, idx) => ({
+        idx,
+        p,
+        hay: normalize(`${p.title} ${p.code} ${p.line} ${p.region}`),
+        title_n: normalize(p.title),
+        code_n: normalize(p.code),
+      }));
+
+      let focusedIdx = -1;
+      let currentResults = [];
+
+      function runSearch(query) {
+        const q = normalize(query);
+        if (!q || q.length < 2) {
+          searchResults.hidden = true;
+          searchResults.innerHTML = '';
+          searchClear.hidden = !query;
+          currentResults = [];
+          focusedIdx = -1;
+          return;
+        }
+        searchClear.hidden = false;
+
+        // Skóruj: exact match title/code > startsWith > contains
+        const scored = [];
+        for (const entry of searchIndex) {
+          if (!entry.hay.includes(q)) continue;
+          let score = 100;
+          if (entry.title_n === q || entry.code_n === q) score = 0;
+          else if (entry.title_n.startsWith(q) || entry.code_n.startsWith(q)) score = 10;
+          else if (entry.hay.startsWith(q)) score = 20;
+          // Preferuj kratší title při remíze (konkrétnější match)
+          scored.push({ entry, score: score + entry.p.title.length * 0.01 });
+          if (scored.length > 500) break; // safety cap
+        }
+        scored.sort((a, b) => a.score - b.score);
+
+        currentResults = scored.slice(0, MAX_RESULTS).map((s) => s.entry.p);
+        renderResults(currentResults);
+      }
+
+      function renderResults(items) {
+        if (items.length === 0) {
+          searchResults.innerHTML = '<li class="map-search__empty">Nic nenalezeno</li>';
+          searchResults.hidden = false;
+          focusedIdx = -1;
+          return;
+        }
+        searchResults.innerHTML = items.map((p, i) => {
+          const typeLabel = typeLabels[p.type] || p.type;
+          const parts = [p.line, p.region].filter((x) => x && x !== 'Neurčeno').join(' · ');
+          return `
+            <li class="map-search__item" data-idx="${i}" role="option">
+              <span class="map-search__item-title">${escapeHtml(p.title)}</span>
+              <span class="map-search__item-meta">${escapeHtml(typeLabel)}${parts ? ' · ' + escapeHtml(parts) : ''}</span>
+            </li>
+          `;
+        }).join('');
+        searchResults.hidden = false;
+        focusedIdx = -1;
+      }
+
+      function escapeHtml(s) {
+        return String(s).replace(/[&<>"']/g, (c) => ({
+          '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+        })[c]);
+      }
+
+      function selectResult(p) {
+        if (!p) return;
+        // Zajistit, že filtry pustí tenhle bod
+        const matchType = filterState.type === 'all' || p.type === filterState.type;
+        const matchState = filterState.state === 'all' || p.state === filterState.state;
+        if (!matchType || !matchState) {
+          // Zrušit filtry, aby byl bod viditelný
+          filterState.type = 'all';
+          filterState.state = 'all';
+          document.querySelectorAll('.filter-btn').forEach((b) => {
+            b.classList.toggle('is-active', b.dataset.value === 'all');
+          });
+          applyFilters();
+        }
+
+        // Najdi marker podle slugu (stabilnější než indexu)
+        const marker = allMarkers.find((m) => m._point.slug === p.slug);
+        if (!marker) return;
+
+        // Skryj dropdown
+        searchResults.hidden = true;
+        searchInput.blur();
+
+        // Rozbal cluster, zoomni a otevři popup
+        if (clusterGroup.zoomToShowLayer) {
+          clusterGroup.zoomToShowLayer(marker, () => {
+            marker.openPopup();
+          });
+        } else {
+          map.setView([p.lat, p.lon], 15);
+          marker.openPopup();
+        }
+      }
+
+      let searchDebounceTimer;
+      searchInput.addEventListener('input', (e) => {
+        clearTimeout(searchDebounceTimer);
+        searchDebounceTimer = setTimeout(() => runSearch(e.target.value), 120);
+      });
+
+      searchInput.addEventListener('focus', () => {
+        if (currentResults.length > 0) searchResults.hidden = false;
+      });
+
+      searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowDown') {
+          e.preventDefault();
+          focusedIdx = Math.min(focusedIdx + 1, currentResults.length - 1);
+          updateFocused();
+        } else if (e.key === 'ArrowUp') {
+          e.preventDefault();
+          focusedIdx = Math.max(focusedIdx - 1, -1);
+          updateFocused();
+        } else if (e.key === 'Enter') {
+          e.preventDefault();
+          const target = focusedIdx >= 0 ? currentResults[focusedIdx] : currentResults[0];
+          if (target) selectResult(target);
+        } else if (e.key === 'Escape') {
+          searchResults.hidden = true;
+          searchInput.blur();
+        }
+      });
+
+      function updateFocused() {
+        searchResults.querySelectorAll('.map-search__item').forEach((el, i) => {
+          el.classList.toggle('is-focused', i === focusedIdx);
+          if (i === focusedIdx) el.scrollIntoView({ block: 'nearest' });
+        });
+      }
+
+      searchResults.addEventListener('click', (e) => {
+        const item = e.target.closest('.map-search__item');
+        if (!item) return;
+        const idx = parseInt(item.dataset.idx, 10);
+        if (!isNaN(idx)) selectResult(currentResults[idx]);
+      });
+
+      searchClear.addEventListener('click', () => {
+        searchInput.value = '';
+        runSearch('');
+        searchInput.focus();
+      });
+
+      // Zavři dropdown při kliku mimo
+      document.addEventListener('click', (e) => {
+        if (!e.target.closest('#map-search')) {
+          searchResults.hidden = true;
+        }
       });
     });
   </script>
