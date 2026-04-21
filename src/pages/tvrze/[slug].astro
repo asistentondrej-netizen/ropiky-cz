@@ -1,0 +1,62 @@
+---
+import { getCollection } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('tvrze');
+  return entries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+const stupenLabel: Record<string, string> = {
+  dokoncena: 'Dokončená',
+  'castecne-dokoncena': 'Částečně dokončená',
+  'hruba-stavba': 'Hrubá stavba',
+  rozestavena: 'Rozestavěná',
+};
+
+const stavLabel: Record<string, string> = {
+  muzeum: 'Muzeum s průvodcem',
+  'castecne-pristupna': 'Částečně přístupná',
+  'volne-pristupna': 'Volně přístupná',
+  uzavrena: 'Uzavřená',
+};
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  breadcrumb={[
+    { label: 'Úvod', href: '/' },
+    { label: 'Tvrze', href: '/tvrze' },
+    { label: entry.data.title, href: `/tvrze/${entry.slug}` },
+  ]}
+  updated={entry.data.updated}
+  sources={entry.data.sources}
+>
+  <div class="fact-box">
+    <div class="fact-box__label">Tvrz v datech</div>
+    <dl>
+      <dt>Kód objektů:</dt><dd class="mono">{entry.data.kodTvrze}</dd>
+      <dt>Linie:</dt><dd>{entry.data.linie}</dd>
+      <dt>Region:</dt><dd>{entry.data.region}</dd>
+      <dt>Stupeň dokončení:</dt><dd>{stupenLabel[entry.data.stupenDokonceni]}</dd>
+      {entry.data.pocetSrubu && (<><dt>Počet objektů:</dt><dd>{entry.data.pocetSrubu}{entry.data.pocetSrubuDokoncenych ? ` (${entry.data.pocetSrubuDokoncenych} dokončených)` : ''}</dd></>)}
+      {entry.data.delkaPodzemi_m && (<><dt>Délka podzemí:</dt><dd>{entry.data.delkaPodzemi_m.toLocaleString('cs-CZ')} m</dd></>)}
+      {entry.data.hloubkaPodzemi_m && (<><dt>Hloubka:</dt><dd>{entry.data.hloubkaPodzemi_m} m</dd></>)}
+      {entry.data.posadka && (<><dt>Posádka:</dt><dd>{entry.data.posadka} mužů</dd></>)}
+      {entry.data.betonaz_m3 && (<><dt>Betonáž:</dt><dd>{entry.data.betonaz_m3.toLocaleString('cs-CZ')} m³</dd></>)}
+      {entry.data.zahajeni && (<><dt>Zahájení stavby:</dt><dd>{entry.data.zahajeni}</dd></>)}
+      {entry.data.dokonceni && (<><dt>Dokončení:</dt><dd>{entry.data.dokonceni}</dd></>)}
+      <dt>Stav dnes:</dt><dd>{stavLabel[entry.data.stav_dnes]}</dd>
+      {entry.data.muzeumWeb && (<><dt>Web muzea:</dt><dd><a href={entry.data.muzeumWeb} target="_blank" rel="noopener">{entry.data.muzeumWeb.replace(/^https?:\/\//, '')}</a></dd></>)}
+    </dl>
+  </div>
+
+  <Content />
+</ArticleLayout>

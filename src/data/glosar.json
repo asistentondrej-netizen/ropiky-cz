@@ -1,0 +1,191 @@
+[
+  { "term": "Bednění", "letter": "B", "definition": "Dočasná forma pro odlévání betonu. U ŘOP typicky z dřevěných prken 5 cm, viditelné otisky v betonu dodnes.", "related": ["Betonáž"] },
+  { "term": "Betonáž", "letter": "B", "definition": "Proces odlévání betonových konstrukcí. Hlavní stavební činnost ŘOP — celkem ~1,5 mil. m³ odlito 1935–1938." },
+  { "term": "Blok", "letter": "B", "definition": "Jeden samostatný betonový monolit objektu. Pěchotní srub III. odolnosti měl typicky 2–3 bloky oddělené dilatací." },
+  { "term": "Bojové pásmo", "letter": "B", "definition": "Prostor před obrannou linií, kde má být nepřítel zachycen a zničen palbou pevností. ŘOP mělo pásmo hloubky 6–8 km." },
+  { "term": "Bouda (tvrz)", "letter": "B", "definition": "Nejzachovalejší čs. dělostřelecká tvrz v Orlických horách. Viz /tvrze/bouda." },
+
+  { "term": "Citadela", "letter": "C", "definition": "Starší pevnostní termín pro centrální opevnění města. Nesouvisí s ŘOP — v moderním opevnění 20. stol. nahrazeno tvrzemi." },
+
+  { "term": "Československé opevnění", "letter": "C", "definition": "Systém pevností budovaných 1935–1938 podél hranic ČSR pro obranu proti Německu (a částečně Maďarsku a Polsku). Oficiální název: „opevnění Č.S.R.“, neformálně ŘOP podle řídícího orgánu." },
+
+  { "term": "Dělostřelecká tvrz", "letter": "D", "definition": "Nejsilnější typ čs. opevnění. Komplex 5–9 pevnostních objektů spojených podzemím, s vlastní houfnicovou baterií. Plánovaných 16, stavbu zahájeno 8.", "related": ["Houfnice 10 cm vz. 38", "Tvrz Bouda"] },
+
+  { "term": "Dělostřelecký srub", "letter": "D", "definition": "Hlavní srub tvrze, vyzbrojený trojicí houfnic 10 cm vz. 38 s rotačními pancéřovými štíty. IV. odolnost." },
+
+  { "term": "Demolice (Wehrmacht)", "letter": "D", "definition": "Systematické ničení čs. opevnění Wehrmachtem 1938–1940. Zničeno: ~45 % pěchotních srubů, ~90 % lehkých objektů demontováno." },
+
+  { "term": "Diamantový příkop", "letter": "D", "definition": "Hluboký příkop (4–6 m) před střílnou pěchotního srubu. Brání nepříteli dorazit k střílně, zachycuje vystřelené granáty. Tvar odvozen od briliantového obrusu — proto „diamantový“.", "related": ["Granátový skluz"] },
+
+  { "term": "Dotěh pevností", "letter": "D", "definition": "Taktický termín: vzájemná palebná podpora sousedních objektů. Každá pevnost ŘOP měla mít dotěh s 2–3 sousedy.", "related": ["Trojúhelník palby"] },
+
+  { "term": "Dvojče", "letter": "D", "definition": "Speciální typ střílny pro dvě zbraně vedle sebe. Typické pro pěchotní sruby s kanonem + kulometem v jednom bloku." },
+
+  { "term": "Enciáda (encijada)", "letter": "E", "definition": "Špatné spojení dilatace bloků (starý čs. stavební termín). V moderní literatuře opuštěný." },
+
+  { "term": "Fort", "letter": "F", "definition": "Starší pevnostní termín (přelom 19./20. stol.) pro samostatnou pevnost s vlastní posádkou. V ŘOP nahrazen „tvrzí“ a „srubem“." },
+
+  { "term": "Fortifikační muzeum", "letter": "F", "definition": "Muzeum specializované na opevnění. V ČR nejznámější: Tvrz Bouda, Hanička, Hlučín-Darkovičky, Dobrošov, Stachelberg." },
+
+  { "term": "Granátový skluz", "letter": "G", "definition": "Šikmá ocelová roura skrz strop objektu pro házení granátů mimo objekt. Posádka hází granát do skluzu, který ho vede ven na předem zaměřené místo (obvykle diamantový příkop)." },
+
+  { "term": "Hanička (tvrz)", "letter": "H", "definition": "Dělostřelecká tvrz v Orlických horách. V 70. letech přestavěna na atomový kryt pro vládu ČSSR (projekt Kahan III). Viz /tvrze/hanicka." },
+
+  { "term": "Houfnice 10 cm vz. 38", "letter": "H", "definition": "Pevnostní houfnice Škody Plzeň, hlavní dělostřelecká zbraň tvrzí. Dostřel 12 km, kadence 6–8 ran/min. Viz /vyzbroj/houfnice-10cm." },
+
+  { "term": "Hůrka (tvrz)", "letter": "H", "definition": "Dělostřelecká tvrz v Králickém průsmyku. Jedna ze 3 plně dokončených tvrzí (Hůrka, Bouda, Smolkov). Dnes muzejní komplex." },
+
+  { "term": "Chalupa", "letter": "CH", "definition": "Slangový název posádkového ubikačního prostoru v podzemí tvrze. Používáno v dobovém žargonu armády." },
+
+  { "term": "Izolace (hydroizolace)", "letter": "I", "definition": "Asfaltová nebo kovová vrstva mezi zemí a betonem, chránící pevnost před vlhkostí. U ŘOP používán asfalt nebo olovo." },
+
+  { "term": "Jámový objekt", "letter": "J", "definition": "Typ lehkého objektu zapuštěného do země do hloubky 3–5 m. Zřídka používaný — pouze v několika lokalitách v Ostravsku." },
+
+  { "term": "Kanon protitankový vz. 36", "letter": "K", "definition": "47mm protitankový kanon Škoda vz. 36 (pevnostní varianta). Hlavní PT zbraň čs. opevnění. Viz /vyzbroj/protitankovy-kanon-vz-36." },
+
+  { "term": "Kasárna (tvrzová)", "letter": "K", "definition": "Podzemní ubikační prostor pro posádku tvrze. Palandy ve 3 patrech, sdílené WC, umývárny." },
+
+  { "term": "Kazemata", "letter": "K", "definition": "Uzavřený pevnostní prostor se střílnou pro zbraň. V ŘOP nahrazena termínem „blok“ nebo „srub“." },
+
+  { "term": "Klenba", "letter": "K", "definition": "Stropní konstrukce objektu. U betonových srubů typicky 1,5–3 m tlustá (dle odolnosti)." },
+
+  { "term": "Kopule (pancéřová)", "letter": "K", "definition": "Zastaralý název pro pancéřový zvon. V literatuře starší než 1940." },
+
+  { "term": "Kulomet vz. 26", "letter": "K", "definition": "Lehký kulomet ZB vz. 26. Předchůdce britského BREN-u. Standardní zbraň pěchoty čs. armády. Viz /vyzbroj/kulomet-vz-26." },
+
+  { "term": "Kulomet vz. 37", "letter": "K", "definition": "Těžký kulomet ZB vz. 37. Pevnostní verze byla univerzální — existovala i pro tanky, letadla a pěchotu. Britové ji licencovali jako BESA. Viz /vyzbroj/kulomet-vz-37." },
+
+  { "term": "Ladovka (slang)", "letter": "L", "definition": "Dobový slang pro minomet vz. 38. Odvozeno od výrobce (Zbrojovka Brno-Líšeň?). V oficiální literatuře nepoužívaný." },
+
+  { "term": "Lehké opevnění (LO)", "letter": "L", "definition": "Kategorie ŘOP pro menší objekty (typicky 1 kulomet). LO vz. 36 (první generace) a LO vz. 37 (řopík, druhá generace)." },
+
+  { "term": "LO vz. 36", "letter": "L", "definition": "První generace lehkého opevnění. Odolnost A (odolnost proti 75mm granátu), jednoúrovňový objekt pro 1–2 vojáky." },
+
+  { "term": "LO vz. 37 (řopík)", "letter": "L", "definition": "Druhá generace lehkého opevnění, výrazně vylepšená. Odolnost A, B, C podle tloušťky stěn. 9 677 objektů postaveno. Viz /typologie/lo-vz-37." },
+
+  { "term": "LO vz. 38 (Turek)", "letter": "L", "definition": "Prototyp třetí generace lehkého opevnění. Navrženo, ale kvůli Mnichovu nerealizováno sériově — vyrobeny pouze 2 kusy." },
+
+  { "term": "Linie", "letter": "L", "definition": "Úsek ŘOP podél hranice. Celkem 11 linií: Ostravsko, Orlicko-Kladská, Krkonoše-Podkrkonoší, Jeseníky, jižní Morava, Bratislavské předmostí, jižní Slovensko, Šumava, plzeňský okruh, severní Čechy, Krušné hory.", "related": ["ŘOP"] },
+
+  { "term": "Maginotova linie", "letter": "M", "definition": "Francouzský opevňovací systém na východní hranici. Inspirační zdroj pro ŘOP — ale čs. technici přizpůsobili koncept místním podmínkám." },
+
+  { "term": "Mimoúrovňové spojení", "letter": "M", "definition": "Typ spojení dvou pevnostních objektů podzemní chodbou v různých hloubkách. U ŘOP typické u tvrzí." },
+
+  { "term": "Minomet vz. 38", "letter": "M", "definition": "Pevnostní minomet 9 cm Škoda. Dostřel 3,8 km, kadence 15 ran/min. Montován v minometných srubech tvrzí. Viz /vyzbroj/minomet-vz-38." },
+
+  { "term": "Minový předpolí", "letter": "M", "definition": "Minové pole před obrannou linií. ŘOP plánovalo 50 000 min v roce 1938, v září instalováno pouze ~15 000." },
+
+  { "term": "Mnichov 1938", "letter": "M", "definition": "Mnichovská dohoda z 29.–30. 9. 1938. V jejím důsledku ČSR odstoupila Sudety Německu, což zahrnovalo ~80 % ŘOP.", "related": ["Obsazení Wehrmachtem"] },
+
+  { "term": "MO-S linie", "letter": "M", "definition": "Moravskoslezská linie / Ostravsko. Nejstarší úsek ŘOP (zahájeno 1935). Viz /linie/ostravsko." },
+
+  { "term": "Napalm (podobnost)", "letter": "N", "definition": "Hořlavá směs moderního typu. Čs. plamenomet typ F používal směs podobného typu (nafta + benzín + zahušťovadlo), předchůdce moderního napalmu." },
+
+  { "term": "Nepřítel (hlavní)", "letter": "N", "definition": "Pro ŘOP = nacistické Německo. Po Anschlussu 1938 také Rakousko. Po Vídeňské arbitráži 1938 i Maďarsko (jih Slovenska)." },
+
+  { "term": "Obrana (hluboká)", "letter": "O", "definition": "Taktická koncepce ŘOP: nepřítel nemá proniknout jedním útokem, ale má být zadržován ve více vrstvách linie." },
+
+  { "term": "Objekt vz. 36", "letter": "O", "definition": "Jiné označení pro LO vz. 36. Typicky používáno v archivní literatuře." },
+
+  { "term": "Obsazení Wehrmachtem", "letter": "O", "definition": "Obsazení Sudet a ŘOP Wehrmachtem 1.–10. 10. 1938. Nezastaveno bojem. Následně demontáž výzbroje." },
+
+  { "term": "Odolnost (kategorie)", "letter": "O", "definition": "Kategorizace pevností podle odolnosti proti dělostřelbě: I. (proti 75mm), II. (proti 105mm), III. (proti 155mm), IV. (proti 305mm).", "related": ["Tloušťka stěn"] },
+
+  { "term": "Odšelenič (slang)", "letter": "O", "definition": "Dobový slang pro protitankový kanon vz. 36. Nejasný původ — pravděpodobně „odšelenič tanků“." },
+
+  { "term": "Okop", "letter": "O", "definition": "Odkrytá střelecká pozice. V ŘOP doplňková, hlavní obrana vedena z pevností." },
+
+  { "term": "Opevnění (ŘOP)", "letter": "O", "definition": "Zkráceně pro Ředitelství opevňovacích prací — ústřední orgán zodpovědný za plán, projektaci a stavbu čs. opevnění 1935–1938." },
+
+  { "term": "Orlicko-Kladská linie", "letter": "O", "definition": "Jeden z nejvýznamnějších úseků ŘOP. Zahrnuje tvrze Bouda, Hanička, Dobrošov, Adam, Skutina. Viz /linie/orlicko-kladsko." },
+
+  { "term": "Palba (kruhová)", "letter": "P", "definition": "Palba ve 360° rozsahu. U dělostřelecké tvrze dosahováno rotací pancéřových štítů." },
+
+  { "term": "Pancéřový zvon", "letter": "P", "definition": "Ocelová polokoule ve stropě pěchotního srubu nebo tvrze, sloužící k pozorování a palbě. Typy N (20 cm pancíř), AN (30 cm), 40 mm. Viz /vyzbroj/pancerovy-zvon.", "related": ["Pěchotní srub"] },
+
+  { "term": "Pečorra", "letter": "P", "definition": "Označení pro pozorovací škvíru. Starší čs. pevnostní termín." },
+
+  { "term": "Pěchotní srub", "letter": "P", "definition": "Standardní objekt těžkého opevnění. Bunkr pro 15–32 mužů s 2–3 kulomety a případně protitankovým kanonem. Viz /typologie/pechotni-srub." },
+
+  { "term": "Periskop", "letter": "P", "definition": "Optické zařízení ve zvonu pro pozorování mimo objekt. Standardní výbava pancéřového zvonu AN." },
+
+  { "term": "Plamenomet typ F", "letter": "P", "definition": "Pevnostní plamenomet, nejvzácnější zbraň ŘOP. Dostřel 30 m. Vyrobeno pouze 8–12 kusů. Viz /vyzbroj/plamenomet-f." },
+
+  { "term": "Podzemí (tvrze)", "letter": "P", "definition": "Síť chodeb propojujících objekty tvrze v hloubce 20–60 m. Obsahuje kasárna, muniční sklady, strojovnu, vodní nádrž." },
+
+  { "term": "Polní výzbroj", "letter": "P", "definition": "Výzbroj pro boj mimo objekt (puška, granát, bajonet). Používána při výpadu posádky." },
+
+  { "term": "Polopancéř", "letter": "P", "definition": "Mírnější pancéřový prvek (tloušťka 5–10 cm). V ŘOP používán pro dveře a menší ochranné kryty." },
+
+  { "term": "Protitanková obrana (PT)", "letter": "P", "definition": "Komplex opatření proti obrněné technice: PT kanony (47mm vz. 36), PT granáty, PT překážky (ježci), diamantové příkopy.", "related": ["Kanon protitankový vz. 36"] },
+
+  { "term": "Protipechotní obrana", "letter": "P", "definition": "Obrana proti pěchotě: kulomety vz. 37, granáty, minová pole, ostnatý drát." },
+
+  { "term": "Průzor", "letter": "P", "definition": "Úzký otvor pro pozorování. Pancéřový zvon měl 3–5 průzorů po obvodu." },
+
+  { "term": "Puška vz. 24", "letter": "P", "definition": "Československá verze Mauser 98. Osobní výzbroj vojáka. Viz /vyzbroj/puska-vz-24." },
+
+  { "term": "Ráž", "letter": "R", "definition": "Průměr hlavně zbraně v milimetrech. U ŘOP nejčastější ráže: 7,92 mm (kulomety), 47 mm (PT kanon), 90 mm (minomet), 100 mm (houfnice)." },
+
+  { "term": "Rakousko (Anschluss 1938)", "letter": "R", "definition": "Připojení Rakouska k Německu 12. 3. 1938. Po něm ČSR musela urychleně rozšířit opevnění na jižní Moravě (dříve hranice s neutrálním Rakouskem)." },
+
+  { "term": "Rotační štít", "letter": "R", "definition": "Otočný pancéřový štít v dělostřeleckém srubu, umožňující 360° palbu houfnice. Vážil ~50 t, pohon elektromotorem." },
+
+  { "term": "Řopík", "letter": "R", "definition": "Slangový název pro LO vz. 37. Odvozen od zkratky ŘOP.", "related": ["LO vz. 37 (řopík)"] },
+
+  { "term": "ŘOP", "letter": "R", "definition": "Ředitelství opevňovacích prací, zkráceně ŘOP. Ústřední orgán čs. armády pro plánování a stavbu opevnění 1935–1938. Sídlo: Praha, Kolín, pak Písek." },
+
+  { "term": "Sirén", "letter": "S", "definition": "Poplachové zařízení v objektu. Typicky mechanické (klika), u tvrzí elektrické." },
+
+  { "term": "Smolkov (tvrz)", "letter": "S", "definition": "Jediná plně bojeschopná dělostřelecká tvrz ŘOP v září 1938. Ostravsko. Viz /tvrze/smolkov." },
+
+  { "term": "Srub", "letter": "S", "definition": "Typ pevnostního objektu. Pěchotní srub, dělostřelecký srub, minometný srub, vchodový srub." },
+
+  { "term": "Stachelberg (tvrz)", "letter": "S", "definition": "Největší plánovaná čs. tvrz (9 objektů, 778 mužů). V září 1938 rozestavěná z ~25 %. Viz /tvrze/stachelberg." },
+
+  { "term": "Strojovna", "letter": "S", "definition": "Místnost v podzemí tvrze s diesel agregáty pro výrobu elektřiny. Typicky 150 kW, zásoba paliva na 60 dní." },
+
+  { "term": "Střílna", "letter": "S", "definition": "Otvor ve stěně objektu pro vedení palby. Tvar: úzký vnitřně, širší vně (pro rozšíření palebného kuželu)." },
+
+  { "term": "Sudety", "letter": "S", "definition": "Historický německojazyčný termín pro pohraniční oblasti ČSR s převážně německým obyvatelstvem. V roce 1938 odstoupeny Německu." },
+
+  { "term": "Škoda Plzeň", "letter": "Š", "definition": "Hlavní zbrojovka ČSR. Výrobce houfnic, kanonů, pancéřových zvonů pro ŘOP." },
+
+  { "term": "Štít (pancéřový)", "letter": "Š", "definition": "Rotační pancéřový štít pro houfnici v dělostřeleckém srubu. Hmotnost ~50 t, tloušťka 30 cm." },
+
+  { "term": "Tanková past", "letter": "T", "definition": "Hluboká jáma nebo zídka blokující postup tanků. V ŘOP používáno omezeně — preferován protitankový kanon." },
+
+  { "term": "Těžké opevnění (TO)", "letter": "T", "definition": "Kategorie ŘOP pro velké objekty: pěchotní sruby a dělostřelecké tvrze. Celkem postaveno ~260 objektů (plán 520)." },
+
+  { "term": "Tloušťka stěn", "letter": "T", "definition": "Klíčový parametr odolnosti: I. stupeň 35 cm, II. 60 cm, III. 1,25 m, IV. 3,50 m. Závisela na předpokládané ráži nepřátelského dělostřelectva." },
+
+  { "term": "Trojúhelník palby", "letter": "T", "definition": "Geometrický princip ŘOP: každý bod předpolí měl být v palbě minimálně 3 pevností. Zajistilo to zničení útočníka i při zásahu jedné pevnosti." },
+
+  { "term": "Tvrz", "letter": "T", "definition": "Dělostřelecká pevnost — komplex 5–9 objektů s podzemím. V ŘOP plánováno 16, zahájeno 8. Viz /typologie/delostrelecka-tvrz." },
+
+  { "term": "Uzávěr", "letter": "U", "definition": "Linie pevností uzavírající strategický průsmyk, cestu nebo údolí. Např. Orlicko-Kladská linie = uzávěr průsmyku Międzylesie." },
+
+  { "term": "Vchodový objekt", "letter": "V", "definition": "Speciální srub chránící vchod do podzemí tvrze. III. odolnost, s plamenometem (plánováno) a granátovými skluzy." },
+
+  { "term": "Vídeňská arbitráž 1938", "letter": "V", "definition": "Mezinárodní rozhodnutí 2. 11. 1938 o odstoupení jižního Slovenska Maďarsku. Způsobilo ztrátu ŘOP na jižním Slovensku." },
+
+  { "term": "Vítkovické železárny", "letter": "V", "definition": "Důležitá čs. ocelárna. Spolu se Škodou Plzeň hlavní výrobce pancéřových zvonů pro ŘOP." },
+
+  { "term": "Výpad posádky", "letter": "V", "definition": "Taktická akce: posádka opouští objekt pro krátký boj v blízkém okolí (obnova komunikace, evakuace zraněných). Standardní součást obranné doktríny ŘOP." },
+
+  { "term": "Výzbroj osobní", "letter": "V", "definition": "Puška vz. 24 + granáty + bajonet. Doplňková k hlavní zbrani objektu (kulomet, kanon)." },
+
+  { "term": "Wehrmacht", "letter": "W", "definition": "Německá branná moc 1935–1945. Hlavní předpokládaný nepřítel ŘOP. V říjnu 1938 obsadil Sudety bez boje." },
+
+  { "term": "Wurfgerät", "letter": "W", "definition": "Německý odpálitelný plamenomet. Obdoba čs. typu F. Technologicky dokonalejší v roce 1938." },
+
+  { "term": "ZB vz. 26", "letter": "Z", "definition": "Viz Kulomet vz. 26." },
+
+  { "term": "ZB vz. 37", "letter": "Z", "definition": "Viz Kulomet vz. 37." },
+
+  { "term": "Zbrojovka Brno", "letter": "Z", "definition": "Hlavní výrobce ručních zbraní pro ŘOP — kulomety ZB vz. 26 a vz. 37, pušky vz. 24, minomety. Po válce pokračovala v provozu dodnes." },
+
+  { "term": "Zpřístupnění", "letter": "Z", "definition": "Proces otevření pevnosti pro veřejnost. V ČR dnes přístupných ~30 muzejních objektů z celkového ~10 000." },
+
+  { "term": "Zvon (pancéřový)", "letter": "Z", "definition": "Viz Pancéřový zvon." }
+]

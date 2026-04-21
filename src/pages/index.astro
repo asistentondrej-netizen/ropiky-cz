@@ -58,6 +58,11 @@ const cestyAll = (await getCollection('cesty', ({ data }) => !data.draft))
   .filter((c) => c.data.cover)
   .sort((a, b) => a.data.delka_dni - b.data.delka_dni);
 const cesty = cestyAll.slice(0, 3);
+
+// Linie, Výzbroj, Tvrze — pro nové preview sekce
+const linie = (await getCollection('linie')).sort((a, b) => a.data.order - b.data.order).slice(0, 6);
+const vyzbroj = (await getCollection('vyzbroj')).sort((a, b) => a.data.order - b.data.order).slice(0, 6);
+const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.data.order);
 ---
 
 <BaseLayout
@@ -249,6 +254,62 @@ const cesty = cestyAll.slice(0, 3);
     </section>
   )}
 
+  <!-- LINIE + VÝZBROJ + TVRZE -->
+  <section>
+    <div class="container">
+      <header class="section-header">
+        <span class="section-header__num">IV.</span>
+        <div class="section-header__content">
+          <h2>Prozkoumat dál</h2>
+          <p>Tři tematické vstupy do struktur ŘOP</p>
+        </div>
+      </header>
+
+      <div class="explore-grid">
+        <a href="/linie" class="explore-card">
+          <div class="explore-card__label">Obranné linie</div>
+          <h3>11 úseků napříč ČSR</h3>
+          <p>Od Ostravska přes Orlicko-Kladsko a Krkonoše po Bratislavské předmostí — každá linie s vlastní taktikou a osudem.</p>
+          <ul class="explore-card__list">
+            {linie.slice(0, 4).map((l) => (<li>{l.data.title}</li>))}
+          </ul>
+          <span class="explore-card__link">Všech 11 linií →</span>
+        </a>
+
+        <a href="/vyzbroj" class="explore-card">
+          <div class="explore-card__label">Výzbroj pevností</div>
+          <h3>Zbraně, které nikdy nevystřelily</h3>
+          <p>ZB vz. 37 (předchůdce BESA), pevnostní houfnice 10 cm, pancéřové zvony Škoda/Vítkovice a nejvzácnější plamenomet typ F.</p>
+          <ul class="explore-card__list">
+            {vyzbroj.slice(0, 4).map((v) => (<li>{v.data.title}</li>))}
+          </ul>
+          <span class="explore-card__link">Celá výzbroj →</span>
+        </a>
+
+        <a href="/tvrze" class="explore-card">
+          <div class="explore-card__label">Dělostřelecké tvrze</div>
+          <h3>Deep-dive do 5 tvrzí</h3>
+          <p>Bouda, Hanička, Dobrošov, Stachelberg, Adam, Smolkov. Od plně dokončené po rozestavěnou — a Hanička jako atomový kryt 70. let.</p>
+          <ul class="explore-card__list">
+            {tvrze.slice(0, 4).map((t) => (<li>{t.data.title}</li>))}
+          </ul>
+          <span class="explore-card__link">Všechny tvrze →</span>
+        </a>
+      </div>
+
+      <div class="secondary-links">
+        <a href="/casova-osa" class="secondary-link">
+          <strong>Časová osa 1918–1945</strong>
+          <span>40 událostí od vzniku ČSR po konec války</span>
+        </a>
+        <a href="/glosar" class="secondary-link">
+          <strong>Glosář pevnostních pojmů</strong>
+          <span>100+ hesel z oblasti opevnění</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
   <!-- FEATURES -->
   <section>
     <div class="container">
@@ -277,7 +338,7 @@ const cesty = cestyAll.slice(0, 3);
     <section>
       <div class="container">
         <header class="section-header">
-          <span class="section-header__num">IV.</span>
+          <span class="section-header__num">V.</span>
           <div class="section-header__content">
             <h2>Aktuality</h2>
             <p>Nové články, objevené objekty, výzkumné zápisky</p>
@@ -302,4 +363,105 @@ const cesty = cestyAll.slice(0, 3);
       </div>
     </section>
   )}
+
+  <style>
+    .explore-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: var(--s3);
+    }
+    .explore-card {
+      display: flex;
+      flex-direction: column;
+      gap: var(--s2);
+      padding: var(--s3);
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-top: 3px solid #7A3B2E;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    }
+    .explore-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.07);
+    }
+    .explore-card:nth-child(2) { border-top-color: #2D5F3F; }
+    .explore-card:nth-child(3) { border-top-color: #8B6F47; }
+    .explore-card__label {
+      font-size: 0.75rem;
+      color: var(--ink-light);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .explore-card h3 {
+      margin: 0;
+      font-size: 1.2rem;
+      color: var(--ink);
+      line-height: 1.3;
+    }
+    .explore-card p {
+      margin: 0;
+      font-size: 0.9375rem;
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    .explore-card__list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .explore-card__list li {
+      font-size: 0.875rem;
+      color: var(--ink-light);
+      padding-left: 14px;
+      position: relative;
+    }
+    .explore-card__list li::before {
+      content: '›';
+      position: absolute;
+      left: 0;
+      color: #7A3B2E;
+      font-weight: 700;
+    }
+    .explore-card__link {
+      margin-top: auto;
+      padding-top: var(--s2);
+      border-top: 1px dashed var(--line);
+      font-weight: 600;
+      color: #7A3B2E;
+      font-size: 0.9375rem;
+    }
+    .secondary-links {
+      margin-top: var(--s4);
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: var(--s2);
+    }
+    .secondary-link {
+      display: flex;
+      flex-direction: column;
+      padding: var(--s2) var(--s3);
+      background: var(--paper-dark);
+      border-left: 3px solid #7A3B2E;
+      text-decoration: none;
+      color: inherit;
+      transition: background 0.15s ease;
+    }
+    .secondary-link:hover {
+      background: var(--paper);
+    }
+    .secondary-link strong {
+      font-size: 1rem;
+      color: var(--ink);
+      margin-bottom: 2px;
+    }
+    .secondary-link span {
+      font-size: 0.8125rem;
+      color: var(--ink-light);
+    }
+  </style>
 </BaseLayout>

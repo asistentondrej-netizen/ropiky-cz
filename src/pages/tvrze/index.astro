@@ -1,0 +1,152 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.data.order);
+
+const stupenLabel: Record<string, string> = {
+  dokoncena: 'Dokončená',
+  'castecne-dokoncena': 'Částečně dokončená',
+  'hruba-stavba': 'Hrubá stavba',
+  rozestavena: 'Rozestavěná',
+};
+
+const stavLabel: Record<string, string> = {
+  muzeum: 'Muzeum',
+  'castecne-pristupna': 'Částečně přístupná',
+  'volne-pristupna': 'Volně přístupná',
+  uzavrena: 'Uzavřená',
+};
+
+const stavColor: Record<string, string> = {
+  muzeum: '#2D5F3F',
+  'castecne-pristupna': '#5A6B4F',
+  'volne-pristupna': '#8B5A3C',
+  uzavrena: '#555',
+};
+---
+
+<BaseLayout
+  title="Dělostřelecké tvrze ČSR"
+  description="Deep-dive profily 5 nejvýznamnějších československých dělostřeleckých tvrzí: Bouda, Hanička, Dobrošov, Stachelberg, Adam a Smolkov. Stavba, konfigurace, osud po Mnichovu a dnešní stav."
+>
+  <header class="catalog-header">
+    <div class="container">
+      <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
+        <a href="/">Úvod</a> / <span>Tvrze</span>
+      </div>
+      <h1>Dělostřelecké tvrze</h1>
+      <p class="article-hero__lead" style="margin-top: var(--s3);">
+        Dělostřelecké tvrze byly vrcholem československé opevňovací koncepce — mohutné podzemní komplexy se
+        skupinou pěchotních srubů, dělostřeleckým srubem s houfnicemi 10 cm a kilometry podzemních chodeb.
+        Plánováno 16, zahájeno 8. Plně dokončena v září 1938 pouze jedna — Smolkov.
+      </p>
+    </div>
+  </header>
+
+  <section>
+    <div class="container">
+      <div class="tvrze-grid">
+        {tvrze.map((t) => (
+          <a href={`/tvrze/${t.slug}`} class="tvrz-card">
+            <div class="tvrz-card__header">
+              <h2 class="tvrz-card__title">{t.data.title}</h2>
+              <span class="tvrz-card__status" style={`background: ${stavColor[t.data.stav_dnes] ?? '#666'}`}>
+                {stavLabel[t.data.stav_dnes]}
+              </span>
+            </div>
+            <div class="tvrz-card__region">{t.data.region} · {t.data.linie}</div>
+            <p class="tvrz-card__desc">{t.data.description}</p>
+            <dl class="tvrz-card__stats">
+              <div><dt>Stupeň</dt><dd>{stupenLabel[t.data.stupenDokonceni]}</dd></div>
+              {t.data.pocetSrubu && <div><dt>Objekty</dt><dd>{t.data.pocetSrubu}</dd></div>}
+              {t.data.delkaPodzemi_m && <div><dt>Podzemí</dt><dd>{(t.data.delkaPodzemi_m / 1000).toFixed(1).replace('.', ',')} km</dd></div>}
+              {t.data.posadka && <div><dt>Posádka</dt><dd>{t.data.posadka} mužů</dd></div>}
+            </dl>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    .tvrze-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+      gap: var(--s3);
+    }
+    .tvrz-card {
+      display: flex;
+      flex-direction: column;
+      gap: var(--s2);
+      padding: var(--s3);
+      background: var(--paper);
+      border: 1px solid var(--line);
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    }
+    .tvrz-card:hover {
+      transform: translateY(-2px);
+      border-color: #7A3B2E;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.07);
+    }
+    .tvrz-card__header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: var(--s2);
+    }
+    .tvrz-card__title {
+      margin: 0;
+      font-size: 1.35rem;
+      color: var(--ink);
+      line-height: 1.25;
+    }
+    .tvrz-card__status {
+      display: inline-block;
+      padding: 3px 8px;
+      font-size: 0.6875rem;
+      color: white;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      white-space: nowrap;
+    }
+    .tvrz-card__region {
+      font-size: 0.75rem;
+      color: var(--ink-light);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .tvrz-card__desc {
+      margin: 0;
+      font-size: 0.9375rem;
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    .tvrz-card__stats {
+      margin: var(--s2) 0 0 0;
+      padding-top: var(--s2);
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 8px 16px;
+      border-top: 1px dashed var(--line);
+    }
+    .tvrz-card__stats > div {
+      display: flex;
+      flex-direction: column;
+    }
+    .tvrz-card__stats dt {
+      font-size: 0.6875rem;
+      color: var(--ink-light);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .tvrz-card__stats dd {
+      margin: 2px 0 0;
+      font-size: 0.9375rem;
+      font-weight: 600;
+      color: var(--ink);
+    }
+  </style>
+</BaseLayout>

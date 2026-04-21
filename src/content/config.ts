@@ -321,4 +321,86 @@ const cesty = defineCollection({
   }),
 });
 
-export const collections = { stranky, typologie, pevnosti, clanky, cesty };
+// ---------- Obranné linie ----------
+const linie = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    region: z.string(),
+    slug: z.string().optional(),
+    delka_km: z.number().optional(),
+    pocet_objektu: z.number().optional(),
+    obdobi_stavby: z.string().optional(),
+    stav_dnes: z.string().optional(),
+    bounds: z
+      .object({
+        north: z.number(),
+        south: z.number(),
+        east: z.number(),
+        west: z.number(),
+      })
+      .optional(),
+    order: z.number().default(99),
+    cover: z.string().optional(),
+    tags: z.array(z.string()).optional(),
+    related: z.array(z.string()).optional(),
+    sources: z.array(z.string()).optional(),
+    updated: z.coerce.date().optional(),
+  }),
+});
+
+// ---------- Výzbroj ----------
+const vyzbroj = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    kategorie: z.enum(['kulomet', 'kanon', 'minomet', 'plamenomet', 'pancir', 'granat', 'rucni-zbran', 'ostatni']),
+    rok_zavedeni: z.string().optional(),
+    vyrobce: z.string().optional(),
+    raze_mm: z.number().optional(),
+    dostrel_m: z.number().optional(),
+    kadence: z.string().optional(),
+    hmotnost_kg: z.number().optional(),
+    posadka: z.number().optional(),
+    umisteni: z.array(z.string()).optional(),
+    order: z.number().default(99),
+    sources: z.array(z.string()).optional(),
+    updated: z.coerce.date().optional(),
+  }),
+});
+
+// ---------- Dělostřelecké tvrze (deep-dive) ----------
+const tvrze = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    kodTvrze: z.string(),
+    linie: z.string(),
+    region: z.string(),
+    location: z.object({
+      lat: z.number(),
+      lon: z.number(),
+    }),
+    stupenDokonceni: z.enum(['dokoncena', 'castecne-dokoncena', 'hruba-stavba', 'rozestavena']),
+    pocetSrubu: z.number().optional(),
+    pocetSrubuDokoncenych: z.number().optional(),
+    delkaPodzemi_m: z.number().optional(),
+    hloubkaPodzemi_m: z.number().optional(),
+    posadka: z.number().optional(),
+    betonaz_m3: z.number().optional(),
+    zahajeni: z.string().optional(),
+    dokonceni: z.string().optional(),
+    stav_dnes: z.enum(['muzeum', 'castecne-pristupna', 'volne-pristupna', 'uzavrena']),
+    muzeumWeb: z.string().url().optional(),
+    order: z.number().default(99),
+    cover: z.string().optional(),
+    related: z.array(z.string()).optional(),
+    sources: z.array(z.string()).optional(),
+    updated: z.coerce.date().optional(),
+  }),
+});
+
+export const collections = { stranky, typologie, pevnosti, clanky, cesty, linie, vyzbroj, tvrze };

@@ -1,0 +1,136 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const vyzbroj = (await getCollection('vyzbroj')).sort((a, b) => a.data.order - b.data.order);
+
+const kategorieLabel: Record<string, string> = {
+  kulomet: 'Kulomety',
+  kanon: 'Kanony a houfnice',
+  minomet: 'Minomety',
+  plamenomet: 'Plamenomety',
+  pancir: 'Pancéřové prvky',
+  granat: 'Granáty',
+  'rucni-zbran': 'Ruční zbraně',
+  ostatni: 'Ostatní',
+};
+
+const kategorieOrder = ['kulomet', 'kanon', 'minomet', 'plamenomet', 'pancir', 'granat', 'rucni-zbran', 'ostatni'];
+
+const grouped = kategorieOrder
+  .map((kat) => ({
+    kategorie: kat,
+    label: kategorieLabel[kat],
+    items: vyzbroj.filter((v) => v.data.kategorie === kat),
+  }))
+  .filter((g) => g.items.length > 0);
+---
+
+<BaseLayout
+  title="Výzbroj československých pevností"
+  description="Přehled zbraní a pancéřových prvků československého opevnění 1935–1938. Kulomety ZB vz. 26 a vz. 37, protitankový kanon vz. 36, pevnostní houfnice 10 cm vz. 38, minomet vz. 38, pancéřové zvony a granáty."
+>
+  <header class="catalog-header">
+    <div class="container">
+      <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
+        <a href="/">Úvod</a> / <span>Výzbroj</span>
+      </div>
+      <h1>Výzbroj pevností</h1>
+      <p class="article-hero__lead" style="margin-top: var(--s3);">
+        Československé zbrojovky vyrobily pro opevnění jednu z nejkvalitnějších sad zbraní své doby.
+        Těžký kulomet ZB vz. 37 se stal vzorem pro britskou BESA, lehký ZB vz. 26 dal základ legendárnímu BREN-u.
+        Po Mnichovu Wehrmacht tyto zbraně zabavil po desetitisících kusů.
+      </p>
+    </div>
+  </header>
+
+  <section>
+    <div class="container">
+      {grouped.map((g) => (
+        <div class="vyzbroj-group">
+          <h2 class="vyzbroj-group__title">{g.label}</h2>
+          <div class="vyzbroj-grid">
+            {g.items.map((v) => (
+              <a href={`/vyzbroj/${v.slug}`} class="vyzbroj-card">
+                <div class="vyzbroj-card__kategorie">{g.label}</div>
+                <h3 class="vyzbroj-card__title">{v.data.title}</h3>
+                <p class="vyzbroj-card__desc">{v.data.description}</p>
+                <div class="vyzbroj-card__meta">
+                  {v.data.raze_mm ? <span>{v.data.raze_mm} mm</span> : null}
+                  {v.data.dostrel_m && v.data.dostrel_m > 0 ? <span>dostřel {v.data.dostrel_m.toLocaleString('cs-CZ')} m</span> : null}
+                  {v.data.rok_zavedeni ? <span>{v.data.rok_zavedeni}</span> : null}
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <style>
+    .vyzbroj-group { margin-bottom: var(--s5); }
+    .vyzbroj-group__title {
+      font-family: var(--font-display, serif);
+      font-size: 1.5rem;
+      color: #7A3B2E;
+      margin: 0 0 var(--s3) 0;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--ink);
+    }
+    .vyzbroj-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: var(--s3);
+    }
+    .vyzbroj-card {
+      display: flex;
+      flex-direction: column;
+      gap: var(--s2);
+      padding: var(--s3);
+      background: var(--paper);
+      border: 1px solid var(--line);
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+    }
+    .vyzbroj-card:hover {
+      transform: translateY(-2px);
+      border-color: #7A3B2E;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.07);
+    }
+    .vyzbroj-card__kategorie {
+      font-size: 0.75rem;
+      color: var(--ink-light);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .vyzbroj-card__title {
+      margin: 0;
+      font-size: 1.2rem;
+      color: var(--ink);
+      line-height: 1.25;
+    }
+    .vyzbroj-card__desc {
+      margin: 0;
+      font-size: 0.9375rem;
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    .vyzbroj-card__meta {
+      margin-top: auto;
+      padding-top: var(--s2);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 0.8125rem;
+      color: var(--ink-light);
+      border-top: 1px dashed var(--line);
+    }
+    .vyzbroj-card__meta span + span::before {
+      content: '·';
+      margin-right: 12px;
+      color: var(--line);
+    }
+  </style>
+</BaseLayout>

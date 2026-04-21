@@ -1,0 +1,182 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import glosar from '../data/glosar.json';
+
+// Seřaď podle písmene a pak podle termínu
+type Entry = { term: string; letter: string; definition: string; related?: string[] };
+const entries: Entry[] = (glosar as Entry[]).slice().sort((a, b) => {
+  if (a.letter !== b.letter) return a.letter.localeCompare(b.letter, 'cs');
+  return a.term.localeCompare(b.term, 'cs');
+});
+
+// Seskupení podle písmen
+const groups: Record<string, Entry[]> = {};
+entries.forEach((e) => {
+  if (!groups[e.letter]) groups[e.letter] = [];
+  groups[e.letter].push(e);
+});
+
+const letters = Object.keys(groups).sort((a, b) => a.localeCompare(b, 'cs'));
+
+// Pomocná funkce pro převod textu v definici: nahraď odkazy /vyzbroj/... /tvrze/... /linie/... atd. klikatelnými
+function linkify(text: string): string {
+  return text.replace(/(\/(?:vyzbroj|tvrze|linie|typologie|katalog|clanky|cesty|o-opevneni)\/[a-z0-9-]+)/gi,
+    '<a href="$1">$1</a>');
+}
+---
+
+<BaseLayout
+  title="Glosář — pevnostní pojmosloví"
+  description="Alfabetický slovník pojmů československého opevnění 1935–1938. 100+ hesel z oblasti stavební technologie, výzbroje, vojenské taktiky a historických událostí."
+>
+  <header class="catalog-header">
+    <div class="container">
+      <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
+        <a href="/">Úvod</a> / <span>Glosář</span>
+      </div>
+      <h1>Glosář — pojmosloví opevnění</h1>
+      <p class="article-hero__lead" style="margin-top: var(--s3);">
+        Alfabetický rejstřík pojmů československého opevnění 1935–1938. {entries.length} hesel —
+        od stavební technologie a výzbroje přes vojenskou taktiku k historickým termínům.
+      </p>
+
+      <nav class="glosar-nav" aria-label="Písmena">
+        {letters.map((l) => (
+          <a href={`#pismeno-${l}`}>{l}</a>
+        ))}
+      </nav>
+    </div>
+  </header>
+
+  <section>
+    <div class="container">
+      {letters.map((letter) => (
+        <div class="glosar-group" id={`pismeno-${letter}`}>
+          <h2 class="glosar-letter">{letter}</h2>
+          <dl class="glosar-list">
+            {groups[letter].map((e) => (
+              <div class="glosar-entry">
+                <dt>{e.term}</dt>
+                <dd>
+                  <span set:html={linkify(e.definition)} />
+                  {e.related && e.related.length > 0 && (
+                    <span class="glosar-related">
+                      Viz také: {e.related.map((r, i) => (
+                        <>
+                          <a href={`#${r.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`}>{r}</a>{i < e.related!.length - 1 ? ', ' : ''}
+                        </>
+                      ))}
+                    </span>
+                  )}
+                </dd>
+              </div>
+            ))}
+          </dl>
+        </div>
+      ))}
+
+      <div class="glosar-back">
+        <a href="#" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;">↑ Zpět nahoru</a>
+      </div>
+    </div>
+  </section>
+
+  <style>
+    .glosar-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      margin-top: var(--s4);
+      padding: var(--s2);
+      background: var(--paper-dark);
+      border: 1px solid var(--line);
+    }
+    .glosar-nav a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 36px;
+      height: 36px;
+      padding: 0 8px;
+      font-family: monospace;
+      font-weight: 700;
+      font-size: 0.9375rem;
+      color: #7A3B2E;
+      text-decoration: none;
+      border: 1px solid transparent;
+      transition: all 0.15s ease;
+    }
+    .glosar-nav a:hover {
+      background: var(--paper);
+      border-color: #7A3B2E;
+    }
+    .glosar-group {
+      margin-bottom: var(--s5);
+    }
+    .glosar-letter {
+      font-family: var(--font-display, serif);
+      font-size: 3rem;
+      color: #7A3B2E;
+      margin: 0 0 var(--s3) 0;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--ink);
+      line-height: 1;
+    }
+    .glosar-list {
+      margin: 0;
+      padding: 0;
+      display: grid;
+      gap: var(--s3);
+    }
+    .glosar-entry {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      gap: var(--s3);
+      padding: var(--s2) 0;
+      border-bottom: 1px dashed var(--line);
+    }
+    .glosar-entry dt {
+      font-weight: 700;
+      font-size: 1rem;
+      color: var(--ink);
+      line-height: 1.4;
+    }
+    .glosar-entry dd {
+      margin: 0;
+      font-size: 0.9375rem;
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    .glosar-entry dd a {
+      color: #7A3B2E;
+      text-decoration: underline;
+    }
+    .glosar-related {
+      display: block;
+      margin-top: 6px;
+      font-size: 0.8125rem;
+      color: var(--ink-light);
+      font-style: italic;
+    }
+    .glosar-back {
+      text-align: center;
+      margin-top: var(--s4);
+      padding-top: var(--s3);
+      border-top: 1px solid var(--line);
+    }
+    .glosar-back a {
+      color: #7A3B2E;
+      text-decoration: none;
+      font-size: 0.9375rem;
+    }
+    @media (max-width: 700px) {
+      .glosar-entry {
+        grid-template-columns: 1fr;
+        gap: 4px;
+      }
+      .glosar-letter {
+        font-size: 2.25rem;
+      }
+    }
+  </style>
+</BaseLayout>

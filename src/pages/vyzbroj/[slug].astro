@@ -1,0 +1,60 @@
+---
+import { getCollection } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('vyzbroj');
+  return entries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+
+const kategorieLabel: Record<string, string> = {
+  kulomet: 'Kulomet',
+  kanon: 'Kanon / houfnice',
+  minomet: 'Minomet',
+  plamenomet: 'Plamenomet',
+  pancir: 'Pancéřový prvek',
+  granat: 'Granát',
+  'rucni-zbran': 'Ruční zbraň',
+  ostatni: 'Ostatní',
+};
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  breadcrumb={[
+    { label: 'Úvod', href: '/' },
+    { label: 'Výzbroj', href: '/vyzbroj' },
+    { label: entry.data.title, href: `/vyzbroj/${entry.slug}` },
+  ]}
+  updated={entry.data.updated}
+  sources={entry.data.sources}
+>
+  <div class="fact-box">
+    <div class="fact-box__label">Technická data</div>
+    <dl>
+      <dt>Kategorie:</dt><dd>{kategorieLabel[entry.data.kategorie] ?? entry.data.kategorie}</dd>
+      {entry.data.rok_zavedeni && (<><dt>Zavedeno:</dt><dd>{entry.data.rok_zavedeni}</dd></>)}
+      {entry.data.vyrobce && (<><dt>Výrobce:</dt><dd>{entry.data.vyrobce}</dd></>)}
+      {entry.data.raze_mm && entry.data.raze_mm > 0 && (<><dt>Ráže:</dt><dd>{entry.data.raze_mm} mm</dd></>)}
+      {entry.data.dostrel_m && entry.data.dostrel_m > 0 && (<><dt>Dostřel:</dt><dd>{entry.data.dostrel_m.toLocaleString('cs-CZ')} m</dd></>)}
+      {entry.data.kadence && (<><dt>Kadence:</dt><dd>{entry.data.kadence}</dd></>)}
+      {entry.data.hmotnost_kg && entry.data.hmotnost_kg > 0 && (<><dt>Hmotnost:</dt><dd>{entry.data.hmotnost_kg.toLocaleString('cs-CZ')} kg</dd></>)}
+      {entry.data.posadka && entry.data.posadka > 0 && (<><dt>Posádka:</dt><dd>{entry.data.posadka}</dd></>)}
+      {entry.data.umisteni && entry.data.umisteni.length > 0 && (
+        <>
+          <dt>Umístění:</dt>
+          <dd>{entry.data.umisteni.join(', ')}</dd>
+        </>
+      )}
+    </dl>
+  </div>
+
+  <Content />
+</ArticleLayout>

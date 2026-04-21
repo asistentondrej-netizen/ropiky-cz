@@ -1,0 +1,266 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import timeline from '../data/timeline.json';
+
+type Event = { datum: string; nazev: string; kategorie: string; popis: string };
+const events: Event[] = (timeline as Event[]).slice().sort((a, b) => a.datum.localeCompare(b.datum));
+
+const kategorieLabel: Record<string, string> = {
+  politika: 'Politika',
+  mezinarodni: 'Mezinárodní',
+  opevneni: 'ŘOP / stavba',
+  mobilizace: 'Mobilizace',
+  inspirace: 'Zahraničí (inspirace)',
+  obsazeni: 'Obsazení',
+  valka: '2. světová válka',
+  obnova: 'Obnova',
+};
+
+const kategorieBarva: Record<string, string> = {
+  politika: '#7A3B2E',
+  mezinarodni: '#8B6F47',
+  opevneni: '#2D5F3F',
+  mobilizace: '#5A2420',
+  inspirace: '#555',
+  obsazeni: '#B33',
+  valka: '#444',
+  obnova: '#5A6B4F',
+};
+
+function formatCzDate(d: string): string {
+  // d je YYYY-MM-DD
+  const [y, m, day] = d.split('-');
+  const mesic = ['', 'ledna','února','března','dubna','května','června','července','srpna','září','října','listopadu','prosince'];
+  return `${parseInt(day,10)}. ${mesic[parseInt(m,10)]} ${y}`;
+}
+
+const rokyUnique = [...new Set(events.map((e) => e.datum.substring(0, 4)))];
+---
+
+<BaseLayout
+  title="Časová osa — ŘOP a jeho éra (1918–1945)"
+  description="Interaktivní časová osa československého opevnění a jeho dobového kontextu. 40 klíčových událostí od vzniku ČSR přes budování ŘOP, Mnichov a válku až po konec 2. sv. války."
+>
+  <header class="catalog-header">
+    <div class="container">
+      <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
+        <a href="/">Úvod</a> / <span>Časová osa</span>
+      </div>
+      <h1>Časová osa: ŘOP a jeho éra</h1>
+      <p class="article-hero__lead" style="margin-top: var(--s3);">
+        Československé opevnění 1935–1938 lze pochopit jen v kontextu své doby — mezinárodní politiky,
+        zbrojení, Mnichova a osudu ve 2. světové válce. {events.length} klíčových událostí od vzniku
+        ČSR po osvobození.
+      </p>
+
+      <div class="timeline-filters" id="timeline-filters">
+        <button class="tl-filter is-active" data-kategorie="all">Vše</button>
+        {Object.keys(kategorieLabel).map((k) => (
+          <button class="tl-filter" data-kategorie={k} style={`--tl-color: ${kategorieBarva[k]}`}>
+            <span class="tl-filter__dot" style={`background: ${kategorieBarva[k]}`}></span>
+            {kategorieLabel[k]}
+          </button>
+        ))}
+      </div>
+    </div>
+  </header>
+
+  <section>
+    <div class="container">
+      <div class="timeline" id="timeline">
+        {events.map((e, i) => (
+          <div class={`tl-event tl-event--${e.kategorie}`} data-kategorie={e.kategorie} id={`tl-${i}`}>
+            <div class="tl-event__date">
+              <span class="tl-event__year">{e.datum.substring(0, 4)}</span>
+              <span class="tl-event__day">{formatCzDate(e.datum).replace(/^[0-9]+\. /, '').replace(/ [0-9]+$/, '').substring(0, 8)}</span>
+              <span class="tl-event__day-num">{formatCzDate(e.datum).match(/^[0-9]+/)?.[0]}</span>
+            </div>
+            <div class="tl-event__line">
+              <div class="tl-event__dot" style={`background: ${kategorieBarva[e.kategorie]}`}></div>
+            </div>
+            <div class="tl-event__body">
+              <div class="tl-event__kategorie" style={`color: ${kategorieBarva[e.kategorie]}`}>
+                {kategorieLabel[e.kategorie]}
+              </div>
+              <h3 class="tl-event__title">{e.nazev}</h3>
+              <p class="tl-event__desc">{e.popis}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <style>
+    .timeline-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: var(--s4);
+      padding-top: var(--s3);
+      border-top: 1px solid var(--line);
+    }
+    .tl-filter {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      padding: 6px 12px;
+      font-size: 0.8125rem;
+      font-family: inherit;
+      color: var(--ink);
+      cursor: pointer;
+      transition: all 0.15s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .tl-filter__dot {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+    }
+    .tl-filter:hover {
+      background: var(--paper-dark);
+      border-color: #7A3B2E;
+    }
+    .tl-filter.is-active {
+      background: #7A3B2E;
+      color: white;
+      border-color: #7A3B2E;
+    }
+    .tl-filter.is-active .tl-filter__dot {
+      background: white !important;
+    }
+    .timeline {
+      position: relative;
+      display: grid;
+      gap: var(--s3);
+    }
+    .tl-event {
+      display: grid;
+      grid-template-columns: 100px 40px 1fr;
+      gap: var(--s2);
+      transition: opacity 0.2s ease;
+    }
+    .tl-event.is-hidden {
+      display: none;
+    }
+    .tl-event__date {
+      text-align: right;
+      padding-top: 10px;
+      font-family: monospace;
+      line-height: 1.2;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+    }
+    .tl-event__year {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--ink);
+    }
+    .tl-event__day-num {
+      font-size: 0.875rem;
+      color: var(--ink-light);
+    }
+    .tl-event__day {
+      display: none;
+    }
+    .tl-event__line {
+      position: relative;
+      padding-top: 14px;
+    }
+    .tl-event__line::before {
+      content: '';
+      position: absolute;
+      left: 50%;
+      top: 0;
+      bottom: -24px;
+      width: 2px;
+      background: var(--line);
+      transform: translateX(-50%);
+    }
+    .tl-event:last-child .tl-event__line::before {
+      bottom: 50%;
+    }
+    .tl-event__dot {
+      position: relative;
+      z-index: 1;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: #7A3B2E;
+      border: 3px solid white;
+      box-shadow: 0 0 0 1px var(--line);
+      margin: 0 auto;
+    }
+    .tl-event__body {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-left: 3px solid var(--line);
+      padding: var(--s2) var(--s3);
+      transition: border-color 0.15s ease;
+    }
+    .tl-event:hover .tl-event__body {
+      border-color: #7A3B2E;
+    }
+    .tl-event--politika .tl-event__body { border-left-color: #7A3B2E; }
+    .tl-event--opevneni .tl-event__body { border-left-color: #2D5F3F; }
+    .tl-event--mezinarodni .tl-event__body { border-left-color: #8B6F47; }
+    .tl-event--mobilizace .tl-event__body { border-left-color: #5A2420; }
+    .tl-event--obsazeni .tl-event__body { border-left-color: #B33; }
+    .tl-event--valka .tl-event__body { border-left-color: #444; }
+    .tl-event--inspirace .tl-event__body { border-left-color: #555; }
+    .tl-event--obnova .tl-event__body { border-left-color: #5A6B4F; }
+    .tl-event__kategorie {
+      font-size: 0.6875rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      font-weight: 700;
+    }
+    .tl-event__title {
+      margin: 4px 0;
+      font-size: 1.15rem;
+      color: var(--ink);
+      line-height: 1.3;
+    }
+    .tl-event__desc {
+      margin: 0;
+      font-size: 0.9375rem;
+      color: var(--ink);
+      line-height: 1.55;
+    }
+    @media (max-width: 700px) {
+      .tl-event {
+        grid-template-columns: 70px 28px 1fr;
+      }
+      .tl-event__year {
+        font-size: 1.1rem;
+      }
+      .tl-event__day-num {
+        font-size: 0.75rem;
+      }
+    }
+  </style>
+
+  <script is:inline>
+    (function () {
+      const filters = document.querySelectorAll('.tl-filter');
+      const events = document.querySelectorAll('.tl-event');
+      filters.forEach((btn) => {
+        btn.addEventListener('click', () => {
+          filters.forEach((b) => b.classList.remove('is-active'));
+          btn.classList.add('is-active');
+          const kat = btn.dataset.kategorie;
+          events.forEach((ev) => {
+            if (kat === 'all' || ev.dataset.kategorie === kat) {
+              ev.classList.remove('is-hidden');
+            } else {
+              ev.classList.add('is-hidden');
+            }
+          });
+        });
+      });
+    })();
+  </script>
+</BaseLayout>

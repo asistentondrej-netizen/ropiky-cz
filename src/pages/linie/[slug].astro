@@ -1,0 +1,95 @@
+---
+import { getCollection } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('linie');
+  return entries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+const allPevnosti = await getCollection('pevnosti');
+
+// Najdi pevnosti této linie podle bounds
+const bounds = entry.data.bounds;
+const pevnostiVLinii = bounds
+  ? allPevnosti.filter((p) => {
+      const { lat, lon } = p.data.location;
+      return lat <= bounds.north && lat >= bounds.south && lon >= bounds.west && lon <= bounds.east;
+    }).slice(0, 20)
+  : [];
+---
+
+<ArticleLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  breadcrumb={[
+    { label: 'Úvod', href: '/' },
+    { label: 'Linie', href: '/linie' },
+    { label: entry.data.title, href: `/linie/${entry.slug}` },
+  ]}
+  updated={entry.data.updated}
+  sources={entry.data.sources}
+>
+  <div class="fact-box">
+    <div class="fact-box__label">Úsek ŘOP</div>
+    <dl>
+      <dt>Region:</dt><dd>{entry.data.region}</dd>
+      {entry.data.delka_km && (<><dt>Délka:</dt><dd>~{entry.data.delka_km} km</dd></>)}
+      {entry.data.pocet_objektu && (<><dt>Objekty:</dt><dd>~{entry.data.pocet_objektu}</dd></>)}
+      {entry.data.obdobi_stavby && (<><dt>Období stavby:</dt><dd>{entry.data.obdobi_stavby}</dd></>)}
+      {entry.data.stav_dnes && (<><dt>Stav dnes:</dt><dd>{entry.data.stav_dnes}</dd></>)}
+    </dl>
+  </div>
+
+  <Content />
+
+  {pevnostiVLinii.length > 0 && (
+    <section class="linie-objekty">
+      <h2>Objekty v této linii v našem katalogu</h2>
+      <p class="muted">Vybrané pevnosti z úseku podle geografického výřezu — přes <a href="/katalog">katalog</a> se dostanete ke všem {pevnostiVLinii.length >= 20 ? '20+' : pevnostiVLinii.length} dokumentovaným objektům.</p>
+      <ul class="linie-objekty__list">
+        {pevnostiVLinii.map((p) => (
+          <li>
+            <a href={`/katalog/${p.id.replace(/\.(yaml|yml|json)$/, '')}`}>
+              <strong>{p.data.code}</strong> — {p.data.title}
+              <span class="muted"> · {p.data.region}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+      <p><a href="/katalog" class="btn btn--ghost">Celý katalog pevností</a></p>
+    </section>
+  )}
+
+  <style>
+    .linie-objekty {
+      margin-top: var(--s5);
+      padding-top: var(--s4);
+      border-top: 2px solid var(--ink);
+    }
+    .linie-objekty__list {
+      list-style: none;
+      padding: 0;
+      margin: var(--s3) 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 8px;
+    }
+    .linie-objekty__list li {
+      padding: 8px 12px;
+      background: var(--paper-dark);
+      border-left: 2px solid #7A3B2E;
+    }
+    .linie-objekty__list a {
+      text-decoration: none;
+      color: inherit;
+    }
+    .linie-objekty__list a:hover strong { color: #7A3B2E; }
+    .muted { color: var(--ink-light); font-size: 0.875rem; }
+  </style>
+</ArticleLayout>
