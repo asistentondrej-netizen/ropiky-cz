@@ -35,6 +35,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element node/3482593864)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q61852370
+commons_category: T-S 54 Nad dráhou casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Trutnov%2C_Bezd%C4%9Bkov%2C_T-S_54_%28rok_2012%3B_01%29.jpg/1280px-Trutnov%2C_Bezd%C4%9Bkov%2C_T-S_54_%28rok_2012%3B_01%29.jpg

@@ -35,6 +35,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/390422140)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q69423234
+commons_category: K-S 15 U lípy casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/6/6e/K-S_15.JPG

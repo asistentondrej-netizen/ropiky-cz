@@ -36,6 +36,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/52431161)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q98633885
+commons_category: MO-S 15 Na výhledech casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Markvartovice%2C_MO-S_15_%282015-05-08%3B_01%29.jpg/1280px-Markvartovice%2C_MO-S_15_%282015-05-08%3B_01%29.jpg

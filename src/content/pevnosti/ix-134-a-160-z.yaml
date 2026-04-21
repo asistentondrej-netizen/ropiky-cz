@@ -12,4 +12,22 @@ sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/node/3371723400
     type: web
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/%C5%98OP_134%2C_Kol%C5%A1tejn_03.jpg/1920px-%C5%98OP_134%2C_Kol%C5%A1tejn_03.jpg"
+    alt: "IX/134/A-160 Z"
+    author: "Michal Gregor"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_134,_Kol%C5%A1tejn_03.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%C5%98OP_134%2C_Kol%C5%A1tejn_01.jpg/1920px-%C5%98OP_134%2C_Kol%C5%A1tejn_01.jpg"
+    alt: "IX/134/A-160 Z"
+    author: "Michal Gregor"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_134,_Kol%C5%A1tejn_01.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/%C5%98OP_134%2C_Kol%C5%A1tejn_02.jpg/1920px-%C5%98OP_134%2C_Kol%C5%A1tejn_02.jpg"
+    alt: "IX/134/A-160 Z"
+    author: "Michal Gregor"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_134,_Kol%C5%A1tejn_02.jpg"
+wikidata_id: Q110291857
+commons_category: IX/134/A-160Z light pillbox
 updated: '2026-04-21'

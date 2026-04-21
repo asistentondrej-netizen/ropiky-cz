@@ -35,4 +35,17 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/387011585)
 - ropiky.net — databáze čs. opevnění
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Slav%C3%ADkov_%28u_N%C3%A1choda%29_-_pohled_z_rozhledny_Na_Sign%C3%A1lu_k_severoz%C3%A1padu_na_bunkr_K%C3%B3ta_B.jpg/1920px-Slav%C3%ADkov_%28u_N%C3%A1choda%29_-_pohled_z_rozhledny_Na_Sign%C3%A1lu_k_severoz%C3%A1padu_na_bunkr_K%C3%B3ta_B.jpg"
+    alt: "T-S-1b"
+    author: "MartinVeselka"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Slav%C3%ADkov_(u_N%C3%A1choda)_-_pohled_z_rozhledny_Na_Sign%C3%A1lu_k_severoz%C3%A1padu_na_bunkr_K%C3%B3ta_B.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/3/38/Slav%C3%ADkov_%28u_N%C3%A1choda%29_-_pohled_z_rozhledny_Na_Sign%C3%A1lu_k_severoz%C3%A1padu_na_bunkr_K%C3%B3ta_B_%28cropped%29.jpg"
+    alt: "T-S-1b"
+    author: "MartinVeselka"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Slav%C3%ADkov_(u_N%C3%A1choda)_-_pohled_z_rozhledny_Na_Sign%C3%A1lu_k_severoz%C3%A1padu_na_bunkr_K%C3%B3ta_B_(cropped).jpg"
+wikidata_id: Q62656914
+commons_category: T-S 1b Kóta B casemate
 updated: '2026-04-19'

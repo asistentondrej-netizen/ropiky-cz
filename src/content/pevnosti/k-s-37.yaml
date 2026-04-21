@@ -35,6 +35,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/39373014)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q69679155
+commons_category: K-S 37 Na rozhledně casemate
 updated: '2026-04-19'
 
 # === MÉDIA ===
@@ -44,4 +46,3 @@ photos:
     author: "Martin Provazní"
     license: CC0
     source: https://commons.wikimedia.org/wiki/File%3AK-S%2037.jpg
-

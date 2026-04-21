@@ -36,6 +36,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/52431162)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q98633884
+commons_category: MO-S 14 Juliánka casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%C5%A0ilhe%C5%99ovice%2C_MO-S_14_%282015-05-08%3B_01%29.jpg/1280px-%C5%A0ilhe%C5%99ovice%2C_MO-S_14_%282015-05-08%3B_01%29.jpg

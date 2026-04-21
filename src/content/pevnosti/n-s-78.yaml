@@ -35,6 +35,9 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/389099969)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q12039471
+wikipedia_url: "https://cs.wikipedia.org/wiki/N-S_78_Polsko"
+commons_category: N-S 78 Polsko casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/N-S_78_Polsko.JPG/1280px-N-S_78_Polsko.JPG

@@ -35,6 +35,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/390422143)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q69126885
+commons_category: K-S 7 U vesnice casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/K-S_7_U_vesnice.jpg/1920px-K-S_7_U_vesnice.jpg

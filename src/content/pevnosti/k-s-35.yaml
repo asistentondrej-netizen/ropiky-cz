@@ -35,6 +35,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element node/3935796742)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q69578668
+commons_category: K-S 35 Nad lesem casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/a/aa/K-S_35.jpg

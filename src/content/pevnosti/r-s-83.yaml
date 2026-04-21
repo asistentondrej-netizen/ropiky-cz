@@ -35,6 +35,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element node/3929493470)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q29573412
+commons_category: R-S 83 Chata casemate
 updated: '2026-04-19'
 # === MÉDIA ===
 photos:
@@ -43,4 +45,3 @@ photos:
     author: "User:Harold's family"
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File%3ABarto%C5%A1ovice%20v%20Orlick%C3%BDch%20hor%C3%A1ch%2C%20Neratov%2C%20R-S%2083%20%28rok%202002%29.jpg
-

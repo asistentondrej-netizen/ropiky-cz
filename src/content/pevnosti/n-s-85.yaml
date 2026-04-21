@@ -35,6 +35,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/389099979)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q62590985
+commons_category: N-S 85 Montace casemate
 updated: '2026-04-19'
 # === MÉDIA ===
 photos:
@@ -43,4 +45,3 @@ photos:
     author: "Lasy"
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File%3AN-S%2085%20Montace%201.jpg
-

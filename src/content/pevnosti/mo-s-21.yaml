@@ -36,6 +36,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/52431167)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q98636457
+commons_category: MO-S 21 U Jaroše casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Darkovice%2C_MO-S_21_%282015-05-01%3B_01%29.jpg/1280px-Darkovice%2C_MO-S_21_%282015-05-01%3B_01%29.jpg

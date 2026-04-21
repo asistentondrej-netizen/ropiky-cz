@@ -36,6 +36,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/210245335)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q27559958
+commons_category: B-S 15 Ostrov casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bunker_B-S_15_Ostrov.jpg/1280px-Bunker_B-S_15_Ostrov.jpg

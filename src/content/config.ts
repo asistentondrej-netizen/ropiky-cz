@@ -223,6 +223,11 @@ const pevnosti = defineCollection({
       })
       .optional(),
 
+    // === EXTERNÍ REFERENCE (Wikidata enrichment 2026-04) ===
+    wikidata_id: z.string().regex(/^Q\d+$/).optional(),
+    wikipedia_url: z.string().url().optional(),
+    commons_category: z.string().optional(), // bez prefixu "Category:"
+
     // === CROSS-LINKING (NOVÉ) ===
     related: z
       .object({

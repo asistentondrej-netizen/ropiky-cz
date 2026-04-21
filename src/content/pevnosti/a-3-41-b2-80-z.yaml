@@ -15,4 +15,22 @@ sources:
   - title: Wikidata Q113453176
     url: https://www.wikidata.org/wiki/Q113453176
     type: web
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sme%C4%8Dno%2C_bunk%C5%99%C3%ADk.JPG/1920px-Sme%C4%8Dno%2C_bunk%C5%99%C3%ADk.JPG"
+    alt: "A-3/41/B2-80 Z"
+    author: "I would appreciate being notified if you use my work outside Wikimedia. More of my work can be found in my personal gallery."
+    license: "CC BY-SA 3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Sme%C4%8Dno,_bunk%C5%99%C3%ADk.JPG"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/b/be/Vojensk%C3%BD_skanzen_Sme%C4%8Dno_1.jpg"
+    alt: "A-3/41/B2-80 Z"
+    author: "Sumastek SW"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Vojensk%C3%BD_skanzen_Sme%C4%8Dno_1.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/2/22/Vojensk%C3%BD_skanzen_Sme%C4%8Dno%2C_u_z%C3%A1padn%C3%AD_zdi_z%C3%A1meck%C3%A9ho_parku%2C_Sme%C4%8Dno%2C_okr._Kladno%2C_St%C5%99edo%C4%8Desk%C3%BD_kraj_16.JPG"
+    alt: "A-3/41/B2-80 Z"
+    author: "Horakvlado"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Vojensk%C3%BD_skanzen_Sme%C4%8Dno,_u_z%C3%A1padn%C3%AD_zdi_z%C3%A1meck%C3%A9ho_parku,_Sme%C4%8Dno,_okr._Kladno,_St%C5%99edo%C4%8Desk%C3%BD_kraj_16.JPG"
+wikidata_id: Q113453176
+commons_category: A-3/41/B2-80 Z light pillbox
 updated: '2026-04-21'

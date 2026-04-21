@@ -39,6 +39,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element node/3935647353)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q69680885
+commons_category: K-Am-S 42 Trigonometr casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/K-S_42_%28Adam%29.jpg/1280px-K-S_42_%28Adam%29.jpg

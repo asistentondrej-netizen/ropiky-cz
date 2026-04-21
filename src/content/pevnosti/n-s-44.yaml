@@ -35,6 +35,9 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element node/3922646234)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q62394527
+wikipedia_url: "https://cs.wikipedia.org/wiki/N-S_44"
+commons_category: N-S 44 casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/N-S_44.jpg/1920px-N-S_44.jpg

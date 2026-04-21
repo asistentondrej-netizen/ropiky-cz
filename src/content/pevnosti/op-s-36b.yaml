@@ -35,6 +35,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/53334956)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q98593687
+commons_category: OP-S 36b Dvoják dolní casemate
 updated: '2026-04-19'
 # === MÉDIA ===
 photos:
@@ -43,4 +45,3 @@ photos:
     author: "Hapesoft"
     license: CC BY 3.0
     source: https://commons.wikimedia.org/wiki/File%3AOP-S%2036b%20%283%29.jpg
-

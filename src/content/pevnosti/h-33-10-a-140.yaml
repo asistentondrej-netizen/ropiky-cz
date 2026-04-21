@@ -12,4 +12,22 @@ sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/node/3371992162
     type: web
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%C5%98OP_10%2C_Prachatice_02.jpg/1920px-%C5%98OP_10%2C_Prachatice_02.jpg"
+    alt: "H-33/10/A-140"
+    author: "MIGORMCZ"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_10,_Prachatice_02.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%C5%98OP_10%2C_Prachatice_03.jpg/1920px-%C5%98OP_10%2C_Prachatice_03.jpg"
+    alt: "H-33/10/A-140"
+    author: "MIGORMCZ"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_10,_Prachatice_03.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/%C5%98OP_10%2C_Prachatice_05.jpg/1920px-%C5%98OP_10%2C_Prachatice_05.jpg"
+    alt: "H-33/10/A-140"
+    author: "MIGORMCZ"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_10,_Prachatice_05.jpg"
+wikidata_id: Q62027227
+commons_category: H-33/10/A-140 light pillbox
 updated: '2026-04-21'

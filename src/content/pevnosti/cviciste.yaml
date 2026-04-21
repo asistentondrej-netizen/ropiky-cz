@@ -15,4 +15,22 @@ sources:
   - title: Wikidata Q27969846
     url: https://www.wikidata.org/wiki/Q27969846
     type: web
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg/1920px-Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg"
+    alt: "Cvičiště"
+    author: "TeodS"
+    license: "CC0"
+    source: "https://commons.wikimedia.org/wiki/File:Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS-7_%22Cvi%C4%8Di%C5%A1t%C4%9B%22_-_po%C4%BEad_cez_striel%C5%88u_-_panoramio.jpg/1920px-BS-7_%22Cvi%C4%8Di%C5%A1t%C4%9B%22_-_po%C4%BEad_cez_striel%C5%88u_-_panoramio.jpg"
+    alt: "Cvičiště"
+    author: "bredus"
+    license: "CC BY 3.0"
+    source: "https://commons.wikimedia.org/wiki/File:BS-7_%22Cvi%C4%8Di%C5%A1t%C4%9B%22_-_po%C4%BEad_cez_striel%C5%88u_-_panoramio.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bunker_B-S-7_Cviciste_-_panoramio.jpg/1920px-Bunker_B-S-7_Cviciste_-_panoramio.jpg"
+    alt: "Cvičiště"
+    author: "bredus"
+    license: "CC BY 3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Bunker_B-S-7_Cviciste_-_panoramio.jpg"
+wikidata_id: Q27969846
+commons_category: B-S 7 Cvičiště casemate
 updated: '2026-04-21'

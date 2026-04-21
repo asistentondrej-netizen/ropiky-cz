@@ -12,4 +12,22 @@ sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/way/238488234
     type: web
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Brann%C3%A1%2C_StM-S_52_%28rok_2009%3B_01%29.jpg"
+    alt: "Pěchotní srub STM 52"
+    author: "User:Harold"
+    license: "CC BY-SA 3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Brann%C3%A1,_StM-S_52_(rok_2009;_01).jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/2/27/Brann%C3%A1%2C_StM-S_52_%28rok_2009%3B_02%29.jpg"
+    alt: "Pěchotní srub STM 52"
+    author: "User:Harold"
+    license: "CC BY-SA 3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Brann%C3%A1,_StM-S_52_(rok_2009;_02).jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/2/23/Brann%C3%A1%2C_StM-S_52_%28rok_2009%3B_03%29.jpg"
+    alt: "Pěchotní srub STM 52"
+    author: "User:Harold"
+    license: "CC BY-SA 3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Brann%C3%A1,_StM-S_52_(rok_2009;_03).jpg"
+wikidata_id: Q98602218
+commons_category: StM-S 52 Obora casemate
 updated: '2026-04-21'

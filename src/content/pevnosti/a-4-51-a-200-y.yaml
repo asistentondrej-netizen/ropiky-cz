@@ -12,4 +12,23 @@ sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/way/440913013
     type: web
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
+    alt: "A-4/51/A-200 Y"
+    author: "Janmanak"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
+    alt: "A-4/51/A-200 Y"
+    author: "Janmanak"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
+    alt: "A-4/51/A-200 Y"
+    author: "Janmanak"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
+wikidata_id: Q37015066
+wikipedia_url: "https://cs.wikipedia.org/wiki/Bunkr_(Bratronice)"
+commons_category: A-4/51/A-200 Y light pillbox
 updated: '2026-04-21'

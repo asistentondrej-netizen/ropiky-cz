@@ -39,6 +39,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element node/3935647351)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q69680880
+commons_category: K-Am-S 40 U háječku casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/K-S_40_%28Adam%29.jpg/1280px-K-S_40_%28Adam%29.jpg

@@ -12,4 +12,22 @@ sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/node/3371451052
     type: web
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%C5%98op%C3%ADk_ve_zdi_lib%C4%9Bchovsk%C3%A9ho_z%C3%A1meck%C3%A9ho_parku_2024-12-25_01.jpg/1920px-%C5%98op%C3%ADk_ve_zdi_lib%C4%9Bchovsk%C3%A9ho_z%C3%A1meck%C3%A9ho_parku_2024-12-25_01.jpg"
+    alt: "P1/221/A-180"
+    author: "Hubert Kororo"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_ve_zdi_lib%C4%9Bchovsk%C3%A9ho_z%C3%A1meck%C3%A9ho_parku_2024-12-25_01.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%C5%98op%C3%ADk_ve_zdi_lib%C4%9Bchovsk%C3%A9ho_z%C3%A1meck%C3%A9ho_parku_2024-12-25_02.jpg/1920px-%C5%98op%C3%ADk_ve_zdi_lib%C4%9Bchovsk%C3%A9ho_z%C3%A1meck%C3%A9ho_parku_2024-12-25_02.jpg"
+    alt: "P1/221/A-180"
+    author: "Hubert Kororo"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_ve_zdi_lib%C4%9Bchovsk%C3%A9ho_z%C3%A1meck%C3%A9ho_parku_2024-12-25_02.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%C5%98op%C3%ADk_ve_zdi_lib%C4%9Bchovsk%C3%A9ho_z%C3%A1meck%C3%A9ho_parku_2024-12-25_03.jpg/1920px-%C5%98op%C3%ADk_ve_zdi_lib%C4%9Bchovsk%C3%A9ho_z%C3%A1meck%C3%A9ho_parku_2024-12-25_03.jpg"
+    alt: "P1/221/A-180"
+    author: "Hubert Kororo"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_ve_zdi_lib%C4%9Bchovsk%C3%A9ho_z%C3%A1meck%C3%A9ho_parku_2024-12-25_03.jpg"
+wikidata_id: Q131558917
+commons_category: P1/221/A-180 light pillbox
 updated: '2026-04-21'

@@ -36,6 +36,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/52430938)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q98645043
+commons_category: MO-S 32 Bártovo pole casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Kozmice%2C_MO-S_32_%282015-04-14%3B_01%29.jpg/1280px-Kozmice%2C_MO-S_32_%282015-04-14%3B_01%29.jpg

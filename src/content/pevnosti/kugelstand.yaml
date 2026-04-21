@@ -12,4 +12,22 @@ sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/node/12784077205
     type: web
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bunker_B-S_6_Vrba.jpg/1920px-Bunker_B-S_6_Vrba.jpg"
+    alt: "Kugelstand"
+    author: "TeodS"
+    license: "CC0"
+    source: "https://commons.wikimedia.org/wiki/File:Bunker_B-S_6_Vrba.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/B-S_6_Vrba.JPG/1920px-B-S_6_Vrba.JPG"
+    alt: "Kugelstand"
+    author: "Lukáš Malý"
+    license: "Public domain"
+    source: "https://commons.wikimedia.org/wiki/File:B-S_6_Vrba.JPG"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bratislava%2C_Petr%C5%BEalka%2C_B-S_6_%282013-11-11%3B_01%29.jpg/1920px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_6_%282013-11-11%3B_01%29.jpg"
+    alt: "Kugelstand"
+    author: "Harold"
+    license: "CC BY-SA 3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_6_(2013-11-11;_01).jpg"
+wikidata_id: Q27969843
+commons_category: B-S 6 Vrba casemate
 updated: '2026-04-21'

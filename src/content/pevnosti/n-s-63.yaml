@@ -35,4 +35,6 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element node/3922646240)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q62530000
+wikipedia_url: "https://cs.wikipedia.org/wiki/N-S_63_Louka"
 updated: '2026-04-19'

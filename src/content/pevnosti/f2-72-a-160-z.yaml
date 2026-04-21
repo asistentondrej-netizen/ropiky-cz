@@ -12,4 +12,22 @@ sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/node/3371584193
     type: web
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Objekt_F2-72-A-160Z_01.jpg/1920px-Objekt_F2-72-A-160Z_01.jpg"
+    alt: "F2/72/A-160 Z"
+    author: "Michal Gregor"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Objekt_F2-72-A-160Z_01.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Objekt_F2-72-A-160Z_02.jpg/1920px-Objekt_F2-72-A-160Z_02.jpg"
+    alt: "F2/72/A-160 Z"
+    author: "Michal Gregor"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Objekt_F2-72-A-160Z_02.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Objekt_F2-72-A-160Z_03.jpg/1920px-Objekt_F2-72-A-160Z_03.jpg"
+    alt: "F2/72/A-160 Z"
+    author: "Michal Gregor"
+    license: "CC BY-SA 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Objekt_F2-72-A-160Z_03.jpg"
+wikidata_id: Q85410382
+commons_category: F2/72/A-160Z light pillbox
 updated: '2026-04-21'

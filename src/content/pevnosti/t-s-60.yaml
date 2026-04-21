@@ -35,6 +35,8 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element node/3482214073)
 - ropiky.net — databáze čs. opevnění
+wikidata_id: Q61852377
+commons_category: T-S 60 U statku casemate
 updated: '2026-04-19'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Trutnov%2C_Debrn%C3%A9%2C_T-S_60_%28rok_2012%3B_01%29.jpg/1920px-Trutnov%2C_Debrn%C3%A9%2C_T-S_60_%28rok_2012%3B_01%29.jpg

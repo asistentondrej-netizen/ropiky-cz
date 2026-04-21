@@ -35,5 +35,22 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element node/3922646242)
 - ropiky.net — databáze čs. opevnění
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bab%C3%AD%2C_N%C3%A1chod_2017-05_16.jpg/1920px-Bab%C3%AD%2C_N%C3%A1chod_2017-05_16.jpg"
+    alt: "N-S-87 „Les\""
+    author: "Miloslav Rejha"
+    license: "CC BY 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Bab%C3%AD,_N%C3%A1chod_2017-05_16.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bab%C3%AD%2C_N%C3%A1chod_2017-05_15.jpg/1920px-Bab%C3%AD%2C_N%C3%A1chod_2017-05_15.jpg"
+    alt: "N-S-87 „Les\""
+    author: "Miloslav Rejha"
+    license: "CC BY 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Bab%C3%AD,_N%C3%A1chod_2017-05_15.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bab%C3%AD%2C_N%C3%A1chod_2017-05_17.jpg/1920px-Bab%C3%AD%2C_N%C3%A1chod_2017-05_17.jpg"
+    alt: "N-S-87 „Les\""
+    author: "Miloslav Rejha"
+    license: "CC BY 4.0"
+    source: "https://commons.wikimedia.org/wiki/File:Bab%C3%AD,_N%C3%A1chod_2017-05_17.jpg"
+wikidata_id: Q62624291
+commons_category: N-S 87 Les casemate
 updated: '2026-04-19'
-photos: []

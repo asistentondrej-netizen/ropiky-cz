@@ -39,5 +39,22 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
 sources:
 - OpenStreetMap (OSM element way/390422137)
 - ropiky.net — databáze čs. opevnění
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/0/02/K-S12b.jpg"
+    alt: "K-BG-S-12b „Utržený\""
+    author: "Railfort"
+    license: "Public domain"
+    source: "https://commons.wikimedia.org/wiki/File:K-S12b.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/K-S_12b_Utrzeny_A._CelkovyPohled.jpg/1920px-K-S_12b_Utrzeny_A._CelkovyPohled.jpg"
+    alt: "K-BG-S-12b „Utržený\""
+    author: "Stribrohorak"
+    license: "CC BY-SA 3.0"
+    source: "https://commons.wikimedia.org/wiki/File:K-S_12b_Utrzeny_A._CelkovyPohled.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K-S_12b_Utrzeny_B._Detail.jpg/1920px-K-S_12b_Utrzeny_B._Detail.jpg"
+    alt: "K-BG-S-12b „Utržený\""
+    author: "Stribrohorak"
+    license: "CC BY-SA 3.0"
+    source: "https://commons.wikimedia.org/wiki/File:K-S_12b_Utrzeny_B._Detail.jpg"
+wikidata_id: Q69352553
+commons_category: K-Bg-S 12b Utržený casemate
 updated: '2026-04-19'
-photos: []

@@ -15,4 +15,22 @@ sources:
   - title: Wikidata Q27969851
     url: https://www.wikidata.org/wiki/Q27969851
     type: web
+photos:
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bunker_B-S_10_T%C5%99i_hranice.jpg/1920px-Bunker_B-S_10_T%C5%99i_hranice.jpg"
+    alt: "Tři hranice"
+    author: "TeodS"
+    license: "CC0"
+    source: "https://commons.wikimedia.org/wiki/File:Bunker_B-S_10_T%C5%99i_hranice.jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bratislava%2C_Petr%C5%BEalka%2C_B-S_10_%282013-11-11%3B_01%29.jpg/1920px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_10_%282013-11-11%3B_01%29.jpg"
+    alt: "Tři hranice"
+    author: "Harold"
+    license: "CC BY-SA 3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_10_(2013-11-11;_01).jpg"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bratislava%2C_Petr%C5%BEalka%2C_B-S_10_%282013-11-11%3B_05%29.jpg/1920px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_10_%282013-11-11%3B_05%29.jpg"
+    alt: "Tři hranice"
+    author: "Harold"
+    license: "CC BY-SA 3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_10_(2013-11-11;_05).jpg"
+wikidata_id: Q27969851
+commons_category: B-S 10 Tři hranice casemate
 updated: '2026-04-21'
