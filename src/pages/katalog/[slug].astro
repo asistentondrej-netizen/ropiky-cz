@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import ContributePhotoForm from '../../components/ContributePhotoForm.astro';
 import { getCollection } from 'astro:content';
 import JsonLd from '../../components/JsonLd.astro';
 import { pevnostSchema, breadcrumbList } from '../../lib/schema';
@@ -646,12 +647,8 @@ const hasAsideContent = d.navsteva || hasRelated || true; // citace vždy
             ) : null}
           </section>
 
-          {/* JAK POMOCI */}
-          <section style="margin-top: var(--s6); padding: var(--s4); background: var(--paper-dark); border: 1px solid var(--line);">
-            <h3 style="margin-top: 0;">Pomozte zlepšit tento záznam</h3>
-            <p style="margin-bottom: var(--s3);">Máte vlastní fotografie, aktuální informace o stavu nebo opravu k tomuto objektu? Rádi je doplníme.</p>
-            <a href={`/kontakt?subject=${encodeURIComponent(d.code + ' — doplnění')}`} style="display: inline-block; padding: var(--s2) var(--s3); background: var(--ink); color: var(--paper); text-decoration: none;">Napsat nám</a>
-          </section>
+          {/* PŘISPĚT FOTKOU / INFORMACÍ */}
+          <ContributePhotoForm code={d.code} slug={slug} title={d.title} />
 
         </main>
 

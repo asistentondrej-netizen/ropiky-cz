@@ -1,0 +1,229 @@
+---
+// ContributePhotoForm.astro
+// Formulář pro přispění fotkou/informací k objektu.
+// Používá mailto: — po kliknutí se otevře mail klient s předvyplněným
+// předmětem [RPKY-SUBMIT] {code} a strukturovaným body.
+// Uživatel sám přiloží fotku a odešle.
+//
+// Props:
+//   code: string        — kód objektu (např. "B-S 1")
+//   slug: string        — URL slug (např. "b-s-1-sterkoviste")
+//   title: string       — název pro přehlednost
+interface Props {
+  code: string;
+  slug: string;
+  title: string;
+}
+const { code, slug, title } = Astro.props;
+// Unikátní ID pro případ více formulářů na stránce (zde jen 1, ale prevence)
+const formId = `contrib-${slug}`;
+---
+
+<section id="prispet" class="contrib-form" style="margin-top: var(--s6); padding: var(--s4); background: var(--paper-dark); border: 1px solid var(--line);">
+  <h2 style="margin-top: 0;">Přispět fotkou nebo informací</h2>
+  <p style="margin-bottom: var(--s3); color: var(--ink-light);">
+    Máte vlastní fotografii <strong>{title}</strong> ({code}) nebo aktuální informaci?
+    Vyplňte krátký formulář — váš mailový klient se otevře s předvyplněným textem, stačí připojit fotku a odeslat.
+  </p>
+
+  <form id={formId} class="contrib-form__form" onsubmit="return false;">
+    <input type="hidden" name="object_code" value={code} />
+    <input type="hidden" name="object_slug" value={slug} />
+
+    <div class="contrib-form__row">
+      <label for={`${formId}-name`}>Vaše jméno <span class="req" title="Pro citaci pod fotkou">*</span></label>
+      <input
+        type="text"
+        id={`${formId}-name`}
+        name="contributor_name"
+        placeholder="Jan Novák"
+        required
+        autocomplete="name"
+      />
+    </div>
+
+    <div class="contrib-form__row">
+      <label for={`${formId}-email`}>Váš email <span class="req" title="Pro komunikaci, nezveřejníme">*</span></label>
+      <input
+        type="email"
+        id={`${formId}-email`}
+        name="contributor_email"
+        placeholder="jmeno@example.cz"
+        required
+        autocomplete="email"
+      />
+    </div>
+
+    <div class="contrib-form__row">
+      <label for={`${formId}-desc`}>Popisek / kontext fotky</label>
+      <textarea
+        id={`${formId}-desc`}
+        name="description"
+        rows="4"
+        placeholder="Kdy jste to fotil, z jaké strany, co je na fotce zvláštního…"
+      ></textarea>
+    </div>
+
+    <div class="contrib-form__row contrib-form__row--checkbox">
+      <label>
+        <input type="checkbox" id={`${formId}-license`} name="license_accepted" required />
+        <span>
+          Souhlasím se zveřejněním pod licencí <strong><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.cs" target="_blank" rel="noopener">CC BY-SA 4.0</a></strong>
+          (ostatní smějí fotku použít s uvedením autora).
+        </span>
+      </label>
+    </div>
+
+    <div class="contrib-form__actions">
+      <button type="button" id={`${formId}-submit`} class="contrib-form__btn">
+        ✉️ Vytvořit email s fotkou
+      </button>
+      <p class="contrib-form__hint">
+        Po kliknutí se otevře váš mailový klient. <strong>Prosíme, v něm připojte fotku</strong> (Attach / Připojit) a odešlete — automatika web ji zařadí.
+      </p>
+    </div>
+
+    <div id={`${formId}-success`} class="contrib-form__success" hidden>
+      ✅ Mailový klient otevřen. Připojte prosím fotku a klikněte Odeslat. Děkujeme!
+    </div>
+  </form>
+</section>
+
+<style>
+  .contrib-form__form {
+    display: flex;
+    flex-direction: column;
+    gap: var(--s3);
+  }
+  .contrib-form__row {
+    display: flex;
+    flex-direction: column;
+    gap: var(--s1);
+  }
+  .contrib-form__row label {
+    font-weight: 600;
+    font-size: 0.9375rem;
+  }
+  .contrib-form__row .req {
+    color: var(--rust);
+    cursor: help;
+  }
+  .contrib-form__row input[type="text"],
+  .contrib-form__row input[type="email"],
+  .contrib-form__row textarea {
+    padding: var(--s2);
+    border: 1px solid var(--line);
+    background: var(--paper);
+    font-size: 1rem;
+    font-family: inherit;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .contrib-form__row input:focus,
+  .contrib-form__row textarea:focus {
+    outline: 2px solid var(--rust);
+    outline-offset: -1px;
+  }
+  .contrib-form__row--checkbox label {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--s2);
+    font-weight: 400;
+    font-size: 0.9375rem;
+    line-height: 1.5;
+    cursor: pointer;
+  }
+  .contrib-form__row--checkbox input {
+    margin-top: 4px;
+    flex-shrink: 0;
+  }
+  .contrib-form__actions {
+    margin-top: var(--s2);
+  }
+  .contrib-form__btn {
+    display: inline-block;
+    padding: var(--s2) var(--s4);
+    background: var(--ink);
+    color: var(--paper);
+    border: none;
+    font-size: 1rem;
+    font-family: inherit;
+    cursor: pointer;
+    font-weight: 600;
+  }
+  .contrib-form__btn:hover {
+    background: var(--rust);
+  }
+  .contrib-form__btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  .contrib-form__hint {
+    margin-top: var(--s2);
+    font-size: 0.8125rem;
+    color: var(--ink-light);
+    font-style: italic;
+  }
+  .contrib-form__success {
+    margin-top: var(--s3);
+    padding: var(--s2) var(--s3);
+    background: #e8f5e9;
+    border-left: 3px solid #2e7d32;
+    font-size: 0.9375rem;
+  }
+</style>
+
+<script is:inline define:vars={{ formId }}>
+  (function () {
+    const form = document.getElementById(formId);
+    const btn = document.getElementById(`${formId}-submit`);
+    const success = document.getElementById(`${formId}-success`);
+    if (!form || !btn) return;
+
+    btn.addEventListener('click', function (e) {
+      e.preventDefault();
+
+      // Validace
+      const name = form.querySelector('[name="contributor_name"]').value.trim();
+      const email = form.querySelector('[name="contributor_email"]').value.trim();
+      const desc = form.querySelector('[name="description"]').value.trim();
+      const license = form.querySelector('[name="license_accepted"]').checked;
+      const code = form.querySelector('[name="object_code"]').value;
+      const slug = form.querySelector('[name="object_slug"]').value;
+
+      if (!name) { alert('Vyplňte prosím vaše jméno.'); return; }
+      if (!email) { alert('Vyplňte prosím email.'); return; }
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { alert('Email nemá platný formát.'); return; }
+      if (!license) { alert('Pro zveřejnění fotky je potřeba souhlasit s licencí CC BY-SA 4.0.'); return; }
+
+      // Sestav strukturované tělo
+      const bodyLines = [
+        '=== RPKY-SUBMIT ===',
+        `object_code: ${code}`,
+        `object_slug: ${slug}`,
+        `contributor_name: ${name}`,
+        `contributor_email: ${email}`,
+        `license: CC BY-SA 4.0`,
+        `description: ${desc || '(nevyplněno)'}`,
+        '=== END ===',
+        '',
+        '--- Prosíme, k tomuto emailu připojte fotku (Attach / Připojit) a odešlete. ---',
+        '',
+        'Děkujeme, že přispíváte k ropiky.cz!',
+      ];
+      const body = bodyLines.join('\n');
+      const subject = `[RPKY-SUBMIT] ${code} — fotka / informace`;
+
+      const mailto = `mailto:info@ropiky.cz?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+      // Otevři mail klient
+      window.location.href = mailto;
+
+      // Zobraz success zprávu
+      if (success) {
+        success.hidden = false;
+        success.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+    });
+  })();
+</script>
