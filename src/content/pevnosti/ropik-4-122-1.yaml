@@ -12,9 +12,10 @@ description: "Lehký objekt vz. 36 — starší koncepce s čelní palbou. Souč
 photos:
   - url: /img/forts/ropik-4-122-1-01.jpg
     alt: "LO vz. 36 4/122/1 u Mikulova — pohled z boku na objekt uprostřed vinice se vstupem do podzemí"
+    caption: "Vlastní fotka (příspěvek přes formulář na ropiky.cz)"
     author: "Ondřej Ungr"
     license: CC BY-SA 4.0
-    source: "Vlastní fotka (příspěvek přes ropiky.cz formulář)"
+    category: exterier
     featured: true
 sources:
   - OpenStreetMap
