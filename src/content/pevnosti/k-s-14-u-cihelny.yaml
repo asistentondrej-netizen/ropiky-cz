@@ -4,8 +4,8 @@ type: pechotni-srub
 line: Králíky — východní Čechy
 region: Pardubický kraj
 location:
-  lat: 50.0867
-  lon: 16.7569
+  lat: 50.095799
+  lon: 16.755185
   address: Prostřední Lipka, 561 69 Králíky
   elevation: 504
 
@@ -175,4 +175,7 @@ sources:
   - title: ropiky.net — K-S 14
     type: web
 
-updated: '2026-04-20'
+wikidata_id: Q17115644
+wikipedia_url: "https://cs.wikipedia.org/wiki/K-S_14_U_cihelny"
+commons_category: K-S 14 U cihelny casemate
+updated: '2026-04-21'
