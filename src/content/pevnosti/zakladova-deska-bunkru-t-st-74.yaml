@@ -1,13 +1,13 @@
 title: Základová deska bunkru T-St-74
 code: Základová deska bunkru T-St-74
-type: neurceno
-line: Neurčeno
+type: pechotni-srub
+line: Trutnov — Střelec
 region: "Královéhradecký kraj"
 location:
   lat: 50.631757
   lon: 15.907881
   elevation: 637
-state: neznamy
+state: zničeny
 description: Objekt československého opevnění Základová deska bunkru T-St-74. Základní záznam — čeká na doplnění dat.
 sources:
   - title: OpenStreetMap
