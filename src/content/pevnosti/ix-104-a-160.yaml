@@ -13,8 +13,5 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/node/3371723378
   type: web
-- title: ropiky.net (ID 1075727067)
-  url: https://ropiky.net/dbase_objekt.php?id=1075727067
-  type: web
 wikidata_id: Q113496851
 updated: '2026-04-22'

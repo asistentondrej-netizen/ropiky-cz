@@ -13,9 +13,6 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/way/166468439
   type: web
-- title: ropiky.net (ID 1075718790)
-  url: https://ropiky.net/dbase_objekt.php?id=1075718790
-  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bunkr_Doksy_01.jpg/1920px-Bunkr_Doksy_01.jpg
   alt: A-4/17/A-180

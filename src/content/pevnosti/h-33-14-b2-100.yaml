@@ -13,9 +13,6 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/way/154523137
   type: web
-- title: ropiky.net (ID 1075720241)
-  url: https://ropiky.net/dbase_objekt.php?id=1075720241
-  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%C5%98OP_14%2C_Prachatice_01.jpg/1920px-%C5%98OP_14%2C_Prachatice_01.jpg
   alt: H-33/14/B2-100

@@ -2,7 +2,7 @@ title: Řopík 4/113/1 — rakouská hranice
 code: 4/113/1
 type: lo-vz-37
 line: Mikulovsko — Novosedelsko
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.80528
   lon: 16.6165
@@ -10,25 +10,32 @@ location:
   address: Pole jižně od Novosedel, přímo na předválečné čáře hranice s Rakouskem
 built: '1938'
 state: pristupny
-description: LO vz. 37 typ A-160, součást úsek 4 — Mikulovsko / Drnholec na jižní Moravě. Objekt stojí v polích jižně od Novosedel — přímo na předválečné čáře hranice s Rakouskem. Dohledatelné v databázi ropiky.net (ID 1075718463) a v OSM.
-history: |
-  Betonován v roce 1938 jako součást jižní linie lehkého opevnění vz. 37 — úsek 4 — Mikulovsko / Drnholec. Dva kulomety ZB vz. 26, směrové střílny. Zesílený typ A-160 s 80cm čelní stěnou — standardní hlavní typ v linii. Čelní stěna 80 cm, III. třída odolnosti.
+description: LO vz. 37 typ A-160, součást úsek 4 — Mikulovsko / Drnholec na jižní Moravě. Objekt stojí v polích jižně od Novosedel — přímo na předválečné čáře hranice s Rakouskem. Dohledatelné v OSM.
+history: 'Betonován v roce 1938 jako součást jižní linie lehkého opevnění vz. 37 — úsek 4 — Mikulovsko / Drnholec. Dva kulomety ZB vz. 26, směrové střílny. Zesílený typ A-160 s 80cm čelní stěnou — standardní hlavní typ v linii. Čelní stěna 80 cm, III. třída odolnosti.
+
 
   V září 1938 zařazen do obranného plánu proti hrozbě útoku z rakouského území (po Anschlussu v březnu 1938). Během všeobecné mobilizace 23.–30. září 1938 obsazen pohotovostní jednotkou se základní výzbrojí.
 
+
   Po Mnichovské dohodě a záboru pohraničí opuštěn a předán Wehrmachtu. Němci využili část linie k testům protipevnostní munice; v letech 1939–40 odvezeny kovové prvky (dveře, mříže). Po válce objekt zůstal v krajině bez systematické péče.
-visit: |
-  **Přístup:** volně přístupný, 24/7.
+
+  '
+visit: '**Přístup:** volně přístupný, 24/7.
+
 
   **Lokace:** Objekt stojí v polích jižně od Novosedel — přímo na předválečné čáře hranice s Rakouskem. Pěšky z centra Novosedel po polní cestě na jih (15 min).
 
+
   **Co uvidíte:** LO vz. 37 typ A-160, dvě boční střílny. Interiér pravděpodobně neprůchodný (vchod zabetonovaný nebo zborcený).
+
 
   **Doporučená délka:** 15–20 minut u objektu; jako součást většího výletu po linii 2–4 hodiny.
 
+
   **Doporučeno kombinovat s:** celnicí Dobré Pole–Drasenhofen, Pavlovskými vrchy, vinicemi.
+
+  '
 photos: []
 sources:
-  - OpenStreetMap — military=bunker (OSM node)
-  - 'ropiky.net — ID 1075718463: https://ropiky.net/dbase_objekt.php?id=1075718463'
+- OpenStreetMap — military=bunker (OSM node)
 updated: '2026-04-19'

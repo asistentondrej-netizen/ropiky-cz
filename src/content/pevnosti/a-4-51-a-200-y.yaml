@@ -13,9 +13,6 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/way/440913013
   type: web
-- title: ropiky.net (ID 1075718829)
-  url: https://ropiky.net/dbase_objekt.php?id=1075718829
-  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
   alt: A-4/51/A-200 Y

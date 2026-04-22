@@ -13,9 +13,6 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/node/3372076432
   type: web
-- title: ropiky.net (ID 1105625308)
-  url: https://ropiky.net/dbase_objekt.php?id=1105625308
-  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hnanice_%28Gnadlersdorf%29_-_LO_vz._37.JPG/1920px-Hnanice_%28Gnadlersdorf%29_-_LO_vz._37.JPG
   alt: 7/II/102/A-140 Z

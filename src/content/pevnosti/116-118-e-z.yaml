@@ -13,9 +13,6 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/node/3371816479
   type: web
-- title: ropiky.net (ID 1075720521)
-  url: https://ropiky.net/dbase_objekt.php?id=1075720521
-  type: web
 wikidata_id: Q113459772
 commons_category: 116/118/EZ light pillbox
 updated: '2026-04-22'

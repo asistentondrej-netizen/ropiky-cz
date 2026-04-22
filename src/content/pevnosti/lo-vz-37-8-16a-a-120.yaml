@@ -2,7 +2,7 @@ title: Řopík 8/16a/A-120 — NPR Soutok východ
 code: 8/16a/A-120
 type: lo-vz-37
 line: Břeclavsko — Lanžhot / Boří les
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.727657
   lon: 16.89301
@@ -10,25 +10,32 @@ location:
   address: NPR Soutok blízko slovensko-moravské hranice (řeka Morava)
 built: '1938'
 state: pristupny
-description: LO vz. 37 typ A-120, součást úsek 8 — Boří les / Lanžhot na jižní Moravě. Objekt leží v NPR Soutok, blízko slovensko-moravské hranice (řeka Morava), v oblasti nejsilněji opevněné části Valticka. Dohledatelné v databázi ropiky.net (ID 1075726686) a v OSM.
-history: |
-  Betonován v roce 1938 jako součást jižní linie lehkého opevnění vz. 37 — úsek 8 — Boří les / Lanžhot. Dva kulomety ZB vz. 26 v bočním postavení (kosá palba). Čelní stěna 60 cm, II. třída odolnosti.
+description: LO vz. 37 typ A-120, součást úsek 8 — Boří les / Lanžhot na jižní Moravě. Objekt leží v NPR Soutok, blízko slovensko-moravské hranice (řeka Morava), v oblasti nejsilněji opevněné části Valticka. Dohledatelné v OSM.
+history: 'Betonován v roce 1938 jako součást jižní linie lehkého opevnění vz. 37 — úsek 8 — Boří les / Lanžhot. Dva kulomety ZB vz. 26 v bočním postavení (kosá palba). Čelní stěna 60 cm, II. třída odolnosti.
+
 
   V září 1938 zařazen do obranného plánu proti hrozbě útoku z rakouského území (po Anschlussu v březnu 1938). Během všeobecné mobilizace 23.–30. září 1938 obsazen pohotovostní jednotkou se základní výzbrojí.
 
+
   Po Mnichovské dohodě a záboru pohraničí opuštěn a předán Wehrmachtu. Němci využili část linie k testům protipevnostní munice; v letech 1939–40 odvezeny kovové prvky (dveře, mříže). Po válce objekt zůstal v krajině bez systematické péče.
-visit: |
-  **Přístup:** volně přístupný, 24/7.
+
+  '
+visit: '**Přístup:** volně přístupný, 24/7.
+
 
   **Lokace:** Objekt leží v NPR Soutok, blízko slovensko-moravské hranice (řeka Morava), v oblasti nejsilněji opevněné části Valticka. Autem do Lanžhota, dále 4 km po lesní cestě do NPR (omezený motorový provoz).
 
+
   **Co uvidíte:** LO vz. 37 typ A-120, dvě boční střílny pro těžký kulomet. Interiér pravděpodobně neprůchodný (vchod zabetonovaný nebo zborcený).
+
 
   **Doporučená délka:** 15–20 minut u objektu; jako součást většího výletu po linii 2–4 hodiny.
 
+
   **Doporučeno kombinovat s:** soutokem Dyje a Moravy, slovenskou stranou hranice, cyklotrasou Jantarová stezka.
+
+  '
 photos: []
 sources:
-  - OpenStreetMap — military=bunker (OSM node)
-  - 'ropiky.net — ID 1075726686: https://ropiky.net/dbase_objekt.php?id=1075726686'
+- OpenStreetMap — military=bunker (OSM node)
 updated: '2026-04-19'

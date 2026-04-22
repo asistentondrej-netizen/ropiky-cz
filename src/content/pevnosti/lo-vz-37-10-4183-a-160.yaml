@@ -2,7 +2,7 @@ title: Řopík 10/4183/A-160 — jižní linie
 code: 10/4183/A-160
 type: lo-vz-37
 line: Mikulovsko — Pavlovské vrchy
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.72615
   lon: 16.864295
@@ -10,25 +10,32 @@ location:
   address: Pole mezi Sedlcem u Mikulova a předválečnou rakouskou hranicí
 built: '1938'
 state: pristupny
-description: LO vz. 37 typ A-160, součást úsek 10 — Pálava / Mikulov na jižní Moravě. Objekt leží mezi Sedlcem u Mikulova a rakouskou hranicí, na jižní linii opevnění nad rybníkem Nesyt. Dohledatelné v databázi ropiky.net (ID 1158565002) a v OSM.
-history: |
-  Betonován v roce 1938 jako součást jižní linie lehkého opevnění vz. 37 — úsek 10 — Pálava / Mikulov. Dva kulomety ZB vz. 26, směrové střílny. Zesílený typ A-160 s 80cm čelní stěnou — standardní hlavní typ v linii. Čelní stěna 80 cm, III. třída odolnosti.
+description: LO vz. 37 typ A-160, součást úsek 10 — Pálava / Mikulov na jižní Moravě. Objekt leží mezi Sedlcem u Mikulova a rakouskou hranicí, na jižní linii opevnění nad rybníkem Nesyt. Dohledatelné v OSM.
+history: 'Betonován v roce 1938 jako součást jižní linie lehkého opevnění vz. 37 — úsek 10 — Pálava / Mikulov. Dva kulomety ZB vz. 26, směrové střílny. Zesílený typ A-160 s 80cm čelní stěnou — standardní hlavní typ v linii. Čelní stěna 80 cm, III. třída odolnosti.
+
 
   V září 1938 zařazen do obranného plánu proti hrozbě útoku z rakouského území (po Anschlussu v březnu 1938). Během všeobecné mobilizace 23.–30. září 1938 obsazen pohotovostní jednotkou se základní výzbrojí.
 
+
   Po Mnichovské dohodě a záboru pohraničí opuštěn a předán Wehrmachtu. Němci využili část linie k testům protipevnostní munice; v letech 1939–40 odvezeny kovové prvky (dveře, mříže). Po válce objekt zůstal v krajině bez systematické péče.
-visit: |
-  **Přístup:** volně přístupný, 24/7.
+
+  '
+visit: '**Přístup:** volně přístupný, 24/7.
+
 
   **Lokace:** Objekt leží mezi Sedlcem u Mikulova a rakouskou hranicí, na jižní linii opevnění nad rybníkem Nesyt. Autem do Sedlce (5 km od Mikulova), dále polní cestou ke státní hranici cca 1 km.
 
+
   **Co uvidíte:** LO vz. 37 typ A-160, dvě boční střílny. Interiér pravděpodobně neprůchodný (vchod zabetonovaný nebo zborcený).
+
 
   **Doporučená délka:** 15–20 minut u objektu; jako součást většího výletu po linii 2–4 hodiny.
 
+
   **Doporučeno kombinovat s:** rybníkem Nesyt (NPR), obcí Sedlec, vinicemi Valtického podhůří.
+
+  '
 photos: []
 sources:
-  - OpenStreetMap — military=bunker (OSM node)
-  - 'ropiky.net — ID 1158565002: https://ropiky.net/dbase_objekt.php?id=1158565002'
+- OpenStreetMap — military=bunker (OSM node)
 updated: '2026-04-19'

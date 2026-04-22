@@ -13,8 +13,5 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/way/250115173
   type: web
-- title: ropiky.net (ID 1075728885)
-  url: https://ropiky.net/dbase_objekt.php?id=1075728885
-  type: web
 updated: '2026-04-22'
 alt_name: LII/201/A-140

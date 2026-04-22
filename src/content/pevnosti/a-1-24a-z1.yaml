@@ -13,9 +13,6 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/way/225639147
   type: web
-- title: ropiky.net (ID 1075718557)
-  url: https://ropiky.net/dbase_objekt.php?id=1075718557
-  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sazen%C3%A1%2C_k%C5%99i%C5%BEovatka.jpg/1920px-Sazen%C3%A1%2C_k%C5%99i%C5%BEovatka.jpg
   alt: A-1/24a/Z1

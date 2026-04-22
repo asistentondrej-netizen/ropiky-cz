@@ -13,9 +13,6 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/node/3371723409
   type: web
-- title: ropiky.net (ID 1075727104)
-  url: https://ropiky.net/dbase_objekt.php?id=1075727104
-  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C5%98OP_136%2C_Kol%C5%A1tejn_01.jpg/1920px-%C5%98OP_136%2C_Kol%C5%A1tejn_01.jpg
   alt: IX/143/A-120 Z

@@ -2,7 +2,7 @@ title: Řopík 10/3119/D1 — Sirotčí hrádek
 code: 10/3119/D1
 type: lo-vz-37
 line: Mikulovsko — Pavlovské vrchy
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.81418
   lon: 16.55402
@@ -10,25 +10,32 @@ location:
   address: Jižní svah CHKO Pálava, pod zříceninou Sirotčí hrádek
 built: '1938'
 state: pristupny
-description: LO vz. 37 typ D1 — protitankový řopík, součást úsek 10 — Pálava / Mikulov na jižní Moravě. Objekt leží pod jižním svahem CHKO Pálava v dohledu zříceniny Sirotčí hrádek — jednoho z pěti středověkých hradů pálavského hřebene. Dohledatelné v databázi ropiky.net (ID 1105625336) a v OSM.
-history: |
-  Betonován v roce 1938 jako součást jižní linie lehkého opevnění vz. 37 — úsek 10 — Pálava / Mikulov. 4cm pevnostní protitankový kanón vz. 36 místo kulometu. Typ D je vzácná protitanková varianta LO vz. 37 — v linii jen několik desítek kusů. Čelní stěna 80 cm, III. třída odolnosti.
+description: LO vz. 37 typ D1 — protitankový řopík, součást úsek 10 — Pálava / Mikulov na jižní Moravě. Objekt leží pod jižním svahem CHKO Pálava v dohledu zříceniny Sirotčí hrádek — jednoho z pěti středověkých hradů pálavského hřebene. Dohledatelné v OSM.
+history: 'Betonován v roce 1938 jako součást jižní linie lehkého opevnění vz. 37 — úsek 10 — Pálava / Mikulov. 4cm pevnostní protitankový kanón vz. 36 místo kulometu. Typ D je vzácná protitanková varianta LO vz. 37 — v linii jen několik desítek kusů. Čelní stěna 80 cm, III. třída odolnosti.
+
 
   V září 1938 zařazen do obranného plánu proti hrozbě útoku z rakouského území (po Anschlussu v březnu 1938). Během všeobecné mobilizace 23.–30. září 1938 obsazen pohotovostní jednotkou se základní výzbrojí.
 
+
   Po Mnichovské dohodě a záboru pohraničí opuštěn a předán Wehrmachtu. Němci využili část linie k testům protipevnostní munice; v letech 1939–40 odvezeny kovové prvky (dveře, mříže). Po válce objekt zůstal v krajině bez systematické péče.
-visit: |
-  **Přístup:** volně přístupný, 24/7.
+
+  '
+visit: '**Přístup:** volně přístupný, 24/7.
+
 
   **Lokace:** Objekt leží pod jižním svahem CHKO Pálava v dohledu zříceniny Sirotčí hrádek — jednoho z pěti středověkých hradů pálavského hřebene. Pěšky z Klentnice (2 km) nebo autem do Bavor, dále polní cestou.
 
+
   **Co uvidíte:** LO vz. 37 typ D1 — protitankový řopík, jediná centrální střílna pro 4cm kanón. Interiér pravděpodobně neprůchodný (vchod zabetonovaný nebo zborcený).
+
 
   **Doporučená délka:** 15–20 minut u objektu; jako součást většího výletu po linii 2–4 hodiny.
 
+
   **Doporučeno kombinovat s:** vycházkou na Sirotčí hrádek a hlavní hřebenovkou CHKO Pálava.
+
+  '
 photos: []
 sources:
-  - OpenStreetMap — military=bunker (OSM node)
-  - 'ropiky.net — ID 1105625336: https://ropiky.net/dbase_objekt.php?id=1105625336'
+- OpenStreetMap — military=bunker (OSM node)
 updated: '2026-04-19'

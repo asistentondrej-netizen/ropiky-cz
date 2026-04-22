@@ -13,9 +13,6 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/way/363881713
   type: web
-- title: ropiky.net (ID 1075720525)
-  url: https://ropiky.net/dbase_objekt.php?id=1075720525
-  type: web
 wikidata_id: Q113459891
 commons_category: 116/122/A-180 Z light pillbox
 updated: '2026-04-22'

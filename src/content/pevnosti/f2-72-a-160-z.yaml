@@ -13,9 +13,6 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/node/3371584193
   type: web
-- title: ropiky.net (ID 1075723699)
-  url: https://ropiky.net/dbase_objekt.php?id=1075723699
-  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Objekt_F2-72-A-160Z_01.jpg/1920px-Objekt_F2-72-A-160Z_01.jpg
   alt: F2/72/A-160 Z
