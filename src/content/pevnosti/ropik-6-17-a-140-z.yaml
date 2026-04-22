@@ -2,11 +2,10 @@ title: "Řopík 6/17/A-140 Z (Mikulovsko)"
 code: "6/17/A-140 Z"
 type: lo-vz-37
 line: 'Jižní Morava — Mikulovsko'
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.7914
   lon: 16.65618
-  elevation: 195
 built: "1938"
 state: neznamy
 description: "Lehký objekt vz. 37 („řopík“), typ A-140 Z — oboustranný kulometný (čelní úhel 140°, zesílený (II. stupeň odolnosti)). Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
@@ -18,7 +17,14 @@ photos:
     license: CC BY-SA 4.0
     category: exterier
     featured: true
+  - url: /img/forts/ropik-6-17-a-140-z-02.jpg
+    alt: "Čelní pohled na řopík 6/17/A-140 Z — centrální kulometná střílna s hlubokým vnitřním tunelem, beton pokrytý lišejníky a zbytky vápenného maskovacího nátěru, v pozadí zorané pole"
+    caption: "Řopík z boku, únor 2020."
+    author: "Ondřej"
+    license: CC BY-SA 4.0
+    category: exterier
+    featured: false
 sources:
   - OpenStreetMap
   - ropiky.net — Mikulovsko
-updated: '2026-04-21'
+updated: '2026-04-22'
