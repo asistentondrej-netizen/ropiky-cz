@@ -1,14 +1,14 @@
-title: Dělostřelecká tvrz Stachelberg (srub T-S 73)
-code: Dělostřelecká tvrz Stachelberg (srub T-S
+title: T-S 73 „Polom" (tvrz Stachelberg)
+code: T-S 73
 type: pechotni-srub
-line: Neurčeno
+line: Trutnov — Střelec
 region: "Královéhradecký kraj"
 location:
   lat: 50.630581
   lon: 15.911907
   elevation: 636
-state: neznamy
-description: "Pěchotní srub Dělostřelecká tvrz Stachelberg (srub T-S. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: muzeum
+description: 'Pěchotní srub T-S 73 „Polom" je jediný dokončený izolovaný srub tvrze Stachelberg u Babí na Trutnovsku. Dnes přístupný jako součást pevnostního muzea Stachelberg.'
 sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/way/60456356
