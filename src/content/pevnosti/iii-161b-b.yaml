@@ -2,15 +2,18 @@ title: III/161b/B -
 code: III/161b/B -
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.652583
   lon: 15.943545
   elevation: 507
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" III/161b/B -. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" III/161b/B -. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371652824
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371652824
+  type: web
+- title: ropiky.net (ID 1075717869)
+  url: https://ropiky.net/dbase_objekt.php?id=1075717869
+  type: web
+updated: '2026-04-22'

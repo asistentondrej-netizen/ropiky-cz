@@ -2,15 +2,18 @@ title: G3/254/A-120
 code: G3/254/A-120
 type: lo-vz-37
 line: G3
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.632773
-  lon: 15.890180
+  lon: 15.89018
   elevation: 739
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" G3/254/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" G3/254/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584367
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584367
+  type: web
+- title: ropiky.net (ID 1075723988)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723988
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: M2/14/A-160
 code: M2/14/A-160
 type: lo-vz-37
 line: M2
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
-  lat: 50.829460
-  lon: 14.620980
+  lat: 50.82946
+  lon: 14.62098
   elevation: 542
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" M2/14/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" M2/14/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/280241857
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/280241857
+  type: web
+- title: ropiky.net (ID 1075725267)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725267
+  type: web
+updated: '2026-04-22'

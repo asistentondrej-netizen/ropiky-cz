@@ -2,15 +2,18 @@ title: IV/927/A-180 Z
 code: IV/927/A-180 Z
 type: lo-vz-37
 line: IV
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 49.958152
   lon: 17.770311
   elevation: 370
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" IV/927/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" IV/927/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/982164662
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/982164662
+  type: web
+- title: ropiky.net (ID 1075726854)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726854
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: XXI/548/A-140
 code: XXI/548/A-140
 type: lo-vz-37
 line: XXI
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 50.101920
-  lon: 17.441150
+  lat: 50.10192
+  lon: 17.44115
   elevation: 557
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XXI/548/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XXI/548/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724363
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724363
+  type: web
+- title: ropiky.net (ID 1288991229)
+  url: https://ropiky.net/dbase_objekt.php?id=1288991229
+  type: web
+updated: '2026-04-22'

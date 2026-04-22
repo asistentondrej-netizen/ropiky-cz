@@ -2,15 +2,15 @@ title: SNP 1944
 code: SNP 1944
 type: lo-vz-36
 line: Neurčeno
-region: "Žilinský kraj"
+region: Žilinský kraj
 location:
   lat: 49.017497
   lon: 19.284525
   elevation: 575
-state: neznamy
+state: rozpadly
 description: Lehký objekt vz. 36 SNP 1944. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/9395570301
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/9395570301
+  type: web
+updated: '2026-04-22'

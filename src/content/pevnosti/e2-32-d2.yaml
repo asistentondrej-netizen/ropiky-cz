@@ -2,15 +2,18 @@ title: E2/32/D2
 code: E2/32/D2
 type: lo-vz-36
 line: E2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.433652
-  lon: 16.178040
+  lon: 16.17804
   elevation: 420
 state: neznamy
 description: Lehký objekt vz. 36 E2/32/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651662
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651662
+  type: web
+- title: ropiky.net (ID 1075723612)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723612
+  type: web
+updated: '2026-04-22'

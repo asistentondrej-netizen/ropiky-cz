@@ -2,15 +2,18 @@ title: 172/3/A-220 Z
 code: 172/3/A-220 Z
 type: lo-vz-37
 line: Neurčeno
-region: "Plzeňský kraj"
+region: Plzeňský kraj
 location:
   lat: 49.694335
   lon: 12.975045
   elevation: 445
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 172/3/A-220 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 172/3/A-220 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371969968
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371969968
+  type: web
+- title: ropiky.net (ID 1075721440)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721440
+  type: web
+updated: '2026-04-22'

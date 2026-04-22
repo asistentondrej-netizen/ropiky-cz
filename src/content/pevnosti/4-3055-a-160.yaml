@@ -1,16 +1,19 @@
-title: "4/3055/A-160"
-code: "4/3055/A-160"
+title: 4/3055/A-160
+code: 4/3055/A-160
 type: lo-vz-37
-line: "4"
-region: "Jihomoravský kraj"
+line: '4'
+region: Jihomoravský kraj
 location:
   lat: 48.835956
   lon: 16.529252
   elevation: 192
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 4/3055/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 4/3055/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/504237427
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/504237427
+  type: web
+- title: ropiky.net (ID 1075726468)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726468
+  type: web
+updated: '2026-04-22'

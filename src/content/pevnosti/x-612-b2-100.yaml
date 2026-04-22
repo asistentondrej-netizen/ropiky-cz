@@ -2,15 +2,18 @@ title: X/612/B2-100
 code: X/612/B2-100
 type: lo-vz-37
 line: X
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 50.035160
-  lon: 17.513300
+  lat: 50.03516
+  lon: 17.5133
   elevation: 442
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" X/612/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" X/612/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723924
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723924
+  type: web
+- title: ropiky.net (ID 1075727152)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727152
+  type: web
+updated: '2026-04-22'

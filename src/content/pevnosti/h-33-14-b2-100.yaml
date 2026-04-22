@@ -2,33 +2,37 @@ title: H-33/14/B2-100
 code: H-33/14/B2-100
 type: lo-vz-37
 line: H-33
-region: "Jihočeský kraj"
+region: Jihočeský kraj
 location:
   lat: 48.986816
   lon: 14.030453
   elevation: 655
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" H-33/14/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" H-33/14/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/154523137
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/154523137
+  type: web
+- title: ropiky.net (ID 1075720241)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720241
+  type: web
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%C5%98OP_14%2C_Prachatice_01.jpg/1920px-%C5%98OP_14%2C_Prachatice_01.jpg"
-    alt: "H-33/14/B2-100"
-    author: "MIGORMCZ"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_14,_Prachatice_01.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%C5%98OP_14%2C_Prachatice_02.jpg/1920px-%C5%98OP_14%2C_Prachatice_02.jpg"
-    alt: "H-33/14/B2-100"
-    author: "MIGORMCZ"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_14,_Prachatice_02.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%C5%98OP_14%2C_Prachatice_03.jpg/1920px-%C5%98OP_14%2C_Prachatice_03.jpg"
-    alt: "H-33/14/B2-100"
-    author: "MIGORMCZ"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_14,_Prachatice_03.jpg"
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%C5%98OP_14%2C_Prachatice_01.jpg/1920px-%C5%98OP_14%2C_Prachatice_01.jpg
+  alt: H-33/14/B2-100
+  author: MIGORMCZ
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98OP_14,_Prachatice_01.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%C5%98OP_14%2C_Prachatice_02.jpg/1920px-%C5%98OP_14%2C_Prachatice_02.jpg
+  alt: H-33/14/B2-100
+  author: MIGORMCZ
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98OP_14,_Prachatice_02.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%C5%98OP_14%2C_Prachatice_03.jpg/1920px-%C5%98OP_14%2C_Prachatice_03.jpg
+  alt: H-33/14/B2-100
+  author: MIGORMCZ
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98OP_14,_Prachatice_03.jpg
 wikidata_id: Q62027289
 commons_category: H-33/14/B2-100 light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'
+built: '1937-11-30'

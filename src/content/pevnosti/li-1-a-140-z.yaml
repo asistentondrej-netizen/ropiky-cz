@@ -2,15 +2,18 @@ title: LI/1/A-140 Z
 code: LI/1/A-140 Z
 type: lo-vz-37
 line: LI
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.604022
   lon: 16.946195
   elevation: 160
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" LI/1/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: zachovaly
+description: Lehký objekt vz. 37 „řopík" LI/1/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372074888
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372074888
+  type: web
+- title: ropiky.net (ID 1075728872)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728872
+  type: web
+updated: '2026-04-22'

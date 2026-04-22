@@ -2,42 +2,35 @@ title: T-S 20 „Na pláni"
 code: T-S 20
 type: pechotni-srub
 line: Trutnov
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.50786389
   lon: 16.12513611
   elevation: 577
 built: '1937'
 state: muzeum
-description: Pěchotní srub „Na pláni" nad Hronovem — odolnost III. Součást naučné
-  stezky Pevnost Hronov, exteriér volně přístupný, interiér uzavřen.
+description: Pěchotní srub „Na pláni" nad Hronovem — odolnost III. Součást naučné stezky Pevnost Hronov, exteriér volně přístupný, interiér uzavřen.
 sources:
 - Wikimedia Commons
 wikidata_id: Q62657243
 commons_category: T-S 20 Na pláni casemate
-updated: '2026-04-18'
-visit: 'Volně přístupný pěchotní srub „Na pláni" v Broumovském výběžku — součást nedokončené
-  teplické linie ŘOP. Atypická poloha uprostřed polních „pláních" Broumovska.
+updated: '2026-04-22'
+visit: 'Volně přístupný pěchotní srub „Na pláni" v Broumovském výběžku — součást nedokončené teplické linie ŘOP. Atypická poloha uprostřed polních „pláních" Broumovska.
 
 
   **Přístup:** celoročně volně, 24/7.
 
 
-  **Co uvidíte:** pěchotní srub II. odolnosti v otevřené krajině — palebné otvory,
-  pozorovací zvony, v dohledu Broumovské stěny a Ostaš. Objekt je nezrekonstruovaný,
-  autentický.
+  **Co uvidíte:** pěchotní srub II. odolnosti v otevřené krajině — palebné otvory, pozorovací zvony, v dohledu Broumovské stěny a Ostaš. Objekt je nezrekonstruovaný, autentický.
 
 
   **Doporučená délka:** 20 minut + procházka (hodiny).
 
 
-  **Dostupnost:** Autem z Broumova nebo Teplic nad Metují (5 km podle objektu) + polní
-  cesta. Pěšky po turistickém značení Broumovska.
+  **Dostupnost:** Autem z Broumova nebo Teplic nad Metují (5 km podle objektu) + polní cesta. Pěšky po turistickém značení Broumovska.
 
 
-  **Doporučeno kombinovat s:** T-S 19 Turov (muzeum, 8 km), T-S 73 Polom (10 km, volně
-  přístupný), Broumovským klášterem, Adršpašskými skálami, Ostašem. Celodenní výlet
-  po Broumovsku s fortifikacemi.'
+  **Doporučeno kombinovat s:** T-S 19 Turov (muzeum, 8 km), T-S 73 Polom (10 km, volně přístupný), Broumovským klášterem, Adršpašskými skálami, Ostašem. Celodenní výlet po Broumovsku s fortifikacemi.'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Interior_of_T-S_20_Pl%C3%A1%C5%88_in_St%C3%A1rkov%2C_N%C3%A1chod_District.jpg/1920px-Interior_of_T-S_20_Pl%C3%A1%C5%88_in_St%C3%A1rkov%2C_N%C3%A1chod_District.jpg
   alt: Pěchotní srub T-S 20
@@ -54,3 +47,6 @@ photos:
   author: Jiří Sedláček
   license: CC BY-SA 4.0
   source: https://commons.wikimedia.org/wiki/File:Overview_of_T-S_20_Pl%C3%A1%C5%88_in_St%C3%A1rkov,_N%C3%A1chod_District.jpg
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

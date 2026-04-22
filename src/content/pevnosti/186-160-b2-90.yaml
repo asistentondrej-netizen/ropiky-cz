@@ -1,16 +1,19 @@
-title: "186/160/B2-90"
-code: "186/160/B2-90"
+title: 186/160/B2-90
+code: 186/160/B2-90
 type: lo-vz-37
 line: Neurčeno
-region: "Jihočeský kraj"
+region: Jihočeský kraj
 location:
   lat: 49.028318
   lon: 15.194566
   elevation: 701
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 186/160/B2-90. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: zachovaly
+description: Lehký objekt vz. 37 „řopík" 186/160/B2-90. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/231325742
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/231325742
+  type: web
+- title: ropiky.net (ID 1075722442)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722442
+  type: web
+updated: '2026-04-22'

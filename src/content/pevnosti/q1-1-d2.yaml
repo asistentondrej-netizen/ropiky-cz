@@ -2,15 +2,18 @@ title: Q1/1/D2
 code: Q1/1/D2
 type: lo-vz-36
 line: Q1
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.526923
-  lon: 14.548990
+  lon: 14.54899
   elevation: 261
 state: neznamy
 description: Lehký objekt vz. 36 Q1/1/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371455327
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371455327
+  type: web
+- title: ropiky.net (ID 1075725845)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725845
+  type: web
+updated: '2026-04-22'

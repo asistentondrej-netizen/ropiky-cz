@@ -2,33 +2,37 @@ title: A-4/17/A-180
 code: A-4/17/A-180
 type: lo-vz-37
 line: A-4
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.117757
-  lon: 14.038210
+  lon: 14.03821
   elevation: 386
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" A-4/17/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" A-4/17/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/166468439
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/166468439
+  type: web
+- title: ropiky.net (ID 1075718790)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718790
+  type: web
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bunkr_Doksy_01.jpg/1920px-Bunkr_Doksy_01.jpg"
-    alt: "A-4/17/A-180"
-    author: "Zelenymuzik"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:Bunkr_Doksy_01.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bunkr_Doksy_02.jpg/1920px-Bunkr_Doksy_02.jpg"
-    alt: "A-4/17/A-180"
-    author: "Zelenymuzik"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:Bunkr_Doksy_02.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bunkr_Doksy_03.jpg/1920px-Bunkr_Doksy_03.jpg"
-    alt: "A-4/17/A-180"
-    author: "Zelenymuzik"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:Bunkr_Doksy_03.jpg"
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bunkr_Doksy_01.jpg/1920px-Bunkr_Doksy_01.jpg
+  alt: A-4/17/A-180
+  author: Zelenymuzik
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Bunkr_Doksy_01.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bunkr_Doksy_02.jpg/1920px-Bunkr_Doksy_02.jpg
+  alt: A-4/17/A-180
+  author: Zelenymuzik
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Bunkr_Doksy_02.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bunkr_Doksy_03.jpg/1920px-Bunkr_Doksy_03.jpg
+  alt: A-4/17/A-180
+  author: Zelenymuzik
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Bunkr_Doksy_03.jpg
 wikidata_id: Q122958218
 commons_category: A-4/17/A-180 light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'
+built: '1937-11-13'

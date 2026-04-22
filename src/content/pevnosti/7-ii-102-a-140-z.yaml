@@ -2,23 +2,26 @@ title: 7/II/102/A-140 Z
 code: 7/II/102/A-140 Z
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.799536
   lon: 15.994075
   elevation: 270
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 7/II/102/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 7/II/102/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076432
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076432
+  type: web
+- title: ropiky.net (ID 1105625308)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625308
+  type: web
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hnanice_%28Gnadlersdorf%29_-_LO_vz._37.JPG/1920px-Hnanice_%28Gnadlersdorf%29_-_LO_vz._37.JPG"
-    alt: "7/II/102/A-140 Z"
-    author: "Pudelek (Marcin Szala)"
-    license: "CC BY-SA 3.0"
-    source: "https://commons.wikimedia.org/wiki/File:Hnanice_(Gnadlersdorf)_-_LO_vz._37.JPG"
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hnanice_%28Gnadlersdorf%29_-_LO_vz._37.JPG/1920px-Hnanice_%28Gnadlersdorf%29_-_LO_vz._37.JPG
+  alt: 7/II/102/A-140 Z
+  author: Pudelek (Marcin Szala)
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Hnanice_(Gnadlersdorf)_-_LO_vz._37.JPG
 wikidata_id: Q110419675
 commons_category: 7-I/2109/A-140Z light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'

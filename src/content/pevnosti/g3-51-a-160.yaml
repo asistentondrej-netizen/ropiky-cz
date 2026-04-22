@@ -2,15 +2,18 @@ title: G3/51/A-160
 code: G3/51/A-160
 type: lo-vz-37
 line: G3
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.633012
-  lon: 15.900620
+  lon: 15.90062
   elevation: 651
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" G3/51/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: zachovaly
+description: Lehký objekt vz. 37 „řopík" G3/51/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/245857095
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/245857095
+  type: web
+- title: ropiky.net (ID 1075723958)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723958
+  type: web
+updated: '2026-04-22'

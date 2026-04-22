@@ -2,7 +2,7 @@ title: A/215/D2
 code: A/215/D2
 type: lo-vz-36
 line: A
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.131593
   lon: 16.573827
@@ -10,7 +10,10 @@ location:
 state: neznamy
 description: Lehký objekt vz. 36 A/215/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371582984
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371582984
+  type: web
+- title: ropiky.net (ID 1075723002)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723002
+  type: web
+updated: '2026-04-22'

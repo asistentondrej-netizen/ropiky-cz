@@ -2,15 +2,18 @@ title: D1b/56/A-140
 code: D1b/56/A-140
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.351133
   lon: 16.295653
   elevation: 718
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D1b/56/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" D1b/56/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/1360468833
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/1360468833
+  type: web
+- title: ropiky.net (ID 1075723458)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723458
+  type: web
+updated: '2026-04-22'

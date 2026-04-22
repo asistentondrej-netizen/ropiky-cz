@@ -1,16 +1,19 @@
-title: "7/II/34/A-120"
-code: "7/II/34/A-120"
+title: 7/II/34/A-120
+code: 7/II/34/A-120
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
-  lat: 48.830920
-  lon: 16.166370
+  lat: 48.83092
+  lon: 16.16637
   elevation: 198
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 7/II/34/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 7/II/34/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076448
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076448
+  type: web
+- title: ropiky.net (ID 1105625240)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625240
+  type: web
+updated: '2026-04-22'

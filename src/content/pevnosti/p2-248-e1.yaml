@@ -2,15 +2,18 @@ title: P2/248/E1
 code: P2/248/E1
 type: lo-vz-37
 line: Neurčeno
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.451343
   lon: 14.480013
   elevation: 269
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" P2/248/E1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" P2/248/E1. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371451055
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371451055
+  type: web
+- title: ropiky.net (ID 1075725785)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725785
+  type: web
+updated: '2026-04-22'

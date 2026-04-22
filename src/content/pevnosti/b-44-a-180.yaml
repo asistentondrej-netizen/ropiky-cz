@@ -2,15 +2,18 @@ title: B/44/A-180
 code: B/44/A-180
 type: lo-vz-37
 line: B
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.148615
-  lon: 16.544900
+  lon: 16.5449
   elevation: 658
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" B/44/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" B/44/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584034
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584034
+  type: web
+- title: ropiky.net (ID 1075723103)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723103
+  type: web
+updated: '2026-04-22'

@@ -1,8 +1,8 @@
-title: "15/7714/D2"
-code: "15/7714/D2"
+title: 15/7714/D2
+code: 15/7714/D2
 type: lo-vz-36
-line: "15"
-region: "Jihomoravský kraj"
+line: '15'
+region: Jihomoravský kraj
 location:
   lat: 48.990175
   lon: 16.436635
@@ -10,7 +10,10 @@ location:
 state: neznamy
 description: Lehký objekt vz. 36 15/7714/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/708292665
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/708292665
+  type: web
+- title: ropiky.net (ID 1105625407)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625407
+  type: web
+updated: '2026-04-22'

@@ -2,33 +2,35 @@ title: N-S 88 „Transformátor"
 code: N-S 88
 type: pechotni-srub
 line: Náchod
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.43086667
   lon: 16.18144167
   elevation: 413
 built: '1937'
 state: neznamy
-description: Pěchotní srub „Transformátor" — název podle přibližnosti trafostanice.
-  Odolnost II. Po válce odstřelován, zachováno torzo obvodových stěn.
+description: Pěchotní srub „Transformátor" — název podle přibližnosti trafostanice. Odolnost II. Po válce odstřelován, zachováno torzo obvodových stěn.
 sources:
 - Wikimedia Commons
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bab%C3%AD%2C_N%C3%A1chod_2017-05_10.jpg/1920px-Bab%C3%AD%2C_N%C3%A1chod_2017-05_10.jpg"
-    alt: "N-S 88 „Transformátor\""
-    author: "Miloslav Rejha"
-    license: "CC BY 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:Bab%C3%AD,_N%C3%A1chod_2017-05_10.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bab%C3%AD%2C_N%C3%A1chod_2017-05_09.jpg/1920px-Bab%C3%AD%2C_N%C3%A1chod_2017-05_09.jpg"
-    alt: "N-S 88 „Transformátor\""
-    author: "Miloslav Rejha"
-    license: "CC BY 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:Bab%C3%AD,_N%C3%A1chod_2017-05_09.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bab%C3%AD%2C_N%C3%A1chod_2017-05_11.jpg/1920px-Bab%C3%AD%2C_N%C3%A1chod_2017-05_11.jpg"
-    alt: "N-S 88 „Transformátor\""
-    author: "Miloslav Rejha"
-    license: "CC BY 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:Bab%C3%AD,_N%C3%A1chod_2017-05_11.jpg"
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bab%C3%AD%2C_N%C3%A1chod_2017-05_10.jpg/1920px-Bab%C3%AD%2C_N%C3%A1chod_2017-05_10.jpg
+  alt: N-S 88 „Transformátor"
+  author: Miloslav Rejha
+  license: CC BY 4.0
+  source: https://commons.wikimedia.org/wiki/File:Bab%C3%AD,_N%C3%A1chod_2017-05_10.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bab%C3%AD%2C_N%C3%A1chod_2017-05_09.jpg/1920px-Bab%C3%AD%2C_N%C3%A1chod_2017-05_09.jpg
+  alt: N-S 88 „Transformátor"
+  author: Miloslav Rejha
+  license: CC BY 4.0
+  source: https://commons.wikimedia.org/wiki/File:Bab%C3%AD,_N%C3%A1chod_2017-05_09.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bab%C3%AD%2C_N%C3%A1chod_2017-05_11.jpg/1920px-Bab%C3%AD%2C_N%C3%A1chod_2017-05_11.jpg
+  alt: N-S 88 „Transformátor"
+  author: Miloslav Rejha
+  license: CC BY 4.0
+  source: https://commons.wikimedia.org/wiki/File:Bab%C3%AD,_N%C3%A1chod_2017-05_11.jpg
 wikidata_id: Q62624294
 commons_category: N-S 88 Transformátor casemate
-updated: '2026-04-18'
+updated: '2026-04-22'
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

@@ -2,15 +2,18 @@ title: CH1/269/A-120
 code: CH1/269/A-120
 type: lo-vz-37
 line: CH1
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.755854
   lon: 15.408192
   elevation: 585
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" CH1/269/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" CH1/269/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371403965
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371403965
+  type: web
+- title: ropiky.net (ID 1075724461)
+  url: https://ropiky.net/dbase_objekt.php?id=1075724461
+  type: web
+updated: '2026-04-22'

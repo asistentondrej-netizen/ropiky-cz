@@ -2,15 +2,18 @@ title: D1b/42/D1
 code: D1b/42/D1
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.359440
-  lon: 16.284280
+  lat: 50.35944
+  lon: 16.28428
   elevation: 676
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D1b/42/D1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" D1b/42/D1. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651114
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651114
+  type: web
+- title: ropiky.net (ID 1075723444)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723444
+  type: web
+updated: '2026-04-22'

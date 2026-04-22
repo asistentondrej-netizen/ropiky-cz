@@ -2,15 +2,18 @@ title: N1/233/A-160
 code: N1/233/A-160
 type: lo-vz-37
 line: N1
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.833091
   lon: 14.494802
   elevation: 558
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" N1/233/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" N1/233/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/698048330
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/698048330
+  type: web
+- title: ropiky.net (ID 1075725413)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725413
+  type: web
+updated: '2026-04-22'

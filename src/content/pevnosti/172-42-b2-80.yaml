@@ -1,16 +1,19 @@
-title: "172/42/B2-80"
-code: "172/42/B2-80"
+title: 172/42/B2-80
+code: 172/42/B2-80
 type: lo-vz-37
-line: "172"
-region: "Karlovarský kraj"
+line: '172'
+region: Karlovarský kraj
 location:
-  lat: 49.711360
-  lon: 13.000980
+  lat: 49.71136
+  lon: 13.00098
   elevation: 423
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 172/42/B2-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 172/42/B2-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/207323707
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/207323707
+  type: web
+- title: ropiky.net (ID 1075721479)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721479
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: XI./163/A -
 code: XI./163/A -
 type: lo-vz-37
 line: Neurčeno
-region: "Ústecký kraj"
+region: Ústecký kraj
 location:
-  lat: 50.609590
+  lat: 50.60959
   lon: 13.881438
   elevation: 192
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XI./163/A -. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XI./163/A -. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/779436732
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/779436732
+  type: web
+- title: ropiky.net (ID 1096630289)
+  url: https://ropiky.net/dbase_objekt.php?id=1096630289
+  type: web
+updated: '2026-04-22'

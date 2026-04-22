@@ -2,15 +2,18 @@ title: D-15/3/D2
 code: D-15/3/D2
 type: lo-vz-36
 line: D-15
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
-  lat: 50.257490
+  lat: 50.25749
   lon: 13.525696
   elevation: 266
 state: neznamy
 description: Lehký objekt vz. 36 D-15/3/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/320850881
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/320850881
+  type: web
+- title: ropiky.net (ID 1075719541)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719541
+  type: web
+updated: '2026-04-22'

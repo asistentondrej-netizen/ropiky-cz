@@ -1,16 +1,19 @@
 title: 9/1284/A-120 S
 code: 9/1284/A-120 S
 type: lo-vz-37
-line: "9"
-region: "Jihočeský kraj"
+line: '9'
+region: Jihočeský kraj
 location:
-  lat: 48.947410
+  lat: 48.94741
   lon: 15.507813
   elevation: 486
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 9/1284/A-120 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 9/1284/A-120 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372077000
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372077000
+  type: web
+- title: ropiky.net (ID 1075726695)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726695
+  type: web
+updated: '2026-04-22'

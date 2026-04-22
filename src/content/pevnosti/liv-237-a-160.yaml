@@ -2,15 +2,18 @@ title: LIV/237/A-160
 code: LIV/237/A-160
 type: lo-vz-37
 line: LIV
-region: "Bratislavský kraj"
+region: Bratislavský kraj
 location:
   lat: 48.379725
   lon: 16.916775
   elevation: 158
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" LIV/237/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" LIV/237/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075186
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075186
+  type: web
+- title: ropiky.net (ID 1271671280)
+  url: https://ropiky.net/dbase_objekt.php?id=1271671280
+  type: web
+updated: '2026-04-22'

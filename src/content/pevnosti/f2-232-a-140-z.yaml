@@ -2,15 +2,18 @@ title: F2/232/A-140 Z
 code: F2/232/A-140 Z
 type: lo-vz-37
 line: F2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.525775
   lon: 16.092215
   elevation: 569
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" F2/232/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" F2/232/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584134
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584134
+  type: web
+- title: ropiky.net (ID 1075723723)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723723
+  type: web
+updated: '2026-04-22'

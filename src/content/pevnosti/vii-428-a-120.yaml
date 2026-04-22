@@ -2,15 +2,18 @@ title: VII/428/A-120
 code: VII/428/A-120
 type: lo-vz-37
 line: VII
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 50.001310
-  lon: 17.564930
+  lat: 50.00131
+  lon: 17.56493
   elevation: 622
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" VII/428/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" VII/428/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723815
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723815
+  type: web
+- title: ropiky.net (ID 1075726970)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726970
+  type: web
+updated: '2026-04-22'

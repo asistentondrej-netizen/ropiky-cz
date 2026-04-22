@@ -2,15 +2,19 @@ title: LII/71/A-160Z
 code: LII/71/A-160Z
 type: lo-vz-37
 line: Neurčeno
-region: "Bratislavský kraj"
+region: Bratislavský kraj
 location:
-  lat: 48.253270
+  lat: 48.25327
   lon: 16.959092
   elevation: 145
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" LII/71/A-160Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" LII/71/A-160Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/250127447
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/250127447
+  type: web
+- title: ropiky.net (ID 1075728891)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728891
+  type: web
+updated: '2026-04-22'
+alt_name: LII/110/A-160

@@ -1,16 +1,19 @@
-title: "8/20/A-140"
-code: "8/20/A-140"
+title: 8/20/A-140
+code: 8/20/A-140
 type: lo-vz-37
-line: "8"
-region: "Jihomoravský kraj"
+line: '8'
+region: Jihomoravský kraj
 location:
   lat: 48.749145
-  lon: 16.840130
+  lon: 16.84013
   elevation: 189
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 8/20/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" 8/20/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076914
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076914
+  type: web
+- title: ropiky.net (ID 1075726616)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726616
+  type: web
+updated: '2026-04-22'

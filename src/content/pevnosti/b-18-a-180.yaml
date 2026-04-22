@@ -2,15 +2,18 @@ title: B/18/A-180
 code: B/18/A-180
 type: lo-vz-37
 line: B
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.182710
+  lat: 50.18271
   lon: 16.507325
   elevation: 733
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" B/18/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" B/18/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371583691
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371583691
+  type: web
+- title: ropiky.net (ID 1075723077)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723077
+  type: web
+updated: '2026-04-22'

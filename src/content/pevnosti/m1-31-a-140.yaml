@@ -2,15 +2,18 @@ title: M1/31/A-140
 code: M1/31/A-140
 type: lo-vz-37
 line: M1
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.815978
   lon: 14.661608
   elevation: 443
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" M1/31/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" M1/31/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371258104
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371258104
+  type: web
+- title: ropiky.net (ID 1075725211)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725211
+  type: web
+updated: '2026-04-22'

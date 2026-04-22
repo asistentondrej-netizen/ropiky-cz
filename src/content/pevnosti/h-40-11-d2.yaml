@@ -2,15 +2,18 @@ title: H-40/11/D2
 code: H-40/11/D2
 type: lo-vz-36
 line: H-40
-region: "Plzeňský kraj"
+region: Plzeňský kraj
 location:
-  lat: 49.159860
+  lat: 49.15986
   lon: 13.535635
   elevation: 679
 state: neznamy
 description: Lehký objekt vz. 36 H-40/11/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371992180
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371992180
+  type: web
+- title: ropiky.net (ID 1075720169)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720169
+  type: web
+updated: '2026-04-22'

@@ -1,16 +1,19 @@
 title: 168/17/B2-80 Z
 code: 168/17/B2-80 Z
 type: lo-vz-37
-line: "168"
-region: "Jihočeský kraj"
+line: '168'
+region: Jihočeský kraj
 location:
-  lat: 49.148140
+  lat: 49.14814
   lon: 15.198525
   elevation: 560
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 168/17/B2-80 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" 168/17/B2-80 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371751368
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371751368
+  type: web
+- title: ropiky.net (ID 1075721337)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721337
+  type: web
+updated: '2026-04-22'

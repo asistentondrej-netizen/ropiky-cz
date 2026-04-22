@@ -1,16 +1,19 @@
-title: "159/44a/A-160"
-code: "159/44a/A-160"
+title: 159/44a/A-160
+code: 159/44a/A-160
 type: lo-vz-37
-line: "159"
-region: "Středočeský kraj"
+line: '159'
+region: Středočeský kraj
 location:
   lat: 50.127889
   lon: 13.361696
   elevation: 373
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 159/44a/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 159/44a/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/445417170
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/445417170
+  type: web
+- title: ropiky.net (ID 1075721130)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721130
+  type: web
+updated: '2026-04-22'

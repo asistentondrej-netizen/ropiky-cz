@@ -1,16 +1,19 @@
-title: "6/32/A-160"
-code: "6/32/A-160"
+title: 6/32/A-160
+code: 6/32/A-160
 type: lo-vz-37
-line: "6"
-region: "Jihomoravský kraj"
+line: '6'
+region: Jihomoravský kraj
 location:
   lat: 48.779975
-  lon: 16.724610
+  lon: 16.72461
   elevation: 178
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 6/32/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 6/32/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076234
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076234
+  type: web
+- title: ropiky.net (ID 1105625170)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625170
+  type: web
+updated: '2026-04-22'

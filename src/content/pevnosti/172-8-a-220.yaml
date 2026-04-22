@@ -1,16 +1,19 @@
-title: "172/8/A-220"
-code: "172/8/A-220"
+title: 172/8/A-220
+code: 172/8/A-220
 type: lo-vz-37
 line: Neurčeno
-region: "Karlovarský kraj"
+region: Karlovarský kraj
 location:
   lat: 49.702998
   lon: 12.975914
   elevation: 401
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 172/8/A-220. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: zachovaly
+description: Lehký objekt vz. 37 „řopík" 172/8/A-220. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/1094161686
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/1094161686
+  type: web
+- title: ropiky.net (ID 1075721445)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721445
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: V/953/A-140 Z
 code: V/953/A-140 Z
 type: lo-vz-37
 line: V
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 49.960485
-  lon: 17.733540
+  lon: 17.73354
   elevation: 392
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" V/953/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" V/953/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723486
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723486
+  type: web
+- title: ropiky.net (ID 1075726902)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726902
+  type: web
+updated: '2026-04-22'

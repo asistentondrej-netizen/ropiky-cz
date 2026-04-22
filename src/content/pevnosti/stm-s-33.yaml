@@ -2,7 +2,7 @@ title: StM-S 33 „Na stráži"
 code: StM-S 33
 type: pechotni-srub
 line: Staré Město pod Sněžníkem
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.17317
   lon: 16.96254
@@ -10,15 +10,11 @@ location:
   address: Staré Město pod Sněžníkem — Kunčice
 built: '1937'
 state: zachovaly
-description: Pěchotní srub v horském terénu Jeseníků — jeden z nejvýše položených
-  objektů čs. opevnění. Volně přístupný v rámci turistických tras.
-history: 'StM-S 33 byl součástí horského úseku obrany v Jeseníkách. Výstavba probíhala
-  v mimořádně náročných podmínkách — těžba skály, transport materiálu vysokohorskou
-  dopravou.
+description: Pěchotní srub v horském terénu Jeseníků — jeden z nejvýše položených objektů čs. opevnění. Volně přístupný v rámci turistických tras.
+history: 'StM-S 33 byl součástí horského úseku obrany v Jeseníkách. Výstavba probíhala v mimořádně náročných podmínkách — těžba skály, transport materiálu vysokohorskou dopravou.
 
 
-  Po Mnichovu opuštěn, během okupace využíván Wehrmachtem. Dnes je součástí turistické
-  trasy v oblasti Hanušovicka.
+  Po Mnichovu opuštěn, během okupace využíván Wehrmachtem. Dnes je součástí turistické trasy v oblasti Hanušovicka.
 
   '
 visit: 'Volně přístupný vnějšek, součást pěších tras. Vnitřek zavřený.
@@ -26,7 +22,7 @@ visit: 'Volně přístupný vnějšek, součást pěších tras. Vnitřek zavře
   '
 wikidata_id: Q98601580
 commons_category: StM-S 33 Lesík casemate
-updated: '2026-04-18'
+updated: '2026-04-22'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Star%C3%A9_M%C4%9Bsto%2C_StM-S_33_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_33_%28rok_2003%29.jpg
   alt: Pěchotní srub StM-S 33
@@ -43,3 +39,6 @@ photos:
   author: Michal Gregor
   license: CC BY-SA 4.0
   source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_33_Les%C3%ADk_02.jpg
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

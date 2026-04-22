@@ -2,15 +2,18 @@ title: A/231/A-180
 code: A/231/A-180
 type: lo-vz-37
 line: A
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.109565
-  lon: 16.598360
+  lon: 16.59836
   elevation: 709
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" A/231/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" A/231/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371583602
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371583602
+  type: web
+- title: ropiky.net (ID 1075723018)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723018
+  type: web
+updated: '2026-04-22'

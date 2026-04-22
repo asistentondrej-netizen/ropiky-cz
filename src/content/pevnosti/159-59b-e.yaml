@@ -1,16 +1,19 @@
-title: "159/59b/E"
-code: "159/59b/E"
+title: 159/59b/E
+code: 159/59b/E
 type: lo-vz-37
-line: "159"
-region: "Středočeský kraj"
+line: '159'
+region: Středočeský kraj
 location:
   lat: 50.041881
-  lon: 13.284790
+  lon: 13.28479
   elevation: 473
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 159/59b/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 159/59b/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371969940
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371969940
+  type: web
+- title: ropiky.net (ID 1075721148)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721148
+  type: web
+updated: '2026-04-22'

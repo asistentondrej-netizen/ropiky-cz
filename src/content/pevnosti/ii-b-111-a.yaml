@@ -2,15 +2,18 @@ title: II.b/111/A
 code: II.b/111/A
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.611720
-  lon: 16.094190
+  lat: 50.61172
+  lon: 16.09419
   elevation: 622
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" II.b/111/A. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" II.b/111/A. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371652793
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371652793
+  type: web
+- title: ropiky.net (ID 1075717833)
+  url: https://ropiky.net/dbase_objekt.php?id=1075717833
+  type: web
+updated: '2026-04-22'

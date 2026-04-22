@@ -2,15 +2,18 @@ title: X/440/A-120 Z
 code: X/440/A-120 Z
 type: lo-vz-37
 line: X
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.021317
   lon: 17.530327
   elevation: 416
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" X/440/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" X/440/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723892
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723892
+  type: web
+- title: ropiky.net (ID 1075727135)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727135
+  type: web
+updated: '2026-04-22'

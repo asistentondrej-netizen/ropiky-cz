@@ -59,6 +59,7 @@ const pevnosti = defineCollection({
     // === ZÁKLAD (stávající, zachovat) ===
     title: z.string(),
     code: z.string(),
+    alt_name: z.string().optional(), // NOVÉ: alternativní název z OSM alt_name
     type: z.string(),
     line: z.string(),
     region: z.string(),
@@ -69,10 +70,11 @@ const pevnosti = defineCollection({
       elevation: z.number().optional(), // NOVÉ
     }),
     built: z.string().optional(),
-    state: z.enum(['muzeum', 'pristupny', 'zachovaly', 'zavreny', 'rozpadly', 'zničeny', 'neznamy']),
+    state: z.enum(['muzeum', 'pristupny', 'zachovaly', 'zavreny', 'rozpadly', 'zničeny', 'zniceny', 'neznamy']),
     description: z.string(),
     history: z.string().optional(),
     visit: z.string().optional(),
+    building_levels: z.number().optional(), // NOVÉ: počet podlaží z OSM building:levels
 
     // === TECHNICKÁ KARTA (NOVÉ) ===
     tech: z

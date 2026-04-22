@@ -1,16 +1,19 @@
-title: "172/41/A-140"
-code: "172/41/A-140"
+title: 172/41/A-140
+code: 172/41/A-140
 type: lo-vz-37
-line: "172"
-region: "Karlovarský kraj"
+line: '172'
+region: Karlovarský kraj
 location:
   lat: 49.709828
   lon: 12.997301
   elevation: 423
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 172/41/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 172/41/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/207323706
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/207323706
+  type: web
+- title: ropiky.net (ID 1075721478)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721478
+  type: web
+updated: '2026-04-22'

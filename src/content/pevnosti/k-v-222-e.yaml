@@ -2,15 +2,18 @@ title: K-V/222/E
 code: K-V/222/E
 type: lo-vz-37
 line: K-V
-region: "Košický kraj"
+region: Košický kraj
 location:
-  lat: 48.601350
+  lat: 48.60135
   lon: 21.460262
   elevation: 451
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" K-V/222/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" K-V/222/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372140610
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372140610
+  type: web
+- title: ropiky.net (ID 1106072034)
+  url: https://ropiky.net/dbase_objekt.php?id=1106072034
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: XI/883/B2-100 Z
 code: XI/883/B2-100 Z
 type: lo-vz-37
 line: XI
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 50.061170
-  lon: 17.465690
+  lat: 50.06117
+  lon: 17.46569
   elevation: 541
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XI/883/B2-100 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XI/883/B2-100 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723971
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723971
+  type: web
+- title: ropiky.net (ID 1075727198)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727198
+  type: web
+updated: '2026-04-22'

@@ -2,24 +2,25 @@ title: OP-S 27 „Paletovo pole"
 code: OP-S 27
 type: pechotni-srub
 line: Opava
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.95697
   lon: 17.82253
   elevation: 315
 built: '1937'
 state: neznamy
-description: Pěchotní srub „Paletovo pole" — odolnost II, typická pozice v otevřené
-  krajině. Po válce částečně odstřelen, dnes ruina v polním lánu.
+description: Pěchotní srub „Paletovo pole" — odolnost II, typická pozice v otevřené krajině. Po válce částečně odstřelen, dnes ruina v polním lánu.
 sources:
 - Wikimedia Commons
 wikidata_id: Q98592014
 commons_category: OP-S 27 Paletovo pole casemate
-updated: '2026-04-18'
-# === MÉDIA ===
+updated: '2026-04-22'
 photos:
-  - url: /img/forts/opava-milostovice-op-s-27-rok-2001-01.jpg
-    alt: "OP-S 27 „Paletovo pole\" — OP-S 27"
-    author: "User:Harold's family"
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File%3AOpava%2C%20Milostovice%2C%20OP-S%2027%20%28rok%202001%3B%2001%29.jpg
+- url: /img/forts/opava-milostovice-op-s-27-rok-2001-01.jpg
+  alt: OP-S 27 „Paletovo pole" — OP-S 27
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File%3AOpava%2C%20Milostovice%2C%20OP-S%2027%20%28rok%202001%3B%2001%29.jpg
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

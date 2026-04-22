@@ -2,7 +2,7 @@ title: XXI/10/D2
 code: XXI/10/D2
 type: lo-vz-36
 line: XXI
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.159381
   lon: 17.367321
@@ -10,7 +10,10 @@ location:
 state: neznamy
 description: Lehký objekt vz. 36 XXI/10/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724349
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724349
+  type: web
+- title: ropiky.net (ID 1075727633)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727633
+  type: web
+updated: '2026-04-22'

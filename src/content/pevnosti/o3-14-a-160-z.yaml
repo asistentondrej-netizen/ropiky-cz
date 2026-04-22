@@ -2,15 +2,18 @@ title: O3/14/A-160 Z
 code: O3/14/A-160 Z
 type: lo-vz-37
 line: O3
-region: "Ústecký kraj"
+region: Ústecký kraj
 location:
   lat: 50.666112
   lon: 14.107835
   elevation: 138
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" O3/14/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" O3/14/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/460323521
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/460323521
+  type: web
+- title: ropiky.net (ID 1075725583)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725583
+  type: web
+updated: '2026-04-22'

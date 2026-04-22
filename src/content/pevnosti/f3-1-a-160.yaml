@@ -2,15 +2,18 @@ title: F3/1/A-160
 code: F3/1/A-160
 type: lo-vz-37
 line: F3
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.576760
+  lat: 50.57676
   lon: 16.012818
   elevation: 684
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" F3/1/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" F3/1/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584209
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584209
+  type: web
+- title: ropiky.net (ID 1075723771)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723771
+  type: web
+updated: '2026-04-22'

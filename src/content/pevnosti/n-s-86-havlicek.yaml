@@ -2,28 +2,30 @@ title: N-S 86 „Havlíček"
 code: N-S 86
 type: pechotni-srub
 line: Náchod
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.42638889
   lon: 16.1875
   elevation: 371
 built: '1937'
 state: neznamy
-description: Pěchotní srub „Havlíček" (pojmenován po novináři K. H. Borovském) — odolnost
-  II, součást běloveské části linie. Torzo v polní krajině.
+description: Pěchotní srub „Havlíček" (pojmenován po novináři K. H. Borovském) — odolnost II, součást běloveské části linie. Torzo v polní krajině.
 sources:
 - Wikimedia Commons
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/B%C4%9Bloves%2C_N%C3%A1chod_2017-05_01.jpg/1920px-B%C4%9Bloves%2C_N%C3%A1chod_2017-05_01.jpg"
-    alt: "N-S 86 „Havlíček\""
-    author: "Miloslav Rejha"
-    license: "CC BY 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:B%C4%9Bloves,_N%C3%A1chod_2017-05_01.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/B%C4%9Bloves%2C_N%C3%A1chod_2017-05_02.jpg/1920px-B%C4%9Bloves%2C_N%C3%A1chod_2017-05_02.jpg"
-    alt: "N-S 86 „Havlíček\""
-    author: "Miloslav Rejha"
-    license: "CC BY 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:B%C4%9Bloves,_N%C3%A1chod_2017-05_02.jpg"
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/B%C4%9Bloves%2C_N%C3%A1chod_2017-05_01.jpg/1920px-B%C4%9Bloves%2C_N%C3%A1chod_2017-05_01.jpg
+  alt: N-S 86 „Havlíček"
+  author: Miloslav Rejha
+  license: CC BY 4.0
+  source: https://commons.wikimedia.org/wiki/File:B%C4%9Bloves,_N%C3%A1chod_2017-05_01.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/B%C4%9Bloves%2C_N%C3%A1chod_2017-05_02.jpg/1920px-B%C4%9Bloves%2C_N%C3%A1chod_2017-05_02.jpg
+  alt: N-S 86 „Havlíček"
+  author: Miloslav Rejha
+  license: CC BY 4.0
+  source: https://commons.wikimedia.org/wiki/File:B%C4%9Bloves,_N%C3%A1chod_2017-05_02.jpg
 wikidata_id: Q62624290
 commons_category: N-S 86 Havlíček casemate
-updated: '2026-04-18'
+updated: '2026-04-22'
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

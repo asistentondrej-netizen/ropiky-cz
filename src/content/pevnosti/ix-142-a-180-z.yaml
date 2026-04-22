@@ -2,16 +2,19 @@ title: IX/142/A-180 Z
 code: IX/142/A-180 Z
 type: lo-vz-37
 line: IX
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.169225
   lon: 16.986815
   elevation: 786
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" IX/142/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" IX/142/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723408
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723408
+  type: web
+- title: ropiky.net (ID 1075727070)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727070
+  type: web
 wikidata_id: Q113496789
-updated: '2026-04-21'
+updated: '2026-04-22'

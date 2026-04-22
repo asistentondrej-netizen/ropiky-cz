@@ -2,15 +2,18 @@ title: 7/III/119/A-160 Z
 code: 7/III/119/A-160 Z
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.806117
-  lon: 15.978500
+  lon: 15.9785
   elevation: 301
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 7/III/119/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 7/III/119/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076487
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076487
+  type: web
+- title: ropiky.net (ID 1105625325)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625325
+  type: web
+updated: '2026-04-22'

@@ -1,16 +1,19 @@
-title: "4/3064/A-120"
-code: "4/3064/A-120"
+title: 4/3064/A-120
+code: 4/3064/A-120
 type: lo-vz-37
-line: "4"
-region: "Jihomoravský kraj"
+line: '4'
+region: Jihomoravský kraj
 location:
   lat: 48.833061
   lon: 16.564766
   elevation: 213
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 4/3064/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 4/3064/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/362978263
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/362978263
+  type: web
+- title: ropiky.net (ID 1075726477)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726477
+  type: web
+updated: '2026-04-22'

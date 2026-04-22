@@ -2,16 +2,26 @@ title: H-41/2/A-220
 code: H-41/2/A-220
 type: lo-vz-37
 line: Neurčeno
-region: "Plzeňský kraj"
+region: Plzeňský kraj
 location:
   lat: 49.071894
   lon: 13.652288
   elevation: 970
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" H-41/2/A-220. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" H-41/2/A-220. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372001316
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372001316
+  type: web
+- title: ropiky.net (ID 1075720201)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720201
+  type: web
 wikidata_id: Q132355236
-updated: '2026-04-21'
+updated: '2026-04-22'
+photos:
+- url: https://commons.wikimedia.org/wiki/Special:FilePath/Řopík_u_Nového_Dvora_(Zdíkov)_2023-07-16.jpg?width=1024
+  alt: Fotografie objektu H-41/2/A-220
+  author: Wikimedia Commons
+  license: CC (viz Commons)
+  source: https://commons.wikimedia.org/wiki/File:Řopík_u_Nového_Dvora_(Zdíkov)_2023-07-16.jpg
+  featured: false

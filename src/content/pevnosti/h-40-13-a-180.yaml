@@ -2,15 +2,18 @@ title: H-40/13/A-180
 code: H-40/13/A-180
 type: lo-vz-37
 line: H-40
-region: "Plzeňský kraj"
+region: Plzeňský kraj
 location:
-  lat: 49.173340
-  lon: 13.521030
+  lat: 49.17334
+  lon: 13.52103
   elevation: 543
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" H-40/13/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" H-40/13/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371992182
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371992182
+  type: web
+- title: ropiky.net (ID 1075720171)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720171
+  type: web
+updated: '2026-04-22'

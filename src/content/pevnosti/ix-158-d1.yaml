@@ -2,15 +2,18 @@ title: IX/158/D1
 code: IX/158/D1
 type: lo-vz-36
 line: IX
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 50.166710
+  lat: 50.16671
   lon: 16.974311
   elevation: 730
 state: neznamy
 description: Lehký objekt vz. 36 IX/158/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723422
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723422
+  type: web
+- title: ropiky.net (ID 1075727097)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727097
+  type: web
+updated: '2026-04-22'

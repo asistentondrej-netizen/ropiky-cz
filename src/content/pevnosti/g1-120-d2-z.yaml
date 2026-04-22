@@ -2,15 +2,18 @@ title: G1/120/D2 Z
 code: G1/120/D2 Z
 type: lo-vz-36
 line: G1
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.590353
-  lon: 15.984370
+  lon: 15.98437
   elevation: 455
 state: neznamy
 description: Lehký objekt vz. 36 G1/120/D2 Z. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584284
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584284
+  type: web
+- title: ropiky.net (ID 1075723870)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723870
+  type: web
+updated: '2026-04-22'

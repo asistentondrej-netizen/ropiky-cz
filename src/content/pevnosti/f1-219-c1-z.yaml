@@ -2,15 +2,18 @@ title: F1/219/C1 Z
 code: F1/219/C1 Z
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.452460
-  lon: 16.161280
+  lat: 50.45246
+  lon: 16.16128
   elevation: 459
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" F1/219/C1 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" F1/219/C1 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584122
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584122
+  type: web
+- title: ropiky.net (ID 1075723678)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723678
+  type: web
+updated: '2026-04-22'

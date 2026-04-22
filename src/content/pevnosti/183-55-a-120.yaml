@@ -1,16 +1,19 @@
-title: "183/55/A-120"
-code: "183/55/A-120"
+title: 183/55/A-120
+code: 183/55/A-120
 type: lo-vz-37
-line: "183"
-region: "Jihočeský kraj"
+line: '183'
+region: Jihočeský kraj
 location:
-  lat: 48.942810
+  lat: 48.94281
   lon: 14.714903
   elevation: 480
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 183/55/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" 183/55/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3019721441
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3019721441
+  type: web
+- title: ropiky.net (ID 1075722054)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722054
+  type: web
+updated: '2026-04-22'

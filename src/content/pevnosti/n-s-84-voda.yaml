@@ -2,21 +2,20 @@ title: N-S 84 „Voda"
 code: N-S 84
 type: pechotni-srub
 line: Náchod
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.42166667
   lon: 16.19004167
   elevation: 343
 built: '1937'
 state: neznamy
-description: Pěchotní srub „Voda" v prostoru Běloves u Náchoda. Odolnost II, po válce
-  poškozen odstřelováním. Zachované fragmenty stěn a vstupního portálu.
+description: Pěchotní srub „Voda" v prostoru Běloves u Náchoda. Odolnost II, po válce poškozen odstřelováním. Zachované fragmenty stěn a vstupního portálu.
 sources:
 - Wikimedia Commons
 wikidata_id: Q62624288
-wikipedia_url: "https://cs.wikipedia.org/wiki/N-S_84_Voda"
+wikipedia_url: https://cs.wikipedia.org/wiki/N-S_84_Voda
 commons_category: N-S 84 Voda casemate
-updated: '2026-04-18'
+updated: '2026-04-22'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Mapa_civiln%C3%ADho_krytu_N-S_84_Voda.jpg/1920px-Mapa_civiln%C3%ADho_krytu_N-S_84_Voda.jpg
   alt: Pěchotní srub N-S 84
@@ -33,3 +32,6 @@ photos:
   author: Kvido9
   license: CC BY-SA 4.0
   source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_N-S_84_%22Voda%22.jpg
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

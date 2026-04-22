@@ -2,50 +2,42 @@ title: N-D-S-75 „Zelený"
 code: N-D-S-75
 type: pechotni-srub
 line: Náchodsko
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.402412
   lon: 16.202383
   elevation: 612
 state: muzeum
-description: Pěchotní srub N-D-S-75 „Zelený" náležející k dělostřelecké tvrzi Dobrošov
-  na úseku Náchodsko. Součást československého těžkého opevnění z let 1935–1938.
-history: 'Úsek Náchodsko v podhůří Orlických hor — tvrze Dobrošov a Skutina plus 30+
-  pěchotních srubů. Stavěno 1937–1938.
+description: Pěchotní srub N-D-S-75 „Zelený" náležející k dělostřelecké tvrzi Dobrošov na úseku Náchodsko. Součást československého těžkého opevnění z let 1935–1938.
+history: 'Úsek Náchodsko v podhůří Orlických hor — tvrze Dobrošov a Skutina plus 30+ pěchotních srubů. Stavěno 1937–1938.
 
 
-  Srub N-D-S-75 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
+  Srub N-D-S-75 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938, dokončení a výzbroj závisely na fázi budování daného úseku.
 
 
-  Srub byl stavěn jako součást obranného obvodu tvrze Dobrošov — jednoho z hlavních
-  dělostřeleckých objektů plánované čs. linie.
+  Srub byl stavěn jako součást obranného obvodu tvrze Dobrošov — jednoho z hlavních dělostřeleckých objektů plánované čs. linie.
 
 
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce 1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné oblasti.
 
 
   **GPS:** 50.402412, 16.202383 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.202383&y=50.402412&z=17&source=coor&id=16.202383%2C50.402412).
 
 
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element way/389099948)
 wikidata_id: Q12039469
-wikipedia_url: "https://cs.wikipedia.org/wiki/N-D-S_75_Zelen%C3%BD"
+wikipedia_url: https://cs.wikipedia.org/wiki/N-D-S_75_Zelen%C3%BD
 commons_category: N-D-S 75 Zelený casemate
-updated: '2026-04-19'
+updated: '2026-04-22'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/N-S_75.JPG/1280px-N-S_75.JPG
   alt: Pěchotní srub N-D-S-75
   author: Lukáš Malý
   license: Public domain
   source: https://commons.wikimedia.org/wiki/File:N-S_75.JPG
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

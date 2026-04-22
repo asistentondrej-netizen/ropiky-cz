@@ -2,15 +2,18 @@ title: LV/153/A-140
 code: LV/153/A-140
 type: lo-vz-37
 line: LV
-region: "Bratislavský kraj"
+region: Bratislavský kraj
 location:
-  lat: 48.507160
-  lon: 16.951650
+  lat: 48.50716
+  lon: 16.95165
   elevation: 144
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" LV/153/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" LV/153/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075302
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075302
+  type: web
+- title: ropiky.net (ID 1075728956)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728956
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: J1/109/A-160
 code: J1/109/A-160
 type: lo-vz-37
 line: J1
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.841933
   lon: 15.264007
   elevation: 900
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" J1/109/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" J1/109/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/349340378
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/349340378
+  type: web
+- title: ropiky.net (ID 1075724638)
+  url: https://ropiky.net/dbase_objekt.php?id=1075724638
+  type: web
+updated: '2026-04-22'

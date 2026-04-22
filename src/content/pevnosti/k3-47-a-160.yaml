@@ -2,15 +2,18 @@ title: K3/47/A-160
 code: K3/47/A-160
 type: lo-vz-37
 line: K3
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.797795
-  lon: 14.968540
+  lon: 14.96854
   elevation: 430
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" K3/47/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" K3/47/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371401969
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371401969
+  type: web
+- title: ropiky.net (ID 1075725016)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725016
+  type: web
+updated: '2026-04-22'

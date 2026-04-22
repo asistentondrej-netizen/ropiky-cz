@@ -2,15 +2,18 @@ title: VI-3/651/A-180
 code: VI-3/651/A-180
 type: lo-vz-37
 line: VI-3
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 49.976620
-  lon: 17.637990
+  lat: 49.97662
+  lon: 17.63799
   elevation: 537
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" VI-3/651/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" VI-3/651/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723519
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723519
+  type: web
+- title: ropiky.net (ID 1105954929)
+  url: https://ropiky.net/dbase_objekt.php?id=1105954929
+  type: web
+updated: '2026-04-22'

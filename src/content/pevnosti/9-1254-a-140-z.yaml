@@ -1,16 +1,19 @@
 title: 9/1254/A-140 Z
 code: 9/1254/A-140 Z
 type: lo-vz-37
-line: "9"
-region: "Jihomoravský kraj"
+line: '9'
+region: Jihomoravský kraj
 location:
   lat: 48.904697
-  lon: 15.799520
+  lon: 15.79952
   elevation: 402
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 9/1254/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 9/1254/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076970
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076970
+  type: web
+- title: ropiky.net (ID 1075726775)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726775
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: II/51/B1-100
 code: II/51/B1-100
 type: lo-vz-37
 line: II
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.920187
   lon: 17.956587
   elevation: 240
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" II/51/B1-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" II/51/B1-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723074
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723074
+  type: web
+- title: ropiky.net (ID 1105710365)
+  url: https://ropiky.net/dbase_objekt.php?id=1105710365
+  type: web
+updated: '2026-04-22'

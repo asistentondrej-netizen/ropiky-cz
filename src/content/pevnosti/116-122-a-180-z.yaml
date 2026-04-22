@@ -1,18 +1,28 @@
 title: 116/122/A-180 Z
 code: 116/122/A-180 Z
 type: lo-vz-37
-line: "116"
-region: "Středočeský kraj"
+line: '116'
+region: Středočeský kraj
 location:
   lat: 49.958525
   lon: 14.089949
   elevation: 221
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 116/122/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 116/122/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/363881713
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/363881713
+  type: web
+- title: ropiky.net (ID 1075720525)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720525
+  type: web
 wikidata_id: Q113459891
 commons_category: 116/122/A-180 Z light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'
+photos:
+- url: https://commons.wikimedia.org/wiki/Special:FilePath/Beroun,_bunkr_Pražské_čáry_II.JPG?width=1024
+  alt: Fotografie objektu 116/122/A-180 Z
+  author: Wikimedia Commons
+  license: CC (viz Commons)
+  source: https://commons.wikimedia.org/wiki/File:Beroun,_bunkr_Pražské_čáry_II.JPG
+  featured: false

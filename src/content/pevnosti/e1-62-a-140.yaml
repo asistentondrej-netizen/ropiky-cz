@@ -2,15 +2,18 @@ title: E1/62/A-140
 code: E1/62/A-140
 type: lo-vz-37
 line: E1
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.395980
+  lat: 50.39598
   lon: 16.223238
   elevation: 569
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" E1/62/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" E1/62/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651627
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651627
+  type: web
+- title: ropiky.net (ID 1075723573)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723573
+  type: web
+updated: '2026-04-22'

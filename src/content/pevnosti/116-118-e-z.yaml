@@ -1,18 +1,28 @@
 title: 116/118/E Z
 code: 116/118/E Z
 type: lo-vz-37
-line: "116"
-region: "Středočeský kraj"
+line: '116'
+region: Středočeský kraj
 location:
-  lat: 49.960820
-  lon: 14.099490
+  lat: 49.96082
+  lon: 14.09949
   elevation: 279
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 116/118/E Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" 116/118/E Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371816479
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371816479
+  type: web
+- title: ropiky.net (ID 1075720521)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720521
+  type: web
 wikidata_id: Q113459772
 commons_category: 116/118/EZ light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'
+photos:
+- url: https://commons.wikimedia.org/wiki/Special:FilePath/Beroun,_Lištice_řopík2.jpg?width=1024
+  alt: Fotografie objektu 116/118/E Z
+  author: Wikimedia Commons
+  license: CC (viz Commons)
+  source: https://commons.wikimedia.org/wiki/File:Beroun,_Lištice_řopík2.jpg
+  featured: false

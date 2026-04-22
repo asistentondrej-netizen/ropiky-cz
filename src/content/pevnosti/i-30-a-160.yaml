@@ -2,15 +2,18 @@ title: I/30/A-160
 code: I/30/A-160
 type: lo-vz-37
 line: I
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
-  lat: 49.900950
-  lon: 18.081420
+  lat: 49.90095
+  lon: 18.08142
   elevation: 236
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" I/30/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" I/30/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723039
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723039
+  type: web
+- title: ropiky.net (ID 1105709223)
+  url: https://ropiky.net/dbase_objekt.php?id=1105709223
+  type: web
+updated: '2026-04-22'

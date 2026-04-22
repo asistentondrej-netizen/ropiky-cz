@@ -2,15 +2,18 @@ title: VII/576/B1-100
 code: VII/576/B1-100
 type: lo-vz-37
 line: VII
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.004135
-  lon: 17.561390
+  lon: 17.56139
   elevation: 658
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" VII/576/B1-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" VII/576/B1-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723837
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723837
+  type: web
+- title: ropiky.net (ID 1075726992)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726992
+  type: web
+updated: '2026-04-22'

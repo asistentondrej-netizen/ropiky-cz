@@ -1,16 +1,19 @@
-title: "1/1088/A-160"
-code: "1/1088/A-160"
+title: 1/1088/A-160
+code: 1/1088/A-160
 type: lo-vz-37
-line: "1"
-region: "Jihočeský kraj"
+line: '1'
+region: Jihočeský kraj
 location:
-  lat: 48.990580
-  lon: 15.405190
+  lat: 48.99058
+  lon: 15.40519
   elevation: 529
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 1/1088/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 1/1088/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075383
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075383
+  type: web
+- title: ropiky.net (ID 1075726263)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726263
+  type: web
+updated: '2026-04-22'

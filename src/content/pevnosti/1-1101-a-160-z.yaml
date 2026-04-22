@@ -1,18 +1,28 @@
 title: 1/1101/A-160 Z
 code: 1/1101/A-160 Z
 type: lo-vz-37
-line: "1"
-region: "Jihočeský kraj"
+line: '1'
+region: Jihočeský kraj
 location:
   lat: 48.987561
-  lon: 15.439140
+  lon: 15.43914
   elevation: 452
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 1/1101/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 1/1101/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075397
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075397
+  type: web
+- title: ropiky.net (ID 1075726276)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726276
+  type: web
 wikidata_id: Q92318031
 commons_category: 1/1101/A-160 Z light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'
+photos:
+- url: https://commons.wikimedia.org/wiki/Special:FilePath/Light_pillbox_1_1101_A-160Z_near_Janov,_Staré_Hobzí,_Jindřichův_Hradec_District.jpg?width=1024
+  alt: Fotografie objektu 1/1101/A-160 Z
+  author: Wikimedia Commons
+  license: CC (viz Commons)
+  source: https://commons.wikimedia.org/wiki/File:Light_pillbox_1_1101_A-160Z_near_Janov,_Staré_Hobzí,_Jindřichův_Hradec_District.jpg
+  featured: false

@@ -2,15 +2,18 @@ title: G1/105/E1
 code: G1/105/E1
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.598093
-  lon: 15.964930
+  lon: 15.96493
   elevation: 503
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" G1/105/E1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" G1/105/E1. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584269
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584269
+  type: web
+- title: ropiky.net (ID 1075723855)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723855
+  type: web
+updated: '2026-04-22'

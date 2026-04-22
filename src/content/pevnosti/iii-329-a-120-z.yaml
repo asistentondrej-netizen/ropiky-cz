@@ -2,15 +2,18 @@ title: III/329/A-120 Z
 code: III/329/A-120 Z
 type: lo-vz-37
 line: III
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 49.956433
-  lon: 17.881080
+  lon: 17.88108
   elevation: 255
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" III/329/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" III/329/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723306
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723306
+  type: web
+- title: ropiky.net (ID 1075726825)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726825
+  type: web
+updated: '2026-04-22'

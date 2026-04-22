@@ -2,15 +2,18 @@ title: LV/246/A-140
 code: LV/246/A-140
 type: lo-vz-37
 line: LV
-region: "Bratislavský kraj"
+region: Bratislavský kraj
 location:
-  lat: 48.504800
-  lon: 16.954480
+  lat: 48.5048
+  lon: 16.95448
   elevation: 146
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" LV/246/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" LV/246/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/1437397643
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/1437397643
+  type: web
+- title: ropiky.net (ID 1075728946)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728946
+  type: web
+updated: '2026-04-22'

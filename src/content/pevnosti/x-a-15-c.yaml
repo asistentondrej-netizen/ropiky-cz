@@ -2,15 +2,18 @@ title: X.a/15/C
 code: X.a/15/C
 type: lo-vz-37
 line: Neurčeno
-region: "Jihočeský kraj"
+region: Jihočeský kraj
 location:
   lat: 48.890525
   lon: 14.648047
   elevation: 476
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" X.a/15/C. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" X.a/15/C. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/576732953
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/576732953
+  type: web
+- title: ropiky.net (ID 1075718313)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718313
+  type: web
+updated: '2026-04-22'

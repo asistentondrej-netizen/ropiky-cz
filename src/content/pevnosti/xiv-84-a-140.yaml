@@ -2,15 +2,18 @@ title: XIV/84/A-140
 code: XIV/84/A-140
 type: lo-vz-37
 line: XIV
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.194944
   lon: 17.230047
   elevation: 698
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XIV/84/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XIV/84/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724302
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724302
+  type: web
+- title: ropiky.net (ID 1075727376)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727376
+  type: web
+updated: '2026-04-22'

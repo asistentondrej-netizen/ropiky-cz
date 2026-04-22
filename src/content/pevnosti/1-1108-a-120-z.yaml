@@ -1,16 +1,19 @@
 title: 1/1108/A-120 Z
 code: 1/1108/A-120 Z
 type: lo-vz-37
-line: "1"
-region: "Jihočeský kraj"
+line: '1'
+region: Jihočeský kraj
 location:
-  lat: 48.979080
-  lon: 15.456490
+  lat: 48.97908
+  lon: 15.45649
   elevation: 441
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 1/1108/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 1/1108/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075404
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075404
+  type: web
+- title: ropiky.net (ID 1075726283)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726283
+  type: web
+updated: '2026-04-22'

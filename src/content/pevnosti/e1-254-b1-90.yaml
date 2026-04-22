@@ -2,15 +2,18 @@ title: E1/254/B1-90
 code: E1/254/B1-90
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.394872
   lon: 16.210706
   elevation: 537
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" E1/254/B1-90. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" E1/254/B1-90. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651596
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651596
+  type: web
+- title: ropiky.net (ID 1075723593)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723593
+  type: web
+updated: '2026-04-22'

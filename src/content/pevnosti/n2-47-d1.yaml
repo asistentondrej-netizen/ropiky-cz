@@ -2,15 +2,18 @@ title: N2/47/D1
 code: N2/47/D1
 type: lo-vz-36
 line: N2
-region: "Ústecký kraj"
+region: Ústecký kraj
 location:
-  lat: 50.835660
-  lon: 14.386970
+  lat: 50.83566
+  lon: 14.38697
   elevation: 302
 state: neznamy
 description: Lehký objekt vz. 36 N2/47/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371401024
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371401024
+  type: web
+- title: ropiky.net (ID 1075725482)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725482
+  type: web
+updated: '2026-04-22'

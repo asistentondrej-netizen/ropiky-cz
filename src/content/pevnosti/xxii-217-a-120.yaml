@@ -2,15 +2,18 @@ title: XXII/217/A-120
 code: XXII/217/A-120
 type: lo-vz-37
 line: XXII
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
-  lat: 50.147890
+  lat: 50.14789
   lon: 16.843187
   elevation: 1116
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XXII/217/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XXII/217/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371653048
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371653048
+  type: web
+- title: ropiky.net (ID 1075727674)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727674
+  type: web
+updated: '2026-04-22'

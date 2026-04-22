@@ -1,16 +1,19 @@
-title: "XVIII/810/? ?"
-code: "XVIII/810/? ?"
+title: XVIII/810/? ?
+code: XVIII/810/? ?
 type: lo-vz-37
 line: Neurčeno
-region: "Banskobystrický kraj"
+region: Banskobystrický kraj
 location:
-  lat: 48.291340
-  lon: 19.544540
+  lat: 48.29134
+  lon: 19.54454
   elevation: 237
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XVIII/810/? ?. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" XVIII/810/? ?. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372141163
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372141163
+  type: web
+- title: ropiky.net (ID 1075728678)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728678
+  type: web
+updated: '2026-04-22'

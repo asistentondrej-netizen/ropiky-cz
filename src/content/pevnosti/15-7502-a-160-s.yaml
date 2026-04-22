@@ -1,16 +1,19 @@
 title: 15/7502/A-160 S
 code: 15/7502/A-160 S
 type: lo-vz-37
-line: "15"
-region: "Jihomoravský kraj"
+line: '15'
+region: Jihomoravský kraj
 location:
   lat: 48.993847
   lon: 16.418387
   elevation: 223
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 15/7502/A-160 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 15/7502/A-160 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371739044
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371739044
+  type: web
+- title: ropiky.net (ID 1105625383)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625383
+  type: web
+updated: '2026-04-22'

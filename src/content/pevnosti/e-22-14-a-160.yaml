@@ -2,15 +2,18 @@ title: E-22/14/A-160
 code: E-22/14/A-160
 type: lo-vz-37
 line: E-22
-region: "Karlovarský kraj"
+region: Karlovarský kraj
 location:
-  lat: 49.760470
+  lat: 49.76047
   lon: 13.018741
   elevation: 361
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" E-22/14/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" E-22/14/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/209255626
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/209255626
+  type: web
+- title: ropiky.net (ID 1075719968)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719968
+  type: web
+updated: '2026-04-22'

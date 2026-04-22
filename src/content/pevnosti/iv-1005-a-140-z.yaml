@@ -2,15 +2,18 @@ title: IV/1005/A-140 Z
 code: IV/1005/A-140 Z
 type: lo-vz-37
 line: IV
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 49.957312
   lon: 17.773945
   elevation: 367
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" IV/1005/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" IV/1005/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/982164661
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/982164661
+  type: web
+- title: ropiky.net (ID 1075726870)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726870
+  type: web
+updated: '2026-04-22'

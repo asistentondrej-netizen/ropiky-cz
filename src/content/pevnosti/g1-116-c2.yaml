@@ -2,15 +2,18 @@ title: G1/116/C2
 code: G1/116/C2
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.593312
   lon: 15.978356
   elevation: 469
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" G1/116/C2. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" G1/116/C2. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584280
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584280
+  type: web
+- title: ropiky.net (ID 1075723866)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723866
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: III/314/A-120 Z
 code: III/314/A-120 Z
 type: lo-vz-37
 line: III
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 49.952303
   lon: 17.860469
   elevation: 282
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" III/314/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" III/314/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723092
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723092
+  type: web
+- title: ropiky.net (ID 1075726808)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726808
+  type: web
+updated: '2026-04-22'

@@ -1,16 +1,19 @@
-title: "3/1145/A-160"
-code: "3/1145/A-160"
+title: 3/1145/A-160
+code: 3/1145/A-160
 type: lo-vz-37
-line: "3"
-region: "Jihočeský kraj"
+line: '3'
+region: Jihočeský kraj
 location:
-  lat: 48.941200
-  lon: 15.537710
+  lat: 48.9412
+  lon: 15.53771
   elevation: 503
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 3/1145/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 3/1145/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075713
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075713
+  type: web
+- title: ropiky.net (ID 1075726401)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726401
+  type: web
+updated: '2026-04-22'

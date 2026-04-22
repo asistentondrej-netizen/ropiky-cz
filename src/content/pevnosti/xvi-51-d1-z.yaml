@@ -2,7 +2,7 @@ title: XVI/51/D1 Z
 code: XVI/51/D1 Z
 type: lo-vz-36
 line: XVI
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.913615
   lon: 18.439325
@@ -10,7 +10,10 @@ location:
 state: neznamy
 description: Lehký objekt vz. 36 XVI/51/D1 Z. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724342
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724342
+  type: web
+- title: ropiky.net (ID 1075727455)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727455
+  type: web
+updated: '2026-04-22'

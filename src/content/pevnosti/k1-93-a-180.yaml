@@ -2,15 +2,18 @@ title: K1/93/A-180
 code: K1/93/A-180
 type: lo-vz-37
 line: K1
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
-  lat: 50.838210
+  lat: 50.83821
   lon: 15.031882
   elevation: 426
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" K1/93/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" K1/93/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371407320
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371407320
+  type: web
+- title: ropiky.net (ID 1075724855)
+  url: https://ropiky.net/dbase_objekt.php?id=1075724855
+  type: web
+updated: '2026-04-22'

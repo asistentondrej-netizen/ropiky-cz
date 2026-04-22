@@ -2,15 +2,18 @@ title: D2/204/A-140
 code: D2/204/A-140
 type: lo-vz-37
 line: D2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.385915
   lon: 16.231598
   elevation: 570
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D2/204/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" D2/204/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651148
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651148
+  type: web
+- title: ropiky.net (ID 1075723527)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723527
+  type: web
+updated: '2026-04-22'

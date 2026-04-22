@@ -2,23 +2,26 @@ title: A-1/25a/Z2
 code: A-1/25a/Z2
 type: lo-vz-37
 line: A-1
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.306815
   lon: 14.286675
   elevation: 183
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" A-1/25a/Z2. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" A-1/25a/Z2. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371813683
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371813683
+  type: web
+- title: ropiky.net (ID 1075718555)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718555
+  type: web
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/6/68/Sazen%C3%A1%2C_vodn%C3%AD_ml%C3%BDn_%C4%8Dp.38.jpg"
-    alt: "A-1/25a/Z2"
-    author: "Sovicka169"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:Sazen%C3%A1,_vodn%C3%AD_ml%C3%BDn_%C4%8Dp.38.jpg"
+- url: https://upload.wikimedia.org/wikipedia/commons/6/68/Sazen%C3%A1%2C_vodn%C3%AD_ml%C3%BDn_%C4%8Dp.38.jpg
+  alt: A-1/25a/Z2
+  author: Sovicka169
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Sazen%C3%A1,_vodn%C3%AD_ml%C3%BDn_%C4%8Dp.38.jpg
 wikidata_id: Q113468630
 commons_category: A-1/25a/Z2 Z light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'

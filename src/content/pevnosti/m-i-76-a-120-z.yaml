@@ -2,15 +2,18 @@ title: M-I/76/A-120 Z
 code: M-I/76/A-120 Z
 type: lo-vz-37
 line: M-I
-region: "Košický kraj"
+region: Košický kraj
 location:
   lat: 48.502418
-  lon: 21.626930
+  lon: 21.62693
   elevation: 128
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" M-I/76/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" M-I/76/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/1383440775
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/1383440775
+  type: web
+- title: ropiky.net (ID 1106247936)
+  url: https://ropiky.net/dbase_objekt.php?id=1106247936
+  type: web
+updated: '2026-04-22'

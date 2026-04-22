@@ -2,46 +2,41 @@ title: StM-S 50 „U trati"
 code: StM-S 50
 type: pechotni-srub
 line: Staré Město pod Sněžníkem
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.16564
   lon: 17.02641
   elevation: 680
 built: '1938'
 state: neznamy
-description: Pěchotní srub u železniční trati ve Branné. Pozdní stavba (1938), odolnost
-  II. Volně přístupný podél turistické cesty, zachovalý exteriér.
+description: Pěchotní srub u železniční trati ve Branné. Pozdní stavba (1938), odolnost II. Volně přístupný podél turistické cesty, zachovalý exteriér.
 sources:
 - Wikimedia Commons
 wikidata_id: Q98602213
 commons_category: StM-S 50 U trati casemate
-updated: '2026-04-18'
-visit: 'Volně přístupný pěchotní srub „U trati" nedaleko Staroměstska — součást staroměstské
-  obranné linie v severní části Moravskoslezských Beskyd.
+updated: '2026-04-22'
+visit: 'Volně přístupný pěchotní srub „U trati" nedaleko Staroměstska — součást staroměstské obranné linie v severní části Moravskoslezských Beskyd.
 
 
   **Přístup:** celoročně volně, 24/7.
 
 
-  **Co uvidíte:** pěchotní srub II. odolnosti v blízkosti železniční tratě (odtud
-  název) — střílny, pozorovací zvony. Objekt je nezrekonstruovaný.
+  **Co uvidíte:** pěchotní srub II. odolnosti v blízkosti železniční tratě (odtud název) — střílny, pozorovací zvony. Objekt je nezrekonstruovaný.
 
 
   **Doporučená délka:** 15–20 minut.
 
 
-  **Dostupnost:** Autem po silnici do Hanušovic/Starého Města, pěší přístup 200 m
-  od zastávky. Vlakem lokální trať — ideálně objekt navštívit kombinovaně s vlakovou
-  turistikou.
+  **Dostupnost:** Autem po silnici do Hanušovic/Starého Města, pěší přístup 200 m od zastávky. Vlakem lokální trať — ideálně objekt navštívit kombinovaně s vlakovou turistikou.
 
 
-  **Doporučeno kombinovat s:** StM-S 33, Kralickým Sněžníkem, branickou přehradou,
-  jeseníckým termálním parkem Velké Losiny. Ideální rodinný výlet vlakem.'
-
-# === MÉDIA ===
+  **Doporučeno kombinovat s:** StM-S 33, Kralickým Sněžníkem, branickou přehradou, jeseníckým termálním parkem Velké Losiny. Ideální rodinný výlet vlakem.'
 photos:
-  - url: /img/forts/brann-stm-s-50-rok-2003-01.jpg
-    alt: "StM-S 50 „U trati\" — StM-S 50"
-    author: "User:Harold"
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File%3ABrann%C3%A1%2C%20StM-S%2050%20%28rok%202003%3B%2001%29.jpg
+- url: /img/forts/brann-stm-s-50-rok-2003-01.jpg
+  alt: StM-S 50 „U trati" — StM-S 50
+  author: User:Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File%3ABrann%C3%A1%2C%20StM-S%2050%20%28rok%202003%3B%2001%29.jpg
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

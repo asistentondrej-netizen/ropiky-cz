@@ -2,7 +2,7 @@ title: E-22/18/D2
 code: E-22/18/D2
 type: lo-vz-36
 line: E-22
-region: "Karlovarský kraj"
+region: Karlovarský kraj
 location:
   lat: 49.757037
   lon: 13.013684
@@ -10,7 +10,10 @@ location:
 state: neznamy
 description: Lehký objekt vz. 36 E-22/18/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/209255265
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/209255265
+  type: web
+- title: ropiky.net (ID 1075719972)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719972
+  type: web
+updated: '2026-04-22'

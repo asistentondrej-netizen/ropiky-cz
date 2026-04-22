@@ -2,15 +2,18 @@ title: II.b/123/A
 code: II.b/123/A
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.593353
   lon: 16.258403
   elevation: 503
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" II.b/123/A. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" II.b/123/A. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371652805
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371652805
+  type: web
+- title: ropiky.net (ID 1075717821)
+  url: https://ropiky.net/dbase_objekt.php?id=1075717821
+  type: web
+updated: '2026-04-22'

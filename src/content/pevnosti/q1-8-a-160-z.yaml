@@ -2,15 +2,18 @@ title: Q1/8/A-160 Z
 code: Q1/8/A-160 Z
 type: lo-vz-37
 line: Q1
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.535397
-  lon: 14.561940
+  lon: 14.56194
   elevation: 291
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" Q1/8/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" Q1/8/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371455358
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371455358
+  type: web
+- title: ropiky.net (ID 1075725852)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725852
+  type: web
+updated: '2026-04-22'

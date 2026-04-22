@@ -2,17 +2,19 @@ title: C-12/59/A-220 Z
 code: C-12/59/A-220 Z
 type: lo-vz-37
 line: Neurčeno
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.363128
   lon: 13.789673
   elevation: 178
-  # start_date: 1937
 built: '1937'
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" C-12/59/A-220 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" C-12/59/A-220 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/940788473
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/940788473
+  type: web
+- title: ropiky.net (ID 1075719349)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719349
+  type: web
+updated: '2026-04-22'

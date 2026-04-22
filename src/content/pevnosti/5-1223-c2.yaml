@@ -1,16 +1,19 @@
-title: "5/1223/C2"
-code: "5/1223/C2"
+title: 5/1223/C2
+code: 5/1223/C2
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
-  lat: 48.921260
-  lon: 15.799670
+  lat: 48.92126
+  lon: 15.79967
   elevation: 350
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 5/1223/C2. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 5/1223/C2. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076102
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076102
+  type: web
+- title: ropiky.net (ID 1075726573)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726573
+  type: web
+updated: '2026-04-22'

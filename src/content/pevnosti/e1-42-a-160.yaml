@@ -2,15 +2,18 @@ title: E1/42/A-160
 code: E1/42/A-160
 type: lo-vz-37
 line: E1
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.415455
   lon: 16.191905
   elevation: 392
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" E1/42/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" E1/42/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651607
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651607
+  type: web
+- title: ropiky.net (ID 1075723553)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723553
+  type: web
+updated: '2026-04-22'

@@ -2,44 +2,44 @@ title: Tvrz Skutina
 code: R-S Tvrz Skutina
 type: delostrelecka-tvrz
 line: Rokytnice v Orlických horách
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.354305555
   lon: 16.292222222
   elevation: 743
   address: Sněžné
 state: zachovaly
+description: 'Rozestavěná dělostřelecká tvrz u Sněžného, severní část Orlických hor. Součást čs. opevnění 1935–1938. Nedokončena před Mnichovem, dnes zčásti zpřístupněna jako muzeum.
 
-description: >
-  Rozestavěná dělostřelecká tvrz u Sněžného, severní část Orlických hor. Součást čs. opevnění 1935–1938. Nedokončena před Mnichovem, dnes zčásti zpřístupněna jako muzeum.
+  '
+history: 'Tvrz Skutina byla součástí plánu výstavby čs. opevnění 1935–1938. Realizace byla přerušena po Mnichovské dohodě 30. 9. 1938, tvrz zůstala nedokončená. Některé betonové objekty jsou dodnes patrné v krajině.
 
-history: >
-  Tvrz Skutina byla součástí plánu výstavby čs. opevnění 1935–1938.
-  Realizace byla přerušena po Mnichovské dohodě 30. 9. 1938, tvrz zůstala
-  nedokončená. Některé betonové objekty jsou dodnes patrné v krajině.
+  '
+visit: 'Tvrz je **rozestavěná** — jednotlivé objekty jsou volně přístupné v terénu, ale bez interiérů a vybavení. Před návštěvou ověřte přístupnost, některé části mohou být na soukromých pozemcích.
 
-visit: >
-  Tvrz je **rozestavěná** — jednotlivé objekty jsou volně přístupné v terénu,
-  ale bez interiérů a vybavení. Před návštěvou ověřte přístupnost, některé
-  části mohou být na soukromých pozemcích.
-
+  '
 related:
   pevnosti:
-    - tvrz-bouda
-    - tvrz-hurka
-    - tvrz-adam
-    - tvrz-hanicka
-    - tvrz-smolkov
-    - tvrz-dobrosov
+  - tvrz-bouda
+  - tvrz-hurka
+  - tvrz-adam
+  - tvrz-hanicka
+  - tvrz-smolkov
+  - tvrz-dobrosov
   typologie:
-    - delostrelecka-tvrz
-
+  - delostrelecka-tvrz
 sources:
-  - title: Wikipedie — Tvrz Skutina (dělostřelecká tvrz)
-    url: https://cs.wikipedia.org/wiki/Skutina_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
-    type: web
-
+- title: Wikipedie — Tvrz Skutina (dělostřelecká tvrz)
+  url: https://cs.wikipedia.org/wiki/Skutina_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
+  type: web
 wikidata_id: Q12054591
-wikipedia_url: "https://cs.wikipedia.org/wiki/Skutina_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
+wikipedia_url: https://cs.wikipedia.org/wiki/Skutina_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
 commons_category: Skutina (fortress)
-updated: '2026-04-21'
+updated: '2026-04-22'
+photos:
+- url: https://commons.wikimedia.org/wiki/Special:FilePath/Bunkr_Skutina_3_-_panoramio.jpg?width=1024
+  alt: Fotografie objektu Tvrz Skutina
+  author: Wikimedia Commons
+  license: CC (viz Commons)
+  source: https://commons.wikimedia.org/wiki/File:Bunkr_Skutina_3_-_panoramio.jpg
+  featured: false

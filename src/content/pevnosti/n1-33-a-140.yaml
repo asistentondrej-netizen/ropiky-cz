@@ -2,15 +2,18 @@ title: N1/33/A-140
 code: N1/33/A-140
 type: lo-vz-37
 line: N1
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.836119
   lon: 14.499245
   elevation: 523
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" N1/33/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" N1/33/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/194055023
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/194055023
+  type: web
+- title: ropiky.net (ID 1075725343)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725343
+  type: web
+updated: '2026-04-22'

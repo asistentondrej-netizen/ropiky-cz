@@ -2,15 +2,18 @@ title: A/55/A-160
 code: A/55/A-160
 type: lo-vz-37
 line: A
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.084640
+  lat: 50.08464
   lon: 16.654485
   elevation: 749
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" A/55/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" A/55/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371583670
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371583670
+  type: web
+- title: ropiky.net (ID 1075722968)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722968
+  type: web
+updated: '2026-04-22'

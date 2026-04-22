@@ -1,16 +1,19 @@
-title: "4/3067/D1"
-code: "4/3067/D1"
+title: 4/3067/D1
+code: 4/3067/D1
 type: lo-vz-36
-line: "4"
-region: "Jihomoravský kraj"
+line: '4'
+region: Jihomoravský kraj
 location:
-  lat: 48.829540
+  lat: 48.82954
   lon: 16.574957
   elevation: 229
 state: neznamy
 description: Lehký objekt vz. 36 4/3067/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/316481697
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/316481697
+  type: web
+- title: ropiky.net (ID 1075726480)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726480
+  type: web
+updated: '2026-04-22'

@@ -1,16 +1,19 @@
 title: 191/28/A-140 Z
 code: 191/28/A-140 Z
 type: lo-vz-37
-line: "191"
-region: "Jihočeský kraj"
+line: '191'
+region: Jihočeský kraj
 location:
   lat: 48.954133
   lon: 13.784477
   elevation: 858
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 191/28/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 191/28/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372001389
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372001389
+  type: web
+- title: ropiky.net (ID 1075722486)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722486
+  type: web
+updated: '2026-04-22'

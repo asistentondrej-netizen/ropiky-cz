@@ -1,16 +1,19 @@
-title: "173/45/B2-80"
-code: "173/45/B2-80"
+title: 173/45/B2-80
+code: 173/45/B2-80
 type: lo-vz-37
-line: "173"
-region: "Plzeňský kraj"
+line: '173'
+region: Plzeňský kraj
 location:
   lat: 49.625107
-  lon: 13.010950
+  lon: 13.01095
   elevation: 465
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 173/45/B2-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 173/45/B2-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371970701
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371970701
+  type: web
+- title: ropiky.net (ID 1075721541)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721541
+  type: web
+updated: '2026-04-22'

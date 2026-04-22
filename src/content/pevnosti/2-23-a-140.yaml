@@ -1,16 +1,19 @@
-title: "2/23/A-140"
-code: "2/23/A-140"
+title: 2/23/A-140
+code: 2/23/A-140
 type: lo-vz-37
-line: "2"
-region: "Jihomoravský kraj"
+line: '2'
+region: Jihomoravský kraj
 location:
-  lat: 48.785970
-  lon: 16.421420
+  lat: 48.78597
+  lon: 16.42142
   elevation: 179
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 2/23/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 2/23/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075508
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075508
+  type: web
+- title: ropiky.net (ID 1075726338)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726338
+  type: web
+updated: '2026-04-22'

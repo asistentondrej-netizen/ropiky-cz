@@ -2,15 +2,18 @@ title: H-40/31/D1
 code: H-40/31/D1
 type: lo-vz-36
 line: H-40
-region: "Plzeňský kraj"
+region: Plzeňský kraj
 location:
-  lat: 49.181480
-  lon: 13.483420
+  lat: 49.18148
+  lon: 13.48342
   elevation: 671
 state: neznamy
 description: Lehký objekt vz. 36 H-40/31/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372001296
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372001296
+  type: web
+- title: ropiky.net (ID 1075720189)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720189
+  type: web
+updated: '2026-04-22'

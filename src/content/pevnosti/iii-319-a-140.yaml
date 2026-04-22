@@ -2,15 +2,18 @@ title: III/319/A-140
 code: III/319/A-140
 type: lo-vz-37
 line: III
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 49.949125
-  lon: 17.844810
+  lon: 17.84481
   elevation: 288
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" III/319/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" III/319/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723296
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723296
+  type: web
+- title: ropiky.net (ID 1075726794)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726794
+  type: web
+updated: '2026-04-22'

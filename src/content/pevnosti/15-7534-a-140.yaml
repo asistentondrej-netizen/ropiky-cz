@@ -1,16 +1,19 @@
-title: "15/7534/A-140"
-code: "15/7534/A-140"
+title: 15/7534/A-140
+code: 15/7534/A-140
 type: lo-vz-37
-line: "15"
-region: "Jihomoravský kraj"
+line: '15'
+region: Jihomoravský kraj
 location:
-  lat: 48.977580
+  lat: 48.97758
   lon: 16.515445
   elevation: 181
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 15/7534/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 15/7534/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371739074
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371739074
+  type: web
+- title: ropiky.net (ID 1105625392)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625392
+  type: web
+updated: '2026-04-22'

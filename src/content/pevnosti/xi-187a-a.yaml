@@ -2,15 +2,18 @@ title: XI./187a/A -
 code: XI./187a/A -
 type: lo-vz-37
 line: Neurčeno
-region: "Ústecký kraj"
+region: Ústecký kraj
 location:
   lat: 50.649692
-  lon: 14.030140
+  lon: 14.03014
   elevation: 303
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XI./187a/A -. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XI./187a/A -. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/442204807
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/442204807
+  type: web
+- title: ropiky.net (ID 1096630643)
+  url: https://ropiky.net/dbase_objekt.php?id=1096630643
+  type: web
+updated: '2026-04-22'

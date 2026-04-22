@@ -2,15 +2,18 @@ title: XVI/706/A-140
 code: XVI/706/A-140
 type: lo-vz-37
 line: XVI
-region: "Banskobystrický kraj"
+region: Banskobystrický kraj
 location:
-  lat: 48.223470
-  lon: 19.347860
+  lat: 48.22347
+  lon: 19.34786
   elevation: 321
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XVI/706/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" XVI/706/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372141131
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372141131
+  type: web
+- title: ropiky.net (ID 1075728553)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728553
+  type: web
+updated: '2026-04-22'

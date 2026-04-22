@@ -2,15 +2,18 @@ title: E-21/1/A-180 Z
 code: E-21/1/A-180 Z
 type: lo-vz-37
 line: E-21
-region: "Karlovarský kraj"
+region: Karlovarský kraj
 location:
   lat: 49.870052
   lon: 13.036602
   elevation: 412
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" E-21/1/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" E-21/1/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/944462900
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/944462900
+  type: web
+- title: ropiky.net (ID 1075719936)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719936
+  type: web
+updated: '2026-04-22'

@@ -2,7 +2,7 @@ title: O2/65a/D2 Z
 code: O2/65a/D2 Z
 type: lo-vz-36
 line: O2
-region: "Ústecký kraj"
+region: Ústecký kraj
 location:
   lat: 50.776287
   lon: 14.206517
@@ -10,7 +10,10 @@ location:
 state: neznamy
 description: Lehký objekt vz. 36 O2/65a/D2 Z. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/463074055
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/463074055
+  type: web
+- title: ropiky.net (ID 1075725559)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725559
+  type: web
+updated: '2026-04-22'

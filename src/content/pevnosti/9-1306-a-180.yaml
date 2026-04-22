@@ -1,16 +1,19 @@
-title: "9/1306/A-180"
-code: "9/1306/A-180"
+title: 9/1306/A-180
+code: 9/1306/A-180
 type: lo-vz-37
-line: "9"
-region: "Jihočeský kraj"
+line: '9'
+region: Jihočeský kraj
 location:
-  lat: 48.991340
-  lon: 15.442860
+  lat: 48.99134
+  lon: 15.44286
   elevation: 483
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 9/1306/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 9/1306/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372077020
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372077020
+  type: web
+- title: ropiky.net (ID 1075726711)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726711
+  type: web
+updated: '2026-04-22'

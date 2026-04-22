@@ -1,16 +1,19 @@
-title: "3/1190/C2"
-code: "3/1190/C2"
+title: 3/1190/C2
+code: 3/1190/C2
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
-  lat: 48.894950
-  lon: 15.652940
+  lat: 48.89495
+  lon: 15.65294
   elevation: 418
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 3/1190/C2. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 3/1190/C2. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075756
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075756
+  type: web
+- title: ropiky.net (ID 1075726446)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726446
+  type: web
+updated: '2026-04-22'

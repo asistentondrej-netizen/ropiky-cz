@@ -2,15 +2,18 @@ title: 4/131/1 -
 code: 4/131/1 -
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.779174
-  lon: 16.701930
+  lon: 16.70193
   elevation: 178
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 4/131/1 -. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 4/131/1 -. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/316482455
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/316482455
+  type: web
+- title: ropiky.net (ID 1075718481)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718481
+  type: web
+updated: '2026-04-22'

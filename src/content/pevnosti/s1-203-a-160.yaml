@@ -2,15 +2,18 @@ title: S1/203/A-160
 code: S1/203/A-160
 type: lo-vz-37
 line: S1
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.707776
   lon: 14.823861
   elevation: 320
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" S1/203/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" S1/203/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/655224544
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/655224544
+  type: web
+- title: ropiky.net (ID 1075726132)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726132
+  type: web
+updated: '2026-04-22'

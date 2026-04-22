@@ -2,15 +2,18 @@ title: G3/261/B2-90
 code: G3/261/B2-90
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.617543
   lon: 15.911638
   elevation: 598
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" G3/261/B2-90. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: zachovaly
+description: Lehký objekt vz. 37 „řopík" G3/261/B2-90. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/330119697
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/330119697
+  type: web
+- title: ropiky.net (ID 1075723995)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723995
+  type: web
+updated: '2026-04-22'

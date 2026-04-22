@@ -2,15 +2,18 @@ title: VI/593/B2-100
 code: VI/593/B2-100
 type: lo-vz-37
 line: VI
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 49.981350
-  lon: 17.615060
+  lat: 49.98135
+  lon: 17.61506
   elevation: 543
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" VI/593/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" VI/593/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723553
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723553
+  type: web
+- title: ropiky.net (ID 1105952289)
+  url: https://ropiky.net/dbase_objekt.php?id=1105952289
+  type: web
+updated: '2026-04-22'

@@ -1,16 +1,19 @@
-title: "174/68/A-160"
-code: "174/68/A-160"
+title: 174/68/A-160
+code: 174/68/A-160
 type: lo-vz-37
-line: "174"
-region: "Plzeňský kraj"
+line: '174'
+region: Plzeňský kraj
 location:
-  lat: 49.615560
-  lon: 13.060310
+  lat: 49.61556
+  lon: 13.06031
   elevation: 465
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 174/68/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 174/68/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371970730
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371970730
+  type: web
+- title: ropiky.net (ID 1075721624)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721624
+  type: web
+updated: '2026-04-22'

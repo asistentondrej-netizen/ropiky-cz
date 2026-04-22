@@ -1,16 +1,19 @@
-title: "7-II/49/E"
-code: "7-II/49/E"
+title: 7-II/49/E
+code: 7-II/49/E
 type: lo-vz-37
-line: "7-II"
-region: "Jihomoravský kraj"
+line: 7-II
+region: Jihomoravský kraj
 location:
-  lat: 48.781580
+  lat: 48.78158
   lon: 16.204695
   elevation: 190
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 7-II/49/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 7-II/49/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076288
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076288
+  type: web
+- title: ropiky.net (ID 1105625255)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625255
+  type: web
+updated: '2026-04-22'

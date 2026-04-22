@@ -2,33 +2,36 @@ title: F2/73/A-160 Z
 code: F2/73/A-160 Z
 type: lo-vz-37
 line: F2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.506523
   lon: 16.128203
   elevation: 548
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" F2/73/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" F2/73/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584194
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584194
+  type: web
+- title: ropiky.net (ID 1075723700)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723700
+  type: web
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Objekt_F2-73-A-160Z_01.jpg/1920px-Objekt_F2-73-A-160Z_01.jpg"
-    alt: "F2/73/A-160 Z"
-    author: "Michal Gregor"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:Objekt_F2-73-A-160Z_01.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Objekt_F2-73-A-160Z_02.jpg/1920px-Objekt_F2-73-A-160Z_02.jpg"
-    alt: "F2/73/A-160 Z"
-    author: "Michal Gregor"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:Objekt_F2-73-A-160Z_02.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Objekt_F2-73-A-160Z_03.jpg/1920px-Objekt_F2-73-A-160Z_03.jpg"
-    alt: "F2/73/A-160 Z"
-    author: "Michal Gregor"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:Objekt_F2-73-A-160Z_03.jpg"
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Objekt_F2-73-A-160Z_01.jpg/1920px-Objekt_F2-73-A-160Z_01.jpg
+  alt: F2/73/A-160 Z
+  author: Michal Gregor
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Objekt_F2-73-A-160Z_01.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Objekt_F2-73-A-160Z_02.jpg/1920px-Objekt_F2-73-A-160Z_02.jpg
+  alt: F2/73/A-160 Z
+  author: Michal Gregor
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Objekt_F2-73-A-160Z_02.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Objekt_F2-73-A-160Z_03.jpg/1920px-Objekt_F2-73-A-160Z_03.jpg
+  alt: F2/73/A-160 Z
+  author: Michal Gregor
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Objekt_F2-73-A-160Z_03.jpg
 wikidata_id: Q85410389
 commons_category: F2/73/A-160Z light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'

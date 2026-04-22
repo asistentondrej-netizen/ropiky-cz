@@ -2,15 +2,18 @@ title: D-15/72/A-160
 code: D-15/72/A-160
 type: lo-vz-37
 line: D-15
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
-  lat: 50.210470
+  lat: 50.21047
   lon: 13.468439
   elevation: 291
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D-15/72/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" D-15/72/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/257671769
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/257671769
+  type: web
+- title: ropiky.net (ID 1075719612)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719612
+  type: web
+updated: '2026-04-22'

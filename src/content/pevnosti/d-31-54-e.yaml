@@ -2,15 +2,18 @@ title: D-31/54/E
 code: D-31/54/E
 type: lo-vz-37
 line: D-31
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
-  lat: 50.053510
+  lat: 50.05351
   lon: 13.289764
   elevation: 460
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D-31/54/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" D-31/54/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371969436
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371969436
+  type: web
+- title: ropiky.net (ID 1075719769)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719769
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: V/960/A-120
 code: V/960/A-120
 type: lo-vz-37
 line: V
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 49.958820
-  lon: 17.722470
+  lat: 49.95882
+  lon: 17.72247
   elevation: 386
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" V/960/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" V/960/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723493
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723493
+  type: web
+- title: ropiky.net (ID 1075726894)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726894
+  type: web
+updated: '2026-04-22'

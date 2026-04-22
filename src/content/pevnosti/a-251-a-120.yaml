@@ -2,15 +2,18 @@ title: A/251/A-120
 code: A/251/A-120
 type: lo-vz-37
 line: A
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.088770
-  lon: 16.644110
+  lat: 50.08877
+  lon: 16.64411
   elevation: 645
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" A/251/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" A/251/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371583622
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371583622
+  type: web
+- title: ropiky.net (ID 1075723038)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723038
+  type: web
+updated: '2026-04-22'

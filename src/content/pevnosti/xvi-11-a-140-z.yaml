@@ -2,15 +2,18 @@ title: XVI/11/A-140 Z
 code: XVI/11/A-140 Z
 type: lo-vz-37
 line: XVI
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
-  lat: 49.915180
-  lon: 18.419090
+  lat: 49.91518
+  lon: 18.41909
   elevation: 198
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XVI/11/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XVI/11/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724319
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724319
+  type: web
+- title: ropiky.net (ID 1075727451)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727451
+  type: web
+updated: '2026-04-22'

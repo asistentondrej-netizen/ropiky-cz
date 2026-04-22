@@ -2,15 +2,18 @@ title: A/260/D1 U
 code: A/260/D1 U
 type: lo-vz-36
 line: A
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.079379
-  lon: 16.656340
+  lon: 16.65634
   elevation: 827
 state: neznamy
 description: Lehký objekt vz. 36 A/260/D1 U. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371583632
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371583632
+  type: web
+- title: ropiky.net (ID 1075723047)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723047
+  type: web
+updated: '2026-04-22'

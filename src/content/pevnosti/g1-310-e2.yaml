@@ -2,15 +2,18 @@ title: G1/310/E2
 code: G1/310/E2
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.583715
   lon: 15.984705
   elevation: 499
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" G1/310/E2. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" G1/310/E2. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584325
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584325
+  type: web
+- title: ropiky.net (ID 1075723912)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723912
+  type: web
+updated: '2026-04-22'

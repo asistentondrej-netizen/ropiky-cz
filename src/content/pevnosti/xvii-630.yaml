@@ -1,16 +1,19 @@
-title: "XVII/630/? ?"
-code: "XVII/630/? ?"
+title: XVII/630/? ?
+code: XVII/630/? ?
 type: lo-vz-37
 line: Neurčeno
-region: "Banskobystrický kraj"
+region: Banskobystrický kraj
 location:
-  lat: 48.266690
+  lat: 48.26669
   lon: 19.478103
   elevation: 199
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XVII/630/? ?. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" XVII/630/? ?. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372141159
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372141159
+  type: web
+- title: ropiky.net (ID 1075728592)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728592
+  type: web
+updated: '2026-04-22'

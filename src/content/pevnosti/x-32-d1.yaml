@@ -2,7 +2,7 @@ title: X/32/D1
 code: X/32/D1
 type: lo-vz-36
 line: X
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.307823
   lon: 16.387133
@@ -10,7 +10,10 @@ location:
 state: neznamy
 description: Lehký objekt vz. 36 X/32/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584448
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584448
+  type: web
+- title: ropiky.net (ID 1075723329)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723329
+  type: web
+updated: '2026-04-22'

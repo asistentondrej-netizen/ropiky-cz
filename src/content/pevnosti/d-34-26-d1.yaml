@@ -2,15 +2,18 @@ title: D-34/26/D1
 code: D-34/26/D1
 type: lo-vz-36
 line: D-34
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 49.980495
-  lon: 13.240600
+  lon: 13.2406
   elevation: 423
-state: neznamy
+state: rozpadly
 description: Lehký objekt vz. 36 D-34/26/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371969450
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371969450
+  type: web
+- title: ropiky.net (ID 1075719815)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719815
+  type: web
+updated: '2026-04-22'

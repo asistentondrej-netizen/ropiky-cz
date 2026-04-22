@@ -1,16 +1,16 @@
-title: "{A(3)}/304/A-120Z"
-code: "{A(3)}/304/A-120Z"
+title: '{A(3)}/304/A-120Z'
+code: '{A(3)}/304/A-120Z'
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.224399
   lon: 16.500103
   elevation: 939
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" {A(3)}/304/A-120Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" {A(3)}/304/A-120Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/5439412267
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/5439412267
+  type: web
+updated: '2026-04-22'

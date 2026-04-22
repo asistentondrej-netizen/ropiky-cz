@@ -1,37 +1,42 @@
 title: 182/33/A-140 Z
 code: 182/33/A-140 Z
 type: lo-vz-37
-line: "182"
-region: "Jihočeský kraj"
+line: '182'
+region: Jihočeský kraj
 location:
   lat: 48.876364
-  lon: 14.583580
+  lon: 14.58358
   elevation: 448
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 182/33/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 182/33/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/402330033
-    type: web
-  - title: Wikidata Q37315034
-    url: https://www.wikidata.org/wiki/Q37315034
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/402330033
+  type: web
+- title: Wikidata Q37315034
+  url: https://www.wikidata.org/wiki/Q37315034
+  type: web
+- title: ropiky.net (ID 1075721963)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721963
+  type: web
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%C5%98op%C3%ADk_Veselka_01.jpg/1920px-%C5%98op%C3%ADk_Veselka_01.jpg"
-    alt: "182/33/A-140 Z"
-    author: "Jitka Erbenová (cheva)"
-    license: "CC BY-SA 3.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_Veselka_01.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%C5%98op%C3%ADk_Veselka_03.jpg/1920px-%C5%98op%C3%ADk_Veselka_03.jpg"
-    alt: "182/33/A-140 Z"
-    author: "Jitka Erbenová (cheva)"
-    license: "CC BY-SA 3.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_Veselka_03.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%C5%98op%C3%ADk_Veselka_04.jpg/1920px-%C5%98op%C3%ADk_Veselka_04.jpg"
-    alt: "182/33/A-140 Z"
-    author: "Jitka Erbenová (cheva)"
-    license: "CC BY-SA 3.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_Veselka_04.jpg"
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%C5%98op%C3%ADk_Veselka_01.jpg/1920px-%C5%98op%C3%ADk_Veselka_01.jpg
+  alt: 182/33/A-140 Z
+  author: Jitka Erbenová (cheva)
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_Veselka_01.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%C5%98op%C3%ADk_Veselka_03.jpg/1920px-%C5%98op%C3%ADk_Veselka_03.jpg
+  alt: 182/33/A-140 Z
+  author: Jitka Erbenová (cheva)
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_Veselka_03.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/%C5%98op%C3%ADk_Veselka_04.jpg/1920px-%C5%98op%C3%ADk_Veselka_04.jpg
+  alt: 182/33/A-140 Z
+  author: Jitka Erbenová (cheva)
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_Veselka_04.jpg
 wikidata_id: Q37315034
 commons_category: 182/33/A-140 Z light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'
+pamatka:
+  status: kulturni-pamatka

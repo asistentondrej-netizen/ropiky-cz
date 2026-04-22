@@ -1,16 +1,19 @@
-title: "183/78/A-180"
-code: "183/78/A-180"
+title: 183/78/A-180
+code: 183/78/A-180
 type: lo-vz-37
-line: "183"
-region: "Jihočeský kraj"
+line: '183'
+region: Jihočeský kraj
 location:
   lat: 48.942597
   lon: 14.748953
   elevation: 469
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 183/78/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" 183/78/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3019721440
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3019721440
+  type: web
+- title: ropiky.net (ID 1075722075)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722075
+  type: web
+updated: '2026-04-22'

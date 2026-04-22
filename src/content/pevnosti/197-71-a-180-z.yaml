@@ -1,16 +1,19 @@
 title: 197/71/A-180 Z
 code: 197/71/A-180 Z
 type: lo-vz-37
-line: "197"
-region: "Jihočeský kraj"
+line: '197'
+region: Jihočeský kraj
 location:
   lat: 48.831849
   lon: 14.239033
   elevation: 547
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 197/71/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 197/71/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/262096619
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/262096619
+  type: web
+- title: ropiky.net (ID 1075722823)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722823
+  type: web
+updated: '2026-04-22'

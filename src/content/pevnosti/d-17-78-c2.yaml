@@ -2,15 +2,18 @@ title: D-17/78/C2
 code: D-17/78/C2
 type: lo-vz-37
 line: Neurčeno
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
-  lat: 50.080730
+  lat: 50.08073
   lon: 13.283233
   elevation: 494
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D-17/78/C2. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" D-17/78/C2. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371969348
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371969348
+  type: web
+- title: ropiky.net (ID 1075719761)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719761
+  type: web
+updated: '2026-04-22'

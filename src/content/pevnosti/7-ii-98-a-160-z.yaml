@@ -2,15 +2,18 @@ title: 7/II/98/A-160 Z
 code: 7/II/98/A-160 Z
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.788827
   lon: 16.013239
   elevation: 259
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 7/II/98/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 7/II/98/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076476
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076476
+  type: web
+- title: ropiky.net (ID 1105625304)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625304
+  type: web
+updated: '2026-04-22'

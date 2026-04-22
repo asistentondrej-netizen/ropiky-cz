@@ -2,15 +2,18 @@ title: II/2/A-120
 code: II/2/A-120
 type: lo-vz-37
 line: II
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
-  lat: 49.916810
+  lat: 49.91681
   lon: 17.977013
   elevation: 238
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" II/2/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" II/2/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723067
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723067
+  type: web
+- title: ropiky.net (ID 1105711888)
+  url: https://ropiky.net/dbase_objekt.php?id=1105711888
+  type: web
+updated: '2026-04-22'

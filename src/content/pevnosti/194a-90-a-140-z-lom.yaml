@@ -2,15 +2,18 @@ title: 194a/90/A-140 Z lom
 code: 194a/90/A-140 Z lom
 type: lo-vz-37
 line: Neurčeno
-region: "Plzeňský kraj"
+region: Plzeňský kraj
 location:
-  lat: 49.139270
+  lat: 49.13927
   lon: 13.599735
   elevation: 793
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 194a/90/A-140 Z lom. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 194a/90/A-140 Z lom. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372001432
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372001432
+  type: web
+- title: ropiky.net (ID 1075722610)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722610
+  type: web
+updated: '2026-04-22'

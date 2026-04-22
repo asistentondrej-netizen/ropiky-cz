@@ -2,33 +2,36 @@ title: P1/25/A-200 Z
 code: P1/25/A-200 Z
 type: lo-vz-37
 line: P1
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.413265
   lon: 14.438665
   elevation: 177
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" P1/25/A-200 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" P1/25/A-200 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371451053
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371451053
+  type: web
+- title: ropiky.net (ID 1075725692)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725692
+  type: web
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_01.jpg/1920px-%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_01.jpg"
-    alt: "P1/25/A-200 Z"
-    author: "Hubert Kororo"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_01.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_02.jpg/1920px-%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_02.jpg"
-    alt: "P1/25/A-200 Z"
-    author: "Hubert Kororo"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_02.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_03.jpg/1920px-%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_03.jpg"
-    alt: "P1/25/A-200 Z"
-    author: "Hubert Kororo"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_03.jpg"
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_01.jpg/1920px-%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_01.jpg
+  alt: P1/25/A-200 Z
+  author: Hubert Kororo
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_01.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_02.jpg/1920px-%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_02.jpg
+  alt: P1/25/A-200 Z
+  author: Hubert Kororo
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_02.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_03.jpg/1920px-%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_03.jpg
+  alt: P1/25/A-200 Z
+  author: Hubert Kororo
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_nad_lib%C4%9Bchovsk%C3%BDm_n%C3%A1dra%C5%BE%C3%ADm_2024-12-31_03.jpg
 wikidata_id: Q131607969
 commons_category: P1/25/A-200Z light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'

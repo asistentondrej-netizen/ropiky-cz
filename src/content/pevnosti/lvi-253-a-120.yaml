@@ -2,15 +2,18 @@ title: LVI/253/A-120
 code: LVI/253/A-120
 type: lo-vz-37
 line: LVI
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
-  lat: 48.609450
-  lon: 16.970760
+  lat: 48.60945
+  lon: 16.97076
   elevation: 147
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" LVI/253/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" LVI/253/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075329
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075329
+  type: web
+- title: ropiky.net (ID 1075728977)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728977
+  type: web
+updated: '2026-04-22'

@@ -2,33 +2,37 @@ title: H-42/39/A-180
 code: H-42/39/A-180
 type: lo-vz-37
 line: H-42
-region: "Jihočeský kraj"
+region: Jihočeský kraj
 location:
   lat: 48.971047
-  lon: 13.935950
+  lon: 13.93595
   elevation: 816
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" H-42/39/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" H-42/39/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372001346
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372001346
+  type: web
+- title: ropiky.net (ID 1075720267)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720267
+  type: web
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/%C5%98OP_39%2C_Prachatice_01.jpg/1920px-%C5%98OP_39%2C_Prachatice_01.jpg"
-    alt: "H-42/39/A-180"
-    author: "MIGORMCZ"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_39,_Prachatice_01.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%C5%98OP_39%2C_Prachatice_03.jpg/1920px-%C5%98OP_39%2C_Prachatice_03.jpg"
-    alt: "H-42/39/A-180"
-    author: "MIGORMCZ"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_39,_Prachatice_03.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%C5%98OP_39%2C_Prachatice_04.jpg/1920px-%C5%98OP_39%2C_Prachatice_04.jpg"
-    alt: "H-42/39/A-180"
-    author: "MIGORMCZ"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:%C5%98OP_39,_Prachatice_04.jpg"
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/%C5%98OP_39%2C_Prachatice_01.jpg/1920px-%C5%98OP_39%2C_Prachatice_01.jpg
+  alt: H-42/39/A-180
+  author: MIGORMCZ
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98OP_39,_Prachatice_01.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%C5%98OP_39%2C_Prachatice_03.jpg/1920px-%C5%98OP_39%2C_Prachatice_03.jpg
+  alt: H-42/39/A-180
+  author: MIGORMCZ
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98OP_39,_Prachatice_03.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/%C5%98OP_39%2C_Prachatice_04.jpg/1920px-%C5%98OP_39%2C_Prachatice_04.jpg
+  alt: H-42/39/A-180
+  author: MIGORMCZ
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:%C5%98OP_39,_Prachatice_04.jpg
 wikidata_id: Q62050864
 commons_category: H-42/39/A-180 light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'
+built: '1937-09-22'

@@ -2,7 +2,7 @@ title: E-24/5/D1
 code: E-24/5/D1
 type: lo-vz-36
 line: E-24
-region: "Plzeňský kraj"
+region: Plzeňský kraj
 location:
   lat: 49.592753
   lon: 13.093453
@@ -10,7 +10,10 @@ location:
 state: neznamy
 description: Lehký objekt vz. 36 E-24/5/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371969651
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371969651
+  type: web
+- title: ropiky.net (ID 1075720038)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720038
+  type: web
+updated: '2026-04-22'

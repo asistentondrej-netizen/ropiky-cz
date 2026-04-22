@@ -2,15 +2,18 @@ title: L2/30/A-180
 code: L2/30/A-180
 type: lo-vz-37
 line: L2
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
-  lat: 50.806940
-  lon: 14.785820
+  lat: 50.80694
+  lon: 14.78582
   elevation: 516
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" L2/30/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" L2/30/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/683935701
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/683935701
+  type: web
+- title: ropiky.net (ID 1075725123)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725123
+  type: web
+updated: '2026-04-22'

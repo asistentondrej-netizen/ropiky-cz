@@ -2,15 +2,18 @@ title: CH2/56/D1
 code: CH2/56/D1
 type: lo-vz-36
 line: CH2
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
-  lat: 50.751900
+  lat: 50.7519
   lon: 15.364417
   elevation: 838
 state: neznamy
 description: Lehký objekt vz. 36 CH2/56/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371408370
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371408370
+  type: web
+- title: ropiky.net (ID 1075724504)
+  url: https://ropiky.net/dbase_objekt.php?id=1075724504
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: D-19/3/A-160
 code: D-19/3/A-160
 type: lo-vz-37
 line: D-19
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 49.960525
-  lon: 13.204950
+  lon: 13.20495
   elevation: 575
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D-19/3/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" D-19/3/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371969362
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371969362
+  type: web
+- title: ropiky.net (ID 1075719842)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719842
+  type: web
+updated: '2026-04-22'

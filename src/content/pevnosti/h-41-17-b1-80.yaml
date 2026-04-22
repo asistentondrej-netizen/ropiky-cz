@@ -2,15 +2,18 @@ title: H-41/17/B1-80
 code: H-41/17/B1-80
 type: lo-vz-37
 line: H-41
-region: "Jihočeský kraj"
+region: Jihočeský kraj
 location:
   lat: 49.019953
   lon: 13.735415
   elevation: 896
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" H-41/17/B1-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" H-41/17/B1-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372001313
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372001313
+  type: web
+- title: ropiky.net (ID 1075720217)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720217
+  type: web
+updated: '2026-04-22'

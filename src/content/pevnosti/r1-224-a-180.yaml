@@ -2,15 +2,18 @@ title: R1/224/A-180
 code: R1/224/A-180
 type: lo-vz-37
 line: R1
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.670078
-  lon: 14.705980
+  lon: 14.70598
   elevation: 326
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" R1/224/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" R1/224/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/655224625
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/655224625
+  type: web
+- title: ropiky.net (ID 1075726022)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726022
+  type: web
+updated: '2026-04-22'

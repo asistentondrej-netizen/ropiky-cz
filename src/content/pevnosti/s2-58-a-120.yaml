@@ -2,15 +2,18 @@ title: S2/58/A-120
 code: S2/58/A-120
 type: lo-vz-37
 line: S2
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
-  lat: 50.786960
-  lon: 14.891120
+  lat: 50.78696
+  lon: 14.89112
   elevation: 682
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" S2/58/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" S2/58/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371376642
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371376642
+  type: web
+- title: ropiky.net (ID 1075726182)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726182
+  type: web
+updated: '2026-04-22'

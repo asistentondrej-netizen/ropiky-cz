@@ -2,44 +2,44 @@ title: Tvrz Orel
 code: MO-S Tvrz Orel
 type: delostrelecka-tvrz
 line: Moravská Ostrava
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.92872
   lon: 18.21632
   elevation: 274
   address: Darkovice / Darkovičky
 state: zachovaly
+description: 'Rozestavěná dělostřelecká tvrz u Darkovic a Darkoviček na úseku Moravské Ostravy. Součást čs. opevnění 1935–1938, před Mnichovem nedokončena.
 
-description: >
-  Rozestavěná dělostřelecká tvrz u Darkovic a Darkoviček na úseku Moravské Ostravy. Součást čs. opevnění 1935–1938, před Mnichovem nedokončena.
+  '
+history: 'Tvrz Orel byla součástí plánu výstavby čs. opevnění 1935–1938. Realizace byla přerušena po Mnichovské dohodě 30. 9. 1938, tvrz zůstala nedokončená. Některé betonové objekty jsou dodnes patrné v krajině.
 
-history: >
-  Tvrz Orel byla součástí plánu výstavby čs. opevnění 1935–1938.
-  Realizace byla přerušena po Mnichovské dohodě 30. 9. 1938, tvrz zůstala
-  nedokončená. Některé betonové objekty jsou dodnes patrné v krajině.
+  '
+visit: 'Tvrz je **rozestavěná** — jednotlivé objekty jsou volně přístupné v terénu, ale bez interiérů a vybavení. Před návštěvou ověřte přístupnost, některé části mohou být na soukromých pozemcích.
 
-visit: >
-  Tvrz je **rozestavěná** — jednotlivé objekty jsou volně přístupné v terénu,
-  ale bez interiérů a vybavení. Před návštěvou ověřte přístupnost, některé
-  části mohou být na soukromých pozemcích.
-
+  '
 related:
   pevnosti:
-    - tvrz-bouda
-    - tvrz-hurka
-    - tvrz-adam
-    - tvrz-hanicka
-    - tvrz-smolkov
-    - tvrz-dobrosov
+  - tvrz-bouda
+  - tvrz-hurka
+  - tvrz-adam
+  - tvrz-hanicka
+  - tvrz-smolkov
+  - tvrz-dobrosov
   typologie:
-    - delostrelecka-tvrz
-
+  - delostrelecka-tvrz
 sources:
-  - title: Wikipedie — Tvrz Orel (dělostřelecká tvrz)
-    url: https://cs.wikipedia.org/wiki/Orel_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
-    type: web
-
+- title: Wikipedie — Tvrz Orel (dělostřelecká tvrz)
+  url: https://cs.wikipedia.org/wiki/Orel_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
+  type: web
 wikidata_id: Q12042864
-wikipedia_url: "https://cs.wikipedia.org/wiki/Orel_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
+wikipedia_url: https://cs.wikipedia.org/wiki/Orel_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
 commons_category: Orel (fortress)
-updated: '2026-04-21'
+updated: '2026-04-22'
+photos:
+- url: https://commons.wikimedia.org/wiki/Special:FilePath/Darkovice,_MO-S_20_(2015-05-01;_03).jpg?width=1024
+  alt: Fotografie objektu Tvrz Orel
+  author: Wikimedia Commons
+  license: CC (viz Commons)
+  source: https://commons.wikimedia.org/wiki/File:Darkovice,_MO-S_20_(2015-05-01;_03).jpg
+  featured: false

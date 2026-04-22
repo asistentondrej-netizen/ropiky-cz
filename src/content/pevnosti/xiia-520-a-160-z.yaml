@@ -2,15 +2,18 @@ title: XIIa/520/A-160 Z
 code: XIIa/520/A-160 Z
 type: lo-vz-37
 line: Neurčeno
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.098534
   lon: 17.453307
   elevation: 477
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XIIa/520/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XIIa/520/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723997
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723997
+  type: web
+- title: ropiky.net (ID 1075727228)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727228
+  type: web
+updated: '2026-04-22'

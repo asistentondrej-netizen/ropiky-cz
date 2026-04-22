@@ -1,16 +1,19 @@
-title: "5/1231/B1-90"
-code: "5/1231/B1-90"
+title: 5/1231/B1-90
+code: 5/1231/B1-90
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.905443
   lon: 15.799833
   elevation: 402
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 5/1231/B1-90. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 5/1231/B1-90. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076110
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076110
+  type: web
+- title: ropiky.net (ID 1075726517)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726517
+  type: web
+updated: '2026-04-22'

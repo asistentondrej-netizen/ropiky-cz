@@ -2,15 +2,18 @@ title: CH2/240/A-160
 code: CH2/240/A-160
 type: lo-vz-37
 line: CH2
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.764041
   lon: 15.354474
   elevation: 805
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" CH2/240/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" CH2/240/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371408336
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371408336
+  type: web
+- title: ropiky.net (ID 1075724520)
+  url: https://ropiky.net/dbase_objekt.php?id=1075724520
+  type: web
+updated: '2026-04-22'

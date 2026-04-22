@@ -2,15 +2,18 @@ title: Z2/10b/D1
 code: Z2/10b/D1
 type: lo-vz-36
 line: Z2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.677055
-  lon: 15.822880
+  lon: 15.82288
   elevation: 742
 state: neznamy
 description: Lehký objekt vz. 36 Z2/10b/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371461150
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371461150
+  type: web
+- title: ropiky.net (ID 1075724085)
+  url: https://ropiky.net/dbase_objekt.php?id=1075724085
+  type: web
+updated: '2026-04-22'

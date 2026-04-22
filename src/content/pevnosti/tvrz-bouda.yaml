@@ -2,24 +2,17 @@ title: Tvrz Bouda
 code: K-S Tvrz Bouda
 type: delostrelecka-tvrz
 line: Králíky
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
   lat: 50.072558
   lon: 16.680352
   address: Těchonín, 563 72
   elevation: 727
-
 built: '1938'
 state: muzeum
+description: 'Dělostřelecká tvrz Bouda je jedním z pěti plně dokončených pevnostních komplexů československého opevnění 1935–1938 a dnes nejautentičtěji zachovaná tvrz na území ČR. Pětice bojových srubů propojených systémem podzemních chodeb v hloubce 38 metrů tvoří páteř fortifikace chránící Králicko. Po válce sloužila armádě jako sklad, od roku 1990 funguje jako muzeum s průvodcem.
 
-description: >
-  Dělostřelecká tvrz Bouda je jedním z pěti plně dokončených pevnostních komplexů
-  československého opevnění 1935–1938 a dnes nejautentičtěji zachovaná tvrz na území ČR.
-  Pětice bojových srubů propojených systémem podzemních chodeb v hloubce
-  38 metrů tvoří páteř fortifikace chránící Králicko. Po válce sloužila armádě jako sklad,
-  od roku 1990 funguje jako muzeum s průvodcem.
-
-# === TECHNICKÁ KARTA ===
+  '
 tech:
   odolnost: IV
   stupenDokonceni: dokonceny
@@ -29,26 +22,24 @@ tech:
     maxi: 318
     poznamka: Plán 318 mužů v plném stavu; za mobilizace 1938 zde bylo cca 250.
   vyzbroj:
-    - zbran: Minomet vz. 38
-      pocet: 3
-      umisteni: K-S 22a — zvon M
-    - zbran: Kulomet ZB vz. 37 (těžký)
-      pocet: 12
-      umisteni: střílny a zvony
-    - zbran: Protitankový kanón vz. 36 (4 cm)
-      pocet: 4
-      umisteni: sruby K-S 21, 22
-    - zbran: Kulomet ZB vz. 26 (lehký)
-      pocet: 18
-      umisteni: pomocné střílny
+  - zbran: Minomet vz. 38
+    pocet: 3
+    umisteni: K-S 22a — zvon M
+  - zbran: Kulomet ZB vz. 37 (těžký)
+    pocet: 12
+    umisteni: střílny a zvony
+  - zbran: Protitankový kanón vz. 36 (4 cm)
+    pocet: 4
+    umisteni: sruby K-S 21, 22
+  - zbran: Kulomet ZB vz. 26 (lehký)
+    pocet: 18
+    umisteni: pomocné střílny
   steny:
     tloustka_cm: 350
     material: Železobeton B500 (třída A)
   komponenty:
-    - pancerovy-zvon
-    - kopule-pozorovaci
-
-# === STAVBA ===
+  - pancerovy-zvon
+  - kopule-pozorovaci
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   stavebniFirma: Konsorcium Ing. Kruliš + Ing. Strnad (Praha)
@@ -59,64 +50,43 @@ stavba:
   cena_kc_dnes_priblizne: 1800000000
   delnikuPocet: 1100
   poznamka: Dokončena v předvečer mobilizace, vyzbrojena, nikdy neobsazena bojově.
-
-# === HISTORIE ===
-history: >
-  Stavba tvrze Bouda byla zahájena 1. září 1936 a probíhala v režimu nejvyšší státní
-  priority. V jejím nitru bylo vyhloubeno přes 750 metrů podzemních chodeb v hloubce
-  38 metrů pod úrovní terénu, která nese jméno podle nedalekého vrchu Suchý vrch.
+history: 'Stavba tvrze Bouda byla zahájena 1. září 1936 a probíhala v režimu nejvyšší státní priority. V jejím nitru bylo vyhloubeno přes 750 metrů podzemních chodeb v hloubce 38 metrů pod úrovní terénu, která nese jméno podle nedalekého vrchu Suchý vrch.
 
 
-  Komplex tvoří pětice bojových srubů: K-S 22 „U silnice", K-S 22a „U kamene",
-  K-S 23 „Krok", K-S 24 „Utržený" a vchodový srub K-S 21 „Pod lomem". Páteří podzemí
-  je centrální hala s kasárnami pro posádku, strojovna, filtrace vzduchu, studna
-  a polní lékařská stanice. Tvrz byla navržena jako zcela soběstačná jednotka
-  schopná obrany po dobu 30 dnů bez vnější podpory.
+  Komplex tvoří pětice bojových srubů: K-S 22 „U silnice", K-S 22a „U kamene", K-S 23 „Krok", K-S 24 „Utržený" a vchodový srub K-S 21 „Pod lomem". Páteří podzemí je centrální hala s kasárnami pro posádku, strojovna, filtrace vzduchu, studna a polní lékařská stanice. Tvrz byla navržena jako zcela soběstačná jednotka schopná obrany po dobu 30 dnů bez vnější podpory.
 
 
-  Po podepsání mnichovské dohody 30. září 1938 byla tvrz odevzdána Němcům nepoužita.
-  Wehrmacht provedl během války několik experimentů s průrazovou municí (stopy jsou
-  dodnes patrné na srubu K-S 24), ale betonový monolit odolal. Po roce 1945 převzala
-  tvrz Československá lidová armáda, sloužila jako muniční sklad a po roce 1969
-  jako součást systému civilní obrany.
+  Po podepsání mnichovské dohody 30. září 1938 byla tvrz odevzdána Němcům nepoužita. Wehrmacht provedl během války několik experimentů s průrazovou municí (stopy jsou dodnes patrné na srubu K-S 24), ale betonový monolit odolal. Po roce 1945 převzala tvrz Československá lidová armáda, sloužila jako muniční sklad a po roce 1969 jako součást systému civilní obrany.
 
 
-  Od roku 1990 funguje tvrz jako muzeum pod správou Společnosti přátel československého
-  opevnění. Prohlídka pokrývá všech pět bojových srubů, kasárny, strojovnu i filtrovny.
+  Od roku 1990 funguje tvrz jako muzeum pod správou Společnosti přátel československého opevnění. Prohlídka pokrývá všech pět bojových srubů, kasárny, strojovnu i filtrovny.
 
+  '
 historieMilniky:
-  - datum: 1. 9. 1936
-    udalost: Zahájení stavby, první betonáž K-S 22
-    zdroj: ŘOP — stavební deník (VÚA Praha)
-  - datum: 30. 5. 1938
-    udalost: Dokončena hlavní betonáž, zahájeno vystrojování
-  - datum: 23. 9. 1938
-    udalost: Mobilizace — posádka tvrze 250 mužů plně obsadila objekt
-  - datum: 30. 9. 1938
-    udalost: Mnichov — tvrz odevzdána Německu neobsazena bojem
-  - datum: 1941–1944
-    udalost: Německé pokusy s protipancéřovou municí na K-S 24
-  - datum: '1990'
-    udalost: První turistická prohlídka, počátek rekonstrukce
-  - datum: '2015'
-    udalost: Zápis mezi kulturní památky ČR
-
-# === NÁVŠTĚVA — TEXT ===
-visit: >
-  Tvrz Bouda je nejautentičtěji zachovaná dělostřelecká tvrz ŘOP. Prohlídka trvá cca 2 hodiny
-  a je vedena pouze s průvodcem — začíná v pokladně u vchodového srubu, vede 750 metrů
-  podzemních chodeb a končí u srubu K-S 24.
+- datum: 1. 9. 1936
+  udalost: Zahájení stavby, první betonáž K-S 22
+  zdroj: ŘOP — stavební deník (VÚA Praha)
+- datum: 30. 5. 1938
+  udalost: Dokončena hlavní betonáž, zahájeno vystrojování
+- datum: 23. 9. 1938
+  udalost: Mobilizace — posádka tvrze 250 mužů plně obsadila objekt
+- datum: 30. 9. 1938
+  udalost: Mnichov — tvrz odevzdána Německu neobsazena bojem
+- datum: 1941–1944
+  udalost: Německé pokusy s protipancéřovou municí na K-S 24
+- datum: '1990'
+  udalost: První turistická prohlídka, počátek rekonstrukce
+- datum: '2015'
+  udalost: Zápis mezi kulturní památky ČR
+visit: 'Tvrz Bouda je nejautentičtěji zachovaná dělostřelecká tvrz ŘOP. Prohlídka trvá cca 2 hodiny a je vedena pouze s průvodcem — začíná v pokladně u vchodového srubu, vede 750 metrů podzemních chodeb a končí u srubu K-S 24.
 
 
-  Co uvidíte: kompletní kasárny, strojovna s kompresory, filtrovna vzduchu, studna
-  v hloubce 40 m, střílny s dochovanými lafetami pro kulomety ZB vz. 37, pancéřové zvony
-  in-situ, stopy německých experimentů.
+  Co uvidíte: kompletní kasárny, strojovna s kompresory, filtrovna vzduchu, studna v hloubce 40 m, střílny s dochovanými lafetami pro kulomety ZB vz. 37, pancéřové zvony in-situ, stopy německých experimentů.
 
 
-  Tempo je střední — v podzemí je schodiště 160 stupňů klesání. Chodby jsou pohodlně
-  průchodné, stropy min. 2,2 m. Oblečení teplé (i v srpnu je dole 7 °C), pevné boty.
+  Tempo je střední — v podzemí je schodiště 160 stupňů klesání. Chodby jsou pohodlně průchodné, stropy min. 2,2 m. Oblečení teplé (i v srpnu je dole 7 °C), pevné boty.
 
-# === NÁVŠTĚVA — STRUKTUROVANÁ ===
+  '
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: starsi-deti
@@ -141,86 +111,75 @@ navsteva:
   mhd: Autobus Králíky — Těchonín, zastávka Těchonín-Bouda, pak 1 km pěšky.
   teplotaUvnitr_C: 7
   upozorneni:
-    - Teplota v podzemí celoročně cca 7 °C — vezměte bundu.
-    - Prohlídka obsahuje 160 schodů klesání a cca 1,5 km chůze v podzemí.
-    - Vlastní baterka se hodí (osvětlení je základní).
-
-# === SPRÁVCE ===
+  - Teplota v podzemí celoročně cca 7 °C — vezměte bundu.
+  - Prohlídka obsahuje 160 schodů klesání a cca 1,5 km chůze v podzemí.
+  - Vlastní baterka se hodí (osvětlení je základní).
 spravujicSubjekt:
   nazev: Společnost přátel československého opevnění
   typ: klub-vojenske-historie
   web: https://www.tvrzbouda.cz
   email: info@tvrzbouda.cz
   telefon: +420 605 285 324
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
   cisloUspka: 45231/6-5128
   poznamka: Celý tvrzový komplex zapsán jako kulturní památka ČR od 2015.
-
-# === MÉDIA ===
 photos:
-  - url: /img/forts/bouda-k-s-22a-krok-exterier.jpg
-    alt: Bojový srub K-S 22a „Krok" — tvrz Bouda
-    caption: Pěchotní srub K-S 22a „Krok", součást dělostřelecké tvrze Bouda.
-    author: VitBaloun
-    license: CC BY-SA 4.0
-    source: https://commons.wikimedia.org/wiki/File:Tvrz_Bouda_-_objekt_K-S_22a_-_Krok.jpg
-    category: exterier
-    featured: true
-  - url: /img/forts/bouda-k-s-22a-krok-zvon.jpg
-    alt: Pancéřový zvon na srubu K-S 22a „Krok"
-    caption: Pancéřový zvon pro kulomety ZB vz. 37 — srub K-S 22a.
-    author: Lukáš Malý
-    license: Public domain
-    source: https://commons.wikimedia.org/wiki/File:Bouda_-_K-S_22a_Krok_-_zvon.JPG
-    category: exterier
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg/1920px-Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg
-    alt: Hlavní podzemní chodba tvrze Bouda
-    caption: Centrální páteřní chodba v hloubce 38 m pod úrovní terénu.
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Bouda,_podzem%C3%AD_(rok_2005;_01).jpg
-    category: interier
-  - url: /img/forts/bouda-expozice-muzea.jpg
-    alt: Expozice muzea v tvrzi Bouda
-    caption: Expozice muzea — dobové vybavení a výzbroj.
-    author: Lukáš Malý
-    license: Public domain
-    source: https://commons.wikimedia.org/wiki/File:Bouda_-_exponaty.JPG
-    category: interier
-
-# === CROSS-LINKING ===
+- url: /img/forts/bouda-k-s-22a-krok-exterier.jpg
+  alt: Bojový srub K-S 22a „Krok" — tvrz Bouda
+  caption: Pěchotní srub K-S 22a „Krok", součást dělostřelecké tvrze Bouda.
+  author: VitBaloun
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Tvrz_Bouda_-_objekt_K-S_22a_-_Krok.jpg
+  category: exterier
+  featured: true
+- url: /img/forts/bouda-k-s-22a-krok-zvon.jpg
+  alt: Pancéřový zvon na srubu K-S 22a „Krok"
+  caption: Pancéřový zvon pro kulomety ZB vz. 37 — srub K-S 22a.
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:Bouda_-_K-S_22a_Krok_-_zvon.JPG
+  category: exterier
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg/1920px-Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg
+  alt: Hlavní podzemní chodba tvrze Bouda
+  caption: Centrální páteřní chodba v hloubce 38 m pod úrovní terénu.
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bouda,_podzem%C3%AD_(rok_2005;_01).jpg
+  category: interier
+- url: /img/forts/bouda-expozice-muzea.jpg
+  alt: Expozice muzea v tvrzi Bouda
+  caption: Expozice muzea — dobové vybavení a výzbroj.
+  author: Lukáš Malý
+  license: Public domain
+  source: https://commons.wikimedia.org/wiki/File:Bouda_-_exponaty.JPG
+  category: interier
 related:
   pevnosti:
-    - tvrz-hanicka
-    - tvrz-adam
-    - tvrz-dobrosov
-    - tvrz-stachelberg
-    - tvrz-hurka
-    - tvrz-smolkov
+  - tvrz-hanicka
+  - tvrz-adam
+  - tvrz-dobrosov
+  - tvrz-stachelberg
+  - tvrz-hurka
+  - tvrz-smolkov
   typologie:
-    - delostrelecka-tvrz
-    - pancerovy-zvon
-
-# === ZDROJE ===
+  - delostrelecka-tvrz
+  - pancerovy-zvon
 sources:
-  - title: Dělostřelecká tvrz Bouda
-    author: Martin Ráboň
-    year: 2003
-    type: kniha
-  - title: Československé opevnění 1935–1938
-    author: Eduard Stehlík
-    year: 2019
-    type: kniha
-  - title: Vojenský ústřední archiv Praha — fond ŘOP, stavební deník K-S
-    type: archiv
-  - title: Muzeum tvrz Bouda
-    url: https://www.tvrzbouda.cz
-    type: web
-
+- title: Dělostřelecká tvrz Bouda
+  author: Martin Ráboň
+  year: 2003
+  type: kniha
+- title: Československé opevnění 1935–1938
+  author: Eduard Stehlík
+  year: 2019
+  type: kniha
+- title: Vojenský ústřední archiv Praha — fond ŘOP, stavební deník K-S
+  type: archiv
+- title: Muzeum tvrz Bouda
+  url: https://www.tvrzbouda.cz
+  type: web
 wikidata_id: Q3890120
-wikipedia_url: "https://cs.wikipedia.org/wiki/Bouda_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
+wikipedia_url: https://cs.wikipedia.org/wiki/Bouda_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
 commons_category: Bouda (fortress)
-updated: '2026-04-21'
+updated: '2026-04-22'

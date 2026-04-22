@@ -2,15 +2,18 @@ title: III/165/B
 code: III/165/B
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.661530
-  lon: 15.863530
+  lat: 50.66153
+  lon: 15.86353
   elevation: 952
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" III/165/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" III/165/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371652830
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371652830
+  type: web
+- title: ropiky.net (ID 1075717873)
+  url: https://ropiky.net/dbase_objekt.php?id=1075717873
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: I.d/35/B
 code: I.d/35/B
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.360970
+  lat: 50.36097
   lon: 16.319648
   elevation: 744
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" I.d/35/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" I.d/35/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371652736
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371652736
+  type: web
+- title: ropiky.net (ID 1075717766)
+  url: https://ropiky.net/dbase_objekt.php?id=1075717766
+  type: web
+updated: '2026-04-22'

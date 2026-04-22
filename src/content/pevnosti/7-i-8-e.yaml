@@ -1,16 +1,19 @@
-title: "7/I/8/E"
-code: "7/I/8/E"
+title: 7/I/8/E
+code: 7/I/8/E
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.855987
   lon: 16.039486
   elevation: 246
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 7/I/8/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 7/I/8/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076428
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076428
+  type: web
+- title: ropiky.net (ID 1105625214)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625214
+  type: web
+updated: '2026-04-22'

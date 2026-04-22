@@ -2,15 +2,18 @@ title: cvicne/(2)/C1
 code: cvicne/(2)/C1
 type: lo-vz-37
 line: Neurčeno
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 49.340780
-  lon: 16.951230
+  lat: 49.34078
+  lon: 16.95123
   elevation: 472
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" cvicne/(2)/C1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" cvicne/(2)/C1. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372141195
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372141195
+  type: web
+- title: ropiky.net (ID 1101109922)
+  url: https://ropiky.net/dbase_objekt.php?id=1101109922
+  type: web
+updated: '2026-04-22'

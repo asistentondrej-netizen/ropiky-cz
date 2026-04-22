@@ -2,19 +2,22 @@ title: A-9/22/A-120 Z
 code: A-9/22/A-120 Z
 type: lo-vz-37
 line: A-9
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.246942
   lon: 14.149387
   elevation: 221
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" A-9/22/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" A-9/22/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/225727869
-    type: web
-  - title: Wikidata Q113452547
-    url: https://www.wikidata.org/wiki/Q113452547
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/225727869
+  type: web
+- title: Wikidata Q113452547
+  url: https://www.wikidata.org/wiki/Q113452547
+  type: web
+- title: ropiky.net (ID 1075718629)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718629
+  type: web
 wikidata_id: Q113452547
-updated: '2026-04-21'
+updated: '2026-04-22'

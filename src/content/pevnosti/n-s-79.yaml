@@ -2,43 +2,33 @@ title: N-S-79 „Hrobka"
 code: N-S-79
 type: pechotni-srub
 line: Náchodsko
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.411322
   lon: 16.203125
   elevation: 584
 state: rozpadly
-description: Pěchotní srub N-S-79 „Hrobka" na úseku Náchodsko. Součást československého
-  těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
-history: 'Úsek Náchodsko v podhůří Orlických hor — tvrze Dobrošov a Skutina plus 30+
-  pěchotních srubů. Stavěno 1937–1938.
+description: Pěchotní srub N-S-79 „Hrobka" na úseku Náchodsko. Součást československého těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
+history: 'Úsek Náchodsko v podhůří Orlických hor — tvrze Dobrošov a Skutina plus 30+ pěchotních srubů. Stavěno 1937–1938.
 
 
-  Srub N-S-79 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
+  Srub N-S-79 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938, dokončení a výzbroj závisely na fázi budování daného úseku.
 
 
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce 1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné oblasti.
 
 
   **GPS:** 50.411322, 16.203125 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.203125&y=50.411322&z=17&source=coor&id=16.203125%2C50.411322).
 
 
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element way/389099973)
 wikidata_id: Q62590725
-wikipedia_url: "https://cs.wikipedia.org/wiki/N-S_79_Hrobka"
+wikipedia_url: https://cs.wikipedia.org/wiki/N-S_79_Hrobka
 commons_category: N-S 79 Hrobka casemate
-updated: '2026-04-19'
+updated: '2026-04-22'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_79_%28rok_2002%3B_01%29.jpg/1280px-N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_79_%28rok_2002%3B_01%29.jpg
   alt: Pěchotní srub N-S 79 na Dobrošově
@@ -55,3 +45,6 @@ photos:
   author: Lasy
   license: CC BY-SA 3.0
   source: https://commons.wikimedia.org/wiki/File:N-S_79_Hrobka_2.jpg
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

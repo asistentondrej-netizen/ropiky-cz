@@ -1,16 +1,19 @@
-title: "185/279/A-120"
-code: "185/279/A-120"
+title: 185/279/A-120
+code: 185/279/A-120
 type: lo-vz-37
-line: "185"
-region: "Jihočeský kraj"
+line: '185'
+region: Jihočeský kraj
 location:
   lat: 49.031115
   lon: 15.030214
   elevation: 494
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 185/279/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: zachovaly
+description: Lehký objekt vz. 37 „řopík" 185/279/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/1098271068
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/1098271068
+  type: web
+- title: ropiky.net (ID 1075722312)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722312
+  type: web
+updated: '2026-04-22'

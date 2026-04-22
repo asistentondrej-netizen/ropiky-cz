@@ -2,15 +2,18 @@ title: Z2/4/A-160
 code: Z2/4/A-160
 type: lo-vz-37
 line: Z2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.682585
-  lon: 15.816220
+  lon: 15.81622
   elevation: 917
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" Z2/4/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" Z2/4/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371461164
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371461164
+  type: web
+- title: ropiky.net (ID 1075724078)
+  url: https://ropiky.net/dbase_objekt.php?id=1075724078
+  type: web
+updated: '2026-04-22'

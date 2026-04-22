@@ -1,16 +1,19 @@
-title: "9/1294/E"
-code: "9/1294/E"
+title: 9/1294/E
+code: 9/1294/E
 type: lo-vz-37
-line: "9"
-region: "Jihočeský kraj"
+line: '9'
+region: Jihočeský kraj
 location:
-  lat: 48.976310
+  lat: 48.97631
   lon: 15.463865
   elevation: 460
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 9/1294/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 9/1294/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372077009
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372077009
+  type: web
+- title: ropiky.net (ID 1075726699)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726699
+  type: web
+updated: '2026-04-22'

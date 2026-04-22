@@ -2,15 +2,18 @@ title: C-14/11/A-180
 code: C-14/11/A-180
 type: lo-vz-37
 line: C-14
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.278108
   lon: 13.557302
   elevation: 230
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" C-14/11/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" C-14/11/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/313790630
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/313790630
+  type: web
+- title: ropiky.net (ID 1075719463)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719463
+  type: web
+updated: '2026-04-22'

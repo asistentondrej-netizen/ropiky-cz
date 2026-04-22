@@ -1,16 +1,19 @@
 title: 15/7701/A-180 S
 code: 15/7701/A-180 S
 type: lo-vz-37
-line: "15"
-region: "Jihomoravský kraj"
+line: '15'
+region: Jihomoravský kraj
 location:
   lat: 48.989337
   lon: 16.427723
   elevation: 221
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 15/7701/A-180 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 15/7701/A-180 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371739082
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371739082
+  type: web
+- title: ropiky.net (ID 1105625381)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625381
+  type: web
+updated: '2026-04-22'

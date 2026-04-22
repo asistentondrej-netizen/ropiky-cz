@@ -2,15 +2,18 @@ title: LI/10/D2 Z
 code: LI/10/D2 Z
 type: lo-vz-36
 line: LI
-region: "Bratislavský kraj"
+region: Bratislavský kraj
 location:
-  lat: 48.464190
-  lon: 16.865900
+  lat: 48.46419
+  lon: 16.8659
   elevation: 149
 state: neznamy
 description: Lehký objekt vz. 36 LI/10/D2 Z. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372074889
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372074889
+  type: web
+- title: ropiky.net (ID 1075728863)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728863
+  type: web
+updated: '2026-04-22'

@@ -2,25 +2,19 @@ title: R-S 74 „Na holém"
 code: R-S 74
 type: pechotni-srub
 line: Rokytnice v Orlických horách
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.1753
   lon: 16.4728
   address: Rokytnice v Orl. horách, hřeben Panské Pole
   elevation: 752
-
 built: '1938'
 state: muzeum
+description: 'Rekonstruovaný oboustranný pěchotní srub na exponovaném hřebenu Orlických hor — součást muzejního okruhu tvrze Hanička. Samostatná muzejní expozice zaměřená na posádku a organizaci boje. Ideální rozšíření návštěvy tvrze Hanička na celodenní program.
 
-description: >
-  Rekonstruovaný oboustranný pěchotní srub na exponovaném hřebenu Orlických
-  hor — součást muzejního okruhu tvrze Hanička. Samostatná muzejní expozice
-  zaměřená na posádku a organizaci boje. Ideální rozšíření návštěvy tvrze
-  Hanička na celodenní program.
-
-# === TECHNICKÁ KARTA ===
+  '
 tech:
-  odolnost: 'II'
+  odolnost: II
   stupenDokonceni: dokonceny
   typObjektu: Pěchotní srub oboustranný (typ C)
   orientace: Palebné pole hřebenem směrem k polské hranici
@@ -28,69 +22,51 @@ tech:
     mini: 22
     maxi: 32
   vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 4
-      umisteni: pravá a levá kasemata
-    - zbran: Protitankový kanón vz. 36 (3,7 cm)
-      pocet: 1
-      umisteni: střílna kasematy
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 2
-      umisteni: pancéřové zvony
+  - zbran: Těžký kulomet ZB vz. 37
+    pocet: 4
+    umisteni: pravá a levá kasemata
+  - zbran: Protitankový kanón vz. 36 (3,7 cm)
+    pocet: 1
+    umisteni: střílna kasematy
+  - zbran: Lehký kulomet ZB vz. 26
+    pocet: 2
+    umisteni: pancéřové zvony
   steny:
     tloustka_cm: 225
     material: Železobeton B500
   komponenty:
-    - pancerovy-zvon
-
-# === STAVBA ===
+  - pancerovy-zvon
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   stavebniFirma: Ing. Záruba-Pfeffermann, Brno
   zahajeni: '1937'
   dokonceni: '1938'
   poznamka: Předsunutý srub tvrze Hanička, ochrana přístupů k tvrzi.
-
-# === HISTORIE ===
-history: >
-  R-S 74 „Na holém" byl postaven v letech 1937–1938 firmou Záruba-Pfeffermann
-  jako předsunutý srub tvrze Hanička. Oboustranný typ II. stupně, plánovaná
-  posádka 32 mužů pod velením por. Miloslava Šimečka.
+history: 'R-S 74 „Na holém" byl postaven v letech 1937–1938 firmou Záruba-Pfeffermann jako předsunutý srub tvrze Hanička. Oboustranný typ II. stupně, plánovaná posádka 32 mužů pod velením por. Miloslava Šimečka.
 
 
-  V září 1938 plně obsazen a vyzbrojen. Po Mnichovu evakuován, během okupace
-  Němci demontovali pancéřové prvky. V letech 1946–1947 znovu krátce obsazen
-  v rámci pokusu o oživení obrany, poté opuštěn.
+  V září 1938 plně obsazen a vyzbrojen. Po Mnichovu evakuován, během okupace Němci demontovali pancéřové prvky. V letech 1946–1947 znovu krátce obsazen v rámci pokusu o oživení obrany, poté opuštěn.
 
 
-  V 60. letech v rámci armádního projektu „Kahan" spolu s tvrzí Haničkou
-  převzat a adaptován pro sklady civilní obrany. Systematická muzejní
-  rekonstrukce proběhla v letech 2004–2012 spolkem Klub vojenské historie
-  Rokytnice. Obnovena dvě střelecká stanoviště, strojovna, ubikace a
-  zásobovací prostory.
+  V 60. letech v rámci armádního projektu „Kahan" spolu s tvrzí Haničkou převzat a adaptován pro sklady civilní obrany. Systematická muzejní rekonstrukce proběhla v letech 2004–2012 spolkem Klub vojenské historie Rokytnice. Obnovena dvě střelecká stanoviště, strojovna, ubikace a zásobovací prostory.
 
+  '
 historieMilniky:
-  - datum: 1937–1938
-    udalost: Stavba firmou Záruba-Pfeffermann
-  - datum: září 1938
-    udalost: Plné obsazení pod velením por. Šimečka
-  - datum: 30. 9. 1938
-    udalost: Mnichov — evakuace
-  - datum: 1946–1947
-    udalost: Krátké znovuobsazení
-  - datum: 60. léta
-    udalost: Sklad civilní obrany (projekt Kahan)
-  - datum: 2004–2012
-    udalost: Muzejní rekonstrukce Klubem vojenské historie Rokytnice
+- datum: 1937–1938
+  udalost: Stavba firmou Záruba-Pfeffermann
+- datum: září 1938
+  udalost: Plné obsazení pod velením por. Šimečka
+- datum: 30. 9. 1938
+  udalost: Mnichov — evakuace
+- datum: 1946–1947
+  udalost: Krátké znovuobsazení
+- datum: 60. léta
+  udalost: Sklad civilní obrany (projekt Kahan)
+- datum: 2004–2012
+  udalost: Muzejní rekonstrukce Klubem vojenské historie Rokytnice
+visit: 'Samostatná muzejní expozice doplňující prohlídku tvrze Hanička. Otevřeno víkendy a svátky duben–říjen 10:00–17:00, v hlavní sezóně denně. Společná vstupenka s tvrzí Hanička (300 Kč dospělí, úspora 50 Kč). Každoročně první víkend v září Den posádky s rekonstrukcí bojové pohotovosti 1938. Aktuální program na hanicka.cz.
 
-# === NÁVŠTĚVA ===
-visit: >
-  Samostatná muzejní expozice doplňující prohlídku tvrze Hanička. Otevřeno
-  víkendy a svátky duben–říjen 10:00–17:00, v hlavní sezóně denně. Společná
-  vstupenka s tvrzí Hanička (300 Kč dospělí, úspora 50 Kč). Každoročně
-  první víkend v září Den posádky s rekonstrukcí bojové pohotovosti 1938.
-  Aktuální program na hanicka.cz.
-
+  '
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: doporuceno
@@ -109,63 +85,52 @@ navsteva:
   mhd: Bus linka 790 z Rychnova, víkendová obsluha.
   teplotaUvnitr_C: 10
   upozorneni:
-    - Od tvrze Hanička 2 km pěšky po červené turistické značce.
-    - Součást celodenního programu s návštěvou Haničky.
-    - Den posádky — 1. víkend v září, velká rodinná akce.
-
-# === SPRÁVCE ===
+  - Od tvrze Hanička 2 km pěšky po červené turistické značce.
+  - Součást celodenního programu s návštěvou Haničky.
+  - Den posádky — 1. víkend v září, velká rodinná akce.
 spravujicSubjekt:
   nazev: Klub vojenské historie Rokytnice
   typ: klub-vojenske-historie
   web: https://www.hanicka.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
-
-# === MÉDIA ===
 photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg
-    alt: Pěchotní srub R-S 74 „Na holém"
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Pansk%C3%A9_Pole,_R-S_74_(rok_2010;_01).jpg
-    category: exterier
-    featured: true
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%281%29.jpg/1920px-Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%281%29.jpg
-    alt: R-S 74 — boční pohled
-    author: MartinVeselka
-    license: CC BY-SA 4.0
-    source: https://commons.wikimedia.org/wiki/File:Pansk%C3%A9_Pole_(Hani%C4%8Dka)_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_(1).jpg
-    category: exterier
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%282%29.jpg/1920px-Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%282%29.jpg
-    alt: R-S 74 — detail
-    author: MartinVeselka
-    license: CC BY-SA 4.0
-    source: https://commons.wikimedia.org/wiki/File:Pansk%C3%A9_Pole_(Hani%C4%8Dka)_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_(2).jpg
-    category: detail
-
-# === CROSS-LINKING ===
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg
+  alt: Pěchotní srub R-S 74 „Na holém"
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Pansk%C3%A9_Pole,_R-S_74_(rok_2010;_01).jpg
+  category: exterier
+  featured: true
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%281%29.jpg/1920px-Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%281%29.jpg
+  alt: R-S 74 — boční pohled
+  author: MartinVeselka
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Pansk%C3%A9_Pole_(Hani%C4%8Dka)_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_(1).jpg
+  category: exterier
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%282%29.jpg/1920px-Pansk%C3%A9_Pole_%28Hani%C4%8Dka%29_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_%282%29.jpg
+  alt: R-S 74 — detail
+  author: MartinVeselka
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:Pansk%C3%A9_Pole_(Hani%C4%8Dka)_u_Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch_-_srub_t%C4%9B%C5%BEk%C3%A9ho_opevn%C4%9Bn%C3%AD_R-S_74_Na_hol%C3%A9m_(2).jpg
+  category: detail
 related:
   pevnosti:
-    - tvrz-hanicka
-    - r-h-s-76
-    - r-h-s-78
-    - r-h-s-79
-    - r-s-72
-    - r-s-87
+  - tvrz-hanicka
+  - r-h-s-76
+  - r-h-s-78
+  - r-h-s-79
+  - r-s-72
+  - r-s-87
   typologie:
-    - pechotni-srub
-    - pancerovy-zvon
-
-# === ZDROJE ===
+  - pechotni-srub
+  - pancerovy-zvon
 sources:
-  - title: Tvrz Hanička — oficiální web
-    url: https://www.hanicka.cz
-    type: web
-  - title: Klub vojenské historie Rokytnice
-    type: web
-
+- title: Tvrz Hanička — oficiální web
+  url: https://www.hanicka.cz
+  type: web
+- title: Klub vojenské historie Rokytnice
+  type: web
 wikidata_id: Q11832957
 commons_category: R-S 74 Na holém casemate
-updated: '2026-04-21'
+updated: '2026-04-22'

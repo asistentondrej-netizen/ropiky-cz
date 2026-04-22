@@ -2,38 +2,31 @@ title: N-S-89
 code: N-S-89
 type: pechotni-srub
 line: Náchodsko
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.435113
   lon: 16.179192
   elevation: 415
 state: neznamy
-description: Pěchotní srub N-S-89 na úseku Náchodsko. Součást československého těžkého
-  opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
-history: 'Úsek Náchodsko v podhůří Orlických hor — tvrze Dobrošov a Skutina plus 30+
-  pěchotních srubů. Stavěno 1937–1938.
+description: Pěchotní srub N-S-89 na úseku Náchodsko. Součást československého těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
+history: 'Úsek Náchodsko v podhůří Orlických hor — tvrze Dobrošov a Skutina plus 30+ pěchotních srubů. Stavěno 1937–1938.
 
 
-  Srub N-S-89 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
+  Srub N-S-89 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938, dokončení a výzbroj závisely na fázi budování daného úseku.
 
 
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce 1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné oblasti.
 
 
   **GPS:** 50.435113, 16.179192 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.179192&y=50.435113&z=17&source=coor&id=16.179192%2C50.435113).
 
 
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element node/3917363000)
 wikidata_id: Q62624295
-updated: '2026-04-19'
+updated: '2026-04-22'
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

@@ -1,16 +1,19 @@
 title: 195/27/A-140 Z
 code: 195/27/A-140 Z
 type: lo-vz-37
-line: "195"
-region: "Jihočeský kraj"
+line: '195'
+region: Jihočeský kraj
 location:
-  lat: 48.851180
-  lon: 13.921990
+  lat: 48.85118
+  lon: 13.92199
   elevation: 729
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 195/27/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 195/27/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372001451
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372001451
+  type: web
+- title: ropiky.net (ID 1075722638)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722638
+  type: web
+updated: '2026-04-22'

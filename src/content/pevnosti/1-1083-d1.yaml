@@ -1,16 +1,19 @@
-title: "1/1083/D1"
-code: "1/1083/D1"
+title: 1/1083/D1
+code: 1/1083/D1
 type: lo-vz-36
-line: "1"
-region: "Jihočeský kraj"
+line: '1'
+region: Jihočeský kraj
 location:
-  lat: 48.988010
-  lon: 15.446290
+  lat: 48.98801
+  lon: 15.44629
   elevation: 482
 state: neznamy
 description: Lehký objekt vz. 36 1/1083/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075378
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075378
+  type: web
+- title: ropiky.net (ID 1075726258)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726258
+  type: web
+updated: '2026-04-22'

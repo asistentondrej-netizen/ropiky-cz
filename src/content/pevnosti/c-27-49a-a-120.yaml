@@ -2,15 +2,18 @@ title: C-27/49a/A-120
 code: C-27/49a/A-120
 type: lo-vz-37
 line: C-27
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.336304
-  lon: 13.679820
+  lon: 13.67982
   elevation: 195
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" C-27/49a/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" C-27/49a/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/940788485
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/940788485
+  type: web
+- title: ropiky.net (ID 1075719425)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719425
+  type: web
+updated: '2026-04-22'

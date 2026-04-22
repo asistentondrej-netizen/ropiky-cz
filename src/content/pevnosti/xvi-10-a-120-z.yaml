@@ -2,15 +2,18 @@ title: XVI/10/A-120 Z
 code: XVI/10/A-120 Z
 type: lo-vz-37
 line: XVI
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.916641
   lon: 18.408719
   elevation: 199
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XVI/10/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XVI/10/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724318
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724318
+  type: web
+- title: ropiky.net (ID 1075727450)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727450
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: LV/144/A-140
 code: LV/144/A-140
 type: lo-vz-37
 line: LV
-region: "Bratislavský kraj"
+region: Bratislavský kraj
 location:
-  lat: 48.458710
-  lon: 16.909510
+  lat: 48.45871
+  lon: 16.90951
   elevation: 144
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" LV/144/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" LV/144/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075293
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075293
+  type: web
+- title: ropiky.net (ID 1075728965)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728965
+  type: web
+updated: '2026-04-22'

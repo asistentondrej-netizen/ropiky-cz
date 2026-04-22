@@ -2,15 +2,18 @@ title: XV/33/B1-100
 code: XV/33/B1-100
 type: lo-vz-37
 line: XV
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.055320
+  lat: 50.05532
   lon: 16.771715
   elevation: 649
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XV/33/B1-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XV/33/B1-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371653031
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371653031
+  type: web
+- title: ropiky.net (ID 1075727439)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727439
+  type: web
+updated: '2026-04-22'

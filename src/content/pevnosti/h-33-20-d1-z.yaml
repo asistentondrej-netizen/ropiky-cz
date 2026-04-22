@@ -2,15 +2,18 @@ title: H-33/20/D1 Z
 code: H-33/20/D1 Z
 type: lo-vz-36
 line: H-33
-region: "Jihočeský kraj"
+region: Jihočeský kraj
 location:
-  lat: 48.981570
+  lat: 48.98157
   lon: 13.978205
   elevation: 848
 state: neznamy
 description: Lehký objekt vz. 36 H-33/20/D1 Z. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371992172
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371992172
+  type: web
+- title: ropiky.net (ID 1075720247)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720247
+  type: web
+updated: '2026-04-22'

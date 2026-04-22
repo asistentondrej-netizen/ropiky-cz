@@ -1,16 +1,19 @@
-title: "2/64/1"
-code: "2/64/1"
+title: 2/64/1
+code: 2/64/1
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
-  lat: 48.783870
-  lon: 16.232000
+  lat: 48.78387
+  lon: 16.232
   elevation: 191
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 2/64/1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 2/64/1. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075581
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075581
+  type: web
+- title: ropiky.net (ID 1075718414)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718414
+  type: web
+updated: '2026-04-22'

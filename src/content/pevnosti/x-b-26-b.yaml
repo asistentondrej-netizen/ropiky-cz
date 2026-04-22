@@ -2,15 +2,18 @@ title: X.b/26/B
 code: X.b/26/B
 type: lo-vz-37
 line: Neurčeno
-region: "Jihočeský kraj"
+region: Jihočeský kraj
 location:
-  lat: 48.886600
-  lon: 14.524360
+  lat: 48.8866
+  lon: 14.52436
   elevation: 505
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" X.b/26/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" X.b/26/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372001347
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372001347
+  type: web
+- title: ropiky.net (ID 1075718324)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718324
+  type: web
+updated: '2026-04-22'

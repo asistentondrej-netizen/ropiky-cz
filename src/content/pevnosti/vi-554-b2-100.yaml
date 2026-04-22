@@ -2,15 +2,18 @@ title: VI/554/B2-100
 code: VI/554/B2-100
 type: lo-vz-37
 line: VI
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 49.980850
-  lon: 17.628480
+  lat: 49.98085
+  lon: 17.62848
   elevation: 558
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" VI/554/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" VI/554/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723546
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723546
+  type: web
+- title: ropiky.net (ID 1105952353)
+  url: https://ropiky.net/dbase_objekt.php?id=1105952353
+  type: web
+updated: '2026-04-22'

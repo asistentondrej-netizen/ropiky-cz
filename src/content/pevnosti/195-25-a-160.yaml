@@ -1,16 +1,19 @@
-title: "195/25/A-160"
-code: "195/25/A-160"
+title: 195/25/A-160
+code: 195/25/A-160
 type: lo-vz-37
-line: "195"
-region: "Jihočeský kraj"
+line: '195'
+region: Jihočeský kraj
 location:
-  lat: 48.848520
-  lon: 13.926500
+  lat: 48.84852
+  lon: 13.9265
   elevation: 732
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 195/25/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 195/25/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372001449
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372001449
+  type: web
+- title: ropiky.net (ID 1075722636)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722636
+  type: web
+updated: '2026-04-22'

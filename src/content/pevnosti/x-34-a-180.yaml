@@ -2,15 +2,18 @@ title: X/34/A-180
 code: X/34/A-180
 type: lo-vz-37
 line: X
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.308580
+  lat: 50.30858
   lon: 16.390785
   elevation: 997
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" X/34/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" X/34/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584450
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584450
+  type: web
+- title: ropiky.net (ID 1075723331)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723331
+  type: web
+updated: '2026-04-22'

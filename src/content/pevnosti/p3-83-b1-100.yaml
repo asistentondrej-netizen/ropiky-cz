@@ -2,15 +2,18 @@ title: P3/83/B1-100
 code: P3/83/B1-100
 type: lo-vz-37
 line: P3
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
-  lat: 50.484130
+  lat: 50.48413
   lon: 14.498753
   elevation: 325
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" P3/83/B1-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" P3/83/B1-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371451078
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371451078
+  type: web
+- title: ropiky.net (ID 1075725798)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725798
+  type: web
+updated: '2026-04-22'

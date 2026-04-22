@@ -1,16 +1,19 @@
-title: "5/1237/B1-80"
-code: "5/1237/B1-80"
+title: 5/1237/B1-80
+code: 5/1237/B1-80
 type: lo-vz-37
-line: "5"
-region: "Jihomoravský kraj"
+line: '5'
+region: Jihomoravský kraj
 location:
   lat: 48.895163
   lon: 15.802693
   elevation: 432
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 5/1237/B1-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 5/1237/B1-80. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076116
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076116
+  type: web
+- title: ropiky.net (ID 1075726512)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726512
+  type: web
+updated: '2026-04-22'

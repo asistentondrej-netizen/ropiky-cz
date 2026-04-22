@@ -1,16 +1,19 @@
 title: 2/9/A-180 S
 code: 2/9/A-180 S
 type: lo-vz-37
-line: "2"
-region: "Jihomoravský kraj"
+line: '2'
+region: Jihomoravský kraj
 location:
-  lat: 48.755150
-  lon: 16.405900
+  lat: 48.75515
+  lon: 16.4059
   elevation: 180
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 2/9/A-180 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 2/9/A-180 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075709
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075709
+  type: web
+- title: ropiky.net (ID 1075726324)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726324
+  type: web
+updated: '2026-04-22'

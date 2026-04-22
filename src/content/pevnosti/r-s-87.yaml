@@ -2,43 +2,32 @@ title: R-S-87 „Průsek"
 code: R-S-87
 type: pechotni-srub
 line: Rokytnicko / Orlické hory
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.223489
   lon: 16.501544
   elevation: 939
 state: muzeum
-description: Pěchotní srub R-S-87 „Průsek" na úseku Rokytnicko / Orlické hory. Součást
-  československého těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického
-  Německa.
-history: 'Úsek Rokytnicko v Orlických horách — tvrz Hanička plus pěchotní sruby lemu
-  hřebenů. Nejnavštěvovanější fortifikační region ČR.
+description: Pěchotní srub R-S-87 „Průsek" na úseku Rokytnicko / Orlické hory. Součást československého těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
+history: 'Úsek Rokytnicko v Orlických horách — tvrz Hanička plus pěchotní sruby lemu hřebenů. Nejnavštěvovanější fortifikační region ČR.
 
 
-  Srub R-S-87 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
+  Srub R-S-87 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938, dokončení a výzbroj závisely na fázi budování daného úseku.
 
 
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce 1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné oblasti.
 
 
   **GPS:** 50.223489, 16.501544 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.501544&y=50.223489&z=17&source=coor&id=16.501544%2C50.223489).
 
 
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element way/389786708)
 wikidata_id: Q29573477
 commons_category: R-S 87 Průsek casemate
-updated: '2026-04-19'
+updated: '2026-04-22'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_87_%28rok_2010%3B_01%29.jpg/1280px-%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_87_%28rok_2010%3B_01%29.jpg
   alt: Pěchotní srub R-S 87 Průsek
@@ -55,3 +44,5 @@ photos:
   author: Tomasz Leśniowski
   license: CC BY-SA 4.0
   source: https://commons.wikimedia.org/wiki/File:Schron_R-S-87._Grupa_warowna_Hani%C4%8Dka.jpg
+pamatka:
+  status: kulturni-pamatka

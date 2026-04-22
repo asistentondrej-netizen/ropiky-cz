@@ -2,15 +2,18 @@ title: A/254/A-140 U
 code: A/254/A-140 U
 type: lo-vz-37
 line: A
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.086375
-  lon: 16.650110
+  lon: 16.65011
   elevation: 711
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" A/254/A-140 U. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" A/254/A-140 U. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371583625
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371583625
+  type: web
+- title: ropiky.net (ID 1075723041)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723041
+  type: web
+updated: '2026-04-22'

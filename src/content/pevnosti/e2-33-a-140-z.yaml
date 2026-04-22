@@ -2,15 +2,18 @@ title: E2/33/A-140 Z
 code: E2/33/A-140 Z
 type: lo-vz-37
 line: E2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.431113
   lon: 16.178803
   elevation: 406
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" E2/33/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" E2/33/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651663
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651663
+  type: web
+- title: ropiky.net (ID 1075723613)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723613
+  type: web
+updated: '2026-04-22'

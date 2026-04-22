@@ -2,15 +2,18 @@ title: VIII/45/A-140 Z
 code: VIII/45/A-140 Z
 type: lo-vz-37
 line: VIII
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.172835
   lon: 16.921395
   elevation: 587
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" VIII/45/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" VIII/45/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723878
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723878
+  type: web
+- title: ropiky.net (ID 1075727030)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727030
+  type: web
+updated: '2026-04-22'

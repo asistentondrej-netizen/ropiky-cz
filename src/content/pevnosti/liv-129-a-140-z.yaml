@@ -2,15 +2,18 @@ title: LIV/129/A-140 Z
 code: LIV/129/A-140 Z
 type: lo-vz-37
 line: LIV
-region: "Bratislavský kraj"
+region: Bratislavský kraj
 location:
-  lat: 48.361210
+  lat: 48.36121
   lon: 16.930566
   elevation: 143
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" LIV/129/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" LIV/129/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075171
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075171
+  type: web
+- title: ropiky.net (ID 1075728944)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728944
+  type: web
+updated: '2026-04-22'

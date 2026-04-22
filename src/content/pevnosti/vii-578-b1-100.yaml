@@ -2,15 +2,18 @@ title: VII/578/B1-100
 code: VII/578/B1-100
 type: lo-vz-37
 line: VII
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 50.013730
-  lon: 17.551080
+  lat: 50.01373
+  lon: 17.55108
   elevation: 436
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" VII/578/B1-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" VII/578/B1-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723839
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723839
+  type: web
+- title: ropiky.net (ID 1075726997)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726997
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: X/17/A-160
 code: X/17/A-160
 type: lo-vz-37
 line: X
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.316983
-  lon: 16.364590
+  lon: 16.36459
   elevation: 939
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" X/17/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" X/17/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584425
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584425
+  type: web
+- title: ropiky.net (ID 1075723314)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723314
+  type: web
+updated: '2026-04-22'

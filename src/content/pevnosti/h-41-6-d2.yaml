@@ -2,15 +2,18 @@ title: H-41/6/D2
 code: H-41/6/D2
 type: lo-vz-36
 line: H-41
-region: "Jihočeský kraj"
+region: Jihočeský kraj
 location:
   lat: 49.037425
-  lon: 13.712720
+  lon: 13.71272
   elevation: 889
 state: neznamy
 description: Lehký objekt vz. 36 H-41/6/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372001327
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372001327
+  type: web
+- title: ropiky.net (ID 1075720205)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720205
+  type: web
+updated: '2026-04-22'

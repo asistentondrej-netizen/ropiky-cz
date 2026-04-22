@@ -2,15 +2,18 @@ title: K2/51/A-160
 code: K2/51/A-160
 type: lo-vz-37
 line: K2
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
-  lat: 50.800630
+  lat: 50.80063
   lon: 14.974975
   elevation: 416
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" K2/51/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" K2/51/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371400257
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371400257
+  type: web
+- title: ropiky.net (ID 1075724909)
+  url: https://ropiky.net/dbase_objekt.php?id=1075724909
+  type: web
+updated: '2026-04-22'

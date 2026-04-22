@@ -2,15 +2,16 @@ title: pozorovatelna z II. svět. války
 code: pozorovatelna z II. svět. války
 type: lo-vz-37
 line: Neurčeno
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.225614
   lon: 14.860112
   elevation: 193
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" pozorovatelna z II. svět. války. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" pozorovatelna z II. svět. války. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/2535857058
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/2535857058
+  type: web
+updated: '2026-04-22'
+building_levels: 2

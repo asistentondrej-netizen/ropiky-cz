@@ -2,15 +2,18 @@ title: D1b/246/B2-80 Z
 code: D1b/246/B2-80 Z
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.341690
+  lat: 50.34169
   lon: 16.309865
   elevation: 639
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D1b/246/B2-80 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" D1b/246/B2-80 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651095
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651095
+  type: web
+- title: ropiky.net (ID 1075723492)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723492
+  type: web
+updated: '2026-04-22'

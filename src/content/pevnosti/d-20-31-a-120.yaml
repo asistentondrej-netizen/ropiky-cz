@@ -2,15 +2,18 @@ title: D-20/31/A-120
 code: D-20/31/A-120
 type: lo-vz-37
 line: D-20
-region: "Karlovarský kraj"
+region: Karlovarský kraj
 location:
-  lat: 49.886110
-  lon: 13.051680
+  lat: 49.88611
+  lon: 13.05168
   elevation: 551
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D-20/31/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" D-20/31/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371969389
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371969389
+  type: web
+- title: ropiky.net (ID 1075719922)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719922
+  type: web
+updated: '2026-04-22'

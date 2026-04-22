@@ -2,15 +2,19 @@ title: LII/49/A-140Z
 code: LII/49/A-140Z
 type: lo-vz-37
 line: Neurčeno
-region: "Bratislavský kraj"
+region: Bratislavský kraj
 location:
   lat: 48.218184
   lon: 16.969976
   elevation: 139
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" LII/49/A-140Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" LII/49/A-140Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/249728451
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/249728451
+  type: web
+- title: ropiky.net (ID 1075728898)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728898
+  type: web
+updated: '2026-04-22'
+alt_name: LII/103/A-140

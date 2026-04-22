@@ -2,15 +2,18 @@ title: XIII/279/A-140
 code: XIII/279/A-140
 type: lo-vz-37
 line: XIII
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.165838
-  lon: 16.851880
+  lon: 16.85188
   elevation: 1285
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XIII/279/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XIII/279/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371652993
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371652993
+  type: web
+- title: ropiky.net (ID 1075727313)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727313
+  type: web
+updated: '2026-04-22'

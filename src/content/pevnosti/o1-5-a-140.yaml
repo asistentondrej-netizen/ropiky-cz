@@ -2,15 +2,18 @@ title: O1/5/A-140
 code: O1/5/A-140
 type: lo-vz-37
 line: O1
-region: "Ústecký kraj"
+region: Ústecký kraj
 location:
   lat: 50.861871
   lon: 14.233671
   elevation: 265
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" O1/5/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" O1/5/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/1207842081
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/1207842081
+  type: web
+- title: ropiky.net (ID 1075725509)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725509
+  type: web
+updated: '2026-04-22'

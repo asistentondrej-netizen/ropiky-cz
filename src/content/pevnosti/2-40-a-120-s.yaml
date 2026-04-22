@@ -1,16 +1,19 @@
 title: 2/40/A-120 S
 code: 2/40/A-120 S
 type: lo-vz-37
-line: "2"
-region: "Jihomoravský kraj"
+line: '2'
+region: Jihomoravský kraj
 location:
-  lat: 48.752070
-  lon: 16.337900
+  lat: 48.75207
+  lon: 16.3379
   elevation: 180
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 2/40/A-120 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 2/40/A-120 S. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075532
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075532
+  type: web
+- title: ropiky.net (ID 1075726355)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726355
+  type: web
+updated: '2026-04-22'

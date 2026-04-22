@@ -2,15 +2,18 @@ title: D-19/13/A-140
 code: D-19/13/A-140
 type: lo-vz-37
 line: D-19
-region: "Karlovarský kraj"
+region: Karlovarský kraj
 location:
-  lat: 49.945550
+  lat: 49.94555
   lon: 13.187575
   elevation: 659
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D-19/13/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" D-19/13/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371969357
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371969357
+  type: web
+- title: ropiky.net (ID 1075719852)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719852
+  type: web
+updated: '2026-04-22'

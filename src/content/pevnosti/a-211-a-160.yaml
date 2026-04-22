@@ -2,15 +2,18 @@ title: A/211/A-160
 code: A/211/A-160
 type: lo-vz-37
 line: A
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.134605
-  lon: 16.569480
+  lon: 16.56948
   elevation: 530
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" A/211/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" A/211/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371582980
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371582980
+  type: web
+- title: ropiky.net (ID 1075722998)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722998
+  type: web
+updated: '2026-04-22'

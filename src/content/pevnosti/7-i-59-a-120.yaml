@@ -1,16 +1,19 @@
-title: "7/I/59/A-120"
-code: "7/I/59/A-120"
+title: 7/I/59/A-120
+code: 7/I/59/A-120
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
-  lat: 48.791020
-  lon: 16.179500
+  lat: 48.79102
+  lon: 16.1795
   elevation: 192
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 7/I/59/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 7/I/59/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076414
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076414
+  type: web
+- title: ropiky.net (ID 1105625265)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625265
+  type: web
+updated: '2026-04-22'

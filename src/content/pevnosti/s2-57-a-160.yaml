@@ -2,15 +2,18 @@ title: S2/57/A-160
 code: S2/57/A-160
 type: lo-vz-37
 line: S2
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
-  lat: 50.786230
-  lon: 14.888970
+  lat: 50.78623
+  lon: 14.88897
   elevation: 656
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" S2/57/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" S2/57/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371376641
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371376641
+  type: web
+- title: ropiky.net (ID 1075726181)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726181
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: X/564/A-140
 code: X/564/A-140
 type: lo-vz-37
 line: X
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.040545
   lon: 17.512077
   elevation: 456
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" X/564/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" X/564/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723910
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723910
+  type: web
+- title: ropiky.net (ID 1075727157)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727157
+  type: web
+updated: '2026-04-22'

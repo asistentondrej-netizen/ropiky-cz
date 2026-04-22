@@ -1,16 +1,19 @@
-title: "159/7a/A-140"
-code: "159/7a/A-140"
+title: 159/7a/A-140
+code: 159/7a/A-140
 type: lo-vz-37
-line: "159"
-region: "Středočeský kraj"
+line: '159'
+region: Středočeský kraj
 location:
   lat: 50.170617
-  lon: 13.436230
+  lon: 13.43623
   elevation: 381
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 159/7a/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 159/7a/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/261416064
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/261416064
+  type: web
+- title: ropiky.net (ID 1075721122)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721122
+  type: web
+updated: '2026-04-22'

@@ -2,25 +2,25 @@ title: OP-S 26 „Za humny Milostovic"
 code: OP-S 26
 type: pechotni-srub
 line: Opava
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.95501
   lon: 17.82928
   elevation: 308
 built: '1937'
 state: neznamy
-description: Pěchotní srub „Za humny Milostovic" — součást opavské linie. Oboustranný
-  typ B odolnosti II. Zachované obvodové stěny, kopule a zvony demontovány.
+description: Pěchotní srub „Za humny Milostovic" — součást opavské linie. Oboustranný typ B odolnosti II. Zachované obvodové stěny, kopule a zvony demontovány.
 sources:
 - Wikimedia Commons
 wikidata_id: Q98592012
 commons_category: OP-S 26 Za humny Milostovic casemate
-updated: '2026-04-18'
-
-# === MÉDIA ===
+updated: '2026-04-22'
 photos:
-  - url: /img/forts/op-s-26.jpg
-    alt: "OP-S 26 „Za humny Milostovic\" — OP-S 26"
-    author: "Lukáš Malý"
-    license: CC0
-    source: https://commons.wikimedia.org/wiki/File%3AOP-S%2026.JPG
+- url: /img/forts/op-s-26.jpg
+  alt: OP-S 26 „Za humny Milostovic" — OP-S 26
+  author: Lukáš Malý
+  license: CC0
+  source: https://commons.wikimedia.org/wiki/File%3AOP-S%2026.JPG
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

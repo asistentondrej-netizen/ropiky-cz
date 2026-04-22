@@ -2,15 +2,18 @@ title: III/301/A-140 Z
 code: III/301/A-140 Z
 type: lo-vz-37
 line: III
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 49.955777
   lon: 17.870127
   elevation: 260
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" III/301/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" III/301/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/2261377691
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/2261377691
+  type: web
+- title: ropiky.net (ID 1075726819)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726819
+  type: web
+updated: '2026-04-22'

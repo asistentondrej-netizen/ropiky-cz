@@ -2,15 +2,18 @@ title: E1/241/A-180
 code: E1/241/A-180
 type: lo-vz-37
 line: E1
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.416600
+  lat: 50.4166
   lon: 16.187078
   elevation: 423
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" E1/241/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" E1/241/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651185
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651185
+  type: web
+- title: ropiky.net (ID 1075723580)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723580
+  type: web
+updated: '2026-04-22'

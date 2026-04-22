@@ -1,18 +1,28 @@
 title: 116/128/A-160 Z
 code: 116/128/A-160 Z
 type: lo-vz-37
-line: "116"
-region: "Středočeský kraj"
+line: '116'
+region: Středočeský kraj
 location:
   lat: 49.965605
   lon: 14.077634
   elevation: 219
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 116/128/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 116/128/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/339298686
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/339298686
+  type: web
+- title: ropiky.net (ID 1075720531)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720531
+  type: web
 wikidata_id: Q113459974
 commons_category: 116/128/A-160 Z light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'
+photos:
+- url: https://commons.wikimedia.org/wiki/Special:FilePath/Československé_opevnění,_ŘOP_vzor_37,_Zborovské_nábřeží,_Beroun-Závodí,_Beroun,_okr._Beroun,_Středočeský_kraj_02.jpg?width=1024
+  alt: Fotografie objektu 116/128/A-160 Z
+  author: Wikimedia Commons
+  license: CC (viz Commons)
+  source: https://commons.wikimedia.org/wiki/File:Československé_opevnění,_ŘOP_vzor_37,_Zborovské_nábřeží,_Beroun-Závodí,_Beroun,_okr._Beroun,_Středočeský_kraj_02.jpg
+  featured: false

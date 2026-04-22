@@ -2,15 +2,18 @@ title: B-6/13/A-180 Z
 code: B-6/13/A-180 Z
 type: lo-vz-37
 line: B-6
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
-  lat: 49.997210
+  lat: 49.99721
   lon: 14.027583
   elevation: 258
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" B-6/13/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" B-6/13/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371816410
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371816410
+  type: web
+- title: ropiky.net (ID 1075718903)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718903
+  type: web
+updated: '2026-04-22'

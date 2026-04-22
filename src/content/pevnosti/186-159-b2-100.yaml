@@ -1,16 +1,19 @@
-title: "186/159/B2-100"
-code: "186/159/B2-100"
+title: 186/159/B2-100
+code: 186/159/B2-100
 type: lo-vz-37
-line: "186"
-region: "Jihočeský kraj"
+line: '186'
+region: Jihočeský kraj
 location:
   lat: 49.027068
   lon: 15.193829
   elevation: 696
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 186/159/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: zachovaly
+description: Lehký objekt vz. 37 „řopík" 186/159/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/231323814
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/231323814
+  type: web
+- title: ropiky.net (ID 1075722441)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722441
+  type: web
+updated: '2026-04-22'

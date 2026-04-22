@@ -2,15 +2,18 @@ title: J2/17/A-180
 code: J2/17/A-180
 type: lo-vz-37
 line: J2
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.875153
-  lon: 15.088050
+  lon: 15.08805
   elevation: 517
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" J2/17/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" J2/17/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371407021
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371407021
+  type: web
+- title: ropiky.net (ID 1075724756)
+  url: https://ropiky.net/dbase_objekt.php?id=1075724756
+  type: web
+updated: '2026-04-22'

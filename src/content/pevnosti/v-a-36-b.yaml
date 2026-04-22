@@ -2,15 +2,15 @@ title: V.a/36/B
 code: V.a/36/B
 type: lo-vz-37
 line: Neurčeno
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.395917
   lon: 13.248798
   elevation: 338
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" V.a/36/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" V.a/36/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/473770980
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/473770980
+  type: web
+updated: '2026-04-22'

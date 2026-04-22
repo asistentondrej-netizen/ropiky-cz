@@ -2,15 +2,18 @@ title: XXI/724/A-200 Z
 code: XXI/724/A-200 Z
 type: lo-vz-37
 line: XXI
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 50.096190
-  lon: 17.449360
+  lat: 50.09619
+  lon: 17.44936
   elevation: 486
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XXI/724/A-200 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XXI/724/A-200 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724368
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724368
+  type: web
+- title: ropiky.net (ID 1075727645)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727645
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: Q2/40/A-160
 code: Q2/40/A-160
 type: lo-vz-37
 line: Q2
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
-  lat: 50.587750
+  lat: 50.58775
   lon: 14.576832
   elevation: 399
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" Q2/40/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" Q2/40/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371455370
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371455370
+  type: web
+- title: ropiky.net (ID 1075725914)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725914
+  type: web
+updated: '2026-04-22'

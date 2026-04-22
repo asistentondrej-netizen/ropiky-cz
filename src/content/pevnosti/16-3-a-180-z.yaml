@@ -1,16 +1,19 @@
 title: 16/3/A-180 Z
 code: 16/3/A-180 Z
 type: lo-vz-37
-line: "16"
-region: "Jihomoravský kraj"
+line: '16'
+region: Jihomoravský kraj
 location:
-  lat: 48.999650
-  lon: 16.376960
+  lat: 48.99965
+  lon: 16.37696
   elevation: 228
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 16/3/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 16/3/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371740100
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371740100
+  type: web
+- title: ropiky.net (ID 1105625417)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625417
+  type: web
+updated: '2026-04-22'

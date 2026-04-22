@@ -2,49 +2,41 @@ title: R-H-S-77
 code: R-H-S-77
 type: pechotni-srub
 line: Rokytnicko / Orlické hory
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.196812
   lon: 16.517466
   elevation: 856
 state: zachovaly
-description: Pěchotní srub R-H-S-77 náležející k dělostřelecké tvrzi Hanička na úseku
-  Rokytnicko / Orlické hory. Součást československého těžkého opevnění z let 1935–1938.
-history: 'Úsek Rokytnicko v Orlických horách — tvrz Hanička plus pěchotní sruby lemu
-  hřebenů. Nejnavštěvovanější fortifikační region ČR.
+description: Pěchotní srub R-H-S-77 náležející k dělostřelecké tvrzi Hanička na úseku Rokytnicko / Orlické hory. Součást československého těžkého opevnění z let 1935–1938.
+history: 'Úsek Rokytnicko v Orlických horách — tvrz Hanička plus pěchotní sruby lemu hřebenů. Nejnavštěvovanější fortifikační region ČR.
 
 
-  Srub R-H-S-77 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
+  Srub R-H-S-77 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938, dokončení a výzbroj závisely na fázi budování daného úseku.
 
 
-  Srub byl stavěn jako součást obranného obvodu tvrze Hanička — jednoho z hlavních
-  dělostřeleckých objektů plánované čs. linie.
+  Srub byl stavěn jako součást obranného obvodu tvrze Hanička — jednoho z hlavních dělostřeleckých objektů plánované čs. linie.
 
 
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce 1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné oblasti.
 
 
   **GPS:** 50.196812, 16.517466 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.517466&y=50.196812&z=17&source=coor&id=16.517466%2C50.196812).
 
 
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element way/389796222)
 wikidata_id: Q29563361
 commons_category: R-H-S 77 U pozorovatelny casemate
-updated: '2026-04-19'
+updated: '2026-04-22'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_77_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_77_%28rok_2010%3B_01%29.jpg
   alt: Pěchotní srub R-H-S 77 U pozorovatelny
   author: Harold
   license: CC BY-SA 3.0
   source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_77_(rok_2010;_01).jpg
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

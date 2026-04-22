@@ -2,15 +2,18 @@ title: K-V/220/A-180
 code: K-V/220/A-180
 type: lo-vz-37
 line: K-V
-region: "Košický kraj"
+region: Košický kraj
 location:
   lat: 48.598904
   lon: 21.455267
   elevation: 486
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" K-V/220/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" K-V/220/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/1201869335
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/1201869335
+  type: web
+- title: ropiky.net (ID 1106072023)
+  url: https://ropiky.net/dbase_objekt.php?id=1106072023
+  type: web
+updated: '2026-04-22'

@@ -1,16 +1,19 @@
-title: "5/2087/A-140"
-code: "5/2087/A-140"
+title: 5/2087/A-140
+code: 5/2087/A-140
 type: lo-vz-37
-line: "5"
-region: "Jihomoravský kraj"
+line: '5'
+region: Jihomoravský kraj
 location:
-  lat: 48.851220
-  lon: 15.946030
+  lat: 48.85122
+  lon: 15.94603
   elevation: 418
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 5/2087/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 5/2087/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076197
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076197
+  type: web
+- title: ropiky.net (ID 1075726543)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726543
+  type: web
+updated: '2026-04-22'

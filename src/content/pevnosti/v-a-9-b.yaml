@@ -2,17 +2,16 @@ title: V.a/9/B
 code: V.a/9/B
 type: lo-vz-37
 line: Neurčeno
-region: "Ústecký kraj"
+region: Ústecký kraj
 location:
   lat: 50.347785
   lon: 13.165668
   elevation: 566
-  # start_date: 1936-12-31
 built: '1936'
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" V.a/9/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" V.a/9/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/854956421
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/854956421
+  type: web
+updated: '2026-04-22'

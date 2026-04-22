@@ -2,15 +2,18 @@ title: D2/219/A-120
 code: D2/219/A-120
 type: lo-vz-37
 line: D2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.375817
   lon: 16.247757
   elevation: 604
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D2/219/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" D2/219/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651163
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651163
+  type: web
+- title: ropiky.net (ID 1075723542)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723542
+  type: web
+updated: '2026-04-22'

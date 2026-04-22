@@ -2,15 +2,18 @@ title: M2/19/A-160
 code: M2/19/A-160
 type: lo-vz-37
 line: M2
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.824047
   lon: 14.631727
   elevation: 522
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" M2/19/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" M2/19/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/282858861
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/282858861
+  type: web
+- title: ropiky.net (ID 1075725272)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725272
+  type: web
+updated: '2026-04-22'

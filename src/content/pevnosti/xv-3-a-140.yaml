@@ -2,15 +2,18 @@ title: XV/3/A-140
 code: XV/3/A-140
 type: lo-vz-37
 line: XV
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.057090
-  lon: 16.767480
+  lat: 50.05709
+  lon: 16.76748
   elevation: 640
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XV/3/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XV/3/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371653027
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371653027
+  type: web
+- title: ropiky.net (ID 1075727409)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727409
+  type: web
+updated: '2026-04-22'

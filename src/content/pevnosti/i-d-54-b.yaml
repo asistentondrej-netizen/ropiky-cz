@@ -2,15 +2,18 @@ title: I.d/54/B
 code: I.d/54/B
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.438970
-  lon: 16.192200
+  lat: 50.43897
+  lon: 16.1922
   elevation: 359
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" I.d/54/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" I.d/54/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371652761
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371652761
+  type: web
+- title: ropiky.net (ID 1075717799)
+  url: https://ropiky.net/dbase_objekt.php?id=1075717799
+  type: web
+updated: '2026-04-22'

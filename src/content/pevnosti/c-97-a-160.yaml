@@ -2,15 +2,18 @@ title: C/97/A-160
 code: C/97/A-160
 type: lo-vz-37
 line: C
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.236265
-  lon: 16.466330
+  lon: 16.46633
   elevation: 948
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" C/97/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" C/97/A-160. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584088
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584088
+  type: web
+- title: ropiky.net (ID 1075723201)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723201
+  type: web
+updated: '2026-04-22'

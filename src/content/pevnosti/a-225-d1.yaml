@@ -2,15 +2,18 @@ title: A/225/D1
 code: A/225/D1
 type: lo-vz-36
 line: A
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.115823
   lon: 16.585427
   elevation: 617
-state: neznamy
+state: rozpadly
 description: Lehký objekt vz. 36 A/225/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371583595
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371583595
+  type: web
+- title: ropiky.net (ID 1075723012)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723012
+  type: web
+updated: '2026-04-22'

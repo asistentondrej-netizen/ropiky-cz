@@ -2,34 +2,39 @@ title: A-4/51/A-200 Y
 code: A-4/51/A-200 Y
 type: lo-vz-37
 line: A-4
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
-  lat: 50.080050
+  lat: 50.08005
   lon: 14.033828
   elevation: 365
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" A-4/51/A-200 Y. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" A-4/51/A-200 Y. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/440913013
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/440913013
+  type: web
+- title: ropiky.net (ID 1075718829)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718829
+  type: web
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
-    alt: "A-4/51/A-200 Y"
-    author: "Janmanak"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
-    alt: "A-4/51/A-200 Y"
-    author: "Janmanak"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
-    alt: "A-4/51/A-200 Y"
-    author: "Janmanak"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg"
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
+  alt: A-4/51/A-200 Y
+  author: Janmanak
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
+  alt: A-4/51/A-200 Y
+  author: Janmanak
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
+  alt: A-4/51/A-200 Y
+  author: Janmanak
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
 wikidata_id: Q37015066
-wikipedia_url: "https://cs.wikipedia.org/wiki/Bunkr_(Bratronice)"
+wikipedia_url: https://cs.wikipedia.org/wiki/Bunkr_(Bratronice)
 commons_category: A-4/51/A-200 Y light pillbox
-updated: '2026-04-21'
+updated: '2026-04-22'
+pamatka:
+  status: kulturni-pamatka

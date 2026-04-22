@@ -2,15 +2,18 @@ title: XVI/14/D2 Z
 code: XVI/14/D2 Z
 type: lo-vz-36
 line: XVI
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
-  lat: 49.913810
-  lon: 18.438650
+  lat: 49.91381
+  lon: 18.43865
   elevation: 200
 state: neznamy
 description: Lehký objekt vz. 36 XVI/14/D2 Z. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724322
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724322
+  type: web
+- title: ropiky.net (ID 1075727454)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727454
+  type: web
+updated: '2026-04-22'

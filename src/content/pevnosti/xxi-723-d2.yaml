@@ -2,16 +2,19 @@ title: XXI/723/D2
 code: XXI/723/D2
 type: lo-vz-36
 line: XXI
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 50.095190
-  lon: 17.448700
+  lat: 50.09519
+  lon: 17.4487
   elevation: 485
 state: neznamy
 description: Lehký objekt vz. 36 XXI/723/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724367
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724367
+  type: web
+- title: ropiky.net (ID 1075727646)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727646
+  type: web
 wikidata_id: Q125984187
-updated: '2026-04-21'
+updated: '2026-04-22'

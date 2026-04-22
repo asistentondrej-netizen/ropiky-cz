@@ -2,15 +2,15 @@ title: zkus/IV/C
 code: zkus/IV/C
 type: lo-vz-37
 line: Neurčeno
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
-  lat: 50.277100
-  lon: 14.873260
+  lat: 50.2771
+  lon: 14.87326
   elevation: 217
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" zkus/IV/C. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" zkus/IV/C. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371751340
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371751340
+  type: web
+updated: '2026-04-22'

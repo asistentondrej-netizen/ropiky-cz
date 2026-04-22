@@ -2,15 +2,18 @@ title: X/41/A-140
 code: X/41/A-140
 type: lo-vz-37
 line: X
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.301834
   lon: 16.400269
   elevation: 1089
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" X/41/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" X/41/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584452
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584452
+  type: web
+- title: ropiky.net (ID 1075723338)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723338
+  type: web
+updated: '2026-04-22'

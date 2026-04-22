@@ -2,15 +2,18 @@ title: VII.b/113a/A
 code: VII.b/113a/A
 type: lo-vz-37
 line: Neurčeno
-region: "Karlovarský kraj"
+region: Karlovarský kraj
 location:
   lat: 49.880531
   lon: 13.034462
   elevation: 495
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" VII.b/113a/A. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" VII.b/113a/A. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/1099740987
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/1099740987
+  type: web
+- title: ropiky.net (ID 1075718130)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718130
+  type: web
+updated: '2026-04-22'

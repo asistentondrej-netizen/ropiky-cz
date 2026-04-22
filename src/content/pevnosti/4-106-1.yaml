@@ -1,16 +1,19 @@
-title: "4/106/1"
-code: "4/106/1"
+title: 4/106/1
+code: 4/106/1
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
-  lat: 48.836200
+  lat: 48.8362
   lon: 16.563905
   elevation: 251
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 4/106/1. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 4/106/1. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075792
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075792
+  type: web
+- title: ropiky.net (ID 1075718456)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718456
+  type: web
+updated: '2026-04-22'

@@ -1,16 +1,19 @@
-title: "171/56/A-180"
-code: "171/56/A-180"
+title: 171/56/A-180
+code: 171/56/A-180
 type: lo-vz-37
-line: "171"
-region: "Karlovarský kraj"
+line: '171'
+region: Karlovarský kraj
 location:
   lat: 49.882576
   lon: 13.038864
   elevation: 514
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 171/56/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 171/56/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/1098271084
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/1098271084
+  type: web
+- title: ropiky.net (ID 1075721433)
+  url: https://ropiky.net/dbase_objekt.php?id=1075721433
+  type: web
+updated: '2026-04-22'

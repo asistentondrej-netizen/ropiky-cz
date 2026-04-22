@@ -2,26 +2,19 @@ title: MO-S 5 „Na trati"
 code: MO-S 5
 type: pechotni-srub
 line: Moravská Ostrava
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.8859
   lon: 18.3294
   address: Hlučín-Darkovičky, skanzen čs. opevnění
   elevation: 248
-
 built: '1936'
 state: muzeum
+description: 'Vlajkový objekt skanzenu Hlučín-Darkovičky — nejnavštěvovanější expozice čs. opevnění v ČR. Oboustranný pěchotní srub II. stupně odolnosti s dobově rekonstruovaným interiérem, střeleckým vybavením a pozorovacím zvonem. Spolu s MO-S 19 „Alej" a MO-S 20 „Orel" tvoří triumvirát klíčových srubů areálu Slezského zemského muzea.
 
-description: >
-  Vlajkový objekt skanzenu Hlučín-Darkovičky — nejnavštěvovanější expozice čs.
-  opevnění v ČR. Oboustranný pěchotní srub II. stupně odolnosti s dobově
-  rekonstruovaným interiérem, střeleckým vybavením a pozorovacím zvonem.
-  Spolu s MO-S 19 „Alej" a MO-S 20 „Orel" tvoří triumvirát klíčových srubů
-  areálu Slezského zemského muzea.
-
-# === TECHNICKÁ KARTA ===
+  '
 tech:
-  odolnost: 'II'
+  odolnost: II
   stupenDokonceni: dokonceny
   typObjektu: Pěchotní srub oboustranný (typ B)
   orientace: SZ–JV (pravé křídlo k MO-S 4, levé k MO-S 6)
@@ -29,22 +22,20 @@ tech:
     mini: 21
     maxi: 32
   vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 4
-      umisteni: střílny pravé a levé kasematy
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 2
-      umisteni: pancéřový zvon
-    - zbran: Protitankový kanón vz. 36 (3,7 cm)
-      pocet: 2
-      umisteni: střílny spřažené s těžkým kulometem
+  - zbran: Těžký kulomet ZB vz. 37
+    pocet: 4
+    umisteni: střílny pravé a levé kasematy
+  - zbran: Lehký kulomet ZB vz. 26
+    pocet: 2
+    umisteni: pancéřový zvon
+  - zbran: Protitankový kanón vz. 36 (3,7 cm)
+    pocet: 2
+    umisteni: střílny spřažené s těžkým kulometem
   steny:
     tloustka_cm: 225
     material: Železobeton B500
   komponenty:
-    - pancerovy-zvon
-
-# === STAVBA ===
+  - pancerovy-zvon
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   stavebniFirma: Kruliš-Hess, Ostrava
@@ -52,49 +43,33 @@ stavba:
   dokonceni: '1937'
   betonaz_m3: 1530
   poznamka: Betonáž v několika etapách — spodní patro léto 1936, horní patro jaro 1937.
-
-# === HISTORIE ===
-history: >
-  Srub MO-S 5 „Na trati" byl betonován v letech 1936–1937 jako jeden z prvních
-  objektů úseku Moravská Ostrava. Jeho úkolem byla kontrola železniční trati
-  Bohumín–Ostrava a palebná podpora sousedních srubů MO-S 4 a MO-S 6.
-  Oboustranný typ B s odolností II, posádka 32 mužů.
+history: 'Srub MO-S 5 „Na trati" byl betonován v letech 1936–1937 jako jeden z prvních objektů úseku Moravská Ostrava. Jeho úkolem byla kontrola železniční trati Bohumín–Ostrava a palebná podpora sousedních srubů MO-S 4 a MO-S 6. Oboustranný typ B s odolností II, posádka 32 mužů.
 
 
-  V září 1938 byl plně obsazen a vyzbrojen. Po Mnichovu odevzdán Wehrmachtu,
-  který zde prováděl zkušební střelby protipancéřovou municí — stopy po
-  zásazích jsou dodnes patrné na vnějším plášti. Srub zkouškám odolal bez
-  prolomení vnitřních prostor.
+  V září 1938 byl plně obsazen a vyzbrojen. Po Mnichovu odevzdán Wehrmachtu, který zde prováděl zkušební střelby protipancéřovou municí — stopy po zásazích jsou dodnes patrné na vnějším plášti. Srub zkouškám odolal bez prolomení vnitřních prostor.
 
 
-  Po válce přešel pod ČSLA, sloužil jako sklad civilní obrany. Rekonstrukce
-  pro muzejní účely začala v roce 1980 a areál skanzenu Darkovičky byl
-  oficiálně otevřen v roce 1983. Dnes patří pod Slezské zemské muzeum a je
-  nejnavštěvovanější expozicí čs. opevnění v republice.
+  Po válce přešel pod ČSLA, sloužil jako sklad civilní obrany. Rekonstrukce pro muzejní účely začala v roce 1980 a areál skanzenu Darkovičky byl oficiálně otevřen v roce 1983. Dnes patří pod Slezské zemské muzeum a je nejnavštěvovanější expozicí čs. opevnění v republice.
 
+  '
 historieMilniky:
-  - datum: '1936'
-    udalost: Zahájení betonáže
-  - datum: '1937'
-    udalost: Dokončení a výzbroj
-  - datum: září 1938
-    udalost: Plné obsazení posádkou pluku 8
-  - datum: 30. 9. 1938
-    udalost: Mnichov — předání Wehrmachtu
-  - datum: 1939–1940
-    udalost: Wehrmacht — destruktivní střelecké zkoušky
-  - datum: '1980'
-    udalost: Zahájení muzejní rekonstrukce
-  - datum: '1983'
-    udalost: Otevření skanzenu Darkovičky
+- datum: '1936'
+  udalost: Zahájení betonáže
+- datum: '1937'
+  udalost: Dokončení a výzbroj
+- datum: září 1938
+  udalost: Plné obsazení posádkou pluku 8
+- datum: 30. 9. 1938
+  udalost: Mnichov — předání Wehrmachtu
+- datum: 1939–1940
+  udalost: Wehrmacht — destruktivní střelecké zkoušky
+- datum: '1980'
+  udalost: Zahájení muzejní rekonstrukce
+- datum: '1983'
+  udalost: Otevření skanzenu Darkovičky
+visit: 'Skanzen Darkovičky (Areál čs. opevnění Hlučín-Darkovičky) spravuje Slezské zemské muzeum. MO-S 5 „Na trati" je součástí společné prohlídky s MO-S 19 „Alej", MO-S 20 „Orel" a MO-S 8 „Kub". Prohlídka celého areálu trvá 3–4 hodiny. Otevřeno duben–listopad. Aktuální otevírací doba, vstupné a program na szm.cz.
 
-# === NÁVŠTĚVA ===
-visit: >
-  Skanzen Darkovičky (Areál čs. opevnění Hlučín-Darkovičky) spravuje Slezské
-  zemské muzeum. MO-S 5 „Na trati" je součástí společné prohlídky s MO-S 19
-  „Alej", MO-S 20 „Orel" a MO-S 8 „Kub". Prohlídka celého areálu trvá 3–4 hodiny.
-  Otevřeno duben–listopad. Aktuální otevírací doba, vstupné a program na szm.cz.
-
+  '
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: doporuceno
@@ -112,58 +87,47 @@ navsteva:
   mhd: Z Ostravy bus linka 268 do Hlučína, odtud cca 3 km pěšky nebo místní bus.
   teplotaUvnitr_C: 10
   upozorneni:
-    - Prohlídka s průvodcem cca 60 minut za srub.
-    - Součástí je venkovní expozice zbraní a techniky.
-    - Kombinujte s návštěvou Dolních Vítkovic v Ostravě.
-
-# === SPRÁVCE ===
+  - Prohlídka s průvodcem cca 60 minut za srub.
+  - Součástí je venkovní expozice zbraní a techniky.
+  - Kombinujte s návštěvou Dolních Vítkovic v Ostravě.
 spravujicSubjekt:
   nazev: Slezské zemské muzeum — Areál čs. opevnění Hlučín-Darkovičky
   typ: muzeum
   web: https://www.szm.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: nkp
   poznamka: Národní kulturní památka od roku 2014 (společně pro areál Darkovičky).
-
-# === MÉDIA ===
 photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg/1280px-Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg
-    alt: Pěchotní srub MO-S 5 „Na trati"
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Bohum%C3%ADn,_Star%C3%BD_Bohum%C3%ADn,_MO-S_5_(rok_2001;_01).jpg
-    category: exterier
-    featured: true
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_02%29.jpg/1920px-Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_02%29.jpg
-    alt: Pěchotní srub MO-S 5 — detail stopa po střelbě
-    author: "User:Harold's family"
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Bohum%C3%ADn,_Star%C3%BD_Bohum%C3%ADn,_MO-S_5_(rok_2001;_02).jpg
-    category: detail
-
-# === CROSS-LINKING ===
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg/1280px-Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg
+  alt: Pěchotní srub MO-S 5 „Na trati"
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bohum%C3%ADn,_Star%C3%BD_Bohum%C3%ADn,_MO-S_5_(rok_2001;_01).jpg
+  category: exterier
+  featured: true
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_02%29.jpg/1920px-Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_02%29.jpg
+  alt: Pěchotní srub MO-S 5 — detail stopa po střelbě
+  author: User:Harold's family
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Bohum%C3%ADn,_Star%C3%BD_Bohum%C3%ADn,_MO-S_5_(rok_2001;_02).jpg
+  category: detail
 related:
   pevnosti:
-    - mo-s-19-alej
-    - mo-s-20-orel
-    - mo-s-21
-    - mo-s-22
-    - tvrz-smolkov
+  - mo-s-19-alej
+  - mo-s-20-orel
+  - mo-s-21
+  - mo-s-22
+  - tvrz-smolkov
   typologie:
-    - pechotni-srub
-    - pancerovy-zvon
-
-# === ZDROJE ===
+  - pechotni-srub
+  - pancerovy-zvon
 sources:
-  - title: Slezské zemské muzeum — Areál čs. opevnění Hlučín-Darkovičky
-    url: https://www.szm.cz
-    type: web
-  - title: Wikipedie — Areál čs. opevnění Hlučín-Darkovičky
-    type: web
-
+- title: Slezské zemské muzeum — Areál čs. opevnění Hlučín-Darkovičky
+  url: https://www.szm.cz
+  type: web
+- title: Wikipedie — Areál čs. opevnění Hlučín-Darkovičky
+  type: web
 wikidata_id: Q11765022
-wikipedia_url: "https://cs.wikipedia.org/wiki/MO-S_5_Na_trati"
+wikipedia_url: https://cs.wikipedia.org/wiki/MO-S_5_Na_trati
 commons_category: MO-S 5 Na trati casemate
-updated: '2026-04-21'
+updated: '2026-04-22'

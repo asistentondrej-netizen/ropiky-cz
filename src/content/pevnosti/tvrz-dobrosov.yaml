@@ -2,24 +2,17 @@ title: Tvrz Dobrošov
 code: N-S Tvrz Dobrošov
 type: delostrelecka-tvrz
 line: Náchod
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.4106
   lon: 16.1856
   address: Dobrošov, 547 01 Náchod
   elevation: 613
-
-built: '1938 (nedokončeno)'
+built: 1938 (nedokončeno)
 state: muzeum
+description: 'Nedokončená dělostřelecká tvrz s jedním z nejnavštěvovanějších podzemních muzeí čs. opevnění. Přístupná trasa podzemím je přes 1 km dlouhá a zahrnuje největší podzemní sály celého systému. Plánovaná pětice bojových srubů byla do září 1938 dokončena jen zčásti — dva sruby byly dostavěny, tři zůstaly rozestavěné. Muzeum spravuje Muzeum Náchodska.
 
-description: >
-  Nedokončená dělostřelecká tvrz s jedním z nejnavštěvovanějších podzemních
-  muzeí čs. opevnění. Přístupná trasa podzemím je přes 1 km dlouhá a zahrnuje
-  největší podzemní sály celého systému. Plánovaná pětice bojových srubů byla
-  do září 1938 dokončena jen zčásti — dva sruby byly dostavěny, tři zůstaly
-  rozestavěné. Muzeum spravuje Muzeum Náchodska.
-
-# === TECHNICKÁ KARTA ===
+  '
 tech:
   odolnost: IV
   stupenDokonceni: rozestaveny
@@ -29,62 +22,41 @@ tech:
     maxi: 420
     poznamka: Plný plánovaný stav. Reálně nikdy neobsazena.
   komponenty:
-    - pancerovy-zvon
-    - kopule-pozorovaci
-
-# === STAVBA ===
+  - pancerovy-zvon
+  - kopule-pozorovaci
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   zahajeni: '1937'
   dokonceni: 1938 (nedokončeno)
   poznamka: Dokončeny pěchotní sruby N-S 73 „Jeřáb" a N-S 72 „Můstek", podzemí kompletně vyraženo.
-
-# === HISTORIE ===
-history: >
-  Tvrz Dobrošov u Náchoda byla stavěna od roku 1937 jako páteř obrany
-  severovýchodních Čech. Plánováno bylo pět bojových srubů, vchodový objekt
-  a rozsáhlý podzemní systém s největšími podzemními sály celého čs. opevnění —
-  centrální kasárenská hala měla rozměry 80 × 15 metrů.
+history: 'Tvrz Dobrošov u Náchoda byla stavěna od roku 1937 jako páteř obrany severovýchodních Čech. Plánováno bylo pět bojových srubů, vchodový objekt a rozsáhlý podzemní systém s největšími podzemními sály celého čs. opevnění — centrální kasárenská hala měla rozměry 80 × 15 metrů.
 
 
-  V září 1938 byla výstavba v pokročilé fázi: podzemí vyraženo a zčásti
-  vybetonováno, dva bojové sruby (N-S 72 „Můstek" a N-S 73 „Jeřáb") byly
-  betonově dokončeny a vyzbrojeny, další tři zůstaly rozestavěné nebo jen
-  zakotvené. Po Mnichovu byla výstavba zastavena.
+  V září 1938 byla výstavba v pokročilé fázi: podzemí vyraženo a zčásti vybetonováno, dva bojové sruby (N-S 72 „Můstek" a N-S 73 „Jeřáb") byly betonově dokončeny a vyzbrojeny, další tři zůstaly rozestavěné nebo jen zakotvené. Po Mnichovu byla výstavba zastavena.
 
 
-  Za okupace Wehrmacht prováděl na srubech Dobrošova intenzivní destruktivní
-  pokusy s protipancéřovou municí — tyto stopy jsou dnes hlavním studijním
-  materiálem o účinnosti německých zbraní proti čs. fortifikacím. Po roce
-  1945 tvrz postupně převzala armáda, v 60. letech začala rekonstrukce a
-  zpřístupnění veřejnosti.
+  Za okupace Wehrmacht prováděl na srubech Dobrošova intenzivní destruktivní pokusy s protipancéřovou municí — tyto stopy jsou dnes hlavním studijním materiálem o účinnosti německých zbraní proti čs. fortifikacím. Po roce 1945 tvrz postupně převzala armáda, v 60. letech začala rekonstrukce a zpřístupnění veřejnosti.
 
 
-  Dnes je Dobrošov jednou z nejnavštěvovanějších pevnostních památek v ČR.
-  Prohlídka podzemím trvá přibližně 90 minut a zahrnuje centrální halu,
-  kasárny, strojovnu, filtrovnu a přístup ke dvěma bojovým srubům.
+  Dnes je Dobrošov jednou z nejnavštěvovanějších pevnostních památek v ČR. Prohlídka podzemím trvá přibližně 90 minut a zahrnuje centrální halu, kasárny, strojovnu, filtrovnu a přístup ke dvěma bojovým srubům.
 
+  '
 historieMilniky:
-  - datum: '1937'
-    udalost: Zahájení stavby
-  - datum: '1938'
-    udalost: Dokončeny N-S 72 a N-S 73, podzemí vyraženo
-  - datum: 30. 9. 1938
-    udalost: Mnichov — stavba zastavena
-  - datum: 1939–1945
-    udalost: Wehrmacht — destruktivní pokusy s protipancéřovou municí
-  - datum: 60. léta
-    udalost: Zahájení rekonstrukce, zpřístupnění podzemí
-  - datum: '2021'
-    udalost: Otevření po rozsáhlé rekonstrukci Muzea Náchodska
+- datum: '1937'
+  udalost: Zahájení stavby
+- datum: '1938'
+  udalost: Dokončeny N-S 72 a N-S 73, podzemí vyraženo
+- datum: 30. 9. 1938
+  udalost: Mnichov — stavba zastavena
+- datum: 1939–1945
+  udalost: Wehrmacht — destruktivní pokusy s protipancéřovou municí
+- datum: 60. léta
+  udalost: Zahájení rekonstrukce, zpřístupnění podzemí
+- datum: '2021'
+  udalost: Otevření po rozsáhlé rekonstrukci Muzea Náchodska
+visit: 'Muzeum Pevnost Dobrošov spravuje Muzeum Náchodska. Otevřeno sezónně od dubna do října (někdy i listopadu). Prohlídka podzemím trvá cca 90 minut a probíhá s průvodcem. Expozice je přizpůsobena i pro rodiny s dětmi — součástí je i venkovní naučná stezka. Aktuální informace na muzeumnachodska.cz.
 
-# === NÁVŠTĚVA ===
-visit: >
-  Muzeum Pevnost Dobrošov spravuje Muzeum Náchodska. Otevřeno sezónně od dubna
-  do října (někdy i listopadu). Prohlídka podzemím trvá cca 90 minut a probíhá
-  s průvodcem. Expozice je přizpůsobena i pro rodiny s dětmi — součástí je
-  i venkovní naučná stezka. Aktuální informace na muzeumnachodska.cz.
-
+  '
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: starsi-deti
@@ -95,53 +67,42 @@ navsteva:
     poznamka: Aktuální hodiny viz muzeumnachodska.cz.
   teplotaUvnitr_C: 7
   upozorneni:
-    - Teplota v podzemí celoročně cca 7 °C — teplé oblečení.
-    - Prohlídka zahrnuje schody a cca 1 km chůze v podzemí.
-    - Součástí expozice je venkovní naučná stezka po bojových srubech.
-
-# === SPRÁVCE ===
+  - Teplota v podzemí celoročně cca 7 °C — teplé oblečení.
+  - Prohlídka zahrnuje schody a cca 1 km chůze v podzemí.
+  - Součástí expozice je venkovní naučná stezka po bojových srubech.
 spravujicSubjekt:
   nazev: Muzeum Náchodska
   typ: muzeum
   web: https://www.muzeumnachodska.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
   poznamka: Zapsáno mezi kulturní památky ČR.
-
-# === MÉDIA ===
 photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg/1280px-N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg
-    alt: Tvrz Dobrošov — pěchotní srub N-S 72 Můstek
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:N%C3%A1chod,_Dobro%C5%A1ov,_N-S_72_(rok_2001;_01).jpg
-    category: exterier
-    featured: true
-
-# === CROSS-LINKING ===
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg/1280px-N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg
+  alt: Tvrz Dobrošov — pěchotní srub N-S 72 Můstek
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:N%C3%A1chod,_Dobro%C5%A1ov,_N-S_72_(rok_2001;_01).jpg
+  category: exterier
+  featured: true
 related:
   pevnosti:
-    - tvrz-bouda
-    - tvrz-hanicka
-    - tvrz-hurka
-    - tvrz-adam
-    - tvrz-smolkov
-    - tvrz-stachelberg
+  - tvrz-bouda
+  - tvrz-hanicka
+  - tvrz-hurka
+  - tvrz-adam
+  - tvrz-smolkov
+  - tvrz-stachelberg
   typologie:
-    - delostrelecka-tvrz
-    - pancerovy-zvon
-
-# === ZDROJE ===
+  - delostrelecka-tvrz
+  - pancerovy-zvon
 sources:
-  - title: Muzeum Náchodska — Pevnost Dobrošov
-    url: https://www.muzeumnachodska.cz
-    type: web
-  - title: Wikipedie — Dobrošov (dělostřelecká tvrz)
-    type: web
-
+- title: Muzeum Náchodska — Pevnost Dobrošov
+  url: https://www.muzeumnachodska.cz
+  type: web
+- title: Wikipedie — Dobrošov (dělostřelecká tvrz)
+  type: web
 wikidata_id: Q1164463
-wikipedia_url: "https://cs.wikipedia.org/wiki/Dobro%C5%A1ov_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
+wikipedia_url: https://cs.wikipedia.org/wiki/Dobro%C5%A1ov_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
 commons_category: Dobrošov (fortress)
-updated: '2026-04-20'
+updated: '2026-04-22'

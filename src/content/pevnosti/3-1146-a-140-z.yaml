@@ -1,16 +1,19 @@
 title: 3/1146/A-140 Z
 code: 3/1146/A-140 Z
 type: lo-vz-37
-line: "3"
-region: "Jihočeský kraj"
+line: '3'
+region: Jihočeský kraj
 location:
-  lat: 48.930910
-  lon: 15.537660
+  lat: 48.93091
+  lon: 15.53766
   elevation: 464
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 3/1146/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 3/1146/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075714
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075714
+  type: web
+- title: ropiky.net (ID 1075726402)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726402
+  type: web
+updated: '2026-04-22'

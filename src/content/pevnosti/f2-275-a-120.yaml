@@ -2,15 +2,18 @@ title: F2/275/A-120
 code: F2/275/A-120
 type: lo-vz-37
 line: F2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.491092
   lon: 16.153373
   elevation: 551
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" F2/275/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" F2/275/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584169
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584169
+  type: web
+- title: ropiky.net (ID 1075723766)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723766
+  type: web
+updated: '2026-04-22'

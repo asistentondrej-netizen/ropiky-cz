@@ -2,7 +2,7 @@ title: C-13/23b/D2
 code: C-13/23b/D2
 type: lo-vz-36
 line: C-13
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.358639
   lon: 13.719336
@@ -10,7 +10,10 @@ location:
 state: neznamy
 description: Lehký objekt vz. 36 C-13/23b/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/940788449
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/940788449
+  type: web
+- title: ropiky.net (ID 1075719388)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719388
+  type: web
+updated: '2026-04-22'

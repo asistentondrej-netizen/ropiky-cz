@@ -2,15 +2,18 @@ title: XIX/656/E
 code: XIX/656/E
 type: lo-vz-37
 line: XIX
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
-  lat: 49.779920
-  lon: 18.590700
+  lat: 49.77992
+  lon: 18.5907
   elevation: 277
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XIX/656/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XIX/656/E. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724314
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724314
+  type: web
+- title: ropiky.net (ID 1075727579)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727579
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: XI./162/C -
 code: XI./162/C -
 type: lo-vz-37
 line: Neurčeno
-region: "Ústecký kraj"
+region: Ústecký kraj
 location:
   lat: 50.604083
   lon: 13.870501
   elevation: 237
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XI./162/C -. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XI./162/C -. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/779436747
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/779436747
+  type: web
+- title: ropiky.net (ID 1096630274)
+  url: https://ropiky.net/dbase_objekt.php?id=1096630274
+  type: web
+updated: '2026-04-22'

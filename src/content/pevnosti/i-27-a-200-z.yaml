@@ -2,15 +2,18 @@ title: I/27/A-200 Z
 code: I/27/A-200 Z
 type: lo-vz-37
 line: I
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
-  lat: 49.909610
-  lon: 18.071520
+  lat: 49.90961
+  lon: 18.07152
   elevation: 219
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" I/27/A-200 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" I/27/A-200 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723036
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723036
+  type: web
+- title: ropiky.net (ID 1105709175)
+  url: https://ropiky.net/dbase_objekt.php?id=1105709175
+  type: web
+updated: '2026-04-22'

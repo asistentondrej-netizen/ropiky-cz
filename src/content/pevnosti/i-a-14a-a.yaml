@@ -2,15 +2,18 @@ title: I.a/14a/A -
 code: I.a/14a/A -
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.183648
   lon: 16.529691
   elevation: 765
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" I.a/14a/A -. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" I.a/14a/A -. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/1099740994
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/1099740994
+  type: web
+- title: ropiky.net (ID 1075717744)
+  url: https://ropiky.net/dbase_objekt.php?id=1075717744
+  type: web
+updated: '2026-04-22'

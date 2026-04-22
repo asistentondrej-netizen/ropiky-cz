@@ -2,15 +2,18 @@ title: D-30/43/A-120
 code: D-30/43/A-120
 type: lo-vz-37
 line: D-30
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.127858
   lon: 13.367268
   elevation: 380
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D-30/43/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" D-30/43/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/445417174
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/445417174
+  type: web
+- title: ropiky.net (ID 1075719690)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719690
+  type: web
+updated: '2026-04-22'

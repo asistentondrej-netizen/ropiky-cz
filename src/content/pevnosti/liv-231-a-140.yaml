@@ -2,15 +2,18 @@ title: LIV/231/A-140
 code: LIV/231/A-140
 type: lo-vz-37
 line: LIV
-region: "Bratislavský kraj"
+region: Bratislavský kraj
 location:
-  lat: 48.366290
+  lat: 48.36629
   lon: 16.927466
   elevation: 151
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" LIV/231/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" LIV/231/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/58721581
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/58721581
+  type: web
+- title: ropiky.net (ID 1075728934)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728934
+  type: web
+updated: '2026-04-22'

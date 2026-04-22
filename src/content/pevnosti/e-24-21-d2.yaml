@@ -2,15 +2,18 @@ title: E-24/21/D2
 code: E-24/21/D2
 type: lo-vz-36
 line: E-24
-region: "Plzeňský kraj"
+region: Plzeňský kraj
 location:
   lat: 49.605817
-  lon: 13.093710
+  lon: 13.09371
   elevation: 370
 state: neznamy
 description: Lehký objekt vz. 36 E-24/21/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371969648
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371969648
+  type: web
+- title: ropiky.net (ID 1075720054)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720054
+  type: web
+updated: '2026-04-22'

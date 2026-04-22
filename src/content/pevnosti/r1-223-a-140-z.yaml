@@ -2,15 +2,18 @@ title: R1/223/A-140 Z
 code: R1/223/A-140 Z
 type: lo-vz-37
 line: R1
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
   lat: 50.666773
   lon: 14.702803
   elevation: 324
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" R1/223/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" R1/223/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371458202
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371458202
+  type: web
+- title: ropiky.net (ID 1075726021)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726021
+  type: web
+updated: '2026-04-22'

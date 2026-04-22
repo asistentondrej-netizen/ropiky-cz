@@ -2,15 +2,18 @@ title: D2/23/A-180
 code: D2/23/A-180
 type: lo-vz-37
 line: D2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.374330
-  lon: 16.251780
+  lat: 50.37433
+  lon: 16.25178
   elevation: 596
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D2/23/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" D2/23/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651173
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651173
+  type: web
+- title: ropiky.net (ID 1075723520)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723520
+  type: web
+updated: '2026-04-22'

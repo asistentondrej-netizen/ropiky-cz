@@ -1,16 +1,19 @@
 title: 2/59/A-120 Z
 code: 2/59/A-120 Z
 type: lo-vz-37
-line: "2"
-region: "Jihomoravský kraj"
+line: '2'
+region: Jihomoravský kraj
 location:
-  lat: 48.757220
-  lon: 16.289750
+  lat: 48.75722
+  lon: 16.28975
   elevation: 184
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 2/59/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 2/59/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075571
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075571
+  type: web
+- title: ropiky.net (ID 1075726374)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726374
+  type: web
+updated: '2026-04-22'

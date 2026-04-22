@@ -2,15 +2,18 @@ title: C-14/21/B2-100
 code: C-14/21/B2-100
 type: lo-vz-37
 line: C-14
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.262035
-  lon: 13.541570
+  lon: 13.54157
   elevation: 300
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" C-14/21/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" C-14/21/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/356114945
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/356114945
+  type: web
+- title: ropiky.net (ID 1075719476)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719476
+  type: web
+updated: '2026-04-22'

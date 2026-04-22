@@ -1,16 +1,19 @@
-title: "7/I/5/A-180"
-code: "7/I/5/A-180"
+title: 7/I/5/A-180
+code: 7/I/5/A-180
 type: lo-vz-37
 line: Neurčeno
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
-  lat: 48.840940
-  lon: 16.010750
+  lat: 48.84094
+  lon: 16.01075
   elevation: 241
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 7/I/5/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 7/I/5/A-180. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076406
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076406
+  type: web
+- title: ropiky.net (ID 1105625211)
+  url: https://ropiky.net/dbase_objekt.php?id=1105625211
+  type: web
+updated: '2026-04-22'

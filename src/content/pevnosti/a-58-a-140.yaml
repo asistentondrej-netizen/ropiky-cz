@@ -2,15 +2,18 @@ title: A/58/A-140
 code: A/58/A-140
 type: lo-vz-37
 line: A
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.080313
   lon: 16.657213
   elevation: 827
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" A/58/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" A/58/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371583673
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371583673
+  type: web
+- title: ropiky.net (ID 1075722971)
+  url: https://ropiky.net/dbase_objekt.php?id=1075722971
+  type: web
+updated: '2026-04-22'

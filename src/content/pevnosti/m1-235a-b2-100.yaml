@@ -2,15 +2,18 @@ title: M1/235a/B2-100
 code: M1/235a/B2-100
 type: lo-vz-37
 line: M1
-region: "Liberecký kraj"
+region: Liberecký kraj
 location:
-  lat: 50.812260
+  lat: 50.81226
   lon: 14.675127
   elevation: 407
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" M1/235a/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" M1/235a/B2-100. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371257586
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371257586
+  type: web
+- title: ropiky.net (ID 1075725236)
+  url: https://ropiky.net/dbase_objekt.php?id=1075725236
+  type: web
+updated: '2026-04-22'

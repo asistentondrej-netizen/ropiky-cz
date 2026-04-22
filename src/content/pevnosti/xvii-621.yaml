@@ -1,16 +1,19 @@
-title: "XVII/621/? ?"
-code: "XVII/621/? ?"
+title: XVII/621/? ?
+code: XVII/621/? ?
 type: lo-vz-37
 line: Neurčeno
-region: "Banskobystrický kraj"
+region: Banskobystrický kraj
 location:
-  lat: 48.275220
-  lon: 19.501380
+  lat: 48.27522
+  lon: 19.50138
   elevation: 253
-state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XVII/621/? ?. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: rozpadly
+description: Lehký objekt vz. 37 „řopík" XVII/621/? ?. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372141153
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372141153
+  type: web
+- title: ropiky.net (ID 1075728584)
+  url: https://ropiky.net/dbase_objekt.php?id=1075728584
+  type: web
+updated: '2026-04-22'

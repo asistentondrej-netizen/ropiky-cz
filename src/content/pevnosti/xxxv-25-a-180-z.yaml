@@ -2,15 +2,18 @@ title: XXXV/25/A-180 Z
 code: XXXV/25/A-180 Z
 type: lo-vz-37
 line: XXXV
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
-  lat: 50.091700
+  lat: 50.0917
   lon: 16.760595
   elevation: 600
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XXXV/25/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XXXV/25/A-180 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371653078
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371653078
+  type: web
+- title: ropiky.net (ID 1075727868)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727868
+  type: web
+updated: '2026-04-22'

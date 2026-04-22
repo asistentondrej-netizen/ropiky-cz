@@ -2,16 +2,19 @@ title: IX/106/A-140 Z
 code: IX/106/A-140 Z
 type: lo-vz-37
 line: IX
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.170529
   lon: 16.991548
   elevation: 793
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" IX/106/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" IX/106/A-140 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723380
-    type: web
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723380
+  type: web
+- title: ropiky.net (ID 1075727072)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727072
+  type: web
 wikidata_id: Q113496737
-updated: '2026-04-21'
+updated: '2026-04-22'

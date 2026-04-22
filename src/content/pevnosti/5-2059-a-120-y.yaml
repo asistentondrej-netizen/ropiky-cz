@@ -1,16 +1,19 @@
 title: 5/2059/A-120 Y
 code: 5/2059/A-120 Y
 type: lo-vz-37
-line: "5"
-region: "Jihomoravský kraj"
+line: '5'
+region: Jihomoravský kraj
 location:
-  lat: 48.858170
+  lat: 48.85817
   lon: 15.856925
   elevation: 290
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 5/2059/A-120 Y. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 5/2059/A-120 Y. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372076168
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372076168
+  type: web
+- title: ropiky.net (ID 1075726569)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726569
+  type: web
+updated: '2026-04-22'

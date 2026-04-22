@@ -1,16 +1,19 @@
 title: 2/63/A-200 Z
 code: 2/63/A-200 Z
 type: lo-vz-37
-line: "2"
-region: "Jihomoravský kraj"
+line: '2'
+region: Jihomoravský kraj
 location:
-  lat: 48.757580
-  lon: 16.277000
+  lat: 48.75758
+  lon: 16.277
   elevation: 184
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 2/63/A-200 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 2/63/A-200 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3372075580
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3372075580
+  type: web
+- title: ropiky.net (ID 1075726378)
+  url: https://ropiky.net/dbase_objekt.php?id=1075726378
+  type: web
+updated: '2026-04-22'

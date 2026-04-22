@@ -2,7 +2,7 @@ title: OP-S 25 „Milostovice"
 code: OP-S 25
 type: pechotni-srub
 line: Opava
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.951843
   lon: 17.838105
@@ -10,48 +10,39 @@ location:
   address: Opava-Milostovice
 built: '1937'
 state: neznamy
-description: Pěchotní srub „Milostovice" — jeden z mála dobře zachovaných izolovaných
-  TO opavské linie. Slezské zemské muzeum označilo objekt jako Památník opevnění 1938.
-history: 'OP-S 25 byl betonován v létě 1937 jako součást plánované obranné linie severně
-  od Opavy. Jednostranný pěchotní srub II. odolnosti s pancéřovými zvony — dochované
-  dodnes.
+description: Pěchotní srub „Milostovice" — jeden z mála dobře zachovaných izolovaných TO opavské linie. Slezské zemské muzeum označilo objekt jako Památník opevnění 1938.
+history: 'OP-S 25 byl betonován v létě 1937 jako součást plánované obranné linie severně od Opavy. Jednostranný pěchotní srub II. odolnosti s pancéřovými zvony — dochované dodnes.
 
 
-  Po Mnichovu sloužil Wehrmachtu jako skladiště. V letech 1957–1990 součást civilní
-  obrany. Od roku 1995 památník Slezského zemského muzea, drobné exteriérové úpravy.
+  Po Mnichovu sloužil Wehrmachtu jako skladiště. V letech 1957–1990 součást civilní obrany. Od roku 1995 památník Slezského zemského muzea, drobné exteriérové úpravy.
 
   '
-visit: 'Pěchotní srub v klidném lesním prostředí severně od Opavy — exteriérní prohlídka
-  možná kdykoliv, občas otevřeno při akcích muzea.
+visit: 'Pěchotní srub v klidném lesním prostředí severně od Opavy — exteriérní prohlídka možná kdykoliv, občas otevřeno při akcích muzea.
 
 
-  **Přístup:** celoročně volně (exteriér), 24/7. Interiér — víkendové prohlídky v
-  sezóně (květen–září).
+  **Přístup:** celoročně volně (exteriér), 24/7. Interiér — víkendové prohlídky v sezóně (květen–září).
 
 
   **Vstupné:** exteriér zdarma, interiér cca 50 Kč v rámci muzejního programu.
 
 
-  **Co uvidíte:** dobře zachovalý srub s pancéřovými zvony v původních pozicích, informační
-  tabule památníku, stopy překážek. V okolí je patrná plánovaná linie směrem k Hlučínsku.
+  **Co uvidíte:** dobře zachovalý srub s pancéřovými zvony v původních pozicích, informační tabule památníku, stopy překážek. V okolí je patrná plánovaná linie směrem k Hlučínsku.
 
 
   **Doporučená délka:** 20–30 minut.
 
 
-  **Dostupnost:** Autem z Opavy (5 km) po silnici na Krnov, odbočit na Milostovice.
-  Autobus MHD Opava č. 209 (zastávka Milostovice).
+  **Dostupnost:** Autem z Opavy (5 km) po silnici na Krnov, odbočit na Milostovice. Autobus MHD Opava č. 209 (zastávka Milostovice).
 
 
-  **Doporučeno kombinovat s:** Opavou (Slezské zemské muzeum, chrám sv. Ducha), Areálem
-  Hlučín-Darkovičky (25 km), OP-S 22, OP-S 26. Celodenní opavsko-hlučínský okruh.
+  **Doporučeno kombinovat s:** Opavou (Slezské zemské muzeum, chrám sv. Ducha), Areálem Hlučín-Darkovičky (25 km), OP-S 22, OP-S 26. Celodenní opavsko-hlučínský okruh.
 
   '
 sources:
 - Slezské zemské muzeum
 wikidata_id: Q98592010
 commons_category: OP-S 25 U trigonometru casemate
-updated: '2026-04-18'
+updated: '2026-04-22'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Opava%2C_Milostovice%2C_OP-S_25_%282019-08-14%3B_01%29.jpg/1280px-Opava%2C_Milostovice%2C_OP-S_25_%282019-08-14%3B_01%29.jpg
   alt: Pěchotní srub OP-S 25 U trigonometru
@@ -68,3 +59,6 @@ photos:
   author: Harold
   license: CC BY-SA 3.0
   source: https://commons.wikimedia.org/wiki/File:Opava,_Milostovice,_OP-S_25_(2019-08-14;_01).jpg
+pamatka:
+  status: kulturni-pamatka
+  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR

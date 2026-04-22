@@ -2,15 +2,18 @@ title: XIIa/527/A-120
 code: XIIa/527/A-120
 type: lo-vz-37
 line: Neurčeno
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 50.119700
-  lon: 17.438640
+  lat: 50.1197
+  lon: 17.43864
   elevation: 606
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XIIa/527/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XIIa/527/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724004
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724004
+  type: web
+- title: ropiky.net (ID 1075727254)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727254
+  type: web
+updated: '2026-04-22'

@@ -1,16 +1,19 @@
 title: 122/20/A-120 Z
 code: 122/20/A-120 Z
 type: lo-vz-37
-line: "122"
-region: "Středočeský kraj"
+line: '122'
+region: Středočeský kraj
 location:
   lat: 49.755643
-  lon: 14.427730
+  lon: 14.42773
   elevation: 266
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" 122/20/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" 122/20/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371751345
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371751345
+  type: web
+- title: ropiky.net (ID 1075720598)
+  url: https://ropiky.net/dbase_objekt.php?id=1075720598
+  type: web
+updated: '2026-04-22'

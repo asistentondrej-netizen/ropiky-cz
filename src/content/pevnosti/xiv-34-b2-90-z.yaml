@@ -2,15 +2,18 @@ title: XIV/34/B2-90 Z
 code: XIV/34/B2-90 Z
 type: lo-vz-37
 line: Neurčeno
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.187618
   lon: 17.207785
   elevation: 559
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XIV/34/B2-90 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XIV/34/B2-90 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724075
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724075
+  type: web
+- title: ropiky.net (ID 1075727395)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727395
+  type: web
+updated: '2026-04-22'

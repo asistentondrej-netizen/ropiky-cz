@@ -2,15 +2,18 @@ title: XI./171/C -
 code: XI./171/C -
 type: lo-vz-37
 line: Neurčeno
-region: "Ústecký kraj"
+region: Ústecký kraj
 location:
   lat: 50.602783
   lon: 13.939451
   elevation: 191
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" XI./171/C -. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" XI./171/C -. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/460314540
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/460314540
+  type: web
+- title: ropiky.net (ID 1096630420)
+  url: https://ropiky.net/dbase_objekt.php?id=1096630420
+  type: web
+updated: '2026-04-22'

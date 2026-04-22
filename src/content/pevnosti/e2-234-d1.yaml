@@ -2,15 +2,18 @@ title: E2/234/D1
 code: E2/234/D1
 type: lo-vz-36
 line: E2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.428882
   lon: 16.174452
   elevation: 424
-state: neznamy
+state: rozpadly
 description: Lehký objekt vz. 36 E2/234/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371651648
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371651648
+  type: web
+- title: ropiky.net (ID 1075723633)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723633
+  type: web
+updated: '2026-04-22'

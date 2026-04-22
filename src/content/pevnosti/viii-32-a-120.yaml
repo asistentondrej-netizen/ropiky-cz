@@ -2,15 +2,18 @@ title: VIII/32/A-120
 code: VIII/32/A-120
 type: lo-vz-37
 line: VIII
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.170945
   lon: 16.920255
   elevation: 593
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" VIII/32/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" VIII/32/A-120. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723866
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723866
+  type: web
+- title: ropiky.net (ID 1075727049)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727049
+  type: web
+updated: '2026-04-22'

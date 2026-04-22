@@ -2,15 +2,18 @@ title: XIX/425/D2
 code: XIX/425/D2
 type: lo-vz-36
 line: XIX
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
-  lat: 49.776630
-  lon: 18.597220
+  lat: 49.77663
+  lon: 18.59722
   elevation: 272
 state: neznamy
 description: Lehký objekt vz. 36 XIX/425/D2. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371724307
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371724307
+  type: web
+- title: ropiky.net (ID 1075727558)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727558
+  type: web
+updated: '2026-04-22'

@@ -2,15 +2,18 @@ title: D-16/3/A-220 Z
 code: D-16/3/A-220 Z
 type: lo-vz-37
 line: Neurčeno
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.179794
   lon: 13.441815
   elevation: 297
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" D-16/3/A-220 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" D-16/3/A-220 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/261416045
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/261416045
+  type: web
+- title: ropiky.net (ID 1075719625)
+  url: https://ropiky.net/dbase_objekt.php?id=1075719625
+  type: web
+updated: '2026-04-22'

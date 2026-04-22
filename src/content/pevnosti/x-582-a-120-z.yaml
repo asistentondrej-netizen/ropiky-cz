@@ -2,15 +2,18 @@ title: X/582/A-120 Z
 code: X/582/A-120 Z
 type: lo-vz-37
 line: X
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
-  lat: 50.051320
-  lon: 17.485560
+  lat: 50.05132
+  lon: 17.48556
   elevation: 429
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" X/582/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" X/582/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371723912
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371723912
+  type: web
+- title: ropiky.net (ID 1075727171)
+  url: https://ropiky.net/dbase_objekt.php?id=1075727171
+  type: web
+updated: '2026-04-22'

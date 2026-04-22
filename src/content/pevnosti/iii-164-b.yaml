@@ -2,15 +2,18 @@ title: III/164/B
 code: III/164/B
 type: lo-vz-37
 line: Neurčeno
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.663787
-  lon: 15.897800
+  lon: 15.8978
   elevation: 712
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" III/164/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" III/164/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371652829
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371652829
+  type: web
+- title: ropiky.net (ID 1075717872)
+  url: https://ropiky.net/dbase_objekt.php?id=1075717872
+  type: web
+updated: '2026-04-22'

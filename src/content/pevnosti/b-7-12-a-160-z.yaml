@@ -2,15 +2,19 @@ title: B-7/12/A-160 Z
 code: B-7/12/A-160 Z
 type: lo-vz-37
 line: B-7
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 49.933671
-  lon: 14.182990
+  lon: 14.18299
   elevation: 235
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" B-7/12/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" B-7/12/A-160 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/way/444457289
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/way/444457289
+  type: web
+- title: ropiky.net (ID 1075718968)
+  url: https://ropiky.net/dbase_objekt.php?id=1075718968
+  type: web
+updated: '2026-04-22'
+building_levels: 1

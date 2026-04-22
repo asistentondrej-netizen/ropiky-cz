@@ -2,15 +2,18 @@ title: F2/80/D1
 code: F2/80/D1
 type: lo-vz-36
 line: F2
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.499013
   lon: 16.144745
   elevation: 546
-state: neznamy
+state: rozpadly
 description: Lehký objekt vz. 36 F2/80/D1. Základní záznam — čeká na doplnění technických dat a fotografií.
 sources:
-  - title: OpenStreetMap
-    url: https://www.openstreetmap.org/node/3371584198
-    type: web
-updated: '2026-04-21'
+- title: OpenStreetMap
+  url: https://www.openstreetmap.org/node/3371584198
+  type: web
+- title: ropiky.net (ID 1075723707)
+  url: https://ropiky.net/dbase_objekt.php?id=1075723707
+  type: web
+updated: '2026-04-22'
