@@ -189,7 +189,18 @@ p { margin-bottom: var(--s3); max-width: 68ch; }
   width: 100%;
   box-sizing: border-box;
 }
-.mobile-nav.is-open { display: flex; }
+.mobile-nav.is-open {
+  display: flex;
+  /* Fix: drawer musí být posouvatelný, když je obsah delší než viewport.
+     Výška = viewport - hlavička (cca 72 px). dvh = dynamic viewport height,
+     kompenzuje URL bar v iOS Safari. */
+  max-height: calc(100vh - 72px);
+  max-height: calc(100dvh - 72px);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+  padding-bottom: calc(var(--s4) + env(safe-area-inset-bottom, 0px));
+}
 .mobile-nav a {
   display: block;
   padding: var(--s2) 0;
