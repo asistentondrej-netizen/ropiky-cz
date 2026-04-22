@@ -224,7 +224,6 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
             Zobrazeno: <strong id="visible-count">{total}</strong> z {total}
           </span>
           <button class="filter-reset" id="reset-filters" type="button">Resetovat filtry</button>
-          <button class="filter-export" id="export-csv" type="button" title="Export viditelných pevností do CSV">📊 CSV</button>
           <a href="/mapa" class="filter-mapa">Zobrazit v mapě →</a>
         </div>
       </div>
@@ -608,7 +607,6 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
     const noResultsEl = document.getElementById('no-results');
     const gridEl = document.getElementById('fort-grid');
     const resetBtn = document.getElementById('reset-filters');
-    const exportBtn = document.getElementById('export-csv');
     const noResultsResetBtn = document.getElementById('no-results-reset');
     const paginationEl = document.getElementById('pagination');
     const pagesEl = document.getElementById('pagination-pages');
@@ -865,34 +863,6 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
 
     resetBtn?.addEventListener('click', resetAll);
     noResultsResetBtn?.addEventListener('click', resetAll);
-
-    // ===== CSV EXPORT =====
-    exportBtn?.addEventListener('click', () => {
-      const matched = getMatchedItems();
-      const header = ['title', 'code', 'type', 'state', 'region', 'url'];
-      const rows = [header.join(',')];
-      matched.forEach((it) => {
-        const card = it.querySelector<HTMLAnchorElement>('a');
-        const href = card?.getAttribute('href') ?? '';
-        const title = it.dataset.title ?? '';
-        const code = it.dataset.code ?? '';
-        const type = it.dataset.type ?? '';
-        const state = it.dataset.state ?? '';
-        const region = it.dataset.region ?? '';
-        const esc = (v: string) => `"${v.replace(/"/g, '""')}"`;
-        rows.push([esc(title), esc(code), esc(type), esc(state), esc(region), esc(href)].join(','));
-      });
-      const csv = rows.join('\n');
-      const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8' });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = `ropiky-katalog-${new Date().toISOString().slice(0, 10)}.csv`;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
-    });
 
     // ===== INICIALIZACE =====
     loadFromUrl();
