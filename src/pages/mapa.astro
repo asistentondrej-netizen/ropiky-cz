@@ -103,7 +103,7 @@ const stateLabels: Record<string, string> = {
       </p>
 
       <!-- Mapa -->
-      <div id="map" style="height: 70vh; min-height: 540px; border: 1px solid var(--line); background: var(--paper-dark); position: relative;">
+      <div id="map" style="height: 70dvh; min-height: 540px; border: 1px solid var(--line); background: var(--paper-dark); position: relative;">
         <div id="map-search" class="map-search">
           <input
             type="search"
@@ -221,7 +221,7 @@ const stateLabels: Record<string, string> = {
       box-sizing: border-box;
       padding: 10px 36px 10px 14px;
       border: 0;
-      font-size: 0.9375rem;
+      font-size: 1rem; /* 16px — zabrání iOS zoomu při focusu na inputu */
       font-family: inherit;
       color: var(--ink);
       background: transparent;
@@ -504,7 +504,9 @@ const stateLabels: Record<string, string> = {
         right: 8px;
         width: auto;
       }
-      .map-search__input { font-size: 16px; padding: 8px 32px 8px 12px; }
+      .map-search__input { padding: 8px 32px 8px 12px; }
+      .filter-btn { min-height: 44px; padding: 10px 14px; font-size: 0.875rem; }
+      .map-filters { overflow-x: hidden; }
       .map-search__item { padding: 10px 14px; font-size: 0.9375rem; }
     }
   </style>

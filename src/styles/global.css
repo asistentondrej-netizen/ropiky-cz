@@ -51,6 +51,8 @@ body {
     radial-gradient(circle at 20% 10%, rgba(160, 131, 76, 0.04) 0%, transparent 50%),
     radial-gradient(circle at 80% 90%, rgba(92, 107, 58, 0.04) 0%, transparent 50%);
   min-height: 100vh;
+  min-height: 100dvh;
+  overflow-x: hidden; /* safety net proti náhodnému horizontálnímu scrollu na mobilu */
 }
 
 h1, h2, h3, h4 { font-family: var(--font-serif); font-weight: 600; color: var(--ink); letter-spacing: -0.01em; }
@@ -406,7 +408,9 @@ body.nav-open { overflow: hidden; }
 
 /* ---------- Hero ---------- */
 .hero {
-  position: relative; min-height: 82vh;
+  position: relative;
+  min-height: 82vh;
+  min-height: 82dvh;
   display: flex; align-items: center; overflow: hidden;
   background:
     linear-gradient(180deg, rgba(26, 22, 18, 0.7) 0%, rgba(26, 22, 18, 0.85) 100%),
@@ -1073,7 +1077,7 @@ section { padding: var(--s7) 0; }
 /* ---------- Responsive ---------- */
 @media (max-width: 640px) {
   section { padding: var(--s5) 0; }
-  .hero { min-height: 70vh; }
+  .hero { min-height: 70vh; min-height: 70dvh; }
   .hero__content { padding: var(--s5) var(--s3); }
   .section-header { flex-direction: column; gap: var(--s1); }
   .section-header__num { font-size: 2rem; }
@@ -1081,6 +1085,22 @@ section { padding: var(--s7) 0; }
   /* Logo zmenšit na telefonu */
   .site-logo__primary { font-size: 1.125rem; }
   .site-logo__secondary { font-size: 0.625rem; letter-spacing: 0.1em; }
+
+  /* Tap target fixes: 44px min pro všechna tlačítka a CTAs */
+  .btn--link { padding: 10px 0; min-height: 44px; display: inline-flex; align-items: center; }
+  .filter-btn, .preset-btn {
+    min-height: 44px;
+    padding: 10px 14px;
+    font-size: 0.875rem;
+  }
+  .filter-footer > * { width: 100%; }
+  .filter-mapa { margin-left: 0 !important; padding: 10px 0; }
+
+  /* Dlouhé URL a code bloky v článcích nesmí přetékat */
+  .article-body a, .article-body code { word-break: break-word; overflow-wrap: anywhere; }
+  .article-body p:first-of-type::first-letter { font-size: 3rem; }
+  .article-body pre { overflow-x: auto; -webkit-overflow-scrolling: touch; max-width: 100%; }
+  .article-cover { padding: 0 var(--s3); }
 
   /* Tabulky v článcích — na mobilu horizontální scroll místo překryvu */
   .article-body table {
