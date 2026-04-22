@@ -39,7 +39,6 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
   GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element relation/5843466)
-- ropiky.net — databáze čs. opevnění
 wikidata_id: Q69681881
 updated: '2026-04-19'
 photos: []

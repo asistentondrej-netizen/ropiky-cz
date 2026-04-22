@@ -35,7 +35,6 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
   GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element way/1083430354)
-- ropiky.net — databáze čs. opevnění
 photos:
   - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Srub_Jaroslav.jpg/1920px-Srub_Jaroslav.jpg"
     alt: "N-S-47 „Jaroslav\""

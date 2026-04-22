@@ -39,7 +39,6 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
   GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element way/390422137)
-- ropiky.net — databáze čs. opevnění
 photos:
   - url: "https://upload.wikimedia.org/wikipedia/commons/0/02/K-S12b.jpg"
     alt: "K-BG-S-12b „Utržený\""
