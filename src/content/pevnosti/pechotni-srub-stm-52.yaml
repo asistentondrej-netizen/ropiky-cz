@@ -1,14 +1,14 @@
-title: Pěchotní srub STM 52
-code: Pěchotní srub STM 52
+title: StM-S 52 (Branná)
+code: StM-S 52
 type: pechotni-srub
-line: Neurčeno
+line: Staré Město pod Sněžníkem
 region: "Olomoucký kraj"
 location:
   lat: 50.169491
   lon: 17.050752
   elevation: 777
-state: neznamy
-description: "Pěchotní srub Pěchotní srub STM 52. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+state: zachovaly
+description: "Pěchotní srub StM-S 52 v podúseku Branná, úsek Staré Město pod Sněžníkem. Součást systému těžkého opevnění budovaného v Jeseníkách v letech 1937–1938."
 sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/way/238488234
