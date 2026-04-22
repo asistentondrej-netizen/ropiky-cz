@@ -2,14 +2,14 @@ title: 'Řopíky na Znojemsku (linie Dyje)'
 code: 'ZN — jižní Morava'
 type: lo-vz-37
 line: 'Jižní Morava — Znojemsko'
-region: 'Jihomoravský kraj'
+region: "Jihomoravský kraj"
 location:
   lat: 48.8555
   lon: 16.0488
   elevation: 290
   address: 'Okolí Znojma a Nového Šaldorfu'
 built: '1937'
-state: 'pristupny'
+state: pristupny
 description: 'Linie lehkého opevnění kolem Dyje a rakouské hranice. Hustá síť řopíků v rovinatém až kopcovitém terénu jižní Moravy.'
 history: |
   Znojemská linie byla zesílena po Anschlussu Rakouska v březnu 1938. V krátkém čase vzniklo několik stovek řopíků podél toku Dyje a dnešní státní hranice.

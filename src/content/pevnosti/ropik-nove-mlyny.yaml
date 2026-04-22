@@ -2,14 +2,14 @@ title: 'Řopíky u Nových Mlýnů (Pálava)'
 code: 'MIK / Pálava — lehké opevnění'
 type: lo-vz-37
 line: 'Jižní Morava (Mikulovsko)'
-region: 'Jihomoravský kraj'
+region: "Jihomoravský kraj"
 location:
   lat: 48.8611
   lon: 16.6361
   elevation: 428
   address: 'Mikulovsko, oblast Pálavy a Nových Mlýnů'
 built: '1938'
-state: 'pristupny'
+state: pristupny
 description: 'Linie řopíků v okolí Pálavských vrchů a Novomlýnských nádrží. Volně přístupné objekty v turistické oblasti, dobře dostupné pěšky i na kole.'
 history: |
   Mikulovská oblast byla součástí jižní linie lehkého opevnění budované v letech 1937–1938 proti hrozbě útoku z rakouského (po březnu 1938 říšského) území.

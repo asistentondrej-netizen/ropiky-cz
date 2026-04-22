@@ -2,14 +2,14 @@ title: 'OP-S 18 „U obory"'
 code: 'OP-S 18'
 type: pechotni-srub
 line: 'Opava'
-region: 'Moravskoslezský kraj'
+region: "Moravskoslezský kraj"
 location:
   lat: 49.9556
   lon: 17.9022
   elevation: 258
   address: 'Opava — oblast Kylešovského lesa'
 built: '1937'
-state: 'pristupny'
+state: pristupny
 description: 'Pěchotní srub v úseku Opava, zachovalý v terénu. Volně přístupný, s dochovanou vnější strukturou.'
 history: |
   Srub OP-S 18 byl součástí linie chránící Opavsko. Po Mnichovu opuštěn, během okupace využíván Wehrmachtem.

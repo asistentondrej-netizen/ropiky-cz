@@ -2,14 +2,14 @@ title: 'Muzeum Šatov — rekonstruovaný řopík'
 code: 'LO vz. 37 A-160 — Šatov'
 type: lo-vz-37
 line: 'Jižní Morava (Znojemsko)'
-region: 'Jihomoravský kraj'
+region: "Jihomoravský kraj"
 location:
   lat: 48.7708
   lon: 16.0103
   elevation: 240
   address: 'Šatov 395, 671 22 Šatov'
 built: '1938'
-state: 'muzeum'
+state: muzeum
 description: 'Precizně rekonstruovaný řopík typu A-160 nedaleko rakouských hranic. Expozice Jihomoravského muzea ve Znojmě.'
 history: |
   Řopík u Šatova byl součástí jižní moravské linie lehkého opevnění, budované v posledních letech první republiky jako reakce na Anschluss Rakouska (březen 1938).
