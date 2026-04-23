@@ -4,15 +4,25 @@ import { getCollection } from 'astro:content';
 
 const linie = (await getCollection('linie')).sort((a, b) => a.data.order - b.data.order);
 
-const totalPlanovano = linie.reduce((acc, l) => acc + (l.data.pocet_planovano ?? l.data.pocet_objektu ?? 0), 0);
-const totalRealizovano = linie.reduce((acc, l) => acc + (l.data.pocet_realizovano ?? l.data.pocet_objektu ?? 0), 0);
-const totalTO = linie.reduce((acc, l) => acc + (l.data.pocet_to ?? 0), 0);
-const totalKm = linie.reduce((acc, l) => acc + (l.data.delka_km ?? 0), 0);
+// Historická celostátní čísla ŘOP (zdroj: Aron/Hrůbek, Stehlík, Dubánek)
+// Shodné s /o-opevneni/co-je-rop/ — single source of truth
+const HISTORY_CELKEM_PLAN_TO = 1276;
+const HISTORY_CELKEM_PLAN_LO = 15463;
+const HISTORY_CELKEM_PLAN = HISTORY_CELKEM_PLAN_TO + HISTORY_CELKEM_PLAN_LO; // 16 739
+const HISTORY_CELKEM_REAL_TO = 263;
+const HISTORY_CELKEM_REAL_LO = 10012; // 9 148 vz.37 + 864 vz.36
+const HISTORY_CELKEM_REAL = HISTORY_CELKEM_REAL_TO + HISTORY_CELKEM_REAL_LO; // 10 275
+const HISTORY_CELKEM_KM = 1466;
+
+// Součet za 12 dokumentovaných linií (kontrolní)
+const sumaPlanovano = linie.reduce((acc, l) => acc + (l.data.pocet_planovano ?? l.data.pocet_objektu ?? 0), 0);
+const sumaRealizovano = linie.reduce((acc, l) => acc + (l.data.pocet_realizovano ?? l.data.pocet_objektu ?? 0), 0);
+const sumaKm = linie.reduce((acc, l) => acc + (l.data.delka_km ?? 0), 0);
 ---
 
 <BaseLayout
   title="Obranné linie ŘOP"
-  description={`Přehled ${linie.length} obranných linií československého opevnění 1935–1938. Celkem bylo plánováno přes 16 700 objektů, z toho do mobilizace v září 1938 postaveno necelých 10 300 (cca 9 150 řopíků LO vz.37, 864 LO vz.36 a 264 objektů těžkého opevnění).`}
+  description={`Přehled ${linie.length} obranných linií československého opevnění 1935–1938. Plánováno 1 276 objektů těžkého opevnění a 15 463 lehkého opevnění; do mobilizace v září 1938 postaveno 263 TO a přibližně 10 000 LO.`}
 >
   <header class="catalog-header">
     <div class="container">
@@ -28,28 +38,39 @@ const totalKm = linie.reduce((acc, l) => acc + (l.data.delka_km ?? 0), 0);
 
       <div class="line-stats">
         <div class="line-stat">
-          <strong>{linie.length}</strong>
-          <span>obranných úseků</span>
+          <strong>~{HISTORY_CELKEM_KM.toLocaleString('cs-CZ')} km</strong>
+          <span>hlavní obranná linie</span>
         </div>
         <div class="line-stat">
-          <strong>~{totalKm.toLocaleString('cs-CZ')} km</strong>
-          <span>celkové délky linií</span>
-        </div>
-        <div class="line-stat">
-          <strong>~{totalPlanovano.toLocaleString('cs-CZ')}</strong>
-          <span>objektů plánováno</span>
+          <strong>{HISTORY_CELKEM_PLAN.toLocaleString('cs-CZ')}</strong>
+          <span>objektů plánováno celkem</span>
         </div>
         <div class="line-stat line-stat--accent">
-          <strong>~{totalRealizovano.toLocaleString('cs-CZ')}</strong>
+          <strong>~{HISTORY_CELKEM_REAL.toLocaleString('cs-CZ')}</strong>
           <span>postaveno do 9/1938</span>
+        </div>
+        <div class="line-stat">
+          <strong>{linie.length}</strong>
+          <span>obranných úseků v přehledu</span>
         </div>
       </div>
 
       <aside class="methodology-note">
-        <strong>Metodika:</strong> Čísla vycházejí z prazskacara.cz a dobové dokumentace (Aron/Hrůbek, Stehlík, Dubánek).
-        „Plánováno" = celkový počet projektovaných objektů (LO vz. 37 + LO vz. 36 + těžké opevnění).
-        „Postaveno" = vybetonováno do mobilizace 23.–30. 9. 1938; z toho celostátně 9 148 řopíků LO vz. 37, 864 LO vz. 36 a 264 objektů těžkého opevnění (≈ 10 276 objektů).
-        Zbytek (cca 6 500 objektů) se nestihl — Mnichovská dohoda výstavbu zastavila. V katalogu je dnes dokumentováno 6 092 dochovaných objektů — rozdíl tvoří hlavně demolice 50.–60. let, zatopení přehradami a ztráta plánové dokumentace.
+        <strong>Metodika:</strong> Horní čísla jsou celostátní historické údaje pro celé ČSR — plán zahrnuje
+        {' '}{HISTORY_CELKEM_PLAN_TO.toLocaleString('cs-CZ')} objektů těžkého opevnění a {HISTORY_CELKEM_PLAN_LO.toLocaleString('cs-CZ')}
+        {' '}objektů lehkého opevnění (vz. 37 + vz. 36); do mobilizace 23.–30. 9. 1938 bylo postaveno
+        {' '}{HISTORY_CELKEM_REAL_TO} TO a přibližně {HISTORY_CELKEM_REAL_LO.toLocaleString('cs-CZ')} LO
+        {' '}(z toho 9 148 řopíků LO vz. 37 a 864 LO vz. 36).
+        <br/><br/>
+        <strong>V tomto přehledu 12 dokumentovaných linií</strong> je zachyceno ~{sumaPlanovano.toLocaleString('cs-CZ')} plánovaných
+        a ~{sumaRealizovano.toLocaleString('cs-CZ')} postavených objektů ({Math.round(sumaRealizovano / HISTORY_CELKEM_REAL * 100)} % celostátní reality)
+        po délce ~{sumaKm.toLocaleString('cs-CZ')} km. Chybějící objekty tvoří menší a sekundární úseky mimo 12 hlavních linií
+        (zejména plně zdokumentovaný rozpočet pro Slovensko, drobné vnitrozemské příčky a pozdější plánovací fáze).
+        V katalogu je dnes dochováno 6 092 objektů — rozdíl vůči postaveným tvoří demolice 50.–60. let,
+        zatopení přehradami a ztráty dokumentace.
+        <br/><br/>
+        <em>Zdroje:</em> Aron/Hrůbek <em>Československé opevnění 1935–1938</em>, Stehlík <em>Lexikon těžkých objektů</em>,
+        Dubánek <em>Opevnění Československa</em>, aggregator <a href="https://www.prazskacara.cz/" target="_blank" rel="noopener">prazskacara.cz</a>.
       </aside>
     </div>
   </header>
