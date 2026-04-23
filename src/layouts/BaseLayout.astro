@@ -80,13 +80,30 @@ const seznamVerification = ''; // seznam-wmt — doplnit po registraci
       rel="stylesheet"
     />
 
-    {/* Cloudflare Web Analytics — zdarma, bez cookies, GDPR-friendly. Jen produkce. */}
+    {/* Cloudflare Web Analytics — zdarma, bez cookies, GDPR-friendly. Jen produkce.
+        Opt-out: návštěva https://www.ropiky.cz/?exclude-me=1 nastaví cookie, která
+        na tomto prohlížeči vypne načítání beaconu (vlastní/testovací návštěvy se
+        tak nezapočítávají do statistik). Odvolání: ?exclude-me=0 */}
     {isProd && !noIndex && cfAnalyticsToken && (
-      <script
-        defer
-        src="https://static.cloudflareinsights.com/beacon.min.js"
-        data-cf-beacon={`{"token": "${cfAnalyticsToken}"}`}
-      />
+      <script is:inline set:html={`
+        (function () {
+          try {
+            var qs = new URLSearchParams(location.search);
+            if (qs.get('exclude-me') === '1') {
+              document.cookie = 'no_analytics=1; max-age=63072000; path=/; domain=.ropiky.cz; SameSite=Lax';
+            }
+            if (qs.get('exclude-me') === '0') {
+              document.cookie = 'no_analytics=; max-age=0; path=/; domain=.ropiky.cz';
+            }
+            if (document.cookie.indexOf('no_analytics=1') !== -1) return;
+            var s = document.createElement('script');
+            s.defer = true;
+            s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+            s.setAttribute('data-cf-beacon', '{"token":"${cfAnalyticsToken}"}');
+            document.head.appendChild(s);
+          } catch (e) {}
+        })();
+      `} />
     )}
   </head>
   <body>
