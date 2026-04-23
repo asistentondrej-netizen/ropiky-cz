@@ -2,23 +2,17 @@ title: Tvrz Hůrka
 code: K-S Tvrz Hůrka
 type: delostrelecka-tvrz
 line: Králíky
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
   lat: 50.094211
   lon: 16.768892
   address: Králíky, 561 69
   elevation: 592
-
 built: '1938'
 state: muzeum
+description: 'Plně dokončená dělostřelecká tvrz u Králík, jedna z pěti dostavěných tvrzí čs. opevnění. Podzemí o délce přibližně 1 750 metrů spojuje šest bojových a vchodových objektů. Po válce sloužila jako tajný muniční sklad československé armády, dnes je součástí Králického pevnostního areálu.
 
-description: >
-  Plně dokončená dělostřelecká tvrz u Králík, jedna z pěti dostavěných tvrzí
-  čs. opevnění. Podzemí o délce přibližně 1 750 metrů spojuje šest bojových
-  a vchodových objektů. Po válce sloužila jako tajný muniční sklad československé
-  armády, dnes je součástí Králického pevnostního areálu.
-
-# === TECHNICKÁ KARTA ===
+  '
 tech:
   odolnost: IV
   stupenDokonceni: dokonceny
@@ -28,69 +22,51 @@ tech:
     maxi: 426
     poznamka: Plný plánovaný stav 1938.
   vyzbroj:
-    - zbran: Kulomet ZB vz. 37 (těžký)
-      pocet: 12
-      umisteni: střílny a zvony
-    - zbran: Protitankový kanón vz. 36 (4 cm)
-      pocet: 4
-      umisteni: bojové sruby
-    - zbran: Kulomet ZB vz. 26 (lehký)
-      pocet: 18
-      umisteni: pomocné střílny
+  - zbran: Kulomet ZB vz. 37 (těžký)
+    pocet: 12
+    umisteni: střílny a zvony
+  - zbran: Protitankový kanón vz. 36 (4 cm)
+    pocet: 4
+    umisteni: bojové sruby
+  - zbran: Kulomet ZB vz. 26 (lehký)
+    pocet: 18
+    umisteni: pomocné střílny
   steny:
     tloustka_cm: 350
     material: Železobeton B500
   komponenty:
-    - pancerovy-zvon
-    - kopule-pozorovaci
-
-# === STAVBA ===
+  - pancerovy-zvon
+  - kopule-pozorovaci
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   zahajeni: '1936'
   dokonceni: '1938'
   poznamka: Dokončena před Mnichovem, odevzdána Německu bez boje.
-
-# === HISTORIE ===
-history: >
-  Tvrz Hůrka byla stavěna v letech 1936–1938 jako páteř obrany Králicka
-  spolu se sousední tvrzí Bouda. Komplex tvoří pět bojových srubů (K-S 12
-  „U rybníčku", K-S 13 „U cesty", K-S 14 „U potoka", K-S 15 „U lesa", K-S 16
-  „U lomu") a vchodový srub K-S 12a, propojené 1 750 metry podzemních chodeb
-  v hloubce 30 metrů pod úrovní terénu.
+history: 'Tvrz Hůrka byla stavěna v letech 1936–1938 jako páteř obrany Králicka spolu se sousední tvrzí Bouda. Komplex tvoří pět bojových srubů (K-S 12 „U rybníčku", K-S 13 „U cesty", K-S 14 „U potoka", K-S 15 „U lesa", K-S 16 „U lomu") a vchodový srub K-S 12a, propojené 1 750 metry podzemních chodeb v hloubce 30 metrů pod úrovní terénu.
 
 
-  V září 1938 byla tvrz plně vyzbrojena a obsazena posádkou. Po Mnichovu
-  odevzdána Wehrmachtu, který ji využíval jako muniční sklad. Po válce
-  ji převzala Československá lidová armáda a 50 let ji provozovala jako
-  tajný sklad munice — tento status zachoval většinu objektu v dobrém stavu.
+  V září 1938 byla tvrz plně vyzbrojena a obsazena posádkou. Po Mnichovu odevzdána Wehrmachtu, který ji využíval jako muniční sklad. Po válce ji převzala Československá lidová armáda a 50 let ji provozovala jako tajný sklad munice — tento status zachoval většinu objektu v dobrém stavu.
 
 
-  Po roce 2000 byla tvrz postupně zpřístupňována veřejnosti. Dnes je součástí
-  Králického pevnostního areálu spolu s nedalekou tvrzí Bouda, muzeem v pevnosti
-  K-S 14 a dalšími objekty.
+  Po roce 2000 byla tvrz postupně zpřístupňována veřejnosti. Dnes je součástí Králického pevnostního areálu spolu s nedalekou tvrzí Bouda, muzeem v pevnosti K-S 14 a dalšími objekty.
 
+  '
 historieMilniky:
-  - datum: '1936'
-    udalost: Zahájení stavby
-  - datum: 9. 1938
-    udalost: Mobilizace — plné vyzbrojení
-  - datum: 30. 9. 1938
-    udalost: Mnichov — předání Wehrmachtu
-  - datum: 1945–1993
-    udalost: Muniční sklad Československé lidové armády
-  - datum: '2004'
-    udalost: První turistické prohlídky
-  - datum: '2014'
-    udalost: Zápis mezi kulturní památky ČR
+- datum: '1936'
+  udalost: Zahájení stavby
+- datum: 9. 1938
+  udalost: Mobilizace — plné vyzbrojení
+- datum: 30. 9. 1938
+  udalost: Mnichov — předání Wehrmachtu
+- datum: 1945–1993
+  udalost: Muniční sklad Československé lidové armády
+- datum: '2004'
+  udalost: První turistické prohlídky
+- datum: '2014'
+  udalost: Zápis mezi kulturní památky ČR
+visit: 'Prohlídka tvrze Hůrka je součástí Králického pevnostního areálu. Trasa vede přes vchodový srub K-S 12a, podzemní chodby, kasárny a několik bojových srubů. Prohlídka pouze s průvodcem, doba cca 90 minut. Aktuální informace na kralickypevnostniareal.cz.
 
-# === NÁVŠTĚVA ===
-visit: >
-  Prohlídka tvrze Hůrka je součástí Králického pevnostního areálu. Trasa vede
-  přes vchodový srub K-S 12a, podzemní chodby, kasárny a několik bojových srubů.
-  Prohlídka pouze s průvodcem, doba cca 90 minut. Aktuální informace
-  na kralickypevnostniareal.cz.
-
+  '
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: starsi-deti
@@ -101,53 +77,45 @@ navsteva:
     poznamka: Prohlídka pouze s průvodcem. Aktuální hodiny viz provozovatel.
   teplotaUvnitr_C: 8
   upozorneni:
-    - Teplota v podzemí celoročně cca 8 °C — teplé oblečení.
-    - Prohlídka zahrnuje schody do podzemí.
-    - V rámci areálu lze navštívit i sousední tvrz Bouda.
-
-# === SPRÁVCE ===
+  - Teplota v podzemí celoročně cca 8 °C — teplé oblečení.
+  - Prohlídka zahrnuje schody do podzemí.
+  - V rámci areálu lze navštívit i sousední tvrz Bouda.
 spravujicSubjekt:
   nazev: Vojensko-historický klub ERIKA Brno
   typ: klub-vojenske-historie
   web: https://www.kralickypevnostniareal.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
   poznamka: Součást Králického pevnostního areálu, zapsaná kulturní památka.
-
-# === MÉDIA ===
 photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kr%C3%A1l%C3%ADky%2C_K-S_12a_%28rok_2008%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_K-S_12a_%28rok_2008%3B_01%29.jpg
-    alt: Tvrz Hůrka — vchodový srub K-S 12a
-    author: Harold
-    license: CC BY-SA 3.0
-    source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_K-S_12a_(rok_2008;_01).jpg
-    category: exterier
-    featured: true
-
-# === CROSS-LINKING ===
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kr%C3%A1l%C3%ADky%2C_K-S_12a_%28rok_2008%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_K-S_12a_%28rok_2008%3B_01%29.jpg
+  alt: Tvrz Hůrka — vchodový srub K-S 12a
+  author: Harold
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_K-S_12a_(rok_2008;_01).jpg
+  category: exterier
+  featured: true
 related:
   pevnosti:
-    - tvrz-bouda
-    - tvrz-adam
-    - tvrz-hanicka
-    - tvrz-stachelberg
-    - tvrz-smolkov
-    - tvrz-dobrosov
+  - tvrz-bouda
+  - tvrz-adam
+  - tvrz-hanicka
+  - tvrz-stachelberg
+  - tvrz-smolkov
+  - tvrz-dobrosov
   typologie:
-    - delostrelecka-tvrz
-    - pancerovy-zvon
-
-# === ZDROJE ===
+  - delostrelecka-tvrz
+  - pancerovy-zvon
 sources:
-  - title: Králický pevnostní areál
-    url: https://www.kralickypevnostniareal.cz
-    type: web
-  - title: Wikipedie — Hůrka (dělostřelecká tvrz)
-    type: web
-
+- title: Králický pevnostní areál
+  url: https://www.kralickypevnostniareal.cz
+  type: web
+- title: Wikipedie — Hůrka (dělostřelecká tvrz)
+  type: web
+- title: 'Wikipedie: Hůrka (dělostřelecká tvrz)'
+  url: https://cs.wikipedia.org/wiki/Hůrka_(dělostřelecká_tvrz)
+  type: web
 wikidata_id: Q12021301
-wikipedia_url: "https://cs.wikipedia.org/wiki/H%C5%AFrka_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
+wikipedia_url: https://cs.wikipedia.org/wiki/H%C5%AFrka_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
 commons_category: Hůrka (fortress)
-updated: '2026-04-21'
+updated: '2026-04-23'

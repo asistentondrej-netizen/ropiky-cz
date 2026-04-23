@@ -16,6 +16,9 @@ sources:
 - title: Wikidata Q12055852
   url: https://www.wikidata.org/wiki/Q12055852
   type: web
+- title: 'NPÚ Památkový katalog: liniové opevnění - soubor objektů těžkého a lehkého opevnění s tvrzí Stachelberg'
+  url: https://pamatkovykatalog.cz/?detail=12984418
+  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rozsoch%C3%A1%C4%8D.jpg/1920px-Rozsoch%C3%A1%C4%8D.jpg
   alt: Dělostřelecká tvrz Stachelberg (srub T-S 73)
@@ -35,8 +38,9 @@ photos:
 wikidata_id: Q12058109
 wikipedia_url: https://cs.wikipedia.org/wiki/T-St-S_73_Polom
 commons_category: T-St-S 73 Polom casemate
-updated: '2026-04-22'
+updated: '2026-04-23'
 alt_name: Izolovaný pěchotní srub T-S 73 "Polom"
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+  cisloUspka: 45847/6-3427

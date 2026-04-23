@@ -28,10 +28,13 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
   **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element way/389099948)
+- title: 'NPÚ Památkový katalog: liniové opevnění - pevnostní systém Dobrošov'
+  url: https://pamatkovykatalog.cz/?detail=13817638
+  type: web
 wikidata_id: Q12039469
 wikipedia_url: https://cs.wikipedia.org/wiki/N-D-S_75_Zelen%C3%BD
 commons_category: N-D-S 75 Zelený casemate
-updated: '2026-04-22'
+updated: '2026-04-23'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/N-S_75.JPG/1280px-N-S_75.JPG
   alt: Pěchotní srub N-D-S-75
@@ -39,5 +42,6 @@ photos:
   license: Public domain
   source: https://commons.wikimedia.org/wiki/File:N-S_75.JPG
 pamatka:
-  status: kulturni-pamatka
+  status: nkp
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+  cisloUspka: '211'

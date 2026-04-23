@@ -13,4 +13,9 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/way/133981635
   type: web
-updated: '2026-04-22'
+- title: 'Wikipedie: Muzeum lehkého opevnění vz. 36 Ústí nad Labem – Hostovice'
+  url: https://cs.wikipedia.org/wiki/Muzeum_lehkého_opevnění_vz._36_Ústí_nad_Labem_–_Hostovice
+  type: web
+updated: '2026-04-23'
+wikipedia_url: https://cs.wikipedia.org/wiki/Muzeum_lehkého_opevnění_vz._36_Ústí_nad_Labem_–_Hostovice
+history: 'Muzeum lehkého opevnění vz. 36 Ústí nad Labem – Hostovice se nachází v objektu rekonstruovaného Lehké opevnění vzor 36, typ C, č.186/XI. Trmice. (Zdroj: Wikipedie, CC BY-SA)'

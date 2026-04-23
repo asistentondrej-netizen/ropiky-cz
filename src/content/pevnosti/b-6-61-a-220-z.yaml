@@ -13,4 +13,29 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/way/364864825
   type: web
-updated: '2026-04-22'
+- title: 'Wikipedie: Úsek B-6 Beroun lehkého opevnění vz. 37'
+  url: https://cs.wikipedia.org/wiki/Úsek_B-6_Beroun_lehkého_opevnění_vz._37
+  type: web
+- title: Wikimedia Commons — fotografie
+  url: https://commons.wikimedia.org/
+  type: web
+updated: '2026-04-23'
+wikipedia_url: https://cs.wikipedia.org/wiki/Úsek_B-6_Beroun_lehkého_opevnění_vz._37
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Beroun%2C_bunkr_Pra%C5%BEsk%C3%A9_%C4%8D%C3%A1ry_III.JPG/1280px-Beroun%2C_bunkr_Pra%C5%BEsk%C3%A9_%C4%8D%C3%A1ry_III.JPG
+  alt: B-6/61/A-220 Z
+  caption: B-6/61/A-220 Z
+  author: 'I would appreciate being notified if you use my work outside Wikimedia.
+
+    More of my work can be found in my personal gallery.'
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Beroun,_bunkr_Pražské_čáry_III.JPG
+  featured: true
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Beroun%2C_bunkry_Pra%C5%BEsk%C3%A9_%C4%8D%C3%A1ry.JPG/1280px-Beroun%2C_bunkry_Pra%C5%BEsk%C3%A9_%C4%8D%C3%A1ry.JPG
+  alt: B-6/61/A-220 Z
+  caption: B-6/61/A-220 Z
+  author: 'I would appreciate being notified if you use my work outside Wikimedia.
+
+    More of my work can be found in my personal gallery.'
+  license: CC BY-SA 3.0
+  source: https://commons.wikimedia.org/wiki/File:Beroun,_bunkry_Pražské_čáry.JPG

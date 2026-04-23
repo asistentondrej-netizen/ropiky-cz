@@ -2,42 +2,35 @@ title: K-S-22a
 code: K-S-22a
 type: pechotni-srub
 line: Králicko
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
   lat: 50.06934
   lon: 16.677046
   elevation: 800
 state: muzeum
-description: Pěchotní srub K-S-22a na úseku Králicko. Součást československého těžkého
-  opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
-history: 'Úsek Králicko na jižním úpatí Orlických hor — nejhustěji opevněný pás v
-  ČR. Tři dělostřelecké tvrze (Bouda, Adam, Hůrka) + přes 50 srubů.
+description: Pěchotní srub K-S-22a na úseku Králicko. Součást československého těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
+history: 'Úsek Králicko na jižním úpatí Orlických hor — nejhustěji opevněný pás v ČR. Tři dělostřelecké tvrze (Bouda, Adam, Hůrka) + přes 50 srubů.
 
 
-  Srub K-S-22a byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
+  Srub K-S-22a byl součástí této linie. Stavební práce probíhaly v letech 1935–1938, dokončení a výzbroj závisely na fázi budování daného úseku.
 
 
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
+  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce 1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily v lesním či polním terénu.'
+visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné oblasti.
 
 
   **GPS:** 50.06934, 16.677046 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.677046&y=50.06934&z=17&source=coor&id=16.677046%2C50.06934).
 
 
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element way/170334162)
+- title: 'NPÚ Památkový katalog: liniové opevnění - dělostřelecká tvrz Bouda'
+  url: https://pamatkovykatalog.cz/?detail=20008728
+  type: web
 wikidata_id: Q69520560
 commons_category: K-Ba-S 22a Krok casemate
-updated: '2026-04-19'
+updated: '2026-04-23'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/T%C4%9Bchon%C3%ADn%2C_K-S_22a_%28rok_2005%3B_01%29.jpg/1280px-T%C4%9Bchon%C3%ADn%2C_K-S_22a_%28rok_2005%3B_01%29.jpg
   alt: Vstupní srub tvrze Bouda K-S 22a
@@ -54,3 +47,6 @@ photos:
   author: Lukáš Malý
   license: Public domain
   source: https://commons.wikimedia.org/wiki/File:Bouda_-_K-S_22a_Krok_-_svaznice.JPG
+pamatka:
+  status: kulturni-pamatka
+  cisloUspka: 12576/6-5858

@@ -35,7 +35,7 @@ sources:
 wikidata_id: Q12054591
 wikipedia_url: https://cs.wikipedia.org/wiki/Skutina_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
 commons_category: Skutina (fortress)
-updated: '2026-04-22'
+updated: '2026-04-23'
 photos:
 - url: https://commons.wikimedia.org/wiki/Special:FilePath/Bunkr_Skutina_3_-_panoramio.jpg?width=1024
   alt: Fotografie objektu Tvrz Skutina
@@ -43,3 +43,4 @@ photos:
   license: CC (viz Commons)
   source: https://commons.wikimedia.org/wiki/File:Bunkr_Skutina_3_-_panoramio.jpg
   featured: false
+built: '1938'

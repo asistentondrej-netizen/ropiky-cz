@@ -179,7 +179,10 @@ sources:
 - title: Muzeum tvrz Bouda
   url: https://www.tvrzbouda.cz
   type: web
+- title: 'Wikipedie: Bouda (dělostřelecká tvrz)'
+  url: https://cs.wikipedia.org/wiki/Bouda_(dělostřelecká_tvrz)
+  type: web
 wikidata_id: Q3890120
 wikipedia_url: https://cs.wikipedia.org/wiki/Bouda_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
 commons_category: Bouda (fortress)
-updated: '2026-04-22'
+updated: '2026-04-23'

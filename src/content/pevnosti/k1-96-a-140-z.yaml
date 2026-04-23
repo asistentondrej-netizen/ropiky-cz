@@ -13,4 +13,10 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/node/3371407323
   type: web
-updated: '2026-04-22'
+- title: 'NPÚ Památkový katalog: liniové opevnění'
+  url: https://pamatkovykatalog.cz/?detail=17987844
+  type: web
+updated: '2026-04-23'
+pamatka:
+  status: kulturni-pamatka
+  cisloUspka: 43805/5-4857

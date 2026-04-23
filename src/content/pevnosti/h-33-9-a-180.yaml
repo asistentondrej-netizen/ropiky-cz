@@ -13,6 +13,9 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/node/3371992177
   type: web
+- title: 'Wikipedie: Úsek H-33 lehkého opevnění vz. 37'
+  url: https://cs.wikipedia.org/wiki/Úsek_H-33_lehkého_opevnění_vz._37
+  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/%C5%98OP_9%2C_Prachatice.jpg/1920px-%C5%98OP_9%2C_Prachatice.jpg
   alt: H-33/9/A-180
@@ -21,5 +24,6 @@ photos:
   source: https://commons.wikimedia.org/wiki/File:%C5%98OP_9,_Prachatice.jpg
 wikidata_id: Q62027214
 commons_category: H-33/9/A-180 light pillbox
-updated: '2026-04-22'
+updated: '2026-04-23'
 built: '1937-11-15'
+wikipedia_url: https://cs.wikipedia.org/wiki/Úsek_H-33_lehkého_opevnění_vz._37

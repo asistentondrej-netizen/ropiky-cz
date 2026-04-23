@@ -25,6 +25,9 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
   **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element way/1083430354)
+- title: 'NPÚ Památkový katalog: liniové opevnění - pěchotní srub N-S 47 Jaroslav'
+  url: https://pamatkovykatalog.cz/?detail=26696960
+  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Srub_Jaroslav.jpg/1920px-Srub_Jaroslav.jpg
   alt: N-S-47 „Jaroslav"
@@ -34,6 +37,7 @@ photos:
 wikidata_id: Q62394531
 wikipedia_url: https://cs.wikipedia.org/wiki/N-S_47_Jaroslav
 commons_category: N-S 47 Jaroslav casemate
-updated: '2026-04-22'
+updated: '2026-04-23'
 pamatka:
   status: kulturni-pamatka
+  cisloUspka: '106988'

@@ -28,9 +28,12 @@ visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu,
   **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme GPS navigaci.'
 sources:
 - OpenStreetMap (OSM element way/389796226)
+- title: 'Wikipedie: Hanička (dělostřelecká tvrz)'
+  url: https://cs.wikipedia.org/wiki/Hanička_(dělostřelecká_tvrz)
+  type: web
 wikidata_id: Q29563414
 commons_category: R-H-S 80 U potůčku casemate
-updated: '2026-04-22'
+updated: '2026-04-23'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_80_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_80_%28rok_2010%3B_01%29.jpg
   alt: Pěchotní srub R-H-S 80 U potůčku
@@ -45,3 +48,5 @@ photos:
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+wikipedia_url: https://cs.wikipedia.org/wiki/Hanička_(dělostřelecká_tvrz)
+built: '1938'

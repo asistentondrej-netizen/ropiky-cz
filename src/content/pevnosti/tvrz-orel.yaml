@@ -35,7 +35,7 @@ sources:
 wikidata_id: Q12042864
 wikipedia_url: https://cs.wikipedia.org/wiki/Orel_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
 commons_category: Orel (fortress)
-updated: '2026-04-22'
+updated: '2026-04-23'
 photos:
 - url: https://commons.wikimedia.org/wiki/Special:FilePath/Darkovice,_MO-S_20_(2015-05-01;_03).jpg?width=1024
   alt: Fotografie objektu Tvrz Orel
@@ -43,3 +43,4 @@ photos:
   license: CC (viz Commons)
   source: https://commons.wikimedia.org/wiki/File:Darkovice,_MO-S_20_(2015-05-01;_03).jpg
   featured: false
+built: '1936'

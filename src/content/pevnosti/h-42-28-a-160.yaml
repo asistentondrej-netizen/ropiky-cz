@@ -13,6 +13,9 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/way/1099741005
   type: web
+- title: 'Wikipedie: Úsek H-42 lehkého opevnění vz. 37'
+  url: https://cs.wikipedia.org/wiki/Úsek_H-42_lehkého_opevnění_vz._37
+  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/%C5%98OP_28%2C_Prachatice_03.jpg/1920px-%C5%98OP_28%2C_Prachatice_03.jpg
   alt: H-42/28/A-160
@@ -31,5 +34,6 @@ photos:
   source: https://commons.wikimedia.org/wiki/File:%C5%98OP_28,_Prachatice_06.jpg
 wikidata_id: Q62050740
 commons_category: H-42/28/A-160 light pillbox
-updated: '2026-04-22'
+updated: '2026-04-23'
 built: '1937-11-22'
+wikipedia_url: https://cs.wikipedia.org/wiki/Úsek_H-42_lehkého_opevnění_vz._37

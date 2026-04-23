@@ -2,21 +2,23 @@ title: MJ-S 3 „Zahrada"
 code: MJ-S 3
 type: pechotni-srub
 line: Milostovice (Opava)
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 48.78766333
   lon: 16.01533861
   elevation: 258
 built: '1937'
 state: zachovaly
-description: Pěchotní srub „Zahrada" — součást linie Milostovice (Dyjákovice). Odolnost
-  II, zachovalé torzo v polní krajině.
+description: Pěchotní srub „Zahrada" — součást linie Milostovice (Dyjákovice). Odolnost II, zachovalé torzo v polní krajině.
 sources:
 - Wikimedia Commons
+- title: 'Wikipedie: Areál československého opevnění Šatov'
+  url: https://cs.wikipedia.org/wiki/Areál_československého_opevnění_Šatov
+  type: web
 wikidata_id: Q27007839
-wikipedia_url: "https://cs.wikipedia.org/wiki/MJ-S_3_Zahrada"
+wikipedia_url: https://cs.wikipedia.org/wiki/MJ-S_3_Zahrada
 commons_category: MJ-S 3 Zahrada casemate
-updated: '2026-04-18'
+updated: '2026-04-23'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%C5%A0atov%2C_MJ-S_3_%28rok_2008%3B_01%29.jpg/1280px-%C5%A0atov%2C_MJ-S_3_%28rok_2008%3B_01%29.jpg
   alt: Pěchotní srub MJ-S 3
@@ -33,3 +35,4 @@ photos:
   author: Harold
   license: CC BY-SA 3.0
   source: https://commons.wikimedia.org/wiki/File:%C5%A0atov,_MJ-S_3_(rok_2004;_01).jpg
+history: 'Areál československého opevnění Šatov je muzeum československého opevnění budovaného v letech 1935–1938 na obranu před nacistickým Německem, ležící v blízkosti jihomoravské obce Šatov. Areál je ve správě Technického muzea v Brně a zahrnuje dva pěchotní sruby MJ-S 3 „Zahrada“ (od roku 2005 zpřístupněný pro veřejnost s expozicí věnovanou československému opevnění na jižní Moravě, historii objektu a využívání čs. opevnění po druhé světové válce) a MJ-S 2 „Úvoz“ (v současnosti nepřístupný) a dva… (Zdroj: Wikipedie, CC BY-SA)'

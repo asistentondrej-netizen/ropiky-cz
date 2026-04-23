@@ -13,4 +13,8 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/node/3371816408
   type: web
-updated: '2026-04-22'
+- title: 'Wikipedie: Úsek B-6 Beroun lehkého opevnění vz. 37'
+  url: https://cs.wikipedia.org/wiki/Úsek_B-6_Beroun_lehkého_opevnění_vz._37
+  type: web
+updated: '2026-04-23'
+wikipedia_url: https://cs.wikipedia.org/wiki/Úsek_B-6_Beroun_lehkého_opevnění_vz._37

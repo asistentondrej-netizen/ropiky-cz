@@ -40,9 +40,12 @@ visit: 'Pěchotní srub v klidném lesním prostředí severně od Opavy — ext
   '
 sources:
 - Slezské zemské muzeum
+- title: 'NPÚ Památkový katalog: soubor objektů československého pohraničního opevnění'
+  url: https://pamatkovykatalog.cz/?detail=12638775
+  type: web
 wikidata_id: Q98592010
 commons_category: OP-S 25 U trigonometru casemate
-updated: '2026-04-22'
+updated: '2026-04-23'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Opava%2C_Milostovice%2C_OP-S_25_%282019-08-14%3B_01%29.jpg/1280px-Opava%2C_Milostovice%2C_OP-S_25_%282019-08-14%3B_01%29.jpg
   alt: Pěchotní srub OP-S 25 U trigonometru
@@ -62,3 +65,4 @@ photos:
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+  cisloUspka: '103525'

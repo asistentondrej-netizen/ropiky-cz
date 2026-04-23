@@ -16,6 +16,9 @@ sources:
 - title: Wikidata Q37315034
   url: https://www.wikidata.org/wiki/Q37315034
   type: web
+- title: 'NPÚ Památkový katalog: objekt LO vz. 37'
+  url: https://pamatkovykatalog.cz/?detail=19931385
+  type: web
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/%C5%98op%C3%ADk_Veselka_01.jpg/1920px-%C5%98op%C3%ADk_Veselka_01.jpg
   alt: 182/33/A-140 Z
@@ -34,6 +37,7 @@ photos:
   source: https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_Veselka_04.jpg
 wikidata_id: Q37315034
 commons_category: 182/33/A-140 Z light pillbox
-updated: '2026-04-22'
+updated: '2026-04-23'
 pamatka:
   status: kulturni-pamatka
+  cisloUspka: 17690/3-5655

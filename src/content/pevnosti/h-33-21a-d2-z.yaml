@@ -13,4 +13,8 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/way/1099741012
   type: web
-updated: '2026-04-22'
+- title: 'Wikipedie: Úsek H-33 lehkého opevnění vz. 37'
+  url: https://cs.wikipedia.org/wiki/Úsek_H-33_lehkého_opevnění_vz._37
+  type: web
+updated: '2026-04-23'
+wikipedia_url: https://cs.wikipedia.org/wiki/Úsek_H-33_lehkého_opevnění_vz._37

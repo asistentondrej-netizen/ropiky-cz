@@ -13,4 +13,31 @@ sources:
 - title: OpenStreetMap
   url: https://www.openstreetmap.org/node/3371992165
   type: web
-updated: '2026-04-22'
+- title: 'Wikipedie: Úsek H-33 lehkého opevnění vz. 37'
+  url: https://cs.wikipedia.org/wiki/Úsek_H-33_lehkého_opevnění_vz._37
+  type: web
+- title: Wikimedia Commons — fotografie
+  url: https://commons.wikimedia.org/
+  type: web
+updated: '2026-04-23'
+wikipedia_url: https://cs.wikipedia.org/wiki/Úsek_H-33_lehkého_opevnění_vz._37
+photos:
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/%C5%98OP_13%2C_Prachatice_07.jpg/1280px-%C5%98OP_13%2C_Prachatice_07.jpg
+  alt: Pohled do interiéru H-33/13/D2, střílnu a výdřevu
+  caption: Pohled do interiéru H-33/13/D2, střílnu a výdřevu
+  author: MIGORMCZ
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:ŘOP_13,_Prachatice_07.jpg
+  featured: true
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/%C5%98OP_13%2C_Prachatice_08.jpg/1280px-%C5%98OP_13%2C_Prachatice_08.jpg
+  alt: Pohled do interiéru H-33/13/D2 - střílnu
+  caption: Pohled do interiéru H-33/13/D2 - střílnu
+  author: MIGORMCZ
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:ŘOP_13,_Prachatice_08.jpg
+- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/%C5%98OP_13%2C_Prachatice_09.jpg/1280px-%C5%98OP_13%2C_Prachatice_09.jpg
+  alt: Pohled do interiéru H-33/13/D2, výdřevu a kovové dveře
+  caption: Pohled do interiéru H-33/13/D2, výdřevu a kovové dveře
+  author: MIGORMCZ
+  license: CC BY-SA 4.0
+  source: https://commons.wikimedia.org/wiki/File:ŘOP_13,_Prachatice_09.jpg
