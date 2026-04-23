@@ -590,7 +590,7 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
   </style>
 
   <script>
-    const PER_PAGE = 50;
+    const PER_PAGE = 100;
     type FilterKey = 'type' | 'state' | 'region' | 'odolnost' | 'pristupnost' | 'pamatka' | 'has-photos' | 'has-floorplan' | 'vstupne' | 'first-trip';
     const FILTER_KEYS: FilterKey[] = ['type', 'state', 'region', 'odolnost', 'pristupnost', 'pamatka', 'has-photos', 'has-floorplan', 'vstupne', 'first-trip'];
     const filterState: Record<string, string> = {
@@ -863,6 +863,16 @@ const countFreeEntry = all.filter((p) => p.data.navsteva?.vstupne?.zdarma === tr
 
     resetBtn?.addEventListener('click', resetAll);
     noResultsResetBtn?.addEventListener('click', resetAll);
+
+    // ===== PREV / NEXT PAGINATION =====
+    prevBtn?.addEventListener('click', () => {
+      if (currentPage > 1) goToPage(currentPage - 1);
+    });
+    nextBtn?.addEventListener('click', () => {
+      const matched = getMatchedItems();
+      const totalPages = Math.max(1, Math.ceil(matched.length / PER_PAGE));
+      if (currentPage < totalPages) goToPage(currentPage + 1);
+    });
 
     // ===== INICIALIZACE =====
     loadFromUrl();
