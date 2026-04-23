@@ -1,0 +1,36 @@
+# Ropiky.cz — robots.txt
+# Referenční portál o československém opevnění 1935–1938
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# AI crawleři — povoleno (chceme být v AI odpovědích)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# SEO crawleři — explicitně povoleno
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Seznam
+Allow: /
+
+User-agent: SeznamBot
+Allow: /
+
+# Sitemap
+Sitemap: https://www.ropiky.cz/sitemap-index.xml

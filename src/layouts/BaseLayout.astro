@@ -12,14 +12,30 @@ export interface Props {
 
 const {
   title,
-  description = 'Referenční portál o československém opevnění z let 1935–1938. Typologie, katalog pevností, historie a mapy.',
+  description = 'Československé opevnění 1935–1938: referenční portál s katalogem přes 6 000 objektů — řopíky, pěchotní sruby, dělostřelecké tvrze. Interaktivní mapa, historie, fotogalerie.',
   image = '/img/og-default.png',
   noIndex = false,
 } = Astro.props;
 
-const fullTitle = title === 'Ropiky.cz' ? title : `${title} — Ropiky.cz`;
+const fullTitle =
+  title === 'Ropiky.cz' || title.startsWith('Ropiky.cz')
+    ? title
+    : `${title} — Ropiky.cz`;
 const canonical = new URL(Astro.url.pathname, Astro.site).toString();
 const ogImage = new URL(image, Astro.site).toString();
+
+// --- Analytics a Search Console verifikace ---
+// Cloudflare Web Analytics: vloží se jen v produkci a pouze na indexovatelných stránkách.
+const isProd = import.meta.env.PROD;
+
+// Token získáš v Cloudflare dashboardu → Analytics & Logs → Web Analytics → Add a site
+// Po přidání ropiky.cz se ti zobrazí snippet s tokenem, zkopíruj ho SEM:
+const cfAnalyticsToken = 'cfdb50c474944453b00400a6fc4de586';
+
+// Search Console verifikační meta-tagy:
+const gscVerification = 'CAgiJSMB1Mgz6mqlr6XEdOQP_gdsPe3bPFnrNoIQraY'; // Google Search Console
+const bingVerification = ''; // msvalidate.01 — doplnit po registraci
+const seznamVerification = ''; // seznam-wmt — doplnit po registraci
 ---
 
 <!doctype html>
@@ -33,6 +49,11 @@ const ogImage = new URL(image, Astro.site).toString();
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     {noIndex && <meta name="robots" content="noindex, nofollow" />}
+
+    {/* Search Console verifikace */}
+    {gscVerification && <meta name="google-site-verification" content={gscVerification} />}
+    {bingVerification && <meta name="msvalidate.01" content={bingVerification} />}
+    {seznamVerification && <meta name="seznam-wmt" content={seznamVerification} />}
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content={fullTitle} />
@@ -58,6 +79,15 @@ const ogImage = new URL(image, Astro.site).toString();
       href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400..700;1,400..700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
       rel="stylesheet"
     />
+
+    {/* Cloudflare Web Analytics — zdarma, bez cookies, GDPR-friendly. Jen produkce. */}
+    {isProd && !noIndex && cfAnalyticsToken && (
+      <script
+        defer
+        src="https://static.cloudflareinsights.com/beacon.min.js"
+        data-cf-beacon={`{"token": "${cfAnalyticsToken}"}`}
+      />
+    )}
   </head>
   <body>
     <a href="#main" class="visually-hidden">Přeskočit na obsah</a>
