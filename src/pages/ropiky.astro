@@ -1,0 +1,615 @@
+---
+/**
+ * PILLAR PAGE — "Řopíky" (/ropiky/)
+ *
+ * SEO cíl: TOP 1 v Google CZ pro KW:
+ *   řopíky, řopík, LO vz. 37, československé lehké opevnění,
+ *   co je řopík, bunkry ČSR, pevnůstky 1938
+ *
+ * Struktura optimalizovaná podle Google EEAT + schema.org FAQPage.
+ */
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import JsonLd from '../components/JsonLd.astro';
+import { breadcrumbList } from '../lib/schema';
+
+// Načíst všechny LO vz. 37 pro dynamický výběr nejzachovalejších
+const allForts = await getCollection('pevnosti');
+
+const stateOrder: Record<string, number> = {
+  muzeum: 1,
+  pristupny: 2,
+  zachovaly: 3,
+  zavreny: 4,
+  rozpadly: 5,
+  'zničeny': 6,
+  neznamy: 7,
+};
+
+// Top 10 nejzachovalejších řopíků s fotkou (preferuj muzea)
+const topRopiky = allForts
+  .filter((p) => p.data.type === 'lo-vz-37')
+  .filter((p) => p.data.photos && p.data.photos.length > 0)
+  .sort(
+    (a, b) =>
+      (stateOrder[a.data.state] ?? 99) - (stateOrder[b.data.state] ?? 99)
+  )
+  .slice(0, 10);
+
+// Breadcrumbs pro JSON-LD
+const crumb = breadcrumbList([
+  { name: 'Úvod', url: '/' },
+  { name: 'Řopíky', url: '/ropiky' },
+]);
+
+// FAQ schema — rich snippety v Google
+const faqSchema = {
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Co je to řopík?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Řopík je lidové označení pro Lehký objekt vzor 37 (LO vz. 37) — železobetonovou pevnůstku československého opevnění z let 1937–1938. Název vznikl ze zkratky ŘOP (Ředitelství opevňovacích prací). Bylo jich postaveno kolem 9 000 kusů a tvořily souvislou linii obrany po celé délce československých hranic.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Kolik řopíků v Československu vzniklo?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Do září 1938 bylo postaveno přibližně 9 632 objektů LO vz. 37. Plán ŘOP počítal celkem s 15 463 objekty lehkého opevnění, ale Mnichovská dohoda výstavbu přerušila zhruba po dvou letech.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Jaký je rozdíl mezi řopíkem a pěchotním srubem?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Řopík (LO vz. 37) je malý lehký objekt pro 2–7 mužů s kulometnou výzbrojí, stěny 50–80 cm. Pěchotní srub je podstatně mohutnější objekt těžkého opevnění pro 20–40 mužů, stěny až 350 cm, s protitankovými kanóny a minomety. Srub byl páteří obrany, řopík souvislou výplní linie.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Kde se dochovaly nejzachovalejší řopíky?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Nejlépe zachované řopíky najdete v Orlických horách (linie Bartošovice, Rokytnice), na Opavsku a Náchodsku. Muzejně zpřístupněné jsou například v pevnostním areálu Skutina, v okolí Hanicčky nebo na Pražské čáře. Kompletní seznam najdete v katalogu ropiky.cz.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Proč se řopíkům říká právě „řopíky"?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Název „řopík" je zdrobnělina ze zkratky ŘOP (Ředitelství opevňovacích prací) — útvaru, který v letech 1935–1938 řídil výstavbu čs. opevnění. Termín zlidověl už ve druhé polovině 30. let a přežil v hovorovém jazyce dodnes. Oficiální název je „Lehký objekt vzor 37" (LO vz. 37).',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Jsou všechny řopíky stejné?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Ne. Řopíky se stavěly v pěti typech (A, B, C, D, E) podle účelu a terénu, a ve třech stupních odolnosti (I, II, III) podle očekávaného ohrožení. Dominoval typ A se dvěma bočními kulomety (přes 85 % všech postavených). Každý typ má navíc podvarianty podle úhlu střílen (A-120, A-140 atd.).',
+      },
+    },
+  ],
+};
+
+const description =
+  'Řopíky — kompletní průvodce československým lehkým opevněním LO vz. 37. Co to je, kde byly stavěny, jak vypadaly, kde se dochovaly. Přes 6 000 objektů v katalogu ropiky.cz.';
+---
+
+<BaseLayout
+  title="Řopíky — československé lehké opevnění 1937–1938 (LO vz. 37)"
+  description={description}
+>
+  <JsonLd data={[crumb, faqSchema]} />
+
+  <article>
+    <header class="article-hero">
+      <div class="container">
+        <div class="article-hero__meta">
+          <nav class="article-hero__breadcrumb" aria-label="Drobečky">
+            <a href="/">Úvod</a> / <span>Řopíky</span>
+          </nav>
+        </div>
+        <h1>Řopíky — srdce československého opevnění</h1>
+        <p class="article-hero__lead">
+          Malé železobetonové pevnůstky, které v letech 1937–1938 posela
+          pohraničí Československa. Vzniklo jich <strong>přes 9 000 kusů</strong>,
+          přežilo přes 6 000, a dodnes stojí v lesích, na polích i na kopcích
+          od jižní Moravy až po Slovensko.
+        </p>
+      </div>
+    </header>
+
+    <div class="article-body">
+      <div class="container content-width">
+
+        <!-- ÚVODNÍ SHRNUTÍ -->
+        <section>
+          <p>
+            <strong>Řopík</strong> je lidové označení pro pevnostní objekt
+            <a href="/typologie/lo-vz-37"><strong>Lehký objekt vzor 37</strong></a>
+            (zkráceně LO vz. 37). Tyto železobetonové bunkry pro 2–7 mužů tvořily
+            v letech 1937–1938 souvislou linii československé obrany — něco jako
+            českou obdobu francouzské Maginotovy linie, jen v menším měřítku
+            a realizovanou za dramaticky kratší dobu.
+          </p>
+          <p>
+            Slovo <em>řopík</em> vzniklo ze zkratky
+            <strong>ŘOP — Ředitelství opevňovacích prací</strong>, vojenského
+            útvaru, který celý projekt řídil. Zlidovělo už v druhé polovině
+            třicátých let a zůstalo dodnes: když dnes v lese potkáte malý
+            betonový bunkr s úzkými střílnami, s 95 % jistotou je to řopík.
+          </p>
+
+          <div class="hero__stats" style="margin: var(--s5) 0;">
+            <dl>
+              <dt>Postaveno</dt><dd>~ 9 000 objektů</dd>
+              <dt>Dochováno dnes</dt><dd>~ 6 000</dd>
+              <dt>Posádka</dt><dd>2–7 mužů</dd>
+              <dt>Období</dt><dd>1937–1938</dd>
+            </dl>
+          </div>
+        </section>
+
+        <!-- PROČ ŘOPÍKY? -->
+        <section>
+          <h2>Proč se řopíky stavěly</h2>
+          <p>
+            V polovině 30. let byla situace ve střední Evropě kritická.
+            Hitlerovo Německo otevřeně revidovalo versailleskou smlouvu,
+            obnovovalo armádu a nárokovalo revizi hranic. Československo —
+            mladá demokracie s úzkým pohraničím, přes které se přelévaly
+            sudetoněmecké nálady — stálo před otázkou: <em>jak se ubránit?</em>
+          </p>
+          <p>
+            Odpověď padla <strong>21. července 1934</strong>: armáda rozhodla
+            o výstavbě stálého opevnění po vzoru francouzské Maginotovy linie,
+            ale přizpůsobeného českému terénu a rozpočtu. <strong>20. března
+            1935</strong> vzniklo <strong>Ředitelství opevňovacích prací (ŘOP)</strong>
+            pod vedením generála <a href="/o-opevneni/co-je-rop">Karla Husárka</a>.
+            Armáda počítala se dvěma kategoriemi objektů:
+          </p>
+          <ul>
+            <li>
+              <strong><a href="/typologie/delostrelecka-tvrz">Těžké opevnění</a></strong>
+              — mohutné pěchotní sruby a dělostřelecké tvrze se stěnami až
+              3,5 m silnými, tvořící páteř obrany na strategických místech.
+            </li>
+            <li>
+              <strong><a href="/typologie/lo-vz-37">Lehké opevnění</a></strong>
+              — tisíce menších bunkrů vyplňujících prostory mezi těžkými objekty
+              a vytvářejících souvislé palebné pole. <strong>Právě tyto objekty
+              jsou řopíky.</strong>
+            </li>
+          </ul>
+          <p>
+            LO vz. 37 nebyl první pokus. V letech 1935–1936 se stavěl starší typ
+            <a href="/typologie/lo-vz-36">LO vz. 36</a>, ten ale měl
+            konstrukční slabiny — zejména čelná palba, která objekt vystavovala
+            nepřátelskému dělostřelectvu. Konstruktéři proto rychle přepracovali
+            design a od druhé poloviny roku 1937 se stavěl už jen vzor 37
+            s boční palbou. Během následujících 15 měsíců vyrostlo po celém
+            pohraničí okolo 9 000 řopíků.
+          </p>
+          <p>
+            <em>Kontext, politika, tři programy výstavby a jejich rozpočty
+            detailně popisuje samostatná stránka
+            <a href="/o-opevneni/co-je-rop">Co je ŘOP — československé opevnění 1935–1938</a>.</em>
+          </p>
+        </section>
+
+        <!-- JAK ŘOPÍK VYPADÁ -->
+        <section>
+          <h2>Jak řopík vypadá a jak funguje</h2>
+          <p>
+            Typický řopík je <strong>malý železobetonový kvádr</strong>
+            o rozměrech zhruba <strong>7 × 5 × 3 metry</strong>, zpravidla
+            zahloubený do svahu nebo zakrytý navršenou zeminou tak, aby
+            z něj byly nad úrovní terénu vidět jen střílny. Uvnitř je jedna
+            nebo dvě bojové místnosti pro posádku a kulomety,
+            <strong>ruční ventilátor</strong> pro odvětrání střelných plynů,
+            <strong>periskop</strong> pro pozorování a
+            <strong>granátový skluz</strong> pro obranu před pěchotou,
+            která se dostane do mrtvého úhlu.
+          </p>
+
+          <div style="background: var(--paper-dark); padding: var(--s4); border-left: 3px solid var(--rust); margin: var(--s4) 0;">
+            <h3 style="margin-top: 0;">Princip boční palby</h3>
+            <p style="margin-bottom: 0;">
+              Klíčový trik řopíků je <strong>boční palba</strong>. Kulomet
+              nestřílí dopředu, směrem k útočníkovi, ale <em>podél linie</em> —
+              do boku postupující pěchoty. Boční střílna je téměř neviditelná
+              z dálky a kulomet střílející podél linie pokryje úsek až 1 000 m.
+              Řopíky se proto stavěly v párech: jeden kryje úsek zleva doprava,
+              druhý zprava doleva, a společně vytvářejí překrývající se palebný
+              koridor s extrémně vysokou hustotou střel.
+            </p>
+          </div>
+
+          <p>
+            Stěny se stavěly v <strong>třech stupních odolnosti</strong> podle
+            toho, jak exponované místo bylo:
+          </p>
+          <div class="table-wrapper">
+            <table>
+              <thead>
+                <tr>
+                  <th>Stupeň</th>
+                  <th>Stěny</th>
+                  <th>Strop</th>
+                  <th>Odolnost proti</th>
+                  <th>Použití</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>I.</strong></td>
+                  <td>50 cm</td>
+                  <td>60 cm</td>
+                  <td>10cm kanón</td>
+                  <td>týl, vnitrozemí</td>
+                </tr>
+                <tr>
+                  <td><strong>II.</strong></td>
+                  <td>60 cm</td>
+                  <td>80 cm</td>
+                  <td>15cm kanón</td>
+                  <td>běžné úseky</td>
+                </tr>
+                <tr>
+                  <td><strong>III. zesílená</strong></td>
+                  <td>80 cm</td>
+                  <td>100 cm</td>
+                  <td>21cm kanón</td>
+                  <td>hlavní linie</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <p>
+            <strong>Výzbroj:</strong> standardní řopík typu A měl dva těžké
+            kulomety vz. 37 (ZB-53, 7,92 mm) v ocelolitinových střílnových
+            deskách. Kromě kulometů posádka nosila pistole, pušky a ruční
+            granáty pro obranu zblízka. Žádné dělostřelectvo — na to byly
+            pěchotní sruby a dělostřelecké tvrze.
+          </p>
+        </section>
+
+        <!-- TYPY A-E -->
+        <section>
+          <h2>Pět typů — A, B, C, D, E</h2>
+          <p>
+            Aby se řopík vešel do různých terénních situací, navrhli
+            konstruktéři pět základních typů. Liší se počtem a orientací
+            střílen, velikostí posádky a účelem:
+          </p>
+
+          <div class="table-wrapper">
+            <table>
+              <thead>
+                <tr>
+                  <th>Typ</th>
+                  <th>Podíl</th>
+                  <th>Střílny</th>
+                  <th>Posádka</th>
+                  <th>Použití</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td><strong>A</strong></td>
+                  <td>~ 85 %</td>
+                  <td>2 boční</td>
+                  <td>7 mužů</td>
+                  <td>páteř systému, souvislá linie</td>
+                </tr>
+                <tr>
+                  <td><strong>B</strong></td>
+                  <td>~ 6 %</td>
+                  <td>1 boční + 1 čelní</td>
+                  <td>7 mužů</td>
+                  <td>okraje sektorů, svahy</td>
+                </tr>
+                <tr>
+                  <td><strong>C</strong></td>
+                  <td>~ 1 %</td>
+                  <td>1 čelní</td>
+                  <td>4 muži</td>
+                  <td>doplňkové, týl</td>
+                </tr>
+                <tr>
+                  <td><strong>D</strong></td>
+                  <td>~ 5 %</td>
+                  <td>1 boční</td>
+                  <td>4 muži</td>
+                  <td>ochrana pěchotních srubů a tvrzí</td>
+                </tr>
+                <tr>
+                  <td><strong>E</strong></td>
+                  <td>~ 3 %</td>
+                  <td>1 boční (malá)</td>
+                  <td>2 muži</td>
+                  <td>dominanty, malá maskovaná stanoviště</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+
+          <p>
+            Typ A má několik podvariant podle úhlu os obou střílen —
+            <strong>A-120, A-140, A-160, A-180, A-200, A-220</strong>. Číslo
+            odpovídá úhlu mezi osami ve stupních. V rovině se stavěl A-160
+            nebo A-180, v zákrutu linie A-120 nebo A-140. Výběr varianty
+            určoval generální plán palebných polí pro daný úsek.
+          </p>
+          <p>
+            <em>Detailní technický popis a půdorysy všech typů — včetně
+            dobových schémat z německé studie Denkschrift (1941) — najdete
+            v typologické stránce <a href="/typologie/lo-vz-37">Lehké opevnění vzor 37</a>.</em>
+          </p>
+        </section>
+
+        <!-- KDE BYLY STAVĚNY -->
+        <section>
+          <h2>Kde řopíky stály (a stále stojí)</h2>
+          <p>
+            Řopíky se stavěly po celém obvodu Československa, ale ne rovnoměrně.
+            Hlavní důraz byl kladen na <strong>severní hranici proti nacistickému
+            Německu</strong> — od Moravské Ostravy přes Opavsko, Staré Město
+            pod Sněžníkem, Králíky, Rokytnici nad Orlicí, Náchod, Trutnov
+            až po Krkonoše a Liberec. Tyto linie byly husté: na každý kilometr
+            připadalo i 5–7 řopíků.
+          </p>
+          <p>
+            Dále následovaly:
+          </p>
+          <ul>
+            <li>
+              <strong>Jižní Morava</strong> — linie od Znojma přes Mikulov
+              k Břeclavi, proti možnému útoku z Rakouska / Německa po Anschlussu 1938.
+            </li>
+            <li>
+              <strong>Slovensko</strong> — linie okolo Bratislavy (Petržalka)
+              a na jižním Slovensku proti Maďarsku.
+            </li>
+            <li>
+              <strong>Vnitrozemské příčky</strong> — např.
+              <a href="/clanky/prazska-cara">Pražská čára</a> (obranná linie
+              na západ od Prahy) byla druhým sledem na ochranu hlavního města.
+            </li>
+          </ul>
+          <p>
+            Nejvíce řopíků zaniklo po Mnichovu v pohraničí, které zabralo
+            Německo — Wehrmacht objekty používal k tréninku svých protipevnostních
+            zbraní a mnoho jich nechal odstřelit. Paradoxně se proto dnes
+            <strong>nejlépe dochovaly řopíky ve vnitrozemí</strong>
+            (Pražská čára, pozdější Benešova linie II u Opavy, vnitřní úseky
+            Orlických hor), kam se destrukční pokusy nedostaly.
+          </p>
+          <p>
+            <strong>Kompletní rozmístění si prohlédnete na
+            <a href="/mapa">interaktivní mapě ropiky.cz</a></strong> — přes
+            6 000 objektů, filtr podle typu, stavu a regionu.
+          </p>
+        </section>
+
+        <!-- KONEC 1938 -->
+        <section>
+          <h2>Konec, který nikdy nebyl bojem</h2>
+          <p>
+            <strong>29. září 1938</strong> podepsali představitelé Velké Británie,
+            Francie, Itálie a Německa v Mnichově dohodu, jíž bylo Československu
+            bez jeho souhlasu odebráno pohraničí. Armáda dostala rozkaz opustit
+            opevnění <strong>do deseti dnů bez jeho poškození</strong>.
+            Nikdy k bojovému nasazení systému, do nějž bylo investováno enormní
+            úsilí, nedošlo.
+          </p>
+          <p>
+            V říjnu 1938 získali Němci většinu opevnění prakticky neporušenou.
+            Na řadě objektů prováděli <strong>destruktivní zkoušky</strong>
+            pro vývoj vlastních protipevnostních zbraní — jeden konkrétní řopík
+            byl třeba devatenáctkrát postupně ostřelován různými ráže kanónů,
+            aby Wehrmacht zjistil, kolik granátů je potřeba k jeho proražení.
+          </p>
+          <p>
+            <em>Osud jednotlivých objektů po Mnichovu popisuje stránka
+            <a href="/o-opevneni/mnichov-a-osud-opevneni">Mnichov 1938 a osud opevnění</a>.</em>
+          </p>
+          <p>
+            Po válce byly řopíky v 50. letech částečně reaktivovány v rámci
+            <strong>Československé lidové armády</strong> proti Západu (linie
+            okolo Jindřichova Hradce, Znojma, Plzně) a modernizovány novými
+            typy střílen. Od 90. let postupně ztratily vojenský význam,
+            ale zůstaly krajinným a historickým fenoménem.
+          </p>
+        </section>
+
+        {/* TOP 10 ZACHOVALÝCH */}
+        {topRopiky.length > 0 && (
+          <section>
+            <h2>Kde řopíky navštívit dnes</h2>
+            <p>
+              Z katalogu ropiky.cz vybíráme <strong>{topRopiky.length} nejzachovalejších
+              nebo muzejně zpřístupněných řopíků</strong>, které za návštěvu rozhodně
+              stojí. Kompletní seznam najdete v <a href="/katalog">katalogu</a>
+              nebo na <a href="/mapa">interaktivní mapě</a>.
+            </p>
+
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--s4); margin-top: var(--s5);">
+              {topRopiky.map((p) => {
+                const slug = p.id.replace(/\.json$|\.yml$|\.yaml$/, '');
+                const photo = p.data.photos?.find((ph: any) => ph.featured) || p.data.photos?.[0];
+                return (
+                  <article style="border: 1px solid var(--line); background: var(--paper); overflow: hidden;">
+                    {photo && (
+                      <a href={`/katalog/${slug}`}>
+                        <img
+                          src={photo.url}
+                          alt={photo.alt || p.data.title}
+                          loading="lazy"
+                          style="width: 100%; height: 180px; object-fit: cover; display: block;"
+                        />
+                      </a>
+                    )}
+                    <div style="padding: var(--s3);">
+                      <div class="mono" style="font-size: 0.8125rem; color: var(--rust); margin-bottom: var(--s1);">
+                        {p.data.code}
+                      </div>
+                      <h3 style="margin: 0 0 var(--s2); font-size: 1.125rem;">
+                        <a href={`/katalog/${slug}`} style="text-decoration: none; color: inherit;">
+                          {p.data.title}
+                        </a>
+                      </h3>
+                      <p style="font-size: 0.875rem; color: var(--ink-light); margin: 0;">
+                        {p.data.line} · {p.data.region}
+                      </p>
+                    </div>
+                  </article>
+                );
+              })}
+            </div>
+          </section>
+        )}
+
+        <!-- FAQ -->
+        <section id="faq">
+          <h2>Často kladené otázky</h2>
+
+          <details style="border-bottom: 1px solid var(--line); padding: var(--s3) 0;">
+            <summary style="font-weight: 600; cursor: pointer;">Co je to řopík?</summary>
+            <p style="margin-top: var(--s2);">
+              Řopík je lidové označení pro Lehký objekt vzor 37 (LO vz. 37) —
+              železobetonovou pevnůstku československého opevnění z let 1937–1938.
+              Název vznikl ze zkratky ŘOP (Ředitelství opevňovacích prací).
+              Postavilo se jich kolem 9 000 kusů a tvořily souvislou linii
+              obrany po celé délce československých hranic.
+            </p>
+          </details>
+
+          <details style="border-bottom: 1px solid var(--line); padding: var(--s3) 0;">
+            <summary style="font-weight: 600; cursor: pointer;">Kolik řopíků v Československu vzniklo?</summary>
+            <p style="margin-top: var(--s2);">
+              Do září 1938 bylo postaveno přibližně <strong>9 632 objektů</strong>
+              LO vz. 37. Plán ŘOP počítal celkem s 15 463 objekty lehkého
+              opevnění, ale Mnichovská dohoda výstavbu přerušila po zhruba
+              dvou letech.
+            </p>
+          </details>
+
+          <details style="border-bottom: 1px solid var(--line); padding: var(--s3) 0;">
+            <summary style="font-weight: 600; cursor: pointer;">Jaký je rozdíl mezi řopíkem a pěchotním srubem?</summary>
+            <p style="margin-top: var(--s2);">
+              <strong>Řopík</strong> (LO vz. 37) je malý lehký objekt pro 2–7 mužů
+              s kulometnou výzbrojí, stěny 50–80 cm. <strong>Pěchotní srub</strong>
+              (těžké opevnění) je mnohem mohutnější objekt pro 20–40 mužů, stěny
+              až 350 cm, s protitankovými kanóny a minomety. Srub byl páteří
+              obrany, řopík souvislou výplní linie.
+            </p>
+          </details>
+
+          <details style="border-bottom: 1px solid var(--line); padding: var(--s3) 0;">
+            <summary style="font-weight: 600; cursor: pointer;">Kde se dochovaly nejzachovalejší řopíky?</summary>
+            <p style="margin-top: var(--s2);">
+              Nejlépe zachované řopíky najdete v <strong>Orlických horách</strong>
+              (linie Bartošovice, Rokytnice), na <strong>Opavsku</strong> a
+              <strong>Náchodsku</strong>. Muzejně zpřístupněné jsou například
+              v pevnostním areálu Skutina, v okolí Haničky nebo na
+              <a href="/clanky/prazska-cara">Pražské čáře</a>. Kompletní seznam
+              najdete v <a href="/katalog?type=lo-vz-37">katalogu ropiky.cz</a>.
+            </p>
+          </details>
+
+          <details style="border-bottom: 1px solid var(--line); padding: var(--s3) 0;">
+            <summary style="font-weight: 600; cursor: pointer;">Proč se řopíkům říká právě „řopíky"?</summary>
+            <p style="margin-top: var(--s2);">
+              Název „řopík" je zdrobnělina ze zkratky <strong>ŘOP</strong>
+              (Ředitelství opevňovacích prací) — útvaru, který v letech
+              1935–1938 řídil výstavbu čs. opevnění. Termín zlidověl už ve
+              druhé polovině 30. let a přežil v hovorovém jazyce dodnes.
+              Oficiální název je „Lehký objekt vzor 37" (LO vz. 37).
+            </p>
+          </details>
+
+          <details style="border-bottom: 1px solid var(--line); padding: var(--s3) 0;">
+            <summary style="font-weight: 600; cursor: pointer;">Jsou všechny řopíky stejné?</summary>
+            <p style="margin-top: var(--s2);">
+              Ne. Řopíky se stavěly v <strong>pěti typech</strong> (A, B, C, D, E)
+              podle účelu a terénu, a ve <strong>třech stupních odolnosti</strong>
+              (I, II, III) podle očekávaného ohrožení. Dominoval typ A se dvěma
+              bočními kulomety (přes 85 % všech postavených). Každý typ má navíc
+              podvarianty podle úhlu střílen (A-120, A-140 atd.). Detaily v
+              <a href="/typologie/lo-vz-37">typologii LO vz. 37</a>.
+            </p>
+          </details>
+        </section>
+
+        <!-- CTA BLOCK -->
+        <section style="background: var(--paper-dark); padding: var(--s5); border-left: 3px solid var(--rust); margin-top: var(--s6);">
+          <h2 style="margin-top: 0;">Prozkoumejte řopíky detailněji</h2>
+          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: var(--s3);">
+            <a href="/katalog?type=lo-vz-37" class="btn btn--primary" style="text-align: center;">
+              Katalog všech řopíků
+            </a>
+            <a href="/typologie/lo-vz-37" class="btn btn--ghost" style="text-align: center;">
+              Technické parametry LO vz. 37
+            </a>
+            <a href="/mapa" class="btn btn--ghost" style="text-align: center;">
+              Interaktivní mapa
+            </a>
+            <a href="/o-opevneni/co-je-rop" class="btn btn--ghost" style="text-align: center;">
+              O ŘOP a celém systému
+            </a>
+          </div>
+        </section>
+
+        <!-- SOURCES -->
+        <section style="margin-top: var(--s6); padding-top: var(--s4); border-top: 2px solid var(--ink);">
+          <h2 style="margin-top: 0; padding-top: 0; border-top: none;">Zdroje a literatura</h2>
+          <ul>
+            <li>Lakosil J., Svoboda T.: <em>Lehké opevnění 1936–1938</em> (FORTprint, 2011)</li>
+            <li>Stehlík E.: <em>Lexikon těžkých objektů čs. opevnění</em> (FORTprint, 2010)</li>
+            <li>Ráboň M., Gregar O., Kachlík B.: <em>Val na obranu republiky</em> (2005)</li>
+            <li><em>Denkschrift über die tschecho-slowakische Landesbefestigung</em> (OKH, Berlín 1941) — BArch RH 11-III/1028</li>
+            <li>Wikipedia: <em>Lehké opevnění vzor 37</em>, <em>Československé opevnění</em></li>
+            <li>Vojenský historický ústav Praha</li>
+            <li>fortifikace.cz, opevneni.cz</li>
+          </ul>
+        </section>
+
+      </div>
+    </div>
+  </article>
+
+  <style>
+    .table-wrapper {
+      overflow-x: auto;
+      margin: var(--s4) 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9375rem;
+    }
+    th, td {
+      text-align: left;
+      padding: var(--s2) var(--s3);
+      border-bottom: 1px solid var(--line);
+    }
+    th {
+      background: var(--paper-dark);
+      font-weight: 600;
+    }
+    details summary::marker {
+      color: var(--rust);
+    }
+    details[open] summary {
+      margin-bottom: var(--s2);
+    }
+  </style>
+</BaseLayout>

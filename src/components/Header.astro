@@ -55,6 +55,7 @@ const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
         </div>
       </div>
 
+      <a href="/ropiky" class="nav-link" aria-current={isActive('/ropiky') ? 'page' : undefined}>Řopíky</a>
       <a href="/mapa" class="nav-link" aria-current={isActive('/mapa') ? 'page' : undefined}>Mapa</a>
       <a href="/cesty" class="nav-link" aria-current={isActive('/cesty') ? 'page' : undefined}>Cesty</a>
 
@@ -107,6 +108,7 @@ const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
 
     <div class="mobile-nav__group">
       <p class="mobile-nav__heading">V terénu</p>
+      <a href="/ropiky" aria-current={isActive('/ropiky') ? 'page' : undefined}>Řopíky</a>
       <a href="/mapa" aria-current={isActive('/mapa') ? 'page' : undefined}>Mapa</a>
       <a href="/cesty" aria-current={isActive('/cesty') ? 'page' : undefined}>Cesty</a>
     </div>
