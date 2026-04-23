@@ -89,13 +89,36 @@ const seznamVerification = ''; // seznam-wmt — doplnit po registraci
         (function () {
           try {
             var qs = new URLSearchParams(location.search);
-            if (qs.get('exclude-me') === '1') {
+            var action = qs.get('exclude-me');
+            var showBanner = null;
+
+            if (action === '1') {
               document.cookie = 'no_analytics=1; max-age=63072000; path=/; domain=.ropiky.cz; SameSite=Lax';
+              showBanner = 'on';
             }
-            if (qs.get('exclude-me') === '0') {
+            if (action === '0') {
               document.cookie = 'no_analytics=; max-age=0; path=/; domain=.ropiky.cz';
+              showBanner = 'off';
             }
-            if (document.cookie.indexOf('no_analytics=1') !== -1) return;
+
+            var optedOut = document.cookie.indexOf('no_analytics=1') !== -1;
+            if (action === 'check') {
+              showBanner = optedOut ? 'on' : 'off';
+            }
+
+            if (showBanner) {
+              document.addEventListener('DOMContentLoaded', function () {
+                var bar = document.createElement('div');
+                bar.style.cssText = 'position:fixed;top:0;left:0;right:0;z-index:99999;padding:14px 20px;text-align:center;font:600 15px -apple-system,BlinkMacSystemFont,sans-serif;background:' + (showBanner === 'on' ? '#2d7a2d' : '#b04020') + ';color:#fff;box-shadow:0 2px 8px rgba(0,0,0,.2)';
+                bar.textContent = showBanner === 'on'
+                  ? '✓ Analytics vypnuté na tomto prohlížeči. Tvoje návštěvy se nezapočítávají do statistik.'
+                  : '✗ Analytics jsou zapnuté (opt-out není aktivní). Navštiv /?exclude-me=1 pro vyloučení.';
+                document.body.insertBefore(bar, document.body.firstChild);
+                setTimeout(function () { bar.style.transition = 'opacity .5s'; bar.style.opacity = '0'; setTimeout(function () { bar.remove(); }, 500); }, 6000);
+              });
+            }
+
+            if (optedOut) return;
             var s = document.createElement('script');
             s.defer = true;
             s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
