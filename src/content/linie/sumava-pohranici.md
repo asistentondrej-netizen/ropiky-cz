@@ -2,8 +2,11 @@
 title: "Šumava a jižní Čechy"
 description: "Lehké opevnění v Pošumaví a na jihu Čech — úsek podél bavorské a rakouské hranice od Železné Rudy po České Budějovice. Řidší síť řopíků v lesnatém terénu."
 region: "Plzeňský / Jihočeský kraj"
-delka_km: 90
-pocet_objektu: 115
+delka_km: 180
+pocet_objektu: 880
+pocet_planovano: 1539
+pocet_realizovano: 880
+pocet_to: 0
 obdobi_stavby: "1937–1938"
 stav_dnes: "Mnoho objektů v lesích, obtížnější dostupnost. Několik muzejních bodů (Volary, Český Krumlov)."
 order: 50

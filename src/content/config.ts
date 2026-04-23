@@ -337,7 +337,10 @@ const linie = defineCollection({
     region: z.string(),
     slug: z.string().optional(),
     delka_km: z.number().optional(),
-    pocet_objektu: z.number().optional(),
+    pocet_objektu: z.number().optional(), // zpětně kompatibilní — realizováno do září 1938 (LO vz.37 + vz.36)
+    pocet_planovano: z.number().optional(), // plánovaný počet LO + TO objektů v linii
+    pocet_realizovano: z.number().optional(), // skutečně postaveno/vybetonováno do září 1938
+    pocet_to: z.number().optional(), // z toho těžké opevnění (pěchotní sruby + tvrzové sruby)
     obdobi_stavby: z.string().optional(),
     stav_dnes: z.string().optional(),
     bounds: z

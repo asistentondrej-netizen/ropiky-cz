@@ -4,13 +4,15 @@ import { getCollection } from 'astro:content';
 
 const linie = (await getCollection('linie')).sort((a, b) => a.data.order - b.data.order);
 
-const totalObjektu = linie.reduce((acc, l) => acc + (l.data.pocet_objektu ?? 0), 0);
+const totalPlanovano = linie.reduce((acc, l) => acc + (l.data.pocet_planovano ?? l.data.pocet_objektu ?? 0), 0);
+const totalRealizovano = linie.reduce((acc, l) => acc + (l.data.pocet_realizovano ?? l.data.pocet_objektu ?? 0), 0);
+const totalTO = linie.reduce((acc, l) => acc + (l.data.pocet_to ?? 0), 0);
 const totalKm = linie.reduce((acc, l) => acc + (l.data.delka_km ?? 0), 0);
 ---
 
 <BaseLayout
   title="Obranné linie ŘOP"
-  description="Přehled obranných linií československého opevnění 1935–1938. Od Ostravska přes Orlické hory a Krkonoše po jižní Moravu a Bratislavské předmostí — 11 úseků, přibližně 1 300 km hranice, přes 1 400 dokumentovaných objektů."
+  description={`Přehled ${linie.length} obranných linií československého opevnění 1935–1938. Celkem bylo plánováno přes 16 700 objektů, z toho do mobilizace v září 1938 postaveno necelých 10 300 (cca 9 150 řopíků LO vz.37, 864 LO vz.36 a 264 objektů těžkého opevnění).`}
 >
   <header class="catalog-header">
     <div class="container">
@@ -21,23 +23,34 @@ const totalKm = linie.reduce((acc, l) => acc + (l.data.delka_km ?? 0), 0);
       <p class="article-hero__lead" style="margin-top: var(--s3);">
         Československé opevnění nebylo jedna souvislá linie — šlo o {linie.length} různorodých úseků
         s vlastní logikou, tempem stavby a dnešním stavem. Od prvních betonáží v Ostravsku v roce 1935
-        po urgentní dobetonování jižní Moravy po Anschlussu v roce 1938.
+        po urgentní dobetonování jižní Moravy a jižního Slovenska po Anschlussu v roce 1938.
       </p>
 
       <div class="line-stats">
         <div class="line-stat">
           <strong>{linie.length}</strong>
-          <span>dokumentovaných úseků</span>
+          <span>obranných úseků</span>
         </div>
         <div class="line-stat">
           <strong>~{totalKm.toLocaleString('cs-CZ')} km</strong>
-          <span>celkové délky</span>
+          <span>celkové délky linií</span>
         </div>
         <div class="line-stat">
-          <strong>~{totalObjektu.toLocaleString('cs-CZ')}</strong>
-          <span>objektů v přehledu</span>
+          <strong>~{totalPlanovano.toLocaleString('cs-CZ')}</strong>
+          <span>objektů plánováno</span>
+        </div>
+        <div class="line-stat line-stat--accent">
+          <strong>~{totalRealizovano.toLocaleString('cs-CZ')}</strong>
+          <span>postaveno do 9/1938</span>
         </div>
       </div>
+
+      <aside class="methodology-note">
+        <strong>Metodika:</strong> Čísla vycházejí z prazskacara.cz a dobové dokumentace (Aron/Hrůbek, Stehlík, Dubánek).
+        „Plánováno" = celkový počet projektovaných objektů (LO vz. 37 + LO vz. 36 + těžké opevnění).
+        „Postaveno" = vybetonováno do mobilizace 23.–30. 9. 1938; z toho celostátně 9 148 řopíků LO vz. 37, 864 LO vz. 36 a 264 objektů těžkého opevnění (≈ 10 276 objektů).
+        Zbytek (cca 6 500 objektů) se nestihl — Mnichovská dohoda výstavbu zastavila. V katalogu je dnes dokumentováno 6 092 dochovaných objektů — rozdíl tvoří hlavně demolice 50.–60. let, zatopení přehradami a ztráta plánové dokumentace.
+      </aside>
     </div>
   </header>
 
@@ -50,10 +63,27 @@ const totalKm = linie.reduce((acc, l) => acc + (l.data.delka_km ?? 0), 0);
             <h2 class="line-card__title">{l.data.title}</h2>
             <p class="line-card__desc">{l.data.description}</p>
             <div class="line-card__meta">
-              {l.data.delka_km && <span>{l.data.delka_km} km</span>}
-              {l.data.pocet_objektu && <span>{l.data.pocet_objektu} objektů</span>}
-              {l.data.obdobi_stavby && <span>{l.data.obdobi_stavby}</span>}
+              {l.data.delka_km ? <span>{l.data.delka_km} km</span> : null}
+              {l.data.pocet_planovano || l.data.pocet_realizovano ? (
+                <span>
+                  {l.data.pocet_realizovano ?? l.data.pocet_objektu} / {l.data.pocet_planovano} objektů
+                </span>
+              ) : l.data.pocet_objektu ? (
+                <span>{l.data.pocet_objektu} objektů</span>
+              ) : null}
+              {l.data.obdobi_stavby ? <span>{l.data.obdobi_stavby}</span> : null}
             </div>
+            {l.data.pocet_planovano && l.data.pocet_realizovano ? (
+              <div class="line-card__progress" title={`Postaveno ${l.data.pocet_realizovano} z plánovaných ${l.data.pocet_planovano}`}>
+                <div
+                  class="line-card__progress-bar"
+                  style={`width: ${Math.min(100, Math.round((l.data.pocet_realizovano / l.data.pocet_planovano) * 100))}%`}
+                ></div>
+                <span class="line-card__progress-label">
+                  {Math.round((l.data.pocet_realizovano / l.data.pocet_planovano) * 100)} % dokončeno do 9/1938
+                </span>
+              </div>
+            ) : null}
           </a>
         ))}
       </div>
@@ -76,13 +106,50 @@ const totalKm = linie.reduce((acc, l) => acc + (l.data.delka_km ?? 0), 0);
     .line-stat strong {
       font-size: 1.75rem;
       font-family: var(--font-display, serif);
-      color: #7A3B2E;
+      color: var(--ink);
       line-height: 1;
+    }
+    .line-stat--accent strong {
+      color: #7A3B2E;
     }
     .line-stat span {
       font-size: 0.875rem;
       color: var(--ink-light);
       margin-top: 4px;
+    }
+    .methodology-note {
+      margin-top: var(--s3);
+      padding: var(--s3);
+      background: var(--paper-dark);
+      border-left: 3px solid #7A3B2E;
+      font-size: 0.875rem;
+      color: var(--ink-light);
+      line-height: 1.6;
+    }
+    .methodology-note strong {
+      color: var(--ink);
+    }
+    .line-card__progress {
+      position: relative;
+      margin-top: var(--s2);
+      height: 6px;
+      background: var(--line-soft, #eee);
+      border-radius: 0;
+      overflow: hidden;
+    }
+    .line-card__progress-bar {
+      height: 100%;
+      background: #7A3B2E;
+      transition: width 0.3s ease;
+    }
+    .line-card__progress-label {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      margin-top: 4px;
+      font-size: 0.75rem;
+      color: var(--ink-light);
+      font-family: monospace;
     }
     .linie-grid {
       display: grid;
@@ -94,6 +161,7 @@ const totalKm = linie.reduce((acc, l) => acc + (l.data.delka_km ?? 0), 0);
       flex-direction: column;
       gap: var(--s2);
       padding: var(--s3);
+      padding-bottom: calc(var(--s3) + 20px);
       background: var(--paper);
       border: 1px solid var(--line);
       text-decoration: none;

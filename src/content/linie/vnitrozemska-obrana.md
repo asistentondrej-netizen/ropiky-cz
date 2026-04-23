@@ -2,9 +2,12 @@
 title: "Vnitrozemská obrana — Vltava, Labe, Morava"
 description: "Plánovaná sekundární linie uvnitř ČSR podél hlavních řek. Většina projektovaných objektů nebyla nikdy postavena; přesto několik jich stojí u Vltavy, Labe a Moravy."
 region: "Celá ČSR — vnitrozemí"
-delka_km: 0
-pocet_objektu: 20
-obdobi_stavby: "1937–1938 (plán, z velké části nerealizováno)"
+delka_km: 430
+pocet_objektu: 1575
+pocet_planovano: 2041
+pocet_realizovano: 1575
+pocet_to: 42
+obdobi_stavby: "1936–1938 (Pražská čára, Libochovská příčka, Vltavská linie)"
 stav_dnes: "Několik řopíků v údolí Vltavy u Orlické přehrady; dílčí objekty v údolí Labe a Moravy."
 order: 70
 bounds:

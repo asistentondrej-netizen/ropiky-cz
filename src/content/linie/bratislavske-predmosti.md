@@ -2,9 +2,12 @@
 title: "Bratislavské předmostí a Petržalka"
 description: "Jediný úsek těžkého opevnění na Slovensku — pěchotní sruby B-S postavené v Petržalce proti Vídni po Anschlussu. Dnes zčásti v bratislavském sídlišti; několik je zpřístupněno jako muzea."
 region: "Slovensko — Bratislava"
-delka_km: 12
-pocet_objektu: 15
-obdobi_stavby: "1938 (urgentně po Anschlussu)"
+delka_km: 15
+pocet_objektu: 35
+pocet_planovano: 50
+pocet_realizovano: 35
+pocet_to: 14
+obdobi_stavby: "1935–1938 (TO 1935–36, LO 1938 urgentně po Anschlussu)"
 stav_dnes: "Sruby stojí mezi panelovými domy Petržalky. 2 jsou muzea, ostatní volně přístupné zvenku."
 order: 40
 bounds:

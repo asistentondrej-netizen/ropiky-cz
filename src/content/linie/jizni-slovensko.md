@@ -2,9 +2,12 @@
 title: "Jižní Slovensko"
 description: "Lehké opevnění podél maďarské hranice — po Vídeňské arbitráži (listopad 1938) zčásti ztraceno, po roce 1945 vráceno. Málokdo ví, že i zde byla betonována souvislá linie řopíků — dnes z ní zůstaly desítky objektů."
 region: "Slovensko — Nitranský, Banskobystrický, Košický kraj"
-delka_km: 185
-pocet_objektu: 70
-obdobi_stavby: "1938 (urgentně)"
+delka_km: 250
+pocet_objektu: 253
+pocet_planovano: 525
+pocet_realizovano: 253
+pocet_to: 0
+obdobi_stavby: "1938 (urgentně, po Anschlussu)"
 stav_dnes: "Sruby a řopíky v zemědělské krajině, málo dokumentované, komunitní zájem nízký. Potenciál pro průzkum."
 order: 45
 bounds:

@@ -2,8 +2,11 @@
 title: "Severní Čechy — Liberecko a Děčínsko"
 description: "Linie lehkého i těžkého opevnění od Děčína přes Frýdlantský výběžek po Liberec. Kombinace řopíků a pěchotních srubů v hornatém terénu, v Českém Švýcarsku málo známé objekty."
 region: "Ústecký / Liberecký kraj"
-delka_km: 95
-pocet_objektu: 145
+delka_km: 110
+pocet_objektu: 695
+pocet_planovano: 967
+pocet_realizovano: 695
+pocet_to: 30
 obdobi_stavby: "1936–1938"
 stav_dnes: "Řopíky v Liberecku volně přístupné; sruby Frýdlantského výběžku v lesích. Muzeum u Hrádku nad Nisou."
 order: 60

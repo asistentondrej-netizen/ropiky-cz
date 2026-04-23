@@ -2,8 +2,11 @@
 title: "Orlicko-kladský úsek"
 description: "Páteřní úsek těžkého opevnění v Orlických horách a na Kladském pomezí. Leží zde čtyři dělostřelecké tvrze — Bouda, Hanička, Adam a nedokončená Skutina — plus desítky pěchotních srubů. Srdce muzejní turistiky po ŘOP."
 region: "Královéhradecký / Pardubický kraj"
-delka_km: 55
-pocet_objektu: 135
+delka_km: 85
+pocet_objektu: 760
+pocet_planovano: 1214
+pocet_realizovano: 760
+pocet_to: 223
 obdobi_stavby: "1936–1938"
 stav_dnes: "Výborně dochováno. Tvrze Bouda, Hanička, Dobrošov (v Náchodsku) jsou muzea s celoročním provozem."
 order: 20

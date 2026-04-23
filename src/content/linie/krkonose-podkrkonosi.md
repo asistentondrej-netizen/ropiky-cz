@@ -2,8 +2,11 @@
 title: "Krkonoše a Podkrkonoší"
 description: "Severní úsek těžkého opevnění od Trutnova po Liberecko. Dominantou je rozestavěná tvrz Stachelberg — největší plánovaný pevnostní komplex Evropy. Linie vedla přes horské terény v nadmořské výšce přes 900 m."
 region: "Královéhradecký / Liberecký kraj"
-delka_km: 70
-pocet_objektu: 85
+delka_km: 80
+pocet_objektu: 502
+pocet_planovano: 930
+pocet_realizovano: 502
+pocet_to: 100
 obdobi_stavby: "1936–1938"
 stav_dnes: "Stachelberg jako muzeum rozestavěné tvrze. Sruby v Krkonoších částečně zachovalé, v horských terénech obtížnější dostupnost."
 order: 25

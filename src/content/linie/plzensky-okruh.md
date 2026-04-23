@@ -2,8 +2,11 @@
 title: "Plzeňský okruh a Chebsko"
 description: "Lehké opevnění západní hranice — od Aše přes Cheb a Mariánské Lázně po Plzeň. Pás podél bavorské hranice s vysokou hustotou řopíků LO vz. 37."
 region: "Karlovarský / Plzeňský kraj"
-delka_km: 130
-pocet_objektu: 220
+delka_km: 160
+pocet_objektu: 766
+pocet_planovano: 1092
+pocet_realizovano: 766
+pocet_to: 0
 obdobi_stavby: "1937–1938"
 stav_dnes: "Množství volně přístupných řopíků v krajině Chebska a Ašského výběžku. Muzeum v Bečově."
 order: 55

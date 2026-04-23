@@ -2,8 +2,11 @@
 title: "Jižní Morava a Znojemsko"
 description: "Lehké opevnění podél rakouské (a po Anschlussu německé) hranice — od Znojma přes Mikulovsko po slovenskou hranici. Po březnu 1938 urychleně dobetonovávaná linie řopíků, které měly zabránit úderu od Vídně."
 region: "Jihomoravský kraj"
-delka_km: 110
-pocet_objektu: 320
+delka_km: 190
+pocet_objektu: 1057
+pocet_planovano: 1538
+pocet_realizovano: 1057
+pocet_to: 67
 obdobi_stavby: "1937–1938 (urgentní fáze 1938)"
 stav_dnes: "Vysoká hustota volně přístupných řopíků v krajině. Muzeum v Šatově; trasa Cyklostezka Znojmo–Retz podél linie."
 order: 35

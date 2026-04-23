@@ -2,8 +2,11 @@
 title: "Krušné hory"
 description: "Linie lehkého opevnění podél krušnohorského hřebene — od Dubí přes Chomutov po Klášterec nad Ohří. Hřeben Krušných hor jako přirozená bariéra s hustou sítí řopíků."
 region: "Ústecký kraj"
-delka_km: 85
-pocet_objektu: 180
+delka_km: 130
+pocet_objektu: 916
+pocet_planovano: 1071
+pocet_realizovano: 916
+pocet_to: 0
 obdobi_stavby: "1937–1938"
 stav_dnes: "Mnoho objektů v lesích nad obcemi, proti kyselým dešťům a důlním vlivům různě zachovalé. Bez významného muzea."
 order: 65

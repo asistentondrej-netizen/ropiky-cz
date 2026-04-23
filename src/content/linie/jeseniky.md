@@ -2,8 +2,11 @@
 title: "Jesenický úsek"
 description: "Opevnění v Jeseníkách a Nízkém Jeseníku — úsek pěchotních srubů a lehkých objektů mezi Bruntálem, Zlatými Horami a Rýmařovem. Méně slavný, ale v říjnu 1938 patřil k poslední obsazené části území."
 region: "Olomoucký / Moravskoslezský kraj"
-delka_km: 50
-pocet_objektu: 95
+delka_km: 60
+pocet_objektu: 318
+pocet_planovano: 609
+pocet_realizovano: 318
+pocet_to: 90
 obdobi_stavby: "1937–1938"
 stav_dnes: "Řada srubů v lesních terénech, obtížnější dostupnost. Menší muzeum v Javorníku; jinak volně přístupné."
 order: 30

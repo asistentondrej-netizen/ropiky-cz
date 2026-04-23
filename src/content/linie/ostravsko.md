@@ -2,8 +2,11 @@
 title: "Opevnění Ostravska"
 description: "Nejvýznamnější úsek těžkého opevnění ČSR — linie pěchotních srubů z Bohumína přes Ostravu po Těrlicko. Zde se betonovalo jako první a nejintenzivněji; dnes zde stojí tvrz Smolkov a desítky zachovalých srubů."
 region: "Moravskoslezský kraj"
-delka_km: 45
-pocet_objektu: 110
+delka_km: 70
+pocet_objektu: 750
+pocet_planovano: 940
+pocet_realizovano: 750
+pocet_to: 155
 obdobi_stavby: "1935–1938"
 stav_dnes: "Vysoký podíl zachovalých objektů; muzeum Areál čs. opevnění Hlučín-Darkovičky (5 srubů v řadě)."
 order: 10
