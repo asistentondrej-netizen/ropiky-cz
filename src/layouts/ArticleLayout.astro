@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import SmartImage from '../components/SmartImage.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 import { HERO_SIZES } from '../lib/wikimedia';
 
 export interface Props {
@@ -45,6 +46,7 @@ const image = ogImage || cover;
 
     <div class="article-body">
       <div class="container content-width">
+        <ShareButtons title={title} description={description} />
         <slot />
 
         {sources && sources.length > 0 && (

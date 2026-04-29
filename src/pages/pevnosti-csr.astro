@@ -1,0 +1,369 @@
+---
+/**
+ * PILLAR PAGE — "Pevnosti ČSR" (/pevnosti-csr/)
+ *
+ * SEO cíl: TOP 1 v Google CZ pro KW:
+ *   pevnosti ČSR, československé pevnosti, dělostřelecké tvrze,
+ *   pěchotní sruby, těžké opevnění, čs pevnosti
+ */
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import JsonLd from '../components/JsonLd.astro';
+import ShareButtons from '../components/ShareButtons.astro';
+import { breadcrumbList } from '../lib/schema';
+
+const allForts = await getCollection('pevnosti');
+
+const stateOrder: Record<string, number> = {
+  muzeum: 1, pristupny: 2, zachovaly: 3, zavreny: 4, rozpadly: 5, 'zničeny': 6, neznamy: 7,
+};
+
+// Top 8 dělostřeleckých tvrzí
+const topTvrze = allForts
+  .filter((p) => p.data.type === 'delostrelecka-tvrz')
+  .sort((a, b) => (stateOrder[a.data.state] ?? 99) - (stateOrder[b.data.state] ?? 99))
+  .slice(0, 8);
+
+// Top 8 pěchotních srubů s fotkou
+const topSruby = allForts
+  .filter((p) => p.data.type === 'pechotni-srub')
+  .filter((p) => p.data.photos && p.data.photos.length > 0)
+  .sort((a, b) => (stateOrder[a.data.state] ?? 99) - (stateOrder[b.data.state] ?? 99))
+  .slice(0, 8);
+
+const crumb = breadcrumbList([
+  { name: 'Úvod', url: '/' },
+  { name: 'Pevnosti ČSR', url: '/pevnosti-csr' },
+]);
+
+const faqSchema = {
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Kolik dělostřeleckých tvrzí Československo postavilo?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Plánováno bylo 17 tvrzí, ale do Mnichovské dohody 1938 bylo zcela dokončeno pouze 5: Adam, Bouda, Hanička, Hůrka a Smolkov. Další 4 (Dobrošov, Skutina, Šibenice, Stachelberg) zůstaly v různé fázi rozestavěnosti. Po válce přibyl ještě Orlík jako 13. tvrz dokončená v 50. letech.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Jaký je rozdíl mezi pevností a tvrzí?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'V kontextu čs. opevnění 1935-1938 je „pevnost" obecný pojem zahrnující všechny pevnostní objekty. „Tvrz" specificky označuje dělostřeleckou tvrz — komplex několika železobetonových srubů a dělostřeleckých objektů propojených podzemním systémem chodeb a sálů, vyzbrojených těžkými kanóny.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Které čs. pevnosti se dnes dají navštívit?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Veřejnosti je přístupná řada pevností. Mezi nejvýznamnější muzejní expozice patří Hanička, Dobrošov, Bouda, Stachelberg, K-S 14 „U cihelny", T-S 19 „Turov", areál Darkovičky a Skutina. Mnoho dalších objektů je volně přístupných v terénu.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Proč československé pevnosti nikdy nebojovaly?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Mnichovská dohoda z 29. září 1938 přiměla Československo opustit pohraniční oblasti bez boje. Armáda dostala rozkaz opustit opevnění do deseti dnů bez jeho poškození. Systém, do nějž bylo investováno enormní úsilí, tak nikdy nebyl bojově nasazen.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Jaké jsou typy čs. pevnostních objektů?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Systém měl dvě hlavní kategorie: lehké opevnění (LO vz. 36 a LO vz. 37 — řopíky, ~9 000 objektů, posádka 2-7 mužů, kulomety) a těžké opevnění (pěchotní sruby pro 20-40 mužů s protitankovými kanóny a minomety; dělostřelecké tvrze — komplexy podzemních objektů). Existovaly také pancéřové zvony a kopule jako komponenty větších objektů.',
+      },
+    },
+  ],
+};
+
+const description =
+  'Pevnosti ČSR — kompletní průvodce československým opevněním 1935-1938. Dělostřelecké tvrze, pěchotní sruby, řopíky. Přehled všech 13 tvrzí, kde je navštívit, technické parametry.';
+---
+
+<BaseLayout
+  title="Pevnosti ČSR — československé opevnění 1935–1938"
+  description={description}
+  jsonLd={faqSchema}
+  breadcrumbs={[
+    { name: 'Úvod', url: '/' },
+    { name: 'Pevnosti ČSR', url: '/pevnosti-csr' },
+  ]}
+>
+  <JsonLd data={[crumb, faqSchema]} />
+
+  <article>
+    <header class="article-hero">
+      <div class="container">
+        <nav class="article-hero__breadcrumb" aria-label="Drobečky">
+          <a href="/">Úvod</a> / <span>Pevnosti ČSR</span>
+        </nav>
+        <h1>Pevnosti ČSR — československé opevnění 1935–1938</h1>
+        <p class="article-hero__lead">
+          <strong>13 dělostřeleckých tvrzí</strong>, <strong>263 pěchotních srubů</strong>
+          a téměř <strong>10 000 řopíků</strong>. Komplexní obranný systém, který
+          v letech 1935–1938 vznikal po vzoru francouzské Maginotovy linie —
+          jen v menším a za dramaticky kratší dobu.
+        </p>
+      </div>
+    </header>
+
+    <div class="article-body">
+      <div class="container content-width">
+
+        <ShareButtons title="Pevnosti ČSR — kompletní průvodce" description="Československé opevnění 1935–1938" emoji="🏰 " />
+
+        <section>
+          <p>
+            Když 21. července 1934 padlo rozhodnutí o stavbě stálého opevnění,
+            stálo Československo před úkolem o evropském měřítku: <strong>do
+            čtyř let postavit obranný systém po celém obvodu hranic</strong>.
+            Vznikl jeden z nejhustších systémů opevnění střední Evropy —
+            síť pevností, ke které dnes vede přes 6 000 dochovaných objektů
+            roztroušených od jižní Moravy přes celé Sudetské pohoří
+            až po slovenské hranice.
+          </p>
+
+          <div class="hero__stats" style="margin: var(--s5) 0;">
+            <dl>
+              <dt>Plánováno</dt><dd>1 276 TO + 15 463 LO</dd>
+              <dt>Postaveno do 9/1938</dt><dd>~ 263 TO + 10 000 LO</dd>
+              <dt>Tvrze (dokončené)</dt><dd>5 z 17 plánovaných</dd>
+              <dt>Rozpočet</dt><dd>10,9 miliardy Kč (1938)</dd>
+            </dl>
+          </div>
+        </section>
+
+        <section>
+          <h2>Tři hlavní kategorie pevností</h2>
+
+          <h3>1. Lehké opevnění (LO) — řopíky</h3>
+          <p>
+            Souvislá linie kulometných pevnůstek tvořící páteř obrany v terénu.
+            Železobetonové bunkry pro 2–7 mužů, stěny 50–80 cm, výzbroj kulomety.
+            Postaveno přibližně <strong>9 000 objektů</strong>. Detail v
+            <a href="/ropiky"><strong>kompletním průvodci řopíky</strong></a>.
+          </p>
+
+          <h3>2. Pěchotní sruby — páteř obrany</h3>
+          <p>
+            <a href="/typologie/pechotni-srub">Pěchotní sruby</a> jsou
+            mnohem mohutnější objekty než řopíky — stěny až <strong>2,25–3,50 m</strong>,
+            posádka <strong>20–40 mužů</strong>, výzbroj kulomety, protitankové kanóny
+            a minomety. Stojí na strategických bodech a tvoří uzly obranné linie.
+            Postaveno přibližně <strong>263 srubů</strong>, plánováno bylo přes 1 000.
+          </p>
+
+          <h3>3. Dělostřelecké tvrze — vrchol systému</h3>
+          <p>
+            <a href="/typologie/delostrelecka-tvrz">Dělostřelecká tvrz</a> je
+            <strong>komplex 4–8 železobetonových objektů</strong> propojených
+            podzemním systémem chodeb a sálů v hloubce 25–50 m. Vyzbrojená
+            těžkými 10 cm houfnicemi, minomety a kulomety. Posádka 200–800 mužů.
+            <strong>Plánováno bylo 17 tvrzí, dokončeno 5</strong>: Adam, Bouda,
+            Hanička, Hůrka, Smolkov.
+          </p>
+        </section>
+
+        {topTvrze.length > 0 && (
+          <section>
+            <h2>Dělostřelecké tvrze</h2>
+            <p>
+              Tvrze jsou nejmohutnější součástí čs. opevnění. Dnes jsou některé
+              z nich zpřístupněné jako muzea s expozicemi, jiné zůstaly
+              uzavřené nebo v různém stavu zachovalosti.
+            </p>
+
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--s4); margin-top: var(--s5);">
+              {topTvrze.map((p) => {
+                const slug = p.id.replace(/\.json$|\.yml$|\.yaml$/, '');
+                const photo = p.data.photos?.find((ph: any) => ph.featured) || p.data.photos?.[0];
+                return (
+                  <article style="border: 1px solid var(--line); background: var(--paper); overflow: hidden;">
+                    {photo ? (
+                      <a href={`/katalog/${slug}`}>
+                        <img src={photo.url} alt={photo.alt || p.data.title} loading="lazy" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+                      </a>
+                    ) : (
+                      <div style="height: 180px; background: var(--paper-dark); display: flex; align-items: center; justify-content: center; color: var(--ink-light);">
+                        Bez fotografie
+                      </div>
+                    )}
+                    <div style="padding: var(--s3);">
+                      <div class="mono" style="font-size: 0.8125rem; color: var(--rust); margin-bottom: var(--s1);">{p.data.code}</div>
+                      <h3 style="margin: 0 0 var(--s2); font-size: 1.125rem;">
+                        <a href={`/katalog/${slug}`} style="text-decoration: none; color: inherit;">
+                          {p.data.title}
+                        </a>
+                      </h3>
+                      <p style="font-size: 0.875rem; color: var(--ink-light); margin: 0;">
+                        {p.data.line} · {p.data.region}
+                      </p>
+                    </div>
+                  </article>
+                );
+              })}
+            </div>
+          </section>
+        )}
+
+        {topSruby.length > 0 && (
+          <section>
+            <h2>Nejvýznamnější pěchotní sruby</h2>
+            <p>
+              Z 263 dokončených pěchotních srubů vybíráme nejlépe zachované
+              a muzejně přístupné. Kompletní seznam najdete v
+              <a href="/katalog?type=pechotni-srub">katalogu</a> nebo na
+              <a href="/mapa">interaktivní mapě</a>.
+            </p>
+
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--s4); margin-top: var(--s5);">
+              {topSruby.map((p) => {
+                const slug = p.id.replace(/\.json$|\.yml$|\.yaml$/, '');
+                const photo = p.data.photos?.find((ph: any) => ph.featured) || p.data.photos?.[0];
+                return (
+                  <article style="border: 1px solid var(--line); background: var(--paper); overflow: hidden;">
+                    {photo && (
+                      <a href={`/katalog/${slug}`}>
+                        <img src={photo.url} alt={photo.alt || p.data.title} loading="lazy" style="width: 100%; height: 180px; object-fit: cover; display: block;" />
+                      </a>
+                    )}
+                    <div style="padding: var(--s3);">
+                      <div class="mono" style="font-size: 0.8125rem; color: var(--rust); margin-bottom: var(--s1);">{p.data.code}</div>
+                      <h3 style="margin: 0 0 var(--s2); font-size: 1.125rem;">
+                        <a href={`/katalog/${slug}`} style="text-decoration: none; color: inherit;">{p.data.title}</a>
+                      </h3>
+                      <p style="font-size: 0.875rem; color: var(--ink-light); margin: 0;">
+                        {p.data.line} · {p.data.region}
+                      </p>
+                    </div>
+                  </article>
+                );
+              })}
+            </div>
+          </section>
+        )}
+
+        <section>
+          <h2>Geografické rozvržení</h2>
+          <p>
+            Linie těžkého opevnění se budovaly především podél severní hranice
+            proti nacistickému Německu — od <strong>Moravské Ostravy</strong>
+            přes <strong>Opavsko, Staré Město pod Sněžníkem, Králíky, Rokytnici
+            v Orlických horách, Náchod, Trutnov</strong> až po <strong>Krkonoše
+            a Liberec</strong>.
+          </p>
+          <p>
+            Stavební úseky byly značeny podle sídla velitelství ženijní skupiny
+            (ŽSV), která stavbu řídila — odtud zkratky pevností v jejich kódech:
+          </p>
+          <ul>
+            <li><strong>MO</strong> — Moravská Ostrava</li>
+            <li><strong>OP</strong> — Opava</li>
+            <li><strong>StM</strong> — Staré Město pod Sněžníkem</li>
+            <li><strong>K</strong> — Králíky</li>
+            <li><strong>R</strong> — Rokytnice</li>
+            <li><strong>N</strong> — Náchod</li>
+            <li><strong>T</strong> — Trutnov</li>
+            <li><strong>KrK</strong> — Krkonoše</li>
+            <li><strong>Li</strong> — Liberec</li>
+            <li><strong>B</strong> — Bratislava (slovenská část)</li>
+            <li><strong>MJ</strong> — Mikulov / jižní Morava</li>
+          </ul>
+          <p>
+            Lehké opevnění (řopíky) doplňovalo a rozšiřovalo tyto linie i na
+            jih Moravy, jižní Čechy a Slovensko. Vnitrozemskou druhou obrannou
+            linii tvořila slavná <strong>Pražská čára</strong>.
+          </p>
+        </section>
+
+        <section>
+          <h2>FAQ — Často kladené otázky</h2>
+
+          <details style="border-bottom: 1px solid var(--line); padding: var(--s3) 0;">
+            <summary style="font-weight: 600; cursor: pointer;">Kolik dělostřeleckých tvrzí Československo postavilo?</summary>
+            <p style="margin-top: var(--s2);">
+              Plánováno bylo <strong>17 tvrzí</strong>, ale do Mnichovské dohody
+              1938 bylo zcela dokončeno pouze 5: <strong>Adam, Bouda, Hanička,
+              Hůrka, Smolkov</strong>. Další 4 (Dobrošov, Skutina, Šibenice,
+              Stachelberg) zůstaly v různé fázi rozestavěnosti. Po válce přibyl
+              ještě Orlík jako 13. tvrz dokončená v 50. letech.
+            </p>
+          </details>
+
+          <details style="border-bottom: 1px solid var(--line); padding: var(--s3) 0;">
+            <summary style="font-weight: 600; cursor: pointer;">Jaký je rozdíl mezi pevností a tvrzí?</summary>
+            <p style="margin-top: var(--s2);">
+              V kontextu čs. opevnění 1935–1938 je <strong>„pevnost"</strong>
+              obecný pojem zahrnující všechny pevnostní objekty.
+              <strong>„Tvrz"</strong> specificky označuje dělostřeleckou tvrz —
+              komplex několika železobetonových srubů a dělostřeleckých objektů
+              propojených podzemním systémem chodeb a sálů, vyzbrojených těžkými
+              kanóny.
+            </p>
+          </details>
+
+          <details style="border-bottom: 1px solid var(--line); padding: var(--s3) 0;">
+            <summary style="font-weight: 600; cursor: pointer;">Které čs. pevnosti se dnes dají navštívit?</summary>
+            <p style="margin-top: var(--s2);">
+              Veřejnosti jsou přístupné desítky pevností. Mezi nejvýznamnější
+              muzejní expozice patří <strong>Hanička, Dobrošov, Bouda,
+              Stachelberg, K-S 14 „U cihelny", T-S 19 „Turov", areál Darkovičky
+              a Skutina</strong>. Mnoho dalších je volně přístupných v terénu.
+              Kompletní seznam s návštěvními informacemi v
+              <a href="/katalog">katalogu</a>.
+            </p>
+          </details>
+
+          <details style="border-bottom: 1px solid var(--line); padding: var(--s3) 0;">
+            <summary style="font-weight: 600; cursor: pointer;">Proč československé pevnosti nikdy nebojovaly?</summary>
+            <p style="margin-top: var(--s2);">
+              <strong>Mnichovská dohoda</strong> z 29. září 1938 přiměla
+              Československo opustit pohraniční oblasti bez boje. Armáda
+              dostala rozkaz opustit opevnění do deseti dnů bez jeho poškození.
+              Systém, do nějž bylo investováno enormní úsilí, tak nikdy nebyl
+              bojově nasazen.
+              <a href="/o-opevneni/mnichov-a-osud-opevneni">Detail v článku Mnichov 1938 a osud opevnění</a>.
+            </p>
+          </details>
+
+          <details style="border-bottom: 1px solid var(--line); padding: var(--s3) 0;">
+            <summary style="font-weight: 600; cursor: pointer;">Jaké jsou typy čs. pevnostních objektů?</summary>
+            <p style="margin-top: var(--s2);">
+              Systém měl dvě hlavní kategorie:
+              <strong>lehké opevnění</strong> (<a href="/typologie/lo-vz-36">LO vz. 36</a>
+              a <a href="/typologie/lo-vz-37">LO vz. 37 — řopíky</a>, ~9 000 objektů,
+              posádka 2–7 mužů, kulomety) a <strong>těžké opevnění</strong>
+              (<a href="/typologie/pechotni-srub">pěchotní sruby</a> pro 20–40 mužů
+              s protitankovými kanóny a minomety;
+              <a href="/typologie/delostrelecka-tvrz">dělostřelecké tvrze</a> —
+              komplexy podzemních objektů). Komponenty větších objektů zahrnují
+              <a href="/typologie/pancerovy-zvon">pancéřové zvony</a> a kopule.
+            </p>
+          </details>
+        </section>
+
+        <section style="background: var(--paper-dark); padding: var(--s5); border-left: 3px solid var(--rust); margin-top: var(--s6);">
+          <h2 style="margin-top: 0;">Prozkoumat dál</h2>
+          <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: var(--s3);">
+            <a href="/ropiky" class="btn btn--primary" style="text-align: center;">Průvodce řopíky</a>
+            <a href="/katalog" class="btn btn--ghost" style="text-align: center;">Katalog 6 000+ objektů</a>
+            <a href="/typologie" class="btn btn--ghost" style="text-align: center;">Typologie</a>
+            <a href="/mapa" class="btn btn--ghost" style="text-align: center;">Interaktivní mapa</a>
+          </div>
+        </section>
+
+      </div>
+    </div>
+  </article>
+
+  <style>
+    details summary::marker { color: var(--rust); }
+    details[open] summary { margin-bottom: var(--s2); }
+  </style>
+</BaseLayout>

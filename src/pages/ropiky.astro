@@ -11,6 +11,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import JsonLd from '../components/JsonLd.astro';
+import ShareButtons from '../components/ShareButtons.astro';
 import { breadcrumbList } from '../lib/schema';
 
 // Načíst všechny LO vz. 37 pro dynamický výběr nejzachovalejších
@@ -127,6 +128,8 @@ const description =
 
     <div class="article-body">
       <div class="container content-width">
+
+        <ShareButtons title="Řopíky — kompletní průvodce" description="Československé lehké opevnění LO vz. 37" emoji="🏰 " />
 
         <!-- ÚVODNÍ SHRNUTÍ -->
         <section>

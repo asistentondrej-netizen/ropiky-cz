@@ -5,6 +5,7 @@ import { getCollection } from 'astro:content';
 import JsonLd from '../../components/JsonLd.astro';
 import { pevnostSchema, breadcrumbList } from '../../lib/schema';
 import SmartImage from '../../components/SmartImage.astro';
+import ShareButtons from '../../components/ShareButtons.astro';
 import { HERO_SIZES } from '../../lib/wikimedia';
 
 export async function getStaticPaths() {
@@ -304,6 +305,10 @@ const hasAsideContent = d.navsteva || hasRelated || true; // citace vždy
       </div>
     </div>
   )}
+
+  <div class="container" style="margin-top: var(--s4);">
+    <ShareButtons title={d.title} description={d.description} emoji="🏰 " />
+  </div>
 
   <div class="article-body">
     <div class="container">

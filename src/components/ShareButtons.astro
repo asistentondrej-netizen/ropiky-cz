@@ -1,0 +1,156 @@
+---
+/**
+ * Sociální sdílení — Twitter/X, Facebook, Email, Copy URL.
+ * Použití na detail pevnosti, článku, pillar page.
+ *
+ * Importuje se v ArticleLayout / [slug].astro pevnosti / pillar pages.
+ *
+ * Příklad:
+ *   <ShareButtons title={d.title} description={d.description} />
+ */
+
+export interface Props {
+  title: string;
+  description?: string;
+  /** Volitelný emoji prefix pro share text (např. "🏰 ") */
+  emoji?: string;
+}
+
+const { title, description = '', emoji = '' } = Astro.props;
+
+const url = new URL(Astro.url.pathname, Astro.site).toString();
+
+const shareText = `${emoji}${title}${description ? ' — ' + description : ''}`;
+const encodedText = encodeURIComponent(shareText);
+const encodedUrl = encodeURIComponent(url);
+const encodedTitle = encodeURIComponent(title);
+
+const twitterUrl = `https://twitter.com/intent/tweet?text=${encodedText}&url=${encodedUrl}`;
+const fbUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`;
+const emailUrl = `mailto:?subject=${encodedTitle}&body=${encodedText}%0A%0A${encodedUrl}`;
+---
+
+<aside class="share-buttons" aria-label="Sdílet">
+  <span class="share-buttons__label">Sdílet:</span>
+  <a
+    href={twitterUrl}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="share-btn share-btn--twitter"
+    aria-label="Sdílet na X (Twitter)"
+    title="Sdílet na X (Twitter)"
+  >
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true">
+      <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+    </svg>
+    <span class="share-btn__text">X</span>
+  </a>
+  <a
+    href={fbUrl}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="share-btn share-btn--fb"
+    aria-label="Sdílet na Facebooku"
+    title="Sdílet na Facebooku"
+  >
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true">
+      <path d="M9.198 21.5h4v-8.01h3.604l.396-3.98h-4V7.5a1 1 0 0 1 1-1h3v-4h-3a5 5 0 0 0-5 5v2.01h-2l-.396 3.98h2.396V21.5z"/>
+    </svg>
+    <span class="share-btn__text">Facebook</span>
+  </a>
+  <a
+    href={emailUrl}
+    class="share-btn share-btn--email"
+    aria-label="Sdílet e-mailem"
+    title="Sdílet e-mailem"
+  >
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true">
+      <path d="M2 4h20a1 1 0 0 1 1 1v14a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zm10 7L3 6v12h18V6l-9 5z"/>
+    </svg>
+    <span class="share-btn__text">E-mail</span>
+  </a>
+  <button
+    type="button"
+    class="share-btn share-btn--copy"
+    data-share-url={url}
+    aria-label="Zkopírovat odkaz"
+    title="Zkopírovat odkaz"
+  >
+    <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true">
+      <path d="M16 1H4a2 2 0 0 0-2 2v14h2V3h12V1zm3 4H8a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm0 16H8V7h11v14z"/>
+    </svg>
+    <span class="share-btn__text">Kopírovat</span>
+  </button>
+</aside>
+
+<style>
+  .share-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--s2);
+    margin: var(--s4) 0;
+    padding: var(--s3) 0;
+    border-block: 1px solid var(--line);
+  }
+  .share-buttons__label {
+    font-size: 0.875rem;
+    color: var(--ink-light);
+    margin-right: var(--s2);
+  }
+  .share-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--s1);
+    padding: var(--s1) var(--s2);
+    background: var(--paper-dark);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    color: var(--ink);
+    font-size: 0.875rem;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.15s ease;
+  }
+  .share-btn:hover {
+    background: var(--paper);
+    border-color: var(--ink-light);
+  }
+  .share-btn__text {
+    display: inline;
+  }
+  .share-btn--copy.copied {
+    background: #d1fae5;
+    border-color: #10b981;
+  }
+  @media (max-width: 480px) {
+    .share-btn__text {
+      display: none;
+    }
+    .share-buttons__label {
+      width: 100%;
+      margin-bottom: var(--s1);
+    }
+  }
+</style>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>('.share-btn--copy').forEach((btn) => {
+    btn.addEventListener('click', async () => {
+      const url = btn.dataset.shareUrl || window.location.href;
+      try {
+        await navigator.clipboard.writeText(url);
+        const text = btn.querySelector('.share-btn__text');
+        const oldText = text?.textContent || 'Kopírovat';
+        btn.classList.add('copied');
+        if (text) text.textContent = 'Zkopírováno!';
+        setTimeout(() => {
+          btn.classList.remove('copied');
+          if (text) text.textContent = oldText;
+        }, 2000);
+      } catch (err) {
+        console.error('Clipboard write failed:', err);
+      }
+    });
+  });
+</script>
