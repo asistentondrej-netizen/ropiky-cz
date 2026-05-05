@@ -8,47 +8,23 @@ location:
   lon: 16.7769
   address: České Petrovice, 564 01
   elevation: 810
-
 built: '1938'
 state: zavreny
-
 description: >
-  Dělostřelecká tvrz československého opevnění v Králickém pevnostním areálu,
-  v blízkosti Českých Petrovic v nadmořské výšce kolem 800 m.
-  V současnosti veřejnosti nepřístupná (objekt v rukou soukromého vlastníka).
-
-# === TECHNICKÁ KARTA ===
+  Dělostřelecká tvrz československého opevnění v Králickém pevnostním areálu, v blízkosti Českých Petrovic v nadmořské
+  výšce kolem 800 m. V současnosti veřejnosti nepřístupná (objekt v rukou soukromého vlastníka).
 tech:
   odolnost: IV
   stupenDokonceni: dokonceny
   typObjektu: Dělostřelecká tvrz
   komponenty:
     - pancerovy-zvon
-
-# === STAVBA ===
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   dokonceni: '1938'
-
-# === HISTORIE ===
-history: >
-  Tvrz Adam je jednou z dělostřeleckých tvrzí československého opevnění
-  budovaného v rámci Ředitelství opevňovacích prací (ŘOP) ve druhé polovině
-  30. let 20. století v oblasti Králicka.
-  Po podpisu Mnichovské dohody 30. září 1938 bylo opevnění odevzdáno bez boje.
-  Po roce 1945 byla tvrz využívána armádou. V současnosti je veřejnosti
-  zpravidla nepřístupná.
-
 historieMilniky:
   - datum: 30. 9. 1938
     udalost: Mnichovská dohoda — opevnění odevzdáno bez boje
-
-# === NÁVŠTĚVA ===
-visit: >
-  Tvrz Adam je standardně veřejnosti **nepřístupná**. Exteriér bojových srubů
-  lze navštívit z veřejných turistických cest. Případné speciální akce
-  sledujte na webech Králického pevnostního areálu.
-
 navsteva:
   pristupnost: pesky-turisticka
   vhodnostRodiny: doporuceno
@@ -59,12 +35,8 @@ navsteva:
   upozorneni:
     - Interiér tvrze není veřejnosti přístupný.
     - Exteriéry bojových srubů lze navštívit z veřejných cest.
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
-
-# === MÉDIA ===
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/2/20/Adam_bunkier.jpg
     alt: Bojový srub tvrze Adam
@@ -79,8 +51,6 @@ photos:
     license: CC BY-SA 4.0
     source: https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%A9_Petrovice_bunkier_4.jpg
     category: exterier
-
-# === CROSS-LINKING ===
 related:
   pevnosti:
     - tvrz-bouda
@@ -92,9 +62,6 @@ related:
   typologie:
     - delostrelecka-tvrz
     - pancerovy-zvon
-
-# === ZDROJE ===
 sources: []
-
 wikidata_id: Q10379697
 updated: '2026-05-05'

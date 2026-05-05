@@ -8,14 +8,11 @@ location:
   lon: 15.9139
   address: Babí, 541 01 Trutnov
   elevation: 632
-built: '1938 (nedokončeno)'
+built: 1938 (nedokončeno)
 state: muzeum
 description: >
-  Plánovaná velká dělostřelecká tvrz československého opevnění u Trutnova,
-  jejíž stavba zůstala v září 1938 nedokončena. Dnes provozována jako muzeum
-  občanským sdružením Stachelberg.
-
-# === TECHNICKÁ KARTA ===
+  Plánovaná velká dělostřelecká tvrz československého opevnění u Trutnova, jejíž stavba zůstala v září 1938 nedokončena.
+  Dnes provozována jako muzeum občanským sdružením Stachelberg.
 tech:
   odolnost: IV
   stupenDokonceni: rozestaveny
@@ -23,32 +20,15 @@ tech:
   komponenty:
     - pancerovy-zvon
     - kopule-pozorovaci
-
-# === STAVBA ===
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   dokonceni: 1938 (nedokončeno)
-
-# === HISTORIE ===
-history: >
-  Tvrz Stachelberg měla být jednou z velkých dělostřeleckých tvrzí
-  československého opevnění budovaného v rámci Ředitelství opevňovacích prací
-  (ŘOP) ve druhé polovině 30. let 20. století. Po Mnichovské dohodě
-  30. září 1938 byla výstavba zastavena a větší část projektu zůstala
-  nedokončena. Od 90. let 20. století je objekt postupně zpřístupňován
-  veřejnosti. Muzeum provozuje občanské sdružení Stachelberg.
-
 historieMilniky:
   - datum: 30. 9. 1938
     udalost: Mnichovská dohoda — výstavba zastavena
-  - datum: '1995'
-    udalost: Otevření muzea občanským sdružením Stachelberg
-
-# === NÁVŠTĚVA ===
 visit: >
-  Muzeum Tvrz Stachelberg provozuje občanské sdružení a je otevřené sezónně
-  (duben–říjen). Aktuální otevírací doba a ceník na stachelberg.cz.
-
+  Muzeum Tvrz Stachelberg provozuje občanské sdružení a je otevřené sezónně (duben–říjen). Aktuální otevírací doba a
+  ceník na stachelberg.cz.
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: starsi-deti
@@ -61,28 +41,21 @@ navsteva:
   upozorneni:
     - V podzemí je celoročně nízká teplota — teplé oblečení.
     - Venkovní expozice přístupná bez bariér.
-
-# === SPRÁVCE ===
 spravujicSubjekt:
   nazev: Stachelberg z.s.
   typ: klub-vojenske-historie
   web: https://www.stachelberg.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
-
-# === MÉDIA ===
 photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Stachelberg%2C_podzem%C3%AD_%28rok_2008%3B_01%29.jpg/1280px-Stachelberg%2C_podzem%C3%AD_%28rok_2008%3B_01%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Stachelberg%2C_podzem%C3%AD_%28rok_2008%3B_01%29.jpg/1280px-Stachelberg%2C_podzem%C3%AD_%28rok_2008%3B_01%29.jpg
     alt: Interiér podzemí dělostřelecké tvrze Stachelberg
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Stachelberg,_podzem%C3%AD_(rok_2008;_01).jpg
     category: interier
     featured: true
-
-# === CROSS-LINKING ===
 related:
   pevnosti:
     - tvrz-bouda
@@ -94,12 +67,9 @@ related:
   typologie:
     - delostrelecka-tvrz
     - pancerovy-zvon
-
-# === ZDROJE ===
 sources:
   - title: Stachelberg z.s. — oficiální web muzea
     url: https://www.stachelberg.cz
     type: web
-
 wikidata_id: Q12055852
 updated: '2026-05-05'

@@ -2,55 +2,36 @@ title: OP-S-10
 code: OP-S-10
 type: pechotni-srub
 line: Opavsko
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.937357
   lon: 17.955219
   elevation: 252
 state: neznamy
-description: Pěchotní srub OP-S-10 na úseku Opavsko. Součást československého těžkého
-  opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
-history: 'Úsek Opavsko — těžké opevnění 1936–1938 navazující na MO úsek na západě.
-  Krátký, ale hustě osazený blok.
-
-
-  Srub OP-S-10 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
-
-
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
-
-
-  **GPS:** 49.937357, 17.955219 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=17.955219&y=49.937357&z=17&source=coor&id=17.955219%2C49.937357).
-
-
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+description: >-
+  Pěchotní srub OP-S-10 na úseku Opavsko. Součást československého těžkého opevnění z let 1935–1938, stavěného proti
+  hrozbě nacistického Německa.
 sources:
-- OpenStreetMap (OSM element way/52429745)
+  - OpenStreetMap (OSM element way/52429745)
 wikidata_id: Q98582480
 commons_category: OP-S 10 Na křižovatce casemate
 updated: '2026-04-19'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/OP-S_10_K%C5%99i%C5%BEovatka_%281%29.jpg/1920px-OP-S_10_K%C5%99i%C5%BEovatka_%281%29.jpg
-  alt: Pěchotní srub OP-S-10
-  author: Olos88
-  license: CC0
-  source: https://commons.wikimedia.org/wiki/File:OP-S_10_K%C5%99i%C5%BEovatka_(1).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OP-S_10_K%C5%99i%C5%BEovatka_%282%29.jpg/1920px-OP-S_10_K%C5%99i%C5%BEovatka_%282%29.jpg
-  alt: Pěchotní srub OP-S-10
-  author: Olos88
-  license: CC0
-  source: https://commons.wikimedia.org/wiki/File:OP-S_10_K%C5%99i%C5%BEovatka_(2).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Velk%C3%A9_Ho%C5%A1tice%2C_OP-S_10_%28rok_2001%3B_01%29.jpg/1920px-Velk%C3%A9_Ho%C5%A1tice%2C_OP-S_10_%28rok_2001%3B_01%29.jpg
-  alt: Pěchotní srub OP-S-10
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Velk%C3%A9_Ho%C5%A1tice,_OP-S_10_(rok_2001;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/OP-S_10_K%C5%99i%C5%BEovatka_%281%29.jpg/1920px-OP-S_10_K%C5%99i%C5%BEovatka_%281%29.jpg
+    alt: Pěchotní srub OP-S-10
+    author: Olos88
+    license: CC0
+    source: https://commons.wikimedia.org/wiki/File:OP-S_10_K%C5%99i%C5%BEovatka_(1).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/OP-S_10_K%C5%99i%C5%BEovatka_%282%29.jpg/1920px-OP-S_10_K%C5%99i%C5%BEovatka_%282%29.jpg
+    alt: Pěchotní srub OP-S-10
+    author: Olos88
+    license: CC0
+    source: https://commons.wikimedia.org/wiki/File:OP-S_10_K%C5%99i%C5%BEovatka_(2).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Velk%C3%A9_Ho%C5%A1tice%2C_OP-S_10_%28rok_2001%3B_01%29.jpg/1920px-Velk%C3%A9_Ho%C5%A1tice%2C_OP-S_10_%28rok_2001%3B_01%29.jpg
+    alt: Pěchotní srub OP-S-10
+    author: User:Harold's family
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Velk%C3%A9_Ho%C5%A1tice,_OP-S_10_(rok_2001;_01).jpg

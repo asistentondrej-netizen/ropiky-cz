@@ -9,16 +9,13 @@ location:
   address: Teplice nad Metují
 built: '1938'
 state: zachovaly
-description: >
-  Pěchotní srub československého opevnění v oblasti Teplic nad Metují.
-  Identifikace (T-S vs. T-St-S, krycí jméno, parametry) i návštěvnické informace
-  vyžadují odbornou revizi proti literatuře — předchozí texty obsahovaly
-  neověřené údaje a byly proto odstraněny.
+description: Pěchotní srub československého opevnění v oblasti Teplic nad Metují.
 sources: []
 updated: '2026-05-05'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2000%29.jpg/1920px-Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2000%29.jpg
-  alt: Pěchotní srub T-S 73
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Bab%C3%AD,_T-S_73_(rok_2000).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2000%29.jpg/1920px-Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2000%29.jpg
+    alt: Pěchotní srub T-S 73
+    author: User:Harold's family
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Trutnov,_Bab%C3%AD,_T-S_73_(rok_2000).jpg

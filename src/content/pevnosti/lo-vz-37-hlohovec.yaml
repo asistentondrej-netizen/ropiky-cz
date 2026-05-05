@@ -2,7 +2,7 @@ title: Řopík 6/54/A-180 — u Hlohoveckého rybníka
 code: 6/54/A-180
 type: lo-vz-37
 line: Valticko — jižní Morava
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.78309
   lon: 16.77869
@@ -10,21 +10,9 @@ location:
   address: Jižní břeh Hlohoveckého rybníka, obec Hlohovec
 built: '1938'
 state: pristupny
-description: Řopík typ A-180 (nejzesílenější standardní typ LO vz. 37) na jižním břehu Hlohoveckého rybníka — součást UNESCO lednicko-valtického areálu. Kombinace barokního krajinářského celku s vojenskou architekturou 30. let.
-history: |
-  Betonován v roce 1938, typ A-180 je největší standardní typ LO vz. 37 — tloušťka čelní stěny 100 cm, odolnost proti 210 mm dělostřelectvu. Objekt kryl přechod přes rybniční hráz, strategické místo pro obranu lichtenštejnské krajiny. V září 1938 osazen plnou osádkou (4 muži), kulomety ZB vz. 26. Po Mnichovu opuštěn. Za války ponechán, poválečné opravy nebyly provedeny.
-visit: |
-  Asi nejlepší fotogenický objekt celého Valticka — řopík u vodní hladiny rybníka.
-  
-  **Přístup:** volně, 24/7. Po cestě kolem rybníka 5 min od Hlohovce.
-  
-  **Co uvidíte:** LO vz. 37 typ A-180 (nejtěžší standardní typ), dvě střílny, zachovaný vchod. Pohled přes rybník na Apollonův chrám.
-  
-  **Doporučená délka:** 30 minut.
-  
-  **Dostupnost:** Pěšky z Hlohovce (500 m), na kole po Moravské vinařské stezce.
-  
-  **Doporučeno kombinovat s:** Apollonovým chrámem (vyhlídka u Hlohoveckého rybníka), Lednickým zámkem, vinnými sklepy v Hlohovci.
+description: >-
+  Řopík typ A-180 (nejzesílenější standardní typ LO vz. 37) na jižním břehu Hlohoveckého rybníka — součást UNESCO
+  lednicko-valtického areálu. Kombinace barokního krajinářského celku s vojenskou architekturou 30. let.
 sources:
-- OpenStreetMap — military=bunker
+  - OpenStreetMap — military=bunker
 updated: '2026-04-19'

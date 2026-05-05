@@ -2,28 +2,19 @@ title: Tvrz Orlík
 code: K-S Tvrz Orlík
 type: delostrelecka-tvrz
 line: Králíky
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
   lat: 50.058
   lon: 16.637
   elevation: 747
   address: Mladkov — Petrovičky
 state: rozpadly
-
 description: >
-  Rozestavěná dělostřelecká tvrz Orlík nad obcí Mladkov v Orlických horách.
-  Součást plánovaného systému čs. opevnění 1935–1938 v úseku Králíky (K-S).
-  Před Mnichovskou dohodou výstavba nedospěla do dokončení.
-
-history: >
-  Tvrz Orlík byla součástí plánu výstavby čs. opevnění 1935–1938 v úseku Králíky.
-  Po Mnichovské dohodě 30. září 1938 byla výstavba přerušena a tvrz zůstala
-  nedokončená. V terénu jsou patrné fragmenty stavebních prací.
-
+  Rozestavěná dělostřelecká tvrz Orlík nad obcí Mladkov v Orlických horách. Součást plánovaného systému čs. opevnění
+  1935–1938 v úseku Králíky (K-S). Před Mnichovskou dohodou výstavba nedospěla do dokončení.
 visit: >
-  V terénu jsou patrné zbytky stavebních prací — fragmenty jsou volně přístupné
-  v lese, některé na soukromých pozemcích. Tvrz není muzejně vybavena.
-
+  V terénu jsou patrné zbytky stavebních prací — fragmenty jsou volně přístupné v lese, některé na soukromých pozemcích.
+  Tvrz není muzejně vybavena.
 related:
   pevnosti:
     - tvrz-bouda
@@ -33,11 +24,9 @@ related:
     - tvrz-skutina
   typologie:
     - delostrelecka-tvrz
-
 sources:
   - title: Wikipedie — Orlík (dělostřelecká tvrz)
     url: https://cs.wikipedia.org/wiki/Orl%C3%ADk_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
     type: web
-
-wikipedia_url: "https://cs.wikipedia.org/wiki/Orl%C3%ADk_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
+wikipedia_url: https://cs.wikipedia.org/wiki/Orl%C3%ADk_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
 updated: '2026-05-05'

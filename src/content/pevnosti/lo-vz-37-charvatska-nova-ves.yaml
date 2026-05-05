@@ -2,7 +2,7 @@ title: Řopík 5/151/1 — Charvátská Nová Ves
 code: 5/151/1
 type: lo-vz-37
 line: Valticko — jižní Morava
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.78347
   lon: 16.84179
@@ -10,21 +10,9 @@ location:
   address: Ladenská cesta, Charvátská Nová Ves (Břeclav)
 built: '1937'
 state: pristupny
-description: Řopík LO vz. 37 v severní části Charvátské Nové Vsi, na Ladenské cestě. Součást linie propojující Valticko s břeclavským úsekem — stojí v rozhraní zemědělské a lužní krajiny.
-history: |
-  Betonován v roce 1937. Objekt 5/151/1 patřil do úseku kryjícího severní přístupy do Břeclavi a přístup k Janovu hradu. V září 1938 osazen tříčlennou osádkou s kulomety ZB vz. 26. Po Mnichovu opuštěn. Za války částečně zanesen hlínou z polních prací, znovu odkryt v 90. letech.
-visit: |
-  Málo známý řopík, dobrý cíl pro ty, kdo chtějí objevovat bez davů.
-  
-  **Přístup:** volně, 24/7. U Ladenské cesty, polní přístup.
-  
-  **Co uvidíte:** Standardní LO vz. 37, dvě střílny, zachovaný profil objektu. Okolí zemědělská krajina.
-  
-  **Doporučená délka:** 15 minut.
-  
-  **Dostupnost:** Autem z Charvátské NV (2 km) nebo z Lednice (4 km). Na kole po místních stezkách.
-  
-  **Doporučeno kombinovat s:** Lednickým zámkem, Janovým hradem (4 km), objekty v Boří lese.
+description: >-
+  Řopík LO vz. 37 v severní části Charvátské Nové Vsi, na Ladenské cestě. Součást linie propojující Valticko s
+  břeclavským úsekem — stojí v rozhraní zemědělské a lužní krajiny.
 sources:
-- OpenStreetMap — military=bunker
+  - OpenStreetMap — military=bunker
 updated: '2026-04-19'

@@ -2,26 +2,18 @@ title: K-S 21 „Jilm"
 code: K-S 21
 type: pechotni-srub
 line: Králíky (pásmo tvrze Bouda)
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
   lat: 50.1203
   lon: 16.7392
   address: Těchonín-Dolní Boříkovice, tvrz Bouda
   elevation: 702
-
 built: '1937'
 state: muzeum
-
-description: >
-  Vchodový objekt dělostřelecké tvrze Bouda — nejnavštěvovanější brána do
-  podzemního komplexu králické pevnostní oblasti. Robustní železobetonová
-  stavba s rampou pro nákladní vozidla, dvěma pancéřovými vraty a ubikací
-  strážní jednotky. Součást prohlídky tvrze Bouda.
+description: Pěchotní srub K-S 21 — objekt těžkého opevnění československého ŘOP 1935–1938.
 castTvrze: tvrz-bouda
-
-# === TECHNICKÁ KARTA ===
 tech:
-  odolnost: 'III'
+  odolnost: III
   stupenDokonceni: dokonceny
   typObjektu: Vchodový objekt dělostřelecké tvrze
   posadka:
@@ -40,55 +32,19 @@ tech:
     material: Železobeton B500
   komponenty:
     - pancerovy-zvon
-
-# === STAVBA ===
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   stavebniFirma: Ing. Záruba-Pfeffermann, Brno
   zahajeni: '1936'
   dokonceni: '1937'
   poznamka: Obousměrná rampa pro nákladní vozidla (sklon 10 %, délka 35 m) s vnitřním obratem.
-
-# === HISTORIE ===
-history: >
-  K-S 21 „Jilm" (v některé literatuře uváděn jako K-S 22) byl postaven v
-  letech 1936–1937 firmou Záruba-Pfeffermann Brno jako vchodový objekt
-  dělostřelecké tvrze Bouda. Konstrukčně jde o robustní železobetonovou
-  stavbu s rampou pro nákladní vozidla zahloubenou do svahu, propojenou
-  podzemním systémem se čtyřmi pěchotními sruby tvrze.
-
-
-  Unikátnost objektu: obousměrná rampa s vnitřním obratem, dvě velká
-  pancéřová vrata (vnější + vnitřní), ubikace strážní jednotky, plná
-  filtroventilace. Připojen na 800 m dlouhý tunelový systém tvrze.
-
-
-  V září 1938 plně obsazen, v říjnu předán Wehrmachtu. Za války sklad munice,
-  po roce 1948 sklad munice ČSLA — dlouhodobé vojenské využití zachovalo
-  objekt v nadprůměrném stavu. Od roku 1991 součást prohlídkového okruhu
-  tvrze Bouda.
-
 historieMilniky:
-  - datum: 1936–1937
-    udalost: Stavba firmou Záruba-Pfeffermann
-  - datum: září 1938
-    udalost: Plné obsazení strážní jednotkou
   - datum: 30. 9. 1938
     udalost: Mnichov — předání Wehrmachtu
-  - datum: 1939–1945
-    udalost: Sklad munice Wehrmacht
-  - datum: 1948–1989
-    udalost: Sklad munice ČSLA
-  - datum: '1991'
-    udalost: Zpřístupnění v rámci prohlídkového okruhu tvrze Bouda
-
-# === NÁVŠTĚVA ===
 visit: >
-  Vchod do podzemního komplexu tvrze Bouda — začátek 2hodinové prohlídky
-  800m tunelového systému. Prohlídka výhradně s průvodcem, každou celou
-  hodinu. Rezervace silně doporučena v letních měsících. Otevřeno duben–říjen,
-  v hlavní sezóně (červenec–srpen) denně. Aktuální program na bouda.cz.
-
+  Vchod do podzemního komplexu tvrze Bouda — začátek 2hodinové prohlídky 800m tunelového systému. Prohlídka výhradně s
+  průvodcem, každou celou hodinu. Rezervace silně doporučena v letních měsících. Otevřeno duben–říjen, v hlavní sezóně
+  (červenec–srpen) denně. Aktuální program na bouda.cz.
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: starsi-deti
@@ -114,35 +70,29 @@ navsteva:
     - Vlhkost 80–90 %, citlivé na astma.
     - Prohlídka 2 hodiny, součástí je 800 m chůze v podzemí.
     - Rezervujte alespoň týden dopředu ve vrcholné sezóně.
-
-# === SPRÁVCE ===
 spravujicSubjekt:
   nazev: Společnost přátel čs. opevnění Bouda
   typ: klub-vojenske-historie
   web: https://www.bouda.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
   poznamka: Součást areálu dělostřelecké tvrze Bouda (kulturní památka).
-
-# === MÉDIA ===
 photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2000%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2000%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2000%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2000%29.jpg
     alt: Vchodový objekt K-S 21 „Jilm"
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Doln%C3%AD_Bo%C5%99%C3%ADkovice,_K-S_21_(rok_2000).jpg
     category: exterier
     featured: true
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2004%29.jpg/1920px-Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2004%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2004%29.jpg/1920px-Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2004%29.jpg
     alt: K-S 21 — pohled na rampu
-    author: "User:Harold"
+    author: User:Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Doln%C3%AD_Bo%C5%99%C3%ADkovice,_K-S_21_(rok_2004).jpg
     category: detail
-
-# === CROSS-LINKING ===
 related:
   pevnosti:
     - tvrz-bouda
@@ -154,15 +104,12 @@ related:
   typologie:
     - delostrelecka-tvrz
     - pancerovy-zvon
-
-# === ZDROJE ===
 sources:
   - title: Tvrz Bouda — oficiální web
     url: https://www.bouda.cz
     type: web
   - title: Společnost přátel čs. opevnění Bouda
     type: web
-  - title: "Stehlík E.: Dělostřelecká tvrz Bouda"
+  - title: 'Stehlík E.: Dělostřelecká tvrz Bouda'
     type: kniha
-
 updated: '2026-04-20'

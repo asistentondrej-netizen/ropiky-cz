@@ -2,56 +2,39 @@ title: R-S-84 „Arnošt"
 code: R-S-84
 type: pechotni-srub
 line: Rokytnicko / Orlické hory
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.215838
   lon: 16.513051
   elevation: 988
 state: zničeny
-description: Pěchotní srub R-S-84 „Arnošt" na úseku Rokytnicko / Orlické hory. Součást
-  československého těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického
-  Německa.
-history: 'Úsek Rokytnicko v Orlických horách — tvrz Hanička plus pěchotní sruby lemu
-  hřebenů. Nejnavštěvovanější fortifikační region ČR.
-
-
-  Srub R-S-84 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
-
-
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
-
-
-  **GPS:** 50.215838, 16.513051 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.513051&y=50.215838&z=17&source=coor&id=16.513051%2C50.215838).
-
-
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+description: >-
+  Pěchotní srub R-S-84 „Arnošt" na úseku Rokytnicko / Orlické hory. Součást československého těžkého opevnění z let
+  1935–1938, stavěného proti hrozbě nacistického Německa.
 sources:
-- OpenStreetMap (OSM element node/2848237109)
+  - OpenStreetMap (OSM element node/2848237109)
 wikidata_id: Q20479413
 commons_category: R-S 84 Arnošt casemate
 updated: '2026-04-19'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2010%3B_01%29.jpg/1280px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2010%3B_01%29.jpg
-  alt: Pěchotní srub R-S 84 Arnošt
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_Neratov,_R-S_84_(rok_2010;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2002%29.jpg/1920px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2002%29.jpg
-  alt: Pěchotní srub R-S-84
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_Neratov,_R-S_84_(rok_2002).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2010%3B_01%29.jpg/1920px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2010%3B_01%29.jpg
-  alt: Pěchotní srub R-S-84
-  author: User:Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_Neratov,_R-S_84_(rok_2010;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2010%3B_01%29.jpg/1280px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2010%3B_01%29.jpg
+    alt: Pěchotní srub R-S 84 Arnošt
+    author: Harold
+    license: CC BY-SA 3.0
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_Neratov,_R-S_84_(rok_2010;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2002%29.jpg/1920px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2002%29.jpg
+    alt: Pěchotní srub R-S-84
+    author: User:Harold's family
+    license: CC BY-SA 3.0
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_Neratov,_R-S_84_(rok_2002).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2010%3B_01%29.jpg/1920px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Neratov%2C_R-S_84_%28rok_2010%3B_01%29.jpg
+    alt: Pěchotní srub R-S-84
+    author: User:Harold
+    license: CC BY-SA 3.0
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_Neratov,_R-S_84_(rok_2010;_01).jpg

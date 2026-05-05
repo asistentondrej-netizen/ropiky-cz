@@ -2,23 +2,15 @@ title: Muzeum čs. armády Milovice
 code: Pevnostní expozice Milovice
 type: lo-vz-37
 line: Vnitřní obrana (Praha)
-region: "Středočeský kraj"
+region: Středočeský kraj
 location:
   lat: 50.2411
   lon: 14.8858
   address: Milovice, bývalý vojenský prostor
   elevation: 189
-
 built: '1937'
 state: muzeum
-
-description: >
-  Rozsáhlý muzejní areál v bývalém vojenském prostoru Milovice — nejdostupnější
-  fortifikační expozice z Prahy (40 km). Jediná ucelená expozice čs. opevnění
-  ve Středočeském kraji se třemi přesunutými originálními řopíky a kopií
-  pěchotního srubu v měřítku 1:1. Ideální rodinný cíl z metropole.
-
-# === TECHNICKÁ KARTA ===
+description: Rozsáhlý muzejní areál v bývalém vojenském prostoru Milovice — nejdostupnější fortifikační expozice z Prahy (40 km).
 tech:
   odolnost: neurceno
   stupenDokonceni: dokonceny
@@ -27,55 +19,15 @@ tech:
     poznamka: Nezávislé objekty — každý řopík měl posádku 7 mužů.
   komponenty:
     - pancerovy-zvon
-
-# === STAVBA ===
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   zahajeni: '1937'
   dokonceni: '1938'
   poznamka: Přenesení objektů 2008–2012 v rámci programu Ministerstva obrany Záchrana ohrožených fortifikačních objektů.
-
-# === HISTORIE ===
-history: >
-  Muzeum čs. armády Milovice bylo otevřeno v roce 2010 v areálu bývalého
-  vojenského prostoru Milovice-Mladá (ČSLA 1948–1968, sovětská okupační armáda
-  1968–1991). Areál zahrnuje několik desítek hektarů bývalých kasáren,
-  hangárů a cvičných ploch.
-
-
-  Fortifikační expozice muzea vznikla v letech 2008–2012 v rámci projektu
-  „Záchrana ohrožených fortifikačních objektů" financovaného Ministerstvem
-  obrany ČR. Přeneseny byly tři originální řopíky z jižní a jihovýchodní
-  Moravy, které by jinak padly za oběť demolicím nebo degradaci.
-
-
-  V roce 2015 doplněna plnohodnotná kopie pěchotního srubu v měřítku 1:1
-  — unikátní vzdělávací prostor pro pochopení těžkého opevnění bez nutnosti
-  cestovat do pohraničí.
-
-
-  Dnes je Milovice nejdostupnější fortifikační expozicí z Prahy a ideálním
-  vstupem do tématu čs. opevnění pro rodiny, školy a zájmovou veřejnost.
-
-historieMilniky:
-  - datum: 1948–1968
-    udalost: Vojenský prostor ČSLA
-  - datum: 1968–1991
-    udalost: Sovětská okupační armáda
-  - datum: '2010'
-    udalost: Otevření Muzea čs. armády Milovice
-  - datum: 2008–2012
-    udalost: Přenesení tří originálních řopíků z Moravy
-  - datum: '2015'
-    udalost: Dokončení kopie pěchotního srubu 1:1
-
-# === NÁVŠTĚVA ===
 visit: >
-  Největší vojenské muzeum ve Středočeském kraji, nejlépe dostupné pevnostní
-  místo z Prahy (40 km, vlakem 45 min). Otevřeno celoročně, úterý–neděle
-  9:00–17:00 (zima do 16:00). Pondělí zavřeno kromě svátků. Aktuální
-  informace na muzeum-milovice.cz.
-
+  Největší vojenské muzeum ve Středočeském kraji, nejlépe dostupné pevnostní místo z Prahy (40 km, vlakem 45 min).
+  Otevřeno celoročně, úterý–neděle 9:00–17:00 (zima do 16:00). Pondělí zavřeno kromě svátků. Aktuální informace na
+  muzeum-milovice.cz.
 navsteva:
   pristupnost: auto-az-k-objektu
   vhodnostRodiny: idealni
@@ -98,19 +50,13 @@ navsteva:
     - Letní tábor (červenec–srpen) s historickou tematikou.
     - Září — Sudetská krize s komentovanými prohlídkami.
     - Venkovní areál s 40 exponáty techniky (tanky, transportéry, letadla).
-
-# === SPRÁVCE ===
 spravujicSubjekt:
   nazev: Muzeum čs. armády Milovice
   typ: muzeum
   web: https://www.muzeum-milovice.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: zadna
   poznamka: Objekty mimo původní lokalitu, památková ochrana se nevztahuje.
-
-# === MÉDIA ===
 photos:
   - url: /img/forts/german-bunker-on-komensk-ho-street-milovice-07.jpg
     alt: Muzeum čs. armády Milovice — přenesený objekt
@@ -119,8 +65,6 @@ photos:
     source: https://commons.wikimedia.org/wiki/File%3AGerman_bunker_on_Komensk%C3%A9ho_street%2C_Milovice_07.jpg
     category: exterier
     featured: true
-
-# === CROSS-LINKING ===
 related:
   pevnosti:
     - muzeum-drazovice
@@ -128,13 +72,10 @@ related:
     - lo-vz-37-hnanice
   typologie:
     - lo-vz-37
-
-# === ZDROJE ===
 sources:
   - title: Muzeum čs. armády Milovice — oficiální web
     url: https://www.muzeum-milovice.cz
     type: web
   - title: Ministerstvo obrany ČR — program záchrany opevnění
     type: web
-
 updated: '2026-04-20'

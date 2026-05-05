@@ -2,7 +2,7 @@ title: MO-S 38 „Smolkov"
 code: MO-S 38
 type: pechotni-srub
 line: Moravská Ostrava
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.9187
   lon: 18.2145
@@ -10,49 +10,24 @@ location:
   address: Háj ve Slezsku - Smolkov
 built: '1937'
 state: zachovaly
-description: Pěchotní srub „Smolkov" — krajní objekt moravskoostravské linie směrem
-  k opavskému úseku. Volně přístupný.
-history: 'MO-S 38 byl dokončen v roce 1937 jako spojový článek mezi moravskoostravskou
-  a opavskou linií. Oboustranný pěchotní srub II. odolnosti.
-
-
-  Po Mnichovu sloužil jako skladiště. Po válce v majetku ČSA, od 1990 volně přístupný.
-
-  '
-visit: 'Krajní srub — spojuje moravskoostravskou a opavskou linii.
-
-
-  **Přístup:** volně 24/7.
-
-
-  **Co uvidíte:** klasický pěchotní srub v polích, pancéřové zvony. V okolí vidět
-  pokračování linie směrem na Opavu.
-
-
-  **Doporučená délka:** 15 minut.
-
-
-  **Dostupnost:** Autem z Háje (3 km) nebo Opavy (12 km). Vlakem do Hájské + pěšky.
-
-
-  **Doporučeno kombinovat s:** MO-S 37 (soused), OP-S 25, 26 Milostovice (začátek
-  opavské linie, 12 km), Areálem Hlučín-Darkovičky.
-
-  '
+description: Pěchotní srub „Smolkov" — krajní objekt moravskoostravské linie směrem k opavskému úseku. Volně přístupný.
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg/1280px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg
-  alt: Pěchotní srub MO-S 38 Smolkov
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg/1920px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg
-  alt: Pěchotní srub MO-S 38
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_02%29.jpg/1920px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_02%29.jpg
-  alt: Pěchotní srub MO-S 38
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_02).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg/1280px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg
+    alt: Pěchotní srub MO-S 38 Smolkov
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg/1920px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_01%29.jpg
+    alt: Pěchotní srub MO-S 38
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_02%29.jpg/1920px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_MO-S_38_%282015-04-14%3B_02%29.jpg
+    alt: Pěchotní srub MO-S 38
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_02).jpg

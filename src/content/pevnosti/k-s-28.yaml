@@ -2,51 +2,30 @@ title: K-S-28 „Pechotni srub K-S 28 Na panskem"
 code: K-S-28
 type: pechotni-srub
 line: Králicko
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
   lat: 50.085947
   lon: 16.654774
   elevation: 729
 state: neznamy
-description: Pěchotní srub K-S-28 „Pechotni srub K-S 28 Na panskem" na úseku Králicko.
-  Součást československého těžkého opevnění z let 1935–1938, stavěného proti hrozbě
-  nacistického Německa.
-history: 'Úsek Králicko na jižním úpatí Orlických hor — nejhustěji opevněný pás v
-  ČR. Tři dělostřelecké tvrze (Bouda, Adam, Hůrka) + přes 50 srubů.
-
-
-  Srub K-S-28 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
-
-
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
-
-
-  **GPS:** 50.085947, 16.654774 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.654774&y=50.085947&z=17&source=coor&id=16.654774%2C50.085947).
-
-
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+description: >-
+  Pěchotní srub K-S-28 „Pechotni srub K-S 28 Na panskem" na úseku Králicko. Součást československého těžkého opevnění z
+  let 1935–1938, stavěného proti hrozbě nacistického Německa.
 sources:
-- OpenStreetMap (OSM element way/388849151)
+  - OpenStreetMap (OSM element way/388849151)
 wikidata_id: Q69577870
 commons_category: K-S 28 V panském casemate
 updated: '2026-04-19'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mladkov%2C_K-S_28_%28rok_2000%29.jpg/1280px-Mladkov%2C_K-S_28_%28rok_2000%29.jpg
-  alt: Pěchotní srub K-S 28
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Mladkov,_K-S_28_(rok_2000).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mladkov%2C_K-S_28_%28rok_2000%29.jpg/1920px-Mladkov%2C_K-S_28_%28rok_2000%29.jpg
-  alt: Pěchotní srub K-S-28
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Mladkov,_K-S_28_(rok_2000).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mladkov%2C_K-S_28_%28rok_2000%29.jpg/1280px-Mladkov%2C_K-S_28_%28rok_2000%29.jpg
+    alt: Pěchotní srub K-S 28
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Mladkov,_K-S_28_(rok_2000).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mladkov%2C_K-S_28_%28rok_2000%29.jpg/1920px-Mladkov%2C_K-S_28_%28rok_2000%29.jpg
+    alt: Pěchotní srub K-S-28
+    author: User:Harold's family
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Mladkov,_K-S_28_(rok_2000).jpg

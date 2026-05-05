@@ -8,46 +8,26 @@ location:
   lon: 18.0411
   address: Háj ve Slezsku-Smolkov, 747 92
   elevation: 316
-
 built: '1938'
 state: pristupny
-
 description: >
-  Dělostřelecká tvrz československého opevnění na Opavsku, jediná dělostřelecká
-  tvrz v moravskoslezské oblasti. Exteriéry srubů jsou volně přístupné,
-  podzemí pouze při speciálních akcích.
-
-# === TECHNICKÁ KARTA ===
+  Dělostřelecká tvrz československého opevnění na Opavsku, jediná dělostřelecká tvrz v moravskoslezské oblasti.
+  Exteriéry srubů jsou volně přístupné, podzemí pouze při speciálních akcích.
 tech:
   odolnost: IV
   stupenDokonceni: dokonceny
   typObjektu: Dělostřelecká tvrz
   komponenty:
     - pancerovy-zvon
-
-# === STAVBA ===
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   dokonceni: '1938'
-
-# === HISTORIE ===
-history: >
-  Tvrz Smolkov je jednou z dělostřeleckých tvrzí československého opevnění
-  budovaných v rámci Ředitelství opevňovacích prací (ŘOP) ve druhé polovině
-  30. let 20. století. Po Mnichovské dohodě 30. září 1938 byla odevzdána bez boje.
-  Po roce 1989 přešla postupně pod správu místních spolků a obce. Exteriéry
-  srubů jsou dnes volně přístupné.
-
 historieMilniky:
   - datum: 30. 9. 1938
     udalost: Mnichovská dohoda — opevnění odevzdáno bez boje
-
-# === NÁVŠTĚVA ===
 visit: >
-  Tvrz Smolkov nabízí **volně přístupné exteriéry** bojových srubů — lze je
-  obejít po turistické stezce. Podzemní prohlídky jsou pořádány pouze
-  při speciálních akcích (Den otevřených bunkrů, historické rekonstrukce).
-
+  Tvrz Smolkov nabízí **volně přístupné exteriéry** bojových srubů — lze je obejít po turistické stezce. Podzemní
+  prohlídky jsou pořádány pouze při speciálních akcích (Den otevřených bunkrů, historické rekonstrukce).
 navsteva:
   pristupnost: pesky-turisticka
   vhodnostRodiny: doporuceno
@@ -61,23 +41,18 @@ navsteva:
   upozorneni:
     - Mezi objekty je nutná chůze po polní/lesní cestě.
     - Pevné boty doporučeny.
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
   poznamka: Zapsáno mezi kulturní památky ČR.
-
-# === MÉDIA ===
 photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_pohled_z_Pada%C5%99ova_%282015-04-14%3B_01%29.jpg/1280px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_pohled_z_Pada%C5%99ova_%282015-04-14%3B_01%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_pohled_z_Pada%C5%99ova_%282015-04-14%3B_01%29.jpg/1280px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_pohled_z_Pada%C5%99ova_%282015-04-14%3B_01%29.jpg
     alt: Tvrz Smolkov
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_pohled_z_Pada%C5%99ova_(2015-04-14;_01).jpg
     category: exterier
     featured: true
-
-# === CROSS-LINKING ===
 related:
   pevnosti:
     - tvrz-bouda
@@ -89,9 +64,6 @@ related:
   typologie:
     - delostrelecka-tvrz
     - pancerovy-zvon
-
-# === ZDROJE ===
 sources: []
-
 wikidata_id: Q12055020
 updated: '2026-05-05'

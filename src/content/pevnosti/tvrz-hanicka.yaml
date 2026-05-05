@@ -8,16 +8,11 @@ location:
   lon: 16.4925
   address: Rokytnice v Orlických horách, 517 61
   elevation: 790
-
 built: '1938'
 state: muzeum
-
 description: >
-  Dělostřelecká tvrz československého opevnění v Orlických horách.
-  V období studené války byla část tvrze přestavěna pro účely tehdejšího
-  státního aparátu. Dnes je objekt zpřístupněn veřejnosti jako muzeum.
-
-# === TECHNICKÁ KARTA ===
+  Dělostřelecká tvrz československého opevnění v Orlických horách. V období studené války byla část tvrze přestavěna pro
+  účely tehdejšího státního aparátu. Dnes je objekt zpřístupněn veřejnosti jako muzeum.
 tech:
   odolnost: IV
   stupenDokonceni: dokonceny
@@ -25,30 +20,15 @@ tech:
   komponenty:
     - pancerovy-zvon
     - kopule-pozorovaci
-
-# === STAVBA ===
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   dokonceni: '1938'
-
-# === HISTORIE ===
-history: >
-  Tvrz Hanička je jednou z dělostřeleckých tvrzí československého opevnění
-  budovaných v rámci Ředitelství opevňovacích prací (ŘOP) ve druhé polovině
-  30. let 20. století. Po Mnichovské dohodě 30. září 1938 byla odevzdána bez boje.
-  V druhé polovině 20. století byla část objektu využita státními orgány
-  pro účely tehdejší doby. Od 90. let 20. století je objekt zpřístupňován
-  veřejnosti jako muzeum.
-
 historieMilniky:
   - datum: 30. 9. 1938
     udalost: Mnichovská dohoda — opevnění odevzdáno bez boje
-
-# === NÁVŠTĚVA ===
 visit: >
-  Muzeum Tvrz Hanička je otevřeno sezónně, prohlídky probíhají s průvodcem.
-  Aktuální otevírací doba a rezervace na hanicka.cz.
-
+  Muzeum Tvrz Hanička je otevřeno sezónně, prohlídky probíhají s průvodcem. Aktuální otevírací doba a rezervace na
+  hanicka.cz.
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: starsi-deti
@@ -61,29 +41,22 @@ navsteva:
   upozorneni:
     - V podzemí je celoročně nízká teplota — teplé oblečení nutné.
     - Prohlídka zahrnuje schodiště a delší chůzi v podzemí.
-
-# === SPRÁVCE ===
 spravujicSubjekt:
   nazev: Muzeum Hanička
   typ: muzeum
   web: https://www.hanicka.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
   poznamka: Zapsáno mezi kulturní památky ČR.
-
-# === MÉDIA ===
 photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg/1280px-Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg/1280px-Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg
     alt: Interiér podzemí dělostřelecké tvrze Hanička
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Hani%C4%8Dka,_podzem%C3%AD_(rok_2010;_01).jpg
     category: interier
     featured: true
-
-# === CROSS-LINKING ===
 related:
   pevnosti:
     - tvrz-bouda
@@ -95,11 +68,8 @@ related:
   typologie:
     - delostrelecka-tvrz
     - pancerovy-zvon
-
-# === ZDROJE ===
 sources:
   - title: Muzeum Hanička — oficiální web
     url: https://www.hanicka.cz
     type: web
-
 updated: '2026-05-05'

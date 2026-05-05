@@ -2,7 +2,7 @@ title: Řopík 8/13/A-160 S — Boří dvůr
 code: 8/13/A-160 S
 type: lo-vz-37
 line: Valticko — jižní Morava
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.72195
   lon: 16.82206
@@ -10,28 +10,16 @@ location:
   address: Genžova cesta, Poštorná (Boří les, samota Boří dvůr)
 built: '1938'
 state: pristupny
-description: Řopík typ A-160 u samoty Boří dvůr v Boří lese mezi Poštornou a Valticemi. Jeden z nejlépe zachovalých objektů celé linie, doložený na Wikimedia Commons vlastní fotografií. „S" v kódu = směrová orientace střílen.
-history: |
-  Betonován v roce 1938, typ A-160 zesílený (80 cm čelní stěna, odolnost 150 mm). Objekt kryl přechod přes Boří les směrem od rakouské hranice. Samota Boří dvůr, historické lichtenštejnské hospodářství, poskytovala dozor a ubytování pro pohotovostní osádku v období září 1938. Po Mnichovu předán Wehrmachtu. Německé zkoušky protitankové munice v letech 1939–40 zanechaly stopy průstřelů na pravé stěně kazematy — dodnes viditelné. Od 90. let udržován spolkem KVH Valtice.
-visit: |
-  Nejnavštěvovanější řopík Boří lesa — dobře značený.
-  
-  **Přístup:** volně, 24/7. Od samoty Boří dvůr 200 m po Genžově cestě.
-  
-  **Co uvidíte:** LO vz. 37 typ A-160, dvě střílny, zachovaný vchod s pancéřovými dveřmi (pozůstatky). Průstřely po německých testech — nejzajímavější detail objektu.
-  
-  **Doporučená délka:** 20–30 minut.
-  
-  **Dostupnost:** Autem po Genžově cestě z Poštorné (3 km) nebo z Valtic (6 km). Na kole po lesních cyklotrasách.
-  
-  **Doporučeno kombinovat s:** samotou Boří dvůr, dalšími objekty v Boří lese, návštěvou Břeclavi.
+description: >-
+  Řopík typ A-160 u samoty Boří dvůr v Boří lese mezi Poštornou a Valticemi. Jeden z nejlépe zachovalých objektů celé
+  linie, doložený na Wikimedia Commons vlastní fotografií. „S" v kódu = směrová orientace střílen.
 photos:
-- url: /img/forts/-op-k-8-13-a-160-s-bo-dv-r.jpg
-  alt: Řopík 8/13/A-160 S u Bořího dvora — Boří les, Poštorná
-  author: Doronenko
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_8-13-A-160_S_Bo%C5%99%C3%AD_Dv%C5%AFr.jpg
+  - url: /img/forts/-op-k-8-13-a-160-s-bo-dv-r.jpg
+    alt: Řopík 8/13/A-160 S u Bořího dvora — Boří les, Poštorná
+    author: Doronenko
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:%C5%98op%C3%ADk_8-13-A-160_S_Bo%C5%99%C3%AD_Dv%C5%AFr.jpg
 sources:
-- OpenStreetMap — military=bunker
-- Wikimedia Commons
+  - OpenStreetMap — military=bunker
+  - Wikimedia Commons
 updated: '2026-04-19'

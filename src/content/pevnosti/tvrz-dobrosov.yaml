@@ -8,15 +8,11 @@ location:
   lon: 16.1856
   address: Dobrošov, 547 01 Náchod
   elevation: 613
-
-built: '1938 (nedokončeno)'
+built: 1938 (nedokončeno)
 state: muzeum
-
 description: >
-  Nedokončená dělostřelecká tvrz československého opevnění u Náchoda,
-  v současnosti zpřístupněná jako muzeum spravované Muzeem Náchodska.
-
-# === TECHNICKÁ KARTA ===
+  Nedokončená dělostřelecká tvrz československého opevnění u Náchoda, v současnosti zpřístupněná jako muzeum spravované
+  Muzeem Náchodska.
 tech:
   odolnost: IV
   stupenDokonceni: rozestaveny
@@ -24,33 +20,15 @@ tech:
   komponenty:
     - pancerovy-zvon
     - kopule-pozorovaci
-
-# === STAVBA ===
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   dokonceni: 1938 (nedokončeno)
-
-# === HISTORIE ===
-history: >
-  Tvrz Dobrošov u Náchoda byla budována v rámci Ředitelství opevňovacích prací
-  (ŘOP) jako součást československého opevnění ve druhé polovině 30. let 20. století.
-  V září 1938 byla výstavba v rozestavěném stavu — ne všechny plánované objekty
-  byly dokončeny. Po Mnichovské dohodě 30. září 1938 byla výstavba zastavena.
-  Od druhé poloviny 20. století je objekt postupně zpřístupňován veřejnosti.
-  Dnes je jednou z navštěvovaných pevnostních památek a je spravován Muzeem Náchodska.
-
 historieMilniky:
   - datum: 30. 9. 1938
     udalost: Mnichovská dohoda — výstavba zastavena
-  - datum: '2021'
-    udalost: Otevření po rozsáhlé rekonstrukci Muzea Náchodska
-
-# === NÁVŠTĚVA ===
 visit: >
-  Muzeum Pevnost Dobrošov spravuje Muzeum Náchodska. Otevřeno sezónně.
-  Prohlídka podzemím probíhá s průvodcem. Aktuální informace
-  na muzeumnachodska.cz.
-
+  Muzeum Pevnost Dobrošov spravuje Muzeum Náchodska. Otevřeno sezónně. Prohlídka podzemím probíhá s průvodcem. Aktuální
+  informace na muzeumnachodska.cz.
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: starsi-deti
@@ -63,29 +41,22 @@ navsteva:
   upozorneni:
     - V podzemí je celoročně nízká teplota — teplé oblečení.
     - Prohlídka zahrnuje schody a delší chůzi.
-
-# === SPRÁVCE ===
 spravujicSubjekt:
   nazev: Muzeum Náchodska
   typ: muzeum
   web: https://www.muzeumnachodska.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
   poznamka: Zapsáno mezi kulturní památky ČR (NKP).
-
-# === MÉDIA ===
 photos:
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg/1280px-N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg/1280px-N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg
     alt: Tvrz Dobrošov — pěchotní srub N-S 72
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:N%C3%A1chod,_Dobro%C5%A1ov,_N-S_72_(rok_2001;_01).jpg
     category: exterier
     featured: true
-
-# === CROSS-LINKING ===
 related:
   pevnosti:
     - tvrz-bouda
@@ -97,12 +68,9 @@ related:
   typologie:
     - delostrelecka-tvrz
     - pancerovy-zvon
-
-# === ZDROJE ===
 sources:
   - title: Muzeum Náchodska — Pevnost Dobrošov
     url: https://www.muzeumnachodska.cz
     type: web
-
 wikidata_id: Q1164463
 updated: '2026-05-05'

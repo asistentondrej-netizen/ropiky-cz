@@ -2,49 +2,25 @@ title: K-BA-S-21
 code: K-BA-S-21
 type: pechotni-srub
 line: Králicko
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
   lat: 50.074947
   lon: 16.684684
   elevation: 803
 state: zachovaly
-description: Pěchotní srub K-BA-S-21 náležející k dělostřelecké tvrzi Bouda na úseku
-  Králicko. Součást československého těžkého opevnění z let 1935–1938.
-history: 'Úsek Králicko na jižním úpatí Orlických hor — nejhustěji opevněný pás v
-  ČR. Tři dělostřelecké tvrze (Bouda, Adam, Hůrka) + přes 50 srubů.
-
-
-  Srub K-BA-S-21 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
-
-
-  Srub byl stavěn jako součást obranného obvodu tvrze Bouda — jednoho z hlavních dělostřeleckých
-  objektů plánované čs. linie.
-
-
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
-
-
-  **GPS:** 50.074947, 16.684684 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.684684&y=50.074947&z=17&source=coor&id=16.684684%2C50.074947).
-
-
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+description: >-
+  Pěchotní srub K-BA-S-21 náležející k dělostřelecké tvrzi Bouda na úseku Králicko. Součást československého těžkého
+  opevnění z let 1935–1938.
 sources:
-- OpenStreetMap (OSM element way/390422133)
+  - OpenStreetMap (OSM element way/390422133)
 wikidata_id: Q69520539
 commons_category: K-Ba-S 21 Kazi casemate
 updated: '2026-04-19'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2005%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2005%3B_01%29.jpg
-  alt: Bojový srub tvrze Bouda K-Ba-S 21
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Doln%C3%AD_Bo%C5%99%C3%ADkovice,_K-S_21_(rok_2005;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2005%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2005%3B_01%29.jpg
+    alt: Bojový srub tvrze Bouda K-Ba-S 21
+    author: Harold
+    license: CC BY-SA 3.0
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Doln%C3%AD_Bo%C5%99%C3%ADkovice,_K-S_21_(rok_2005;_01).jpg

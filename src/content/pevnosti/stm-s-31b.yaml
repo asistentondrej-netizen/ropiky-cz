@@ -2,55 +2,36 @@ title: STM-S-31b „Ozdravovna"
 code: STM-S-31b
 type: pechotni-srub
 line: Staroměstsko
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.171914
   lon: 16.949581
   elevation: 589
 state: zachovaly
-description: Pěchotní srub STM-S-31b „Ozdravovna" na úseku Staroměstsko. Součást československého
-  těžkého opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
-history: 'Úsek Staré Město — opevnění podél řeky Moravy mezi Jeseníky a Králicko.
-  Kratší, obtížnější terén.
-
-
-  Srub STM-S-31b byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
-
-
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
-
-
-  **GPS:** 50.171914, 16.949581 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.949581&y=50.171914&z=17&source=coor&id=16.949581%2C50.171914).
-
-
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+description: >-
+  Pěchotní srub STM-S-31b „Ozdravovna" na úseku Staroměstsko. Součást československého těžkého opevnění z let 1935–1938,
+  stavěného proti hrozbě nacistického Německa.
 sources:
-- OpenStreetMap (OSM element way/34028342)
+  - OpenStreetMap (OSM element way/34028342)
 wikidata_id: Q98601496
 commons_category: StM-S 31b Ozdravovna casemate
 updated: '2026-04-19'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Star%C3%A9_M%C4%9Bsto%2C_StM-S_31b_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_31b_%28rok_2003%29.jpg
-  alt: Pěchotní srub StM-S 31b
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_31b_(rok_2003).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_01.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_01.jpg
-  alt: Pěchotní srub STM-S-31b
-  author: Michal Gregor
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_01.jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_02.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_02.jpg
-  alt: Pěchotní srub STM-S-31b
-  author: Michal Gregor
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_02.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Star%C3%A9_M%C4%9Bsto%2C_StM-S_31b_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_31b_%28rok_2003%29.jpg
+    alt: Pěchotní srub StM-S 31b
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_31b_(rok_2003).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_01.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_01.jpg
+    alt: Pěchotní srub STM-S-31b
+    author: Michal Gregor
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_01.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_02.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_02.jpg
+    alt: Pěchotní srub STM-S-31b
+    author: Michal Gregor
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_31b_Ozdravovna_02.jpg

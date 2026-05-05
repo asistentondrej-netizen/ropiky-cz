@@ -2,50 +2,25 @@ title: N-SK-S-48
 code: N-SK-S-48
 type: pechotni-srub
 line: Náchodsko
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.355024
   lon: 16.296114
   elevation: 724
 state: pristupny
-description: Pěchotní srub N-SK-S-48 náležející k dělostřelecké tvrzi Skutina na úseku
-  Náchodsko. Součást československého těžkého opevnění z let 1935–1938.
-history: 'Úsek Náchodsko v podhůří Orlických hor — tvrze Dobrošov a Skutina plus 30+
-  pěchotních srubů. Stavěno 1937–1938.
-
-
-  Srub N-SK-S-48 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
-
-
-  Srub byl stavěn jako součást obranného obvodu tvrze Skutina — jednoho z hlavních
-  dělostřeleckých objektů plánované čs. linie.
-
-
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
-
-
-  **GPS:** 50.355024, 16.296114 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.296114&y=50.355024&z=17&source=coor&id=16.296114%2C50.355024).
-
-
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+description: >-
+  Pěchotní srub N-SK-S-48 náležející k dělostřelecké tvrzi Skutina na úseku Náchodsko. Součást československého těžkého
+  opevnění z let 1935–1938.
 sources:
-- OpenStreetMap (OSM element way/389099980)
+  - OpenStreetMap (OSM element way/389099980)
 wikidata_id: Q62427266
-wikipedia_url: "https://cs.wikipedia.org/wiki/N-Sk-S_48_U_stodol"
+wikipedia_url: https://cs.wikipedia.org/wiki/N-Sk-S_48_U_stodol
 commons_category: N-Sk-S 48 U stodol casemate
 updated: '2026-04-19'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sn%C4%9B%C5%BEn%C3%A9%2C_N-S_48_%28rok_2002%3B_01%29.jpg/1280px-Sn%C4%9B%C5%BEn%C3%A9%2C_N-S_48_%28rok_2002%3B_01%29.jpg
-  alt: Pěchotní srub N-Sk-S 48
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Sn%C4%9B%C5%BEn%C3%A9,_N-S_48_(rok_2002;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sn%C4%9B%C5%BEn%C3%A9%2C_N-S_48_%28rok_2002%3B_01%29.jpg/1280px-Sn%C4%9B%C5%BEn%C3%A9%2C_N-S_48_%28rok_2002%3B_01%29.jpg
+    alt: Pěchotní srub N-Sk-S 48
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Sn%C4%9B%C5%BEn%C3%A9,_N-S_48_(rok_2002;_01).jpg

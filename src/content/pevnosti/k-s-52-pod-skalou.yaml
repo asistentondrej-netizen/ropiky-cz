@@ -2,59 +2,31 @@ title: K-S 52 „Pod skalou"
 code: K-S 52
 type: pechotni-srub
 line: Králíky
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
   lat: 50.132888
   lon: 16.580098
   elevation: 648
 built: '1938'
 state: pristupny
-description: Pěchotní srub u Klášterce nad Orlicí — soukromé muzeum s bohatou sbírkou
-  původní výzbroje a výstroje čs. armády. Odolnost II, jeden z posledních stavěných
-  objektů králického úseku.
+description: >-
+  Pěchotní srub u Klášterce nad Orlicí — soukromé muzeum s bohatou sbírkou původní výzbroje a výstroje čs. armády.
+  Odolnost II, jeden z posledních stavěných objektů králického úseku.
 sources:
-- Wikimedia Commons
+  - Wikimedia Commons
 wikidata_id: Q70635003
 commons_category: K-S 52 Pod skalou casemate
 updated: '2026-04-18'
-visit: 'Součást tvrze Hůrka — druhé nejvýznamnější rekonstrukce dělostřelecké tvrze
-  v ČR (po Bouda). K-S 52 je jedním z pěti bojových objektů tvrze. Provozuje Vojensko-historický
-  klub Pevnost Králíky.
-
-
-  **Otevírací doba:** duben–říjen, víkendy 10:00–17:00. V hlavní sezóně (červenec–srpen)
-  i ve všední dny 10:00–17:00. Prohlídky s průvodcem každou celou hodinu.
-
-
-  **Vstupné:** cca 180 Kč dospělí, 120 Kč děti/studenti. Kombinovaná vstupenka s dalšími
-  objekty tvrze. Aktuální info na pevnostkraliky.cz.
-
-
-  **Co uvidíte:** kazematy srubu, padací most, pancéřové dveře, ubytovny posádky,
-  napojení na podzemí tvrze, skladiště munice. V okolí stopy po osádkových chodbách.
-  Exteriér krásně zasazený do skalnatého terénu Suchého vrchu.
-
-
-  **Doporučená délka:** 60 minut pro samotný K-S 52, celá tvrz Hůrka 2–3 hodiny (s
-  dělostřeleckým srubem, vchodovým objektem a prohlídkou podzemí).
-
-
-  **Dostupnost:** Autem z Králík (10 km) po silnici na Červenou Vodu, parkoviště u
-  tvrze. Vlakem do Králík + autobus nebo pěšky po naučné stezce „Betonová hranice"
-  (8 km).
-
-
-  **Doporučeno kombinovat s:** tvrz Bouda (40 km přes Mladkov, spektakulární podzemí),
-  Vojenské muzeum Králíky, pěchotní srub K-S 14 U cihelny nebo Memoriál čs. opevnění
-  v Králíkách. Ideální víkendová fortifikační túra.'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_K-S_52_%28rok_2002%29.jpg/1280px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_K-S_52_%28rok_2002%29.jpg
-  alt: Pěchotní srub K-S 52
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_K-S_52_(rok_2002).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_K-S_52_%28rok_2002%29.jpg/1920px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_K-S_52_%28rok_2002%29.jpg
-  alt: Pěchotní srub K-S 52
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_K-S_52_(rok_2002).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_K-S_52_%28rok_2002%29.jpg/1280px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_K-S_52_%28rok_2002%29.jpg
+    alt: Pěchotní srub K-S 52
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_K-S_52_(rok_2002).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_K-S_52_%28rok_2002%29.jpg/1920px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_K-S_52_%28rok_2002%29.jpg
+    alt: Pěchotní srub K-S 52
+    author: User:Harold's family
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_K-S_52_(rok_2002).jpg

@@ -2,55 +2,34 @@ title: K-S-32
 code: K-S-32
 type: pechotni-srub
 line: Králicko
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
   lat: 50.096791
   lon: 16.644091
   elevation: 564
 state: zachovaly
-description: Pěchotní srub K-S-32 na úseku Králicko. Součást československého těžkého
-  opevnění z let 1935–1938, stavěného proti hrozbě nacistického Německa.
-history: 'Úsek Králicko na jižním úpatí Orlických hor — nejhustěji opevněný pás v
-  ČR. Tři dělostřelecké tvrze (Bouda, Adam, Hůrka) + přes 50 srubů.
-
-
-  Srub K-S-32 byl součástí této linie. Stavební práce probíhaly v letech 1935–1938,
-  dokončení a výzbroj závisely na fázi budování daného úseku.
-
-
-  Po Mnichovské dohodě (září 1938) byla linie opuštěna bez boje a objekty předány
-  Wehrmachtu. Za války sloužily jako sklady nebo cíle střeleckých zkoušek. Po roce
-  1948 byly některé objekty v rámci akce „Trvalé objekty" poškozeny; jiné přežily
-  v lesním či polním terénu.'
-visit: '**Stav:** objekt je pravděpodobně v ruinózním nebo zarostlém stavu, bez oficiální
-  péče. Před návštěvou ověřte přístupnost — může být v soukromém pozemku nebo v chráněné
-  oblasti.
-
-
-  **GPS:** 50.096791, 16.644091 — zadat do navigace nebo [Mapy.cz](https://mapy.cz/zakladni?x=16.644091&y=50.096791&z=17&source=coor&id=16.644091%2C50.096791).
-
-
-  **Doporučení:** Nevstupujte do objektu bez baterky a vhodné obuvi. Interiér může
-  být zaplavený, zřícený nebo obsahovat ostré betonové výstupky. V lesním terénu doporučujeme
-  GPS navigaci.'
+description: >-
+  Pěchotní srub K-S-32 na úseku Králicko. Součást československého těžkého opevnění z let 1935–1938, stavěného proti
+  hrozbě nacistického Německa.
 sources:
-- OpenStreetMap (OSM element way/318921113)
+  - OpenStreetMap (OSM element way/318921113)
 wikidata_id: Q69578660
 commons_category: K-S 32 Na růžku casemate
 updated: '2026-04-19'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lichkov%2C_K-S_32_%28rok_2003%29.jpg/1280px-Lichkov%2C_K-S_32_%28rok_2003%29.jpg
-  alt: Pěchotní srub K-S 32
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Lichkov,_K-S_32_(rok_2003).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/6/60/K-S32.JPG
-  alt: Pěchotní srub K-S-32
-  author: Railfort
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File:K-S32.JPG
-- url: https://upload.wikimedia.org/wikipedia/commons/b/b9/K-S_32.JPG
-  alt: Pěchotní srub K-S-32
-  author: Martin Provazník
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File:K-S_32.JPG
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Lichkov%2C_K-S_32_%28rok_2003%29.jpg/1280px-Lichkov%2C_K-S_32_%28rok_2003%29.jpg
+    alt: Pěchotní srub K-S 32
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Lichkov,_K-S_32_(rok_2003).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/6/60/K-S32.JPG
+    alt: Pěchotní srub K-S-32
+    author: Railfort
+    license: Public domain
+    source: https://commons.wikimedia.org/wiki/File:K-S32.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/b/b9/K-S_32.JPG
+    alt: Pěchotní srub K-S-32
+    author: Martin Provazník
+    license: Public domain
+    source: https://commons.wikimedia.org/wiki/File:K-S_32.JPG

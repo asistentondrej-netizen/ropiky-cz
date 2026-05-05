@@ -10,31 +10,34 @@ location:
 state: neznamy
 description: Lehký objekt vz. 37 „řopík" A-4/51/A-200 Y. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-- title: OpenStreetMap
-  url: https://www.openstreetmap.org/way/440913013
-  type: web
-- title: 'NPÚ Památkový katalog: bunkr'
-  url: https://pamatkovykatalog.cz/?detail=14282584
-  type: web
-- title: 'Wikipedie: Bunkr (Bratronice)'
-  url: https://cs.wikipedia.org/wiki/Bunkr_(Bratronice)
-  type: web
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/440913013
+    type: web
+  - title: 'NPÚ Památkový katalog: bunkr'
+    url: https://pamatkovykatalog.cz/?detail=14282584
+    type: web
+  - title: 'Wikipedie: Bunkr (Bratronice)'
+    url: https://cs.wikipedia.org/wiki/Bunkr_(Bratronice)
+    type: web
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
-  alt: A-4/51/A-200 Y
-  author: Janmanak
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
-  alt: A-4/51/A-200 Y
-  author: Janmanak
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
-  alt: A-4/51/A-200 Y
-  author: Janmanak
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
+    alt: A-4/51/A-200 Y
+    author: Janmanak
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-10_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
+    alt: A-4/51/A-200 Y
+    author: Janmanak
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-11_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg/1920px-A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
+    alt: A-4/51/A-200 Y
+    author: Janmanak
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:A-4_51_A-200Y-12_Za_Doln%C3%ADm_Bezd%C4%9Bkovem.jpg
 wikidata_id: Q37015066
 wikipedia_url: https://cs.wikipedia.org/wiki/Bunkr_(Bratronice)
 commons_category: A-4/51/A-200 Y light pillbox
@@ -43,4 +46,3 @@ pamatka:
   status: kulturni-pamatka
   cisloUspka: 11670/2-4350
 built: '1937'
-history: 'Bunkr (označovaný A4/51/A-200) je fortifikační stavba zbudovaná pod silnicí mezi obcemi Bratronice a Dolní Bezděkov v okrese Kladno ve Středočeském kraji České republiky. Je součástí systému označovaného Pražská čára vinoucího se od Mělníka přes Slaný a Beroun až ke Slapům u řeky Vltavy, který měl za úkol zpomalit očekávaný postup německých ozbrojených sil. (Zdroj: Wikipedie, CC BY-SA)'

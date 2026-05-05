@@ -2,55 +2,36 @@ title: B-S 4 „Lány"
 code: B-S 4
 type: pechotni-srub
 line: Bohumín
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 48.12761111
   lon: 17.07208333
   elevation: 139
 built: '1938'
 state: muzeum
-description: Lehký objekt vzor 37 typ A-140 v Petržalce — Lány. Součást linie „Bratislavské
-  predmostie". Volně přístupný, péče občanského sdružení Zachráňme petržalské bunkre.
+description: >-
+  Lehký objekt vzor 37 typ A-140 v Petržalce — Lány. Součást linie „Bratislavské predmostie". Volně přístupný, péče
+  občanského sdružení Zachráňme petržalské bunkre.
 sources:
-- Wikimedia Commons
+  - Wikimedia Commons
 wikidata_id: Q13376686
 commons_category: B-S 4 Lány casemate
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bratislava%2C_Petr%C5%BEalka%2C_B-S_4_%282013-10-25%3B_08%29.jpg/1280px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_4_%282013-10-25%3B_08%29.jpg
-  alt: Pěchotní srub B-S 4 „Lány"
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_4_(2013-10-25;_08).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/B-S_4_L%C3%A1ny.JPG/1920px-B-S_4_L%C3%A1ny.JPG
-  alt: Pěchotní srub B-S 4
-  author: Lukáš Malý
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File:B-S_4_L%C3%A1ny.JPG
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/B-S_4_L%C3%A1ny_casemate._%2851091372834%29.jpg/1920px-B-S_4_L%C3%A1ny_casemate._%2851091372834%29.jpg
-  alt: Pěchotní srub B-S 4
-  author: young shanahan from Bratislava, Slovakia
-  license: CC BY 2.0
-  source: https://commons.wikimedia.org/wiki/File:B-S_4_L%C3%A1ny_casemate._(51091372834).jpg
-visit: 'Volně přístupný pěchotní srub B-S 4 „Lány" v Bratislavě-Petržalce. Součást
-  obranné linie podél Dunaje proti očekávanému útoku z Rakouska/Maďarska.
-
-
-  **Přístup:** celoročně 24/7, zdarma. Exteriér kdykoliv.
-
-
-  **Co uvidíte:** pěchotní srub II. odolnosti v parkové úpravě městské části — střílny,
-  pozorovací zvony, palebné průhledy. Objekt je dobře udržovaný, v bezprostředním
-  okolí památníku 1938.
-
-
-  **Doporučená délka:** 15–20 minut.
-
-
-  **Dostupnost:** MHD trolejbus č. 201 nebo 202, nebo autobus č. 91 (zastávka Rusovská
-  cesta). Autem snadné parkování.
-
-
-  **Doporučeno kombinovat s:** ostatními petržalskými sruby (B-S 1, 5, 6, 8), procházkou
-  podél Dunaje, Bratislavským hradem. Celodenní program s fortifikační a historickou
-  tématikou.'
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bratislava%2C_Petr%C5%BEalka%2C_B-S_4_%282013-10-25%3B_08%29.jpg/1280px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_4_%282013-10-25%3B_08%29.jpg
+    alt: Pěchotní srub B-S 4 „Lány"
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Bratislava,_Petr%C5%BEalka,_B-S_4_(2013-10-25;_08).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/B-S_4_L%C3%A1ny.JPG/1920px-B-S_4_L%C3%A1ny.JPG
+    alt: Pěchotní srub B-S 4
+    author: Lukáš Malý
+    license: Public domain
+    source: https://commons.wikimedia.org/wiki/File:B-S_4_L%C3%A1ny.JPG
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/B-S_4_L%C3%A1ny_casemate._%2851091372834%29.jpg/1920px-B-S_4_L%C3%A1ny_casemate._%2851091372834%29.jpg
+    alt: Pěchotní srub B-S 4
+    author: young shanahan from Bratislava, Slovakia
+    license: CC BY 2.0
+    source: https://commons.wikimedia.org/wiki/File:B-S_4_L%C3%A1ny_casemate._(51091372834).jpg

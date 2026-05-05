@@ -2,7 +2,7 @@ title: B-S 7 „Obora"
 code: B-S 7
 type: pechotni-srub
 line: Bratislava-Petržalka
-region: "Bratislavský kraj"
+region: Bratislavský kraj
 location:
   lat: 48.1292
   lon: 17.1049
@@ -10,59 +10,29 @@ location:
   address: Bratislava-Petržalka, Obora
 built: '1937'
 state: zachovaly
-description: Volně přístupný pěchotní srub „Obora" v zalesněné části Petržalky. Součást
-  obranné linie Dunaje proti maďarské a rakouské armádě.
-history: 'B-S 7 byl betonován na podzim 1937 jako jeden z 18 pěchotních srubů bratislavské
-  linie. Oboustranný srub II. odolnosti s plánovanou výzbrojí 2× TK vz. 37 a 1× protitankový
-  kanón vz. 36.
-
-
-  Po okupaci Wehrmachtem v roce 1939 objekt nebyl zkušebně střílen (na rozdíl od srubů
-  v Sudetech). Sloužil jako skladiště. Po roce 1945 byl ponechán ve vlastnictví čs.
-  armády, nyní patří městské části Bratislava-Petržalka.
-
-  '
-visit: 'Volně přístupný pěchotní srub v lesnatém prostředí Petržalky — součást „bratislavské
-  stezky opevnění".
-
-
-  **Přístup:** celoročně volně, 24/7, zdarma. Exteriér kdykoliv, interiér většinou
-  zavřený (nárazové otevření KVH).
-
-
-  **Co uvidíte:** pěchotní srub II. odolnosti s pancéřovými zvony (dochované), střílny,
-  vchod s obranou, stopy po překážkovém systému. Objekt je nezrekonstruovaný, autentický.
-
-
-  **Doporučená délka:** 15–20 minut.
-
-
-  **Dostupnost:** MHD trolejbus č. 201 nebo 202 (zastávka Pečnianská). Autem snadné
-  parkování na sídlišti. Pěšky nebo kolo z centra Bratislavy (5–6 km podél Dunaje).
-
-
-  **Doporučeno kombinovat s:** B-S 8 Hřbitov (muzeum, 1 km), B-S 5 Žabí most, B-S
-  6 Vrba (500 m). Ideální součást „petržalské fortifikační stezky" — 6–8 srubů za
-  2–3 hodiny.
-
-  '
+description: >-
+  Volně přístupný pěchotní srub „Obora" v zalesněné části Petržalky. Součást obranné linie Dunaje proti maďarské a
+  rakouské armádě.
 sources:
-- 'Martin Slezák: Bratislavské opevnení 1938'
-- bs8.sk
+  - 'Martin Slezák: Bratislavské opevnení 1938'
+  - bs8.sk
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bunker_B-S-7_Cviciste_-_panoramio.jpg/1280px-Bunker_B-S-7_Cviciste_-_panoramio.jpg
-  alt: Pěchotní srub B-S 7 v Bratislavě-Petržalce
-  author: Wikimedia Commons (Panoramio)
-  license: CC BY 3.0
-  source: https://commons.wikimedia.org/wiki/File:Bunker_B-S-7_Cviciste_-_panoramio.jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bunker_B-S-7_Cviciste_-_panoramio.jpg/1920px-Bunker_B-S-7_Cviciste_-_panoramio.jpg
-  alt: Pěchotní srub B-S 7
-  author: bredus
-  license: CC BY 3.0
-  source: https://commons.wikimedia.org/wiki/File:Bunker_B-S-7_Cviciste_-_panoramio.jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg/1920px-Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg
-  alt: Pěchotní srub B-S 7
-  author: TeodS
-  license: CC0
-  source: https://commons.wikimedia.org/wiki/File:Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bunker_B-S-7_Cviciste_-_panoramio.jpg/1280px-Bunker_B-S-7_Cviciste_-_panoramio.jpg
+    alt: Pěchotní srub B-S 7 v Bratislavě-Petržalce
+    author: Wikimedia Commons (Panoramio)
+    license: CC BY 3.0
+    source: https://commons.wikimedia.org/wiki/File:Bunker_B-S-7_Cviciste_-_panoramio.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bunker_B-S-7_Cviciste_-_panoramio.jpg/1920px-Bunker_B-S-7_Cviciste_-_panoramio.jpg
+    alt: Pěchotní srub B-S 7
+    author: bredus
+    license: CC BY 3.0
+    source: https://commons.wikimedia.org/wiki/File:Bunker_B-S-7_Cviciste_-_panoramio.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg/1920px-Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg
+    alt: Pěchotní srub B-S 7
+    author: TeodS
+    license: CC0
+    source: https://commons.wikimedia.org/wiki/File:Bunker_B-S_7_Cvi%C4%8Di%C5%A1t%C4%9B.jpg

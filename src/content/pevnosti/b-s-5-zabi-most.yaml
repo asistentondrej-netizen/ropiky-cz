@@ -2,26 +2,17 @@ title: B-S 5 „Žabí most"
 code: B-S 5
 type: pechotni-srub
 line: Bratislava-Petržalka
-region: "Bratislavský kraj"
+region: Bratislavský kraj
 location:
   lat: 48.131
   lon: 17.1175
   address: Bratislava-Petržalka, Chorvátske rameno
   elevation: 134
-
 built: '1938'
 state: muzeum
-
-description: >
-  Vlajkový rekonstruovaný pěchotní srub bratislavské Petržalky. Jednostranný
-  srub II. stupně odolnosti je součástí expozice „Petržalské bunkre" spolku
-  Zachráňme petržalské bunkre — jediné ucelené prohlídkové trasy čs. opevnění
-  na Slovensku. Zrekonstruovaný interiér s replikami zbraní, pancéřovými
-  dveřmi a pozorovacím zvonem.
-
-# === TECHNICKÁ KARTA ===
+description: Vlajkový rekonstruovaný pěchotní srub bratislavské Petržalky.
 tech:
-  odolnost: 'II'
+  odolnost: II
   stupenDokonceni: dokonceny
   typObjektu: Pěchotní srub jednostranný (typ A)
   orientace: Palebné pole přes Chorvátske rameno
@@ -43,63 +34,12 @@ tech:
     material: Železobeton B500
   komponenty:
     - pancerovy-zvon
-
-# === STAVBA ===
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   stavebniFirma: Ing. Záruba-Pfeffermann, Brno
   zahajeni: '1937'
   dokonceni: '1938'
   poznamka: Součást bratislavské čáry proti hrozbě z Maďarska a Rakouska.
-
-# === HISTORIE ===
-history: >
-  B-S 5 „Žabí most" byl vybudován v letech 1937–1938 firmou Ing.
-  Záruba-Pfeffermann Brno jako součást obrany bratislavské čáry. Jednostranný
-  pěchotní srub II. stupně s výzbrojí 2 TK vz. 37, 1 PTK vz. 36 a 1 LK v zvonu.
-
-
-  Název „Žabí most" pochází z pomístního označení — v blízkosti objektu se
-  nacházel malý most přes Chorvátske rameno, kde v jarních měsících žily velké
-  populace žab. V září 1938 plně obsazen posádkou slovenské části čs. armády
-  (pluk 39 „Výhlad") pod velením nadp. Štefana Adámka.
-
-
-  Po Vídeňské arbitráži (listopad 1938) byla Petržalka přičleněna k Německu.
-  B-S 5 zůstal v německé části, Wehrmacht demontoval výzbroj. Za války sloužil
-  jako sklad munice Luftwaffe.
-
-
-  Po roce 1945 objekt převzala ČSLA, v 50.–80. letech sloužil jako sklad
-  pohraniční stráže. Po roce 1989 opuštěn, v 90. letech devastován vandaly.
-
-
-  Systematická rekonstrukce proběhla v letech 2007–2015 spolkem Zachráňme
-  petržalské bunkre — obnoven interiér, instalovány repliky lafet M, obnoven
-  pozorovací zvon a vchod s pancéřovými dveřmi.
-
-historieMilniky:
-  - datum: 1937–1938
-    udalost: Stavba firmou Záruba-Pfeffermann
-  - datum: září 1938
-    udalost: Plné obsazení — nadp. Adámek, pluk 39 „Výhlad"
-  - datum: listopad 1938
-    udalost: Vídeňská arbitráž — připojení k Německu
-  - datum: 1939–1945
-    udalost: Sklad munice Luftwaffe
-  - datum: 1948–1989
-    udalost: Sklad pohraniční stráže ČSLA
-  - datum: 2007–2015
-    udalost: Muzejní rekonstrukce (Zachráňme petržalské bunkre)
-
-# === NÁVŠTĚVA ===
-visit: >
-  Součást tematické trasy „Petržalské bunkre" — jediné ucelené expozice čs.
-  opevnění na Slovensku. Otevřeno víkendy duben–říjen 13:00–17:00, prohlídky
-  s průvodcem každou celou hodinu. Každoročně v září se koná Den čs. opevnění
-  s rekonstrukcí bojové pohotovosti 1938. Aktuální program na
-  zacranmepetrzalskebunkre.sk.
-
 navsteva:
   pristupnost: pesky-turisticka
   vhodnostRodiny: doporuceno
@@ -121,19 +61,13 @@ navsteva:
     - Cyklostezka Chorvátske rameno vede přímo kolem objektu.
     - Kombinujte s historickým centrem Bratislavy (2 h) a Bratislavským hradem.
     - Den čs. opevnění v září — dobové rekonstrukce, velké návštěvnické akce.
-
-# === SPRÁVCE ===
 spravujicSubjekt:
   nazev: Zachráňme petržalské bunkre (občianske združenie)
   typ: klub-vojenske-historie
   web: https://www.zachranmepetrzalskebunkre.sk
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
   poznamka: Součást souboru petržalských bunkrů SR.
-
-# === CROSS-LINKING ===
 related:
   pevnosti:
     - b-s-2
@@ -143,13 +77,10 @@ related:
   typologie:
     - pechotni-srub
     - pancerovy-zvon
-
-# === ZDROJE ===
 sources:
   - title: Zachráňme petržalské bunkre
     url: https://www.zachranmepetrzalskebunkre.sk
     type: web
-  - title: "Svoboda T., Lakosil J.: Pevnostní areál Bratislava"
+  - title: 'Svoboda T., Lakosil J.: Pevnostní areál Bratislava'
     type: kniha
-
 updated: '2026-04-20'

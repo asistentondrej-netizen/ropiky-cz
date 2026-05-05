@@ -2,57 +2,37 @@ title: R-S 54 „Na potoku"
 code: R-S 54
 type: pechotni-srub
 line: Rokytnice v Orlických horách
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.13573056
   lon: 16.57383056
   elevation: 536
 built: '1937'
 state: pristupny
-description: Pěchotní srub u Klášterce nad Orlicí — oboustranný objekt odolnosti II.
-  Součást rozsáhlé rokytnické linie. Interiér uzavřen, exteriér volně v krajině.
+description: >-
+  Pěchotní srub u Klášterce nad Orlicí — oboustranný objekt odolnosti II. Součást rozsáhlé rokytnické linie. Interiér
+  uzavřen, exteriér volně v krajině.
 sources:
-- Wikimedia Commons
+  - Wikimedia Commons
 wikidata_id: Q29509057
 commons_category: R-S 54 Na potoku casemate
 updated: '2026-04-18'
-visit: 'Volně přístupný pěchotní srub „Na potoku" na severovýchodním svahu Orlických
-  hor — součást rokytnické linie ŘOP.
-
-
-  **Přístup:** celoročně volně, 24/7.
-
-
-  **Co uvidíte:** pěchotní srub II. odolnosti v lesnatém terénu u horského potoka
-  — střílny, pozorovací zvony. Objekt je nezrekonstruovaný, autentický.
-
-
-  **Doporučená délka:** 20 minut.
-
-
-  **Dostupnost:** Autem z Rokytnice v Orlických horách (8 km) směr Bartošovice, odbočit
-  na lesní cestu (800 m pěšky). Ideálně kolem po cyklostezkách Orlického podhůří.
-
-
-  **Bezpečnost:** lesní terén, v okolí potoka vlhké cesty. V zimě sněhové návěje.
-
-
-  **Doporučeno kombinovat s:** R-S 74 Hanička (muzeum, 15 km), sruby R-S 60, 66, 69
-  (všechny v okolí), Rokytnicí v Orlických horách (historické centrum). Oblíbený cíl
-  pro cyklisty po tzv. „Betonové hranici Orlických hor".'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2010%3B_01%29.jpg/1280px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2010%3B_01%29.jpg
-  alt: Pěchotní srub R-S 54
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_R-S_54_(rok_2010;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2000%29.jpg/1920px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2000%29.jpg
-  alt: Pěchotní srub R-S 54
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_R-S_54_(rok_2000).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2010%3B_01%29.jpg/1920px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2010%3B_01%29.jpg
-  alt: Pěchotní srub R-S 54
-  author: User:Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_R-S_54_(rok_2010;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2010%3B_01%29.jpg/1280px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2010%3B_01%29.jpg
+    alt: Pěchotní srub R-S 54
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_R-S_54_(rok_2010;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2000%29.jpg/1920px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2000%29.jpg
+    alt: Pěchotní srub R-S 54
+    author: User:Harold's family
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_R-S_54_(rok_2000).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2010%3B_01%29.jpg/1920px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2010%3B_01%29.jpg
+    alt: Pěchotní srub R-S 54
+    author: User:Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_R-S_54_(rok_2010;_01).jpg

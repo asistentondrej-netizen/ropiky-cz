@@ -2,7 +2,7 @@ title: Řopík 8/5/A-140 — Poštorná
 code: 8/5/A-140
 type: lo-vz-37
 line: Valticko — jižní Morava
-region: "Jihomoravský kraj"
+region: Jihomoravský kraj
 location:
   lat: 48.7357
   lon: 16.87207
@@ -10,21 +10,9 @@ location:
   address: Poštorná, Břeclav (jihovýchodní okraj)
 built: '1938'
 state: pristupny
-description: Řopík typ A-140 na okraji Poštorné — součást linie kryjící přechody přes Dyji a železniční koridor Břeclav—Hohenau. Jeden z dostupnějších objektů přímo u městské zástavby.
-history: |
-  Betonován v roce 1938. Typ A-140 — standardní středně zesílený. Objekt kryl přístup od rakouské hranice směrem k Břeclavi. V září 1938 osazen, kulomety ZB vz. 26. Po Mnichovu opuštěn. Za okupace objekt sloužil Wehrmachtu jako pozorovatelna pro železniční koridor. Po válce obestavěn zahradními parcelami, nyní částečně přístupný.
-visit: |
-  Městský řopík — pěší dostupnost z centra Břeclavi.
-  
-  **Přístup:** volně, 24/7. U rozcestí za Poštornou, polní cestou.
-  
-  **Co uvidíte:** LO vz. 37 typ A-140, dvě střílny, zachovaný přístupový žlab. Čelní stěna znatelně erodovaná.
-  
-  **Doporučená délka:** 15 minut.
-  
-  **Dostupnost:** Pěšky z Poštorné (10 min) nebo autem. Vlakem do Břeclavi + autobus.
-  
-  **Doporučeno kombinovat s:** kostelem v Poštorné (novogotický, na zdivu vzor čínského porcelánu — unikát), dalšími řopíky u Břeclavi.
+description: >-
+  Řopík typ A-140 na okraji Poštorné — součást linie kryjící přechody přes Dyji a železniční koridor Břeclav—Hohenau.
+  Jeden z dostupnějších objektů přímo u městské zástavby.
 sources:
-- OpenStreetMap — military=bunker
+  - OpenStreetMap — military=bunker
 updated: '2026-04-19'

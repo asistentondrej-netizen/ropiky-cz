@@ -4,19 +4,15 @@ type: delostrelecka-tvrz
 line: Králíky
 region: Pardubický kraj
 location:
-  lat: 50.097500
+  lat: 50.0975
   lon: 16.776389
   address: Těchonín, 563 72
   elevation: 727
-
 built: '1938'
 state: muzeum
-
 description: >
-  Dělostřelecká tvrz československého opevnění v oblasti Králicka.
-  Dnes přístupná veřejnosti jako muzeum se sezónním provozem a prohlídkou s průvodcem.
-
-# === TECHNICKÁ KARTA ===
+  Dělostřelecká tvrz československého opevnění v oblasti Králicka. Dnes přístupná veřejnosti jako muzeum se sezónním
+  provozem a prohlídkou s průvodcem.
 tech:
   odolnost: IV
   stupenDokonceni: dokonceny
@@ -24,32 +20,15 @@ tech:
   komponenty:
     - pancerovy-zvon
     - kopule-pozorovaci
-
-# === STAVBA ===
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   dokonceni: '1938'
-
-# === HISTORIE ===
-history: >
-  Tvrz Bouda je jednou z dělostřeleckých tvrzí československého opevnění
-  budovaného v rámci Ředitelství opevňovacích prací (ŘOP) ve druhé polovině
-  30. let 20. století v oblasti Králicka.
-  Po podpisu Mnichovské dohody 30. září 1938 byla tvrz odevzdána bez boje.
-  Po roce 1945 sloužila armádě. Od 90. let 20. století je postupně
-  zpřístupňována veřejnosti a dnes je provozována jako muzeum.
-
 historieMilniky:
   - datum: 30. 9. 1938
     udalost: Mnichovská dohoda — opevnění odevzdáno bez boje
-
-# === NÁVŠTĚVA — TEXT ===
 visit: >
-  Tvrz Bouda je dnes provozována jako muzeum. Prohlídka probíhá s průvodcem
-  v sezóně duben–říjen. Aktuální informace, otevírací doba a rezervace
-  na tvrzbouda.cz.
-
-# === NÁVŠTĚVA — STRUKTUROVANÁ ===
+  Tvrz Bouda je dnes provozována jako muzeum. Prohlídka probíhá s průvodcem v sezóně duben–říjen. Aktuální informace,
+  otevírací doba a rezervace na tvrzbouda.cz.
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: starsi-deti
@@ -66,20 +45,14 @@ navsteva:
   upozorneni:
     - V podzemí je celoročně nízká teplota — vezměte teplé oblečení.
     - Prohlídka zahrnuje schody do podzemí a delší chůzi.
-
-# === SPRÁVCE ===
 spravujicSubjekt:
   nazev: Společnost přátel československého opevnění
   typ: klub-vojenske-historie
   web: https://www.tvrzbouda.cz
-
-# === PAMÁTKOVÁ OCHRANA ===
 pamatka:
   status: kulturni-pamatka
   cisloUspka: 12576/6-5858
   poznamka: Zapsáno mezi kulturní památky ČR.
-
-# === MÉDIA ===
 photos:
   - url: /img/forts/bouda-k-s-22a-krok-exterier.jpg
     alt: Bojový srub tvrze Bouda
@@ -96,7 +69,8 @@ photos:
     license: Public domain
     source: https://commons.wikimedia.org/wiki/File:Bouda_-_K-S_22a_Krok_-_zvon.JPG
     category: exterier
-  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg/1920px-Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg/1920px-Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg
     alt: Podzemí tvrze Bouda
     caption: Podzemní chodba tvrze Bouda.
     author: Harold
@@ -110,8 +84,6 @@ photos:
     license: Public domain
     source: https://commons.wikimedia.org/wiki/File:Bouda_-_exponaty.JPG
     category: interier
-
-# === CROSS-LINKING ===
 related:
   pevnosti:
     - tvrz-hanicka
@@ -123,11 +95,8 @@ related:
   typologie:
     - delostrelecka-tvrz
     - pancerovy-zvon
-
-# === ZDROJE ===
 sources:
   - title: Muzeum tvrz Bouda
     url: https://www.tvrzbouda.cz
     type: web
-
 updated: '2026-05-05'
