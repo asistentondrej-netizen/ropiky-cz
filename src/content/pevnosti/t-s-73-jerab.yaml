@@ -1,106 +1,24 @@
-title: T-St-S „Jeřáb" (Teplice nad Metují)
-code: T-St-S Jeřáb
+title: T-S 73 „Jeřáb" (záznam k revizi)
+code: T-S 73
 type: pechotni-srub
-line: Stárkov — Teplice nad Metují
-region: "Královéhradecký kraj"
+line: Trutnov
+region: Královéhradecký kraj
 location:
   lat: 50.5878
   lon: 16.1567
-  elevation: 584
-  address: Teplice nad Metují, svah nad obcí
+  address: Teplice nad Metují
 built: '1938'
-state: muzeum
-description: Pěchotní srub II. stupně na hřebeni nad Teplicemi nad Metují. Součást
-  naučné stezky Adršpach–Teplice, známý svou polohou v skalním městě. Volně přístupný.
-history: 'T-S 73 „Jeřáb" byl postaven v roce 1938 firmou Konstruktiva jako součást
-  obrany severních Čech a přístupů do vnitrozemí přes Broumovské stěny. Oboustranný
-  srub II. stupně, výzbroj 4 TK + 1 PTK.
-
-
-  V září 1938 byl ještě rozestavěn (cca 85 % hotovosti, bez výzbroje). Po okupaci
-  Němci stavbu dokončili pro vlastní potřeby a během války využívali jako pozorovací
-  stanoviště.
-
-
-  Po roce 1945 objekt opuštěn. Od 1990 součást naučné stezky Adršpach–Teplice, která
-  propojuje skalní město s vojenskou historií regionu.'
-visit: 'T-S 73 „Jeřáb" je **dokonalé spojení přírody a historie** — srub stojí přímo
-  v okraji Adršpašsko-teplických skal, což je národní přírodní rezervace s mimořádnou
-  krajinou pískovcových věží.
-
-
-  **Otevírací doba:** Volně přístupný 24/7 po celý rok. Doporučené období **květen–říjen**
-  (v zimě nebezpečí klouzavého ledu na cestě).
-
-
-  **Jak se dostat:**
-
-
-  - Vlakem do Teplic nad Metují, pak 40 min pěšky po žluté turistické značce
-
-  - Autem: parkoviště Skalní město Adršpach (100 Kč/den), odtud pěšky přes Vlčí rokli
-
-  - Cyklostezka 4045 (Adrspach–Broumov) vede 500 m pod srubem
-
-
-  **Okruh Jeřáb (doporučený):**
-
-
-  1. Parkoviště Adršpach (8:30) →
-
-  2. Skalní město Adršpach (prohlídka 2 h) →
-
-  3. Obědvá v restauraci Skalní město →
-
-  4. T-S 73 „Jeřáb" + okolí (1 h) →
-
-  5. Pokračování do Teplic nad Metují přes skalní bránu →
-
-  6. Teplické skály (1,5 h) →
-
-  7. Návrat do Teplic n. Metují (16:30)
-
-
-  **Co zde uvidíte:**
-
-
-  - Mohutný oboustranný srub s pěti střílnami
-
-  - Dochované pancéřové prvky (dva zvony)
-
-  - **Unikátní výhled na Adršpach** — skalní věže a kaňon Metuje
-
-  - Informační panel s historií linie Trutnov
-
-
-  **Vnitřek je zpravidla uzavřen**, ale 2× ročně (červen, září) pořádá Muzeum Broumovska
-  komentované prohlídky se vstupem do srubu. Termíny na muzeum-broumovska.cz.
-
-
-  **Pro fotografy:** Nejlepší světlo je **odpoledne kolem 16:00** — slunce ozařuje
-  jižní stěnu srubu a skalní věže v pozadí. Exponenciálně vzniknou ikonická díla čs.
-  opevnění.
-
-
-  **Bezpečnost:** Cesta k srubu vede přes pískovcové skály — **pevná obuv** nutná,
-  v mokru klouzavé. Baterku doporučujeme pro případ zdržení po setmění.'
-sources:
-- Muzeum Broumovska
-- CHKO Broumovsko
-updated: '2026-04-18'
+state: zachovaly
+description: >
+  Pěchotní srub československého opevnění v oblasti Teplic nad Metují.
+  Identifikace (T-S vs. T-St-S, krycí jméno, parametry) i návštěvnické informace
+  vyžadují odbornou revizi proti literatuře — předchozí texty obsahovaly
+  neověřené údaje a byly proto odstraněny.
+sources: []
+updated: '2026-05-05'
 photos:
 - url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2000%29.jpg/1920px-Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2000%29.jpg
   alt: Pěchotní srub T-S 73
   author: User:Harold's family
   license: CC BY-SA 3.0
   source: https://commons.wikimedia.org/wiki/File:Trutnov,_Bab%C3%AD,_T-S_73_(rok_2000).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2002%3B_01%29.jpg/1920px-Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2002%3B_01%29.jpg
-  alt: Pěchotní srub T-S 73
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Bab%C3%AD,_T-S_73_(rok_2002;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2002%3B_02%29.jpg/1920px-Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2002%3B_02%29.jpg
-  alt: Pěchotní srub T-S 73
-  author: User:Harold's family
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Bab%C3%AD,_T-S_73_(rok_2002;_02).jpg

@@ -1,46 +1,26 @@
-title: T-S 73 „Polom" (tvrz Stachelberg)
-code: T-S 73
-type: pechotni-srub
-line: Trutnov — Střelec
-region: Královéhradecký kraj
+title: "Stachelberg — srub (záznam k revizi)"
+code: "—"
+type: neurceno
+line: Trutnov
+region: "Královéhradecký kraj"
 location:
   lat: 50.630581
   lon: 15.911907
-  elevation: 636
-state: muzeum
-description: Pěchotní srub T-S 73 „Polom" je jediný dokončený izolovaný srub tvrze Stachelberg u Babí na Trutnovsku. Dnes přístupný jako součást pevnostního muzea Stachelberg.
-sources:
-- title: OpenStreetMap
-  url: https://www.openstreetmap.org/way/60456356
-  type: web
-- title: Wikidata Q12055852
-  url: https://www.wikidata.org/wiki/Q12055852
-  type: web
-- title: 'NPÚ Památkový katalog: liniové opevnění - soubor objektů těžkého a lehkého opevnění s tvrzí Stachelberg'
-  url: https://pamatkovykatalog.cz/?detail=12984418
-  type: web
+state: neznamy
+description: >
+  Záznam pěchotního srubu spadajícího pravděpodobně do areálu tvrze Stachelberg.
+  Identifikace (kód objektu, krycí jméno) a vazba na zdroje vyžadují odbornou revizi
+  proti literatuře (Stehlík, Ráboň). Wikipedia/Wikidata odkazy byly z tohoto záznamu
+  dočasně odstraněny kvůli rozporu (T-S × T-St-S).
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rozsoch%C3%A1%C4%8D.jpg/1920px-Rozsoch%C3%A1%C4%8D.jpg
-  alt: Dělostřelecká tvrz Stachelberg (srub T-S 73)
-  author: Lukáš Malý
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File:Rozsoch%C3%A1%C4%8D.jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/T-S_73_Polom_01.JPG/1920px-T-S_73_Polom_01.JPG
-  alt: Dělostřelecká tvrz Stachelberg (srub T-S 73)
-  author: Lukáš Malý
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File:T-S_73_Polom_01.JPG
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/T-S_73_Polom_02.JPG/1920px-T-S_73_Polom_02.JPG
-  alt: Dělostřelecká tvrz Stachelberg (srub T-S 73)
-  author: Lukáš Malý
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File:T-S_73_Polom_02.JPG
-wikidata_id: Q12058109
-wikipedia_url: https://cs.wikipedia.org/wiki/T-St-S_73_Polom
-commons_category: T-St-S 73 Polom casemate
-updated: '2026-04-23'
-alt_name: Izolovaný pěchotní srub T-S 73 "Polom"
-pamatka:
-  status: kulturni-pamatka
-  poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
-  cisloUspka: 45847/6-3427
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/T-S_73_Polom_01.JPG/1920px-T-S_73_Polom_01.JPG"
+    alt: "Pěchotní srub v areálu tvrze Stachelberg"
+    author: "Lukáš Malý"
+    license: "Public domain"
+    source: "https://commons.wikimedia.org/wiki/File:T-S_73_Polom_01.JPG"
+  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/T-S_73_Polom_02.JPG/1920px-T-S_73_Polom_02.JPG"
+    alt: "Pěchotní srub v areálu tvrze Stachelberg"
+    author: "Lukáš Malý"
+    license: "Public domain"
+    source: "https://commons.wikimedia.org/wiki/File:T-S_73_Polom_02.JPG"
+updated: '2026-05-05'

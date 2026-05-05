@@ -11,19 +11,18 @@ location:
 state: rozpadly
 
 description: >
-  Rozestavěná dělostřelecká tvrz Orlík nad obcí Mladkov v Orlických horách. Součást plánovaného systému čs. opevnění 1935–1938 v úseku Králíky (K-S). Výstavba byla zahájena v roce 1938, ale po Mnichovu byla přerušena ve fázi výkopových prací a základů, jednotlivé sruby nebyly vybetonovány.
+  Rozestavěná dělostřelecká tvrz Orlík nad obcí Mladkov v Orlických horách.
+  Součást plánovaného systému čs. opevnění 1935–1938 v úseku Králíky (K-S).
+  Před Mnichovskou dohodou výstavba nedospěla do dokončení.
 
 history: >
-  Tvrz Orlík byla naplánována jako jedna z pěti tvrzí úseku Králíky (spolu
-  s tvrzemi Adam, Bouda, Hůrka). Jejím úkolem bylo podpořit obranu
-  průsmyku na Mladkov. Před Mnichovskou dohodou 30. 9. 1938 se stihly
-  pouze výkopové práce a zčásti základové desky. Po mnichovském záboru
-  byla práce ukončena a lokalita opuštěna.
+  Tvrz Orlík byla součástí plánu výstavby čs. opevnění 1935–1938 v úseku Králíky.
+  Po Mnichovské dohodě 30. září 1938 byla výstavba přerušena a tvrz zůstala
+  nedokončená. V terénu jsou patrné fragmenty stavebních prací.
 
 visit: >
-  Dnes jsou v terénu patrné **zbytky výkopů a základových desek** několika
-  plánovaných objektů tvrze. Jednotlivé fragmenty jsou volně přístupné
-  v lese, některé na soukromých pozemcích. Tvrz NENÍ muzejně vybavena.
+  V terénu jsou patrné zbytky stavebních prací — fragmenty jsou volně přístupné
+  v lese, některé na soukromých pozemcích. Tvrz není muzejně vybavena.
 
 related:
   pevnosti:
@@ -41,4 +40,4 @@ sources:
     type: web
 
 wikipedia_url: "https://cs.wikipedia.org/wiki/Orl%C3%ADk_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
-updated: '2026-04-22'
+updated: '2026-05-05'

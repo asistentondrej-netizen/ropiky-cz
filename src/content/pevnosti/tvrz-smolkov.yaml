@@ -2,7 +2,7 @@ title: Tvrz Smolkov
 code: OP-S Tvrz Smolkov
 type: delostrelecka-tvrz
 line: Opava
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.8867
   lon: 18.0411
@@ -13,75 +13,40 @@ built: '1938'
 state: pristupny
 
 description: >
-  Pátá z plně dokončených dělostřeleckých tvrzí, jediná na Ostravsku. Nachází se
-  v úseku Opava u obce Smolkov. Skládá se ze čtyř bojových srubů, vchodového
-  objektu a podzemí v délce přibližně 850 metrů. Některé exteriéry jsou volně
-  přístupné, podzemní prohlídky pouze při speciálních akcích.
+  Dělostřelecká tvrz československého opevnění na Opavsku, jediná dělostřelecká
+  tvrz v moravskoslezské oblasti. Exteriéry srubů jsou volně přístupné,
+  podzemí pouze při speciálních akcích.
 
 # === TECHNICKÁ KARTA ===
 tech:
   odolnost: IV
   stupenDokonceni: dokonceny
-  typObjektu: Dělostřelecká tvrz (4 bojové sruby + vchodový)
-  posadka:
-    mini: 290
-    maxi: 316
-  vyzbroj:
-    - zbran: Kulomet ZB vz. 37 (těžký)
-      pocet: 10
-      umisteni: střílny a zvony
-    - zbran: Protitankový kanón vz. 36 (4 cm)
-      pocet: 3
-      umisteni: bojové sruby
-  steny:
-    tloustka_cm: 350
-    material: Železobeton B500
+  typObjektu: Dělostřelecká tvrz
   komponenty:
     - pancerovy-zvon
 
 # === STAVBA ===
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
-  zahajeni: '1936'
   dokonceni: '1938'
 
 # === HISTORIE ===
 history: >
-  Tvrz Smolkov byla stavěna v letech 1936–1938 jako jediná plně dokončená
-  dělostřelecká tvrz na Ostravsku. Tvoří ji čtyři bojové sruby
-  (OP-S 20 „Úlehla", OP-S 21 „Padařov", OP-S 22 „Svoboda", OP-S 23 „Na trati")
-  a vchodový srub OP-S 19 „Na kopečku", propojené přibližně 850 m podzemních
-  chodeb.
-
-
-  V září 1938 byla tvrz plně vyzbrojena a obsazena. Po Mnichovu odevzdána
-  Wehrmachtu, který ji používal pro skladování a krátké experimenty.
-  Po roce 1945 přešla pod ČSLA, která ji využívala pro muniční sklad.
-
-
+  Tvrz Smolkov je jednou z dělostřeleckých tvrzí československého opevnění
+  budovaných v rámci Ředitelství opevňovacích prací (ŘOP) ve druhé polovině
+  30. let 20. století. Po Mnichovské dohodě 30. září 1938 byla odevzdána bez boje.
   Po roce 1989 přešla postupně pod správu místních spolků a obce. Exteriéry
-  srubů jsou dnes volně přístupné a představují jeden z nejzachovalejších
-  komplexů čs. opevnění na Ostravsku.
+  srubů jsou dnes volně přístupné.
 
 historieMilniky:
-  - datum: '1936'
-    udalost: Zahájení stavby
-  - datum: '1938'
-    udalost: Dokončení, vyzbrojení
   - datum: 30. 9. 1938
-    udalost: Mnichov — předání Wehrmachtu
-  - datum: 1945–1989
-    udalost: Muniční sklad ČSLA
-  - datum: po 1989
-    udalost: Postupné zpřístupnění, speciální akce
+    udalost: Mnichovská dohoda — opevnění odevzdáno bez boje
 
 # === NÁVŠTĚVA ===
 visit: >
-  Tvrz Smolkov nabízí **volně přístupné exteriéry** všech bojových srubů —
-  lze je obejít po turistické stezce a prohlédnout si je zvenku. Podzemní
-  prohlídky jsou pořádány pouze při **speciálních akcích** (Den otevřených
-  bunkrů, historické rekonstrukce). Informace o akcích na obecních webech
-  Háje ve Slezsku a místního Klubu vojenské historie.
+  Tvrz Smolkov nabízí **volně přístupné exteriéry** bojových srubů — lze je
+  obejít po turistické stezce. Podzemní prohlídky jsou pořádány pouze
+  při speciálních akcích (Den otevřených bunkrů, historické rekonstrukce).
 
 navsteva:
   pristupnost: pesky-turisticka
@@ -94,8 +59,8 @@ navsteva:
     zdarma: true
     poznamka: Exteriéry zdarma. Vstup do podzemí při akcích — viz organizátor.
   upozorneni:
-    - Mezi objekty je cca 1,5 km chůze po polní/lesní cestě.
-    - Vlastní baterka a pevné boty doporučeny pro vstup do přístupných prostor.
+    - Mezi objekty je nutná chůze po polní/lesní cestě.
+    - Pevné boty doporučeny.
 
 # === PAMÁTKOVÁ OCHRANA ===
 pamatka:
@@ -105,7 +70,7 @@ pamatka:
 # === MÉDIA ===
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_pohled_z_Pada%C5%99ova_%282015-04-14%3B_01%29.jpg/1280px-H%C3%A1j_ve_Slezsku%2C_Smolkov%2C_pohled_z_Pada%C5%99ova_%282015-04-14%3B_01%29.jpg
-    alt: Pohled na tvrz Smolkov z Padařova
+    alt: Tvrz Smolkov
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_pohled_z_Pada%C5%99ova_(2015-04-14;_01).jpg
@@ -126,11 +91,7 @@ related:
     - pancerovy-zvon
 
 # === ZDROJE ===
-sources:
-  - title: Wikipedie — Smolkov (dělostřelecká tvrz)
-    type: web
+sources: []
 
 wikidata_id: Q12055020
-wikipedia_url: "https://cs.wikipedia.org/wiki/Smolkov_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)"
-commons_category: Smolkov (fortress)
-updated: '2026-04-21'
+updated: '2026-05-05'
