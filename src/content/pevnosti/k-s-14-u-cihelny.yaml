@@ -14,7 +14,6 @@ description: Pěchotní srub K-S 14 — objekt těžkého opevnění českoslove
 tech:
   odolnost: III
   stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub oboustranný (typ C)
   komponenty:
     - pancerovy-zvon
 stavba:
@@ -32,9 +31,6 @@ navsteva:
   doporucenaDoba_minut: 90
   otevreno:
     sezonne: true
-    obdobi: duben–listopad
-    dny: víkendy, hlavní sezóna denně
-    poznamka: Akce „Cihelna" 1. víkend v srpnu — rozšířený provoz.
   upozorneni:
     - Akce „Cihelna" — velké davy, doporučena rezervace ubytování.
     - Prohlídky s průvodcem, skupinové nebo individuální.

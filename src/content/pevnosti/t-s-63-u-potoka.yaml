@@ -2,33 +2,33 @@ title: T-S 63 „U potoka"
 code: T-S 63
 type: pechotni-srub
 line: Trutnov
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.60291667
   lon: 15.95281944
   elevation: 440
 built: '1937'
 state: muzeum
-description: Pěchotní srub „U potoka" — odolnost II, typická poloha u vodního toku.
-  Po válce odstřelen, zachovalé torzo.
-sources:
-- Wikimedia Commons
+description: Pěchotní srub „U potoka" — odolnost II, typická poloha u vodního toku. Po válce odstřelen, zachovalé torzo.
 wikidata_id: Q61857913
 commons_category: T-S 63 U potoka casemate
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_01%29.jpg/1920px-Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_01%29.jpg
-  alt: Pěchotní srub T-S 63
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Debrn%C3%A9,_T-S_63_(rok_2012;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_02%29.jpg/1920px-Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_02%29.jpg
-  alt: Pěchotní srub T-S 63
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Debrn%C3%A9,_T-S_63_(rok_2012;_02).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_03%29.jpg/1920px-Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_03%29.jpg
-  alt: Pěchotní srub T-S 63
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Trutnov,_Debrn%C3%A9,_T-S_63_(rok_2012;_03).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_01%29.jpg/1920px-Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_01%29.jpg
+    alt: Pěchotní srub T-S 63
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Trutnov,_Debrn%C3%A9,_T-S_63_(rok_2012;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_02%29.jpg/1920px-Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_02%29.jpg
+    alt: Pěchotní srub T-S 63
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Trutnov,_Debrn%C3%A9,_T-S_63_(rok_2012;_02).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_03%29.jpg/1920px-Trutnov%2C_Debrn%C3%A9%2C_T-S_63_%28rok_2012%3B_03%29.jpg
+    alt: Pěchotní srub T-S 63
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Trutnov,_Debrn%C3%A9,_T-S_63_(rok_2012;_03).jpg

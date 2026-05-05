@@ -14,7 +14,6 @@ description: Soukromě rekonstruované muzeum „Pevnost Hronov" v pěchotním s
 tech:
   odolnost: III
   stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub oboustranný (typ C)
   komponenty:
     - pancerovy-zvon
 stavba:
@@ -30,9 +29,6 @@ navsteva:
   doporucenaDoba_minut: 45
   otevreno:
     sezonne: true
-    obdobi: květen–září
-    dny: víkendy 10:00–17:00
-    poznamka: Červenec–srpen i všední dny.
   upozorneni:
     - Panoramatický výhled na Broumovské stěny a Adršpach.
     - Ideální pro cyklisty — navazuje na cyklostezky Broumovska.

@@ -2,33 +2,33 @@ title: StM-S 32 „Krajní"
 code: StM-S 32
 type: pechotni-srub
 line: Staré Město pod Sněžníkem
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.17282
   lon: 16.95661
   elevation: 636
 built: '1937'
 state: rozpadly
-description: Pěchotní srub „Krajní" — krajní objekt úseku Staré Město. Odolnost III,
-  pozice na svahu. Zachovalé obvodové stěny.
-sources:
-- Wikimedia Commons
+description: Pěchotní srub „Krajní" — krajní objekt úseku Staré Město. Odolnost III, pozice na svahu. Zachovalé obvodové stěny.
 wikidata_id: Q98601579
 commons_category: StM-S 32 Krajní casemate
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Star%C3%A9_M%C4%9Bsto%2C_StM-S_32_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_32_%28rok_2003%29.jpg
-  alt: Pěchotní srub StM-S 32 Krajní
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_32_(rok_2003).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD%2C_interi%C3%A9r_01.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD%2C_interi%C3%A9r_01.jpg
-  alt: Pěchotní srub StM-S 32
-  author: Michal Gregor
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD,_interi%C3%A9r_01.jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD%2C_interi%C3%A9r_02.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD%2C_interi%C3%A9r_02.jpg
-  alt: Pěchotní srub StM-S 32
-  author: Michal Gregor
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD,_interi%C3%A9r_02.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Star%C3%A9_M%C4%9Bsto%2C_StM-S_32_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_32_%28rok_2003%29.jpg
+    alt: Pěchotní srub StM-S 32 Krajní
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_32_(rok_2003).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD%2C_interi%C3%A9r_01.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD%2C_interi%C3%A9r_01.jpg
+    alt: Pěchotní srub StM-S 32
+    author: Michal Gregor
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD,_interi%C3%A9r_01.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD%2C_interi%C3%A9r_02.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD%2C_interi%C3%A9r_02.jpg
+    alt: Pěchotní srub StM-S 32
+    author: Michal Gregor
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_32_Krajn%C3%AD,_interi%C3%A9r_02.jpg

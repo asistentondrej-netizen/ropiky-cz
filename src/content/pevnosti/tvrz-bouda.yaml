@@ -35,7 +35,6 @@ navsteva:
   doporucenaDoba_minut: 120
   otevreno:
     sezonne: true
-    obdobi: duben–říjen
     poznamka: Prohlídka pouze s průvodcem. Aktuální hodiny viz tvrzbouda.cz.
   upozorneni:
     - V podzemí je celoročně nízká teplota — vezměte teplé oblečení.

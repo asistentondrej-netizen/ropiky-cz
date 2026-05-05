@@ -14,7 +14,6 @@ description: Pěchotní srub u železniční stanice Králíky — nejsnadněji 
 tech:
   odolnost: III
   stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub oboustranný (typ C)
   komponenty:
     - pancerovy-zvon
 stavba:
@@ -36,9 +35,6 @@ navsteva:
   doporucenaDoba_minut: 45
   otevreno:
     sezonne: true
-    obdobi: květen–říjen
-    dny: víkendy 10:00–17:00
-    poznamka: V hlavní sezóně i všední dny.
   upozorneni:
     - Ideální jako startovní bod pro prohlídku králických opevnění.
     - Ukázka překážkového systému (protitankové jámy) ve venkovním prostoru.

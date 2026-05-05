@@ -1,15 +1,15 @@
-title: "Řopík 6/21/A-120 Z (Mikulovsko)"
-code: "6/21/A-120 Z"
+title: Řopík 6/21/A-120 Z (Mikulovsko)
+code: 6/21/A-120 Z
 type: lo-vz-37
-line: 'Jižní Morava — Mikulovsko'
-region: "Jihomoravský kraj"
+line: Jižní Morava — Mikulovsko
+region: Jihomoravský kraj
 location:
   lat: 48.78405
   lon: 16.67588
   elevation: 191
-built: "1938"
+built: '1938'
 state: neznamy
-description: "Lehký objekt vz. 37 („řopík“), typ A-120 Z — oboustranný kulometný (čelní úhel 120°, zesílený (II. stupeň odolnosti)). Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
-sources:
-  - OpenStreetMap
+description: >-
+  Lehký objekt vz. 37 („řopík“), typ A-120 Z — oboustranný kulometný (čelní úhel 120°, zesílený (II. stupeň odolnosti)).
+  Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938.
 updated: '2026-04-19'

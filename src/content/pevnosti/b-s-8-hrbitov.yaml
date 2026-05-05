@@ -14,7 +14,6 @@ description: Pěchotní srub B-S 8 — objekt těžkého opevnění českosloven
 tech:
   odolnost: II
   stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub oboustranný (typ B)
   komponenty:
     - pancerovy-zvon
 stavba:
@@ -31,9 +30,6 @@ navsteva:
   doporucenaDoba_minut: 45
   otevreno:
     sezonne: true
-    obdobi: duben–říjen
-    dny: víkendy 10:00–17:00
-    poznamka: Letní prázdniny i všední dny od 13:00.
   upozorneni:
     - Ideální pro kombinaci s Bratislavským hradem nebo procházkou po Dunaji.
     - Bratislavský okruh po srubech — jediná ucelená expozice čs. opevnění v SR.

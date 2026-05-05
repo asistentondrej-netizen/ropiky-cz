@@ -11,8 +11,6 @@ state: muzeum
 description: >-
   Pěchotní srub MO-S-21 na úseku Moravská Ostrava. Součást československého těžkého opevnění z let 1935–1938, stavěného
   proti hrozbě nacistického Německa.
-sources:
-  - OpenStreetMap (OSM element way/52431167)
 wikidata_id: Q98636457
 commons_category: MO-S 21 U Jaroše casemate
 updated: '2026-04-19'

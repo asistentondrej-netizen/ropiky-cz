@@ -15,7 +15,6 @@ description: >-
 tech:
   odolnost: II
   stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub oboustranný (typ B)
   komponenty:
     - pancerovy-zvon
 stavba:
@@ -31,7 +30,6 @@ navsteva:
   doporucenaDoba_minut: 45
   otevreno:
     sezonne: true
-    obdobi: duben–listopad
   upozorneni:
     - Prohlídka pouze s průvodcem.
     - V areálu jsou i venkovní expozice zbraní a techniky.

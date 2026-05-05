@@ -14,7 +14,6 @@ description: Vlajkový rekonstruovaný pěchotní srub bratislavské Petržalky.
 tech:
   odolnost: II
   stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub jednostranný (typ A)
   komponenty:
     - pancerovy-zvon
 stavba:
@@ -27,9 +26,6 @@ navsteva:
   doporucenaDoba_minut: 45
   otevreno:
     sezonne: true
-    obdobi: duben–říjen
-    dny: víkendy 13:00–17:00
-    poznamka: Zima uzavřeno. Prohlídka s průvodcem každou celou hodinu.
   upozorneni:
     - Cyklostezka Chorvátske rameno vede přímo kolem objektu.
     - Den čs. opevnění v září — dobové rekonstrukce, velké návštěvnické akce.

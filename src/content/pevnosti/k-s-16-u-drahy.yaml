@@ -2,24 +2,22 @@ title: K-S 16 „U dráhy"
 code: K-S 16
 type: pechotni-srub
 line: Králíky
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
   lat: 50.086518
   lon: 16.73699
   elevation: 545
 built: '1937'
 state: zachovaly
-description: Pěchotní srub podél železnice Králíky–Hanušovice. Oboustranný typ B odolnosti
-  III, po válce ponechán osudu. Zachovaný obvodový plášť, chybí zvony a kopule (demontovány
-  Němci 1939–45).
-sources:
-- Wikimedia Commons
+description: >-
+  Pěchotní srub podél železnice Králíky–Hanušovice. Oboustranný typ B odolnosti III, po válce ponechán osudu. Zachovaný
+  obvodový plášť, chybí zvony a kopule (demontovány Němci 1939–45).
 wikidata_id: Q69423237
 commons_category: K-S 16 U dráhy casemate
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/4/42/K-S_16.JPG
-  alt: Pěchotní srub K-S 16
-  author: Martin Provazník
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File:K-S_16.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/4/42/K-S_16.JPG
+    alt: Pěchotní srub K-S 16
+    author: Martin Provazník
+    license: Public domain
+    source: https://commons.wikimedia.org/wiki/File:K-S_16.JPG

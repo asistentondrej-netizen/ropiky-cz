@@ -35,9 +35,6 @@ navsteva:
   doporucenaDoba_minut: 120
   otevreno:
     sezonne: true
-    obdobi: duben–říjen
-    dny: víkendy, hlavní sezóna denně
-    poznamka: Prohlídky jen s průvodcem, každou celou hodinu.
   upozorneni:
     - Teplota v podzemí celoročně 8–12 °C — teplé oblečení i v létě.
     - Vlhkost 80–90 %, citlivé na astma.
@@ -49,7 +46,6 @@ spravujicSubjekt:
   web: https://www.bouda.cz
 pamatka:
   status: kulturni-pamatka
-  poznamka: Součást areálu dělostřelecké tvrze Bouda (kulturní památka).
 photos:
   - url: >-
       https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2000%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2000%29.jpg

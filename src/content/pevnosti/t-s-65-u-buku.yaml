@@ -2,33 +2,35 @@ title: T-S 65 „U buku"
 code: T-S 65
 type: pechotni-srub
 line: Trutnov
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.61078333
   lon: 15.9457
   elevation: 521
 built: '1937'
 state: pristupny
-description: Pěchotní srub „U buku" — název podle výrazného stromu, který zde stál
-  v meziválečném období. Odolnost II, zachovalé torzo v lese.
-sources:
-- Wikimedia Commons
+description: >-
+  Pěchotní srub „U buku" — název podle výrazného stromu, který zde stál v meziválečném období. Odolnost II, zachovalé
+  torzo v lese.
 wikidata_id: Q61857916
 commons_category: T-S 65 U buku casemate
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_01%29.jpg/1920px-Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_01%29.jpg
-  alt: Pěchotní srub T-S 65
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Zlat%C3%A1_Ole%C5%A1nice,_T-S_65_(rok_2012;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_02%29.jpg/1920px-Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_02%29.jpg
-  alt: Pěchotní srub T-S 65
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Zlat%C3%A1_Ole%C5%A1nice,_T-S_65_(rok_2012;_02).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_03%29.jpg/1920px-Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_03%29.jpg
-  alt: Pěchotní srub T-S 65
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Zlat%C3%A1_Ole%C5%A1nice,_T-S_65_(rok_2012;_03).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_01%29.jpg/1920px-Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_01%29.jpg
+    alt: Pěchotní srub T-S 65
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Zlat%C3%A1_Ole%C5%A1nice,_T-S_65_(rok_2012;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_02%29.jpg/1920px-Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_02%29.jpg
+    alt: Pěchotní srub T-S 65
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Zlat%C3%A1_Ole%C5%A1nice,_T-S_65_(rok_2012;_02).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_03%29.jpg/1920px-Zlat%C3%A1_Ole%C5%A1nice%2C_T-S_65_%28rok_2012%3B_03%29.jpg
+    alt: Pěchotní srub T-S 65
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Zlat%C3%A1_Ole%C5%A1nice,_T-S_65_(rok_2012;_03).jpg

@@ -17,7 +17,6 @@ description: >
 tech:
   odolnost: II
   stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub oboustranný (typ C)
   komponenty:
     - pancerovy-zvon
 stavba:
@@ -33,9 +32,6 @@ navsteva:
   doporucenaDoba_minut: 45
   otevreno:
     sezonne: true
-    obdobi: duben–říjen
-    dny: víkendy a svátky 10:00–17:00
-    poznamka: V hlavní sezóně (červen–srpen) denně.
   upozorneni:
     - Od tvrze Hanička 2 km pěšky po červené turistické značce.
     - Součást celodenního programu s návštěvou Haničky.

@@ -2,23 +2,24 @@ title: R-S 90/I „Pravý"
 code: R-S 90/I
 type: pechotni-srub
 line: Rokytnice v Orlických horách
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.23141111
   lon: 16.487825
   elevation: 957
 built: '1938'
 state: zachovaly
-description: Pravostranný objekt dvojice R-S 90 — pozdní stavba v pohraniční oblasti
-  u Bartošovic. Odolnost II, v září 1938 stavebně dokončen. Zachovalé torzo.
-sources:
-- Wikimedia Commons
+description: >-
+  Pravostranný objekt dvojice R-S 90 — pozdní stavba v pohraniční oblasti u Bartošovic. Odolnost II, v září 1938
+  stavebně dokončen. Zachovalé torzo.
 wikidata_id: Q29573749
 commons_category: R-S 90/I Pravý casemate
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Orlick%C3%A9_Z%C3%A1ho%C5%99%C3%AD%2C_%C4%8Cern%C3%A1_Voda_u_Orlick%C3%A9ho_Z%C3%A1ho%C5%99%C3%AD%2C_R-S_90-I_%28rok_2010%3B_01%29.jpg/1280px-Orlick%C3%A9_Z%C3%A1ho%C5%99%C3%AD%2C_%C4%8Cern%C3%A1_Voda_u_Orlick%C3%A9ho_Z%C3%A1ho%C5%99%C3%AD%2C_R-S_90-I_%28rok_2010%3B_01%29.jpg
-  alt: Pěchotní srub R-S 90/I Pravý
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Orlick%C3%A9_Z%C3%A1ho%C5%99%C3%AD,_%C4%8Cern%C3%A1_Voda_u_Orlick%C3%A9ho_Z%C3%A1ho%C5%99%C3%AD,_R-S_90-I_(rok_2010;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Orlick%C3%A9_Z%C3%A1ho%C5%99%C3%AD%2C_%C4%8Cern%C3%A1_Voda_u_Orlick%C3%A9ho_Z%C3%A1ho%C5%99%C3%AD%2C_R-S_90-I_%28rok_2010%3B_01%29.jpg/1280px-Orlick%C3%A9_Z%C3%A1ho%C5%99%C3%AD%2C_%C4%8Cern%C3%A1_Voda_u_Orlick%C3%A9ho_Z%C3%A1ho%C5%99%C3%AD%2C_R-S_90-I_%28rok_2010%3B_01%29.jpg
+    alt: Pěchotní srub R-S 90/I Pravý
+    author: Harold
+    license: CC BY-SA 3.0
+    source: >-
+      https://commons.wikimedia.org/wiki/File:Orlick%C3%A9_Z%C3%A1ho%C5%99%C3%AD,_%C4%8Cern%C3%A1_Voda_u_Orlick%C3%A9ho_Z%C3%A1ho%C5%99%C3%AD,_R-S_90-I_(rok_2010;_01).jpg

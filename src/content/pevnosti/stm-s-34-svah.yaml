@@ -2,33 +2,33 @@ title: StM-S 34 „Svah"
 code: StM-S 34
 type: pechotni-srub
 line: Staré Město pod Sněžníkem
-region: "Olomoucký kraj"
+region: Olomoucký kraj
 location:
   lat: 50.17308
   lon: 16.9681
   elevation: 727
 built: '1937'
 state: zachovaly
-description: Pěchotní srub „Svah" ve Starém Městě pod Sněžníkem. Odolnost III, typická
-  pozice na horském svahu. Dnes ruina.
-sources:
-- Wikimedia Commons
+description: Pěchotní srub „Svah" ve Starém Městě pod Sněžníkem. Odolnost III, typická pozice na horském svahu. Dnes ruina.
 wikidata_id: Q98601581
 commons_category: StM-S 34 Svah casemate
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Star%C3%A9_M%C4%9Bsto%2C_StM-S_34_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_34_%28rok_2003%29.jpg
-  alt: Pěchotní srub StM-S 34 Svah
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_34_(rok_2003).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_01.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_01.jpg
-  alt: Pěchotní srub StM-S 34
-  author: Michal Gregor
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_01.jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_02.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_02.jpg
-  alt: Pěchotní srub StM-S 34
-  author: Michal Gregor
-  license: CC BY-SA 4.0
-  source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_02.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Star%C3%A9_M%C4%9Bsto%2C_StM-S_34_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_34_%28rok_2003%29.jpg
+    alt: Pěchotní srub StM-S 34 Svah
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Star%C3%A9_M%C4%9Bsto,_StM-S_34_(rok_2003).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_01.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_01.jpg
+    alt: Pěchotní srub StM-S 34
+    author: Michal Gregor
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_01.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_02.jpg/1920px-P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_02.jpg
+    alt: Pěchotní srub StM-S 34
+    author: Michal Gregor
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_02.jpg

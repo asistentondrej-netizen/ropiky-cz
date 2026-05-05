@@ -2,30 +2,28 @@ title: MO-S 4 „U šedé vily"
 code: MO-S 4
 type: pechotni-srub
 line: Moravská Ostrava
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.91179
   lon: 18.34529
   elevation: 198
 built: '1937'
 state: zachovaly
-description: Pěchotní srub na samém severu ostravské linie, u hranice s Polskem. Odolnost
-  II, těžká výzbroj oboustranného palebného úseku. Po válce poškozen, dnes v keřovém
-  porostu u Bohumína.
-sources:
-- Wikimedia Commons
+description: >-
+  Pěchotní srub na samém severu ostravské linie, u hranice s Polskem. Odolnost II, těžká výzbroj oboustranného palebného
+  úseku. Po válce poškozen, dnes v keřovém porostu u Bohumína.
 wikidata_id: Q11765020
-wikipedia_url: "https://cs.wikipedia.org/wiki/MO-S_4_U_%C5%A1ed%C3%A9_vily"
+wikipedia_url: https://cs.wikipedia.org/wiki/MO-S_4_U_%C5%A1ed%C3%A9_vily
 commons_category: MO-S 4 U šedé vily casemate
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Mo-s4_seda_vila%2C_leto_%28kvh_bohumin%29.jpg
-  alt: Pěchotní srub MO-S 4
-  author: Tieftrunk Tomáš
-  license: CC BY 3.0
-  source: https://commons.wikimedia.org/wiki/File:Mo-s4_seda_vila,_leto_(kvh_bohumin).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Mo-s4_seda_vila%2C_zima_%28kvh_bohumin%29.jpg
-  alt: Pěchotní srub MO-S 4
-  author: Tieftrunk Tomáš
-  license: CC BY 3.0
-  source: https://commons.wikimedia.org/wiki/File:Mo-s4_seda_vila,_zima_(kvh_bohumin).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/e/eb/Mo-s4_seda_vila%2C_leto_%28kvh_bohumin%29.jpg
+    alt: Pěchotní srub MO-S 4
+    author: Tieftrunk Tomáš
+    license: CC BY 3.0
+    source: https://commons.wikimedia.org/wiki/File:Mo-s4_seda_vila,_leto_(kvh_bohumin).jpg
+  - url: https://upload.wikimedia.org/wikipedia/commons/e/ec/Mo-s4_seda_vila%2C_zima_%28kvh_bohumin%29.jpg
+    alt: Pěchotní srub MO-S 4
+    author: Tieftrunk Tomáš
+    license: CC BY 3.0
+    source: https://commons.wikimedia.org/wiki/File:Mo-s4_seda_vila,_zima_(kvh_bohumin).jpg

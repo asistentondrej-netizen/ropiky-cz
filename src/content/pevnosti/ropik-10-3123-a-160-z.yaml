@@ -1,15 +1,15 @@
-title: "Řopík 10/3123/A-160 Z (Mikulovsko)"
-code: "10/3123/A-160 Z"
+title: Řopík 10/3123/A-160 Z (Mikulovsko)
+code: 10/3123/A-160 Z
 type: lo-vz-37
-line: 'Jižní Morava — Mikulovsko'
-region: "Jihomoravský kraj"
+line: Jižní Morava — Mikulovsko
+region: Jihomoravský kraj
 location:
   lat: 48.8094
   lon: 16.57903
   elevation: 190
-built: "1938"
+built: '1938'
 state: neznamy
-description: "Lehký objekt vz. 37 („řopík“), typ A-160 Z — oboustranný kulometný (čelní úhel 160°, zesílený (II. stupeň odolnosti)). Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938."
-sources:
-  - OpenStreetMap
+description: >-
+  Lehký objekt vz. 37 („řopík“), typ A-160 Z — oboustranný kulometný (čelní úhel 160°, zesílený (II. stupeň odolnosti)).
+  Součást linie lehkého opevnění jižní Moravy (Mikulovsko), budované po Anschlussu Rakouska v roce 1938.
 updated: '2026-04-19'

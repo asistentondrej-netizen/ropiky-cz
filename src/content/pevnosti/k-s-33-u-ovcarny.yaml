@@ -2,23 +2,22 @@ title: K-S 33 „U ovčárny"
 code: K-S 33
 type: pechotni-srub
 line: Králíky
-region: "Pardubický kraj"
+region: Pardubický kraj
 location:
   lat: 50.098453
   lon: 16.63459
   elevation: 540
 built: '1937'
 state: pristupny
-description: Pěchotní srub v prostoru Lichkova — odolnost III, typická pozice na svahu.
-  Po válce poškozen trhacími zkouškami, zachované torzo.
-sources:
-- Wikimedia Commons
+description: >-
+  Pěchotní srub v prostoru Lichkova — odolnost III, typická pozice na svahu. Po válce poškozen trhacími zkouškami,
+  zachované torzo.
 wikidata_id: Q69578664
 commons_category: K-S 33 U ovčárny casemate
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/e/e7/K-S_33.JPG
-  alt: Pěchotní srub K-S 33
-  author: Martin Provazník
-  license: Public domain
-  source: https://commons.wikimedia.org/wiki/File:K-S_33.JPG
+  - url: https://upload.wikimedia.org/wikipedia/commons/e/e7/K-S_33.JPG
+    alt: Pěchotní srub K-S 33
+    author: Martin Provazník
+    license: Public domain
+    source: https://commons.wikimedia.org/wiki/File:K-S_33.JPG

@@ -11,8 +11,6 @@ state: muzeum
 description: >-
   Pěchotní srub MO-SM-S-41 náležející k dělostřelecké tvrzi Smolkov na úseku Moravská Ostrava. Součást československého
   těžkého opevnění z let 1935–1938.
-sources:
-  - OpenStreetMap (OSM element node/2961094848)
 wikidata_id: Q98645666
 commons_category: MO-Sm-S 41 Nad Valchou casemate
 updated: '2026-04-19'

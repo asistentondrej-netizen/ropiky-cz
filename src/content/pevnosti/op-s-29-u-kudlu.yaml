@@ -2,23 +2,22 @@ title: OP-S 29 „U kudlu"
 code: OP-S 29
 type: pechotni-srub
 line: Opava
-region: "Moravskoslezský kraj"
+region: Moravskoslezský kraj
 location:
   lat: 49.95449
   lon: 17.79315
   elevation: 335
 built: '1937'
 state: neznamy
-description: Pěchotní srub „U Kudlů" — odolnost II, součást opavské linie v prostoru
-  Milostovic. Zachované fragmenty obvodového pláště.
-sources:
-- Wikimedia Commons
+description: >-
+  Pěchotní srub „U Kudlů" — odolnost II, součást opavské linie v prostoru Milostovic. Zachované fragmenty obvodového
+  pláště.
 photos:
-  - url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jamnice%2C_bunkr.JPG/1920px-Jamnice%2C_bunkr.JPG"
-    alt: "OP-S 29 „U kudlu\""
-    author: "Palickap"
-    license: "CC BY-SA 4.0"
-    source: "https://commons.wikimedia.org/wiki/File:Jamnice,_bunkr.JPG"
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jamnice%2C_bunkr.JPG/1920px-Jamnice%2C_bunkr.JPG
+    alt: OP-S 29 „U kudlu"
+    author: Palickap
+    license: CC BY-SA 4.0
+    source: https://commons.wikimedia.org/wiki/File:Jamnice,_bunkr.JPG
 wikidata_id: Q98592017
 commons_category: OP-S 29 U kudlu casemate
 updated: '2026-04-18'

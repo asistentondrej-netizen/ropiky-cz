@@ -15,8 +15,6 @@ tech:
   odolnost: neurceno
   stupenDokonceni: dokonceny
   typObjektu: Muzejní expozice — 3 přenesené řopíky + kopie pěchotního srubu
-  posadka:
-    poznamka: Nezávislé objekty — každý řopík měl posádku 7 mužů.
   komponenty:
     - pancerovy-zvon
 stavba:
@@ -33,9 +31,6 @@ navsteva:
   doporucenaDoba_minut: 180
   otevreno:
     sezonne: false
-    dny: úterý–neděle
-    hodiny: 9:00–17:00 (zima do 16:00)
-    poznamka: Pondělí zavřeno kromě svátků.
   upozorneni:
     - Ideální celodenní rodinný výlet z Prahy.
     - Letní tábor (červenec–srpen) s historickou tematikou.

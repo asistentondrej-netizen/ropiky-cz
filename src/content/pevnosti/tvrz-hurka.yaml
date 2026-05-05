@@ -35,8 +35,6 @@ navsteva:
   doporucenaDoba_minut: 90
   otevreno:
     sezonne: true
-    obdobi: duben–říjen
-    poznamka: Prohlídka pouze s průvodcem. Aktuální hodiny viz provozovatel.
   upozorneni:
     - V podzemí je celoročně nízká teplota — teplé oblečení.
     - Prohlídka zahrnuje schody do podzemí.
@@ -46,7 +44,6 @@ spravujicSubjekt:
   web: https://www.kralickypevnostniareal.cz
 pamatka:
   status: kulturni-pamatka
-  poznamka: Součást Králického pevnostního areálu, zapsaná kulturní památka.
 photos:
   - url: >-
       https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kr%C3%A1l%C3%ADky%2C_K-S_12a_%28rok_2008%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_K-S_12a_%28rok_2008%3B_01%29.jpg

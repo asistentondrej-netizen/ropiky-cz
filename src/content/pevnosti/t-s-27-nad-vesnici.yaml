@@ -2,33 +2,35 @@ title: T-S 27 „Nad vesnicí"
 code: T-S 27
 type: pechotni-srub
 line: Trutnov
-region: "Královéhradecký kraj"
+region: Královéhradecký kraj
 location:
   lat: 50.52991111
   lon: 16.09416667
   elevation: 608
 built: '1937'
 state: zachovaly
-description: Pěchotní srub „Nad vesnicí" u Malých Svatoňovic-Odolova. Odolnost III,
-  typická pozice na svahu nad obcí. Dnes ruina v lese.
-sources:
-- Wikimedia Commons
+description: >-
+  Pěchotní srub „Nad vesnicí" u Malých Svatoňovic-Odolova. Odolnost III, typická pozice na svahu nad obcí. Dnes ruina v
+  lese.
 wikidata_id: Q61829983
 commons_category: T-S 27 Nad vesnicí casemate
 updated: '2026-04-18'
 photos:
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_01%29.jpg/1920px-Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_01%29.jpg
-  alt: Pěchotní srub T-S 27
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Mal%C3%A9_Svato%C5%88ovice,_Odolov,_T-S_27_(rok_2012;_01).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_02%29.jpg/1920px-Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_02%29.jpg
-  alt: Pěchotní srub T-S 27
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Mal%C3%A9_Svato%C5%88ovice,_Odolov,_T-S_27_(rok_2012;_02).jpg
-- url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_03%29.jpg/1920px-Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_03%29.jpg
-  alt: Pěchotní srub T-S 27
-  author: Harold
-  license: CC BY-SA 3.0
-  source: https://commons.wikimedia.org/wiki/File:Mal%C3%A9_Svato%C5%88ovice,_Odolov,_T-S_27_(rok_2012;_03).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_01%29.jpg/1920px-Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_01%29.jpg
+    alt: Pěchotní srub T-S 27
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Mal%C3%A9_Svato%C5%88ovice,_Odolov,_T-S_27_(rok_2012;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_02%29.jpg/1920px-Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_02%29.jpg
+    alt: Pěchotní srub T-S 27
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Mal%C3%A9_Svato%C5%88ovice,_Odolov,_T-S_27_(rok_2012;_02).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_03%29.jpg/1920px-Mal%C3%A9_Svato%C5%88ovice%2C_Odolov%2C_T-S_27_%28rok_2012%3B_03%29.jpg
+    alt: Pěchotní srub T-S 27
+    author: Harold
+    license: CC BY-SA 3.0
+    source: https://commons.wikimedia.org/wiki/File:Mal%C3%A9_Svato%C5%88ovice,_Odolov,_T-S_27_(rok_2012;_03).jpg

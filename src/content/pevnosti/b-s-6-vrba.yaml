@@ -14,7 +14,6 @@ description: Pěchotní srub B-S 6 — objekt těžkého opevnění českosloven
 tech:
   odolnost: I
   stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub jednostranný (typ A)
   komponenty:
     - pancerovy-zvon
 stavba:
@@ -34,9 +33,6 @@ navsteva:
   doporucenaDoba_minut: 40
   otevreno:
     sezonne: true
-    obdobi: duben–říjen
-    dny: víkendy 13:00–17:00
-    poznamka: Prohlídka s průvodcem každou celou hodinu.
   upozorneni:
     - 15 min pěšky od B-S 5 „Žabí most" přes Chorvátske rameno.
     - Výklad obsahuje video s vnučkou npor. Husovského.
