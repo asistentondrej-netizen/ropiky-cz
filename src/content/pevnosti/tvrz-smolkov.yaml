@@ -35,9 +35,6 @@ navsteva:
   otevreno:
     sezonne: false
     poznamka: Exteriéry volně přístupné. Podzemí jen při speciálních akcích.
-  vstupne:
-    zdarma: true
-    poznamka: Exteriéry zdarma. Vstup do podzemí při akcích — viz organizátor.
   upozorneni:
     - Mezi objekty je nutná chůze po polní/lesní cestě.
     - Pevné boty doporučeny.

@@ -16,28 +16,12 @@ tech:
   odolnost: III
   stupenDokonceni: dokonceny
   typObjektu: Vchodový objekt dělostřelecké tvrze
-  posadka:
-    mini: 6
-    maxi: 12
-    poznamka: Strážní jednotka. Hlavní posádka tvrze (780 mužů) v podzemí.
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 2
-      umisteni: vnitřní střílny vchodu
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 1
-      umisteni: pancéřový zvon
-  steny:
-    tloustka_cm: 275
-    material: Železobeton B500
   komponenty:
     - pancerovy-zvon
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
-  stavebniFirma: Ing. Záruba-Pfeffermann, Brno
   zahajeni: '1936'
   dokonceni: '1937'
-  poznamka: Obousměrná rampa pro nákladní vozidla (sklon 10 %, délka 35 m) s vnitřním obratem.
 historieMilniky:
   - datum: 30. 9. 1938
     udalost: Mnichov — předání Wehrmachtu
@@ -54,17 +38,6 @@ navsteva:
     obdobi: duben–říjen
     dny: víkendy, hlavní sezóna denně
     poznamka: Prohlídky jen s průvodcem, každou celou hodinu.
-  vstupne:
-    zakladni_kc: 200
-    snizene_kc: 100
-    rodinne_kc: 450
-    poznamka: Kombinovaná Bouda + K-S 22a „Krok" 280 Kč.
-  rezervace:
-    nutna: false
-    url: https://www.bouda.cz
-  parkovani: Parkoviště před areálem (50 Kč).
-  mhd: Z Králík bus linka 660 do Dolní Moravy, 500 m pěšky.
-  teplotaUvnitr_C: 10
   upozorneni:
     - Teplota v podzemí celoročně 8–12 °C — teplé oblečení i v létě.
     - Vlhkost 80–90 %, citlivé na astma.

@@ -23,7 +23,6 @@ stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   zahajeni: '1937'
   dokonceni: '1938'
-  poznamka: Přenesení objektů 2008–2012 v rámci programu Ministerstva obrany Záchrana ohrožených fortifikačních objektů.
 visit: >
   Největší vojenské muzeum ve Středočeském kraji, nejlépe dostupné pevnostní místo z Prahy (40 km, vlakem 45 min).
   Otevřeno celoročně, úterý–neděle 9:00–17:00 (zima do 16:00). Pondělí zavřeno kromě svátků. Aktuální informace na
@@ -37,14 +36,6 @@ navsteva:
     dny: úterý–neděle
     hodiny: 9:00–17:00 (zima do 16:00)
     poznamka: Pondělí zavřeno kromě svátků.
-  vstupne:
-    zakladni_kc: 170
-    snizene_kc: 90
-    rodinne_kc: 400
-    poznamka: Předškoláci zdarma. Skupinové slevy.
-  parkovani: Zdarma u muzea.
-  mhd: Vlakem z Prahy (linky 070/072, 45 min), pak 15 min pěšky. Autobusem linka 432.
-  teplotaUvnitr_C: 18
   upozorneni:
     - Ideální celodenní rodinný výlet z Prahy.
     - Letní tábor (červenec–srpen) s historickou tematikou.

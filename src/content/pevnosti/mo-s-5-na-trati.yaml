@@ -6,71 +6,72 @@ region: Moravskoslezský kraj
 location:
   lat: 49.8859
   lon: 18.3294
-  address: Hlučín-Darkovičky, skanzen čs. opevnění
+  address: Čs. armády, 735 81 Bohumín 1
   elevation: 248
 built: '1936'
 state: muzeum
-description: Pěchotní srub MO-S 5 — objekt těžkého opevnění československého ŘOP 1935–1938.
+description: >-
+  Pěchotní srub MO-S 5 „Na trati" v Bohumíně, od roku 1999 rekonstruovaný a provozovaný
+  KVH Bohumín, z.s. Přístupný veřejnosti jako muzeum, samostatná expozice mimo areál Hlučín-Darkovičky.
 tech:
-  odolnost: II
+  odolnost: III
   stupenDokonceni: dokonceny
-  typObjektu: Pěchotní srub oboustranný (typ B)
-  orientace: SZ–JV (pravé křídlo k MO-S 4, levé k MO-S 6)
+  typObjektu: Pěchotní srub oboustranný
   posadka:
-    mini: 21
-    maxi: 32
+    mini: 45
+    maxi: 45
   vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
+    - zbran: Těžký kulomet vz. 37
+      pocet: 5
+      umisteni: 4 ve střílnách pod betonem, 1 v pravém zvonu
+    - zbran: Lehký kulomet vz. 26
       pocet: 4
-      umisteni: střílny pravé a levé kasematy
-    - zbran: Lehký kulomet ZB vz. 26
+      umisteni: 3 v pomocných střílnách, 1 v levém zvonu
+    - zbran: Protitankový kanón ráže 47 mm
       pocet: 2
-      umisteni: pancéřový zvon
-    - zbran: Protitankový kanón vz. 36 (3,7 cm)
-      pocet: 2
-      umisteni: střílny spřažené s těžkým kulometem
+      umisteni: spřažené střílny
   steny:
-    tloustka_cm: 225
-    material: Železobeton B500
+    poznamka: Odolnost betonu 455 kg/cm² (dle správce objektu).
   komponenty:
     - pancerovy-zvon
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
-  stavebniFirma: Kruliš-Hess, Ostrava
+  stavebniFirma: Dr. Ing. Karel Skorkovský, Praha
   zahajeni: '1936'
-  dokonceni: '1937'
-  betonaz_m3: 1530
-  poznamka: Betonáž v několika etapách — spodní patro léto 1936, horní patro jaro 1937.
+  dokonceni: '1936'
+  betonaz_m3: 4314
+  poznamka: Betonáž proběhla najednou ve dnech 14.–29. 7. 1936.
 historieMilniky:
   - datum: 30. 9. 1938
-    udalost: Mnichov — předání Wehrmachtu
+    udalost: Mnichovská dohoda — opevnění odevzdáno bez boje
+visit: >-
+  Muzeum MO-S 5 „Na trati" provozuje KVH Bohumín, z.s. (rekonstrukce od roku 1999).
+  Před objektem jsou k vidění protitankové překážky. Aktuální informace na bunkr-bohumin.cz.
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: doporuceno
   doporucenaDoba_minut: 60
   otevreno:
     sezonne: true
-    obdobi: duben–listopad
-    poznamka: Aktuální hodiny viz szm.cz.
+    obdobi: duben–září, 28. říjen
+    dny: soboty, neděle, státní svátky
+    poznamka: Aktuální hodiny viz bunkr-bohumin.cz.
   vstupne:
-    zakladni_kc: 150
-    snizene_kc: 80
-    rodinne_kc: 380
-    poznamka: Společná vstupenka pro celý areál Darkoviček.
-  parkovani: Parkoviště u skanzenu zdarma.
-  mhd: Z Ostravy bus linka 268 do Hlučína, odtud cca 3 km pěšky nebo místní bus.
-  teplotaUvnitr_C: 10
+    zakladni_kc: 100
+    snizene_kc: 50
+    poznamka: Vstupné 100 Kč (15+), 50 Kč (6–15 let), do 6 let zdarma. Vstupenka skanzenu Darkovičky zde NEPLATÍ — jde o samostatnou expozici.
+  parkovani: U objektu.
+  mhd: Autobus linka 555 na zastávku Bohumín, Pudlov, Rybena. Také vlakem do Bohumína.
   upozorneni:
-    - Prohlídka s průvodcem cca 60 minut za srub.
-    - Součástí je venkovní expozice zbraní a techniky.
-    - Kombinujte s návštěvou Dolních Vítkovic v Ostravě.
+    - Objekt NENÍ součástí Areálu čs. opevnění Hlučín-Darkovičky — jde o samostatné muzeum v Bohumíně.
+    - Před objektem volně přístupné protitankové překážky.
 spravujicSubjekt:
-  nazev: Slezské zemské muzeum — Areál čs. opevnění Hlučín-Darkovičky
-  typ: muzeum
-  web: https://www.szm.cz
+  nazev: KVH Bohumín, z.s.
+  typ: klub-vojenske-historie
+  web: https://www.bunkr-bohumin.cz
 pamatka:
-  status: nkp
-  poznamka: Národní kulturní památka od roku 2014 (společně pro areál Darkovičky).
+  status: kulturni-pamatka
+  poznamka: Zapsáno mezi kulturní památky ČR od roku 2004.
 photos:
   - url: >-
       https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg/1280px-Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg
@@ -82,7 +83,7 @@ photos:
     featured: true
   - url: >-
       https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_02%29.jpg/1920px-Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_02%29.jpg
-    alt: Pěchotní srub MO-S 5 — detail stopa po střelbě
+    alt: Pěchotní srub MO-S 5 — detail
     author: User:Harold's family
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Bohum%C3%ADn,_Star%C3%BD_Bohum%C3%ADn,_MO-S_5_(rok_2001;_02).jpg
@@ -91,19 +92,15 @@ related:
   pevnosti:
     - mo-s-19-alej
     - mo-s-20-orel
-    - mo-s-21
-    - mo-s-22
     - tvrz-smolkov
   typologie:
     - pechotni-srub
     - pancerovy-zvon
 sources:
-  - title: Slezské zemské muzeum — Areál čs. opevnění Hlučín-Darkovičky
-    url: https://www.szm.cz
-    type: web
-  - title: Wikipedie — Areál čs. opevnění Hlučín-Darkovičky
+  - title: KVH Bohumín — bunkr-bohumin.cz
+    url: https://www.bunkr-bohumin.cz/#whoWeAre
     type: web
 wikidata_id: Q11765022
 wikipedia_url: https://cs.wikipedia.org/wiki/MO-S_5_Na_trati
 commons_category: MO-S 5 Na trati casemate
-updated: '2026-04-22'
+updated: '2026-05-05'

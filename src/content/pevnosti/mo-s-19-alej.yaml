@@ -6,48 +6,25 @@ region: Moravskoslezský kraj
 location:
   lat: 49.8855
   lon: 18.3272
-  address: Hlučín-Darkovičky, skanzen čs. opevnění
   elevation: 254
 built: '1936'
 state: muzeum
-description: >
-  Ukázkově rekonstruovaný oboustranný pěchotní srub v rámci skanzenu Darkovičky. Vybaven plnou dobovou výstrojí,
-  replikami zbraní a pozorovacím zvonem. Spolu s MO-S 5 a MO-S 20 patří k nejkvalitněji zachovaným objektům těžkého
-  opevnění v ČR.
+description: >-
+  Pěchotní srub MO-S 19 — objekt těžkého opevnění československého ŘOP 1935–1938. Lokace a vazba na muzejní areál
+  vyžaduje ověření.
 tech:
   odolnost: II
   stupenDokonceni: dokonceny
   typObjektu: Pěchotní srub oboustranný (typ B)
-  posadka:
-    mini: 20
-    maxi: 30
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 4
-      umisteni: pravá a levá kasemata
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 2
-      umisteni: pancéřový zvon
-    - zbran: Protitankový kanón vz. 36 (3,7 cm)
-      pocet: 2
-      umisteni: střílny spřažené s těžkým kulometem
-  steny:
-    tloustka_cm: 225
-    material: Železobeton B500
   komponenty:
     - pancerovy-zvon
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
-  stavebniFirma: Kruliš-Hess, Ostrava
   zahajeni: '1936'
   dokonceni: '1937'
-  poznamka: Sousední objekt s MO-S 5, společná palebná clona na železniční trati.
 historieMilniky:
   - datum: 30. 9. 1938
     udalost: Mnichov — předání Wehrmachtu
-visit: >
-  Součást Areálu čs. opevnění Hlučín-Darkovičky Slezského zemského muzea. Vstup v rámci společné prohlídky skanzenu.
-  Průvodcovský výklad cca 45 minut. Otevřeno duben–listopad. Aktuální informace na szm.cz.
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: doporuceno
@@ -55,24 +32,11 @@ navsteva:
   otevreno:
     sezonne: true
     obdobi: duben–listopad
-    poznamka: Aktuální hodiny viz szm.cz.
-  vstupne:
-    zakladni_kc: 150
-    snizene_kc: 80
-    rodinne_kc: 380
-    poznamka: Společná vstupenka pro celý areál Darkoviček.
-  parkovani: Parkoviště u skanzenu zdarma.
-  teplotaUvnitr_C: 10
   upozorneni:
     - Prohlídka pouze s průvodcem.
     - V areálu jsou i venkovní expozice zbraní a techniky.
-spravujicSubjekt:
-  nazev: Slezské zemské muzeum — Areál čs. opevnění Hlučín-Darkovičky
-  typ: muzeum
-  web: https://www.szm.cz
 pamatka:
   status: nkp
-  poznamka: Národní kulturní památka (součást areálu Darkovičky).
 photos:
   - url: >-
       https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hlu%C4%8D%C3%ADn%2C_Darkovi%C4%8Dky%2C_MO-S_19_%282015-05-01%3B_01%29.jpg/1280px-Hlu%C4%8D%C3%ADn%2C_Darkovi%C4%8Dky%2C_MO-S_19_%282015-05-01%3B_01%29.jpg
@@ -99,8 +63,4 @@ related:
   typologie:
     - pechotni-srub
     - pancerovy-zvon
-sources:
-  - title: Slezské zemské muzeum — Areál čs. opevnění Hlučín-Darkovičky
-    url: https://www.szm.cz
-    type: web
 updated: '2026-04-20'

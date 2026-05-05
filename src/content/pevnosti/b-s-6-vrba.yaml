@@ -15,29 +15,12 @@ tech:
   odolnost: I
   stupenDokonceni: dokonceny
   typObjektu: Pěchotní srub jednostranný (typ A)
-  posadka:
-    mini: 14
-    maxi: 20
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 2
-      umisteni: střílna kasematy
-    - zbran: Protitankový kanón vz. 36 (3,7 cm)
-      pocet: 1
-      umisteni: střílna spřažená s kulometem
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 1
-      umisteni: pancéřový zvon
-  steny:
-    tloustka_cm: 175
-    material: Železobeton B500
   komponenty:
     - pancerovy-zvon
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   zahajeni: '1938'
   dokonceni: '1938'
-  poznamka: Vznikl v rámci urgentní dostavby bratislavské čáry po anšlusu Rakouska.
 historieMilniky:
   - datum: 30. 9. 1938
     udalost: Opuštěno po osobní intervenci plk. Ludvíka Svobody
@@ -54,13 +37,6 @@ navsteva:
     obdobi: duben–říjen
     dny: víkendy 13:00–17:00
     poznamka: Prohlídka s průvodcem každou celou hodinu.
-  vstupne:
-    zakladni_kc: 125
-    snizene_kc: 75
-    poznamka: Ceny v EUR (5/3). Kombinovaná s B-S 5 + B-S 4 za 10 €.
-  mhd: Tramvaj 1 nebo 3 do zastávky Starohájska, 8 min pěšky.
-  parkovani: Modré zóny na Einsteinově ul. (placené).
-  teplotaUvnitr_C: 12
   upozorneni:
     - 15 min pěšky od B-S 5 „Žabí most" přes Chorvátske rameno.
     - Výklad obsahuje video s vnučkou npor. Husovského.

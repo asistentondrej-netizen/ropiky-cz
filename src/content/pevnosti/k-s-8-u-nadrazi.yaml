@@ -15,30 +15,12 @@ tech:
   odolnost: III
   stupenDokonceni: dokonceny
   typObjektu: Pěchotní srub oboustranný (typ C)
-  orientace: Palebné pole přes přechod železniční trati
-  posadka:
-    mini: 22
-    maxi: 32
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 4
-      umisteni: pravá a levá kasemata
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 2
-      umisteni: pancéřový zvon
-    - zbran: Protitankový kanón vz. 36 (3,7 cm) spřažený s kulometem
-      pocet: 2
-      umisteni: střílny kasemat
-  steny:
-    tloustka_cm: 275
-    material: Železobeton B500
   komponenty:
     - pancerovy-zvon
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   zahajeni: '1937'
   dokonceni: '1938'
-  poznamka: Objekt v klíčové poloze u železniční trati Králíky–Międzylesie.
 historieMilniky:
   - datum: '1938'
     udalost: Dokončení a výzbroj
@@ -57,16 +39,8 @@ navsteva:
     obdobi: květen–říjen
     dny: víkendy 10:00–17:00
     poznamka: V hlavní sezóně i všední dny.
-  vstupne:
-    zakladni_kc: 100
-    snizene_kc: 60
-    poznamka: Aktuální info na kvh-kraliky.cz.
-  parkovani: U nádraží a v centru Králík.
-  mhd: Vlakem do Králíky, 200 m pěšky.
-  teplotaUvnitr_C: 11
   upozorneni:
     - Ideální jako startovní bod pro prohlídku králických opevnění.
-    - Kombinujte s tvrzí Bouda (18 km) nebo Hůrka (10 km).
     - Ukázka překážkového systému (protitankové jámy) ve venkovním prostoru.
 spravujicSubjekt:
   nazev: Klub vojenské historie Králíky

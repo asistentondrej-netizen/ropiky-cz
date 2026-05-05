@@ -15,29 +15,12 @@ tech:
   odolnost: III
   stupenDokonceni: dokonceny
   typObjektu: Pěchotní srub oboustranný (typ C)
-  posadka:
-    mini: 22
-    maxi: 32
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 4
-      umisteni: pravá a levá kasemata
-    - zbran: Protitankový kanón vz. 36 (3,7 cm)
-      pocet: 2
-      umisteni: střílny spřažené s kulometem
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 2
-      umisteni: pancéřové zvony
-  steny:
-    tloustka_cm: 275
-    material: Železobeton B500
   komponenty:
     - pancerovy-zvon
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   zahajeni: '1937'
   dokonceni: '1938'
-  poznamka: Součást obranné linie nad Hronovem proti směru na Polsko (Kladsko).
 historieMilniky:
   - datum: 30. 9. 1938
     udalost: Mnichov — předání Wehrmachtu
@@ -50,13 +33,6 @@ navsteva:
     obdobi: květen–září
     dny: víkendy 10:00–17:00
     poznamka: Červenec–srpen i všední dny.
-  vstupne:
-    zakladni_kc: 80
-    snizene_kc: 40
-    poznamka: Společná vstupenka s expozicí Pevnost Hronov.
-  parkovani: V obci Rokytník, pak 1 km pěšky.
-  mhd: Vlakem do Hronova, odtud taxi nebo kolo.
-  teplotaUvnitr_C: 10
   upozorneni:
     - Panoramatický výhled na Broumovské stěny a Adršpach.
     - Ideální pro cyklisty — navazuje na cyklostezky Broumovska.

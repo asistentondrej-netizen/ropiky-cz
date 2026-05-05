@@ -37,11 +37,6 @@ navsteva:
     sezonne: true
     obdobi: duben–říjen
     poznamka: Prohlídka pouze s průvodcem. Aktuální hodiny viz tvrzbouda.cz.
-  rezervace:
-    nutna: false
-    url: https://www.tvrzbouda.cz
-  parkovani: U vchodu do areálu.
-  teplotaUvnitr_C: 7
   upozorneni:
     - V podzemí je celoročně nízká teplota — vezměte teplé oblečení.
     - Prohlídka zahrnuje schody do podzemí a delší chůzi.

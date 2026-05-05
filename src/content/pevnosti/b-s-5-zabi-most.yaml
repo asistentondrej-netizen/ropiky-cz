@@ -15,31 +15,12 @@ tech:
   odolnost: II
   stupenDokonceni: dokonceny
   typObjektu: Pěchotní srub jednostranný (typ A)
-  orientace: Palebné pole přes Chorvátske rameno
-  posadka:
-    mini: 15
-    maxi: 21
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 2
-      umisteni: střílna kasematy
-    - zbran: Protitankový kanón vz. 36 (3,7 cm)
-      pocet: 1
-      umisteni: střílna spřažená s kulometem
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 1
-      umisteni: pancéřový zvon
-  steny:
-    tloustka_cm: 225
-    material: Železobeton B500
   komponenty:
     - pancerovy-zvon
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
-  stavebniFirma: Ing. Záruba-Pfeffermann, Brno
   zahajeni: '1937'
   dokonceni: '1938'
-  poznamka: Součást bratislavské čáry proti hrozbě z Maďarska a Rakouska.
 navsteva:
   pristupnost: pesky-turisticka
   vhodnostRodiny: doporuceno
@@ -49,17 +30,8 @@ navsteva:
     obdobi: duben–říjen
     dny: víkendy 13:00–17:00
     poznamka: Zima uzavřeno. Prohlídka s průvodcem každou celou hodinu.
-  vstupne:
-    zakladni_kc: 125
-    snizene_kc: 75
-    rodinne_kc: 300
-    poznamka: Ceny v EUR (5/3/12). Kombinovaná s B-S 4, B-S 6, B-S 8 za 3 h prohlídky.
-  mhd: Tramvaj 1 nebo 3 do zastávky Pečnianska, 5 min pěšky.
-  parkovani: Parkovací dům OC Aupark, 10 min pěšky.
-  teplotaUvnitr_C: 12
   upozorneni:
     - Cyklostezka Chorvátske rameno vede přímo kolem objektu.
-    - Kombinujte s historickým centrem Bratislavy (2 h) a Bratislavským hradem.
     - Den čs. opevnění v září — dobové rekonstrukce, velké návštěvnické akce.
 spravujicSubjekt:
   nazev: Zachráňme petržalské bunkre (občianske združenie)

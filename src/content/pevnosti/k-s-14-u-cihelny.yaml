@@ -15,31 +15,12 @@ tech:
   odolnost: III
   stupenDokonceni: dokonceny
   typObjektu: Pěchotní srub oboustranný (typ C)
-  orientace: S–J, palebné pole do údolí Lipkovského potoka
-  posadka:
-    mini: 27
-    maxi: 37
-  vyzbroj:
-    - zbran: Těžký kulomet ZB vz. 37
-      pocet: 4
-      umisteni: pravá a levá kasemata
-    - zbran: Lehký kulomet ZB vz. 26
-      pocet: 2
-      umisteni: pancéřový zvon
-    - zbran: Protitankový kanón vz. 36 (3,7 cm) spřažený s kulometem
-      pocet: 2
-      umisteni: střílny kasemat
-  steny:
-    tloustka_cm: 275
-    material: Železobeton B500
   komponenty:
     - pancerovy-zvon
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
-  stavebniFirma: Záruba-Pfeffermann, Praha
   zahajeni: '1937'
   dokonceni: '1938'
-  poznamka: Jeden z objektů odolnosti III v klíčovém králickém úseku.
 historieMilniky:
   - datum: '1938'
     udalost: Dokončení a výzbroj
@@ -54,15 +35,7 @@ navsteva:
     obdobi: duben–listopad
     dny: víkendy, hlavní sezóna denně
     poznamka: Akce „Cihelna" 1. víkend v srpnu — rozšířený provoz.
-  vstupne:
-    zakladni_kc: 120
-    snizene_kc: 60
-    rodinne_kc: 280
-    poznamka: Vyšší vstupné při akci „Cihelna".
-  parkovani: Parkoviště u areálu zdarma.
-  teplotaUvnitr_C: 11
   upozorneni:
-    - Kombinujte s návštěvou tvrze Bouda (5 km) nebo Hůrka (3 km).
     - Akce „Cihelna" — velké davy, doporučena rezervace ubytování.
     - Prohlídky s průvodcem, skupinové nebo individuální.
 spravujicSubjekt:
