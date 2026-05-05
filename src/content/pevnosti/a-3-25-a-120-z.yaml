@@ -2,7 +2,7 @@ title: A-3/25/A-120 Z
 code: A-3/25/A-120 Z
 type: lo-vz-37
 line: A-3
-region: Středočeský kraj
+region: Ústecký kraj
 location:
   lat: 50.209117
   lon: 14.048593
@@ -10,7 +10,7 @@ location:
 state: rozpadly
 description: Lehký objekt vz. 37 „řopík" A-3/25/A-120 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-- title: OpenStreetMap
-  url: https://www.openstreetmap.org/node/3371813691
-  type: web
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371813691
+    type: web
 updated: '2026-04-22'

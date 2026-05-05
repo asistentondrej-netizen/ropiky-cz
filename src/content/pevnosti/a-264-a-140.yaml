@@ -2,7 +2,7 @@ title: A/264/A-140
 code: A/264/A-140
 type: lo-vz-37
 line: A
-region: Královéhradecký kraj
+region: Pardubický kraj
 location:
   lat: 50.075113
   lon: 16.661957
@@ -10,7 +10,7 @@ location:
 state: rozpadly
 description: Lehký objekt vz. 37 „řopík" A/264/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-- title: OpenStreetMap
-  url: https://www.openstreetmap.org/node/3371583636
-  type: web
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371583636
+    type: web
 updated: '2026-04-22'

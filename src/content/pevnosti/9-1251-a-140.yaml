@@ -2,7 +2,7 @@ title: 9/1251/A-140
 code: 9/1251/A-140
 type: lo-vz-37
 line: '9'
-region: Jihomoravský kraj
+region: Jihočeský kraj
 location:
   lat: 48.89865
   lon: 15.6398
@@ -10,7 +10,7 @@ location:
 state: neznamy
 description: Lehký objekt vz. 37 „řopík" 9/1251/A-140. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-- title: OpenStreetMap
-  url: https://www.openstreetmap.org/node/3372076967
-  type: web
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3372076967
+    type: web
 updated: '2026-04-22'

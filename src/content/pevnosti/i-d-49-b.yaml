@@ -13,9 +13,5 @@ sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/node/3371652752
     type: web
-  - title: 'Wikipedie: Dobrošov (dělostřelecká tvrz)'
-    url: https://cs.wikipedia.org/wiki/Dobrošov_(dělostřelecká_tvrz)
-    type: web
 updated: '2026-04-23'
-wikipedia_url: https://cs.wikipedia.org/wiki/Dobrošov_(dělostřelecká_tvrz)
 built: '1938'

@@ -2,7 +2,7 @@ title: I.b/27/B
 code: I.b/27/B
 type: lo-vz-37
 line: Neurčeno
-region: Královéhradecký kraj
+region: Pardubický kraj
 location:
   lat: 50.24891
   lon: 16.47839
@@ -10,7 +10,7 @@ location:
 state: neznamy
 description: Lehký objekt vz. 37 „řopík" I.b/27/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-- title: OpenStreetMap
-  url: https://www.openstreetmap.org/node/3371652728
-  type: web
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371652728
+    type: web
 updated: '2026-04-22'

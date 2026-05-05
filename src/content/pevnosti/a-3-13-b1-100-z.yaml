@@ -2,15 +2,17 @@ title: A-3/13/B1-100 Z
 code: A-3/13/B1-100 Z
 type: lo-vz-37
 line: A-3
-region: Středočeský kraj
+region: Ústecký kraj
 location:
   lat: 50.220853
   lon: 14.0493
   elevation: 282
 state: rozpadly
-description: Lehký objekt vz. 37 „řopík" A-3/13/B1-100 Z. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
+description: >-
+  Lehký objekt vz. 37 „řopík" A-3/13/B1-100 Z. Základní záznam — čeká na doplnění technických dat, fotografií a
+  historie.
 sources:
-- title: OpenStreetMap
-  url: https://www.openstreetmap.org/node/3371813690
-  type: web
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371813690
+    type: web
 updated: '2026-04-22'

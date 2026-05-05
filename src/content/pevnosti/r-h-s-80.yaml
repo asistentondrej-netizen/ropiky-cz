@@ -2,7 +2,7 @@ title: R-H-S-80
 code: R-H-S-80
 type: pechotni-srub
 line: Rokytnicko / Orlické hory
-region: Královéhradecký kraj
+region: Pardubický kraj
 location:
   lat: 50.197556
   lon: 16.514545
@@ -11,12 +11,6 @@ state: zničeny
 description: >-
   Pěchotní srub R-H-S-80 náležející k dělostřelecké tvrzi Hanička na úseku Rokytnicko / Orlické hory. Součást
   československého těžkého opevnění z let 1935–1938.
-sources:
-  - title: 'Wikipedie: Hanička (dělostřelecká tvrz)'
-    url: https://cs.wikipedia.org/wiki/Hanička_(dělostřelecká_tvrz)
-    type: web
-wikidata_id: Q29563414
-commons_category: R-H-S 80 U potůčku casemate
 updated: '2026-04-23'
 photos:
   - url: >-
@@ -35,5 +29,4 @@ photos:
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
-wikipedia_url: https://cs.wikipedia.org/wiki/Hanička_(dělostřelecká_tvrz)
 built: '1938'

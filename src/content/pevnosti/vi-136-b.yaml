@@ -2,7 +2,7 @@ title: VI./136/B
 code: VI./136/B
 type: lo-vz-37
 line: Neurčeno
-region: Středočeský kraj
+region: Ústecký kraj
 location:
   lat: 50.55073
   lon: 13.68699
@@ -10,7 +10,7 @@ location:
 state: neznamy
 description: Lehký objekt vz. 37 „řopík" VI./136/B. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-- title: OpenStreetMap
-  url: https://www.openstreetmap.org/node/3371816464
-  type: web
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371816464
+    type: web
 updated: '2026-04-22'

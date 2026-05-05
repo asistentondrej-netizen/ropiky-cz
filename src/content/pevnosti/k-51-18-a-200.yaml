@@ -2,7 +2,7 @@ title: K-51/18/A-200
 code: K-51/18/A-200
 type: lo-vz-37
 line: K-51
-region: Středočeský kraj
+region: Ústecký kraj
 location:
   lat: 50.48181
   lon: 13.460123
@@ -10,7 +10,7 @@ location:
 state: neznamy
 description: Lehký objekt vz. 37 „řopík" K-51/18/A-200. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-- title: OpenStreetMap
-  url: https://www.openstreetmap.org/way/215106440
-  type: web
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/215106440
+    type: web
 updated: '2026-04-22'

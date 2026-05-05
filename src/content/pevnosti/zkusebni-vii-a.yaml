@@ -2,13 +2,13 @@ title: zkusebni/VII/A
 code: zkusebni/VII/A
 type: lo-vz-37
 line: Neurčeno
-region: "Středočeský kraj"
+region: Plzeňský kraj
 location:
-  lat: 49.708990
-  lon: 13.724230
+  lat: 49.70899
+  lon: 13.72423
   elevation: 500
 state: neznamy
-description: "Lehký objekt vz. 37 „řopík\" zkusebni/VII/A. Základní záznam — čeká na doplnění technických dat, fotografií a historie."
+description: Lehký objekt vz. 37 „řopík" zkusebni/VII/A. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/node/3371751343

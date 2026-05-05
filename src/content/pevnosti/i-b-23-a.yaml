@@ -2,7 +2,7 @@ title: I.b/23/A
 code: I.b/23/A
 type: lo-vz-37
 line: Neurčeno
-region: Královéhradecký kraj
+region: Pardubický kraj
 location:
   lat: 50.22683
   lon: 16.52151
@@ -10,7 +10,7 @@ location:
 state: neznamy
 description: Lehký objekt vz. 37 „řopík" I.b/23/A. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-- title: OpenStreetMap
-  url: https://www.openstreetmap.org/node/3371652724
-  type: web
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/node/3371652724
+    type: web
 updated: '2026-04-22'

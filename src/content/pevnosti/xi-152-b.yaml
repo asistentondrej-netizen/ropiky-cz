@@ -2,7 +2,7 @@ title: XI./152/B -
 code: XI./152/B -
 type: lo-vz-37
 line: Neurčeno
-region: Středočeský kraj
+region: Ústecký kraj
 location:
   lat: 50.58363
   lon: 13.824273
@@ -10,7 +10,7 @@ location:
 state: neznamy
 description: Lehký objekt vz. 37 „řopík" XI./152/B -. Základní záznam — čeká na doplnění technických dat, fotografií a historie.
 sources:
-- title: OpenStreetMap
-  url: https://www.openstreetmap.org/way/779436734
-  type: web
+  - title: OpenStreetMap
+    url: https://www.openstreetmap.org/way/779436734
+    type: web
 updated: '2026-04-22'

@@ -11,12 +11,6 @@ state: zachovaly
 description: >-
   Pěchotní srub MO-SM-S-38 náležející k dělostřelecké tvrzi Smolkov na úseku Moravská Ostrava. Součást československého
   těžkého opevnění z let 1935–1938.
-sources:
-  - title: 'Wikipedie: Smolkov (dělostřelecká tvrz)'
-    url: https://cs.wikipedia.org/wiki/Smolkov_(dělostřelecká_tvrz)
-    type: web
-wikidata_id: Q98645664
-commons_category: MO-Sm-S 38 V lese casemate
 updated: '2026-04-23'
 photos:
   - url: >-
@@ -25,5 +19,4 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_01).jpg
-wikipedia_url: https://cs.wikipedia.org/wiki/Smolkov_(dělostřelecká_tvrz)
 built: '1938'
