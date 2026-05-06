@@ -1,4 +1,4 @@
-title: B-S 5 „Žabí most"
+title: B-S 5
 code: B-S 5
 type: pechotni-srub
 line: Bratislava-Petržalka
@@ -6,11 +6,11 @@ region: Bratislavský kraj
 location:
   lat: 48.131
   lon: 17.1175
-  address: Bratislava
+  address: Bratislava-Petržalka
   elevation: 134
 built: '1938'
 state: muzeum
-description: Vlajkový rekonstruovaný pěchotní srub bratislavské Petržalky.
+description: Pěchotní srub B-S 5 — objekt těžkého opevnění československého ŘOP 1935–1938.
 tech:
   odolnost: II
   stupenDokonceni: dokonceny

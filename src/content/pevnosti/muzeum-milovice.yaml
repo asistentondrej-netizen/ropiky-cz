@@ -6,11 +6,11 @@ region: Středočeský kraj
 location:
   lat: 50.2411
   lon: 14.8858
-  address: 289 24, Milovice
+  address: 289 24, Milovice-Mladá
   elevation: 189
 built: '1937'
 state: muzeum
-description: Rozsáhlý muzejní areál v bývalém vojenském prostoru Milovice — nejdostupnější fortifikační expozice z Prahy (40 km).
+description: Lehký objekt vz. 37 (řopík) Pevnostní expozice Milovice. Součást československého opevnění 1935–1938.
 tech:
   odolnost: neurceno
   stupenDokonceni: dokonceny
