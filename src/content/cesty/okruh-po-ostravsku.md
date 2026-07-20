@@ -1,6 +1,6 @@
 ---
 title: Okruh po Ostravsku — Darkovičky a Smolkov
-description: Jednodenní návštěva nejsevernější obranné linie na Opavsku — muzeum Darkovičky (vlajkový MO-S 5 „Na trati") a srub MO-S 20 „Orel". Nejrychleji přístupná pevnostní expozice z Ostravy (20 min).
+description: Jednodenní návštěva nejsevernější obranné linie na Opavsku — muzeum Darkovičky (MO-S 18 „Obora", MO-S 19 „Alej", MO-S 20 „Orel") a volitelně MO-S 5 „Na trati" u Starého Bohumína. Nejrychleji přístupná pevnostní expozice z Ostravy (20 min).
 region: Moravskoslezský kraj
 delka_km: 25
 delka_dni: 1
@@ -26,11 +26,11 @@ zastavky:
     typ: pevnost
     doba_minut: 45
     poznamka: Hlavní palebný objekt linie s protitankovým kanónem vz. 36 v replice lafety.
-  - slug: mo-s-21
-    nazev: MO-S 21 „Ostrý" — nový přírůstek (2023)
+  - slug: mo-s-18-obora
+    nazev: MO-S 18 „Obora"
     typ: pevnost
     doba_minut: 45
-    poznamka: Otevřen po rekonstrukci na jaře 2023, jiný typ pancéřového zvonu.
+    poznamka: Pěchotní srub areálu Darkovičky; expozici doplňuje i lehký objekt (řopík).
   - nazev: Oběd v Hlučíně
     typ: gastro
     doba_minut: 60
@@ -39,7 +39,7 @@ zastavky:
     nazev: Tvrz Smolkov (externě)
     typ: pevnost
     doba_minut: 60
-    poznamka: Nedokončená dělostřelecká tvrz — pěchotní srub MO-S 38 volně přístupný.
+    poznamka: Stavebně dokončená dělostřelecká tvrz (MO-S 37 až MO-S 41); areál dlouhodobě využívá armáda, objekty lze vidět jen zvenku.
   - slug: mo-s-5-na-trati
     nazev: MO-S 5 „Na trati" (Bohumín — volitelný bonus)
     typ: pevnost
@@ -54,12 +54,12 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bohum%C3%ADn%2C
 updated: '2026-04-20'
 ---
 
-![Pěchotní srub MO-S 19 „Alej" — nejčastěji fotografovaný objekt Darkoviček. Foto: archiv ropiky.net](/img/forts/p-chotn-srub-mo-s-19-v-aleji.jpg)
+![Pěchotní srub MO-S 19 „Alej" — nejčastěji fotografovaný objekt Darkoviček.](/img/forts/p-chotn-srub-mo-s-19-v-aleji.jpg)
 *MO-S 19 „Alej" — rekonstruovaný interiér v aleji vzrostlých stromů. Hlavní tahák muzea.*
 
 ## Proč na Ostravsko
 
-Darkovičky jsou **největší a nejlépe rekonstruovaná fortifikační expozice v Česku** — tři propojené pěchotní sruby (MO-S 19 „Alej", MO-S 20 „Orel", MO-S 21 „Ostrý") + venkovní expozice. Z Ostravy 20 minut autem, ideální pro rodiny a školní výlety. Kombinace průmyslové historie Ostravska a obranné linie z roku 1938.
+Darkovičky jsou **největší a nejlépe rekonstruovaná fortifikační expozice v Česku** — pěchotní sruby **MO-S 18 „Obora"**, **MO-S 19 „Alej"** a **MO-S 20 „Orel"** doplněné lehkým objektem (řopíkem) a venkovní expozicí. Z Ostravy 20 minut autem, ideální pro rodiny a školní výlety. Kombinace průmyslové historie Ostravska a obranné linie z roku 1938.
 
 ## Na první pohled
 
@@ -79,16 +79,13 @@ Darkovičky jsou **největší a nejlépe rekonstruovaná fortifikační expozic
 
 **10:00–13:00 — Muzeum čs. opevnění Darkovičky** (provozuje Slezské zemské muzeum).
 
-![MO-S 20 „Orel" — hlavní palebný objekt Darkoviček. Foto: archiv ropiky.net](/img/forts/darkovice-mo-s-20-2015-05-01-03-.jpg)
+![MO-S 20 „Orel" — hlavní palebný objekt Darkoviček.](/img/forts/darkovice-mo-s-20-2015-05-01-03-.jpg)
 *MO-S 20 „Orel" — protitankový kanón v replice lafety.*
 
-Tři otevřené sruby s interiérovou prohlídkou:
+Sruby areálu s interiérovou prohlídkou:
 - **MO-S 19 „Alej"** — nejrekonstruovanější srub v ČR, plně vybavený interiér s lůžky, lafetami a pancéřovým zvonem.
 - **MO-S 20 „Orel"** — hlavní palebný objekt linie s protitankovým kanónem vz. 36.
-- **MO-S 21 „Ostrý"** — nejnovější expozice, otevřeno od roku 2023.
-
-![MO-S 23 „Vršek" — poslední objekt linie, externě přístupný. Foto: archiv ropiky.net](/img/forts/darkovice--mo-s-23--2015-05-01--01-.jpg)
-*MO-S 23 „Vršek" — pokračování linie v krajině, ideální pro fotografii.*
+- **MO-S 18 „Obora"** — třetí pěchotní srub areálu; expozici doplňuje lehký objekt (řopík).
 
 Součást prohlídky: venkovní expozice (protitankové ježky, zákopy, dělostřelecká baterie), dobové uniformy, audiovizuální program o Mnichovu.
 
@@ -96,16 +93,16 @@ Součást prohlídky: venkovní expozice (protitankové ježky, zákopy, dělost
 
 **13:00–14:00 — Oběd v Hlučíně** (5 min autem).
 
-**14:30–15:30 — Tvrz Smolkov** — pěchotní srub MO-S 38 na obvodu obce, volně přístupný z veřejných cest.
+**14:30–15:30 — Tvrz Smolkov** — stavebně dokončená dělostřelecká tvrz; areál dlouhodobě využívá armáda, objekty lze vidět jen zvenku z veřejných cest.
 
-![MO-S 38 u Háje ve Slezsku (Smolkov) — nedokončená dělostřelecká tvrz. Foto: archiv ropiky.net](/img/forts/h-j-ve-slezsku-smolkov-mo-s-38-2015-04-14-01-.jpg)
-*Tvrz Smolkov — plánováno 5 srubů, do září 1938 dokončen pouze MO-S 38.*
+![MO-S 38 u Háje ve Slezsku (Smolkov) — objekt dokončené dělostřelecké tvrze.](/img/forts/h-j-ve-slezsku-smolkov-mo-s-38-2015-04-14-01-.jpg)
+*Tvrz Smolkov — stavebně dokončená tvrz s pěti objekty MO-S 37 až MO-S 41.*
 
 **16:00 — Návrat do Ostravy** (volitelně objížďkou přes Bohumín k MO-S 5).
 
 ### Volitelný bonus — MO-S 5 „Na trati" v Bohumíně
 
-![MO-S 5 „Na trati" v Bohumíně-Starém Bohumíně. Foto: archiv ropiky.net](/img/forts/srub-mo-s-5-na-trati-bohumin.jpg)
+![MO-S 5 „Na trati" v Bohumíně-Starém Bohumíně.](/img/forts/srub-mo-s-5-na-trati-bohumin.jpg)
 *MO-S 5 „Na trati" — externě přístupný srub na okraji Bohumína, 20 km východně od Darkoviček.*
 
 Pro zájemce, kteří chtějí vidět další objekt mimo muzeum. MO-S 5 leží na severozápadním okraji Bohumína-Starého Bohumína, volně přístupný z veřejné cesty. Přidá k dni cca 45 min jízdy navíc.
@@ -113,7 +110,7 @@ Pro zájemce, kteří chtějí vidět další objekt mimo muzeum. MO-S 5 leží 
 ## Tipy pro rodinu
 
 - **Ideální rodinný výlet** — objekty jsou vybaveny pro děti od 6 let.
-- **Naučná stezka** propojuje všechny tři muzejní objekty (1,5 km, značená).
+- **Naučná stezka** propojuje muzejní objekty (1,5 km, značená).
 - **Teplota v objektech** — celoročně kolem 12 °C, teplejší oblečení i v létě.
 - **Parkování zdarma** přímo u muzea.
 

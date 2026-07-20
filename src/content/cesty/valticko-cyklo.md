@@ -33,7 +33,7 @@ zastavky:
     nazev: "Řopík 6/68/A-160 S (Pod dvorem)"
     typ: "pevnost"
     doba_minut: 15
-    poznamka: "Nejtěžší standardní typ LO vz. 37 s bočním postřelováním. Objekt na okraji Valtic, snadno přístupný (jen Varianta 1)."
+    poznamka: "LO vz. 37 typ A-160 — číslo v označení udává úhel 160° mezi osami střílen bočního postřelování. Objekt na okraji Valtic, snadno přístupný (jen Varianta 1)."
   - nazev: "Apollonův chrám"
     typ: "priroda"
     doba_minut: 15
@@ -42,7 +42,7 @@ zastavky:
     nazev: "Řopík 6/54/A-180 (Hlohovec)"
     typ: "pevnost"
     doba_minut: 20
-    poznamka: "Nejtěžší standardní LO vz. 37 zasazený přímo do hráze Hlohoveckého rybníka. Nejfotogeničtější řopík oblasti (jen Varianta 2)."
+    poznamka: "LO vz. 37 typ A-180 (úhel 180° mezi osami střílen), zasazený přímo do hráze Hlohoveckého rybníka. Nejfotogeničtější řopík oblasti (jen Varianta 2)."
   - nazev: "Zámek Lednice"
     typ: "obec"
     doba_minut: 60
@@ -148,7 +148,7 @@ Krátká zastávka na fotku — salet stojí přímo u vody s pohledem na Pálav
 
 ![Hlohovecký rybník — v hrázi vlevo sedí řopík 6/54/A-180, nejfotogeničtější LO vz. 37 oblasti. Foto: Herbert Frank / Wikimedia (CC BY 2.0)](/img/clanky/valticko/hlohovecky-rybnik.jpg)
 
-Nejtěžší standardní typ LO vz. 37 s bočním postřelováním, zasazený přímo do hráze rybníka. Pro srovnání — stejný typ A-180 v lesním prostředí u Lednických rybníků:
+LO vz. 37 typ A-180 — označení podle úhlu 180° mezi osami střílen bočního postřelování — zasazený přímo do hráze rybníka. Pro srovnání — stejný typ A-180 v lesním prostředí u Lednických rybníků:
 
 ![Řopík u Lednických rybníků — stejná A-180 v jiném zasazení. Foto: RomanM82 / Wikimedia (CC BY-SA 4.0)](/img/clanky/valticko/ropik-8-4083-lednicke-rybniky.jpg)
 
@@ -233,4 +233,4 @@ Valticko je **první volba**, když chcete **spojit opevnění s kulturou, jídl
 
 ## Poznámka k datům
 
-Všechny GPS v článku jsou ověřené v OpenStreetMap databázi (tag `military=bunker`, stav duben 2026). Trasy vygenerované přes **OSRM bike router** nad OSM daty. Reálné označení objektů odpovídá systému ropiky.net. Pokud najdete v terénu objekt s jiným kódem — nebo trasa vede kolem překážky — dejte vědět přes [kontakt](/kontakt).
+Všechny GPS v článku jsou ověřené v OpenStreetMap databázi (tag `military=bunker`, stav duben 2026). Trasy vygenerované přes **OSRM bike router** nad OSM daty. Pokud najdete v terénu objekt s jiným kódem — nebo trasa vede kolem překážky — dejte vědět přes [kontakt](/kontakt).

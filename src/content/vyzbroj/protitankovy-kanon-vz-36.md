@@ -24,9 +24,9 @@ updated: 2026-04-21
 
 Zvláštností je, že v pevnostní verzi byl **spřažen v jedné lafetě s těžkým kulometem vz. 37** — takzvaná **„L1 s TK vz. 37"** kombinace. Posádka ze stejného stanoviště střílela **velkorážkou proti tanku** i **kulometem proti pěchotě**.
 
-## Proč 47 mm místo 40 mm?
+## Ráže 47 mm, označení „4 cm"
 
-Paradox ŘOP: zbraň se jmenuje "**4 cm** vz. 36", ale její skutečná ráže je **47 mm**. Důvod je historický — označení **4 cm** bylo dáno **ranou etapou vývoje**, kdy se plánovala menší ráže. Po testech v letech 1934–1936 Škoda ráži **navýšila na 47 mm**, aby zbraň měla dostatečnou průraznost. Oficiální pojmenování ale zůstalo **„4 cm"** — kvůli kompatibilitě s již vydanými dokumenty a výcvikovými materiály.
+Zbraň má **skutečnou ráži 47 mm**, přestože její **úřední dobové označení zní „4 cm kanon vz. 36"**. Toto úřední označení se drží v armádních dokumentech i ve fortifikační literatuře dodnes — při čtení pramenů je proto třeba pamatovat, že „4 cm" a „47 mm" označují tutéž zbraň.
 
 ## Konstrukce
 
@@ -53,13 +53,9 @@ To v roce 1938 **prorazilo jakýkoli německý tank** — **PzKpfw I**, **II**, 
 
 Pokud by v říjnu 1938 došlo k boji, **Wehrmacht by utrpěl obrovské ztráty** — protitanková obrana ČSR byla tenkrát **kvalitativně srovnatelná** s francouzskou (47mm kanon Puteaux) a **převyšovala německou** (3,7 cm PaK 36).
 
-## Zvláštní verze — vz. 38
-
-V létě 1938 vyvíjela Škoda **upgradovanou verzi vz. 38** s delší hlavní (46 ráží) a vyšší průrazností — **65 mm pancíře na 500 m**. Měla být nasazena do tvrzí v **1939**, ale Mnichov program **zrušil**. Prototypy Škoda udržela, po roce 1939 je **Wehrmacht zabavil** a použil pod označením **4,7 cm KwK(t)** pro **Panzerjäger 38(t)** ("Hetzer" byl její přímý následník po válce).
-
 ## V boji 1938 — nikdy nevystřelil
 
-Paradoxem je, že **tato špičková zbraň nikdy v bojové operaci pevnosti nevystřelila** ostrou munici. Po Mnichovu byla v objektech zanechána, **Wehrmacht ji zabavil**, demontoval a **využil ji v PT obraně** na Slovensku a později **v Africe Korps**. Pevnostní lafetice zůstaly v objektech a po válce byly šrotovány.
+Paradoxem je, že **tato špičková zbraň nikdy v bojové operaci pevnosti nevystřelila** ostrou munici. Armáda při vyklizení pohraničí po Mnichovu **výzbroj z objektů demontovala a odvezla**; po březnu 1939 padly zbraně do rukou německé armády, která je využila ve druhé světové válce.
 
 ## Kde ho uvidíte
 

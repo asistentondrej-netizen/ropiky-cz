@@ -1,21 +1,21 @@
 ---
 title: "Severní Čechy — Liberecko a Děčínsko"
-description: "Linie lehkého i těžkého opevnění od Děčína přes Frýdlantský výběžek po Liberec. Kombinace řopíků a pěchotních srubů v hornatém terénu, v Českém Švýcarsku málo známé objekty."
+description: "Linie lehkého opevnění od Děčína přes Frýdlantský výběžek po Liberec. Řopíky v hornatém terénu, v Českém Švýcarsku málo známé objekty."
 region: "Ústecký / Liberecký kraj"
 delka_km: 110
 pocet_objektu: 695
 pocet_planovano: 967
 pocet_realizovano: 695
-pocet_to: 30
+pocet_to: 0
 obdobi_stavby: "1936–1938"
-stav_dnes: "Řopíky v Liberecku volně přístupné; sruby Frýdlantského výběžku v lesích. Muzeum u Hrádku nad Nisou."
+stav_dnes: "Řopíky v Liberecku volně přístupné. Muzeum u Hrádku nad Nisou."
 order: 60
 bounds:
   north: 50.95
   south: 50.65
   east: 15.40
   west: 14.15
-tags: ["liberecko", "decinsko", "frydlantsky-vybezek", "pechotni-srub", "ropik"]
+tags: ["liberecko", "decinsko", "frydlantsky-vybezek", "ropik"]
 sources:
   - "Stehlík E.: Liberecko v systému opevnění"
   - "KVH Frýdlant"
@@ -26,43 +26,38 @@ updated: 2026-04-21
 
 Severní Čechy představovaly **složitý úsek** ze dvou důvodů:
 
-1. **Frýdlantský výběžek** — kus ČSR obklopený ze tří stran Německem (dnes Polsko). Obtížně hájitelný, ale byl zde plánován silný systém pěchotních srubů.
+1. **Frýdlantský výběžek** — kus ČSR obklopený ze tří stran Německem (dnes Polsko). Obtížně hájitelný.
 2. **Děčínsko** — údolí Labe jako **hlavní splavná dopravní osa** ze severu na jih. Wehrmacht mohl kopírovat řeku přímo na Ústí nad Labem.
 
-Proto byl úsek budován v **kombinaci LO + TO** — řopíky v rovinatých pasážích, pěchotní sruby na strategických bodech (průsmyky, mosty).
+Obrana zde stála na **lehkém opevnění** — řopíky uzavíraly údolí, sedla a komunikace. **Těžké opevnění se v severních Čechách do září 1938 nestavělo**; kapacity směřovaly především na Ostravsko a do Orlických hor.
 
 ## Průběh linie
 
 - **Hřensko / České Švýcarsko** — severozápadní cíp, několik LO
-- **Děčín** — uzel, pěchotní sruby v kaňonu Labe
+- **Děčín** — uzel na Labi
 - **Jablonné v Podještědí** — linie přes Žitavsko
 - **Hrádek nad Nisou** — uzel, muzeum
-- **Frýdlantský výběžek** — pěchotní sruby v lesích
+- **Frýdlantský výběžek** — řopíky v lesích
 
 ## Ikonické objekty
 
 - **Muzeum Hrádek nad Nisou — LO vz. 37** (sezóna)
-- **T-S (u Jítravy)** — pěchotní srub, III. odolnost
-- **LI-S 33 „Nad Smědavou"** — liberecký úsek, volně přístupný
 - **Hřensko — LO** v lesích Českého Švýcarska (málo známé)
+- **Řopíkové linie na Liberecku** — volně přístupné
 
 ## Specifikum — Frýdlantsko
 
-Frýdlantský výběžek měl být původně **nejsilněji opevněnou enklávou** ČSR — plánováno **22 pěchotních srubů**, z toho několik III. a IV. odolnosti. Reálně se stihlo **dokončit 12 srubů**, dalších 10 zůstalo ve **hrubé betonáži** nebo jen vykopaných jámách.
-
-Po Mnichovu byl Frýdlantský výběžek **izolován** a stal se součástí **Říšské župy Sudety**. Objekty Wehrmacht nepoužil — **v zalesněné krajině se „ztratily"** a jsou dodnes zarostlé. Řada z nich **nebyla nikdy kompletně zdokumentována**.
+Frýdlantský výběžek byl **obtížně hájitelnou enklávou** obklopenou ze tří stran německým územím. Obranu tvořily linie lehkého opevnění. Po Mnichovu se výběžek stal součástí **Říšské župy Sudety**; objekty se **v zalesněné krajině „ztratily"** a řada z nich je dodnes zarostlá.
 
 ## Co se tu stalo v říjnu 1938
 
-Linie byla předávána **2.–7. října 1938**. Specialitou severočeského úseku byla **odvážná akce pplk. Šípka** (velitele pěchotního pluku 18), který při předávce **úmyslně zapomenul** klíče od několika srubů — Wehrmacht pak musel páčit dveře, což zpozdilo předání a **dalo českým rodinám čas na evakuaci**.
+Linie byla předávána **v prvních říjnových dnech 1938** — bez boje, na rozkaz, v důsledku mnichovské dohody.
 
 ## Co navštívit
 
 1. **Muzeum Hrádek nad Nisou** — vstup do expozice
-2. **LI-S 33 „Nad Smědavou"** — volně, pěšky z Bílého Potoka
-3. **Frýdlantsko — turistická trasa s pěchotními sruby** (celodenní)
+2. **Frýdlantsko — turistická trasa podél řopíků** (celodenní)
 
 ## Související obsah
 
-- [Pěchotní srub — typologie](/typologie/pechotni-srub)
 - [LO vz. 37 — řopík, typologie](/typologie/lo-vz-37)

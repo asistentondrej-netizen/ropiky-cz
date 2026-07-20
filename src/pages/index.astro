@@ -89,9 +89,9 @@ const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.dat
       <aside class="hero__stats" aria-label="Základní čísla">
         <dl>
           <dt>Postaveno do 9/1938</dt><dd>~ 10 000 objektů</dd>
-          <dt>Hlavní obranná linie</dt><dd>~ 1 466 km</dd>
+          <dt>Hlavní obranná linie</dt><dd>přes 1 000 km</dd>
           <dt>Období výstavby</dt><dd>1935–1938</dd>
-          <dt>Dělostřeleckých tvrzí</dt><dd>9 zahájeno, 5 dokončeno</dd>
+          <dt>Dělostřeleckých tvrzí</dt><dd>8 zahájeno, 5 dokončeno</dd>
         </dl>
       </aside>
     </div>
@@ -115,7 +115,6 @@ const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.dat
         const iconMap = {
           'lo-vz-36': '/img/typ-lo-vz-36.svg',
           'lo-vz-37': '/img/typ-lo-vz-37.svg',
-          'lo-vz-38': '/img/typ-lo-vz-38.svg',
           'pechotni-srub': '/img/typ-pechotni-srub.svg',
           'delostrelecka-tvrz': '/img/typ-delostrelecka-tvrz.svg',
           'pancerovy-zvon': '/img/typ-pancerovy-zvon.svg',
@@ -133,7 +132,7 @@ const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.dat
           const badge = isComp ? 'Komponenta' : (isProto ? 'Prototyp' : null);
           const badgeTitle = isComp
             ? 'Komponenta — součást pěchotního srubu nebo tvrze, ne samostatný objekt'
-            : 'Prototyp — jen 2 postavené objekty, bez sériové výroby';
+            : 'Prototyp — pokusný typ bez sériové výstavby';
           return (
             <a href={`/typologie/${t.slug}`} class={cls}>
               {badge && (<span class="typology-card__badge" title={badgeTitle}>{badge}</span>)}
@@ -281,7 +280,7 @@ const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.dat
         <a href="/vyzbroj" class="explore-card">
           <div class="explore-card__label">Výzbroj pevností</div>
           <h3>Zbraně, které nikdy nevystřelily</h3>
-          <p>ZB vz. 37 (předchůdce BESA), pevnostní houfnice 10 cm, pancéřové zvony Škoda/Vítkovice a nejvzácnější plamenomet typ F.</p>
+          <p>ZB vz. 37 (předchůdce BESA), pevnostní houfnice 10 cm (nikdy nedodaná) a pancéřové zvony Škoda/Vítkovice.</p>
           <ul class="explore-card__list">
             {vyzbroj.slice(0, 4).map((v) => (<li>{v.data.title}</li>))}
           </ul>
@@ -290,8 +289,8 @@ const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.dat
 
         <a href="/tvrze" class="explore-card">
           <div class="explore-card__label">Dělostřelecké tvrze</div>
-          <h3>Deep-dive do 5 tvrzí</h3>
-          <p>Bouda, Hanička, Dobrošov, Stachelberg, Adam, Smolkov. Od plně dokončené po rozestavěnou — a Hanička jako atomový kryt 70. let.</p>
+          <h3>Deep-dive do 6 tvrzí</h3>
+          <p>Bouda, Hanička, Dobrošov, Stachelberg, Adam, Smolkov. Od plně dokončené po rozestavěnou — a Hanička přestavěná v 70.–80. letech na kryt ministerstva vnitra.</p>
           <ul class="explore-card__list">
             {tvrze.slice(0, 4).map((t) => (<li>{t.data.title}</li>))}
           </ul>

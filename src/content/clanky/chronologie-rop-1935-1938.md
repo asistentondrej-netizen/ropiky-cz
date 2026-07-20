@@ -21,11 +21,11 @@ Následující chronologie rekapituluje klíčové milníky s důrazem na přesn
 
 ## 1934 — rozhodnutí
 
-**21. července 1934** vydal prezident republiky na návrh Ministerstva národní obrany rozkaz k zahájení výstavby opevnění. Rozhodnutí reagovalo na rychle se měnící bezpečnostní situaci po nástupu Hitlera k moci (leden 1933) a na postupné rozložení poválečného versailleského systému.
+**V létě 1934** padlo na nejvyšší státní a vojenské úrovni rozhodnutí o zahájení výstavby opevnění. Reagovalo na rychle se měnící bezpečnostní situaci po nástupu Hitlera k moci (leden 1933) a na postupné rozložení poválečného versailleského systému.
 
-**Podzim 1934** — náčelník Hlavního štábu armádní generál **Ludvík Krejčí** nařídil první terénní průzkum navrhovaných úseků. Týmy důstojníků ŘOP objížděly pohraničí od Moravské Ostravy přes Jeseníky a Orlické hory po Krkonoše a identifikovaly místa pro budoucí betonáže.
+**Podzim 1934** — náčelník Hlavního štábu armádní generál **Ludvík Krejčí** nařídil první terénní průzkum navrhovaných úseků. Týmy důstojníků objížděly pohraničí od Moravské Ostravy přes Jeseníky a Orlické hory po Krkonoše a identifikovaly místa pro budoucí betonáže.
 
-**7. srpna 1934** — vznikly dvě opevňovací skupiny, z nichž se o rok později staly první ženijní skupinová velitelství.
+Ještě v roce 1934 vznikly dvě opevňovací skupiny, z nichž se o rok později stala první ženijní skupinová velitelství.
 
 ## 1935 — institucionální rok
 
@@ -33,33 +33,33 @@ Následující chronologie rekapituluje klíčové milníky s důrazem na přesn
 
 **20. března 1935** představuje dvojí milník:
 
-- zřízena **Rada pro opevňování** — nejvyšší strategický orgán v čele s gen. Krejčím, stálými poradci byli generálové František Nosál a František Havel.
-- zřízeno **Ředitelství opevňovacích prací (ŘOP)** — výkonný útvar pod Ministerstvem národní obrany, v jehož čele stanul **brigádní generál Karel Husárek** (tehdy plukovník). Husárek zůstal ŘOPu věrný po celé období jeho existence.
+- zřízena **Rada pro opevňování** — nejvyšší strategický orgán v čele s gen. Krejčím.
+- zřízeno **Ředitelství opevňovacích prací (ŘOP)** — výkonný útvar pod Ministerstvem národní obrany, v jehož čele stanul **generál Karel Husárek**. Husárek zůstal ŘOPu věrný po celé období jeho existence.
 
-Francouzská vojenská mise pod vedením generála Belhagua poskytovala know-how z Maginotovy linie. Čs. důstojníci Podhajský, Pasák a další opakovaně cestovali na francouzské stavby a přivezli projektové podklady, které se staly východiskem pro první generaci čs. těžkých objektů.
+Francouzská vojenská mise poskytovala know-how z Maginotovy linie. Českoslovenští důstojníci opakovaně cestovali na francouzské stavby a přivezli projektové podklady, které se staly východiskem pro první generaci čs. těžkých objektů.
 
 ### Duben 1935 — první ženijní velitelství
 
 **18. dubna 1935** vznikla **první dvě ženijní skupinová velitelství (ŽSV)**:
 
-- **I. ŽSV Staré Město pod Sněžníkem** — pro úsek Králíky a okolí
-- **II. ŽSV Bohumín** — pro úsek Moravská Ostrava
+- **ŽSV Staré Město pod Sněžníkem**
+- **ŽSV Hlučín** — pro úsek Moravská Ostrava
 
-Jejich zkratky dodnes figurují v kódech srubů (K-S pro Králíky, MO-S pro Moravskou Ostravu). Během následujících měsíců a roků přibyla další ŽSV: Opava (OP), Trutnov (T), Náchod (N), Rokytnice v Orlických horách (R), Liberec (Li) a Krkonoše (KrK).
+**27. června 1935** k nim přibylo **ŽSV Králíky**. Zkratky úseků dodnes figurují v kódech srubů (K-S pro Králíky, MO-S pro Moravskou Ostravu). Během následujících měsíců a roků přibyla další ŽSV: Opava (OP), Trutnov (T), Náchod (N), Rokytnice v Orlických horách (R) a Liberec (Li).
 
 ### Prosinec 1935 — první beton
 
-**12. prosince 1935** vyhlášen **1. program opevňování** — dvousledové těžké opevnění od Odry po Labe podél severní hranice. Priorita byla jasná: nejkritičtější úsek proti nově zbrojícímu Německu.
+**V prosinci 1935** byl vyhlášen **1. program opevňování** — dvousledové těžké opevnění od Odry po Labe podél severní hranice. Priorita byla jasná: nejkritičtější úsek proti nově zbrojícímu Německu.
 
-**15.–22. prosince 1935** — skupina dělníků firmy Ing. Kruliš a spol. vylila beton do výkopu u osady Dvůr Paseky nedaleko Bohumína. Vznikl tak **MO-S 8 „Dvůr Paseky"** — první dokončený objekt těžkého opevnění. Objekt sloužil zároveň jako stavební prototyp, na němž se ověřovaly konstrukční postupy.
+**V prosinci 1935** byl u osady Dvůr Paseky nedaleko Bohumína vybetonován **MO-S 8 „Dvůr Paseky"** — první betonovaný objekt těžkého opevnění. Objekt sloužil zároveň jako stavební prototyp, na němž se ověřovaly konstrukční postupy.
 
-![Pěchotní srub MO-S 8 „Dvůr Paseky" — první dokončený těžký objekt čs. opevnění (Šilheřovice, 2015). Foto: Harold, CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%C5%A0ilhe%C5%99ovice%2C_MO-S_8_%282015-05-08%3B_01%29.jpg/1280px-%C5%A0ilhe%C5%99ovice%2C_MO-S_8_%282015-05-08%3B_01%29.jpg)
+![Pěchotní srub MO-S 8 „Dvůr Paseky" — první betonovaný těžký objekt čs. opevnění (Šilheřovice, 2015). Foto: Harold, CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%C5%A0ilhe%C5%99ovice%2C_MO-S_8_%282015-05-08%3B_01%29.jpg/1280px-%C5%A0ilhe%C5%99ovice%2C_MO-S_8_%282015-05-08%3B_01%29.jpg)
 
 ## 1936 — rozběh
 
 ### Červen 1936 — druhý program
 
-**5. června 1936** vyhlášen **2. program opevňování** — rozšíření těžkého opevnění **po celém obvodu hranic**, tedy nejen proti Německu, ale také proti Maďarsku (jižní Morava, Slovensko) a Polsku (Těšínsko). Tento krok reagoval na postupující destabilizaci střední Evropy a na nutnost chránit celistvost republiky ze všech světových stran.
+**V červnu 1936** byl vyhlášen **2. program opevňování** — rozšíření těžkého opevnění **po celém obvodu hranic**, tedy nejen proti Německu, ale také proti Maďarsku (jižní Morava, Slovensko) a Polsku (Těšínsko). Tento krok reagoval na postupující destabilizaci střední Evropy a na nutnost chránit celistvost republiky ze všech světových stran.
 
 ### Léto a podzim 1936 — tvrze v pohybu
 
@@ -82,29 +82,29 @@ Lidové pojmenování **„řopík"** — dodnes nejběžnější označení pro
 
 ### Září 1937 — první tvrz s betonem
 
-**13. září 1937** zahájena betonáž **dělostřelecké tvrze Dobrošov** (ženijní úsek Náchod). Z plánovaných sedmi objektů se do Mnichova podařilo dokončit jen tři: pěchotní sruby **N-D-S 72 „Můstek"** a **N-D-S 73 „Jeřáb"** a dělostřelecký srub **N-D-S 75 „Zelený"**. Tunelový systém zůstal převážně nedokončený — z plánovaných 1 750 metrů podzemních chodeb bylo vyraženo necelých 400 metrů použitelných pro budoucí expozici.
+**V září 1937** byla zahájena betonáž **dělostřelecké tvrze Dobrošov** (ženijní úsek Náchod). Do Mnichova se podařilo vybetonovat jen tři objekty: pěchotní sruby **N-S 72 „Můstek"** a **N-S 73 „Jeřáb"** a dělostřelecký srub **N-S 75 „Zelený"**. Tunelový systém zůstal převážně nedokončený.
 
 ![Pěchotní srub N-S 72 „Můstek" — součást dělostřelecké tvrze Dobrošov. Foto: Harold, CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg/1280px-N%C3%A1chod%2C_Dobro%C5%A1ov%2C_N-S_72_%28rok_2001%3B_01%29.jpg)
 
 ### Listopad 1937 — třetí program
 
-**9. listopadu 1937** vyhlášen **3. program opevňování** pod přímým dohledem Karla Husárka. Dokument stanovil finální rozsah systému:
+**Na podzim 1937** byl vyhlášen **3. program opevňování** pod přímým dohledem Karla Husárka. Dokument stanovil finální rozsah systému:
 
 | Položka | Plán | Realizace do 9/1938 |
 | --- | --- | --- |
-| Těžké objekty (pěchotní sruby) | 1 276 | 262 (20,5 %) |
-| Dělostřelecké tvrze | 17 | 5 rozestavěných |
-| Lehké objekty vz. 36 | — | ~ 850 |
-| Lehké objekty vz. 37 | 15 463 | ~ 9 150 (59 %) |
+| Těžké objekty | 1 276 | 263 |
+| Dělostřelecké tvrze | 13 zadáno | 8 zahájeno, 5 stavebně dokončeno |
+| Lehké objekty vz. 36 | — | 864 |
+| Lehké objekty vz. 37 | 15 463 | 9 632 |
 | Rozpočet | 10,9 mld. Kč | ~ 2,2 mld. Kč investováno |
 
-Ze zamýšlené **celkové délky linií (1 276 km)** byl systém stavebně připraven do roku 1938 asi z jedné třetiny — ale právě ta třetina pokrývala nejexponovanější severní hranici a klíčové sektory.
+Z **1 276 plánovaných těžkých objektů** stála do září 1938 zhruba pětina — ale právě ta pokrývala nejexponovanější severní hranici a klíčové sektory.
 
 ## 1938 — poslední rok
 
 ### Březen 1938 — Anšlus a krize plánu
 
-**12.–13. března 1938** Hitler anektoval Rakousko. Pro čs. opevnění to byla zásadní strategická událost: chráněná hranice se **prodloužila z původních cca 2 500 km na 3 900 km**. Rakousko-Uhersko jako bezpečnostní obranný partner definitivně skončilo, a jižní Morava i jižní Čechy se staly přímým sousedem Třetí říše.
+**12.–13. března 1938** Hitler anektoval Rakousko. Pro čs. opevnění to byla zásadní strategická událost: hranice ohrožená přímým útokem se **výrazně prodloužila** — jižní Morava i jižní Čechy se staly přímým sousedem Třetí říše.
 
 ŘOP okamžitě zahájilo **plánovací rozšíření** jižní linie — úsek Znojmo, Mikulov, Valticko. Některé objekty se však podařilo postavit jen v lehké variantě vzor 37; těžké sruby zůstaly v projektové fázi.
 
@@ -122,26 +122,26 @@ Významným omezením byla **dodávka pancéřových prvků**. Plzeňská Škodo
 
 ### 23. září 1938 — Všeobecná mobilizace
 
-**23. září 1938, 22:00** — prezident Beneš vyhlásil všeobecnou mobilizaci. **1 250 000 mužů** narukovalo během 24 hodin do svých pluků. Opevnění bylo plně obsazeno operační osádkou, uložena munice, navázány polní telefonní linky. Mobilizace proběhla mimořádně organizovaně a disciplinovaně a dodnes patří k nejrychlejším v evropské historii.
+**23. září 1938 večer** vyhlásila vláda všeobecnou mobilizaci. **Přes milion mužů** narukovalo během několika dní ke svým útvarům. Opevnění bylo obsazeno operační osádkou, uložena munice, navázány polní telefonní linky. Mobilizace proběhla mimořádně organizovaně a disciplinovaně.
 
-### 26. září – 1. října 1938 — poslední beton
+### Přelom září a října 1938 — poslední beton
 
-Během mobilizace, tedy **paradoxně v okamžiku, kdy opevnění mělo být obsazeno**, vybetonovaly stavební firmy poslední plánovaný těžký objekt: **N-S 53 „U chalupy"** v náchodském úseku. Datovaný betonáž se uzavřel mezi **26. zářím a 1. říjnem 1938**. Objekt byl dokončen, armován a částečně vybaven — avšak k boji jej osádka nikdy nepoužila.
+Během mobilizace, tedy **paradoxně v okamžiku, kdy opevnění mělo být obsazeno**, dobíhaly na řadě míst poslední betonáže. Stavební práce se na některých objektech uzavíraly doslova v posledních zářijových dnech — k boji je však osádky nikdy nepoužily.
 
 ### 30. září 1938 — Mnichov a jeho následky
 
-**29.–30. září 1938** podepsali v Mnichově zástupci Německa, Itálie, Velké Británie a Francie dohodu o odstoupení Sudet. Československá vláda dohodu přijala **30. září 1938 v 17:00**. Během následujících deseti dnů armáda evakuovala pevnosti v přiděleném pásmu, většinu těžkých objektů bez boje předala Wehrmachtu. Munice a cenné pancéřové prvky se zčásti stihly vytěžit do vnitrozemí, většina však zůstala na místě.
+**29.–30. září 1938** podepsali v Mnichově zástupci Německa, Itálie, Velké Británie a Francie dohodu o odstoupení Sudet. Československá vláda dohodu přijala **30. září 1938**. Během následujících deseti dnů armáda evakuovala pevnosti v přiděleném pásmu, většinu těžkých objektů bez boje předala Wehrmachtu. Munice a cenné pancéřové prvky se zčásti stihly vytěžit do vnitrozemí, většina však zůstala na místě.
 
 Mnichov fakticky ukončil aktivní fázi ŘOP. Formální zánik Ředitelství opevňovacích prací proběhl **v polovině roku 1939** po vytvoření Protektorátu Čechy a Morava.
 
 ## Klíčová čísla tří a půl roku
 
-- **1 276** plánovaných těžkých objektů, **262** dokončeno
-- **15 463** plánovaných lehkých vz. 37, **~9 150** dokončeno
-- **17** dělostřeleckých tvrzí naplánováno, **8** rozestavěno, **5** z nich stavebně dokončeno
+- **1 276** plánovaných těžkých objektů, **263** postaveno
+- **15 463** plánovaných lehkých vz. 37, **9 632** postaveno
+- **13** dělostřeleckých tvrzí zadáno, **8** zahájeno, **5** z nich stavebně dokončeno
 - **10,9 miliardy** Kč rozpočet, **~2,2 mld.** investováno (20 %)
 - **100 000+** dělníků na stavbách ve špičce léta 1938
-- **1 250 000** mužů mobilizováno 23. září 1938
+- **přes 1 000 000** mužů mobilizováno po 23. září 1938
 - **0 km** — opevnění nikdy nebylo podrobeno přímému útoku
 
 ## Prameny
@@ -151,7 +151,6 @@ Mnichov fakticky ukončil aktivní fázi ŘOP. Formální zánik Ředitelství o
 - Wikipedia — [Karel Husárek](https://cs.wikipedia.org/wiki/Karel_Husárek)
 - **Stehlík, E.:** *Lexikon těžkých objektů československého opevnění z let 1935–1938* (FORTprint 2010)
 - **Ráboň, M.; Gregar, O.; Kachlík, B.:** *Val na obranu republiky* (2005)
-- **Lakosil, J.; Svoboda, T.:** *Československé opevnění 1938: velká obrazová kniha* (2017)
 - armada.vojenstvi.cz — sekce „Předválečná československá armáda"
 - fortifikace.cz — chronologické přehledy
 - Muzeum Dobrošov — [pevnost-dobrosov.cz](https://www.pevnost-dobrosov.cz/)

@@ -28,7 +28,7 @@ Každý voják v pevnosti měl **osobní výzbroj** — kromě hlavní zbraně (
 - **Dostřel:** 800 m (účinný), 2 000 m (max)
 - **Kadence:** 8–10 ran/min (ruční)
 
-Puška vz. 24 byla **československá verze Mauseru 98** — stejný systém, stejná kvalita, ale s úpravami pro československou výrobu. Vyráběla se **2 miliony kusů** v letech 1924–1938 — byla to nejrozšířenější zbraň armády.
+Puška vz. 24 byla **československá verze Mauseru 98** — stejný systém, stejná kvalita, ale s úpravami pro československou výrobu. Vyráběla se ve **velkých sériích** v letech 1924–1938 — byla to nejrozšířenější zbraň armády.
 
 ### Pistole vz. 24
 - **Ráže:** 9 × 17 mm (Browning Short)
@@ -62,13 +62,13 @@ Pokud by došlo na rozkaz **k evakuaci objektu** (jako v říjnu 1938), posádka
 
 ## Po Mnichovu
 
-Puška vz. 24 byla Wehrmachtem zabavena v **obrovských zásobách** — celkem **700 000 kusů** po celém ČSR. Německá armáda ji přeznačila na **Gewehr 24(t)** a využila ji pro **záložní jednotky, okupační síly a spojence** (Bulharsko, Rumunsko, Slovenská republika Tiso). Byly kvalitativně srovnatelné s německou K98k.
+Puška vz. 24 byla po březnu 1939 Wehrmachtem zabavena ve **velkém množství**. Německá armáda ji přeznačila na **Gewehr 24(t)** a využila ji pro **záložní jednotky, okupační síly a spojence** (Bulharsko, Rumunsko, Slovenská republika Tiso). Byly kvalitativně srovnatelné s německou K98k.
 
 ## Po válce
 
-Puška vz. 24 **zůstala ve výzbroji ČSLA po roce 1945**, postupně nahrazována sovětskými typy (Mosin-Nagant, pak SKS, pak AK). Poslední puška vz. 24 byla z aktivní výzbroje armády ČSSR **vyřazena až v roce 1968** — po 44 letech ve službě.
+Puška vz. 24 **zůstala ve výzbroji čs. armády i po roce 1945** a byla postupně nahrazována novějšími typy.
 
-Pistole vz. 24 byla **předchůdcem legendární** CZ 50, CZ 75 a dalších českých pistolí. Design byl **základem celé moderní pistolařské tradice ČR a SR**.
+Pistole vz. 24 patří k počátkům dlouhé tradice české pistolové výroby.
 
 ## Kde ji uvidíte
 

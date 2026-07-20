@@ -38,14 +38,13 @@ Kulomet byl v objektech montován na **speciální pevnostní lafetě**, která 
 
 - **Boční palbu** s regulovaným úhlem (typické u řopíku LO vz. 37 typ A)
 - **Automatický odvod kouře** a plynů ventilací skrz komínek
-- **Naváděcí optiku** s kříženým zaměřovačem pro noční palbu
-- **Dálkové ovládání kadence** od velitele objektu
+- **Naváděcí optiku** se zaměřovačem
 
-Pro porovnání: totožný kulomet ZB vz. 26 (předchůdce) byl **přenositelný pěchotní** — vz. 37 byl **stacionární pevnostní/vozidlový**.
+Přes podobné označení nejde o variantu lehkého kulometu vz. 26 — **TK vz. 37 (ZB-53) je samostatná konstrukce** Zbrojovky Brno, vzduchem chlazená a určená pro pevnostní a vozidlové použití. Ve zvonech objektů se používal lehký kulomet vz. 26.
 
 ## V boji
 
-ZB vz. 37 byl **technologicky tak kvalitní**, že ho Wehrmacht po obsazení ČSR v roce 1939 **bez úprav zařadil do výzbroje** pod označením **MG 37(t)**. Přes 12 000 kusů bylo použito na východní frontě, v severní Africe a v obraně Atlantiku. Britové licenčně vyráběli verzi pod označením **BESA** pro tanky Cromwell a Churchill.
+ZB vz. 37 byl **technologicky tak kvalitní**, že ho Wehrmacht po obsazení ČSR v roce 1939 **bez úprav zařadil do výzbroje** pod označením **MG 37(t)**. Kořistní kulomety byly použity na řadě bojišť druhé světové války. Britové licenčně vyráběli verzi pod označením **BESA** pro tanky Cromwell a Churchill.
 
 Tato kombinace — **zbraň poražené armády, kterou její poražitelé i úhlavní nepřátelé zařadili bez problémů do vlastních armád** — je v historii vojenství **vzácná**.
 
@@ -67,7 +66,7 @@ Tato kombinace — **zbraň poražené armády, kterou její poražitelé i úhl
 
 ## Kde ho uvidíte
 
-- **Areál Hlučín-Darkovičky** — originální pevnostní ZB vz. 37 v srubu MO-S 19 (pravý zvon)
+- **Areál Hlučín-Darkovičky** — expozice ve srubech MO-S 18, MO-S 19 a MO-S 20
 - **Tvrz Bouda** — několik kusů v expozici vchodového objektu
 - **Vojenské technické muzeum Lešany** — verze MG 37(t) v exponátech
 - **Muzeum v Šatově** — v kompletní konfiguraci s lafetou

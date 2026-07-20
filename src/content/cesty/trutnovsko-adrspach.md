@@ -43,7 +43,7 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Hronov%2C_Rokyt
 updated: '2026-04-20'
 ---
 
-![T-S 19 „Turov" — pěchotní srub s panoramatickým výhledem na Broumovské stěny a Kladsko. Foto: archiv ropiky.net](/img/forts/hronov--rokytnik--t-s-19--rok-2012--01-.jpg)
+![T-S 19 „Turov" — pěchotní srub s panoramatickým výhledem na Broumovské stěny a Kladsko.](/img/forts/hronov--rokytnik--t-s-19--rok-2012--01-.jpg)
 *T-S 19 „Turov" u Hronova — ideální dopolední zastávka před Adršpachem.*
 
 ## Na první pohled
@@ -68,7 +68,7 @@ Trutnovská linie čs. opevnění leží **v nejkrásnější pískovcové kraji
 
 **09:00–10:30 — T-S 19 „Turov" — muzeum Pevnost Hronov.**
 - Oboustranný srub III. odolnosti s kompletně obnoveným interiérem.
-- Repliky výzbroje (těžký kulomet vz. 37, protitankový kanón 37 mm).
+- Repliky výzbroje (těžký kulomet vz. 37, 4cm protitankový kanón vz. 36 ráže 47 mm).
 - Pancéřové zvony.
 - **Panoramatický výhled** z hřebene na Broumovské stěny, Adršpach a polskou hranici (Kladsko).
 - Expozice zaměřená na osobní příběhy vojáků a unikátní polohu sub v přírodě.
@@ -88,11 +88,11 @@ Vstupné 80 Kč / 40 Kč, otevřeno víkendy květen–září 10:00–17:00, v 
 ## Rozšíření okruhu
 
 **2 dny:**
-- **Den 2:** tvrz Stachelberg (15 km jižně od T-S 19) — druhá dělostřelecká tvrz oblasti, nedokončená (jen 3 % hotovo v září 1938, největší podzemní systém v čs. opevnění).
+- **Den 2:** tvrz Stachelberg (15 km jižně od T-S 19) — největší plánovaná čs. tvrz, rozestavěná: do září 1938 byl vybetonován jediný pěchotní srub T-S 73 a vylámány hrubé podzemní chodby.
 
-![Podzemí tvrze Stachelberg — největší podzemní systém čs. opevnění, v září 1938 dokončen ze 3 %. Foto: archiv ropiky.net](/img/forts/stachelberg-podzem-rok-2008-03-.jpg)
+![Podzemí tvrze Stachelberg — hrubé chodby rozestavěné tvrze.](/img/forts/stachelberg-podzem-rok-2008-03-.jpg)
 *Podzemí tvrze Stachelberg — nejvíc autentický zážitek nedokončené čs. obrany.*
-- **Alternativa:** T-S 73 „Jeřáb" (12 km od T-S 19) + další sruby trutnovské linie.
+- **Alternativa:** další volně přístupné sruby trutnovské linie v okolí.
 
 **3 dny:**
 - **Den 3:** Teplicko-adršpašské skály, Broumov (klášter), Police nad Metují (městské muzeum).

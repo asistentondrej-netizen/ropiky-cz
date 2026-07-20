@@ -20,7 +20,7 @@ Tenhle článek je pro všechny, kdo o řopíkách slyšeli, ale nejsou si jist�
 
 ## Stručná definice — jednou větou
 
-> **Řopík je lidové označení pro Lehký objekt vzor 37 (LO vz. 37), železobetonovou pevnůstku československého opevnění z let 1937–1938. Postavily se jich kolem 9 000 a měly tvořit souvislou kulometnou linii podél celé hranice tehdejšího Československa.**
+> **Řopík je lidové označení pro Lehký objekt vzor 37 (LO vz. 37), železobetonovou pevnůstku československého opevnění z let 1937–1938. Postavilo se jich 9 632 z 15 463 plánovaných a měly tvořit souvislou kulometnou linii podél celé hranice tehdejšího Československa.**
 
 Pokud potřebujete jen tohle, máte hotovo. Pokud chcete vědět, **proč se tak jmenují**, **co všechno do nich vlezlo** a **kde je dnes navštívit**, čtěte dál.
 
@@ -53,17 +53,17 @@ Pokud na to narazíte v sudetském pohraničí (Náchodsko, Orlické hory, Opavs
 
 ## Co se dělo uvnitř
 
-Uvnitř řopíku byla **jedna nebo dvě bojové místnosti** o velikosti zhruba 4 × 2 m. V každé seděli dva vojáci a obsluhovali jeden těžký kulomet vz. 37 (slavný „čtyřsedmička", ZB-53) v ocelolitinové střílnové desce.
+Uvnitř řopíku byla **jedna nebo dvě bojové místnosti** o velikosti zhruba 4 × 2 m. V každé vojáci obsluhovali lehký kulomet vz. 26, nebo těžký kulomet vz. 37 (ZB-53) v ocelolitinové střílnové desce.
 
 Posádka měla:
 
 - **Periskop** pro pozorování
 - **Granátový skluz** — krátká roura pro házení ručních granátů na nepřítele, který se dostal do mrtvého úhlu
 - **Ruční ventilátor** — protože spalování střelného prachu rychle naplňovalo prostor jedovatými plyny
-- **Skladovou místnost** s municí (až 30 000 nábojů!)
+- **Skladovou místnost** se zásobou munice
 - **Spojovací prostředky** — telefon, signalizační praporky
 
-Standardní posádka byla **7 mužů**: velitel, dva střelci, dva nabíječi, dva pozorovatelé/spojaři. Žili v něm nepřetržitě a jídlo dostávali zezadu od týlové podpory.
+Standardní posádka byla **7 mužů**: velitel, dva střelci, dva nabíječi, dva pozorovatelé/spojaři. V objektu pobývala jen za pohotovosti a mobilizace; jídlo dostávala zezadu od týlové podpory.
 
 ## Trik číslo 1: boční palba
 
@@ -84,13 +84,13 @@ Tahle konstrukce je vlastně ukradená z francouzské Maginotovy linie. ŘOP jej
 
 Aby se řopík vešel do různých terénních situací, navrhli konstruktéři **pět typů** označených A, B, C, D, E:
 
-| Typ | Podíl | Posádka | Použití |
-|---|---|---|---|
-| **A** | ~ 85 % | 7 mužů | páteř — souvislá linie, boční palba |
-| **B** | ~ 6 % | 7 mužů | okraje sektorů, svahy |
-| **C** | ~ 1 % | 4 muži | doplňkové, čelní palba |
-| **D** | ~ 5 % | 4 muži | ochrana pěchotních srubů a tvrzí |
-| **E** | ~ 3 % | 2 muži | malá maskovaná stanoviště |
+| Typ | Použití |
+|---|---|
+| **A** | páteř — souvislá linie, boční palba |
+| **B** | okraje sektorů, svahy |
+| **C** | doplňkové, čelní palba |
+| **D** | čelní i boční palba ve zvláštních polohách |
+| **E** | malá stanoviště pro čelní palbu |
 
 Drtivá většina řopíků je tedy **typ A**. Když na nějaký narazíte v terénu, je to skoro jistě A.
 
@@ -98,15 +98,13 @@ Každý typ má navíc podvarianty podle **úhlu rozevření obou střílen** �
 
 *Detailnější technický popis najdete v [typologii LO vz. 37](/typologie/lo-vz-37).*
 
-## Trik číslo 3: tři stupně odolnosti
+## Trik číslo 3: tři provedení
 
-Stěny řopíku se stavěly ve **třech stupních odolnosti** podle toho, jaké dělostřelecké rány se v daném místě očekávalo:
+Řopíky se stavěly ve **třech provedeních** podle toho, jaké ohrožení se v daném místě očekávalo:
 
-- **I. stupeň** — stěny 50 cm, strop 60 cm. Odolá 10cm kanónu. Týlové úseky.
-- **II. stupeň** — stěny 60 cm, strop 80 cm. Odolá 15cm kanónu. Běžné úseky.
-- **III. stupeň** (zesílená) — stěny 80 cm, strop 100 cm. Odolá 21cm kanónu. Hlavní linie v exponovaných oblastech.
-
-V Náchodsku, na Pražské čáře nebo v okolí Ostravy stavěly téměř výhradně III. stupeň. V odlehlých oblastech II. nebo I.
+- **zeslabené** — tenčí stěny, pro méně exponované a týlové úseky
+- **normální** — standardní provedení pro běžné úseky
+- **zesílené** — silnější stěny a strop pro hlavní linie v exponovaných oblastech
 
 ## Konec, který nikdy nebyl bojem
 
@@ -134,7 +132,7 @@ Téměř všude v pohraničí, ale nejhustěji v:
 - **Krkonoších** (oblast okolo Trutnova)
 - **Jižní Moravě** (Mikulovsko, Znojemsko, Břeclavsko)
 - **Slovensku** (okolí Bratislavy — Petržalka)
-- **Vnitrozemských úsecích** ([Pražská čára](/clanky/prazska-cara), Benešova linie II)
+- **Vnitrozemských úsecích** ([pražská čára](/clanky/prazska-cara), liběchovská příčka, vltavská linie)
 
 Některé jsou přístupné jako muzejní expozice — například **K-S 14 „U cihelny"**, areál **Skutina**, **Bouda** nebo **Hanička**. Mnoho dalších je volně přístupných v terénu.
 
@@ -151,8 +149,8 @@ Pokud chcete jeden konkrétní cíl, kde uvidíte řopík plus pěchotní srub p
 
 - **Řopík** = lidové jméno pro **Lehký objekt vzor 37** (LO vz. 37)
 - Postaven byl **mezi roky 1937–1938** československou armádou pod ŘOP
-- **9 000 kusů** plánováno, **přes 6 000 dnes dochovaných**
-- Pět typů (A–E), tři stupně odolnosti
+- **9 632 kusů** postaveno z 15 463 plánovaných, **přes 6 000 dnes dochovaných**
+- Pět typů (A–E), tři provedení (zeslabené, normální, zesílené)
 - Klíčová zásada: **boční palba** podél linie obrany, ne čelná
 - Posádka 2–7 mužů, výzbroj kulomety
 - Nikdy nebojoval — Mnichov 1938 přiměl armádu opustit pohraničí bez výstřelu

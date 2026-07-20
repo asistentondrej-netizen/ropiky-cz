@@ -30,7 +30,7 @@ zastavky:
     nazev: 'K-S 14 „U cihelny"'
     typ: "pevnost"
     doba_minut: 90
-    poznamka: "Proslavený návratem pancéřového zvonu z Atlantické zdi. Muzeum s prohlídkami o víkendech."
+    poznamka: "Samostatný pěchotní srub — muzeum s prohlídkami; původní zvony objekt ztratil v poválečných letech, dnešní jsou dosazené náhrady."
   - nazev: "Vojenské muzeum Králíky"
     typ: "muzeum"
     doba_minut: 60
@@ -46,7 +46,7 @@ updated: 2026-04-20
 
 **Betonová hranice** je v českých reáliích unikátní — je to **největší naučná stezka věnovaná fortifikaci** v ČR a pokrývá 40 km úseku **Kladského klínu**, kde v letech 1935–1938 vznikla nejhustší koncentrace těžkého opevnění v celém Československu. Stezka je otevřená celoročně, lze ji projít pěšky nebo na kole a díky kombinaci muzeí, externě přístupných srubů a výkladových tabulí nabízí **pedagogicky hodnotný zážitek** pro rodiny i odborně zaměřené návštěvníky.
 
-![K-S 14 „U cihelny" — nejnavštěvovanější pěchotní srub stezky, proslavený návratem pancéřového zvonu z Atlantické zdi. Foto: archiv ropiky.net](/img/forts/k-s-14-u-cihelny-1.jpg)
+![K-S 14 „U cihelny" — nejnavštěvovanější pěchotní srub stezky.](/img/forts/k-s-14-u-cihelny-1.jpg)
 *K-S 14 „U cihelny" u Králík — srub se stal symbolem obnoveného zájmu o čs. opevnění.*
 
 ## Historický a geografický kontext
@@ -79,22 +79,21 @@ Trasa je sjízdná **MTB nebo gravelem** — hlavní linie po zpevněných lesn�
 
 ## Další významná zastavení na trase
 
-![K-S 5 „U potoka" — první zastavení stezky, 500 m od nádraží Červená Voda. Pohled od východu. Foto: archiv ropiky.net](/img/forts/k-s-5-u-potoka-e.-pohledodvychodu.jpg)
+![K-S 5 „U potoka" — první zastavení stezky, 500 m od nádraží Červená Voda. Pohled od východu.](/img/forts/k-s-5-u-potoka-e.-pohledodvychodu.jpg)
 *K-S 5 „U potoka" — externě přístupný srub III. odolnosti na začátku stezky.*
 
-![Tvrz Bouda — objekt K-S 22a „Krok". Jediná plně průchozí dělostřelecká tvrz v ČR. Foto: archiv ropiky.net](/img/forts/tvrz-bouda-objekt-k-s-22a-krok.jpg)
+![Tvrz Bouda — objekt K-S 22a „Krok". Jediná plně průchozí dělostřelecká tvrz v ČR.](/img/forts/tvrz-bouda-objekt-k-s-22a-krok.jpg)
 *Tvrz Bouda — klíčová atrakce stezky s prohlídkou v původních podzemních chodbách.*
 
 ### Jižní úsek — Mladkov a Jamné
 
 Od Králík stezka pokračuje jihem k **Mladkovu** a dále k **Jamnému**, kde se napojuje na linii tzv. **pohraničních objektů** s výhledem do polské Kladské kotliny. Zde najdete desítky externě přístupných pěchotních srubů, z nichž většina je v původním nepoškozeném stavu (jen bez vybavení).
 
-![K-S 14 „U cihelny" — detailní pohled na pancéřový zvon, který byl vrácen z Atlantické zdi. Foto: archiv ropiky.net](/img/forts/k-s-14-u-cihelny-5.jpg)
-*Pancéřový zvon K-S 14 — unikátní artefakt, který po desítkách let našel cestu zpět.*
+![K-S 14 „U cihelny" — detailní pohled na pancéřový zvon.](/img/forts/k-s-14-u-cihelny-5.jpg)
+*Pancéřový zvon K-S 14 — původní zvony objekt ztratil v 50.–60. letech, dnešní jsou dosazené náhrady.*
 
-- **K-S 33 „U svatyně"** — srub na hřebenové cestě, výchozí bod k pěšímu výletu do údolí Moravy
-- **K-S 36 „Na sedle"** — ikonická poloha s výhledem, oblíbené místo pro fotografy
-- **K-S 43 „Adam"** — vstupní srub plánované tvrze, dnes externě přístupný s tabulí
+- **Pěchotní sruby podél hřebenových cest** — desítky externě přístupných objektů, řada s informačními tabulemi
+- **Tvrz Adam** — stavebně dokončená dělostřelecká tvrz skrytá v lese; veřejnosti nepřístupná, objekty lze vidět jen zvenku
 
 ## Co si vzít
 
@@ -111,19 +110,12 @@ Od Králík stezka pokračuje jihem k **Mladkovu** a dále k **Jamnému**, kde s
 - Auto: D35 → Králíky (výstup ul. Střížová) — parkování u muzea
 - Vlak: Pardubice → Letohrad → Králíky (2,5 h); Červená Voda má přímou linku ze směru Šumperk
 
-**Ubytování:**
-- Hotel Beseda Králíky — centrum města, 3*, od 1500 Kč
-- Chata u Boudy — cca 1 km od tvrze, 2*, od 800 Kč
-- Penzion Jamné — jižní konec stezky, 2*, od 900 Kč
-
-**Stravování:**
-- Restaurace Beseda — Králíky, česká kuchyně
-- Bistro u muzea — přímo u Vojenského muzea, bufetový styl
-- Restaurace Panoramatická — u tvrze Bouda, výhled do údolí
+**Ubytování a stravování:**
+- Nabídka penzionů a restaurací v Králíkách a okolních obcích — aktuální možnosti vyhledejte online
 
 ## Historický kontext objektů
 
-Po Mnichovské dohodě byl Kladský klín **v říjnu 1938 zabrán Německem** spolu s ostatními Sudety. Objekty byly používány Wehrmachtem k testování (cílová střelba) a v letech 1939–1940 byly **pancéřové zvony stahovány** k použití v Atlantickém valu. Po válce objekty zůstaly v majetku čs. armády, z nichž větší část byla v 50.–70. letech **zasypána nebo zabetonována**. Jen několik zachovalých objektů se v 80.–90. letech dočkalo muzejní rekonstrukce.
+Po Mnichovské dohodě byl Kladský klín **v říjnu 1938 zabrán Německem** spolu s ostatními Sudety. Objekty byly používány Wehrmachtem k testování a řada z nich za okupace i v poválečných letech přišla o **pancéřové zvony a kopule**. Samotné sruby však **většinou dodnes stojí** — byť bez původního vybavení — a několik z nich se od 80.–90. let dočkalo muzejní rekonstrukce.
 
 ## Související
 

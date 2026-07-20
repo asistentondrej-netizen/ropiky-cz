@@ -7,7 +7,6 @@ sources:
   - "Wikipedia — Československé opevnění"
   - "fortifikace.cz"
   - "opevneni.cz"
-  - "ropiky.net"
   - "military.cz"
 related:
   - "stranky/co-je-rop"
@@ -35,7 +34,7 @@ Každý stavební úsek byl **svěřen konkrétnímu ženijnímu velitelství**,
 
 **Nejvíce rozvinutý úsek** celého systému. Chránil **průmyslovou oblast Ostravy** a severovýchodní vstup do republiky. Zde byl realizován vůbec první pěchotní srub systému — **MO-S 8 „Dvůr Paseky"** u Bohumína, betonovaný 15.–22. prosince 1935.
 
-Mezi klíčové objekty patří MO-S 5 „Na trati" (dnes expozice Slezského zemského muzea), MO-S 8 „Dvůr Paseky" (historicky první realizace), MO-S 19 „Alej" (součást skanzenu Darkovičky) a MO-S 40 „Nad silnicí".
+Mezi klíčové objekty patří MO-S 5 „Na trati" (dnes v péči spolku), MO-S 8 „Dvůr Paseky" (historicky první realizace) a MO-S 19 „Alej" (součást areálu Darkovičky, který spravuje Slezské zemské muzeum).
 
 ### OP — Opava
 
@@ -47,7 +46,7 @@ Pokračování linie směrem na Opavsko. Chránila širší průmyslovou oblast 
 
 ### K — Králíky
 
-Strategicky klíčový úsek v oblasti **Králického Sněžníku a Bukové hory**. Zde stojí několik tvrzí — **Bouda**, **Adam** a **Hůrka**, všechny plně dokončené a dnes (s výjimkou některých vnitřních částí) přístupné. Oblast Králík je dnes **největší veřejně přístupnou koncentrací čs. opevnění** — prochází tudy Králická pevnostní naučná stezka a řada muzeí.
+Strategicky klíčový úsek v oblasti **Králického Sněžníku a Bukové hory**. Zde stojí několik tvrzí — **Bouda**, **Adam** a **Hůrka**, všechny stavebně dokončené. Veřejnosti jsou dnes přístupné **Bouda** a **Hůrka**; tvrz Adam přístupná není. Oblast Králík je dnes **největší veřejně přístupnou koncentrací čs. opevnění** — prochází tudy Králická pevnostní naučná stezka a řada muzeí.
 
 ### R — Rokytnice v Orlických horách
 
@@ -83,7 +82,7 @@ Linie řopíků kolem rakouské hranice — oblast Českokrumlovska, Vyššího 
 
 ### Slovensko
 
-Jižní hranice s Maďarskem a rakouská (po Anschlussu) hranice byly zabezpečeny linií řopíků. Důležité úseky: **Petržalka** naproti Vídni (později připadla Maďarsku resp. Slovenskému státu), **Komárno** a linie podél Dunaje, a **Vyšehrad nad Ipľom**.
+Jižní hranice s Maďarskem a rakouská (po Anschlussu) hranice byly zabezpečeny linií řopíků. Důležité úseky: **Petržalka** naproti Bratislavě (10. října 1938 ji zabralo Německo) a **Komárno** s linií podél Dunaje.
 
 ### Pražská čára
 
@@ -93,7 +92,7 @@ Jižní hranice s Maďarskem a rakouská (po Anschlussu) hranice byly zabezpeče
 
 - **Ostravsko (MO)** — výborně zachováno, muzejní skanzen Darkovičky, pěší i cyklistické trasy
 - **Opavsko (OP)** — dobře zachováno, několik expozic
-- **Králicko (K)** — **nejkomplexnější dochovaný úsek**, 3 tvrze přístupné (Bouda, Hůrka, Adam), pevnostní stezka
+- **Králicko (K)** — **nejkomplexnější dochovaný úsek**, tvrze Bouda a Hůrka přístupné, pevnostní stezka
 - **Orlické hory (R)** — Tvrz Hanička přístupná, v terénu řada zachovalých srubů
 - **Náchodsko (N)** — Tvrz Dobrošov, rozsáhlé podzemí
 - **Trutnovsko (T)** — Tvrz Stachelberg, největší podzemní systém
@@ -101,6 +100,6 @@ Jižní hranice s Maďarskem a rakouská (po Anschlussu) hranice byly zabezpeče
 - **Liberecko (Li)** — roztroušené objekty, menší hustota
 - **Jižní Morava** — řopíky v polích a vinicích Pálavy, výletní trasy
 - **Jižní Čechy** — roztroušené, částečně zarostlé
-- **Pražská čára** — většina zničena 1939–42, přežilo jen několik desítek
+- **Pražská čára** — většina zničena za okupace, dochovala se jen menší část objektů
 
 Tento web bude postupně budovat **detailní databázi jednotlivých pevností** v rámci [Katalogu](/katalog). Postupně se obsah naplní podle priority — nejprve klíčové těžké objekty a tvrze (Darkovičky, Hanička, Bouda, Dobrošov, Stachelberg), následně turisticky zajímavé řopíky a postupně méně známé lokality.

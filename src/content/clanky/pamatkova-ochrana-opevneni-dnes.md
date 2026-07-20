@@ -30,7 +30,7 @@ Rámcovým předpisem pro ochranu objektů ŘOP je zákon o státní památkové
 
 V roce 2026 je do Ústředního seznamu zapsáno **přibližně 40 objektů a souborů** vztahujících se přímo k československému opevnění. Zahrnují dělostřelecké tvrze, vybrané pěchotní sruby, skupiny lehkých objektů vz. 37 a technické prvky (překážky, stopy překážek, cvičné sruby).
 
-**Národní kulturní památka Dobrošov** (prohlášena 1995) je zatím jedinou NKP mezi opevněním. Zahrnuje tři dokončené sruby tvrze Dobrošov (N-D-S 72 Můstek, N-D-S 73 Jeřáb, N-D-S 75 Zelený), dalších osm samostatných srubů v okolí a pozůstatky tunelového systému.
+**Národní kulturní památkou** je areál tvrze Dobrošov — patří k nemnoha objektům opevnění s tímto nejvyšším stupněm ochrany. Zahrnuje tři vybetonované sruby tvrze (N-S 72 Můstek, N-S 73 Jeřáb, N-S 75 Zelený) a pozůstatky tunelového systému.
 
 ### Co zůstává mimo ochranu
 
@@ -49,8 +49,8 @@ Z padesáti dochovaných významných objektů je dnes veřejnosti přístupnýc
 
 | Objekt / tvrz | Provozovatel | Otevřeno | Web |
 | --- | --- | --- | --- |
-| **Pevnost Dobrošov** (N-D-S 72, 73, 75) | Muzeum Náchodska | 1968 | [pevnost-dobrosov.cz](https://www.pevnost-dobrosov.cz/) |
-| **Dělostřelecká tvrz Bouda** | Tvrz Bouda, z.s. | 1990. léta | [tvrzbouda.cz](https://www.tvrzbouda.cz/) |
+| **Pevnost Dobrošov** (N-S 72, 73, 75) | Muzeum Náchodska | konec 60. let | [pevnost-dobrosov.cz](https://www.pevnost-dobrosov.cz/) |
+| **Dělostřelecká tvrz Bouda** | Tvrz Bouda, z.s. | 1990 | [tvrzbouda.cz](https://www.tvrzbouda.cz/) |
 | **Dělostřelecká tvrz Hanička** | Město Rokytnice v O. h. | 1995 | [hanicka.cz](https://www.hanicka.cz/) |
 | **Tvrz Stachelberg** | Stachelberg, z.s. | 1993 | [stachelberg.cz](https://www.stachelberg.cz/) |
 | **Vojenské muzeum Králíky** (K-S 14) | Společnost přátel čs. opevnění | 1996 | [armyfort.com](https://www.armyfort.com/) |
@@ -63,16 +63,16 @@ Z padesáti dochovaných významných objektů je dnes veřejnosti přístupnýc
 
 ### Dělostřelecké tvrze — rozdílné osudy
 
-Ze **17 plánovaných tvrzí** bylo dokončeno pět. Dnešní stav:
+Ze **13 zadaných tvrzí** byla stavba zahájena u osmi a pět jich bylo stavebně dokončeno. Dnešní stav:
 
 - **Dobrošov** — státní muzeum, národní kulturní památka, nejnavštěvovanější
 - **Bouda** — provozuje spolek, kompletně dokončená, veřejnosti otevřená
-- **Hanička** — provozuje město, za socialismu přestavěna na protiatomový kryt (1979–1993), dnes muzeum
+- **Hanička** — provozuje město, za socialismu přestavěna na chráněné pracoviště ministerstva vnitra (od poloviny 70. let do počátku 90. let), dnes muzeum
 - **Stachelberg** — neziskový spolek, jen jediný plně dokončený objekt (T-S 73)
-- **Hůrka** — soukromý vlastník, částečný přístup přes spolek ROTA Nazdar
-- **Adam** — soukromý vlastník, veřejnosti nepřístupná (viz [Tvrz Adam](/katalog/tvrz-adam))
-- **Smolkov** — nedokončená, částečně přístupná
-- **Orel** — nedokončená, těžko dostupná
+- **Hůrka** — stavebně dokončená, po válce muniční sklad armády, od roku 2008 muzeum (Společnost přátel čs. opevnění)
+- **Adam** — stavebně dokončená, veřejnosti nepřístupná (viz [Tvrz Adam](/katalog/tvrz-adam))
+- **Smolkov** — stavebně dokončený, areál využívá armáda, podzemí běžně nepřístupné
+- **Orel** — zůstala jen v plánech, stavba nebyla zahájena
 
 ![Interiér podzemí dělostřelecké tvrze Hanička — dnes muzeum provozované městem Rokytnice v Orlických horách. Foto: Harold, CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg/1280px-Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg)
 
@@ -84,9 +84,8 @@ Péče o čs. opevnění leží fakticky **na ramenou dobrovolnických spolků**
 
 - **Klub vojenské historie Bouda (Tvrz Bouda, z.s.)** — dlouholetý provozovatel tvrze Bouda, odpovědný za rekonstrukci vstupního srubu a podzemí
 - **Stachelberg, z.s.** (dříve družstvo Fortis, od 2015 nový statut) — muzeum v Babí od 1993, provozováno bez placených zaměstnanců, financování výhradně ze vstupného
-- **Společnost přátel čs. opevnění (Armyfort)** — Králíky, provozuje vojenské muzeum a K-S 14
+- **Společnost přátel čs. opevnění (Armyfort)** — Králíky, provozuje vojenské muzeum, K-S 14 a tvrz Hůrku
 - **CZEFO (Czech Fortress Organization)** — Bohumín, muzeum MO-S 5
-- **ROTA Nazdar** — Králíky, péče o tvrz Hůrka (částečná)
 - **Klub vojenské historie Náchod** — spolupráce s muzeem Dobrošov, rekonstrukční akce
 
 ### Co spolky dělají
@@ -102,7 +101,7 @@ Přes rostoucí zájem veřejnosti je čs. opevnění stále **na ústupu**. Ná
 
 ### Krádeže kovu a pancéřových prvků
 
-V 90. letech a na přelomu tisíciletí **stovky** lehkých objektů přišly o vchodové pancéřové dveře, mříže, ventilační zařízení a střílny, prodané do kovošrotu. Například na jižní Moravě bylo mezi lety 1993–2005 poškozeno podle odhadů spolku CZEFO přes **40 % objektů vz. 37** v Hodonínsku, Znojemsku a Břeclavsku.
+V 90. letech a na přelomu tisíciletí **stovky** lehkých objektů přišly o vchodové pancéřové dveře, mříže, ventilační zařízení a střílny, prodané do kovošrotu. Například na jižní Moravě byla v 90. letech a na počátku tisíciletí takto poškozena **značná část objektů vz. 37** v Hodonínsku, Znojemsku a Břeclavsku.
 
 ### Zasypávání a demolice
 
@@ -120,7 +119,7 @@ Lehké objekty vz. 37 jsou pevné, ale **hydraulický cyklus mrazu a vody** post
 
 Opakující se volání odborné veřejnosti:
 
-1. **Systémová inventarizace** — aktuální databáze všech dochovaných objektů s GPS, stavem a vlastnictvím (částečně řeší projekty jako ropiky.net, [ropiky.cz](/))
+1. **Systémová inventarizace** — aktuální databáze všech dochovaných objektů s GPS, stavem a vlastnictvím (částečně řeší projekty jako [ropiky.cz](/))
 2. **Rozšíření zákonné ochrany** — alespoň na úrovni souborů (celé úseky, ne jednotlivé objekty)
 3. **Státní podpora pro dobrovolné spolky** — systematická, nikoli projektová (jednorázové granty)
 4. **Zařazení do školních osnov** — fortifikační stezky jako součást výuky dějepisu a krajinné pedagogiky
@@ -133,7 +132,6 @@ V některých regionech — zejména v okolí Králík, Náchoda, Hlučína a na
 - **Ústřední seznam kulturních památek ČR** — [pamatkovykatalog.cz](https://www.pamatkovykatalog.cz/)
 - Wikipedia — [Československé opevnění](https://cs.wikipedia.org/wiki/Československé_opevnění), sekce Památková ochrana
 - Wikipedia — [Dělostřelecká tvrz Dobrošov](https://cs.wikipedia.org/wiki/Dělostřelecká_tvrz_Dobrošov), [Bouda](https://cs.wikipedia.org/wiki/Dělostřelecká_tvrz_Bouda), [Hanička](https://cs.wikipedia.org/wiki/Dělostřelecká_tvrz_Hanička), [Stachelberg](https://cs.wikipedia.org/wiki/Stachelberg)
-- **Stehlík, E.:** *Pevnosti a opevnění v Čechách, na Moravě a ve Slezsku* (Libri, 2002)
 - **Stehlík, E.:** *Lexikon těžkých objektů* (FORTprint 2010)
 - **Ráboň, M. a kol.:** *Val na obranu republiky* (2005)
 - Oficiální stránky muzeí (viz tabulka výše)

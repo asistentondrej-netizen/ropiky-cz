@@ -1,6 +1,6 @@
 ---
 title: "Pancéřový zvon"
-description: "Oceelitý pozorovací zvon zapuštěný do stropu pěchotního srubu či tvrze. Hlavní pozorovací a částečně i střelecký bod objektu. Typy N, AN a 40 mm."
+description: "Ocelolitinový pevný zvon zapuštěný do stropu pěchotního srubu či tvrze. Hlavní pozorovací a částečně i střelecký bod objektu."
 kategorie: "pancir"
 rok_zavedeni: "1936"
 vyrobce: "Škoda Plzeň / Vítkovické železárny"
@@ -19,82 +19,47 @@ updated: 2026-04-21
 
 ## Oko objektu
 
-**Pancéřový zvon** — ocelová polokoule vážící **20–26 tun** zapuštěná do stropu pěchotního srubu nebo tvrze — je **nejvíce rozpoznatelný vizuální prvek** československého opevnění. Jeho zakřivený, **hřibovitý tvar** se stal symbolem ŘOP v populární kultuře.
+**Pancéřový zvon** — masivní **pevný (neotočný)** ocelolitinový odlitek zapuštěný do stropu pěchotního srubu nebo tvrzového objektu — je **nejvíce rozpoznatelný vizuální prvek** československého opevnění. Jeho zakřivený, **hřibovitý tvar** se stal symbolem ŘOP v populární kultuře.
 
 Zvon plnil **tři funkce**:
 
-1. **Pozorovací** — 3 až 5 průzorů rozmístěných kolem obvodu dávalo pozorovateli **360° výhled** do všech směrů
-2. **Střelecká** — v některých variantách **horní otvor pro lehký kulomet** (při útoku shora)
-3. **Komunikační** — průchod pro telefonní a signální kabely ke kulometným hnízdům
+1. **Pozorovací** — průzory rozmístěné po obvodu dávaly pozorovateli výhled na předpolí a okolí objektu
+2. **Střelecká** — v palebných zvonech střílny pro **lehký kulomet vz. 26**
+3. **Komunikační** — spojení pozorovatele s osádkou objektu a řízení palby
 
-## Typy zvonů v ČSR
+## Provedení zvonů
 
-V československých pevnostech jsou **tři hlavní typy**:
+Zvony se vyráběly v několika provedeních, která se lišila **počtem průzorů či střílen, rozměry a určením** (pozorovací, nebo palebné pro lehký kulomet vz. 26). Všechna provedení spojovala stejná základní koncepce:
 
-### Typ N (Nižší)
-- **Výška:** 90 cm
-- **Vnější průměr:** 2,2 m
-- **Pancíř:** 20 cm (litá ocel)
-- **Průzory:** 3
-- **Hmotnost:** 21 t
-- **Použití:** I. a II. odolnost, menší sruby a tvrze
-
-### Typ AN (Artilerijský Nižší)
-- **Výška:** 1,1 m
-- **Vnější průměr:** 2,4 m
-- **Pancíř:** 30 cm
-- **Průzory:** 5 + otvor pro kulomet
-- **Hmotnost:** 26 t
-- **Použití:** III. odolnost, obranné sruby tvrzí
-
-### 40 mm (nejmohutnější)
-- **Výška:** 1,3 m
-- **Vnější průměr:** 2,6 m
-- **Pancíř:** 40 cm (nejsilnější v ČSR)
-- **Průzory:** 5 + otvor pro kulomet
-- **Hmotnost:** ~40 t
-- **Použití:** IV. odolnost (tvrze Bouda, Hanička, Stachelberg — nejklíčovější sruby)
+- **pevný, neotočný odlitek** zapuštěný do stropnice objektu
+- stěny o tloušťce zhruba **20–30 cm** podle stupně odolnosti objektu
+- průzory a střílny uzavíratelné pancéřovými uzávěry
 
 ## Výroba — Škoda nebo Vítkovice
 
 Zvony vyráběly **dvě firmy souběžně**:
 
-- **Škoda Plzeň** — klasická výroba, konzervativnější technologie
-- **Vítkovické železárny** — novější lisovací technologie, rychlejší sériová výroba
+- **Škoda Plzeň**
+- **Vítkovické železárny**
 
-Rozdíl poznáte dnes podle **razeb v odlitku** — Škoda značí "**Š**" + rok, Vítkovice "**V**" + rok. Většina zvonů v Ostravsku a na Orlicku je **Vítkovice**, v Krkonoších a jižní Moravě **Škoda**.
+Osazovaly se na objekty v letech **1936–1938**; část objektů na dodávku zvonů do září 1938 ještě čekala.
 
 ## Odolnost proti dělostřelbě
 
-Pancéřové zvony byly navrženy tak, aby **odolaly přímému zásahu 150 mm dělostřeleckým granátem** na čele (vrchol). Testovací střelby proběhly v roce **1937 na střelnici Brdy** — bombardováno bylo **10 vzorků** z obou výroben. Výsledek:
-
-- **Zvon 40 mm:** odolal přímým zásahům 150 mm granátu bez průstřelu (vrchol)
-- **Zvon AN:** odolal přímým zásahům 100 mm bez průstřelu, 150 mm způsobil vlasové trhliny
-- **Zvon N:** odolal 75 mm granátu, 100 mm ho prorazil po druhém zásahu
-
-To bylo **špičkové v roce 1938**. Pro porovnání: pancíř tanku **PzKpfw IV** měl **15–30 mm** (čelo věže), tedy **7× méně** než zvon AN.
+Pancéřové zvony byly navrženy tak, aby **odolaly přímým zásahům dělostřeleckých granátů** — tloušťka stěn odlitku (zhruba 20–30 cm) odpovídala stupni odolnosti objektu. Na svou dobu šlo o špičkové odlitky, jejichž kvalita po okupaci zaujala i německé odborníky.
 
 ## Osud pancéřových zvonů po Mnichovu
 
-Wehrmacht okamžitě začal s **demontáží zvonů** — měly **vysokou cenu jako hutní ocel** a technologie. Mezi říjnem 1938 a jarem 1940 bylo demontováno **odhadem 350 zvonů** z celé ČSR.
-
-Část z nich Německo **přemístilo do Atlantického valu** — zvony byly zabudovány do bunkrů ve Francii, Norsku, Dánsku. Dosud **4 zvony československého původu** stojí ve francouzských muzeích (např. **Musée du Mur de l'Atlantique** v Audinghenu). To je paradox historie: **čs. obranná technika proti Němcům** použita **Němci proti spojencům**.
+Zvony měly pro okupanty **vysokou cenu jako kvalitní hutní ocel**. Za okupace byla **velká část zvonů z objektů vytržena a sešrotována**; některé kusy byly využity jinde. To je paradox historie: ocel čs. obranné techniky posloužila německému válečnému hospodářství.
 
 ## Co se zachovalo v ČSR
 
-**Většina pevnostních objektů v ČR zvony ztratila** — dnes jsou vidět **jen jámy s ocelovým rámem**. Výjimkou jsou:
-
-- **Tvrz Bouda** — všech 6 zvonů zachováno (unikátní)
-- **Tvrz Dobrošov** — zvony v původním stavu
-- **Areál Hlučín-Darkovičky** — 4 ze 5 zvonů zachováno (MO-S 20 ztratil)
-- **Muzeum Bečov** — zvon v expozici (mimo objekt)
-- **N-S 82 „Březinka"** — kompletní zvony s původními průzory
+**Většina pevnostních objektů v ČR zvony ztratila** — dnes jsou vidět **jen prázdné šachty**. Původní zvony **in situ se dochovaly na tvrzi Bouda**; jednotlivé původní kusy jsou k vidění i na dalších místech. Na srubu **K-S 14 „U cihelny"** pocházejí dnešní zvony z rekonstrukce po roce 2000 — jde o novodobé náhrady.
 
 ## Kde ho uvidíte
 
-- **Tvrz Bouda** — nejlepší místo v ČR pro studium zvonů v kontextu
+- **Tvrz Bouda** — nejlepší místo v ČR pro studium původních zvonů in situ
 - **Hlučín-Darkovičky** — zvony viditelné zvenku, některé uvnitř
-- **B-S 1 „Štěrkoviště"** (Petržalka) — ikonická fotografie zvonu
 
 ## Související obsah
 

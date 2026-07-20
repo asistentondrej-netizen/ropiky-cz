@@ -1,6 +1,6 @@
 ---
 title: Z Prahy za opevněním — Muzeum Milovice
-description: Jednodenní rodinný výlet z Prahy (40 km) do muzea čs. armády Milovice — jediné fortifikační expozice ve Středočeském kraji. Tři přenesené řopíky + kopie pěchotního srubu v měřítku 1:1 a venkovní areál s historickou technikou.
+description: Jednodenní rodinný výlet z Prahy (40 km) do muzea čs. armády Milovice. Tři přenesené řopíky + kopie pěchotního srubu v měřítku 1:1 a venkovní areál s historickou technikou.
 region: Středočeský kraj
 delka_km: 80
 delka_dni: 1
@@ -20,7 +20,7 @@ zastavky:
     nazev: Muzeum čs. armády Milovice
     typ: muzeum
     doba_minut: 180
-    poznamka: 3 přenesené řopíky + kopie pěchotního srubu 1:1 + venkovní areál (40 tanků, transportérů, letadel).
+    poznamka: 3 přenesené řopíky + kopie pěchotního srubu 1:1 + venkovní areál s historickou technikou.
   - nazev: Oběd v Milovicích (restaurace U Tanku)
     typ: gastro
     doba_minut: 60
@@ -43,7 +43,7 @@ cover: /img/forts/german-bunker-on-komensk-ho-street-milovice-07.jpg
 updated: '2026-04-20'
 ---
 
-![Německý bunkr na Komenského ulici v Milovicích — součást bývalého německého výcvikového prostoru z války. Foto: archiv ropiky.net](/img/forts/german-bunker-on-komensk-ho-street-milovice-07.jpg)
+![Německý bunkr na Komenského ulici v Milovicích — součást bývalého německého výcvikového prostoru z války.](/img/forts/german-bunker-on-komensk-ho-street-milovice-07.jpg)
 *Milovice jsou unikátní tím, že v sobě spojují německé válečné objekty, čs. poválečnou armádu, sovětskou okupaci i dnešní muzeum.*
 
 ## Na první pohled
@@ -60,7 +60,7 @@ updated: '2026-04-20'
 
 ## Proč právě Milovice
 
-Muzeum čs. armády Milovice je **nejdostupnější fortifikační expozice z Prahy** (40 km, 40 minut autem, 45 minut vlakem) a **ideální vstup do tématu čs. opevnění pro rodiny a školy**. Jediná muzejní expozice v Středočeském kraji s ucelenou fortifikační částí. Výhoda: **celoroční otevření** — na rozdíl od sezónních expozic v pohraničí.
+Muzeum čs. armády Milovice je **nejdostupnější fortifikační expozice z Prahy** (40 km, 40 minut autem, 45 minut vlakem) a **ideální vstup do tématu čs. opevnění pro rodiny a školy**. Výhoda: **celoroční otevření** — na rozdíl od sezónních expozic v pohraničí.
 
 ## Časový plán (1 den)
 
@@ -69,7 +69,7 @@ Muzeum čs. armády Milovice je **nejdostupnější fortifikační expozice z Pr
 **09:45–13:00 — Muzeum čs. armády Milovice.**
 
 **Fortifikační část:**
-- **Tři přenesené řopíky** z jižní a jihovýchodní Moravy (přeneseny 2008–2012 v rámci programu MO ČR „Záchrana ohrožených fortifikačních objektů").
+- **Tři přenesené řopíky** — do muzea přenesené z původních lokalit.
 - **Kopie pěchotního srubu v měřítku 1:1** — unikátní vzdělávací prostor, umožňuje pochopit těžké opevnění bez nutnosti cestovat do pohraničí.
 
 **Venkovní expozice (40 exponátů):**

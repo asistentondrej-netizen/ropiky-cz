@@ -19,13 +19,13 @@ updated: 2026-04-21
 
 ## Předchůdce a doplněk
 
-**Lehký kulomet vz. 26** — zkratka **LK vz. 26**, fabricky **ZB vz. 26** — je o **11 let starší** než jeho těžký bratr vz. 37, ale ve výzbroji ČSR i jejího opevnění hrál významnou roli. Zatímco **vz. 37 byl pro pevnostní palbu na velké vzdálenosti**, **vz. 26 byl pro rychlou, mobilní obranu** — při boji uvnitř objektu, při výpadu posádky, v blízké obraně.
+**Lehký kulomet vz. 26** — zkratka **LK vz. 26**, fabricky **ZB vz. 26** — je o **11 let starší** než těžký kulomet vz. 37 (který je samostatnou konstrukcí, nikoli odvozeninou vz. 26), ale ve výzbroji ČSR i jejího opevnění hrál významnou roli. Zatímco **vz. 37 byl pro pevnostní palbu na velké vzdálenosti**, **vz. 26 byl pro rychlou, mobilní obranu** — při boji uvnitř objektu, při výpadu posádky, v blízké obraně.
 
 ## Konstrukce
 
 - **Ráže:** 7,92 × 57 mm Mauser
 - **Hmotnost:** 9,6 kg (bez nábojů) — **dvakrát lehčí než vz. 37**
-- **Nábojnice:** **zakřivený zásobník na 20–30 nábojů** shora
+- **Nábojnice:** **zakřivený zásobník na 20 nábojů** shora (třicetiranný zásobník zavedla až britská odvozenina Bren)
 - **Chlazení:** vzduchové, odnímatelná hlaveň (výměna za 5 sekund)
 - **Systém:** plynový motor, automatický/poloautomatický výstřel
 - **Kadence:** 500–600 ran/min
@@ -66,7 +66,7 @@ Málokdo si uvědomuje, že **jeden z nejslavnějších britských kulometů** d
 | Počáteční rychlost střely | 760 m/s |
 | Dostřel účinný | 600 m |
 | Dostřel maximální | 2 000 m |
-| Kapacita zásobníku | 20 / 30 nábojů |
+| Kapacita zásobníku | 20 nábojů |
 | Výměna hlavně | ~5 sekund |
 
 ## Kde ho uvidíte

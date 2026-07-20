@@ -32,7 +32,7 @@ Od roku 1935 stupňovala **Sudetoněmecká strana** (SdP) pod vedením Konráda 
 
 V září 1938 se situace dostala do otevřené krize. Hitler v projevu 12. září v Norimberku vznesl ultimátum. Po neúspěšných britských diplomatických misích (Runciman, Chamberlain) dospěla situace na pokraj války.
 
-**23. září 1938** vyhlásila československá vláda **všeobecnou mobilizaci**. Do opevnění se valily statisíce mužů, **více než 1,25 milionu mužů bylo do 24 hodin pod zbraní**. Stav opevnění byl v tom okamžiku nejlepší, jaký kdy měl — všechny dokončené objekty byly obsazeny, zásoby naplněny, výzbroj připravena.
+**23. září 1938** vyhlásila československá vláda **všeobecnou mobilizaci**. Do opevnění se valily statisíce mužů — **během několika dní nastoupil do zbraně více než milion mužů**. Stav opevnění byl v tom okamžiku nejlepší, jaký kdy měl — všechny dokončené objekty byly obsazeny, zásoby naplněny, výzbroj připravena.
 
 V tomto okamžiku stála na hranicích **technicky připravená armáda v nejmodernějších pozicích střední Evropy**, odhodlaná bojovat.
 
@@ -40,7 +40,7 @@ V tomto okamžiku stála na hranicích **technicky připravená armáda v nejmod
 
 V Mnichově se 29. září 1938 sešli čtyři aktéři: **Adolf Hitler** (Německo), **Benito Mussolini** (Itálie), **Neville Chamberlain** (Velká Británie) a **Édouard Daladier** (Francie). Československo **nebylo k jednáním přizváno**. Jeho delegace čekala v hotelu, aniž by mohla do jednání vstoupit.
 
-Pozdě v noci z 29. na 30. září byla podepsána dohoda, jejímž obsahem bylo odstoupení československého pohraničí (Sudet) Německu, vyklizení odstoupených území do **10. října 1938**, opuštění pevností a vojenských zařízení **bez poškození**, a odstoupení dalších území Polsku (Těšínsko) a Maďarsku (jižní Slovensko, Podkarpatská Rus).
+Pozdě v noci z 29. na 30. září byla podepsána dohoda, jejímž obsahem bylo odstoupení československého pohraničí (Sudet) Německu, vyklizení odstoupených území do **10. října 1938** a opuštění pevností a vojenských zařízení **bez poškození**. Dodatek dohody požadoval vyřešení polských a maďarských územních nároků — k odstoupení Těšínska Polsku a jižního Slovenska s částí Podkarpatské Rusi Maďarsku pak došlo v říjnu a listopadu 1938.
 
 ### Přijetí v Praze
 
@@ -76,11 +76,11 @@ Po osvobození v roce 1945 nebyla pro opevnění jednotná politika. V letech 19
 
 ## Po roce 1989 — znovuobjevení
 
-S pádem komunismu a ukončením studené války se změnil pohled na opevnění. Z **vojenské relikvie** se stal **historicko-turistický fenomén**. Od 90. let vznikly desítky muzejních expozic (Darkovičky, Hanička, Bouda, Dobrošov, Stachelberg, Králíky a mnoho dalších), amatérské spolky rekonstruují jednotlivé řopíky do původního stavu, vznikly turistické trasy a naučné stezky po linii opevnění. Probíhá systematická dokumentace v online databázích (opevneni.cz, ropiky.net, bunkry.cz) a opevnění se stává tématem knih, filmů a vzdělávacích pořadů.
+S pádem komunismu a ukončením studené války se změnil pohled na opevnění. Z **vojenské relikvie** se stal **historicko-turistický fenomén**. Od 90. let vznikly desítky muzejních expozic (Darkovičky, Hanička, Bouda, Dobrošov, Stachelberg, Králíky a mnoho dalších), amatérské spolky rekonstruují jednotlivé řopíky do původního stavu, vznikly turistické trasy a naučné stezky po linii opevnění. Probíhá systematická dokumentace v online databázích (opevneni.cz, bunkry.cz) a opevnění se stává tématem knih, filmů a vzdělávacích pořadů.
 
 ## Paměť Mnichova
 
-Pro český historický diskurs zůstává Mnichov **traumatem** — a zároveň předmětem trvající debaty. Někteří historici argumentují, že rozhodnutí kapitulovat bylo **politicky racionální** vzhledem k nepříznivému poměru sil. Jiní zdůrazňují **morální a strategický omyl** — Československo mělo v září 1938 nejlépe vycvičenou armádu v regionu, 40 divizí, technicky dokončené opevnění a strategicky dobré pozice.
+Pro český historický diskurs zůstává Mnichov **traumatem** — a zároveň předmětem trvající debaty. Někteří historici argumentují, že rozhodnutí kapitulovat bylo **politicky racionální** vzhledem k nepříznivému poměru sil. Jiní zdůrazňují **morální a strategický omyl** — Československo mělo v září 1938 nejlépe vycvičenou armádu v regionu, desítky divizí, technicky dokončené opevnění a strategicky dobré pozice.
 
 Tato debata není cílem tohoto webu. Úlohou tohoto archivu je dokumentovat techniku, geografii a příběh samotných pevností — nikoli rozhodovat historické spory.
 

@@ -1,6 +1,6 @@
 ---
 title: "Naučná stezka Hanička — kolem tvrze dvou epoch"
-description: "Kompaktní naučná stezka kolem tvrze Hanička v Orlických horách — 5 km okruh, 8 zastavení. Unikátní téma: souběžná historie čs. opevnění a sovětské přestavby na jaderný kryt."
+description: "Kompaktní naučná stezka kolem tvrze Hanička v Orlických horách — 5 km okruh. Unikátní téma: souběžná historie čs. opevnění a přestavby pro federální ministerstvo vnitra ČSSR (projekt Kahan)."
 region: "Královéhradecký kraj"
 delka_km: 5
 delka_dni: 1
@@ -15,32 +15,28 @@ zastavky:
   - nazev: "Návštěvnické centrum"
     typ: "muzeum"
     doba_minut: 15
-    poznamka: "Výchozí bod — moderní budova z roku 2012. Vstupenky, mapa stezky, úvodní expozice: modely tvrze ve dvou obdobích (1937 a 1974)."
-  - nazev: 'Pěchotní srub H-S 5 „Aurora"'
+    poznamka: "Výchozí bod — vstupenky, mapa stezky, úvodní expozice o obou epochách tvrze."
+  - nazev: "Pěchotní srub R-S 76"
     typ: "pevnost"
     doba_minut: 20
-    poznamka: "První bunkrový objekt. Externě přístupný, pancéřové zvony originál z roku 1938. Hanička má jen 4 sruby (místo 5 jako Bouda) — kompenzováno větší hloubkou podzemí."
-  - nazev: 'Pěchotní srub H-S 6 „Boda"'
+    poznamka: "První bojový objekt na trase, externě přístupný. Hanička má celkem 6 objektů — R-S 76 až R-S 80 včetně vchodového R-S 79a."
+  - nazev: "Pěchotní srub R-S 77"
     typ: "pevnost"
     doba_minut: 20
-    poznamka: "Druhý objekt. Speciální zajímavost: v letech 1974–1982 přestavěn na ventilační věž sovětského krytu — vnitřek kompletně odstraněn."
-  - nazev: "Pamětní místo obětí září 1938"
-    typ: "obec"
-    doba_minut: 10
-    poznamka: "Kámen připomínající oběti bojů při mobilizaci. Došlo zde k regulačním konfliktům s Freikorpsem — pět čs. vojáků bylo zraněno."
+    poznamka: "Druhý bojový objekt tvrze; areál poznamenala přestavba v rámci projektu Kahan (1975 až počátek 90. let)."
   - slug: "tvrz-hanicka"
-    nazev: "Vchodový srub a hlavní vstup"
+    nazev: "Vchodový objekt R-S 79a a hlavní vstup"
     typ: "pevnost"
     doba_minut: 90
-    poznamka: "Klíčové místo — muzejní prohlídka (90 min, povinný průvodce). Vchodový srub má jaderně-odolná ocelová vrata ze 70. let. Vstupné 180 Kč, rezervace přes hanickapark.cz."
-  - nazev: "Sovětská ventilační věž"
+    poznamka: "Klíčové místo — muzejní prohlídka (90 min, povinný průvodce). Rezervace přes hanicka.cz."
+  - nazev: "Ventilační věž projektu Kahan"
     typ: "muzeum"
     doba_minut: 15
-    poznamka: "Betonová věž z roku 1978 — ventilační otvor sovětského komplexu. Srovnání s původními čs. pancéřovými zvony."
-  - nazev: 'Pozorovatelna „Orlík"'
+    poznamka: "Betonový ventilační objekt z éry projektu Kahan — srovnání s původními čs. pancéřovými zvony."
+  - nazev: "Vyhlídka nad tvrzí"
     typ: "priroda"
     doba_minut: 20
-    poznamka: "Přírodní vyhlídka 400 m. n. m. s pohledem na Orlické hory a do Polska. Strategický význam Haničky — střežila přístup z Kladské kotliny."
+    poznamka: "Vyhlídka v nadmořské výšce kolem 750 m s pohledem na Orlické hory a do Polska. Strategický význam Haničky — střežila přístup z Kladské kotliny."
   - nazev: "Návrat do návštěvnického centra"
     typ: "muzeum"
     doba_minut: 10
@@ -50,26 +46,26 @@ cover: "/img/clanky/hanicka-hero.jpg"
 updated: 2026-04-20
 ---
 
-**Naučná stezka Hanička** je **nejkratší z velkých fortifikačních stezek v ČR** — ale v obsahu unikátní. Stezka kroutí okolo **tvrze Hanička**, jedné z pěti čs. dělostřeleckých tvrzí, která prošla **dvojí přestavbou**: nejprve jako čs. opevnění 1937–1938, pak v 70. a 80. letech jako **rezervní stanoviště ÚV KSČ** pro případ jaderné války. Tato **dvoubarevná historie** — fortifikační a studenoválečná — dělá ze stezky jedinečný zážitek.
+**Naučná stezka Hanička** je **nejkratší z velkých fortifikačních stezek v ČR** — ale v obsahu unikátní. Stezka kroutí okolo **tvrze Hanička**, jedné z pěti stavebně dokončených čs. dělostřeleckých tvrzí, která nese **dvě historické vrstvy**: nejprve čs. opevnění let 1936–1938, pak od roku 1975 do počátku 90. let přestavbu pro **federální ministerstvo vnitra ČSSR** (projekt Kahan). Tato **dvoubarevná historie** — fortifikační a studenoválečná — dělá ze stezky jedinečný zážitek.
 
-![Podzemí tvrze Hanička — chodba z 80. let, kdy byl objekt přestavěn na rezervní stanoviště ÚV KSČ. Foto: Harold / Wikimedia (CC BY-SA 3.0)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg/1280px-Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg)
-*Podzemí tvrze Hanička — chodby ze 70.–80. let slouží dnes jako unikátní muzeum studené války.*
+![Podzemí tvrze Hanička — chodba upravená při přestavbě pro federální ministerstvo vnitra ČSSR. Foto: Harold / Wikimedia (CC BY-SA 3.0)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg/1280px-Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg)
+*Podzemí tvrze Hanička — chodby upravené v éře projektu Kahan slouží dnes jako unikátní muzeum studené války.*
 
 ## Unikátnost stezky: dvě historie
 
 Zatímco většina fortifikačních naučných stezek pracuje s jedním tématem (čs. opevnění 1935–1938), **Hanička nese dvě vrstvy**:
 
-**Vrstva 1 — 1937–1938:** dělostřelecká tvrz ČSR, čtyři sruby propojené podzemím, nedokončená.
+**Vrstva 1 — 1936–1938:** dělostřelecká tvrz ČSR, stavebně dokončená — šest objektů R-S 76 až R-S 80 včetně vchodového R-S 79a, propojených podzemím.
 
-**Vrstva 2 — 1974–1989:** přestavba na **rezervní stanoviště ÚV KSČ** — původní objekt vybetonovaný, rozšířený o nové podzemní komplexy, vybavený jaderně-odolnými dveřmi, filtroventilací a ubytovnou pro 250 osob.
+**Vrstva 2 — 1975 až počátek 90. let:** přestavba pro **federální ministerstvo vnitra ČSSR** (projekt Kahan) — podzemí doplněné o moderní technologie, filtroventilaci a odolné vstupy.
 
 Stezka vysvětluje, jak **naprosto rozdílné účely** byly sloučeny v jednom objektu a jak tyto dvě historické vrstvy dnes koexistují.
 
 ## Muzejní prohlídka tvrze
 
-**Bezpodmínečně doporučujeme** zakombinovat stezku s prohlídkou tvrze. Délka prohlídky 90 minut, trasa vede původním čs. objektem i sovětským krytem, průvodce je povinný (výklad ve skupině 15 osob). Vstupné 180 Kč dospělí / 120 Kč studenti, rezervace přes [haničkapark.cz](https://hanickapark.cz).
+**Bezpodmínečně doporučujeme** zakombinovat stezku s prohlídkou tvrze. Délka prohlídky 90 minut, trasa vede původním čs. objektem i prostory z éry projektu Kahan, průvodce je povinný. Aktuální vstupné a rezervace přes [hanicka.cz](https://www.hanicka.cz).
 
-Prohlídka začíná v původním čs. vstupním srubu, pokračuje do hloubkového komplexu z 80. let (ubikace, velín, elektrocentrála) a končí u ventilační šachty. Výklad kombinuje **fortifikační a politologické** perspektivy.
+Prohlídka začíná v původním vchodovém objektu R-S 79a, pokračuje do prostor upravených v éře projektu Kahan (ubikace, velín, elektrocentrála) a končí u ventilační šachty. Výklad kombinuje **fortifikační a politologické** perspektivy.
 
 ## Harmonogram výletu
 
@@ -77,10 +73,10 @@ Prohlídka začíná v původním čs. vstupním srubu, pokračuje do hloubkové
 
 - 9:30 — Příjezd a parkování
 - 9:45–10:00 — Návštěvnické centrum
-- 10:00–11:00 — Stezka zastavení 2–4
+- 10:00–11:00 — Stezka (úvodní zastavení)
 - 11:00–12:30 — **Prohlídka tvrze s průvodcem** (rezervujte!)
 - 12:30–13:30 — Oběd (restaurace Hanička)
-- 13:30–15:30 — Pokračování stezky (zastavení 6–8)
+- 13:30–15:30 — Pokračování stezky (zbývající zastavení)
 - 15:30–16:00 — Souvenýry v návštěvnickém centru
 - 16:00 — Odjezd
 
@@ -89,7 +85,7 @@ Prohlídka začíná v původním čs. vstupním srubu, pokračuje do hloubkové
 Hanička je **centrálně položená** v Orlických horách, takže se dobře kombinuje s:
 
 - **Tvrz Bouda** (25 km jižně) — hlavní cíl Betonové hranice
-- **Dělostřelecká tvrz Dobrošov** (40 km severně) — nedokončená tvrz u Náchoda
+- **Dělostřelecká tvrz Dobrošov** (cca 30 km severozápadně) — rozestavěná tvrz u Náchoda
 - **Ski areál Deštné** (10 km) — v zimě pro aktivní zastávku
 
 ## Doprava
@@ -111,4 +107,4 @@ Hanička je **centrálně položená** v Orlických horách, takže se dobře ko
 - [Stezka Betonová hranice](/cesty/stezka-betonova-hranice) — velká stezka u Králík
 - [Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu)
 
-**Důležitá poznámka:** Muzeum tvrze Hanička je jediné fortifikační muzeum v ČR, které **systematicky dokumentuje éru 1974–1989**. Pokud vás zajímá studená válka, je to **povinná zastávka**.
+**Důležitá poznámka:** Muzeum tvrze Hanička **systematicky dokumentuje éru projektu Kahan**. Pokud vás zajímá studená válka, je to **povinná zastávka**.

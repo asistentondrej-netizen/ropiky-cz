@@ -20,11 +20,11 @@ Tady je naše **TOP 10 pevností**, které stojí za výlet, ať už jste fanou�
 
 ## 1. Dělostřelecká tvrz Hanička (Orlické hory)
 
-**Kde:** Bartošovice v Orlických horách, okres Rychnov nad Kněžnou
-**Typ:** Dělostřelecká tvrz (4 sruby + podzemí)
+**Kde:** Rokytnice v Orlických horách, okres Rychnov nad Kněžnou
+**Typ:** Dělostřelecká tvrz (6 objektů R-S 76 až R-S 80 vč. 79a + podzemí)
 **Co uvidíte:** Kompletní podzemní systém, sálová oddělení, ubikace, strojovna, výzbroj. Provádí průvodce.
 
-Hanička je jedna z **pěti zcela dokončených dělostřeleckých tvrzí** československého opevnění. Po Mnichovu sloužila Wehrmachtu k destrukčním zkouškám, ale díky kvalitnímu betonu zůstal podzemní komplex prakticky neporušený. Dnes ji spravuje Klub vojenské historie Rychnov a je veřejně přístupná v sezóně.
+Hanička je jedna z **pěti zcela dokončených dělostřeleckých tvrzí** československého opevnění. Po Mnichovu sloužila Wehrmachtu k destrukčním zkouškám, ale díky kvalitnímu betonu zůstal podzemní komplex prakticky neporušený. Dnes ji provozuje město Rokytnice v Orlických horách a je veřejně přístupná v sezóně.
 
 **Tip:** kombinujte s návštěvou nedaleké rozhledny Anenský vrch nebo s dalšími pevnostmi v Orlických horách — okolí Bartošovic je nejhustší fortifikační oblast Česka.
 
@@ -33,12 +33,12 @@ Hanička je jedna z **pěti zcela dokončených dělostřeleckých tvrzí** čes
 ## 2. Dělostřelecká tvrz Bouda (Králicko)
 
 **Kde:** Těchonín, okres Ústí nad Orlicí
-**Typ:** Dělostřelecká tvrz (5 srubů + podzemí 750 m chodeb)
+**Typ:** Dělostřelecká tvrz (5 objektů + zhruba 1,5 km podzemí)
 **Co uvidíte:** Nejautentičtější dochovaná tvrz s původním vybavením, telefonní ústřednou, dělostřeleckým srubem.
 
 Tvrz Bouda je **ikonou čs. opevnění** — díky odlehlé poloze a dobré správě se dochovala v unikátním stavu. Provázejí ji nadšenci ze Společnosti přátel čs. opevnění Bouda. Návštěva trvá zhruba **2,5 hodiny** a je to opravdu zážitek hodný cesty.
 
-**Tip:** Bouda je součástí **Králického muzejního areálu** — můžete spojit s návštěvou pěchotního srubu **K-S 14 „U cihelny"** nebo dělostřelecké tvrze **Adam (Hůrka)**.
+**Tip:** Bouda je součástí **Králického muzejního areálu** — můžete spojit s návštěvou pěchotního srubu **K-S 14 „U cihelny"** nebo dělostřelecké tvrze **Hůrka**.
 
 [Detail Boudy v katalogu →](/katalog/tvrz-bouda)
 
@@ -57,10 +57,10 @@ Pokud jste na čs. opevnění novicem a chcete vidět **„opravdovou pevnost"**
 ## 4. Areál čs. opevnění Darkovičky (Hlučínsko)
 
 **Kde:** Hlučín-Darkovičky, severní Morava
-**Typ:** 4 pěchotní sruby + venkovní expozice
-**Co uvidíte:** Sruby MO-S 18, MO-S 19, MO-S 20 a MO-S 21 — kompletní úsek MO opevnění, expozice Vojenského historického muzea.
+**Typ:** 3 pěchotní sruby + řopík
+**Co uvidíte:** Sruby MO-S 18 „Obora", MO-S 19 „Alej" a MO-S 20 „Orel" plus lehký objekt vz. 37 — ukázkový úsek MO opevnění.
 
-Darkovičky jsou **největší muzejní areál čs. opevnění** v Česku, spravovaný Vojenským historickým ústavem Praha. Mají profesionální průvodce, dětské programy a víkendové akce s ukázkami techniky. Pro rodinu s dětmi ideální.
+Darkovičky jsou **jeden z největších muzejních areálů čs. opevnění** v Česku, spravovaný Slezským zemským muzeem. Mají profesionální průvodce, dětské programy a víkendové akce s ukázkami techniky. Pro rodinu s dětmi ideální.
 
 **Tip:** spojte s návštěvou hlučínské stezky [Naučná stezka Darkovičky](/clanky/naucna-stezka-darkovicky) — vede mezi sruby a vysvětluje jejich roli v plánu obrany.
 
@@ -69,10 +69,10 @@ Darkovičky jsou **největší muzejní areál čs. opevnění** v Česku, sprav
 ## 5. Tvrz Stachelberg (Trutnovsko)
 
 **Kde:** Babí u Trutnova, Krkonoše
-**Typ:** Dělostřelecká tvrz (rozestavěná, 1 dokončený srub)
-**Co uvidíte:** Největší plánovaná čs. tvrz, dokončený srub T-St-S 73 „Polom", podzemí.
+**Typ:** Dělostřelecká tvrz (rozestavěná, 1 vybetonovaný objekt)
+**Co uvidíte:** Největší plánovaná čs. tvrz, vybetonovaný srub T-S 73, podzemí.
 
-Stachelberg měl být **největší dělostřeleckou tvrzí celého systému** — komplex s 11 sruby a podzemím o délce přes 4 km. Mnichov ji zastihl v rozestavěném stavu (jen jeden srub byl dokončený), ale i to, co stojí, je grandiózní. Dnes muzeum.
+Stachelberg měl být **největší dělostřeleckou tvrzí celého systému**. Mnichov ji zastihl v rozestavěném stavu — vybetonován byl jediný objekt T-S 73 a v podzemí byly vyraženy zhruba 3,5 km hrubých chodeb. I to, co stojí, je grandiózní. Dnes muzeum.
 
 **Tip:** Stachelberg je v krásném krkonošském terénu — návštěvu spojte s celodenní procházkou.
 
@@ -81,8 +81,8 @@ Stachelberg měl být **největší dělostřeleckou tvrzí celého systému** �
 ## 6. Pevnostní areál Skutina (Orlické hory)
 
 **Kde:** Sedloňov, Orlické hory
-**Typ:** 5 pěchotních srubů + řopíky + tvrz
-**Co uvidíte:** Linie srubů R-S 71 až R-S 74, tvrz Skutina (rozestavěná), řopíky, naučná stezka.
+**Typ:** Rozestavěná tvrz + řopíky
+**Co uvidíte:** Objekty rozestavěné tvrze Skutina, řopíky v okolí, naučná stezka.
 
 Skutina je **kvintesence orlickohorského opevnění**: na jednom místě uvidíte celé spektrum systému — od malého řopíku až po těžké pěchotní sruby. Spravuje ji Klub vojenské historie a stezky vedou krásnou krajinou.
 
@@ -94,7 +94,7 @@ Skutina je **kvintesence orlickohorského opevnění**: na jednom místě uvidí
 
 **Kde:** Dobrošov, okres Náchod
 **Typ:** Dělostřelecká tvrz (rozestavěná, 3 sruby + podzemí)
-**Co uvidíte:** Pěchotní sruby N-S 75, N-S 73, N-S 72, dělostřelecký srub N-S 74, podzemí 1,5 km.
+**Co uvidíte:** Pěchotní sruby N-S 72 „Můstek" a N-S 73 „Jeřáb", dělostřelecký srub N-S 75 „Zelený", rozestavěné podzemí.
 
 Dobrošov je **nejnavštěvovanější tvrz** systému — leží blízko Náchoda a je dobře přístupná. Tvrz není zcela dokončená (dělostřelecký srub a kazematy jsou v hrubé stavbě), což je naopak zajímavé: vidíte „rentgen" stavebního procesu, jak tvrz vypadala těsně před Mnichovem.
 
@@ -120,23 +120,23 @@ T-S 19 „Turov" je **menší muzejní expozice s velkou citem pro detail** — 
 **Typ:** Pěchotní srub II. třídy
 **Co uvidíte:** Jeden z prvních betonovaných srubů celého systému (prosinec 1935), částečná rekonstrukce.
 
-MO-S 5 patří mezi **nejstarší stavby čs. opevnění** — byl betonován jen pár dní po pěchotním srubu MO-S 8 „Dvůr Paseky", historicky první stavby celého systému. Dnes spravuje místní spolek a koná se zde řada akcí.
+MO-S 5 patří mezi **nejstarší stavby čs. opevnění** — vznikal krátce po pěchotním srubu MO-S 8 „Dvůr Paseky", historicky první betonované stavbě celého systému. Dnes spravuje místní spolek a koná se zde řada akcí.
 
-**Tip:** spojte s návštěvou MO-S 8 „Dvůr Paseky" v Bohumíně — historicky **první betonovaný objekt** československého opevnění (zahájeno 15. prosince 1935).
+**Tip:** spojte s návštěvou MO-S 8 „Dvůr Paseky" — historicky **prvního betonovaného objektu** československého opevnění (prosinec 1935).
 
 [Detail MO-S 5 v katalogu →](/katalog/mo-s-5-na-trati)
 
-## 10. Dělostřelecká tvrz Adam / Hůrka (Králíky)
+## 10. Dělostřelecká tvrz Hůrka (Králíky)
 
-**Kde:** Lichkov u Králíků
-**Typ:** Dělostřelecká tvrz (4 sruby + podzemí)
-**Co uvidíte:** Plně dokončená tvrz s vstupním srubem, sruby T-S 73 a T-S 74, podzemí.
+**Kde:** Králíky, okres Ústí nad Orlicí
+**Typ:** Dělostřelecká tvrz (stavebně dokončená)
+**Co uvidíte:** Vstupní objekt, rozsáhlé podzemí, pěchotní a dělostřelecké sruby tvrze.
 
-Tvrz Adam (na Wikipedii uvedená jako Hůrka) je **další z pěti zcela dokončených tvrzí** systému. Podobně jako Bouda se dochovala v dobrém stavu a je veřejně přístupná. Spravuje Klub vojenské historie Králíky.
+Hůrka je **další z pěti stavebně dokončených tvrzí** systému. Po válce sloužila armádě jako muniční sklad, což ji paradoxně uchovalo v dobrém stavu; od roku 2008 je zpřístupněna jako muzeum, které provozuje Společnost přátel čs. opevnění.
 
-**Tip:** Adam, Bouda a K-S 14 jsou v jednom regionu (Králicko) — celý víkendový výlet zaměřený jen na jednu z nejhustějších fortifikačních oblastí Česka.
+**Tip:** Hůrka, Bouda a K-S 14 jsou v jednom regionu (Králicko) — celý víkendový výlet zaměřený jen na jednu z nejhustějších fortifikačních oblastí Česka.
 
-[Detail tvrze Adam v katalogu →](/katalog/tvrz-adam)
+[Detail tvrze Hůrka v katalogu →](/katalog/tvrz-hurka)
 
 ---
 

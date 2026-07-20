@@ -27,11 +27,11 @@ updated: 2026-04-21
 
 V **létě 1938** ČSR neočekávala jen německý útok. Maďarské vedení pod Miklósem Horthym požadovalo **obnovení Uherska v předválečných hranicích** a otevřeně hrozilo vojenským řešením. ČSR tedy betonovala **také jižní hranici Slovenska** — od **Bratislavy** přes **Komárno**, **Nové Zámky**, **Lučenec**, **Košice** po **Užhorod** (tehdy československá Podkarpatská Rus).
 
-Stavba začala **až v květnu 1938** a do září bylo **dokončeno 70 objektů** (z plánovaných zhruba 350). Většinou řopíky LO vz. 37, několik objektů vz. 36, **žádné těžké sruby** — na jih prostě nebyl čas.
+Stavba začala **až v roce 1938** a do září byla **dokončena jen část plánované linie**. Šlo o řopíky LO vz. 37 — **žádné těžké sruby** (mimo bratislavské předmostí), na jih prostě nebyl čas.
 
 ## Co se tu stalo — Vídeňská arbitráž
 
-**2. listopadu 1938** — měsíc po Mnichovu — proběhla ve Vídni arbitráž mezi Německem, Itálií, ČSR a Maďarskem. Výsledek: **jižní pás Slovenska** (a celá Podkarpatská Rus) **byl přidělen Maďarsku**. Pás zahrnoval i **většinu nově postavených řopíků** — z 70 objektů se jich do maďarského záboru dostalo **přibližně 55**.
+**2. listopadu 1938** — měsíc po Mnichovu — proběhla ve Vídni arbitráž pod patronací Německa a Itálie. Výsledek: **jižní pás Slovenska a jižní část Podkarpatské Rusi** byly **přiděleny Maďarsku** (zbytek Podkarpatské Rusi Maďarsko obsadilo v březnu 1939). Zabraný pás zahrnoval i **většinu nově postavených řopíků**.
 
 Maďaři objekty většinou **nepoužili, nedemontovali, jen nechali v krajině**. Po roce 1945 se Slovensko vrátilo do československých hranic, ale objekty ležely dalších 40 let v pohraničním pásmu u Maďarska — **nikdo je oficiálně neevidoval**.
 

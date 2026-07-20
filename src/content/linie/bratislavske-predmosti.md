@@ -6,8 +6,8 @@ delka_km: 15
 pocet_objektu: 35
 pocet_planovano: 50
 pocet_realizovano: 35
-pocet_to: 14
-obdobi_stavby: "1935–1938 (TO 1935–36, LO 1938 urgentně po Anschlussu)"
+pocet_to: 15
+obdobi_stavby: "1936–1938 (TO 1936–38, LO 1938)"
 stav_dnes: "Sruby stojí mezi panelovými domy Petržalky. 2 jsou muzea, ostatní volně přístupné zvenku."
 order: 40
 bounds:
@@ -27,7 +27,7 @@ updated: 2026-04-21
 
 Bratislava leží **přímo na hranici s tehdejším Rakouskem** (dnes na hranici s Rakouskem). Po Anschlussu (12. března 1938) se Vídeň stala součástí Německa — a od Vídně je Bratislava **vzdušnou čarou 60 km**. Přes **Dunaj a Petržalku** vede **přímá útočná osa** na slovenské hlavní město a dále na Trnavu a Nitru.
 
-ČSR proto v **létě a na podzim 1938** urgentně vybudovala v Petržalce linii **14 pěchotních srubů B-S 1 až B-S 14** (Bratislava-srub). Většina byla betonována ve **III. odolnosti** — protože Petržalka leží v rovině a nad ní je výhled z rakouské strany (Dunaj, Bratislavský hrad).
+ČSR v Petržalce budovala **v letech 1936–1938** linii **15 pěchotních srubů B-S 1 až B-S 15** (Bratislava-srub) — původně proti Rakousku, po Anschlussu proti Německu. Petržalka leží v rovině na pravém břehu Dunaje, a předmostí tak bylo jedinou částí hlavního města přímo vystavenou útoku.
 
 ## Specifikum úseku
 
@@ -37,7 +37,7 @@ Některé jsou nyní **uprostřed hřišť, mezi školami, u autobusových zast�
 
 ## Ikonické objekty
 
-- **B-S 1 „Štěrkoviště"** — volně přístupný, u sídliště Lúky, památník
+- **B-S 1 „Štrkovisko"** — volně přístupný, u sídliště Lúky, památník
 - **B-S 4 „Lány"** — v parku, zpřístupněný exteriér
 - **B-S 5 „Žabí most"** — u dunajské hráze, významný orientační bod
 - **B-S 6 „Vrba"** — muzejní prohlídky v rámci iniciativy Zachráňme petržalské bunkre
@@ -47,7 +47,7 @@ Některé jsou nyní **uprostřed hřišť, mezi školami, u autobusových zast�
 
 Bratislavské předmostí bylo **předáno Wehrmachtu 10. října 1938** — jako poslední úsek celého ŘOP. Petržalka byla oddělena od Bratislavy a připojena k **Ostmarku** (Rakousku pod říší). Sruby sloužily Wehrmachtu k **cvičným účelům** a některé byly po válce zachovány, jiné částečně demontovány.
 
-Po roce 1945 sruby zůstaly v sídlištní zástavbě. **Petržalka se obrovsky změnila** (40 000 → 120 000 obyvatel v letech 1970–1990) a sruby se staly součástí jejího urbánního charakteru. **Občianska iniciatíva „Zachráňme petržalské bunkre"** od roku 2010 usiluje o jejich obnovu a kulturní využití.
+Po roce 1945 sruby zůstaly v sídlištní zástavbě. **Petržalka se výstavbou sídliště mnohonásobně rozrostla** a sruby se staly součástí jejího urbánního charakteru. **Občianska iniciatíva „Zachráňme petržalské bunkre"** dlouhodobě usiluje o jejich obnovu a kulturní využití.
 
 ## Co navštívit — 1denní okruh pěšky
 
@@ -55,7 +55,7 @@ Po roce 1945 sruby zůstaly v sídlištní zástavbě. **Petržalka se obrovsky 
 2. **B-S 6 „Vrba"** (exteriér, 20 min)
 3. **B-S 5 „Žabí most"** (cestou podél Dunaje, 20 min)
 4. **B-S 4 „Lány"** (v parku, 30 min)
-5. **B-S 1 „Štěrkoviště"** (sídliště Lúky, 20 min)
+5. **B-S 1 „Štrkovisko"** (sídliště Lúky, 20 min)
 
 Celý okruh **MHD + pěšky**: trolejbus 201 nebo 202 z centra Bratislavy, zastávka Antolská. Ideální kombinace s **návštěvou bratislavského hradu a Starého Mesta** — fortifikace + metropole za jeden den.
 

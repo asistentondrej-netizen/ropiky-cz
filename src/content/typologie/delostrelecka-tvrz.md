@@ -2,12 +2,12 @@
 title: "Dělostřelecká tvrz"
 code: "Tvrz (TO)"
 category: "tezke"
-description: "Vrchol čs. fortifikace — skupina několika železobetonových objektů propojených podzemními chodbami. Z plánovaných 17 bylo plně dokončeno 5 tvrzí (Adam, Bouda, Hanička, Hůrka, Smolkov), dalších 7 rozestavěno — z toho Dobrošov a Stachelberg jsou dnes zpřístupněné jako muzea."
+description: "Vrchol čs. fortifikace — skupina několika železobetonových objektů propojených podzemními chodbami. Ze 13 zadaných tvrzí byla u 8 zahájena výstavba a 5 bylo dokončeno (Adam, Bouda, Hanička, Hůrka, Smolkov); rozestavěné Dobrošov a Stachelberg jsou dnes zpřístupněné jako muzea."
 period: "1936–1938"
 builtCount: 5
 armament:
-  - "Houfnice vz. 38 ráže 10 cm v otočných věžích"
-  - "Minomety vz. 38 ráže 12 cm v pancéřových kopulích"
+  - "10cm houfnice vz. 38 (plánována, nikdy nedodána)"
+  - "Minomet vz. 38 ráže 9 cm (plánován, nenamontován)"
   - "Protitankové kanóny vz. 36 (4 cm)"
   - "Těžké kulomety vz. 37"
 order: 40
@@ -16,7 +16,6 @@ sources:
   - "Wikipedia — Dělostřelecká tvrz"
   - "muzeum-kraliky.cz"
   - "hanicka.cz"
-  - "ropiky.net"
   - "Aron L. a kol.: Československé opevnění 1935–1938 (FORTprint)"
   - "Denkschrift über die tschecho-slowakische Landesbefestigung (OKH, Berlín 1941) — BArch RH 11-III/1028, public domain"
 ---
@@ -31,8 +30,8 @@ Tvrz nebyla jedním objektem, ale **komplexem** povrchových a podzemních stave
 
 - **Vchodový objekt** — vstup pro posádku, zásoby, techniku (obvykle ve svahu, s rampou pro nákladní vozidla)
 - **Pěchotní sruby** — obrana přístupu k tvrzi (2–4 objekty)
-- **Dělostřelecké sruby** — s otočnými a výsuvnými dělostřeleckými věžemi (1–2 objekty)
-- **Minometné objekty** — s minomety v pancéřových kopulích
+- **Dělostřelecké sruby** — kasematní objekty pro 10cm houfnice; projekty počítaly i s objekty pro otočné dělostřelecké věže, žádná věž však nebyla vyrobena
+- **Minometné objekty** — plánované objekty pro minometnou výzbroj
 - **Pozorovací objekt** — s dalekohledy a optickými zaměřovacími přístroji
 - **Podzemní kasárna** — ubikace, kuchyně, sklady, strojovny, filtroventilace
 - **Podzemní chodby** délky **stovek metrů až několika kilometrů**
@@ -53,7 +52,7 @@ Tvrze byly umísťovány v **nejkritičtějších bodech systému** — zejména
 
 ## Plán a realizace
 
-Plánováno bylo **17 dělostřeleckých tvrzí**. Do Mnichova bylo **plně dokončeno pouze pět**, dalších **7 rozestavěno** (z nich jsou dnes Dobrošov a Stachelberg zpřístupněné jako muzea). V **katalogu pevností proto najdete 7 záznamů** — pět dokončených plus dvě rozestavěné návštěvní muzea.
+Zadáno bylo **13 dělostřeleckých tvrzí**. U **8 z nich byla zahájena výstavba** a **5 bylo do září 1938 stavebně dokončeno**. Rozestavěné zůstaly **Dobrošov**, **Stachelberg** a **Skutina** — z nich jsou dnes Dobrošov a Stachelberg zpřístupněné jako muzea.
 
 ### Dokončené tvrze
 
@@ -67,18 +66,17 @@ Plánováno bylo **17 dělostřeleckých tvrzí**. Do Mnichova bylo **plně doko
 
 ### Rozestavěné, ale nedokončené
 
-Další čtyři byly v pokročilé stavbě, ale nedokončeny:
+Výstavba dalších tří tvrzí byla zahájena, ale do září 1938 nedokončena:
 
-- **Dobrošov** (úsek Náchod) — dnes muzeum s podzemní trasou, obsahuje největší vnitřní sály
+- **Dobrošov** (úsek Náchod) — dnes muzeum s podzemní trasou
 - **Skutina** (úsek Rokytnice)
-- **Šibenice** (úsek Náchod)
-- **Stachelberg** (úsek Trutnov) — **největší plánovaná tvrz** čs. opevnění, realizován jen jediný pěchotní srub a počátek podzemí; dnes přístupná expozice s podzemní trasou
+- **Stachelberg** (úsek Trutnov) — **největší plánovaná tvrz** čs. opevnění, realizován jen pěchotní srub **T-S 73 „Polom"** a část podzemí; dnes přístupná expozice s podzemní trasou
 
 ![Křížení podzemních chodeb ve tvrzi Stachelberg — ukázka rozsahu podzemního systému](/img/typologie/tvrz-stachelberg-kriz.jpg)
 
-### Pouze v plánech nebo vytyčené
+### Pouze v plánech
 
-Zbývajících osm tvrzí bylo jen projektováno nebo vytyčeno v terénu bez zahájení výstavby: **Lanškroun, Jirásek, Milostovice, Bohumín, Kulaťák, Roztoč, Orel, Kyselka**. Jejich realizace byla plánována na roky 1939–1943.
+Zbývajících pět zadaných tvrzí zůstalo jen ve fázi projektů a příprav — jejich výstavba už zahájena nebyla.
 
 ## Technické parametry
 
@@ -100,7 +98,7 @@ Podzemní systém typické tvrze měl **500–2 000 m chodeb** propojujících p
 - **Bouda** — asi 800 m chodeb, 5 objektů
 - **Hanička** — asi 650 m chodeb, 6 objektů
 - **Dobrošov** — asi 1 500 m chodeb (jen zhruba 20 % hotových), 9 objektů
-- **Hůrka** — asi 600 m chodeb, 4 objekty
+- **Hůrka** — asi 600 m chodeb, 5 objektů
 - **Adam** — asi 500 m chodeb, 5 objektů
 - **Stachelberg** — asi 800 m chodeb (z plánovaných 3 000 m)
 
@@ -112,33 +110,33 @@ Následující půdorysy a řezy pocházejí z německé vojenské studie **Denk
 
 ![Typový plán dělostřelecké tvrze — schematické rozmístění povrchových objektů a podzemních chodeb (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-plan.jpg)
 
-Schematický pohled na ideální dělostřeleckou tvrz: pěchotní sruby po obvodu, dělostřelecké objekty s otočnými věžemi v centru, vchodový objekt se skladovacím zázemím a vše propojené podzemním systémem chodeb.
+Schematický pohled na ideální dělostřeleckou tvrz: pěchotní sruby po obvodu, dělostřelecké objekty (včetně plánovaných, nikdy nerealizovaných otočných věží) v centru, vchodový objekt se skladovacím zázemím a vše propojené podzemním systémem chodeb.
 
 ### Smolkov — celkový plán a vchodový objekt
 
 ![Celkový plán dělostřelecké tvrze Smolkov — rozmístění objektů A–E a podzemních sekcí 1–8 (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-smolkov-celkovy-plan.jpg)
 
-Smolkov jako reálný příklad: objekty **A, B** (pěchotní sruby), **C** (otočná dělostřelecká věž), **D** (dělostřelecký srub), **E** (vchodový objekt MO-Sm-S 41). Úseky podzemí označené čísly odpovídají strojovně, kasárnám, muničním skladům a komunikačním chodbám.
+Smolkov jako reálný příklad: objekty **A, B** (pěchotní sruby), **C** (objekt pro plánovanou otočnou dělostřeleckou věž), **D** (dělostřelecký srub), **E** (vchodový objekt MO-S 41). Úseky podzemí označené čísly odpovídají strojovně, kasárnám, muničním skladům a komunikačním chodbám.
 
-![Vchodový objekt tvrze Smolkov — MO-Sm-S 41 „Nad Valchou", detailní půdorys (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-vchodovy-objekt-smolkov.jpg)
+![Vchodový objekt tvrze Smolkov — MO-S 41, detailní půdorys (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-vchodovy-objekt-smolkov.jpg)
 
 Vchodový objekt byl **logistickým srdcem tvrze** — sem vjížděly nákladní vozy se zásobami, odsud vedla šachta do podzemí. Půdorys ukazuje vjezd, skladovací prostory, pancéřové ochranné dveře a napojení na podzemní chodby.
 
 ### Hůrka — dělostřelecký srub a objekt s otočnou věží
 
-![Dělostřelecký srub tvrze Hůrka — K-Bg-S 11 „Na svahu", půdorys (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-delostrelecky-srub-hurka.jpg)
+![Dělostřelecký srub tvrze Hůrka — K-S 11, půdorys (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-delostrelecky-srub-hurka.jpg)
 
-Dělostřelecký srub K-Bg-S 11 na Hůrce je jedním z mála realizovaných tvrzových dělostřeleckých objektů. Půdorys ukazuje rozmístění 10cm houfnic, muničních komor a pozorovacích stanovišť.
+Dělostřelecký srub K-S 11 na Hůrce je jedním z mála realizovaných tvrzových dělostřeleckých objektů. Půdorys ukazuje plánované rozmístění 10cm houfnic v kasematních střílnách, muničních komor a pozorovacích stanovišť — houfnice samotné nebyly nikdy dodány.
 
-![Objekt K-Bg-S 12 s výsuvnou dělostřeleckou věží — tvrz Hůrka, půdorys a řez (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-otocna-vez-hurka.jpg)
+![Objekt K-S 12 pro plánovanou otočnou dělostřeleckou věž — tvrz Hůrka, půdorys a řez (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-otocna-vez-hurka.jpg)
 
-Klíčový technický prvek tvrze: **výsuvná otočná věž** s houfnicemi vz. 38 (10 cm). Řez ukazuje hydraulický výsuvný mechanismus, pancéřovou kopuli a napojení na muniční sklad pod věží.
+Projektovaný vrchol tvrze: **otočná dělostřelecká věž**. Řez ukazuje plánovaný mechanismus a napojení na muniční sklad pod věží — žádná otočná věž však nebyla nikdy vyrobena a objekty na ni jen čekaly.
 
 ### Tvrzový pěchotní srub a muniční sklad
 
-![Tvrzový pěchotní srub K-Bg-S 13 „U lomu" s napojením na podzemí — řez (tvrz Hůrka, Denkschrift 1941)](/img/typologie/denkschrift/tvrz-pechotni-srub-k-bg-s-13.jpg)
+![Tvrzový pěchotní srub K-S 13 s napojením na podzemí — řez (tvrz Hůrka, Denkschrift 1941)](/img/typologie/denkschrift/tvrz-pechotni-srub-k-bg-s-13.jpg)
 
-Srub K-Bg-S 13 ukazuje specifický rys tvrzových pěchotních srubů: na rozdíl od samostatných srubů je **zavěšen na podzemní systém** výtahovou šachtou s vlastním napojením na kasárna a muniční sklady.
+Srub K-S 13 ukazuje specifický rys tvrzových pěchotních srubů: na rozdíl od samostatných srubů je **zavěšen na podzemní systém** výtahovou šachtou s vlastním napojením na kasárna a muniční sklady.
 
 ![Muniční sklad M2 s výtahovou šachtou — detailní nákres (Denkschrift 1941)](/img/typologie/denkschrift/tvrz-municni-sklad-m2.jpg)
 
@@ -150,11 +148,11 @@ Dělostřelecká výzbroj tvrze byla **zcela nová koncepce** pro čs. průmysl.
 
 ### Houfnice vz. 38 ráže 10 cm
 
-Nejdůležitější zbraň dělostřeleckých tvrzí. Instalována ve **výsuvných pancéřových věžích** — v klidu byla schována pod terénem, před palbou se vytáhla nahoru hydraulickým mechanismem. Vyrobeno bylo cca 15 věží, ale k Mnichovu se podařilo instalovat **jen dvě** (jedna v Booda, jedna ve výrobě pro Haničku).
+Nejdůležitější plánovaná zbraň dělostřeleckých tvrzí, určená do **kasematních střílen s omezeným odměrem** dělostřeleckých srubů (a výhledově do otočných věží, které zůstaly jen v projektech). **Žádná houfnice nebyla nikdy dodána** — do září 1938 vznikly pouze prototypy. Dokončeny byly tři dělostřelecké sruby: **Hůrka (K-S 11)**, **Smolkov** a **Dobrošov (N-S 75)**.
 
-### Minomet vz. 38 ráže 12 cm
+### Minomet vz. 38 ráže 9 cm
 
-Umístěn v **otočných pancéřových kopulích** nad zemí. Dostřel 7 km, rychlost střelby 12 ran/min. Před Mnichovem nainstalováno cca **8 minometů** ve 4 tvrzích.
+Plánovaná zbraň pro minometnou výzbroj tvrzí. **Žádný minomet vz. 38 nebyl do objektů namontován.**
 
 ### Další výzbroj
 
@@ -162,21 +160,13 @@ Umístěn v **otočných pancéřových kopulích** nad zemí. Dostřel 7 km, ry
 - **Těžké kulomety vz. 37** — v bočních střílnách
 - **Speciálně upravené lehké kulomety vz. 26** — v pancéřových zvonech a kopulích
 
-Do Mnichova bylo v tvrzích osazeno **pouze 10–15 % plánované dělostřelecké výzbroje** — zbytek byl buď ještě ve výrobě (Škodovka měla plné objednávky do roku 1941) nebo neinstalován. Po anexi použili **Němci část hotové výzbroje v Atlantickém valu** a na východní frontě. Výsuvné věže byly demontovány a transportovány do Francie pro posílení německé obrany proti spojenecké invazi.
+Hlavní dělostřelecká výzbroj tvrzí tak do září 1938 **osazena nebyla** — houfnice ani minomety se do objektů nedostaly a otočné věže zůstaly jen na papíře. Tvrze byly v době mnichovské krize vyzbrojeny především kulomety a protitankovými kanóny pěchotních srubů.
 
 ## Dnešní stav a návštěvnost
 
 Dokončené tvrze patří k **největším hmatatelným památkám první republiky** a jsou dnes klíčovými turistickými cíli. Bouda, Hanička, Dobrošov a Stachelberg nabízejí **podzemní prohlídky**, některé se rozsahem blíží skutečné výstavbě (Dobrošov má zpřístupněno přes 1 km chodeb a velké podzemní sály).
 
-Roční návštěvnost pěti hlavních tvrzí dosahuje přibližně:
-
-| Tvrz | Návštěvnost / rok | Provozovatel |
-|---|---|---|
-| **Bouda** | ~ 40 000 | Společnost přátel čs. opevnění |
-| **Hanička** | ~ 30 000 | obec Rokytnice |
-| **Dobrošov** | ~ 25 000 | Muzeum Náchodska |
-| **Stachelberg** | ~ 20 000 | Stachelberg z.s. |
-| **Hůrka** | ~ 15 000 | Vojensko-historické muzeum Králíky |
+Zpřístupněné tvrze patří k nejnavštěvovanějším památkám svého druhu v ČR.
 
 Oblast **Králíků** s třemi tvrzemi (Adam, Bouda, Hůrka) je označována za **„českou Maginotovu linii"** a tvoří největší koncentraci čs. fortifikace dostupnou na jednom místě.
 
@@ -203,88 +193,57 @@ Oblast **Králíků** s třemi tvrzemi (Adam, Bouda, Hůrka) je označována za 
 
 ## Francouzská inspirace
 
-Československé tvrze byly inspirovány **francouzskou Maginotovou linií**, ale podstatně **menší v rozsahu**. Pro srovnání největší francouzské *„ouvrages"*:
+Československé tvrze byly inspirovány **francouzskou Maginotovou linií**, ale byly podstatně **menší v rozsahu** než největší francouzské *ouvrages*.
 
-| Parametr | Maginot (největší) | ČSR (plán Stachelberg) |
-|---|---|---|
-| Podzemí | 10–15 km chodeb | 3 km |
-| Posádka | 500–1000 mužů | 800 mužů |
-| Dělostřelecká výzbroj | 6–8 věží | 4–5 věží |
-| Cena | 100–300 mil. FF | 150 mil. Kčs |
-
-Československé tvrze nebyly stejně megalomanské, ale **koncepčně velmi podobné** — propojené podzemí, povrchové sruby s různou specializací, výsuvné dělostřelecké věže, kompletní autonomie. Po prostudování francouzských plánů v roce 1937 čs. konstruktéři některé prvky dokonce vylepšili (modernější ventilace, lepší uzavření minometných kopulí).
+Československé tvrze nebyly stejně megalomanské, ale **koncepčně velmi podobné** — propojené podzemí, povrchové sruby s různou specializací a kompletní autonomie. Otočné dělostřelecké věže po francouzském vzoru však zůstaly jen v projektech.
 
 ## Příběhy pěti dokončených tvrzí
 
 ### Bouda — vlajková loď čs. opevnění
 
-Tvrz **Bouda** v úseku Králíky je **nejzachovalejší a nejkompletněji vybavená** dělostřelecká tvrz čs. opevnění. Vystavěna v letech 1936–1938 firmou **Záruba-Pfeffermann Brno** v rekordním tempu, k 1. září 1938 byla **stavebně dokončena na 95 %** — jediná tvrz, která se přiblížila plánovanému stavu.
+Tvrz **Bouda** v úseku Králíky je **nejzachovalejší** dělostřelecká tvrz čs. opevnění. Vystavěna byla v letech 1936–1938 a do září 1938 byla **stavebně dokončena**.
 
 Klíčová fakta:
-- **5 povrchových objektů**: K-S 22 (vchodový), K-S 22a „Krok" (dělostřelecký srub), K-S 23 (pěchotní srub), K-S 24 (pěchotní srub), K-S 25 (pozorovací srub)
-- **Cca 800 m podzemních chodeb** v hloubce 27–35 m
-- **Plánovaná posádka 250 mužů**, v září 1938 obsazena zhruba 200
-- **Jediná houfnice vz. 38** instalovaná před Mnichovem (jediná na celé linii)
-- Po okupaci Němci provedli rozsáhlé zkušební střelby — **objekt K-S 22a vydržel zásahy 30,5cm moždíře** bez prolomení stěny
+- **5 povrchových objektů**: pěchotní sruby **K-S 21, K-S 23 a K-S 24**, objekt **K-S 22** pro plánovanou (nikdy nerealizovanou) otočnou dělostřeleckou věž a vchodový objekt **K-S 22a „Krok"**
+- Tvrz **neměla kasematní dělostřelecký srub** — dělostřelecká výzbroj měla být soustředěna v otočné věži, která nebyla vyrobena
+- **Cca 800 m podzemních chodeb**
+- Na tvrzi se dodnes dochovaly **původní pancéřové zvony in situ**
 
-Po válce sloužila Bouda jako **sklad munice ČSLA** (1948–1991), což paradoxně přispělo k jejímu skvělému zachování — armáda objekt udržovala v provozním stavu. Od **1991** je tvrz veřejně přístupná, provozuje ji Společnost přátel čs. opevnění Bouda. Dnes je to **nejkompletnější muzeum čs. opevnění** s plně přístupným podzemím, restaurovanou kuchyní, strojovnou i ubikacemi.
+Dnes je tvrz veřejně přístupná, provozuje ji Společnost přátel čs. opevnění Bouda. Jde o jedno z **nejautentičtějších muzeí čs. opevnění** s plně přístupným podzemím.
 
 ### Hanička — turistický magnet Orlických hor
 
-**Hanička** v úseku Rokytnice byla v roce 1938 dokončena ze ~85 %. Šest povrchových objektů, **650 m podzemních chodeb**, plánovaná posádka 426 mužů. V září 1938 obsazena 320 muži pod velením mjr. Karla Jandy. Poznávacím znakem Haničky je **dochovaná dělostřelecká kopule pro 12cm minomety** — jediná v ČR, kterou se podařilo zachovat na svém místě.
+**Hanička** v úseku Rokytnice byla do září 1938 **stavebně dokončena** — tvoří ji objekty **R-S 76 až R-S 80** a vchodový objekt **R-S 79a**, propojené **650 m podzemních chodeb**.
 
 Po druhé světové válce ČSLA tvrz převzala a mezi lety **1975–1989 ji rekonstruovala jako velitelský bunkr civilní obrany** — vybavila ji moderními telekomunikačními systémy, dieselagregáty a vlastními obytnými prostory pro stálou službu. Tato „komunistická vrstva" je dnes přístupná veřejnosti jako samostatná expozice — jediný příklad **adaptace čs. opevnění na podmínky studené války** v ČR.
 
 ### Hůrka — třetí klenot Králicka
 
-**Hůrka** byla v září 1938 hotova z ~70 % — 4 povrchové objekty, 600 m chodeb. Nejneobvyklejší prvek: **výsuvná dělostřelecká věž**, jejíž schránka byla osazena, ale samotná věž byla po Mnichovu Němci demontována a převezena do Atlantického valu (kde byla použita v opevnění Pas-de-Calais; dnes nezachovaná). Tvrz je dnes součástí prohlídkového okruhu Vojensko-historického muzea Králíky se **sezónní průvodcovskou službou**.
+**Hůrka** byla do září 1938 **stavebně dokončena** — tvoří ji pěchotní sruby **K-S 10, K-S 12 a K-S 13**, **dělostřelecký srub K-S 11** (jeden ze tří dokončených v celém opevnění) a vchodový objekt **K-S 12a**. Po válce sloužila jako **muniční sklad armády**. Dnes je součástí prohlídkového okruhu Vojensko-historického muzea Králíky se **sezónní průvodcovskou službou**.
 
 ### Smolkov — zapomenutá tvrz Slezska
 
-**Smolkov** v úseku Opava je nejméně známá z dokončených tvrzí. V září 1938 dokončena ze ~75 % — 3 povrchové objekty, 400 m chodeb. Po okupaci Němci tvrz **téměř kompletně demontovali** pro výzbroj a kovové prvky; po válce zůstala torzem. Dnes je přístupná jen omezeně — formou **organizovaných exkurzí** spolku Smolkov z.s. čtyřikrát ročně. Pro fortifikační turisty je Smolkov **„skrytou perlou"** — najdete tu autentický stav z roku 1945, bez muzejních úprav.
+**Smolkov** u Opavy je nejméně známá z dokončených tvrzí. Tvoří ji objekty **MO-S 37 až MO-S 41**, včetně jednoho ze tří dokončených **dělostřeleckých srubů**. Po okupaci Němci z tvrze demontovali kovové prvky. Dnes je přístupná jen omezeně, formou **organizovaných exkurzí**. Pro fortifikační turisty je Smolkov **„skrytou perlou"** s autentickým stavem bez muzejních úprav.
 
 ### Adam — první tvrz Králicka
 
-**Adam** dokončena v září 1938 z ~80 % — 5 povrchových objektů, 500 m chodeb. Specifikum Adama: **nejhustší koncentrace pancéřových zvonů** ze všech čs. tvrzí (12 zvonů a 4 kopule v 5 objektech). Po okupaci se Adam stala **hlavní zkušební střelnicí** — Němci tu testovali účinky všech ráží od 10,5 cm po 30,5 cm a zaznamenávali poškození pro vlastní fortifikační program. Dnes je tvrz částečně přístupná veřejnosti, **expozice je v pěchotním srubu K-S 43** s ukázkou pancéřových zvonů.
+**Adam** byla do září 1938 **stavebně dokončena**. Po okupaci na tvrzi Němci prováděli zkušební střelby a zkoumali účinky dělostřelectva na konstrukce. Dnes je tvrz částečně přístupná veřejnosti.
 
 ## Stachelberg — sen, který se nenaplnil
 
-Tvrz **Stachelberg** v úseku Trutnov měla být **největší dělostřeleckou tvrzí čs. opevnění** a jednou z **největších tvrzí Evropy** — plán počítal s:
+Tvrz **Stachelberg** v úseku Trutnov měla být **největší dělostřeleckou tvrzí čs. opevnění** — projekt počítal s rozsáhlou soustavou povrchových objektů a několika kilometry podzemních chodeb.
 
-- **15 povrchovými objekty** (5 pěchotních + 5 dělostřeleckých + 2 minometné + vchodový + 2 pozorovací)
-- **3 km podzemních chodeb** v 5 patrech
-- **Posádkou přes 800 mužů**
-- **6 výsuvnými dělostřeleckými věžemi**
-- **15 minometnými kopulemi**
-
-V září 1938 byla tvrz hotova **z méně než 15 %** — pouze jeden pěchotní srub a počátek vchodového objektu, plus cca 800 m podzemních chodeb. Práce probíhaly v **enormním tempu** od 1937, ale rozsah projektu byl natolik velký, že by realizace trvala minimálně do roku 1942.
+V září 1938 byla tvrz na samém počátku výstavby — dokončen byl pouze **pěchotní srub T-S 73 „Polom"** a vylámána část podzemí. Rozsah projektu byl natolik velký, že by realizace trvala ještě řadu let.
 
 Po Mnichovu Němci celou rozestavěnou tvrz **podrobili zkušebním střelbám** a poté zatopili. V 90. letech ji vyčerpali a postupně zpřístupnili. Dnes provozuje muzeum spolek **Stachelberg z.s.** — tvrz je oblíbeným cílem fortifikačních turistů, kteří přijíždějí porovnat **plánovanou velikost s realitou**. Z grandiózního konceptu zbylo torzo, ale již toto torzo představuje **největší podzemní fortifikační stavbu** otevřenou veřejnosti v ČR.
 
 ## Dobrošov — největší podzemní sály
 
-Tvrz **Dobrošov** u Náchoda měla být **třetí největší tvrz** po Stachelbergu a Haničce. Vystavěna v letech 1937–1938 firmou **Lanna**, dosáhla v září 1938 stavební hotovosti **~25 %** (9 povrchových objektů ve výstavbě, 1 500 m chodeb hotovo ze 4 000 plánovaných).
+Tvrz **Dobrošov** u Náchoda zůstala v září 1938 **rozestavěná** — hotova byla část povrchových objektů včetně **dělostřeleckého srubu N-S 75** (jednoho ze tří dokončených) a významná část podzemí.
 
 Vzácnost Dobrošova: **největší vnitřní sály** ze všech čs. tvrzí — kasárenský sál o rozloze **80 × 12 m** (960 m²) s pětimetrovým stropem, plánovaný pro 200 lůžek a kompletní zdravotnické zázemí. Tento sál je dnes hlavní atrakcí prohlídkového okruhu — návštěvníci stojí v prostoru srovnatelném s podzemní tělocvičnou.
 
-V září 1938 bylo v Dobrošově umístěno **velitelství úseku Náchod** — odsud řídil divizní generál Šibrava obranu pevnostního pásma. Po okupaci Němci tvrz **technicky neporušili**, ale demontovali pancéřové prvky. Po válce sloužila armádě, od 1969 je veřejně přístupná. Dnes Muzeum Náchodska provozuje prohlídkový okruh přes **1 200 m podzemních chodeb** s ukázkou strojovny, kuchyně a zdravotnického oddělení.
-
-## Ekonomika tvrze — kolik to stálo
-
-Cena dělostřelecké tvrze byla **astronomická** ve srovnání s lehkým opevněním:
-
-| Položka | Cena |
-|---|---|
-| **Stavba pěti dokončených tvrzí** (Bouda, Hanička, Hůrka, Adam, Smolkov) | ~ 750 mil. Kčs |
-| **Plánované náklady na všech 17 tvrzí** | ~ 2,8 mld. Kčs |
-| **Cena jedné typické tvrze** (5–6 objektů, 800 m chodeb) | 120–180 mil. Kčs |
-| **Cena Stachelbergu** (plán) | 350 mil. Kčs |
-| **Roční rozpočet ŘOP** v roce 1937 | 1,5 mld. Kčs |
-| **Roční vojenský rozpočet ČSR** v roce 1937 | 4,9 mld. Kčs |
-
-Pro srovnání: **jedna typická tvrz** stála tolik, co **1 200 řopíků** nebo **60–80 pěchotních srubů**. Odtud i důvod, proč armáda kladla **největší důraz na dokončení rozestavěných tvrzí** — investované prostředky byly tak vysoké, že nedokončit je by znamenalo masivní hospodářskou ztrátu.
-
-V přepočtu na dnešní kupní sílu: cena Boudy odpovídá zhruba **3–4 mld. Kč v cenách roku 2025**, cena plánovaného Stachelbergu zhruba **8–10 mld. Kč**.
+Po okupaci Němci tvrz **technicky neporušili**, ale demontovali pancéřové prvky. Po válce sloužila armádě, od 1969 je veřejně přístupná. Dnes Muzeum Náchodska provozuje prohlídkový okruh přes **1 200 m podzemních chodeb** s ukázkou strojovny, kuchyně a zdravotnického oddělení.
 
 ## Konstrukce tvrze — technologické divy
 
@@ -322,37 +281,13 @@ Posádka tvrze (200–400 mužů) tvořila **autonomní bojový komplex** s vlas
 
 Mzdy posádky byly **vyšší než u běžné armády** — kvůli zvláštním podmínkám práce v podzemí dostávali vojáci a poddůstojníci **20 % příplatek** a důstojníci dvojnásobnou mzdu. Cvičení posádky probíhalo měsíčně, jednou ročně **velký námět** — simulace bojového nasazení po dobu týdne.
 
-## Tvrze v zahraničí — fortifikační kontext
-
-Československé dělostřelecké tvrze stojí v zajímavém kontextu **evropského fortifikačního paradigmatu** 30. let:
-
-| Země | Tvrz | Posádka | Podzemí | Stav |
-|---|---|---|---|---|
-| **Francie** | Hackenberg (Maginot) | 1 050 | 10 km | dochována, muzeum |
-| **Francie** | Schoenenbourg | 600 | 5 km | dochována, muzeum |
-| **Belgie** | Eben-Emael | 1 200 | 5 km | dochována, muzeum |
-| **Itálie** | Forte di Punta Bianca | 400 | 1,5 km | dochována, omezený přístup |
-| **Polsko** | Modlin–Pomiechówek | 200 | 800 m | torzo, muzeum |
-| **Rumunsko** | Carol II Sereth | 300 | 1 km | torzo |
-| **Finsko** | Salpa-linja Virolahti | 80 | 200 m | dochována, muzeum |
-| **ČSR** | Bouda | 250 | 800 m | dochována, muzeum |
-| **ČSR** | Stachelberg (plán) | 800 | 3 km | torzo |
-
-Čs. tvrze byly **menší než francouzské** (logické — ČSR měla méně peněz a vybudovala začala později), **větší než polské či rumunské** (které kopírovaly čs. vzor) a **kvalitativně srovnatelné s belgickými**. Belgická tvrz Eben-Emael byla v květnu 1940 **dobyta německými parašutisty** za jediný den — což byl **šok pro celou Evropu** a do budoucna změnilo myšlení o pevnostních systémech (důraz na protileteckou obranu shora).
-
 ## Po válce — osudy v 50.–80. letech
 
-Po druhé světové válce ČSLA pět dochovaných tvrzí převzala a využila k různým účelům:
+Po druhé světové válce armáda dochované tvrze převzala a využívala je různě:
 
-- **Bouda** — sklad munice (1948–1991), trvale udržovaná
-- **Hanička** — krytý velitelský bunkr civilní obrany (rekonstruováno 1975–1989), strategický objekt
-- **Hůrka** — sklad pohonných hmot ČSLA (1955–1985), poté uzavřena
-- **Adam** — částečné využití jako sklad výzbroje (1955–1980)
-- **Smolkov** — bez využití, ponechána osudu
-
-Tvrze v majetku armády (Bouda, Hanička, Hůrka, Adam) byly **udržovány v provozním stavu** — pravidelně se kontrolovala ventilace, suchost prostor, stav betonu. Smolkov bez údržby pomalu chátral — voda začala prosakovat do podzemí, ocelové prvky rezivěly, dřevěné podlahy hnily.
-
-Hanička je **mimořádný případ adaptace** — armáda v 70. a 80. letech investovala odhadem **180 mil. Kčs** do její modernizace pro potřeby civilní obrany. Tvrz dostala nové dieselagregáty, klimatizaci, telekomunikační systémy a **dokonce vlastní studnu** s přívodem do velitelského sálu. Tato přestavba paradoxně zachránila tvrz do dnešních dnů — v 90. letech ji armáda předala obci Rokytnice s plně funkčním vybavením.
+- **Hůrka** sloužila dlouhá desetiletí jako **muniční sklad** — pravidelná údržba paradoxně přispěla k jejímu dobrému zachování
+- **Hanička** byla v 70. a 80. letech rozsáhle **přestavována pro potřeby civilní obrany** — tato „studenoválečná vrstva" je dnes samostatnou částí expozice
+- Ostatní tvrze zůstaly bez trvalého vojenského využití a postupně přešly do rukou muzeí, obcí a spolků
 
 ## Doporučená literatura
 

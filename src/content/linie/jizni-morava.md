@@ -6,9 +6,9 @@ delka_km: 190
 pocet_objektu: 1057
 pocet_planovano: 1538
 pocet_realizovano: 1057
-pocet_to: 67
+pocet_to: 3
 obdobi_stavby: "1937–1938 (urgentní fáze 1938)"
-stav_dnes: "Vysoká hustota volně přístupných řopíků v krajině. Muzeum v Šatově; trasa Cyklostezka Znojmo–Retz podél linie."
+stav_dnes: "Vysoká hustota volně přístupných řopíků v krajině. Muzejní objekty v Šatově; trasa Cyklostezka Znojmo–Retz podél linie."
 order: 35
 bounds:
   north: 49.05
@@ -27,9 +27,7 @@ updated: 2026-04-21
 
 Do března 1938 byla jižní Morava „klidnou" hranicí — Rakousko bylo nezávislý stát. Ale **12. března 1938 došlo k Anschlussu** a ze dne na den byla tato hranice nejzranitelnější stranou ČSR: **Vídeň leží 60 km od Znojma a 80 km od Bratislavy**.
 
-Generální štáb okamžitě nařídil **urgentní betonáž** řopíkové linie podél jižní Moravy a Slovenska. Od dubna 1938 do září 1938 zde bylo **betonováno tempem, jaké nemělo obdoby** — Ředitelství opevňovacích prací (ŘOP) povolalo **civilní stavební firmy z celé republiky** a stavělo se i v noci za světlometů.
-
-Za 6 měsíců vzniklo **přibližně 320 řopíků** na jižní Moravě — v době od zpevnění terénu po zalití betonu často **jen 3 dny na objekt**.
+Generální štáb okamžitě nařídil **urgentní betonáž** řopíkové linie podél jižní Moravy a Slovenska. V roce 1938 zde bylo **betonováno v mimořádně urychleném tempu** — Ředitelství opevňovacích prací (ŘOP) povolalo civilní stavební firmy z celé republiky. Během několika měsíců vznikly na jižní Moravě **stovky řopíků**. U Šatova doplnilo linii i několik pěchotních srubů těžkého opevnění (úsek MJ-S).
 
 ## Průběh linie
 
@@ -37,7 +35,7 @@ Od **Slavonic** přes **Jaroslavice**, **Znojmo**, **Šatov**, **Mikulov**, **Se
 
 ## Ikonické objekty
 
-- **Šatov — Muzeum čs. opevnění** (muzeální řopík, expozice) — nejlepší vstupní bod do znojemské linie
+- **Šatov** — pěchotní srub **MJ-S 3 „Zahrada"** (expozice Technického muzea v Brně) a areál muzejních řopíků — nejlepší vstupní bod do znojemské linie
 - **Hnanice** — linie řopíků v otevřené krajině u vinic, fotogenická
 - **Mikulov-Sedlec** — linie u Mušlovského rybníka
 - **Břeclav-Pohansko** — linie u archeologické rezervace (kombinace velkomoravských dějin a řopíků)
@@ -52,7 +50,7 @@ Po mnichovské dohodě byla linie předána **1.–10. října 1938**. Jen něko
 
 ## Co navštívit — 1denní okruh
 
-1. **Muzeum čs. opevnění Šatov** (1,5 h) — vstupní bod
+1. **Šatov — MJ-S 3 „Zahrada" a muzejní řopíky** (1,5 h) — vstupní bod
 2. **Hnanice — linie u vinic** (40 min pěšky)
 3. **Výhled z Kraví hory nad Mikulovem** — vidíte linii v krajině
 4. **Mikulov-Sedlec okruh řopíků** (2 h na kole)

@@ -74,8 +74,8 @@ Hotova byla linie zhruba do roku 1941, některé práce pokračovaly až do roku
 | Počet objektů | ~9 600 lehkých + 263 těžkých | ~1 000 celkem |
 | Čelní stěna — lehký objekt | 50–80 cm (II.–III. třída) | není uvedena, spíše srovnatelné |
 | Čelní stěna — těžký srub | 120–350 cm (II.–IV. třída) | neexistoval ekvivalent |
-| Dělostřelectvo | V dělostřeleckých tvrzích, otočné věže 100 mm + 50 mm | Otevřené polní baterie, 20–30 cm beton |
-| Dokončené tvrze | 5 dokončených (Adam, Bouda, Hanička, Hůrka, Smolkov) + 4 rozestavěné (Dobrošov, Skutina, Šibenice, Stachelberg) | 0 |
+| Dělostřelectvo | V dělostřeleckých tvrzích; plánované otočné věže pro dvojici 100mm houfnic nebyly realizovány | Otevřené polní baterie, 20–30 cm beton |
+| Tvrze | 8 zahájených, z toho 5 stavebně dokončených (Adam, Bouda, Hanička, Hůrka, Smolkov) a 3 rozestavěné (Dobrošov, Skutina, Stachelberg) | 0 |
 | Finanční náklady | plánováno ~10,9 mld. Kč; do Mnichova skutečně proinvestováno ~2,2 mld. Kč (cca 1/5 plánovaného) | omezeno kapacitou průmyslu |
 | Personál | po všeobecné mobilizaci 23. 9. 1938 cca 1,25 mil. vojáků armády ČSR | průběžně bez plného obsazení |
 | Bojové nasazení | **Žádné rozhodnější** — kapitulace po Mnichovu | **Žádné** — turecká neutralita |
@@ -83,7 +83,7 @@ Hotova byla linie zhruba do roku 1941, některé práce pokračovaly až do roku
 
 ### Co bylo v ČSR lepší
 
-- **Systémovost** — ŘOP pracovalo s dlouhou dobou vývoje prototypů (1933–35 na Slovensku, cvičné objekty), standardizovanými typy (LO vz. 36, LO vz. 37, pěchotní sruby, tvrze) a hloubkovou fortifikační školou
+- **Systémovost** — ŘOP pracovalo se standardizovanými typy (LO vz. 36, LO vz. 37, pěchotní sruby, tvrze) a hloubkovou fortifikační školou
 - **Těžké objekty** — 263 pěchotních srubů (III. a IV. třída tvořila nejodolnější část) představovalo světovou špičku v kategorii pěchotní fortifikace; čelní stěna 3,5 m odolávala i proti 420mm dělostřelectvu
 - **Tvrze jako systém** — ČSR tvrze byly plnohodnotné podzemní komplexy s dělostřeleckými věžemi, pozorovatelnami a munkami. Čakmakova linie nic podobného neměla
 - **Rychlost** — ČSR dokázalo za 3 roky postavit řádově 10× více objektů než Turecko za 9 let
@@ -102,7 +102,7 @@ Hotova byla linie zhruba do roku 1941, některé práce pokračovaly až do roku
 
 **Metaxasova linie** (Řecko, proti Bulharsku) — fortifikačně nejbližší ČSR konceptu. 21 pevnostních komplexů na řecko-bulharské hranici. **Řekové zde v dubnu 1941 odolávali útoku Wehrmachtu čtyři dny (6.–9. 4. 1941)** — bitva o linii skončila až poté, co byl řecký týl obchvácen přes Jugoslávii a Soluň padla. Symbolicky jedna z nejúspěšnějších obranných linií té doby.
 
-**Mannerheimova linie** (Finsko) — relativně skromná fortifikace (srovnatelná spíše s českými lehkými objekty), ale v **Zimní válce 1939–40** sehrála klíčovou roli. Finové se na ní dvě zimy bránili proti Rudé armádě a dokázali vyjednat mír bez úplné kapitulace. Fortifikace + terén + morálka = nadprůměrný výkon.
+**Mannerheimova linie** (Finsko) — relativně skromná fortifikace (srovnatelná spíše s českými lehkými objekty), ale v **Zimní válce 1939–40** sehrála klíčovou roli. Finové se na ní jedinou zimu 1939–40 bránili proti Rudé armádě a dokázali vyjednat mír bez úplné kapitulace. Fortifikace + terén + morálka = nadprůměrný výkon.
 
 **Eben-Emael** (Belgie, 1931–1935) — obří tvrz na Albertově kanálu, považovaná za nedobytnou. **Padla přibližně za 24 hodin** po přistání německých kluzáků s výsadkem Fallschirmjäger a nasazení nových kumulativních náloží 10.–11. května 1940. Nejrychlejší pád moderní pevnosti v dějinách. Lekce: stejně jako Maginot — nepřítel se přizpůsobil.
 
@@ -128,10 +128,10 @@ Příčin bylo několik: **obrněná a vzdušná válka** (tanky, kluzáky, výs
 V širokém srovnání má ČSR opevnění tři jedinečné rysy:
 
 1. **Mimořádné tempo stavby** — ~9 600 lehkých + 263 těžkých objektů za 3 roky (1935–1938). Ani Francouzi, ani Němci, ani Sověti takové tempo v přepočtu na objekt nedosáhli
-2. **Vysoký podíl státního rozpočtu** — výdaje na opevnění činily v letech 1936–1938 přibližně 10 % rozpočtu ministerstva národní obrany. Srovnatelnou míru nasazení měla v meziválečné Evropě prakticky jen Francie
+2. **Vysoký podíl státního rozpočtu** — výdaje na opevnění tvořily v letech 1936–1938 významnou část rozpočtu ministerstva národní obrany. Srovnatelnou míru nasazení měla v meziválečné Evropě prakticky jen Francie
 3. **Jediná linie, která nebyla použita v boji — ne proto, že by selhala, ale proto, že stát kapituloval politicky.** To je v mezinárodním kontextu paradox, který si zaslouží být v české historické paměti zakódován jinak než „pevnosti zrazené v Mnichově" — přesnější formulace je „fungující pevnosti obětované politickým rozhodnutím"
 
-Historik Martin Ráboň v knize *Val na obranu republiky* shrnuje: „ČSR opevnění bylo z hlediska kvantity i kvality v evropském kontextu plně konkurenceschopné. Jeho tragédie byla výhradně politická, nikoli vojenská."
+Autoři knihy *Val na obranu republiky* hodnotí čs. opevnění jako kvantitativně i kvalitativně plně konkurenceschopné v evropském kontextu — jeho tragédii vidí v rovině politické, nikoli vojenské.
 
 ## Prameny
 

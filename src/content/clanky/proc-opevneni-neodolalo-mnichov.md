@@ -18,13 +18,13 @@ Jeden z nejrozšířenějších mýtů o československém opevnění zní: **�
 
 Ke dni 23. září 1938 (mobilizace čs. armády) existovalo:
 
-- **264 objektů těžkého opevnění** (pěchotní sruby + části tvrzí) dokončeno a vyzbrojeno.
-- **9 632 objektů lehkého opevnění** (řopíky vz. 37) dokončeno a vyzbrojeno.
-- **1,2 milionu mužů** v zálohách, plně mobilizováno.
-- **350 000 vojáků v pohraničí**, obsazujících objekty opevnění.
-- **Zásoby munice** na **60–90 dnů intenzivních bojů**.
+- **263 objektů těžkého opevnění** (pěchotní sruby + části tvrzí) stavebně dokončeno — výzbroj a vybavení byly ovšem u části z nich jen provizorní.
+- **9 632 objektů lehkého opevnění** vz. 37 postaveno.
+- **Přes milion mužů** mobilizováno.
+- **Statisíce vojáků v pohraničí**, obsazujících objekty opevnění a pole mezi nimi.
+- **Zásoby munice** na řadu týdnů bojů.
 
-Pro srovnání: **Maginotova linie** měla v té době **142 objektů těžkého opevnění** plně dokončených a **1,2 milionu vojáků** (celá francouzská armáda). ČSR měla na zhruba 1/20 plochy Francie srovnatelnou hustotu opevnění a srovnatelný počet vojáků připravených bojovat.
+Pro srovnání: **Maginotova linie** měla v té době **142 objektů těžkého opevnění** plně dokončených a **1,2 milionu vojáků** (celá francouzská armáda). ČSR měla na zhruba čtvrtině plochy Francie srovnatelnou hustotu opevnění a početnou armádu připravenou bojovat.
 
 ## Byl Wehrmacht schopný opevnění prolomit
 
@@ -34,7 +34,7 @@ V roce 1938 **Wehrmacht nebyl**, co se stal v roce 1940. Konkrétní čísla:
 |---|---|---|
 | Počet divizí | 37 | 157 |
 | Z toho tankových | 3 | 10 |
-| Počet tanků typu Pz.III/IV | ~100 | 1 500 |
+| Počet tanků typu Pz.III/IV | ~100 | ~630 (květen 1940) |
 | Letecká kapacita | 2 900 letadel | 5 000+ |
 | Zkušenosti z boje | žádné | Polsko, Norsko |
 
@@ -42,11 +42,7 @@ V září 1938 vůbec neexistovala **doktrína blitzkriegu** — ta se rodila a�
 
 ### Beckova analýza — pravdivý Wehrmachtův pohled
 
-Generál Ludwig Beck v memorandech z července–srpna 1938 psal:
-
-> "Útok na Československo překračuje možnosti současné armády. Ztráty budou nepřijatelné, trvání bojů minimálně šest měsíců. Pravděpodobně nám vstoupí do boje Francie, Británie a Sovětský svaz. Výsledek bude porážka Německa a konec Hitlerovy moci."
-
-Beck **abdikoval na protest** v srpnu 1938. Tato vnitřní krize vedení Wehrmachtu je málo známá — ale je **nejdůležitějším dokladem**, že opevnění bylo vojensky účinné.
+Generál Ludwig Beck v memorandech z léta 1938 varoval, že útok na Československo překračuje možnosti tehdejší armády, hrozí vtažením Francie a Británie do konfliktu a může skončit porážkou Německa. Na protest proti Hitlerovu kurzu v srpnu 1938 rezignoval. Tato vnitřní krize vedení Wehrmachtu je málo známá — ale je **nejdůležitějším dokladem**, že opevnění bylo vojensky účinné.
 
 ## Proč se tedy nebojovalo
 
@@ -62,11 +58,11 @@ Proč se v září 1938 nenaplnil Beckův scénář (šestiměsíční boj, por�
 
 ### Co by se bylo stalo, kdyby…
 
-Vojensky simulované varianty (provedené čs. armádou 1945–1948 i německým historickým ústavem 1970–1990) docházejí k podobnému závěru:
+Úvahy historiků o možných variantách se v základních obrysech shodují:
 
-1. **ČSR sama vs. Německo:** přibližně **3–4 týdny intenzivních bojů**, výsledek by závisel na tom, zda by Polsko umožnilo německý průchod (pravděpodobně ano, Beck by se snažil vyjednávat), a zda by vstoupily Maďarsko a Polsko (pravděpodobně ano v závěru).
-2. **ČSR + Francie + SSSR:** německá porážka **do 3–6 měsíců**. Hitler by pravděpodobně byl svržen domácím odporem nebo armádou.
-3. **Realita Mnichova:** ČSR obětována bez boje, Hitler získal 86 % čs. válečného průmyslu (včetně Škody a Zbrojovky Brno) a strategickou iniciativu pro Polsko 1939.
+1. **ČSR sama vs. Německo:** týdny intenzivních bojů; výsledek by závisel na postoji Polska a Maďarska a na tom, jak dlouho by ČSR dokázala vzdorovat izolovaně.
+2. **ČSR + Francie + SSSR:** dlouhá válka s pro Německo velmi rizikovým výsledkem.
+3. **Realita Mnichova:** ČSR obětována bez boje, Hitler získal rozhodující část čs. válečného průmyslu (včetně Škody a Zbrojovky Brno) a strategickou iniciativu pro Polsko 1939.
 
 ## Mýty a jejich dekonstrukce
 
@@ -76,31 +72,31 @@ Vojensky simulované varianty (provedené čs. armádou 1945–1948 i německým
 
 ### Mýtus 2: „Výzbroj byla zastaralá."
 
-**Fakta:** **Těžký kulomet ZB vz. 37** — exportován do Británie jako Bren gun, používán NATO do 80. let. **Protitankový kanón 3,7 cm vz. 36** — modernější než francouzský 25 mm nebo britský 2-pounder. Československá výzbroj v roce 1938 byla **na úrovni světové špičky**.
+**Fakta:** **Lehký kulomet ZB vz. 26** se stal základem slavného britského Brenu; **těžký kulomet ZB vz. 37** Britové licenčně vyráběli jako BESA. **Pevnostní 4cm kanón vz. 36** (skutečná ráže 47 mm) patřil k nejvýkonnějším protitankovým zbraním své doby. Československá výzbroj v roce 1938 byla **na úrovni světové špičky**.
 
 ### Mýtus 3: „Poláci a Maďaři by zaútočili ze zad, a opevnění na jihu a východě nebylo."
 
-**Fakta:** Opevnění na jihu (vůči Maďarsku) a východě (vůči Polsku) **existovalo** — bratislavská linie, mikulovská linie, opevnění Oravy a Spiše. Bylo méně husté než severní pohraničí, ale existovalo. Scénář útoku ze všech stran by **prodloužil boj**, ale nebyl by rozhodující — Polsko a Maďarsko byly vojensky slabé a jejich vstup by znamenal **mezinárodní isolaci** (Sovětský svaz by pravděpodobně vstoupil do boje).
+**Fakta:** Opevnění na jihu (vůči Maďarsku) i v dalších směrech **existovalo** — bratislavská linie, mikulovská linie a další úseky. Bylo méně husté než severní pohraničí, ale existovalo. Scénář útoku ze všech stran by **prodloužil boj**, ale nebyl by rozhodující — Polsko a Maďarsko byly vojensky slabé a jejich vstup by znamenal **mezinárodní isolaci** (Sovětský svaz by pravděpodobně vstoupil do boje).
 
 ### Mýtus 4: „Dokončeno bylo jen 20–30 %."
 
-**Fakta:** K 23. září 1938 bylo **dokončeno 96 % plánovaného lehkého opevnění** na prioritních úsecích (severní pohraničí) a **přibližně 40 %** těžkého opevnění. Nedokončenost se týkala **sekundárních úseků** (jih, východ) a **dělostřeleckých tvrzí** (Stachelberg 3 %, Adam 25 %). Klíčové úseky (Orlické hory, Králíky, Ostravsko) byly **prakticky dokončeny**.
+**Fakta:** Dokončenost se výrazně lišila podle úseků. Prioritní severní pohraničí bylo pokryto **nejhustěji z celého systému**, zatímco sekundární úseky (jih, východ) a dělostřelecké tvrze zůstaly rozpracované. Klíčové úseky (Orlické hory, Králíky, Ostravsko) patřily k **nejlépe vybaveným**.
 
 ## Co by bylo kdyby — spekulace, ale poučná
 
 Kdyby Edvard Beneš 30. září 1938 **odmítl Mnichovské ultimátum**:
 
 - Armáda měla **rozkaz zahájit obranu** — čeští velitelé (gen. Syrový, gen. Krejčí) byli připraveni.
-- **Morálka vojáků** — dopisy z objektů opevnění dokládají, že **posádky chtěly bojovat**. Příběh B-S 6 „Vrba" a plk. Svobody je jen jeden z mnoha.
+- **Morálka vojáků** — dopisy z objektů opevnění dokládají, že **posádky chtěly bojovat**. Nejtragičtějším dokladem je protest četaře Arnošta Hrada, který se 3. října 1938 na srubu K-S 14 zastřelil.
 - **Mezinárodní situace** by se radikálně změnila — Francie a Británie by byly nuceny buď bojovat, nebo nést politické odium dalšího Mnichova.
 
-Historický konsenzus (viz František Hanzlík, Eduard Stehlík, Hitler's Generals od R. B. Citina): **vojenský odpor by byl racionální volbou**, ale Beneš se rozhodl jinak z důvodů politicky lidsky pochopitelných (obava ze civilních obětí, nedůvěra v spojence, únava z Versailles).
+Podle řady historiků platí: **vojenský odpor by byl racionální volbou**, ale Beneš se rozhodl jinak z důvodů politicky lidsky pochopitelných (obava ze civilních obětí, nedůvěra v spojence, únava z Versailles).
 
 ## Opevnění jako historický argument
 
 Čs. opevnění z let 1935–1938 dnes slouží jako **fyzický důkaz připravenosti a odhodlání**. Kdo navštíví tvrz Bouda, T-S 19 Turov nebo muzeum Darkovičky, vidí:
 
-- **Technickou dokonalost** — železobeton B500, stěny 275 cm, filtroventilace.
+- **Technickou dokonalost** — silné stěny z kvalitního železobetonu, filtroventilace.
 - **Rozsah** — téměř 10 000 objektů v pohraničí.
 - **Kvalitu výzbroje** — originály zbraní v expozicích.
 - **Morálku posádek** — dopisy, deníky, osobní příběhy.
@@ -115,8 +111,5 @@ Historický konsenzus (viz František Hanzlík, Eduard Stehlík, Hitler's Genera
 
 ## Zdroje
 
-- STEHLÍK, Eduard. *Lexikon tvrzí československého opevnění.* Praha: FORTIFICATIO, 2014.
-- HANZLÍK, František. *Září 1938 — Historie československého pohraničí.* Praha: Vojenský historický ústav, 2018.
-- CITIN, Robert. *The German Way of War: From the Thirty Years' War to the Third Reich.* Kansas: University Press, 2005.
-- HOTAKAINEN, Kari. *The Munich Crisis — A View from Berlin.* Journal of Military History, 2012, vol. 76.
-- Vojenský historický ústav — archiv generála Ludwiga Becka (odtajněno 1985).
+- STEHLÍK, Eduard. *Lexikon těžkých objektů československého opevnění.* FORTprint.
+- MANSTEIN, Erich von. *Verlorene Siege.* 1955.

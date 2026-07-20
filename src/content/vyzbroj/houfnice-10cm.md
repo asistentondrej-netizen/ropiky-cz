@@ -1,6 +1,6 @@
 ---
 title: "Houfnice 10 cm vz. 38 (pevnostní)"
-description: "Hlavní dělostřelecká zbraň československých tvrzí. Trojice houfnic v dělostřeleckém srubu pokrývala palbou prostor 10 kilometrů do všech stran."
+description: "Hlavní plánovaná dělostřelecká zbraň československých tvrzí, určená do kasematních střílen dělostřeleckých srubů. Nikdy nebyla dodána — do září 1938 vznikly jen prototypy."
 kategorie: "kanon"
 rok_zavedeni: "1938"
 vyrobce: "Škoda Plzeň"
@@ -20,9 +20,9 @@ updated: 2026-04-21
 
 ## Hlavní dělostřelecká zbraň tvrzí
 
-**10 cm pevnostní houfnice vz. 38** — zkráceně **pevH 10 cm vz. 38** — byla **klíčová zbraň** [dělostřeleckých tvrzí](/typologie/delostrelecka-tvrz). Každá tvrz měla **jeden dělostřelecký srub se třemi houfnicemi** — trojice dávala tvrzi **schopnost pokrýt palbou 10 km kruh** kolem objektu.
+**10 cm pevnostní houfnice vz. 38** byla **klíčová plánovaná zbraň** [dělostřeleckých tvrzí](/typologie/delostrelecka-tvrz). Dělostřelecký srub počítal s **trojicí houfnic v kasematních střílnách s omezeným odměrem**, kryjících palbou předpolí tvrze i sousední objekty.
 
-Tím se tvrz stávala **nezávislou bojovou jednotkou** — nepotřebovala podporu polního dělostřelectva, sama dávala **palebnou kryt sousedním pěchotním srubům** a **ostřelovala útočné osy nepřítele**.
+Tvrz se tak měla stát **nezávislou bojovou jednotkou**, která nepotřebovala podporu polního dělostřelectva.
 
 ## Konstrukce
 
@@ -30,7 +30,7 @@ Tím se tvrz stávala **nezávislou bojovou jednotkou** — nepotřebovala podpo
 - **Délka hlavně:** 2 400 mm (24 ráží)
 - **Hmotnost (pevnostní):** 2 400 kg
 - **Úhel náměru:** -5° až +70° (vysoká trajektorie)
-- **Úhel odměru:** 360° (rotace v dělostřeleckém srubu)
+- **Úhel odměru:** omezený — daný výsečí kasematní střílny
 - **Kadence:** 6–8 ran/min
 - **Dostřel max:** 12 000 m
 - **Dostřel účinný:** 9 000 m
@@ -45,19 +45,15 @@ Tím se tvrz stávala **nezávislou bojovou jednotkou** — nepotřebovala podpo
 
 Zásoba v tvrzi: **2 500–4 000 granátů** podle velikosti. Granáty byly **automaticky dopravovány z podzemního muničního skladu** zdviží do dělostřeleckého srubu.
 
-## Pevnostní specifikum — rotace srubu
+## Pevnostní specifikum — kasematní střílny
 
-Dělostřelecký srub neměl **otevřené dělové okno** — střelba probíhala skrz **tři samostatné pancéřové štíty**, každý pro jednu houfnici. Štíty se **rotovaly**, takže houfnice mohla zaměřit cokoli v **360° rozsahu**.
+Houfnice byly určeny do **kasematních střílen dělostřeleckého srubu** — každá zbraň měla vlastní střílnu s **omezeným odměrem**, palebné výseče tří houfnic se doplňovaly. Projekty tvrzí počítaly výhledově i s houfnicemi v otočných věžích, žádná věž však nebyla nikdy vyrobena.
 
-To byl **technologicky nejnáročnější prvek** tvrze. Každý štít vážil **~50 tun** a byl uložen na **kuličkovém věnci o průměru 3 m**. Rotace byla poháněna **elektromotorem** (v nouzi ručně kličkou).
-
-**Pouze 3 tvrze v ČSR měly dokončený dělostřelecký srub** s rotačními štíty: **Bouda**, **Hanička**, **Dobrošov**. Stachelberg měl rozestavěnou jámu, Adam a Smolkov byly bez rotačních štítů — plánovaly se do 1940.
+**Pouze tři tvrze měly dokončený dělostřelecký srub**: **Hůrka (K-S 11)**, **Smolkov** a **Dobrošov (N-S 75)**.
 
 ## V boji 1938 — nikdy neexistovala v bojové konfiguraci
 
-Paradoxně **žádná pevnostní houfnice 10 cm vz. 38 nebyla v září 1938 plně instalována** v bojové konfiguraci. Zbraně byly **ve výrobě u Škody**, kde jich bylo dokončeno **asi 12 kusů**, ale do tvrzí se dostávaly **po jedné až dvou** a jejich montáž trvala **3–4 měsíce** (betonáž základů, kabeláž, výzbroj).
-
-Nejblíže bojové konfiguraci byla **tvrz Bouda** — v září 1938 měla **1 houfnici instalovanou**, 2 v předmontáži. Wehrmacht po Mnichovu všechny 3 kusy z Boudy **demontoval a převezl do Německa**, kde je zkoumal po roce 1939 Škoda jako **okupovaný producent** zkouškami pokračovala.
+**Žádná pevnostní houfnice 10 cm vz. 38 nebyla nikdy do tvrzí dodána ani namontována.** Do září 1938 existovaly pouze **prototypy** — sériové zbraně se do objektů nedostaly a dokončené dělostřelecké sruby na svou výzbroj marně čekaly.
 
 ## Po válce
 
@@ -65,9 +61,8 @@ Po roce 1945 se ČSLA k pevnostním houfnicím **nevrátila**. Místo toho rozv�
 
 ## Kde ji uvidíte
 
-- **Tvrz Bouda** — replika houfnice v dělostřeleckém srubu (jediné místo v ČR)
+- **Tvrz Hůrka, Smolkov a Dobrošov** — dokončené dělostřelecké sruby, do nichž byla zbraň určena (samotná houfnice se nedochovala)
 - **VTM Lešany** — polní varianta podobné ráže pro porovnání
-- **Archiv Škoda Plzeň** — výkresy v muzeu (na vyžádání)
 
 ## Související obsah
 

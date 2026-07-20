@@ -8,7 +8,7 @@ pocet_planovano: 1539
 pocet_realizovano: 880
 pocet_to: 0
 obdobi_stavby: "1937–1938"
-stav_dnes: "Mnoho objektů v lesích, obtížnější dostupnost. Několik muzejních bodů (Volary, Český Krumlov)."
+stav_dnes: "Mnoho objektů v lesích, obtížnější dostupnost. Několik sezónně zpřístupňovaných objektů."
 order: 50
 bounds:
   north: 49.55
@@ -26,7 +26,7 @@ updated: 2026-04-21
 
 Šumava je pro ČSR **klasická obranná bariéra** — husté lesy, vysoké pohoří, málo silnic. Wehrmacht zde mohl postupovat jen **údolími Vltavy a Volyňky** nebo přes **Železnorudský průsmyk**. Tam právě směřovaly klíče ŘOP: uzavřít průsmyky linií řopíků a lehkých objektů vz. 36.
 
-Úsek nebyl prioritní — **budoval se až od jara 1937** a do září 1938 bylo dokončeno přibližně **115 objektů**. Většinou LO vz. 37 typ A a C, doplněných o **starší objekty vz. 36** v horských pasážích.
+Úsek nebyl prioritní — **budoval se až od jara 1937** a do září 1938 zde bylo dokončeno přibližně **880 objektů**. Většinou LO vz. 37 typ A a C, doplněných o **starší objekty vz. 36** v horských pasážích.
 
 ## Průběh linie
 
@@ -38,7 +38,7 @@ updated: 2026-04-21
 ## Ikonické objekty
 
 - **Železná Ruda** — LO vz. 36 v průsmyku, ikonická fotka
-- **Volary** — muzejní řopík, sezónní provoz
+- **Pošumaví** — některé řopíky sezónně zpřístupňují místní spolky
 - **Český Krumlov (řopík)** — v katalogu dokumentován, volně přístupný
 - **České Budějovice — Kamenný Újezd** — dobře dochovaný LO vz. 37 typ A
 
@@ -48,13 +48,12 @@ updated: 2026-04-21
 
 ## Co se tu stalo v říjnu 1938
 
-Úsek byl předán **4.–9. října 1938**. Posádky odcházely přes Šumavu do vnitrozemí — některé cesty trvaly **3 dny pěšky**. Zabrané území připadlo přímo k **Reichsgau Bayreuth** a objekty byly Wehrmachtem zdokumentovány jako součást ***Denkschriftu***.
+Úsek byl předán **4.–9. října 1938**. Posádky odcházely přes Šumavu do vnitrozemí — některé cesty trvaly **3 dny pěšky**. Zabrané pohraničí bylo připojeno k Německé říši a objekty byly Wehrmachtem zdokumentovány jako součást ***Denkschriftu***.
 
 ## Co navštívit
 
-1. **Muzeum řopíků Volary** (sezóna)
-2. **Železná Ruda — LO vz. 36 v průsmyku**
-3. **Ke Kamenném Újezdu od Českých Budějovic** (1denní cyklo)
+1. **Železná Ruda — LO vz. 36 v průsmyku**
+2. **Ke Kamennému Újezdu od Českých Budějovic** (1denní cyklo)
 
 Ideální kombinace s **NP Šumava** a **UNESCO Český Krumlov**.
 

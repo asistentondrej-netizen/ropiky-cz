@@ -8,7 +8,7 @@ pocet_planovano: 1092
 pocet_realizovano: 766
 pocet_to: 0
 obdobi_stavby: "1937–1938"
-stav_dnes: "Množství volně přístupných řopíků v krajině Chebska a Ašského výběžku. Muzeum v Bečově."
+stav_dnes: "Množství volně přístupných řopíků v krajině Chebska a Ašského výběžku; některé objekty zpřístupňují místní spolky."
 order: 55
 bounds:
   north: 50.30
@@ -24,9 +24,9 @@ updated: 2026-04-21
 
 ## Strategický význam
 
-Západní hranice ČSR byla **jedním z nejdelších úseků** — 280 km od Aše po Šumavu. Ašský výběžek a Chebsko leží **hluboko v Německu** — Aš je 50 km od Mnichova vzdušnou čarou. Obranná koncepce zde byla **pragmatická: zpomalit, nezastavit**. Cílem bylo držet linii **alespoň 72 hodin**, než se mobilizované síly ČSR dostanou do vnitrozemských obranných pozic.
+Západní hranice ČSR byla **jedním z nejdelších úseků** — 280 km od Aše po Šumavu. Ašský výběžek a Chebsko vybíhají **hluboko do německého území**. Obranná koncepce zde byla **pragmatická: zpomalit, nezastavit**. Cílem bylo zdržet útočníka co nejdéle, než se mobilizované síly ČSR dostanou do vnitrozemských obranných pozic.
 
-Proto zde byla betonována **vysoce hustá síť řopíků** — místy až **3 objekty na kilometr** — ale **žádné tvrze a jen málo pěchotních srubů**. Strategie: množství levných řopíků, které dohromady vytvoří koridor nepříjemný k průchodu.
+Proto zde byla betonována **vysoce hustá síť řopíků** — místy až **3 objekty na kilometr** — ale **žádné těžké opevnění**; tvrze ani pěchotní sruby se v západních Čechách nestavěly. Strategie: množství levných řopíků, které dohromady vytvoří koridor nepříjemný k průchodu.
 
 ## Průběh linie
 
@@ -34,13 +34,11 @@ Proto zde byla betonována **vysoce hustá síť řopíků** — místy až **3 
 - **Cheb** — uzel s vyšší hustotou
 - **Mariánské Lázně** — linie v lázeňském regionu
 - **Plzeň (zbrojovka!)** — za linií na západ a jih, strategický bod
-- **Bečov nad Teplou** — muzeum LO
 
 ## Ikonické objekty
 
 - **Řopík nad Ašským sedlem** — symbolická pozice, volně přístupný
 - **LO vz. 37 typ A v krajině u Chebu** — pole, dobře fotogenický
-- **Muzeum Bečov — LO vz. 37** — interiér, sezóna
 - **Linie u Mariánských Lázní** — lesní úseky, několik exemplářů
 
 ## Co se tu stalo v říjnu 1938
@@ -51,13 +49,12 @@ Po roce 1945 bylo Chebsko **masivně vysídleno** (německá menšina odsunuta) 
 
 ## Specifikum — řopíky v zaniklých obcích
 
-Na Chebsku stojí několik řopíků v **zemědělské krajině bývalých sudetských vesnic** — **Horní Lomany, Dolní Pochlovice, Chlumeček**. Vesnice byly po roce 1945 opuštěny, strženy, a zůstala jen beton a les. Řopíky jsou dnes **jediné hmatatelné připomínky** těchto sídel.
+Na Chebsku stojí řada řopíků v **zemědělské krajině bývalých sudetských vesnic**, které byly po roce 1945 opuštěny a strženy — zůstal jen beton a les. Řopíky jsou dnes často **jediné hmatatelné připomínky** těchto sídel.
 
 ## Co navštívit
 
-1. **Muzeum Bečov** — LO vz. 37 zevnitř (sezóna)
-2. **Ašský výběžek — řopík nad sedlem** (30 min turistika)
-3. **Cheb — Chebský hrad + linie** (půldenní okruh)
+1. **Ašský výběžek — řopík nad sedlem** (30 min turistika)
+2. **Cheb — Chebský hrad + linie** (půldenní okruh)
 
 Ideální kombinace s **lázeňským trojúhelníkem** (Karlovy Vary, Mariánské Lázně, Františkovy Lázně) — dva dny: den opevnění + den lázně.
 

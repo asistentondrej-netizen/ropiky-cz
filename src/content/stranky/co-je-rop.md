@@ -34,18 +34,18 @@ V plánu bylo vybudovat **1 276 objektů těžkého opevnění** a **15 463 obje
 
 ## Organizace a řídící struktura
 
-Rozhodnutí o výstavbě opevnění padlo **21. července 1934**. Následující podzim zahájil Hlavní štáb první terénní průzkum úseků. **20. března 1935** byly formálně zřízeny dva orgány:
+Rozhodnutí o výstavbě opevnění padlo **v průběhu roku 1934**. Následující podzim zahájil Hlavní štáb první terénní průzkum úseků. **20. března 1935** byly formálně zřízeny dva orgány:
 
-- **Rada pro opevňování** — nejvyšší strategický orgán v čele s náčelníkem Hlavního štábu armádním generálem **Ludvíkem Krejčím**. Stálými poradci byli generálové František Nosál a František Havel.
+- **Rada pro opevňování** — nejvyšší strategický orgán v čele s náčelníkem Hlavního štábu armádním generálem **Ludvíkem Krejčím**.
 - **Ředitelství opevňovacích prací (ŘOP)** — výkonný útvar pod MNO, v jehož čele stanul **generál Karel Husárek**.
 
-**18. dubna 1935** vzniklá **první dvě ženijní skupinová velitelství (ŽSV)** — v **Starém Městě pod Sněžníkem** (pro úsek Králíky) a v **Bohumíně** (pro úsek Moravská Ostrava). Během následujících měsíců přibyla další — Opava, Trutnov, Náchod, Rokytnice v Orlických horách, Liberec a Krkonoše. Jejich zkratky se staly součástí označení srubů (K-S, MO-S, OP-S atd.).
+**18. dubna 1935** vznikla **první dvě ženijní skupinová velitelství (ŽSV)** — ve **Starém Městě pod Sněžníkem** a v **Hlučíně**. Během následujících měsíců a let přibyla další. Jejich zkratky se staly součástí označení srubů (K-S, MO-S, OP-S atd.).
 
 ## Tři programy opevňování
 
 Systém se rozvíjel ve třech postupně rozšiřujících se programech:
 
-### 1. program (12. prosince 1935)
+### 1. program (konec roku 1935)
 
 Dvousledové těžké opevnění pouze na **severní hranici mezi Odrou a Labem** — proti nacistickému Německu. Priorita: nejkritičtější úsek. Do tohoto programu spadá první betonovaný objekt **MO-S 8 „Dvůr Paseky"** (prosinec 1935).
 
@@ -73,9 +73,9 @@ Lehké pevnostní objekty — **LO vz. 36** a zejména **LO vz. 37 (řopík)** �
 
 ### Těžké opevnění — páteř systému
 
-**Pěchotní sruby** byly podstatně mohutnější železobetonové objekty se stěnami až **3,5 metru silnými**, vyzbrojené kulomety, protitankovými kanóny a minomety. Uvnitř měly několik místností, ubikace, strojovnu, filtroventilaci a sklad munice. Posádka dosahovala 20–40 mužů.
+**Pěchotní sruby** byly podstatně mohutnější železobetonové objekty se stropy až **3,5 metru** a stěnami až zhruba **2,75 metru** silnými, vyzbrojené kulomety, protitankovými kanóny a minomety. Uvnitř měly několik místností, ubikace, strojovnu, filtroventilaci a sklad munice. Posádka dosahovala 20–40 mužů.
 
-Nejmohutnější komponentou systému byly **dělostřelecké tvrze** — skupiny několika železobetonových objektů propojených podzemním systémem chodeb a sálů. Plánováno bylo 17 tvrzí, z nichž do Mnichova bylo zcela dokončeno pouze pět: **Adam, Bouda, Hanička, Hůrka a Smolkov**. Další čtyři (Dobrošov, Skutina, Šibenice, Stachelberg) zůstaly ve fázích rozestavěnosti. Největší plánovaná tvrz **Stachelberg** dosáhla realizace jen jediného pěchotního srubu.
+Nejmohutnější komponentou systému byly **dělostřelecké tvrze** — skupiny několika železobetonových objektů propojených podzemním systémem chodeb a sálů. Zadáno bylo 13 tvrzí, výstavba byla zahájena u osmi z nich a do Mnichova bylo stavebně dokončeno pět: **Adam, Bouda, Hanička, Hůrka a Smolkov**. Další (mj. Dobrošov, Skutina a Stachelberg) zůstaly rozestavěné. Největší plánovaná tvrz **Stachelberg** dosáhla realizace jen jediného pěchotního srubu.
 
 ## Geografické rozvržení
 

@@ -41,7 +41,7 @@ Souvislá linie podél hřebene od **Dubí** přes **Moldavu**, **Hora sv. Kate�
 
 ## Specifikum — industriální krajina
 
-Krušné hory prošly ve 20. století **masivní devastací** — povrchová těžba hnědého uhlí (Chomutovsko, Mostecko), **kyselé deště ze sovětských elektráren** (Tušimice, Prunéřov), zánik desítek vesnic. Řada řopíků stojí v **umělé krajině po rekultivaci**, některé v **původních zaniklých vesnicích** (Dolní Jiřetín, Komořany, Ervěnice).
+Krušné hory prošly ve 20. století **masivní devastací** — povrchová těžba hnědého uhlí (Chomutovsko, Mostecko), **kyselé deště z uhelných elektráren** (Tušimice, Prunéřov), zánik desítek vesnic. Řada řopíků stojí v **umělé krajině po rekultivaci**, některé v **původních zaniklých vesnicích** (Dolní Jiřetín, Komořany, Ervěnice).
 
 Jsou to **svědkové ztracené historie** — kombinace sudetského odsunu, komunistické industrializace a ekologické zkázy. Pro fotografa s pochopením kontextu **unikátní kulisa**.
 
@@ -55,7 +55,7 @@ Jsou to **svědkové ztracené historie** — kombinace sudetského odsunu, komu
 2. **Moldava — horský hřeben s LO** (turistický výlet)
 3. **Zaniklá vesnice Přísečnice + řopíky** (pro pokročilé průzkumníky)
 
-Ideální kombinace s **Krušnohorskou magistrálou** (cyklostezka EV7) nebo **hornickým muzeem v Jáchymově**.
+Ideální kombinace s **Krušnohorskou magistrálou** nebo **hornickým muzeem v Jáchymově**.
 
 ## Související obsah
 

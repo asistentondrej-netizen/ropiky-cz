@@ -9,7 +9,6 @@ sources:
   - "Bunkry.cz — Kulomet vzor 37 (ZB-53), Kulomet vzor 26, 4cm protitankový kanon, Pancéřové zvony, Zvony a kopule ČS opevnění"
   - "Vojsko.net — Hlavně, které nezahřměly: Těžké dělostřelectvo československých pevností"
   - "opevneni.eu/csop/vyzb.html — strukturální přehled výzbroje"
-  - "Ropiky.net — Těžký kulomet ZB 53, Lehký kulomet ZB vz. 26"
   - "Delostrelectvocsarmady1918-1939.estranky.cz — Pevnostní děla (9cm minomet vz. 38, 10cm houfnice vz. 38)"
   - "Wikimedia Commons — fotografie (licence CC0, CC BY-SA, PD); viz /public/img/vyzbroj/_manifest.json"
   - "Denkschrift über die tschecho-slowakische Landesbefestigung (1941, OKH) — výkresy zbraní a pancéřových prvků (amtliches Werk / public domain); viz /public/img/denkschrift-vyzbroj/_manifest.json"
@@ -30,9 +29,9 @@ Zásadní charakteristika výzbroje ŘOP: **kulometné zbraně byly v roce 1938 
 | Zbraň | Ráže | Dostřel | K září 1938 | Instalace |
 |---|---|---|---|---|
 | **LK vz. 26** (ZB-26) | 7,92 mm | ~ 2 000 m | 34 000 ks | lehké i těžké objekty, zvony |
-| **TK vz. 24** | 7,92 mm | ~ 2 000 m | ~ 7 000 ks | lehké objekty (provizorium) |
+| **TK vz. 7/24** | 7,92 mm | ~ 2 000 m | ~ 7 000 ks | lehké objekty (provizorium) |
 | **TK vz. 37** (ZB-53) | 7,92 mm | 2 500 m | > 5 000 ks | těžké objekty, zvony, kopule |
-| **4cm kanón vz. 36** (L1) | 40 mm | 5 800 m | 222 osazeno | pěchotní sruby |
+| **4cm kanón vz. 36** (L1) | 47 mm | 5 800 m | 222 osazeno | pěchotní sruby |
 | **9cm minomet vz. 38** (G) | 90 mm | 3 200 m | **prototyp + 5 ve výrobě** | pěchotní sruby (nedokončeno) |
 | **10cm houfnice vz. 38** (Y) | 100 mm | 11 960 m | **0 dokončeno** | dělostřelecké tvrze (nedokončeno) |
 | **12cm minomet** | 120 mm | — | **0 dokončeno** | tvrze (projekt změněn léto 1938) |
@@ -43,7 +42,7 @@ Kulomety byly **páteří pevnostního systému** — většina všech čs. obje
 
 ### Lehký kulomet vz. 26 (ZB-26)
 
-Konstruktér **Václav Holek** vyvinul ZB-26 v Zbrojovce Brno v letech 1924–1925 jako vzduchem chlazený lehký kulomet na bázi odběru plynů z hlavně. Z hlediska dějin čs. zbrojního průmyslu šlo o **technicky nejúspěšnější zbraň první republiky** — zbraň v modifikované podobě licenčně produkovala Velká Británie od roku 1935 pod názvem **BREN** (**B**rno-**En**field), stala se jednou z ikonických zbraní druhé světové války a byla ve službách britské a commonwealthské armády do 50. let.
+Konstruktér **Václav Holek** vyvinul ZB-26 v Zbrojovce Brno v letech 1924–1925 jako vzduchem chlazený lehký kulomet na bázi odběru plynů z hlavně. Z hlediska dějin čs. zbrojního průmyslu šlo o **technicky nejúspěšnější zbraň první republiky** — zbraň v modifikované podobě licenčně produkovala Velká Británie od roku 1937 pod názvem **BREN** (**B**rno-**En**field), stala se jednou z ikonických zbraní druhé světové války a byla ve službách britské a commonwealthské armády do 50. let.
 
 **Parametry:**
 
@@ -54,15 +53,15 @@ Konstruktér **Václav Holek** vyvinul ZB-26 v Zbrojovce Brno v letech 1924–19
 - Účinný dostřel **2 000 m**
 - Hmotnost zbraně **9,6 kg**
 
-**Nasazení v pevnostech:** Ke dni mobilizace 1938 bylo v armádě **34 000 kusů** — nejrozšířenější automatická zbraň ČSR. V řopících byl zpravidla druhou zbraní vedle TK vz. 37 (pro blízkou obranu a zálohu), v těžkém opevnění sloužil jako hlavní zbraň v **pancéřových zvonech AJ/N** a jako zbraň blízké obrany u vchodů, pozorovacích průzorů a týlových střílen.
+**Nasazení v pevnostech:** Ke dni mobilizace 1938 bylo v armádě **34 000 kusů** — nejrozšířenější automatická zbraň ČSR. Řopíky byly vyzbrojeny lehkým kulometem vz. 26, **nebo** těžkým kulometem vz. 37 — LK vz. 26 tak byl jednou ze dvou hlavních zbraní lehkého opevnění. V těžkém opevnění sloužil jako hlavní zbraň v **pancéřových zvonech** a jako zbraň blízké obrany u vchodů, pozorovacích průzorů a týlových střílen.
 
 ![Českoslovenští vojáci s lehkým kulometem ZB vz. 26 na manévrech (pozdní 30. léta, anonymní autor — public domain; zdroj Wikimedia Commons)](/img/vyzbroj/lk-vz-26-csr-soldiers.jpg)
 
-![Denkschrift 1941 — montážní systém lehkého kulometu vz. 26 v pancéřovém zvonu AJ/N pro blízkou obranu (public domain, amtliches Werk, OKH)](/img/denkschrift-vyzbroj/denkschrift-lk26-zvon.jpg)
+![Denkschrift 1941 — montážní systém lehkého kulometu vz. 26 v pancéřovém zvonu pro blízkou obranu (public domain, amtliches Werk, OKH)](/img/denkschrift-vyzbroj/denkschrift-lk26-zvon.jpg)
 
-### Těžký kulomet vz. 24
+### Těžký kulomet vz. 7/24
 
-Starší vodou chlazený kulomet, **technická slepá ulička**. Byl převzat z rakousko-uherské Schwarzlose vz. 7/24 a sloužil jako **přechodné řešení**, dokud nebyl dodán modernější vz. 37.
+Starší vodou chlazený kulomet, **technická slepá ulička**. Šlo o modernizaci rakousko-uherského kulometu Schwarzlose; sloužil jako **přechodné řešení**, dokud nebyl dodán modernější vz. 37.
 
 **Parametry:**
 
@@ -76,7 +75,7 @@ Starší vodou chlazený kulomet, **technická slepá ulička**. Byl převzat z 
 
 ### Těžký kulomet vz. 37 (ZB-53)
 
-Nástupce vz. 24 a **hlavní těžká kulometná zbraň čs. opevnění**. Vývoj zahájen v roce 1930 v Zbrojovce Brno, hlavními konstruktéry byli **Václav Holek a Miroslav Rolčík**. Jde o **vzduchem chlazený kulomet na bázi odběru plynů** — technicky pokročilé řešení ve své době.
+Nástupce vz. 7/24 a **hlavní těžká kulometná zbraň čs. opevnění**. Vývoj zahájen v roce 1930 v Zbrojovce Brno, hlavními konstruktéry byli **Václav Holek a Miroslav Rolčík**. Jde o **vzduchem chlazený kulomet na bázi odběru plynů** — technicky pokročilé řešení ve své době.
 
 **Parametry:**
 
@@ -87,9 +86,9 @@ Nástupce vz. 24 a **hlavní těžká kulometná zbraň čs. opevnění**. Vývo
 - Účinný dostřel **300–2 500 m**
 - Hmotnost zbraně 19 kg + lafeta 20 kg
 
-**Nasazení v pevnostech:** V září 1938 vyrobeno přes **5 000 kusů**. ZB-53 byl **hlavní zbraní těžkého opevnění** — v pěchotních srubech jako sólo střelba nebo jako dvojče dvou kulometů se spřaženými lafetami. V konfiguraci **L1** byl kulomet spřažen se 4cm protitankovým kanónem do společné lafety (viz níže). V pancéřových prvcích se objevoval v kopulích **JA/D** (sólo) a **JA/M** (dvojče), příp. ve zvonu **AJ/D**.
+**Nasazení v pevnostech:** V září 1938 vyrobeno přes **5 000 kusů**. ZB-53 byl **hlavní zbraní těžkého opevnění** — v pěchotních srubech jako sólo střelba nebo jako dvojče dvou kulometů se spřaženými lafetami. V konfiguraci **L1** byl kulomet spřažen se 4cm protitankovým kanónem do společné lafety (viz níže). V pancéřových prvcích se objevoval v kopulích pro sólo kulomet i pro dvojče, příp. v pancéřových zvonech.
 
-**Historický ohlas:** ZB-53 byl **jednou z nejúspěšněji exportovaných čs. zbraní** — celkem prodáno **12 000 kusů** do zahraničí (Rumunsko 8 000, Jugoslávie 1 000, Čína 1 000, Írán 1 000). V roce **1937 byla prodána licence firmě BSA v Birminghamu**, která ji pod označením **BESA** masově produkovala pro britské tanky (Churchill, Cromwell, Centurion) — zbraň sloužila v britské armádě do 60. let.
+**Historický ohlas:** ZB-53 byl **jednou z nejúspěšněji exportovaných čs. zbraní** — ve velkém se prodával do zahraničí (mj. do Rumunska, Jugoslávie, Číny a Íránu). V roce **1937 byla prodána licence firmě BSA v Birminghamu**, která ji pod označením **BESA** masově produkovala pro britské tanky (Churchill, Cromwell, Centurion) — zbraň sloužila v britské armádě do 60. let.
 
 Po okupaci převzal Wehrmacht ZB-53 pod označením **MG-37(t)** a použil ji na všech frontách druhé světové války.
 
@@ -105,7 +104,7 @@ Po okupaci převzal Wehrmacht ZB-53 pod označením **MG-37(t)** a použil ji na
 
 **Parametry:**
 
-- Ráže **40 mm**
+- Ráže **47 mm** (úřední označení zbraně znělo „4 cm")
 - Úsťová rychlost **770 m/s**
 - Účinný dostřel **5 800 m** (přesná palba do 2 000 m)
 - Kadence 20–40 ran/min (podle sehranosti obsluhy)
@@ -121,7 +120,7 @@ Varianta L1 umožňovala obsluze rychle **přepínat mezi zbraněmi podle cíle*
 
 **Nasazení v pevnostech:** K mobilizaci v září 1938 bylo **osazeno 222 kusů** ve střílnách pěchotních srubů + **6 kusů pro výcvik** v kasárnách. Zbývajících ~20 kusů bylo ve výrobě nebo ve skladech.
 
-**Ukradená legenda — kanón v Atlantickém valu.** Po okupaci převzal Wehrmacht kanón jako **4,7 cm PaK (t)** a postupně jej instaloval do **Západní linie (Siegfriedova)** a pak masivně do **Atlantického valu** na francouzském pobřeží. Podle německých konstruktérů šlo o „jeden z nejobávanějších kanónů v pobřežní obraně". Největší koncentrace byla na **Normandských ostrovech** v Lamanšském průlivu. Paradoxně se tak stalo, že zbraně vyrobené pro obranu Československa stály v září 1944 tváří v tvář spojeneckým výsadkům v Normandii.
+**Ukradená legenda — kanón v Atlantickém valu.** Po okupaci převzal Wehrmacht kanón jako **4,7 cm PaK (t)** a postupně jej instaloval do **Západní linie (Siegfriedova)** a pak masivně do **Atlantického valu** na francouzském pobřeží. Podle německých konstruktérů šlo o „jeden z nejobávanějších kanónů v pobřežní obraně". Největší koncentrace byla na **Normandských ostrovech** v Lamanšském průlivu. Paradoxně se tak stalo, že zbraně vyrobené pro obranu Československa stály v červnu 1944 tváří v tvář spojeneckému vylodění v Normandii.
 
 ![4 cm pevnostní kanón vz. 36 v expozici VHÚ Praha-Žižkov (foto Cyberpunx242, CC BY-SA 3.0, Wikimedia Commons)](/img/vyzbroj/kanon-vz-36-muzeum.jpg)
 
@@ -154,9 +153,9 @@ Jestli byla kulometná a protitanková výzbroj ŘOP v září 1938 v drtivé v�
 1. **Střílnové provedení** v dělostřeleckých srubech — 3 kusy v baterii s bočními střílnami (statická palba)
 2. **Výsuvné a otočné věže** — 2 houfnice ve společné věži s obsluhou 20–26 mužů; věž se **elektricky vysunula nebo zasunula za 7 vteřin**, výtah pro přísun střeliva
 
-**Do 30. září 1938 nebyla do pevností dodána ani jedna funkční houfnice.** Škoda měla rozpracováno několik kusů, které byly po anexi Sudet převzaty Wehrmachtem. V průběhu okupace německá armáda **dokončila 15 exemplářů** pro vlastní použití — některé z nich instalovala do kořistních čs. tvrzí (Bouda, Stachelberg) jako součást svých zkušebních zařízení.
+**Do 30. září 1938 nebyla do pevností dodána ani jedna funkční houfnice — a zbraň nebyla dodána nikdy.** Škoda měla rozpracováno několik kusů, které po okupaci převzala německá armáda.
 
-Výsuvné a otočné věže jsou dodnes **symbolem nenaplněného potenciálu čs. opevnění** — Wehrmacht některé demontoval a **převezl do Francie pro Atlantický val** (podle stejného principu jako u 4cm kanónů).
+Výsuvné a otočné dělové věže **nebyly nikdy vyrobeny** — zůstaly dodnes symbolem nenaplněného potenciálu čs. opevnění.
 
 ### 9 cm pevnostní minomet vz. 38 (zbraň G)
 
@@ -196,39 +195,35 @@ Výrobu pancéřových prvků zajišťovaly **tři firmy**:
 - **Akciová společnost, dříve Škodovy závody, Plzeň** (Škoda)
 - **Báňská a hutní společnost** (Třinec)
 
-**Vývoj začal na přelomu let 1934/1935** — ještě před oficiálním vznikem ŘOP. Finální verze zvonů a kopulí schválena **27. září 1935**. Do 23. září 1938 bylo **dodáno 390 kusů a osazeno 383 kusů** — zbytek byl ve skladech nebo ve fázi osazování.
+**Vývoj začal na přelomu let 1934/1935** — ještě před oficiálním vznikem ŘOP. Finální verze zvonů a kopulí byla schválena v roce 1935. Do mobilizace v září 1938 byla naprostá většina vyrobených kusů osazena v objektech, zbytek byl ve skladech nebo ve fázi osazování.
 
 ### Typologie zvonů a kopulí
 
 Československo rozlišovalo **zvony** (menší, s několika střílnami nebo pozorovacími průzory) a **kopule** (větší, se střílnami pro těžké kulomety nebo minomety, s vertikální zónou pro odměr).
 
-| Označení | Typ | Zbraň / účel | Odměr | Dochováno |
-|---|---|---|---|---|
-| **AJ/N** | zvon | LK vz. 26 | 60° | nejhojnější typ (Orlické hory) |
-| **AJ/D** | zvon | TK vz. 37 sólo | 60° | **jediný exemplář** (OP-S 27) |
-| **JA/D** | kopule | TK vz. 37 sólo | 54° | 3 ks (1 Hanička + 2 SK) |
-| **JA/M** | kopule | TK vz. 37 dvojče | 45° | 3 ks (2 Hanička + 1 MO-S 19 Darkovičky) |
-| **AJ/P** | zvon | dělostřelecké pozorování | 60° | 2 ks (Hanička + K-S 12b) |
-| **ventil.** | zvon | ventilace (tvrze) | — | několik kusů v tvrzích s otočnými věžemi |
+| Typ | Zbraň / účel |
+|---|---|
+| **zvon pro lehký kulomet** | LK vz. 26 — blízká obrana a pozorování (nejhojnější typ) |
+| **kopule pro těžký kulomet** | TK vz. 37 — sólo, nebo dvojče |
+| **pozorovací zvon** | dělostřelecké pozorování |
+| **ventilační zvon** | ventilace (tvrze) |
 
-Každý zvon i kopule se vyráběly **ve více stupních odolnosti** (tloušťky pancíře, 15–25 cm) podle toho, kam byly nasazeny.
+Každý zvon i kopule se vyráběly **ve více stupních odolnosti** (tloušťka pancíře zhruba 20–30 cm) podle toho, kam byly nasazeny.
 
-![Pancéřová kopule JA/M pro dvojče těžkých kulometů vz. 37 na stropnici pěchotního srubu MO-S 19 „V aleji" (Darkovičky) — jeden ze tří dochovaných exemplářů tohoto typu (foto Lasy, CC BY-SA 3.0, Wikimedia Commons)](/img/vyzbroj/kopule-mo-s-19.jpg)
+![Pancéřová kopule pro dvojče těžkých kulometů vz. 37 na stropnici pěchotního srubu MO-S 19 „V aleji" (Darkovičky) (foto Lasy, CC BY-SA 3.0, Wikimedia Commons)](/img/vyzbroj/kopule-mo-s-19.jpg)
 
 ![Pancéřový zvon na stropnici pěchotního srubu MO-S 19 „V aleji" (Darkovičky). Dodavatelem byla Vítkovická huť, Škoda nebo Třinec (foto Lasy, CC BY-SA 3.0, Wikimedia Commons)](/img/vyzbroj/zvon-mo-s-19.jpg)
 
-![Denkschrift 1941 — podélný řez pancéřovým zvonem AJ/N pro LK vz. 26, zabetonovaným ve stropnici pěchotního objektu: vnitřní uspořádání, průzory, uložení obsluhy (public domain, amtliches Werk, OKH)](/img/denkschrift-vyzbroj/denkschrift-panc-zvon-rez.jpg)
-
-**Paradox dochovanosti:** Zajímavě se dochovalo **víc kopulí pro dvojče TK** (JA/M, 3 ks) **než pro sólo TK** (JA/D, 3 ks celkem včetně Slovenska) — přestože historicky bylo vyrobeno opačně víc kopulí sólových. Důvod leží v pozdějším osudu: sólové kopule byly systematičtěji demontovány Wehrmachtem (přehlednější konstrukce usnadňovala extrakci).
+![Denkschrift 1941 — podélný řez pancéřovým zvonem pro LK vz. 26, zabetonovaným ve stropnici pěchotního objektu: vnitřní uspořádání, průzory, uložení obsluhy (public domain, amtliches Werk, OKH)](/img/denkschrift-vyzbroj/denkschrift-panc-zvon-rez.jpg)
 
 ### Ztráty a zničení
 
-Ze 383 osazených zvonů a kopulí dnes dochováno **104–106 kusů v ČR** a **14 kusů na Slovensku** — dohromady **~ 30 %**. Ke ztrátám došlo ve **dvou hlavních vlnách**:
+Z osazených zvonů a kopulí se jich dodnes dochovala **zhruba stovka**. Ke ztrátám došlo ve **dvou hlavních vlnách**:
 
 1. **Německá okupace 1938–1944** — Wehrmacht systematicky demontoval pancéřové prvky a převezl je na Atlantický val a Západní linii. Demontáž byla **technicky náročná** — ocelové těleso vážící desítky tun bylo potřeba vykopat z betonové stropnice bez poškození a pak transportovat po železnici.
 2. **Československá 50. léta — Kovošrot.** V poválečné ČSR (zejména v letech 1952–1960) byly pancéřové prvky cílem **organizovaných sběrných akcí Kovošrotu**. Mnoho zvonů bylo vytrženo buldozery, rozřezáno a odvezeno jako ocelový šrot — paradoxně hned vedle objektů, kde po okupaci 1938 ještě stály. Zachovány zůstaly **jen prvky na obtížně přístupných místech** (horní hřebeny, vzdálené sruby).
 
-**Pokračování výroby 1949:** Po válce ČSSR reaktivovala čs. fortifikační program v omezené podobě na **rakouské hranici jižní Moravy**. Vítkovice vyrobily v roce 1949 **dalších 9 zvonů** pro 6 nově postavených dvouzvonových pěchotních srubů — poválečná výroba byla technicky shodná s předválečnými zvony. Tyto poválečné objekty jsou dnes součástí tzv. **„pohraniční opevněné linie"** z 50. let.
+**Pokračování výroby po válce:** Po válce ČSR reaktivovala fortifikační program v omezené podobě na **rakouské hranici jižní Moravy**. Vítkovice vyrobily koncem 40. let další zvony pro nově postavené pěchotní sruby — poválečná výroba byla technicky shodná s předválečnými zvony. Tyto poválečné objekty jsou dnes součástí tzv. **„pohraniční opevněné linie"** z 50. let.
 
 ## Překážkový systém
 
@@ -246,7 +241,7 @@ Rozsocháč je **vynález majora Františka Kašíka** z druhé poloviny 30. let
 
 **Funkce:** Rozsocháč byl schopen **zastavit všechny německé tanky, které mohly napadnout ČSR v roce 1938** — Panzer I, Panzer II i Panzer III — tank narazil na úhelník, který ho zastavil a při pokusu o přeskok převrátil. V čs. doktríně byl hlavní protitankovou překážkou v **jedné řadě**, doplněnou řadou ocelových jehel a protipěchotními zátarasy s ostnatým drátem.
 
-**„Český ježek v Normandii":** Nejbizarnější osud ze všech čs. pevnostních prvků. Wehrmacht ho po okupaci **ukořistil v obrovských počtech**, odvezl do Německa, otestoval a přijal do vlastní fortifikační doktríny. V Atlantickém valu se pak rozsocháč používal pod označením **„Tschechenigel"** (český ježek) a **Hemmbalkensperre** a Němci ho nasazovali zejména jako **pobřežní překážku** — vyskytuje se na historických fotografiích pláží **Omaha**, **Utah**, **Gold** i **Juno** z června 1944. Spojenecké inženýrské jednotky je musely před vyloděním **odstraňovat ručně nebo odstřelovat** (později i rámy před tanky Sherman).
+**„Český ježek v Normandii":** Nejbizarnější osud ze všech čs. pevnostních prvků. Wehrmacht ho po okupaci **ukořistil v obrovských počtech**, odvezl do Německa, otestoval a přijal do vlastní fortifikační doktríny. V Atlantickém valu se pak rozsocháč používal pod označením **„Tschechenigel"** (český ježek) a Němci ho nasazovali zejména jako **pobřežní překážku** — vyskytuje se na historických fotografiích pláží **Omaha**, **Utah**, **Gold** i **Juno** z června 1944. Spojenecké inženýrské jednotky je musely před vyloděním **odstraňovat ručně nebo odstřelovat** (později i rámy před tanky Sherman).
 
 Název „Czech hedgehog" nebo „rozsocháč" se dnes ustálil jako **globální generický termín** pro tento typ překážky. V současnosti se rozsocháče znovu **vyrábějí pro Ukrajinu** (2022–2026) v řadě českých a slovenských fortifikačních společností — původní Kašíkův návrh z roku 1937 je po 90 letech opět aktuální technologie.
 
@@ -284,33 +279,32 @@ Na pohraničních silnicích a polních cestách byly budovány **uzávěry**, k
 | Kategorie | Stav k 30. 9. 1938 |
 |---|---|
 | **Kulometná výzbroj** | **≈ 95 %** dodáno |
-| **4cm pevnostní kanóny** | 222 kusů v objektech (z ~ 550 plánovaných = **40 %**) |
-| **10cm houfnice** | **0 %** dodáno (0 ks osazeno z 15 plánovaných tvrzí) |
+| **4cm pevnostní kanóny** | 222 kusů osazeno v objektech |
+| **10cm houfnice** | **0 %** dodáno (nebyla dodána ani jedna) |
 | **9cm minomety** | **0 %** dodáno (0 ks osazeno) |
-| **Pancéřové zvony a kopule** | 383 osazeno (**~ 95 %** dodaných) |
+| **Pancéřové zvony a kopule** | naprostá většina dodaných osazena |
 | **Rozsocháče a překážky** | **~ 80 %** plánu (v hlavních úsecích hotové) |
 
-**Celkový obraz:** Kulometná a pancéřová výbava byla ve stavu, který umožňoval **okamžité bojové nasazení** na 95 % linie. Protitanková výbava byla **osazena z cca 40 %**. **Pevnostní dělostřelectvo však v praxi neexistovalo** — tvrze byly schopné boje **jen pěchotními zbraněmi**, což zásadně snižovalo jejich strategickou hodnotu. Mnichovská dohoda tedy pro čs. obranu **zachránila nepřítele od konfrontace s plně dovyzbrojeným systémem**, který měl být podle ŘOP dokončen v letech 1941–1943.
+**Celkový obraz:** Kulometná a pancéřová výbava byla ve stavu, který umožňoval **okamžité bojové nasazení** na 95 % linie. Protitanková výbava byla **osazena z cca 40 %**. **Pevnostní dělostřelectvo však v praxi neexistovalo** — tvrze byly schopné boje **jen pěchotními zbraněmi**, což zásadně snižovalo jejich strategickou hodnotu. Mnichovská dohoda tedy pro čs. obranu **zachránila nepřítele od konfrontace s plně dovyzbrojeným systémem**, jehož hlavní etapy měly být dokončeny do začátku 40. let a celý program až v průběhu 50. let.
 
 ## Dnešní stav — co si můžete prohlédnout
 
 Původní fortifikační výzbroj se dochovala pouze **v malém množství** — většina byla zničena Wehrmachtem nebo sešrotována v 50. letech. Přesto jsou některé kusy a repliky dnes veřejně přístupné:
 
 - **Pěchotní srub N-S 82 Březinka** (Náchod) — **nejkompletněji vybavený** objekt v ČR s originální filtroventilací a rekonstruovanou strojovnou
-- **Tvrz Hanička** (Orlické hory) — **jediné dochované střílny pro 10cm houfnici** v ČR (osazené makety), pozorovací zvon AJ/P, kopule JA/D a JA/M
+- **Tvrz Hanička** (Orlické hory) — dochované střílny pro 10cm houfnici (osazené makety), pozorovací zvon a kulometné kopule
 - **Tvrz Skutina** (Rokytnice) — maketa kopule pro dvojče TK vz. 37, funkční repliky 4cm kanónu vz. 36 a dvojčat TK vz. 37
-- **MO-S 19 „Alej" Darkovičky** — kopule JA/M s dvojčetem TK, jediný ukázkově osazený objekt v Ostravsku
-- **R-S 87** (Orlické hory) — zvon AJ/N s originálním systémem uchycení LK vz. 26
+- **MO-S 19 „Alej" Darkovičky** — kopule s dvojčetem TK, ukázkově osazený objekt v Ostravsku
+- **R-S 87** (Orlické hory) — pancéřový zvon s originálním systémem uchycení LK vz. 26
 - **Pěchotní srub K-S 14 „U cihelny"** (Králíky) — originální pancéřové střílny pro těžký kulomet
 - **Vojensko-historické muzeum Králíky** — exponované originály 4cm kanónu vz. 36, ZB-53, LK vz. 26 a pancéřové komponenty
-- **Vojenský historický ústav Praha** (Invalidovna) — historická sbírka čs. pevnostní výzbroje
+- **Armádní muzeum Žižkov** (Vojenský historický ústav Praha) — historická sbírka čs. pevnostní výzbroje
 
 ## Zajímavá čísla
 
 - **34 000 LK vz. 26** ve výzbroji 1938 — dost pro vybavení 1 700 rot
 - **5 000 TK vz. 37** — jedna z nejmasověji vyráběných čs. zbraní vůbec
-- **12 000 kusů ZB-53 exportováno** — větší komerční úspěch než některé letouny a tanky první republiky
-- **222 × 4cm kanón vz. 36** instalováno — pro obranu linie to stačilo na cca **každý 8.–10. pěchotní srub**
+- **ZB-53 se exportoval v tisících kusů** — větší komerční úspěch než některé letouny a tanky první republiky
+- **222 × kanón vz. 36** instalováno — protitankovým kanónem byla vyzbrojena zhruba polovina pěchotních srubů
 - **0 × 10cm houfnice** v tvrzích — koncepce **celých dělostřeleckých tvrzí se v září 1938 opírala o neexistující zbraň**
 - **360 000 Kčs** — cena 1 kusu 4cm kanónu vz. 36 (ekvivalent 60 měsíčních platů inženýra)
-- **150 mil. Kčs** — odhadovaná celková cena pevnostní výzbroje dodané do září 1938

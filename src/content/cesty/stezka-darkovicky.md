@@ -1,6 +1,6 @@
 ---
 title: "Naučná stezka Darkovičky — Hlučínsko-Petřkovická linie"
-description: "Naučná stezka po Muzeu čs. opevnění Hlučín-Darkovičky — 4 km okruh, 10 zastavení, linie pěti pěchotních srubů MO-S 19 až MO-S 23 v originálním stavu. Ideální rodinný výlet z Ostravy."
+description: 'Naučná stezka po Areálu čs. opevnění Hlučín-Darkovičky — 4 km okruh po pěchotních srubech MO-S 18 „Obora“, MO-S 19 „Alej“ a MO-S 20 „Orel“ a lehkém objektu (řopíku). Ideální rodinný výlet z Ostravy.'
 region: "Moravskoslezský kraj"
 delka_km: 4
 delka_dni: 1
@@ -15,7 +15,7 @@ zastavky:
   - nazev: "Hlavní vstup a muzejní pokladna"
     typ: "muzeum"
     doba_minut: 30
-    poznamka: "Výchozí bod — parkoviště u muzea, rezervace vstupu, úvodní expozice. Kombinovaný vstup 120 Kč na všechna 3 otevřená muzea."
+    poznamka: "Výchozí bod — parkoviště u muzea, rezervace vstupu, úvodní expozice. Aktuální vstupné na webu Slezského zemského muzea."
   - nazev: "Protitankové překážky"
     typ: "muzeum"
     doba_minut: 15
@@ -34,43 +34,33 @@ zastavky:
     typ: "pevnost"
     doba_minut: 25
     poznamka: "Hlavní palebný objekt v linii — protitankový kanón vz. 36 v originální lafetě (replika)."
-  - slug: "mo-s-21"
-    nazev: 'MO-S 21 „Ostrý" (interiér otevřen od 2023)'
+  - slug: "mo-s-18-obora"
+    nazev: 'MO-S 18 „Obora" (interiér otevřen)'
     typ: "pevnost"
     doba_minut: 25
-    poznamka: "Nejnovější přírůstek muzejní expozice — otevřeno po rekonstrukci jaro 2023. Jiný typ pancéřového zvonu než sousední objekty."
-  - slug: "mo-s-22"
-    nazev: 'MO-S 22 „Hotovost" (externě)'
+    poznamka: "Třetí pěchotní srub areálu s muzejní expozicí."
+  - nazev: "Lehký objekt vz. 37 (řopík)"
     typ: "pevnost"
     doba_minut: 15
-    poznamka: "Pouze externě přístupný — odhalen sovětskou minou v 50. letech po vojenských cvičeních. Destruovaný objekt pro srovnání s rekonstruovanými sousedy."
-  - slug: "mo-s-23-na-chlupaci"
-    nazev: 'MO-S 23 „Vršek" (externě)'
-    typ: "pevnost"
-    doba_minut: 15
-    poznamka: "Poslední objekt linie, externě přístupný, na okraji pole — ideální pro fotografii objektu v krajině."
-  - nazev: "Podzemní dělostřelecká baterie (demonstrace)"
-    typ: "muzeum"
-    doba_minut: 20
-    poznamka: "Pedagogická rekonstrukce — ukázka, jak by vypadaly dělostřelecké objekty, kterých v linii Hlučín-Darkovičky byl nedostatek."
-  - nazev: "Pamětní místo a závěr"
+    poznamka: "Součást areálu — ukázka lehkého opevnění pro srovnání s pěchotními sruby."
+  - nazev: "Závěr okruhu"
     typ: "muzeum"
     doba_minut: 10
-    poznamka: "Pamětní kámen obětem mobilizace 1938 v Hlučínsku a závěrečná tabule shrnující výlet."
+    poznamka: "Návrat k parkovišti a muzejní pokladně."
 tags: ["turistika", "hlučín", "darkovičky", "ostrava", "rodinné"]
 cover: "/img/clanky/darkovicky-hero.jpg"
 updated: 2026-04-20
 ---
 
-**Naučná stezka Darkovičky** je **nejnavštěvovanější fortifikační stezka na Moravě** a zároveň jedna z nejrodinnějších. Provádí návštěvníka po kompletní **linii pěti pěchotních srubů** MO-S 19 až MO-S 23, kterou udržuje **Slezské zemské muzeum**. Stezka je vhodná pro všechny věkové kategorie, dobře dostupná z Ostravy a kombinuje **venkovní prohlídku** s **interiérovými expozicemi** tří otevřených objektů.
+**Naučná stezka Darkovičky** je **nejnavštěvovanější fortifikační stezka na Moravě** a zároveň jedna z nejrodinnějších. Provádí návštěvníka po pěchotních srubech **MO-S 18 „Obora"**, **MO-S 19 „Alej"** a **MO-S 20 „Orel"** a lehkém objektu (řopíku), které udržuje **Slezské zemské muzeum**. Stezka je vhodná pro všechny věkové kategorie, dobře dostupná z Ostravy a kombinuje **venkovní prohlídku** s **interiérovými expozicemi** tří otevřených objektů.
 
-![Pěchotní srub MO-S 19 „Alej" v aleji stromů — nejrekonstruovanější čs. srub s plně vybaveným interiérem. Foto: archiv ropiky.net](/img/forts/p-chotn-srub-mo-s-19-v-aleji.jpg)
+![Pěchotní srub MO-S 19 „Alej" v aleji stromů — nejrekonstruovanější čs. srub s plně vybaveným interiérem.](/img/forts/p-chotn-srub-mo-s-19-v-aleji.jpg)
 *MO-S 19 „Alej" — ikonický pohled, který se objevuje téměř ve všech publikacích o čs. opevnění.*
 
 ## Zvláštnosti stezky
 
-- **Nejkompletnější linie** — pět objektů v řadě, zkrácená verze toho, jak by fungovala celá pohraniční linie
-- **Tři otevřená muzea** — MO-S 19 Alej, MO-S 20 Orel a MO-S 21 Ostrý (od roku 2023)
+- **Objekty v původní bojové sestavě** — zkrácená verze toho, jak by fungovala celá pohraniční linie
+- **Tři otevřené sruby** — MO-S 18 „Obora", MO-S 19 „Alej" a MO-S 20 „Orel" (+ řopík)
 - **Originální rekvizity** — pancéřové zvony (repliky), lafety, kulomety
 - **Dobře přístupná** — 20 minut autem z Ostravy, 10 min pěšky z MHD
 - **Rodinná prohlídka** — děti se baví, dospělí se vzdělávají
@@ -86,15 +76,12 @@ updated: 2026-04-20
 - 11:30–12:00 — Přechod k Orlu
 - 12:00–12:30 — MO-S 20 Orel prohlídka
 - 12:30–13:30 — Oběd (bistro u muzea)
-- 13:30–14:00 — MO-S 21 Ostrý prohlídka
-- 14:00–15:00 — Zbylá zastavení 6–10
+- 13:30–14:00 — MO-S 18 Obora prohlídka
+- 14:00–15:00 — Zbylá zastavení (řopík, venkovní expozice)
 - 15:00 — Odjezd
 
-![MO-S 20 „Orel" — hlavní palebný objekt linie s protitankovým kanónem. Foto: archiv ropiky.net](/img/forts/darkovice-mo-s-20-2015-05-01-03-.jpg)
+![MO-S 20 „Orel" — hlavní palebný objekt linie s protitankovým kanónem.](/img/forts/darkovice-mo-s-20-2015-05-01-03-.jpg)
 *MO-S 20 „Orel" — střed linie, protitankový kanón vz. 36 v originální lafetě (replika).*
-
-![MO-S 23 „Vršek" — poslední objekt linie, externě přístupný. Foto: archiv ropiky.net](/img/forts/darkovice--mo-s-23--2015-05-01--01-.jpg)
-*MO-S 23 „Vršek" — ukázka srubu v krajině, ideální pro fotografii.*
 
 ## Pro rodiny s dětmi
 

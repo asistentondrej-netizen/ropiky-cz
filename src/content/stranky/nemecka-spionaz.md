@@ -18,7 +18,7 @@ related:
 
 Jedním z méně známých aspektů dějin ŘOP je rozsah, v jakém **německá vojenská rozvědka pronikla k technickým podkladům čs. opevnění ještě před Mnichovem**. Dokumenty dochované v Bundesarchivu dokládají, že Wehrmacht v letech **1936–1938**:
 
-- **Systematicky mapoval** průběh a hustotu obou fortifikačních linií (mírná, těžká)
+- **Systematicky mapoval** průběh a hustotu obou fortifikačních linií (lehké, těžké)
 - **Získával kopie konstrukčních nákresů** čs. objektů, včetně armování
 - **Stavěl věrné kopie čs. pevností** ve vlastních vojenských prostorech, aby na nich trénoval útočné postupy
 - **Identifikoval slabá místa** — pancéřové desky, pozorovací průzory, vchodové části
@@ -29,7 +29,7 @@ Po anexi Sudet (říjen 1938) už Němci měli **kompletní obrázek systému** 
 
 ![Výřez z německé špionážní mapy 1:300 000 — vyznačení čs. opevnění v Orlických horách a Jeseníkách (předválečné německé zpravodajství; zdroj germandocsinrussia.org)](/img/historie/bundesarchiv/spionazni-mapa-orlicke-hory-jeseniky.jpg)
 
-Tato mapa v měřítku 1:300 000 je ukázkou přesnosti, s jakou německá rozvědka znala rozmístění čs. pevností v klíčovém úseku **Orlické hory — Jeseníky**. Na mapě jsou vyznačeny nejen jednotlivé objekty lehkého opevnění, ale i tvrze Adam, Bouda, Hůrka a rozestavěná tvrz Hanička. V terénu se mapa shoduje s realitou s chybou menší než **jeden kilometr** — což odpovídalo operačním potřebám útočné přípravy.
+Tato mapa v měřítku 1:300 000 je ukázkou přesnosti, s jakou německá rozvědka znala rozmístění čs. pevností v klíčovém úseku **Orlické hory — Jeseníky**. Na mapě jsou vyznačeny nejen jednotlivé objekty lehkého opevnění, ale i tvrze Adam, Bouda, Hůrka a Hanička. V terénu se mapa shoduje s realitou s chybou menší než **jeden kilometr** — což odpovídalo operačním potřebám útočné přípravy.
 
 Získána byla pravděpodobně **kombinací zpravodajských operací, leteckého průzkumu a informantů** z řad sudetoněmeckého obyvatelstva, které mělo snadný přístup do pohraničních prostorů. Mapa pochází z fondů německých vojenských dokumentů přechovávaných dnes v ruských archivech (germandocsinrussia.org).
 
@@ -71,7 +71,7 @@ Střílny cvičných objektů byly typicky osazeny **německými pancéřovými 
 
 Tento nákres je snad **nejzávažnějším dokladem průniku německé špionáže** k technickým podkladům ŘOP — ukazuje detailní armování betonové skořepiny řopíku, což byl **interní konstrukční materiál** čs. stavebních firem. Získání tohoto typu nákresu vyžadovalo přístup k projekční dokumentaci buď přímo v ŘOP, nebo u **dodavatelských firem** (Škoda, Ing. Karel Skorkovský, Záruba-Pfeffermann atd.).
 
-Česká kontrarozvědka o průnicích věděla a v letech 1937–1938 proběhlo několik **procesů se špiony**, mezi nimiž byl např. **případ majora Josefa Bartíka** (německá vazba neprokázána) nebo inženýra **Viktora Vogela** (odsouzen 1937 za předávání fortifikačních podkladů). Přesto se zcela zabránit úniku nepodařilo.
+Česká kontrarozvědka o průnicích věděla a ve druhé polovině třicátých let proběhlo několik **procesů se špiony**. Přesto se zcela zabránit úniku nepodařilo.
 
 ## Německá varianta — inspirace čs. opevněním
 
@@ -81,7 +81,7 @@ Zajímavý paradox: **Wehrmacht si od čs. lehkého opevnění odnesl i konstruk
 
 - **Dvě pancéřové desky 6P7** v odolnosti B pro těžké kulomety (místo čs. kulometných desek)
 - **Vchodová deska 48P8** v odolnosti D
-- **Ocelové dveře 430P01** (namísto čs. 432P8)
+- **Ocelové dveře 430P01**
 
 Typologicky šlo o **transpozici čs. řešení do německého zbrojního ekosystému** — ukázka, že německá armáda uznala kvalitu čs. koncepce oboustranného objektu a v principu ji převzala.
 
@@ -91,7 +91,7 @@ Německé špionážní dokumenty jsou dnes pro studium ŘOP **mimořádně cenn
 
 1. **Zdroj alternativních technických údajů** — v čs. archivech se řada projekčních plánů ztratila během války nebo v 50. letech; Bundesarchiv je částečně nahrazuje
 2. **Doklad tehdejší mezinárodní reputace čs. opevnění** — Wehrmacht by do tak systematické špionáže neinvestoval, kdyby čs. systém nepovažoval za vážnou překážku
-3. **Historický kontext pro Mnichov** — ukazuje, že **Hitler měl v září 1938 přesný obrázek čs. obrany** a jeho odhad „ČSR vydrží 4–6 týdnů" nebyl blaf, ale závěr opřený o rozvědková data
+3. **Historický kontext pro Mnichov** — ukazuje, že **Hitler měl v září 1938 přesný obrázek čs. obrany**, opřený o rozvědková data
 
 ## Poznámka k autorským právům
 

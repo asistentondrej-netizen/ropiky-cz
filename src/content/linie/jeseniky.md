@@ -1,21 +1,21 @@
 ---
 title: "Jesenický úsek"
-description: "Opevnění v Jeseníkách a Nízkém Jeseníku — úsek pěchotních srubů a lehkých objektů mezi Bruntálem, Zlatými Horami a Rýmařovem. Méně slavný, ale v říjnu 1938 patřil k poslední obsazené části území."
+description: "Opevnění v Jeseníkách a Nízkém Jeseníku — lehké opevnění mezi Javorníkem, Zlatými Horami a Rýmařovem, těžké opevnění v navazujícím úseku Staré Město pod Sněžníkem. Méně slavný, ale v říjnu 1938 patřil k poslední obsazené části území."
 region: "Olomoucký / Moravskoslezský kraj"
 delka_km: 60
 pocet_objektu: 318
 pocet_planovano: 609
 pocet_realizovano: 318
-pocet_to: 90
+pocet_to: 15
 obdobi_stavby: "1937–1938"
-stav_dnes: "Řada srubů v lesních terénech, obtížnější dostupnost. Menší muzeum v Javorníku; jinak volně přístupné."
+stav_dnes: "Řada objektů v lesních terénech, obtížnější dostupnost; většinou volně přístupné."
 order: 30
 bounds:
   north: 50.35
   south: 49.90
   east: 17.70
   west: 17.00
-tags: ["jeseniky", "bruntal", "zlate-hory", "pechotni-srub"]
+tags: ["jeseniky", "bruntal", "zlate-hory", "ropik"]
 sources:
   - "Ráboň M.: Jesenicko v systému opevnění"
   - "Komunitní terénní průzkumy KVH Jeseník"
@@ -24,9 +24,9 @@ updated: 2026-04-21
 
 ## Strategický význam
 
-Jesenický úsek měl **sekundární roli** — nebyl určen k zastavení hlavního úderu, ale k **zpomalení vedlejších útočných os** směrem z Opavska na Olomouc a přes Zlaté Hory na Šumperk. Přesto zde **hustota pěchotních srubů dosáhla 1,9 objektů/km** — zčásti III. odolnosti, zčásti II.
+Jesenický úsek měl **sekundární roli** — nebyl určen k zastavení hlavního úderu, ale k **zpomalení vedlejších útočných os** směrem z Opavska na Olomouc a přes Zlaté Hory na Šumperk.
 
-Specifikem úseku je, že **stavba začala teprve v létě 1937** (pozdě oproti Ostravsku). V září 1938 bylo **dokončeno pouze ~60 % plánovaných objektů** — mnohé byly ve stavu hrubé betonáže bez výzbroje a pancéřování.
+Obrana v okolí Javorníku, Zlatých Hor a Bruntálu stála na **lehkém opevnění** — těžké opevnění se zde nestavělo. Pěchotní sruby vznikaly v navazujícím úseku **Staré Město pod Sněžníkem (StM)** na západním okraji Jeseníků. Stavba v oblasti začala **teprve v létě 1937** (pozdě oproti Ostravsku) a do září 1938 byla **dokončena jen část plánovaných objektů**.
 
 ## Průběh linie
 
@@ -34,21 +34,19 @@ Od **Javorníku** (hraniční pás u Moravy-Slezska) přes **Zlaté Hory** a **B
 
 ## Ikonické objekty
 
-- **JA-S 3 „Na vršku"** — severně od Javorníku, II. odolnost
-- **ZH-S 14 „U hradby"** — u Zlatých Hor, III. odolnost s pancéřovou kopulí
-- **BR-S 8 „Pod Praděděm"** — v Nízkém Jeseníku, volně přístupný
+- **Řopíkové linie v sedlech Jeseníků** — volně přístupné, v lesních terénech
+- **Pěchotní sruby úseku StM** (Staré Město pod Sněžníkem) — západní okraj oblasti
 
 ## Co se tu stalo v říjnu 1938
 
-Jesenický úsek patřil k **poslednímu předávanému** území — některé objekty byly opuštěny až **10. října 1938**. Posádky často odcházely pěšky v dešti a blátě přes Jeseníky do vnitrozemí — část jich strávila noc v opuštěných horských boudách. Tato **„cesta bez jídla"** je dodnes připomínána v lokálních pamětnících.
+Jesenický úsek patřil k **poslednímu předávanému** území — některé objekty byly opuštěny až **10. října 1938**. Posádky odcházely do vnitrozemí často pěšky přes hory, v podzimním dešti a blátě.
 
 ## Co navštívit
 
-1. **Vojenské muzeum Javorník** (menší, sezóna)
-2. **JA-S 3** (volně, 30 min)
-3. **ZH-S 14** (turistická trasa z Rejvízu, 2 h)
+1. **Řopíkové linie u Zlatých Hor** (turistické trasy, volně)
+2. **Sruby úseku Staré Město pod Sněžníkem** (exteriéry, celodenní výlet)
 
 ## Související obsah
 
-- [Pěchotní srub — typologie](/typologie/pechotni-srub)
+- [LO vz. 37 — řopík, typologie](/typologie/lo-vz-37)
 - [Osudy posádek po Mnichovu](/clanky/osudy-posadek-po-mnichovu)

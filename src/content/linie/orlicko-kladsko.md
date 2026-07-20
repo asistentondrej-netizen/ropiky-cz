@@ -6,7 +6,7 @@ delka_km: 85
 pocet_objektu: 760
 pocet_planovano: 1214
 pocet_realizovano: 760
-pocet_to: 223
+pocet_to: 60
 obdobi_stavby: "1936–1938"
 stav_dnes: "Výborně dochováno. Tvrze Bouda, Hanička, Dobrošov (v Náchodsku) jsou muzea s celoročním provozem."
 order: 20
@@ -27,7 +27,7 @@ updated: 2026-04-21
 
 Orlickými horami a Kladským pomezím vedla **nejdůležitější vnitrozemská linie** ČSR. Terén zde dává obránci přirozenou výhodu: strmé lesnaté svahy, úzké průsmyky, málo silnic. To bylo ideální pro **řetězec dělostřeleckých tvrzí** — kdykoli Wehrmacht narazil na strmé údolí, dopadly na něj salvy 10 cm houfnic z několika tvrzí současně.
 
-Úsek byl budován v **letech 1936–1938** a na rozdíl od Ostravska byly tvrze zde mnohem více **dokončené**. Bouda byla v září 1938 bojeschopná na ~90 %, Hanička na ~85 %.
+Úsek byl budován v **letech 1936–1938**. Tvrze Bouda a Hanička byly v září 1938 **stavebně dokončené**, další zůstaly rozestavěné.
 
 ## Průběh linie
 
@@ -40,24 +40,22 @@ Severně od linie stojí **Kladsko** (tehdy a dnes opět polské území). Linie
 ## Dělostřelecké tvrze úseku
 
 ### [Tvrz Bouda](/tvrze/bouda)
-- 6 srubů + vchodový objekt + dělostřelecký srub
-- Stupeň dokončení září 1938: **~90 %**
-- Dnes: **muzeum s prohlídkami celoroční sezony**
-- Unikátní: jediná tvrz v ČR, která byla **zcela dokončena včetně elektroinstalace, ventilace a vzdušné armatury** — lze vidět původní stav
+- 5 objektů: bojové sruby K-S 21, K-S 22, K-S 23 a K-S 24 + vchodový objekt K-S 22a; dělostřelecký srub tvrz neměla
+- V září 1938 **stavebně dokončena**
+- Dnes: **muzeum s prohlídkami**
 
 ### [Tvrz Hanička](/tvrze/hanicka)
-- 6 srubů + vchod + dělostřelecký srub
-- Po roce 1975 využita jako **Kahan** — protiatomový kryt MV ČSSR
+- 6 objektů R-S 76 až R-S 80 včetně vchodového R-S 79a; **stavebně dokončena**
+- Od roku 1975 do počátku 90. let přestavována v rámci projektu **Kahan** pro federální ministerstvo vnitra ČSSR
 - Dnes: **muzeum, hybridní expozice (ŘOP + studená válka)**
 
 ### [Tvrz Adam](/tvrze/adam)
-- 5 srubů + vchod + dělostřelecký srub
-- Menší a více v lese skrytá než Bouda
-- Dnes volně přístupná zvenku, sporadické prohlídky
+- **Stavebně dokončená** tvrz skrytá v lese
+- Dnes veřejnosti **nepřístupná** — objekty lze vidět jen zvenku
 
 ### [Tvrz Dobrošov](/tvrze/dobrosov)
-- **Rozestavěná** (říjen 1938 dokončená cca z 50 %)
-- Nejsilnější **muzeum ŘOP v ČR** — podzemí lze projít v plné délce, výborná expozice
+- **Rozestavěná** tvrz (~600 m n. m.)
+- Dnes **muzeum** (spravuje Muzeum Náchodska) — podzemí lze projít, výborná expozice
 - U Náchoda, snadno dostupná
 
 ### Tvrz Skutina (nedokončená)
@@ -66,14 +64,13 @@ Severně od linie stojí **Kladsko** (tehdy a dnes opět polské území). Linie
 
 ## Ikonické pěchotní sruby
 
-- **R-S 74 „Na holém"** (Nad Ogradou) — nejvýše položený srub ČSR (1 018 m n. m.)
-- **R-S 79 „Na mýtině"** — dobře dochovaný, volně přístupný
+- **R-S 74 „Na holém"** — jeden z nejvýše položených srubů ČSR
 - **N-S 82 „Březinka"** — u Náchoda, zpřístupněný jako muzejní objekt
-- **N-S 75 „Zahrada"** — součást dobrošovské linie
+- **N-S 75 „Zelený"** — dělostřelecký srub tvrze Dobrošov
 
 ## Co se tu stalo v říjnu 1938
 
-Posádky tvrze Bouda odcházely **5. října 1938**. Velitel tvrze pplk. František Stráník trval na tom, že tvrz předá **osobně Wehrmachtu se všemi klíči a protokoly** — aby si nikdo nemohl říct, že ji vojáci zničili při útěku. Udělal to ve stavu plné uniformy s řádovou šerpou.
+Posádky opouštěly tvrze a sruby v prvních říjnových dnech roku 1938 — bez boje, na rozkaz, v důsledku mnichovské dohody. Pro mnohé vojáky šlo o nejtěžší okamžik jejich služby.
 
 ## Co navštívit — 2–3denní okruh
 
@@ -83,8 +80,7 @@ Posádky tvrze Bouda odcházely **5. října 1938**. Velitel tvrze pplk. Franti�
 - Tvrz Adam (exteriér 1 h)
 
 **Den 2 — Rokytnice a okolí:**
-- Tvrz Hanička (prohlídka + kryt Kahan 3 h)
-- R-S 79 „Na mýtině" (30 min)
+- Tvrz Hanička (prohlídka + expozice Kahan 3 h)
 - R-S 74 (náročnější pěšky)
 
 **Den 3 — Náchodsko:**

@@ -17,9 +17,6 @@ tech:
   odolnost: IV
   stupenDokonceni: rozestaveny
   typObjektu: Dělostřelecká tvrz
-  komponenty:
-    - pancerovy-zvon
-    - kopule-pozorovaci
 stavba:
   projektant: Ředitelství opevňovacích prací (ŘOP)
   dokonceni: 1938 (nedokončeno)

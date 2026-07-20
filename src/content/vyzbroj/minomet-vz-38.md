@@ -53,15 +53,11 @@ Zásoba min v pevnostním srubu: **300–500 kusů** podle velikosti objektu.
 
 ## V boji 1938
 
-**Žádný čs. minomet vz. 38 v pevnostní konfiguraci nebyl nasazen do bojového použití.** Zbraně byly v září 1938 většinou **ještě ve výrobě** u Škody — jen málo kusů se dostalo do objektů. Po Mnichovu Wehrmacht zbavil objekty výzbroje a minomety převezl do Německa, kde se jimi nepokračovalo (německá armáda měla vlastní 8 cm minomet sGrW 34).
-
-Po roce 1945 byla **malá série minometů vz. 38 obnovena** v ČSLA pro experimentální použití v rámci **projektu Kahan** (poválečné využití tvrze Hanička), ale do sériové výroby se nevrátily.
+**Žádný čs. minomet vz. 38 v pevnostní konfiguraci nebyl nasazen do bojového použití.** Zbraň se do objektů vůbec nedostala — **žádný minomet vz. 38 nebyl namontován**.
 
 ## Kde ho uvidíte
 
-- **Tvrz Hanička** — minometná místnost s replikou v původní konfiguraci
 - **Tvrz Bouda** — minometná šachta (bez zbraně) viditelná v expozici
-- **VTM Lešany** — originální kus v nálezu
 
 ## Související obsah
 

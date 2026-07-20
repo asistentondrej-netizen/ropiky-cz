@@ -18,17 +18,13 @@ related:
 | Parametr | Maginotova linie | Československé opevnění (ŘOP) |
 |---|---|---|
 | **Doba výstavby** | 1929–1939 (10 let) | 1935–1938 (3,5 roku) |
-| **Celkové náklady** | 9 miliard FF (dobových, ekvivalent ~50 mld. USD dnes) | 8,5 miliard Kč (ekv. ~9 mld. USD dnes) |
-| **Počet objektů — těžké** | 152 objektů (z toho 58 dělostřeleckých tvrzí) | 264 objektů (těžké opevnění + části 10 tvrzí, plánováno 15) |
-| **Počet objektů — lehké** | 352 objektů (Casemates Pamart a malé stanoviště) | 9 632 objektů (řopíky vz. 37) |
-| **Celková délka linie** | 720 km | 1 600 km |
-| **Hustota objektů (těžké na 10 km)** | 2,1 | 1,65 |
-| **Hustota objektů (lehké na 10 km)** | 4,9 | 60,2 |
-| **Maximální odolnost** | IV. stupeň (stěny 350 cm) | IV. stupeň (stěny 350 cm) |
-| **Hlavní výzbroj — kulomet** | Reibel MAC 1931 (vzduchové chlazení) | ZB vz. 37 (vodní chlazení, vyšší palebná rychlost) |
-| **Dělostřelectvo — ráže** | 75 mm + 135 mm (dělostřelecké tvrze) | 100 mm + 120 mm (plánováno, nedokončeno) |
-| **Počet vojáků v linii (mobilizace)** | ~450 000 | ~350 000 |
-| **Mobilizace čas** | 72 hodin | 24 hodin |
+| **Počet objektů — těžké** | ~142 *ouvrages* | 263 objektů těžkého opevnění (13 tvrzí zadáno, 8 zahájeno, 5 stavebně dokončeno) |
+| **Počet objektů — lehké** | ~350 samostatných kasemat | 9 632 objektů (řopíky vz. 37) |
+| **Celková délka linie** | ~720 km | linie po celém obvodu státu (plán) |
+| **Maximální odolnost** | stěny až 350 cm | stěny až 350 cm (stupeň IV) |
+| **Hlavní výzbroj — kulomet** | Reibel MAC 1931 | ZB vz. 37 (oba vzduchem chlazené) |
+| **Dělostřelectvo — ráže** | 75 mm + 135 mm (dělostřelecké tvrze) | 100 mm (plánováno, nedodáno) |
+| **Počet vojáků v linii (mobilizace)** | statisíce | statisíce |
 
 ## Kde byla ČSR lepší
 
@@ -42,15 +38,14 @@ related:
 
 ### 2. Hustota lehkého opevnění
 
-**ČSR měla 12× hustší síť lehkého opevnění.** 60 řopíků/10 km vs. 5 lehkých objektů/10 km ve Francii. Co to znamená v praxi:
+**ČSR vsadila na výrazně hustší síť lehkého opevnění.** Souvislé linie řopíků vyplňovaly prostor mezi těžkými objekty. Co to znamenalo v praxi:
 
-- Každý úsek terénu **měl křížovou palbu minimálně 3 lehkých objektů**.
-- **Krytí mezer** mezi těžkými objekty bylo úplné — v Maginotově linii byly mezi tvrzemi **stovky metrů nekryté**, v ŘOP nanejvýš **80 metrů**.
-- **Rychlejší mobilizace** — lehké objekty obsazovaly místní jednotky (obvykle hasičské sbory, SOS), těžké objekty až vojáci.
+- Každý úsek terénu měl být pokryt **překrývající se boční palbou** sousedních objektů.
+- **Krytí mezer** mezi těžkými objekty bylo podstatně úplnější než u Maginotovy linie.
 
-### 3. Rychlost mobilizace
+### 3. Rychlost obsazení linie
 
-**ČSR mobilizovala za 24 hodin, Francie za 72 hodin.** Čs. systém obsazování objektů byl promyšlenější — **SOS (Stráž obrany státu)** obsazovala lehké opevnění do 12 hodin, profesionální pěchotní jednotky těžké objekty do 24 hodin.
+Čs. systém obsazování objektů byl promyšlený — **Stráž obrany státu** (četnictvo, finanční stráž a policie posílené vojskem) držela pohraničí nepřetržitě a mohla lehké objekty obsadit velmi rychle, ještě před dokončením mobilizace polní armády.
 
 ### 4. Výzbroj — kvalita
 
@@ -60,17 +55,17 @@ related:
 |---|---|---|
 | Ráže | 7,92 × 57 mm | 7,5 × 54 mm |
 | Palebná rychlost | 800 ran/min | 750 ran/min |
-| Chlazení | Vodní (trvalá palba) | Vzduchové (přestávky nutné) |
+| Chlazení | Vzduchové | Vzduchové |
 | Hmotnost | 18,6 kg | 19,3 kg |
 | Spolehlivost | Výborná | Dobrá |
 
-**Protitankový kanón 3,7 cm vz. 36** byl srovnatelně dobrý jako francouzský **Canon de 25 mm SA 34** — oba proti většině tanků roku 1938 účinné.
+**Pevnostní 4cm kanón vz. 36** (skutečná ráže 47 mm) byl přinejmenším srovnatelný s francouzskými protitankovými kanóny — proti většině tanků roku 1938 byl vysoce účinný.
 
 ## Kde byla Maginotova linie lepší
 
 ### 1. Dělostřelecké tvrze — dokončenost
 
-**Francouzi měli 58 plně dokončených dělostřeleckých tvrzí. ČSR měla 10 rozestavěných, žádná nebyla plně dokončena.** To je největší deficit čs. opevnění — **chybějící dělostřelecká palba** znamenala, že pěchotní sruby nebyly kryty hloubkovým ostřelováním.
+**Francouzi měli desítky plně dokončených a vyzbrojených dělostřeleckých tvrzí. ČSR zahájila stavbu 8 tvrzí a 5 jich stavebně dokončila — žádná ale nedostala hlavní dělostřeleckou výzbroj.** To je největší deficit čs. opevnění — **chybějící dělostřelecká palba** znamenala, že pěchotní sruby nebyly kryty hloubkovým ostřelováním.
 
 ### 2. Infrastruktura — železnice, silnice
 
@@ -78,7 +73,7 @@ Maginotova linie měla **vybudovanou doprovodnou infrastrukturu**: úzkorozchodn
 
 ### 3. Podzemí — rozsah
 
-Největší francouzské tvrze (Hochwald, Simserhof) měly **20–30 km podzemních tunelů**. Největší čs. tvrz Stachelberg byla plánována na **4 km tunelů**, dokončena **60 m** (3 %).
+Největší francouzské tvrze (Hochwald, Simserhof) měly **kilometry podzemních chodeb**. Největší plánovaná čs. tvrz Stachelberg měla v září 1938 vyraženo zhruba **3,5 km hrubých chodeb** — dokončit se je už nepodařilo.
 
 ## Proč obě linie selhaly — odlišné důvody
 
@@ -101,11 +96,11 @@ V obou případech **posádky chtěly bojovat** a většinou neobstály jen prot
 Po 1945 obě linie **našly druhotné použití**:
 
 - **Maginotova linie** — některé tvrze jako sklady NATO v 50.–80. letech, některé jako atomové bunkry pro francouzskou vládu.
-- **ČSR** — projekt Kahan v 70.–80. letech (Hanička, Javořina), sklady ČSLA, muzea od 90. let.
+- **ČSR** — projekt Kahan na Haničce (od poloviny 70. let do počátku 90. let), sklady ČSLA, muzea od 90. let.
 
 ### 4. Muzejní obrození v 90. a 00. letech
 
-Obě země od 90. let **systematicky zpřístupňují opevnění veřejnosti**. V ČR přes 40 muzejních expozic, ve Francii přes 60. Opevnění se stalo **fenoménem pevnostního cestovního ruchu** přitahujícím zájem historických nadšenců z celé Evropy.
+Obě země od 90. let **systematicky zpřístupňují opevnění veřejnosti** — v obou dnes fungují desítky muzejních expozic. Opevnění se stalo **fenoménem pevnostního cestovního ruchu** přitahujícím zájem historických nadšenců z celé Evropy.
 
 ## Co nám to říká dnes
 
@@ -121,14 +116,11 @@ Srovnání Maginotovy linie a ŘOP ukazuje, že **samotná fortifikace nikdy ner
 ## Další čtení
 
 - **[Proč opevnění neodolalo — aneb Mnichov nebyl poražením betonu](/clanky/proc-opevneni-neodolalo-mnichov)** — detailní analýza mnichovského rozhodnutí.
-- **[Osudy posádek po Mnichovu](/clanky/osudy-posadek-po-mnichovu)** — co se stalo s 350 000 vojáky.
+- **[Osudy posádek po Mnichovu](/clanky/osudy-posadek-po-mnichovu)** — co se stalo se statisíci vojáků z pohraničí.
 - **[Chronologie ŘOP 1935–1938](/clanky/chronologie-rop-1935-1938)** — detailní data výstavby.
 
 ## Zdroje
 
-- STEHLÍK, Eduard. *Československé opevnění v evropském kontextu.* Praha: FORTIFICATIO, 2016.
 - KAUFMANN, J. E., KAUFMANN, H. W. *The Maginot Line — None Shall Pass.* Westport: Praeger, 1997.
-- DELVILLE, Philippe. *La Ligne Maginot — 1928–2019.* Paris: Éditions Heimdal, 2019.
-- MANDEL, René. *Les fortifications de la Ligne Maginot.* Association des Amis de la Ligne Maginot Alpine, 2010.
-- HANZLÍK, František. *Srovnávací analýza fortifikačních systémů 30. let.* Vojenská historie, 2012, č. 4.
-- Vojenský historický ústav Praha — fond Srovnávací studie ŘOP 1945 (odtajněno 1995).
+- STEHLÍK, Eduard. *Lexikon těžkých objektů československého opevnění.* FORTprint.
+- RÁBOŇ, M. a kol. *Val na obranu republiky.* 2005.
