@@ -201,7 +201,7 @@ Pokud cyklo odpadá (zdravotní důvody, počasí, malé děti):
 
 ## Praktické informace
 
-**Půjčovna kol ve Valticích:** v sezóně otevřené dvě půjčovny v centru města. Cena cca 400 Kč / den (treková/horská kola). Rezervace víkendů 3 dny předem v létě.
+**Půjčovna kol ve Valticích:** v sezóně jsou v centru města půjčovny trekových a horských kol. Ceny i otevírací dobu si ověřte předem, o letních víkendech se vyplatí rezervace.
 
 **Oběd na trase:**
 - *Trasa 1:* Restaurace v centru Valtic nebo pizzerie Apollon u Hlohoveckého rybníka

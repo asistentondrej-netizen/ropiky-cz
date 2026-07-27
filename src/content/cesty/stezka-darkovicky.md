@@ -1,125 +1,115 @@
 ---
-title: "Naučná stezka Darkovičky — Hlučínsko-Petřkovická linie"
-description: 'Naučná stezka po Areálu čs. opevnění Hlučín-Darkovičky — 4 km okruh po pěchotních srubech MO-S 18 „Obora“, MO-S 19 „Alej“ a MO-S 20 „Orel“ a lehkém objektu (řopíku). Ideální rodinný výlet z Ostravy.'
+title: "Naučná stezka Darkovičky — devět srubů hlučínské linie"
+description: 'Areál čs. opevnění Hlučín-Darkovičky a naučná stezka, která na něj navazuje — pěchotní sruby MO-S 18 „Obora“, MO-S 19 „Alej“ a MO-S 20 „Orel“, lehký objekt vz. 37 a dalších šest srubů v okolí. Nejsnáze dostupná pevnostní expozice z Ostravy.'
 region: "Moravskoslezský kraj"
-delka_km: 4
+delka_km: 7
 delka_dni: 1
 obtiznost: "snadna"
 rocni: "sezonne-duben-rijen"
 doprava: "auto-chuze"
 startPoint:
-  nazev: "Muzeum čs. opevnění Hlučín-Darkovičky (parkoviště)"
+  nazev: "Areál čs. opevnění Hlučín-Darkovičky (parkoviště)"
   lat: 49.9389
   lon: 18.1631
 zastavky:
-  - nazev: "Hlavní vstup a muzejní pokladna"
+  - nazev: "Vstup do areálu a venkovní expozice"
     typ: "muzeum"
     doba_minut: 30
-    poznamka: "Výchozí bod — parkoviště u muzea, rezervace vstupu, úvodní expozice. Aktuální vstupné na webu Slezského zemského muzea."
-  - nazev: "Protitankové překážky"
-    typ: "muzeum"
-    doba_minut: 15
-    poznamka: "Rekonstruované pole ocelových ježků a betonových zátarasů — ukázka, jak vypadaly objekty před frontem."
+    poznamka: "Výchozí bod — parkoviště, pokladna, rekonstruované ženijní překážky a protitankový příkop v okolí objektů."
   - slug: "mo-s-19-alej"
-    nazev: 'MO-S 19 „Alej" (interiér otevřen)'
+    nazev: 'MO-S 19 „Alej"'
+    typ: "pevnost"
+    doba_minut: 45
+    poznamka: "Hlavní objekt expozice — oboustranný dvoukřídlý pěchotní srub III. stupně odolnosti s vybaveným interiérem. Veřejnosti zpřístupněn 28. září 1988."
+  - slug: "mo-s-20-orel"
+    nazev: 'MO-S 20 „Orel"'
+    typ: "pevnost"
+    doba_minut: 45
+    poznamka: "Tvrzový pěchotní srub nikdy nedokončené dělostřelecké tvrze Orel, nejvyšší IV. stupeň odolnosti. Šachta je hluboká přes 26 metrů."
+  - slug: "mo-s-18"
+    nazev: 'MO-S 18 „Obora"'
     typ: "pevnost"
     doba_minut: 30
-    poznamka: "Nejrekonstruovanější srub v ČR — plně vybavený interiér s lůžky, lafetami, pancéřovým zvonem. Prohlídka s průvodcem v každou celou hodinu."
-  - nazev: "Polní opevnění mezi objekty"
-    typ: "muzeum"
-    doba_minut: 15
-    poznamka: "Rekonstruovaný úsek zákopů, kulometných hnízd a drátěných zátarasů — ukazuje, jak polní opevnění doplňovalo betonové objekty."
-  - slug: "mo-s-20-orel"
-    nazev: 'MO-S 20 „Orel" (interiér otevřen)'
-    typ: "pevnost"
-    doba_minut: 25
-    poznamka: "Hlavní palebný objekt v linii — protitankový kanón vz. 36 v originální lafetě (replika)."
-  - slug: "mo-s-18-obora"
-    nazev: 'MO-S 18 „Obora" (interiér otevřen)'
-    typ: "pevnost"
-    doba_minut: 25
-    poznamka: "Třetí pěchotní srub areálu s muzejní expozicí."
-  - nazev: "Lehký objekt vz. 37 (řopík)"
+    poznamka: "Samostatný pěchotní srub II. stupně odolnosti. Režim zpřístupnění interiéru se liší podle sezóny — ověřte na webu muzea."
+  - nazev: "Lehký objekt vz. 37, typ A-140 Z"
     typ: "pevnost"
     doba_minut: 15
-    poznamka: "Součást areálu — ukázka lehkého opevnění pro srovnání s pěchotními sruby."
-  - nazev: "Závěr okruhu"
-    typ: "muzeum"
-    doba_minut: 10
-    poznamka: "Návrat k parkovišti a muzejní pokladně."
+    poznamka: "Řopík rekonstruovaný do stavu roku 1938 — lafety, periskopy, ventilátor, ženijní nářadí. Interiér se otevírá zpravidla při akcích."
+  - nazev: 'Pokračování po zelené k MO-S 21 „U Jaroše"'
+    typ: "pevnost"
+    doba_minut: 45
+    poznamka: "Srub mimo areál muzea, od roku 2005 v péči skupiny nadšenců. Prohlídky po domluvě, každoročně akce Opevněná hranice."
+  - nazev: 'MO-S 22 „František" a MO-S 23 „Chlupáč"'
+    typ: "pevnost"
+    doba_minut: 40
+    poznamka: "Další dva sruby na trase stezky, přístupné zvenku."
+  - nazev: 'MO-S 24 „Signál" — konec stezky'
+    typ: "pevnost"
+    doba_minut: 20
+    poznamka: "Poslední objekt značené trasy. Zpět k parkovišti stejnou cestou nebo po polních cestách."
 tags: ["turistika", "hlučín", "darkovičky", "ostrava", "rodinné"]
 cover: "/img/clanky/darkovicky-hero.jpg"
-updated: 2026-04-20
+updated: 2026-07-27
 ---
 
-**Naučná stezka Darkovičky** je **nejnavštěvovanější fortifikační stezka na Moravě** a zároveň jedna z nejrodinnějších. Provádí návštěvníka po pěchotních srubech **MO-S 18 „Obora"**, **MO-S 19 „Alej"** a **MO-S 20 „Orel"** a lehkém objektu (řopíku), které udržuje **Slezské zemské muzeum**. Stezka je vhodná pro všechny věkové kategorie, dobře dostupná z Ostravy a kombinuje **venkovní prohlídku** s **interiérovými expozicemi** tří otevřených objektů.
+Na Hlučínsku stojí vedle sebe dvě věci, které se jinde v Česku takhle nepotkávají: **muzejní areál se třemi vybavenými pěchotními sruby** a **značená stezka, která na něj navazuje a vede kolem dalších šesti objektů téže linie**. Dohromady z toho vychází výlet, kde si nejdřív prohlédnete srub zevnitř tak, jak vypadal v roce 1938, a pak vidíte ještě šest jeho sousedů v původním terénu.
 
-![Pěchotní srub MO-S 19 „Alej" v aleji stromů — nejrekonstruovanější čs. srub s plně vybaveným interiérem.](/img/forts/p-chotn-srub-mo-s-19-v-aleji.jpg)
+![Pěchotní srub MO-S 19 „Alej" v aleji stromů — hlavní objekt darkovické expozice.](/img/forts/p-chotn-srub-mo-s-19-v-aleji.jpg)
 *MO-S 19 „Alej" — ikonický pohled, který se objevuje téměř ve všech publikacích o čs. opevnění.*
 
-## Zvláštnosti stezky
+## Co je co: areál a stezka nejsou totéž
 
-- **Objekty v původní bojové sestavě** — zkrácená verze toho, jak by fungovala celá pohraniční linie
-- **Tři otevřené sruby** — MO-S 18 „Obora", MO-S 19 „Alej" a MO-S 20 „Orel" (+ řopík)
-- **Originální rekvizity** — pancéřové zvony (repliky), lafety, kulomety
-- **Dobře přístupná** — 20 minut autem z Ostravy, 10 min pěšky z MHD
-- **Rodinná prohlídka** — děti se baví, dospělí se vzdělávají
+**Areál čs. opevnění Hlučín-Darkovičky** provozuje **Slezské zemské muzeum**. Tvoří jej tři těžké objekty — **MO-S 18 „Obora"**, **MO-S 19 „Alej"** a **MO-S 20 „Orel"** — a **lehký objekt vz. 37 typu A-140 Z**, tedy klasický řopík, rekonstruovaný do stavu z roku 1938 včetně lafet, periskopů a ženijního nářadí. Okolí objektů doplňují rekonstruované ženijní zátarasy a protitankový příkop.
 
-## Doporučený plán dne
+**Naučná stezka** je samostatná věc. Je značená zeleně, měří zhruba 6,5 kilometru a vede od srubu **MO-S 16 „Rozcestí"** až k **MO-S 24 „Signál"**. Cestou míjí devět fortifikačních objektů — vedle tří muzejních ještě **MO-S 17 „Štipky"**, **MO-S 21 „U Jaroše"**, **MO-S 22 „František"** a **MO-S 23 „Chlupáč"**. Trasa je vhodná pro pěší i na kolo.
 
-**Standardní rodinný výlet (4 h):**
+MO-S 21 „U Jaroše" má od roku 2005 vlastní správce — skupinu nadšenců, která objekt postupně rekonstruuje a pořádá u něj akci Opevněná hranice. Prohlídky bývají po domluvě.
 
-- 10:00 — Příjezd, parkování
-- 10:00–10:30 — Úvodní expozice
-- 10:30–11:00 — Stezka začátek (zastavení 1–2)
-- 11:00–11:30 — MO-S 19 Alej prohlídka
-- 11:30–12:00 — Přechod k Orlu
-- 12:00–12:30 — MO-S 20 Orel prohlídka
-- 12:30–13:30 — Oběd (bistro u muzea)
-- 13:30–14:00 — MO-S 18 Obora prohlídka
-- 14:00–15:00 — Zbylá zastavení (řopík, venkovní expozice)
-- 15:00 — Odjezd
+## Historie objektů
 
-![MO-S 20 „Orel" — hlavní palebný objekt linie s protitankovým kanónem.](/img/forts/darkovice-mo-s-20-2015-05-01-03-.jpg)
-*MO-S 20 „Orel" — střed linie, protitankový kanón vz. 36 v originální lafetě (replika).*
+Sruby vznikly ve **3. stavebním podúseku Hlučín**. Stavbu zahájila firma **V. Nekvasil a. s. Praha 7. dubna 1936**. Betonáž MO-S 20 „Orel" proběhla **5.–11. července 1936** a spotřebovala 2 856 m³ betonu — objekt měl být součástí dělostřelecké tvrze Orel, ke které se nikdy nedostavěl zbytek.
+
+V září 1938 sruby obsadily osádky **4. hraničářského pluku**. Po mnichovské dohodě je opustily bez boje. Německá armáda pak objekty devastovala vytrháváním pancéřových zvonů a střílen hlavních zbraní; **MO-S 20 „Orel" byl navíc zkušebně postřelován**. V letech 1944–1945 Wehrmacht objekty znovu upravoval k obraně proti Rudé armádě a Orel se za ostravské operace na jaře 1945 stal jedním z opěrných bodů německé obrany — ustupující jednotky odstřelily schodiště v jeho šachtě.
+
+Rekonstrukce začala v roce **1980** pod tehdejším Muzeem revolučních bojů v Ostravě, hlavním propagátorem byl **Jan Polášek**. V roce **1984** byly objekty převzaty k obnově, mimo jiné se podařilo vyzvednout tři pancéřové zvony o hmotnosti přes dvacet tun. Pravidelný provoz začal **28. září 1988**, do Slezského zemského muzea byl areál začleněn v roce **1992**.
+
+![MO-S 20 „Orel" — tvrzový srub nedokončené dělostřelecké tvrze.](/img/forts/darkovice-mo-s-20-2015-05-01-03-.jpg)
+*MO-S 20 „Orel" — nejvyšší, IV. stupeň odolnosti; objekt nikdy nedokončené tvrze.*
+
+## Jak si den rozvrhnout
+
+Rozumný plán je začít **muzejní částí dopoledne** (počítejte se dvěma až třemi hodinami na tři sruby a řopík) a **odpoledne projít stezku** k dalším objektům. Kdo chce jen muzeum, vystačí s půldnem; kdo chce celou stezku tam i zpět, ať počítá s celým dnem.
+
+Prohlídky interiérů vedou průvodci. **Aktuální otevírací dobu, provozní dny i vstupné najdete na webu Slezského zemského muzea** — mimo hlavní sezónu bývá režim omezený a řopík se otevírá zpravidla jen při akcích.
+
+→ [Areál čs. opevnění Hlučín-Darkovičky na szm.cz](https://www.szm.cz/rubrika/41/expozicni-arealy/areal-cs-opevneni-hlucin-darkovicky.html)
 
 ## Pro rodiny s dětmi
 
-Darkovičky jsou **nejvíce rodinná stezka** ze všech velkých fortifikačních výletů. Pro děti nabízí:
-
-- **Interaktivní panel v muzeu** — „Postav si svůj srub" s magnetickými dílky
-- **Prohlídka uniforem** — oděvy čs. armády z roku 1938 pro vyzkoušení
-- **Krátké prohlídky** — 25–30 min, dětská pozornost vydrží
-- **Kolem stezky:** dětské hřiště u parkoviště, občerstvení
-
-Vhodné **od 6 let**, optimální od 8–10 let (kdy dítě rozumí historickému kontextu).
+Darkovičky patří k nejpřístupnějším fortifikačním cílům v zemi — terén je rovinatý, vzdálenosti mezi muzejními objekty krátké a interiér MO-S 19 je vybavený tak, že si i mladší děti dokážou představit, jak se v srubu žilo. Rozumné je začít od **osmi až deseti let**, kdy dítě už udrží pozornost při výkladu.
 
 ## Co si vzít
 
-- **Pevné boty** — stezka je polní, v blátě po dešti
-- **Teplé oblečení** — v srubech 10 °C
-- **Pláštěnka** (Slezsko je deštivá oblast)
-- **Foťák** — rekonstruované interiéry jsou fotogenické, bez blesku
-- **Svačina** — i když je bistro, mezi jednotlivými zastaveními 15–20 min
-- **Kapesné na souvenýry** — muzeum má zajímavý obchod (knihy, modely, upomínkové kovové mince)
+- **Pevné boty** — mezi objekty vedou polní a lesní cesty, po dešti blátivé
+- **Teplé oblečení** — v srubech je i v létě chladno
+- **Pláštěnka**
+- **Foťák** — rekonstruované interiéry jsou fotogenické, blesk podle pokynů průvodce
+- **Svačina a voda** — v samotném areálu s občerstvením nepočítejte
 
 ## Doprava
 
-- **Auto:** D1/D56 → Ostrava → silnice 56 → Darkovičky (30 min z Ostravy, 3 h z Prahy)
-- **Vlak:** Ostrava hl. nádr. → Hlučín (bus 300 linka) → pěšky 15 min
-- **MHD Ostrava:** linka 400 z Ostravy-Poruby do Darkovic, pak 10 min pěšky
-- **Parkování:** zdarma u vchodu do muzea (50 míst)
+- **Autem:** nejjednodušší varianta, z Ostravy zhruba půl hodiny. U areálu je parkoviště zřízené při rekonstrukci.
+- **Vlakem:** pozor — **trať Opava východ – Hlučín je od povodně v září 2024 mimo provoz**. Je zavedena náhradní autobusová doprava, obnovení provozu se plánuje na podzim 2027.
+- **Autobusem:** Hlučín je zapojen do integrovaného systému ODIS; spojení si ověřte v [ODIS](https://www.kodis.cz) nebo v IDOS.
 
-## Otevírací doba
+## Kam dál na Ostravsku
 
-- **Hlavní sezóna** (duben–říjen): středa–neděle 9:00–17:00
-- **Letní sezóna** (červenec–srpen): úterý–neděle 9:00–18:00
-- **Zimní sezóna** (listopad–březen): **uzavřeno**, stezku lze projít externě
-- **Prázdniny** otevřeno i v pondělí
+- **MO-S 5 „Na trati"** ve Starém Bohumíně — dva objekty spojené dvaadvacetimetrovou chodbou pod železničním náspem, kulturní památka. Spravuje KVH Bohumín, [bunkr-bohumin.cz](https://www.bunkr-bohumin.cz/).
+- **OP-S 25 „U Trigonometru"** v Opavě-Milostovicích — srub se dvěma pevnostními kanony ve střeleckých místnostech. Spravuje KVH Opava, [bunkrmilostovice.cz](https://bunkrmilostovice.cz/).
+- **Dělostřelecká tvrz Smolkov** u Háje ve Slezsku — stavebně rozsáhlý komplex, ale **areál dlouhodobě využívá armáda a objekty lze vidět jen zvenku z veřejných cest**.
 
 ## Související
 
+- [Okruh po Ostravsku](/cesty/okruh-po-ostravsku) — jednodenní autoverze téhož regionu
 - [Typologie: pěchotní srub](/typologie/pechotni-srub) — teoretické pozadí ke konstrukci objektů
-- [Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu) — Darkovičky jsou č. 4 v TOP 10
-
-**Darkovičky jsou nejlepší volbou pro první seznámení s čs. opevněním.** Pokud vám tato stezka zachutná, vydejte se pak na větší — Dobrošov nebo Betonovou hranici.
+- [Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu) — širší kontext

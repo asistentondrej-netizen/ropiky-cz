@@ -26,10 +26,10 @@ zastavky:
     typ: pevnost
     doba_minut: 60
     poznamka: 2 km pěšky od tvrze Hanička, červená značka. Panoramatický výhled.
-  - nazev: Oběd na Panském Poli
+  - nazev: Přestávka na oběd
     typ: gastro
     doba_minut: 60
-    poznamka: Horská restaurace v lokalitě Hanička — česká kuchyně, domácí speciality.
+    poznamka: Přestávka na jídlo; možnosti občerstvení si ověřte předem, nabídka v lokalitě je omezená.
   - nazev: Hřeben Orlických hor (procházka)
     typ: priroda
     doba_minut: 90
@@ -57,17 +57,16 @@ updated: '2026-04-20'
 |---|---|
 | **Start** | Rokytnice v Orlických horách (z Prahy 2:30 autem) |
 | **Délka** | 15 km (auto + pěšky) |
-| **Cena** | Tvrz Hanička ~220 Kč dospělý, rodinné ~500 Kč (ověřte aktuálně) |
-| **Sezona** | Sezónně duben–říjen, prohlídky s průvodcem |
-| **Rezervace** | Doporučena, v létě nutná 1 týden dopředu |
+| **Sezona** | Sezónní provoz, prohlídky s průvodcem — termíny na hanicka.cz |
+| **Rezervace** | V hlavní sezóně doporučena |
 | **Pro koho** | Zájemci o studenou válku, zdatní návštěvníci (2 km k R-S 74) |
 | **Oficiální web** | [hanicka.cz](https://www.hanicka.cz) |
 
 ## Proč právě Hanička
 
-Tvrz Hanička je **jediný objekt v Česku, kde vidíte dvě historické vrstvy v jednom komplexu**:
-- **1937–1938** — dělostřelecká tvrz čs. opevnění (pěchotní sruby + podzemní tunely + plánované dělostřelecké věže)
-- **1975 až počátek 90. let** — projekt Kahan: tajná přestavba Haničky pro **federální ministerstvo vnitra ČSSR** během studené války
+Tvrz Hanička je objekt, kde jsou vedle sebe patrné **dvě zcela nesouměřitelné historické vrstvy**:
+- **1936–1938** — dělostřelecká tvrz čs. opevnění: šest povrchových objektů R-S 76 až R-S 80 propojených zhruba 1,5 km podzemí. Stavebně hotová, ale bez výzbroje — houfnice ani otočná dělová věž nikdy nedorazily.
+- **1975–1993** — projekt Kahan: přestavba na chráněné válečné pracoviště **federálního ministerstva vnitra**. Nikdy nebyla dokončena.
 
 Tato kombinace dělá z Haničky **nejsilnější vzdělávací zážitek** — historie 20. století ve vrstvách pod jednou střechou. Na rozdíl od Boudy je Hanička **méně přeplněná** a umožňuje hlubší prohlídku.
 
@@ -82,18 +81,16 @@ Tato kombinace dělá z Haničky **nejsilnější vzdělávací zážitek** — 
 - Vchodový objekt R-S 79a — zachovalá rampa pro nákladní vozidla.
 - Rozsáhlý podzemní systém (teplota 8–12 °C).
 - **Expozice Projekt Kahan** — originální zařízení protiatomového krytu: filtroventilace, sklady potravin, velitelská místnost.
-- Pěchotní sruby R-S 78 a R-S 79.
+- Objekty R-S 78 „Na pasece" (měl nést otočnou dělovou věž) a R-S 79 „Na mýtině" (dělostřelecký srub).
 
-Vstupné 220 Kč / 120 Kč / rodinné 500 Kč. Prohlídky 9:00, 10:30, 13:00, 14:30.
+Nabízejí se dvě trasy — základní kolem 50 minut a prodloužená kolem 80 minut. Aktuální časy prohlídek a vstupné najdete na [hanicka.cz](https://hanicka.cz).
 
-**12:00–13:30 — Oběd na Panském Poli** (horská restaurace 500 m od tvrze).
+**12:00–13:30 — Přestávka na oběd.** Nabídka občerstvení v lokalitě je omezená, ověřte si možnosti předem.
 
 **13:30–15:30 — R-S 74 „Na holém"** (2 km pěšky po červené značce po hřebeni Orlických hor). Předsunutý oboustranný srub II. odolnosti s panoramatickým výhledem na Broumovské stěny a polskou hranici.
 
-![R-S 79 „Horní Rokytnice" — pěchotní srub tvrze Hanička.](/img/forts/rokytnice-v-orlick-ch-hor-ch-horn-rokytnice-r-s-79-rok-2010-05-.jpg)
-*R-S 79 — jeden z bojových objektů tvrze; do podzemí se vstupuje vchodovým objektem R-S 79a.*
-
-**Den posádky** — každoročně první víkend v září s rekonstrukcí bojové pohotovosti 1938.
+![R-S 79 „Na mýtině" — dělostřelecký srub tvrze Hanička.](/img/forts/rokytnice-v-orlick-ch-hor-ch-horn-rokytnice-r-s-79-rok-2010-05-.jpg)
+*R-S 79 „Na mýtině" — dělostřelecký srub tvrze; do podzemí se vstupuje vchodovým objektem R-S 79a „U silnice".*
 
 **16:00–17:00 — Procházka hřebenem Orlických hor** — pokračování po červené značce směrem k Zemské bráně. Krásné výhledy, alpské louky.
 
@@ -101,19 +98,21 @@ Vstupné 220 Kč / 120 Kč / rodinné 500 Kč. Prohlídky 9:00, 10:30, 13:00, 14
 
 ## Proč se vrátit
 
-Hanička je **nejkrásnější v září** (barvy hor + Den posádky na R-S 74) a v **dubnu–květnu** (první rozkvetlé hory bez davů). Vyhněte se červenci–srpnu, kdy jsou obě tvrze (Hanička + Bouda) přeplněné.
+Hanička je **nejkrásnější v září**, kdy se barví hory, a v **dubnu až květnu**, kdy je tu klid. V červenci a srpnu bývají obě tvrze — Hanička i Bouda — nejvytíženější.
 
 ## Projekt Kahan — kontext
 
-Od roku 1975 do počátku 90. let byla Hanička v rámci projektu Kahan tajně přestavována pro potřeby **federálního ministerstva vnitra ČSSR** jako chráněné pracoviště. Existující podzemní prostory z roku 1938 byly dovybaveny moderní technikou (filtroventilace, zásobování, spojení). Projekt byl zveřejněn až po sametové revoluci. Dnes je Hanička **jediné místo, kde si projekt Kahan můžete prohlédnout v originálních prostorách**.
+Tvrz převzalo **federální ministerstvo vnitra v roce 1975**; pod krycím názvem **objekt Kahan** tu mělo vzniknout chráněné válečné pracoviště resortu — protiatomový úkryt s velitelským a spojovacím zázemím. Vlastní stavební práce začaly v roce **1979** a byly rozvrženy do tří etap. Podzemí z roku 1938 dostalo filtroventilaci, energetický velín, dieselagregáty a kasárenské sály.
+
+**Přestavba nebyla nikdy dokončena.** Práce pokračovaly ještě po roce 1989 a definitivně skončily v roce **1993**, o dva roky později objekt získalo město Rokytnice v Orlických horách a zpřístupnilo jej veřejnosti. Občas se lze dočíst, že šlo o „sovětský kryt" nebo „stanoviště ÚV KSČ" — ani jedno není doložené, zadavatelem bylo československé ministerstvo vnitra.
 
 ## Praktické tipy
 
 - **Teplé oblečení** — v podzemí celoročně 8–12 °C.
 - **Turistická obuv** — 2 km lesní cesty k R-S 74.
 - **Rezervace:** vrcholná sezóna (červenec–srpen) — min. 1 týden dopředu.
-- **Parkování:** zdarma u tvrze Hanička.
-- **Dopravní dostupnost:** z Rychnova nad Kněžnou bus linka 790, víkendy.
+- **Parkoviště** je přímo u tvrze; bylo upraveno při obnově v letech 2019–2020.
+- **Autobusové spojení** od Rychnova nad Kněžnou existuje, aktuální jízdní řád ověřte v IDOS.
 
 ## Kombinace na víkend
 
@@ -121,6 +120,5 @@ Kombinujte s [Víkendem v Králíkách](/cesty/vikend-v-kralikach) — druhý de
 
 ## Kontakt
 
-- Oficiální web: [hanicka.cz](https://www.hanicka.cz)
-- Klub vojenské historie Rokytnice: správce R-S 74
-- Rezervace: +420 494 593 211
+- Oficiální web tvrze: [hanicka.cz](https://hanicka.cz) — provozuje město Rokytnice v Orlických horách
+- Naučná stezka Opevnění Rokytnicka: brožuru vydává infocentrum v Rokytnici v Orlických horách

@@ -20,9 +20,9 @@ zastavky:
     nazev: Tvrz Bouda — dělostřelecká tvrz s podzemím
     typ: pevnost
     doba_minut: 150
-    poznamka: 2h prohlídka podzemím (800 m tunelů). Teplota 8–12 °C, teplé oblečení. Rezervace doporučena.
-  - slug: k-s-21-jilm
-    nazev: K-S 21 „Jilm" — pěchotní srub tvrze Bouda
+    poznamka: Prohlídka podzemí s průvodcem. V podzemí je chladno i v létě — vezměte si teplé oblečení. Rezervace doporučena.
+  - slug: k-ba-s-21
+    nazev: K-Ba-S 21 „Kazi" — pěchotní srub tvrze Bouda
     typ: pevnost
     doba_minut: 30
     poznamka: Jeden z bojových objektů tvrze; do podzemí se vstupuje vchodovým objektem K-S 22a.
@@ -36,10 +36,10 @@ zastavky:
     typ: pevnost
     doba_minut: 45
     poznamka: Nejdostupnější objekt — 200 m od nádraží Králíky.
-  - nazev: Oběd v Králíkách — restaurace Na Rynku
+  - nazev: Oběd v Králíkách
     typ: gastro
     doba_minut: 60
-    poznamka: Domácí kuchyně, česká klasika. Ideální zastávka mezi prohlídkami.
+    poznamka: V Králíkách je několik restaurací v centru — ideální zastávka mezi prohlídkami.
   - slug: tvrz-hanicka
     nazev: Tvrz Hanička — druhá dělostřelecká tvrz
     typ: pevnost
@@ -49,7 +49,7 @@ zastavky:
     nazev: R-S 74 „Na holém" — předsunutý srub Haničky
     typ: pevnost
     doba_minut: 45
-    poznamka: 2 km pěšky od tvrze Hanička po červené značce.
+    poznamka: Zhruba 2 km pěšky od tvrze Hanička po červené značce.
 tags:
   - kralicko
   - tvrze
@@ -59,8 +59,8 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Kr%C3%A1l%C3%AD
 updated: '2026-04-20'
 ---
 
-![K-S 21 „Jilm" — pěchotní srub tvrze Bouda.](/img/forts/kr-l-ky-doln-bo-kovice-k-s-21-rok-2000-.jpg)
-*K-S 21 „Jilm" v Dolních Boříkovicích — jeden z pěti objektů tvrze Bouda; do podzemí se vstupuje vchodovým objektem K-S 22a.*
+![K-Ba-S 21 „Kazi" — pěchotní srub tvrze Bouda.](/img/forts/kr-l-ky-doln-bo-kovice-k-s-21-rok-2000-.jpg)
+*K-Ba-S 21 „Kazi" v Dolních Boříkovicích — jeden z pěti objektů tvrze Bouda. Objekty tvrze nesou jména z pověsti o Krokovi a jeho dcerách; do podzemí se vstupuje vchodovým objektem K-Ba-S 22a „Krok".*
 
 ## Na první pohled
 
@@ -68,16 +68,15 @@ updated: '2026-04-20'
 |---|---|
 | **Start** | Králíky (náměstí, vlak z Prahy 3 h) |
 | **Délka** | 45 km (auto + pěšky), 2 dny |
-| **Cena** | Bouda ~200 Kč, Hanička ~220 Kč, K-S 14 ~100 Kč, K-S 8 ~80 Kč |
 | **Sezona** | Sezónně duben–říjen, akce Cihelna v srpnu |
-| **Rezervace** | Tvrz Bouda NUTNÁ v létě min. týden dopředu |
-| **Nocleh** | Penziony v Králíkách od 800 Kč/os., Hotel Beseda 3\* ~1500 Kč |
+| **Rezervace** | Tvrz Bouda — v hlavní sezóně rezervujte předem |
+| **Nocleh** | Penziony a hotely v Králíkách a okolních obcích |
 | **Pro koho** | Vážný zájem, rodiny od 10 let, základní fyzická kondice |
-| **Oficiální weby** | [hanicka.cz](https://www.hanicka.cz); ostatní muzea — aktuální informace na webu muzea |
+| **Oficiální weby** | [tvrzbouda.cz](https://www.tvrzbouda.cz) · [tvrzhurka.cz](https://www.tvrzhurka.cz) · [hanicka.cz](https://hanicka.cz) · [armyfort.cz](https://www.armyfort.cz) |
 
 ## Proč právě Králíky
 
-Králické pevnostní muzeum je největší otevřený fortifikační areál v Česku. V okruhu do 15 km najdete **tři dělostřelecké tvrze** — Boudu, Haničku a Hůrku (muzeum přímo u Králík, zpřístupněné od roku 2008, vstup vchodovým objektem K-S 12a) — desítky pěchotních srubů a nejsilnější koncentraci zachovaných objektů těžkého opevnění z let 1935–1938. Tento dvoudenní okruh kombinuje podzemní komplexy, venkovní expozice a terénní návštěvy.
+Králická pevnostní oblast je nejhustěji opevněný úsek, jaký se v Česku dochoval — ve stavebním úseku ŽSV III. Králíky bylo vybetonováno 56 objektů těžkého opevnění a stojí tu tři dělostřelecké tvrze: **Bouda, Hůrka a Adam**. Bouda a Hůrka jsou muzeem, Adam využívá armáda a přístupný není. V dosahu jednodenního okruhu je i **Hanička** v Orlických horách. Tento dvoudenní okruh kombinuje podzemní komplexy, venkovní expozice a terénní návštěvy.
 
 ## Den 1 — Jižní část (tvrz Bouda + Akce Cihelna)
 
@@ -85,19 +84,19 @@ Králické pevnostní muzeum je největší otevřený fortifikační areál v �
 
 **09:30–12:00 — Tvrz Bouda (podzemí; vstup vchodovým objektem K-S 22a).**
 
-![Tvrz Bouda — vchodový objekt K-S 22a „Krok", jeden z pěti objektů tvrze.](/img/forts/bouda-k-s-22a-krok-svaznice.jpg)
-*K-S 22a „Krok" — vchodový objekt tvrze Bouda v dramatické svážnici.*
+![Tvrz Bouda — vchodový objekt K-Ba-S 22a „Krok", jeden z pěti objektů tvrze.](/img/forts/bouda-k-s-22a-krok-svaznice.jpg)
+*K-Ba-S 22a „Krok" — vchodový objekt tvrze Bouda ve svážnici.*
 
-Největší otevřená dělostřelecká tvrz. Prohlídka podzemím s průvodcem (2 hodiny, 800 m tunelů). Vstupné orientačně 200 Kč / 100 Kč / rodinné 450 Kč. **Teplota v podzemí 8–12 °C — teplé oblečení i v létě.**
+Patří k nejzachovalejším tvrzím v zemi — dochovala se v ní řada původních stavebních prvků z roku 1938. Veřejnosti je zpřístupněna od roku 1990, provozuje ji Společnost přátel čs. opevnění. Nabízí se několik typů prohlídek; aktuální nabídku a vstupné najdete na [tvrzbouda.cz](https://www.tvrzbouda.cz). **V podzemí je chladno i v létě — vezměte si teplé oblečení.**
 
-**12:30–13:30 — Oběd** v Dolní Moravě (restaurace U Pilařů) nebo návrat do Králík.
+**12:30–13:30 — Oběd** v Dolní Moravě nebo návrat do Králík.
 
 **14:00–15:30 — K-S 14 „U cihelny".**
 
 ![K-S 14 „U cihelny" — nejnavštěvovanější pěchotní srub Králicka.](/img/forts/k-s-14-u-cihelny-1.jpg)
 *K-S 14 — dějiště každoroční akce Cihelna.*
 
-Samostatný pěchotní srub s muzeem. Každoročně v srpnu zde probíhá akce Cihelna — největší fortifikační rekonstrukce v Česku.
+Samostatný pěchotní srub s muzeem, které provozuje Vojensko-historický klub Erika. Expozice je věnována mimo jiné četaři Arnoštu Hradovi. Na ploše u nedalekého Vojenského muzea Králíky se každoročně v srpnu koná akce Cihelna.
 
 **16:00–16:45 — K-S 8 „U nádraží".**
 
@@ -106,9 +105,9 @@ Samostatný pěchotní srub s muzeem. Každoročně v srpnu zde probíhá akce C
 
 Nejsnadněji dostupný objekt — 200 m od vlakového nádraží Králíky.
 
-**Volitelně — tvrz Hůrka.** Stavebně dokončená tvrz s muzeem přímo u Králík, zpřístupněná od roku 2008; do podzemí se vstupuje vchodovým objektem K-S 12a. Ideální doplněk či závěr dne.
+**Volitelně — tvrz Hůrka.** Největší veřejnosti přístupná tvrz, pět bojových objektů v nejvyšší odolnosti a zhruba 1,75 km podzemních chodeb a sálů. Leží přímo na okraji Králík u silnice na Hanušovice; provozuje ji Společnost přátel čs. opevnění pro město Králíky. → [tvrzhurka.cz](https://www.tvrzhurka.cz)
 
-**Večer — nocleh v Králíkách** (penziony od 800 Kč/osoba).
+**Večer — nocleh v Králíkách.**
 
 ## Den 2 — Severní část (tvrz Hanička + Orlické hory)
 
@@ -119,7 +118,7 @@ Nejsnadněji dostupný objekt — 200 m od vlakového nádraží Králíky.
 ![Podzemí tvrze Hanička — chodby upravené při přestavbě pro federální ministerstvo vnitra ČSSR (projekt Kahan). Foto: Harold / Wikimedia (CC BY-SA 3.0)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg/1280px-Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg)
 *Podzemí Haničky — unikátní kombinace vrstev 1938 a 1980s.*
 
-Stavebně dokončená dělostřelecká tvrz. Podzemí + expozice projektu Kahan — přestavby pro federální ministerstvo vnitra ČSSR, která probíhala od 70. let do počátku 90. let. Jeden z mála objektů, kde vidíte **dvě historické vrstvy** (1938 + projekt Kahan).
+Stavebně dokončená dělostřelecká tvrz, kterou provozuje město Rokytnice v Orlických horách. Podzemí a expozice projektu Kahan — přestavby pro federální ministerstvo vnitra, kterou resort zahájil po převzetí tvrze v roce 1975 a která nebyla nikdy dokončena; práce skončily v roce 1993. Jedno z mála míst, kde vidíte **dvě historické vrstvy** v jednom objektu.
 
 **12:00–13:00 — Oběd** v Rokytnici.
 
@@ -128,7 +127,7 @@ Stavebně dokončená dělostřelecká tvrz. Podzemí + expozice projektu Kahan 
 ![R-S 74 „Na holém" v zimní krajině Orlických hor.](/img/forts/r-s-74-v-zim-.jpg)
 *R-S 74 „Na holém" — předsunutý srub na hřebeni s panoramatickým výhledem.*
 
-Předsunutý oboustranný srub s panoramatickým výhledem na hřebeny Orlických hor a polskou hranici. Samostatná expozice Klubu vojenské historie Rokytnice.
+Předsunutý oboustranný srub s panoramatickým výhledem na hřebeny Orlických hor a k polské hranici.
 
 **15:30 — Návrat domů** nebo **pokračování do Adršpachu** (45 min autem) pro kombinaci s přírodní krajinou.
 
@@ -141,10 +140,12 @@ Předsunutý oboustranný srub s panoramatickým výhledem na hřebeny Orlickýc
 
 ## Sezónní upozornění
 
-Expozice jsou otevřené **duben–říjen**. Mimo sezónu jen na objednávku. Nejživější období je **konec léta a začátek podzimu** — akce Cihelna na K-S 14 (srpen), Den posádky na R-S 74 a barvy Orlických hor.
+Většina expozic funguje sezónně, mimo sezónu často jen po domluvě — **termíny si ověřte na webech jednotlivých muzeí**. Muzea oblasti navíc pořádají od dubna do října takzvané Společné víkendy, vždy poslední víkend v měsíci. Nejživější období je konec léta: srpnová akce Cihelna a barvy Orlických hor.
 
 ## Odkud vzít víc informací
 
-- Tvrz Bouda: aktuální informace na webu muzea
-- Oficiální web tvrze Hanička: [hanicka.cz](https://www.hanicka.cz)
-- Vojenské muzeum Králíky a tvrz Hůrka: aktuální informace na webu muzea
+- Dělostřelecká tvrz Bouda: [tvrzbouda.cz](https://www.tvrzbouda.cz)
+- Dělostřelecká tvrz Hůrka: [tvrzhurka.cz](https://www.tvrzhurka.cz)
+- Tvrz Hanička: [hanicka.cz](https://hanicka.cz)
+- Vojenské muzeum Králíky a akce Cihelna: [armyfort.cz](https://www.armyfort.cz)
+- K-S 14 „U cihelny": [cihelna.militaryclub.info](http://cihelna.militaryclub.info/)

@@ -1,6 +1,6 @@
 ---
-title: "Naučná stezka Dobrošovem — okruh kolem nedostavěné tvrze"
-description: "Naučná stezka okolo dělostřelecké tvrze Dobrošov u Náchoda — 8 km okruh se zastaveními u objektů tvrze. Ideální jednodenní výlet z Náchoda nebo Hradce Králové."
+title: "Naučné stezky u Dobrošova — okruh kolem rozestavěné tvrze"
+description: "Dvě značené stezky u Náchoda: krátký okruh Pevnost Dobrošov kolem samotné tvrze a osmikilometrová stezka Po opevnění Běloves, která propojuje tvrz s bělovesským pevnostním skanzenem."
 region: "Královéhradecký kraj"
 delka_km: 8
 delka_dni: 1
@@ -8,114 +8,135 @@ obtiznost: "stredni"
 rocni: "sezonne-duben-rijen"
 doprava: "mhd-chuze"
 startPoint:
-  nazev: "Náchod (centrum)"
-  lat: 50.4158
-  lon: 16.1631
+  nazev: "Náchod-Běloves"
+  lat: 50.4177
+  lon: 16.1633
 endPoint:
-  nazev: "Náchod (návrat)"
-  lat: 50.4158
-  lon: 16.1631
+  nazev: "Náchod-Běloves (návrat)"
+  lat: 50.4177
+  lon: 16.1633
 zastavky:
-  - nazev: "Náchod (výchozí bod)"
-    typ: "obec"
+  - slug: "n-s-84-voda"
+    nazev: 'N-S 84 „Voda" — vstup do bělovesského skanzenu'
+    typ: "pevnost"
     doba_minut: 30
-    poznamka: "Start v Náchodě — k tvrzi Dobrošov vede značená turistická cesta."
-  - slug: "n-s-75-zeleny"
-    nazev: 'Dělostřelecký srub N-S 75 „Zelený"'
+    poznamka: "Vstupní objekt skanzenu, kvůli spodní vodě jednopatrový. Objekty skanzenu spravuje Klub vojenské historie Náchod."
+  - nazev: 'N-S 82 „Březinka" — hlavní srub skanzenu'
     typ: "pevnost"
-    doba_minut: 20
-    poznamka: "Dělostřelecký srub tvrze Dobrošov, externě prohlížitelný."
-  - nazev: "Hřbitov Padlých 1938"
-    typ: "obec"
-    doba_minut: 15
-    poznamka: "Pamětní místo věnované obětem bojů při všeobecné mobilizaci 1938. Klidné kontemplativní místo."
-  - nazev: "Vyhlídka u Dobrošova"
-    typ: "priroda"
-    doba_minut: 20
-    poznamka: "Vyhlídka v nadmořské výšce kolem 600 m s panoramatem Kladské kotliny — strategický bod, odkud čs. armáda sledovala pohraničí."
+    doba_minut: 60
+    poznamka: "Kompletně vybavený a vyzbrojený pěchotní srub — nejnavštěvovanější objekt bělovesského skanzenu."
+  - slug: "n-s-81"
+    nazev: 'N-S 81 „Lom"'
+    typ: "pevnost"
+    doba_minut: 30
+    poznamka: "Třetí objekt skanzenu, zpřístupňovaný samostatně."
   - slug: "tvrz-dobrosov"
-    nazev: "Tvrz Dobrošov — Vstupní srub"
+    nazev: "Pevnost Dobrošov — hlavní expozice"
     typ: "pevnost"
-    doba_minut: 90
-    poznamka: "Hlavní atrakce stezky. Otevřená muzejní expozice s prohlídkou 90 min. Rezervujte předem — o víkendech vyprodáno týden dopředu."
-  - nazev: 'Tvrz Dobrošov — pěchotní srub N-S 72 „Můstek"'
-    typ: "pevnost"
-    doba_minut: 20
-    poznamka: "Pěchotní srub rozestavěné tvrze, externě navštívitelný."
-  - nazev: 'Tvrz Dobrošov — pěchotní srub N-S 73 „Jeřáb"'
+    doba_minut: 120
+    poznamka: "Vlastníkem je Královéhradecký kraj, provozuje Muzeum Náchodska. Po rekonstrukci znovuotevřeno v květnu 2022 — nové návštěvnické centrum, kinosál, 3D projekce."
+  - slug: "n-d-s-72"
+    nazev: 'N-D-S 72 „Můstek"'
     typ: "pevnost"
     doba_minut: 20
-    poznamka: "Druhý pěchotní srub tvrze, externě navštívitelný."
-  - nazev: "Polní opevnění z roku 1938"
-    typ: "muzeum"
-    doba_minut: 15
-    poznamka: "Doprovodné opevnění k tvrzi — zákopy, drátěné zátarasy, kulometná hnízda. Rekonstrukce z roku 2018."
-  - nazev: 'Lesní cesta „Kolejová"'
-    typ: "priroda"
+    poznamka: "Pěchotní srub tvrze, vybetonovaný v červenci 1938. Součást základního prohlídkového okruhu."
+  - slug: "n-d-s-75"
+    nazev: 'N-D-S 75 „Zelený"'
+    typ: "pevnost"
     doba_minut: 20
-    poznamka: "Stará vojenská zásobovací trasa, dnes lesní cesta vhodná pro pěší a kolo. Logistika tvrze v letech 1937–1938."
-  - nazev: "Návrat do Náchoda"
-    typ: "obec"
-    doba_minut: 10
-    poznamka: "Závěrečná tabule se shrnutím výletu a doporučením dalších cílů (Hanička, Stachelberg, Bouda)."
+    poznamka: "Dělostřelecký srub tvrze. Při rekonstrukci sem byl zabudován výtah — díky němu je část prohlídky bezbariérová."
+  - slug: "n-d-s-73"
+    nazev: 'N-D-S 73 „Jeřáb"'
+    typ: "pevnost"
+    doba_minut: 45
+    poznamka: "Třetí vybetonovaný objekt tvrze; přístupný v rámci rozšířené prohlídky. V září 1938 jediný improvizovaně vyzbrojený objekt tvrze."
+  - nazev: 'N-S 85 „Montace" a návrat do Bělovsi'
+    typ: "pevnost"
+    doba_minut: 40
+    poznamka: "Poslední objekt na okruhu stezky Po opevnění Běloves."
 tags: ["turistika", "dobrošov", "náchod", "stezky", "kladsko"]
 cover: "/img/clanky/dobrosov-hero.jpg"
-updated: 2026-04-20
+updated: 2026-07-27
 ---
 
-**Naučná stezka Dobrošovem** je doprovodný okruh kolem [dělostřelecké tvrze Dobrošov](/katalog/tvrz-dobrosov) v okrese Náchod. Na rozdíl od velké Betonové hranice u Králík je tato stezka **kompaktnější** (8 km) a tím je ideální pro **jednodenní výlet z Náchoda nebo Hradce Králové**. Stezka kombinuje hlavní atrakci — tvrz Dobrošov — s dalšími objekty, panoramatickými výhledy a místy bojů z let 1938–1945.
+Kolem Dobrošova nevede jedna stezka, ale **dvě** — a stojí za to je nezaměňovat.
 
-![Tvrz Dobrošov — vstupní srub a hlavní atrakce stezky.](/img/forts/tvrz-dobrosov-6.jpg)
-*Tvrz Dobrošov — nedokončená dělostřelecká tvrz ve fázi rozestavěnosti z roku 1938.*
+**Naučná stezka Pevnost Dobrošov** je krátký okruh přímo kolem tvrze, dlouhý zhruba čtyři kilometry. Prameny se rozcházejí v počtu zastavení (uvádí se osm i dvanáct tabulí), trasa vede od Jiráskovy chaty přes objekty tvrze a zase zpět.
 
-## O trase
+**Naučná stezka Po opevnění Běloves** je delší, zhruba osmikilometrový okruh s patnácti panely, který **propojuje bělovesský pevnostní skanzen s tvrzí Dobrošov**. Právě tahle varianta dává nejlepší celodenní výlet: uvidíte na ní jak plně vybavený srub běžné linie, tak rozestavěnou dělostřeleckou tvrz.
 
-Stezka začíná v **Náchodě**, je **kruhová** a vrátí se do výchozího bodu; tvrz Dobrošov leží v nadmořské výšce kolem 600 m. Můžete ji projít pěšky nebo (s opatrností) na trekkingovém kole. Převýšení 200 m, značení žluté turistické se symbolem srubu; tvrz spravuje Muzeum Náchodska.
+![Tvrz Dobrošov — hlavní cíl obou stezek.](/img/forts/tvrz-dobrosov-6.jpg)
+*Pevnost Dobrošov — dělostřelecká tvrz, která zůstala ve stavu rozestavěnosti z roku 1938.*
 
-## Doporučený harmonogram
+## Pevnost Dobrošov
 
-**Klasický jednodenní okruh (z Náchoda):**
+Tvrz vlastní **Královéhradecký kraj**, provozuje ji **Muzeum Náchodska**. V letech 2019–2022 prošla rozsáhlou rekonstrukcí za bezmála sto milionů korun a **17. května 2022 byla po třech letech znovu otevřena**. Přibylo návštěvnické centrum s expozicí, kinosál s dokumentem o mobilizaci 1938 a 3D projekce; do dělostřeleckého srubu Zelený byl zabudován výtah, takže je část prohlídky bezbariérová.
 
-- 9:00 — Start v Náchodě
-- 9:00–12:00 — Stezka (úvodní zastavení, výstup k tvrzi)
-- 12:00–14:00 — **Tvrz Dobrošov** s prohlídkou (rezervovat termín 11:30!)
-- 14:00–14:30 — Oběd v restauraci u tvrze
-- 14:30–17:00 — Pokračování stezky (další zastavení)
-- 17:00 — Návrat do Náchoda
+Nabízí se několik variant prohlídky — základní okruh s průvodcem, samostatná prohlídka srubu Jeřáb, kombinovaná varianta i návštěvnické centrum bez průvodce. **Aktuální provozní dobu, termíny a vstupné najdete na oficiálním webu.**
 
-![N-S 75 „Zelený" — dělostřelecký srub tvrze Dobrošov.](/img/forts/n-chod-dobro-ov-n-s-75-rok-2001-01-.jpg)
-*N-S 75 „Zelený" — dělostřelecký srub tvrze, externě prohlížitelný.*
+→ [pevnost-dobrosov.cz](https://www.pevnost-dobrosov.cz)
 
-![Tvrz Dobrošov — pohled na vnější betonovou stěnu srubu tvrze.](/img/forts/tvrz-dobrosov-9.jpg)
-*Detail betonové konstrukce — masivní II. a III. odolnostní třídy typu pro hlavní pohraniční linii.*
+### Co z tvrze vlastně stojí
+
+Dobrošov měl mít **sedm objektů. Vybetonovány byly tři.**
+
+| Označení | Krycí jméno | Typ | Stav 1938 |
+|---|---|---|---|
+| N-D-S 72 | Můstek | pěchotní srub | vybetonován |
+| N-D-S 73 | Jeřáb | pěchotní srub | vybetonován |
+| N-D-S 74 | Maliňák | srub s otočnou dělovou věží | nepostaven |
+| N-D-S 75 | Zelený | dělostřelecký srub | vybetonován |
+| N-D-S 76 | Amerika | dělostřelecký srub | nepostaven |
+| N-D-S 77 | Kaplička | minometný srub | nepostaven |
+| N-D-S 77a | Portál | vchodový objekt | nepostaven, jen provizorní vstup |
+
+Podzemí tvrze měří kolem 1 750 metrů chodeb v hloubce zhruba dvaceti až čtyřiceti metrů. V září 1938 nebyla tvrz bojeschopná — improvizovaně vyzbrojen byl jen srub Jeřáb.
+
+![N-S 75 na Dobrošově — dělostřelecký srub tvrze.](/img/forts/n-chod-dobro-ov-n-s-75-rok-2001-01-.jpg)
+*Dělostřelecký srub „Zelený" — jeden ze tří vybetonovaných objektů tvrze.*
+
+## Běloveský pevnostní skanzen
+
+Druhý pól výletu. Objekty spravuje **Klub vojenské historie Náchod**, který je má svěřené od konce roku 1989. Skanzen tvoří:
+
+- **N-S 82 „Březinka"** — hlavní objekt, kompletně vybavený a vyzbrojený srub
+- **N-S 84 „Voda"** — vstupní objekt skanzenu, kvůli spodní vodě jen jednopatrový
+- **N-S 81 „Lom"** — zpřístupňovaný samostatně
+
+Kombinace obou míst v jednom dni je vlastně ideální učebnice: v Březince vidíte, jak měl vypadat hotový, vyzbrojený srub, na Dobrošově naopak to, co se za tři roky stihnout nedalo.
+
+![Detail betonové konstrukce srubu tvrze Dobrošov.](/img/forts/tvrz-dobrosov-9.jpg)
+*Masivní čelní stěna tvrzového objektu — rozdíl oproti běžnému řopíku je na první pohled zřejmý.*
+
+## Jak si den rozvrhnout
+
+Rozumný postup je začít v **Bělovsi**, projít skanzen, vystoupat po značené stezce na Dobrošov, absolvovat prohlídku tvrze a vrátit se okruhem. Počítejte s celým dnem — jen samotná prohlídka tvrze zabere podle zvolené varianty jednu až dvě hodiny.
+
+Prohlídky tvrze mají pevné termíny a v hlavní sezóně bývají obsazené. **Rezervujte předem** přes web muzea.
 
 ## Co si vzít
 
-- **Pevné turistické boty** — terén je místy hrubý
-- **Teplé oblečení** — i v létě v tvrzi 9 °C
-- **Pláštěnka** — Náchodsko je dešťová oblast
-- **Svačina + voda** (1,5 l)
-- **Mapa nebo GPX track** — na webu Muzea Náchodska
-- **Foťák** — povolen, blesk v tvrzi zakázán
+- **Pevné turistické boty** — terén je místy hrubý, s převýšením
+- **Teplé oblečení** — v podzemí je i v létě chladno
+- **Pláštěnka** — Náchodsko je srážkově bohatá oblast
+- **Svačina a voda**
+- **Foťák** — blesk v podzemí podle pokynů průvodce
 
 ## Doprava
 
-- **Auto:** D11 → exit Hradec Králové → silnice 33 → Náchod (cca 1 h z Prahy)
-- **Vlak:** Praha → Hradec Králové → Náchod (2 h)
-- **MHD:** z Náchoda místní autobusovou dopravou směr Dobrošov
-- **Parkování:** u tvrze Dobrošov
+- **Autem:** z Prahy zhruba dvě hodiny přes Hradec Králové. U tvrze je parkoviště.
+- **Vlakem:** Praha → Hradec Králové → Náchod
+- **Autobusem:** z Náchoda vede spojení směr Dobrošov; aktuální jízdní řád ověřte v IDOS.
 
 ## Pro koho
 
-**Vhodné:** pěší turisté všech věkových kategorií od 10 let, rodiny s dětmi (zastavení mají interaktivní prvky), školní výlety (muzeum nabízí výklad pro skupiny), fotografy (panoramatické výhledy na trase).
+**Vhodné** pro pěší turisty od zhruba deseti let, rodiny s dětmi, školní výlety i fotografy — na trase jsou výhledy do Kladské kotliny.
 
-**Méně vhodné:** vozíčkáři (terén nepřístupný), v zimním období (stezka je špatně značená pod sněhem).
+**Méně vhodné** pro vozíčkáře (terén stezky přístupný není, byť část expozice tvrze bezbariérová je) a v zimním období, kdy je provoz omezený.
 
 ## Související
 
-- [Dělostřelecká tvrz Dobrošov](/katalog/tvrz-dobrosov) — hlavní cíl stezky
-- [Tvrz Hanička](/katalog/tvrz-hanicka) — pokračování ve stejné oblasti (cca 30 km jihovýchodně)
-- [Stezka Hanička](/cesty/stezka-hanicka) — sousední stezka v Orlických horách
+- [Pevnost Dobrošov](/katalog/tvrz-dobrosov) — hlavní cíl stezky
+- [Stezka Hanička](/cesty/stezka-hanicka) — sousední oblast v Orlických horách
+- [Tvrz Hanička](/katalog/tvrz-hanicka) — druhá tvrz regionu
 - [Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu) — širší kontext
-
-**Praktická poznámka:** v letní sezóně doporučujeme **vyrážet brzy ráno** — tvrz Dobrošov je o víkendech přeplněná a parkoviště se zaplní do 10:00.

@@ -52,7 +52,6 @@ updated: '2026-04-20'
 |---|---|
 | **Start** | Praha (z Masarykova nádraží vlak 45 min) |
 | **Délka** | 80 km auto nebo 2× vlak |
-| **Cena** | ~170 Kč dospělý, ~90 Kč dítě, rodinné ~400 Kč |
 | **Sezona** | Celoročně, úterý–neděle 9–17 (zima do 16) |
 | **Rezervace** | Bez rezervace, větší skupiny ohlásit |
 | **Pro koho** | Rodiny s dětmi 6+, první vstup do tématu, zima |
@@ -82,7 +81,7 @@ Muzeum čs. armády Milovice je **nejdostupnější fortifikační expozice z Pr
 - Historie vojenského prostoru Milovice (ČSLA 1948–1968, sovětská okupační armáda 1968–1991).
 - Uniformy, technika, dobové dokumenty.
 
-Vstupné: 170 Kč / 90 Kč / rodinné 400 Kč. Předškoláci zdarma. **Otevřeno celoročně** úterý–neděle 9:00–17:00 (zima do 16:00), pondělí zavřeno kromě svátků.
+Muzeum má **celoroční provoz** — na rozdíl od sezónních expozic v pohraničí. Aktuální otevírací dobu a vstupné najdete na webu muzea.
 
 **13:00–14:00 — Oběd** v restauraci U Tanku (tematická, blízko muzea) nebo v Milovicích.
 
@@ -92,7 +91,7 @@ Vstupné: 170 Kč / 90 Kč / rodinné 400 Kč. Předškoláci zdarma. **Otevřen
 Procházka bývalým vojenským prostorem, který byl po odchodu sovětské armády přeměněn na **přírodní rezervaci**. Stáda divokých koní (exmoorský pony), stepní ekosystém, vzácné druhy rostlin. Volný vstup, 2 km okruh.
 
 ### B) Mladá Boleslav — Muzeum Škoda Auto
-30 km autem (30 min). Největší automobilové muzeum v ČR, historie značky Škoda od 1895. Vstupné 250 Kč. Ideální pro rodiny s dětmi se zájmem o techniku.
+30 km autem (30 min). Muzeum značky Škoda s expozicí od roku 1895 — ideální pro rodiny s dětmi se zájmem o techniku.
 
 ### C) Poděbrady — lázeňské městečko
 20 km autem (20 min). Procházka kolonádou, zámek, lázeňský park. Ideální pro klidnější zakončení dne.

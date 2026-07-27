@@ -144,7 +144,7 @@ Hůrka je **další z pěti stavebně dokončených tvrzí** systému. Po válce
 
 **Otevírací doba:** Většina muzeí je otevřena od dubna do října, často jen o víkendech. Některá vyžadují rezervaci. **Vždycky si ověřte aktuální informace na detail stránce v katalogu** nebo na webu muzea.
 
-**Vstupné:** Většinou 80–200 Kč pro dospělého. Hanička, Bouda a Stachelberg patří k dražším (skutečně dlouhá prohlídka s průvodcem). Skutina, T-S 19 a místní muzea mají vstupné mírnější.
+**Vstupné:** liší se objekt od objektu a mění se každou sezónu — u tvrzí s dlouhou prohlídkou s průvodcem počítejte s vyšší částkou než u menších klubových expozic. **Aktuální ceník vždy na webu konkrétního muzea.**
 
 **Co s sebou:** Teplé oblečení (i v létě je v podzemí 8–12 °C). Pevná obuv. Baterka jako záloha (i když muzea mají osvětlení). Jídlo / pití podle délky prohlídky.
 

@@ -80,13 +80,13 @@ K-S 14 připomíná i osud pancéřových prvků: původní zvony byly v 50.–6
 
 ## 6. Naučná stezka Betonová hranice (Králíky)
 
-**Proč jít:** **40 km dlouhá linie opevnění** v pěknou krajinu Jeseníků a Orlických hor — ideální pro **cyklovýlet nebo vícedenní pěší túru**.
+**Proč jít:** nejznámější fortifikační naučná stezka u nás — okruh dlouhý zhruba **14–15 km**, který začíná i končí v **Mladkově** a vede přes Vysoký kámen a dělostřeleckou tvrz Bouda.
 
-Betonová hranice je **rozsáhlá fortifikační naučná stezka** — propojuje tvrz Bouda, K-S 14, muzeum v Králíkách a desítky dalších objektů v linii opevnění. Klíčové body jsou doplněny o informační tabule.
+Stezka má **23 informačních tabulí**, z toho sedm přímo u objektů tvrze Bouda. Nemá vlastní průběžné značení — vede po běžných značkách KČT (červená k Boudě, zelená po povrchu tvrze, žlutá zpět). Nastoupit se dá i z Lichkova, Těchonína nebo od Kramářovy chaty na Suchém vrchu.
 
 - Přístup: **venkovní stezka volně přístupná celoročně**; otevírací doby jednotlivých muzeí na jejich webech
-- Doporučený čas: **1–3 dny** (podle trasy)
-- Doprava: vlak do Králík, odtamtud pěšky/na kole
+- Doporučený čas: **1 den** na okruh, 2–3 dny s okolními muzei
+- Doprava: vlak do Mladkova na trati Ústí nad Orlicí – Lichkov
 
 → Detail: [Betonová hranice](/cesty/stezka-betonova-hranice)
 

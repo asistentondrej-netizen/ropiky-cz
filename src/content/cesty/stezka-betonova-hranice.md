@@ -1,126 +1,110 @@
 ---
-title: "Naučná stezka Betonová hranice — Králíky a Kladský průsmyk"
-description: "Nejrozsáhlejší fortifikační naučná stezka v ČR — 40 km linie opevnění mezi Červenou Vodou, Králíkami a Mladkovem. Průvodce zastaveními, doporučené trasy, praktické informace."
+title: "Naučná stezka Betonová hranice — okruh z Mladkova přes tvrz Bouda"
+description: "Nejznámější fortifikační naučná stezka v Česku — zhruba patnáctikilometrový okruh z Mladkova přes Vysoký kámen a dělostřeleckou tvrz Bouda, 23 informačních tabulí. Průvodce trasou a praktické informace."
 region: "Pardubický kraj"
-delka_km: 40
+delka_km: 15
 delka_dni: 1
 obtiznost: "stredni"
 rocni: "celorocne"
-doprava: "auto-chuze"
+doprava: "mhd-chuze"
 startPoint:
-  nazev: "Červená Voda (nádraží)"
-  lat: 50.0572
-  lon: 16.8586
+  nazev: "Mladkov (nádraží)"
+  lat: 50.1067
+  lon: 16.6742
 endPoint:
-  nazev: "Mladkov"
+  nazev: "Mladkov (nádraží)"
   lat: 50.1067
   lon: 16.6742
 zastavky:
-  - slug: "k-s-5-u-potoka"
-    nazev: 'K-S 5 „U potoka"'
-    typ: "pevnost"
-    doba_minut: 30
-    poznamka: "První zastavení — externě přístupný srub III. odolnosti, 500 m od nádraží Červená Voda."
-  - slug: "tvrz-bouda"
-    nazev: "Tvrz Bouda"
-    typ: "pevnost"
-    doba_minut: 180
-    poznamka: "Klíčová atrakce stezky — jediná plně průchozí dělostřelecká tvrz v ČR. Rezervace nutná."
-  - slug: "k-s-14-u-cihelny"
-    nazev: 'K-S 14 „U cihelny"'
-    typ: "pevnost"
-    doba_minut: 90
-    poznamka: "Samostatný pěchotní srub — muzeum s prohlídkami; původní zvony objekt ztratil v poválečných letech, dnešní jsou dosazené náhrady."
-  - nazev: "Vojenské muzeum Králíky"
-    typ: "muzeum"
-    doba_minut: 60
-    poznamka: "V bývalých kasárnách — expozice ŘOP, čs. armády a osudů pohraničí po Mnichovu."
-  - nazev: "Mladkov a jižní úsek"
+  - nazev: "Mladkov — začátek okruhu"
     typ: "obec"
-    doba_minut: 120
-    poznamka: "Desítky externě přístupných pěchotních srubů v nepoškozeném stavu. Navazuje na pohraničí s Polskem."
+    doba_minut: 20
+    poznamka: "Výchozí a zároveň cílový bod stezky. Obec leží na trati Ústí nad Orlicí – Lichkov, dostupná vlakem."
+  - slug: "k-s-25-na-sedle"
+    nazev: 'K-S 25 „Na sedle" — muzeum Vysoký kámen'
+    typ: "pevnost"
+    doba_minut: 60
+    poznamka: "Pěchotní srub s muzejní expozicí, doplněný třemi lehkými objekty v různých stavech — včetně německé reaktivace z let 1944/45. Otevřeno za přítomnosti provozovatele nebo v termínech Společných víkendů KPO."
+  - slug: "tvrz-bouda"
+    nazev: "Dělostřelecká tvrz Bouda"
+    typ: "pevnost"
+    doba_minut: 150
+    poznamka: "Hlavní cíl okruhu — zpřístupněné podzemí a část povrchových objektů. Prohlídky s průvodcem, rezervace doporučena. Provozuje Společnost přátel čs. opevnění, o.p.s."
+  - slug: "k-s-22a"
+    nazev: 'K-Ba-S 22a „Krok" — vchodový objekt tvrze'
+    typ: "pevnost"
+    doba_minut: 20
+    poznamka: "Vstup do podzemí tvrze Bouda. Povrchové objekty tvrze nesou jména z pověsti o Krokovi a jeho dcerách."
+  - nazev: "Povrch tvrze Bouda a sestup do Mladkova"
+    typ: "priroda"
+    doba_minut: 90
+    poznamka: "Zelená značka po povrchu tvrze, poté žlutá zpět do Mladkova. Sedm tabulí je věnováno přímo objektům tvrze."
 tags: ["turistika", "králíky", "betonová hranice", "stezky", "kladsko"]
 cover: "/img/clanky/betonova-hranice-hero.jpg"
-updated: 2026-04-20
+updated: 2026-07-27
 ---
 
-**Betonová hranice** je v českých reáliích unikátní — je to **největší naučná stezka věnovaná fortifikaci** v ČR a pokrývá 40 km úseku **Kladského klínu**, kde v letech 1935–1938 vznikla nejhustší koncentrace těžkého opevnění v celém Československu. Stezka je otevřená celoročně, lze ji projít pěšky nebo na kole a díky kombinaci muzeí, externě přístupných srubů a výkladových tabulí nabízí **pedagogicky hodnotný zážitek** pro rodiny i odborně zaměřené návštěvníky.
+**Betonová hranice** je nejznámější fortifikační naučná stezka v Česku. Bývá o ní ale rozšířena jedna nepřesnost: **není to čtyřicetikilometrová linie napříč Králicku**, ale konkrétní **okruh dlouhý zhruba 14–15 kilometrů, který začíná i končí v Mladkově** a vede přes vrcholy Vysoký kámen a Bouda.
 
-![K-S 14 „U cihelny" — nejnavštěvovanější pěchotní srub stezky.](/img/forts/k-s-14-u-cihelny-1.jpg)
-*K-S 14 „U cihelny" u Králík — srub se stal symbolem obnoveného zájmu o čs. opevnění.*
+![K-S 14 „U cihelny" u Králík — nejnavštěvovanější samostatný srub oblasti.](/img/forts/k-s-14-u-cihelny-1.jpg)
+*K-S 14 „U cihelny" u Králík — leží mimo okruh Betonové hranice, ale patří k povinným zastávkám při návštěvě oblasti.*
 
-## Historický a geografický kontext
+## Základní údaje o stezce
 
-Stezka sleduje **liniovou osu** čs. opevnění v Kladském klínu — od Červené Vody přes Králíky k Mladkovu. Je to **logický zeměpisný celek**: pohoří z jedné strany limitováno Kralickým Sněžníkem a z druhé Orlickými horami, uprostřed klínem vystupující polská Kladsko.
+Trasa má **23 informačních tabulí**, z toho sedm přímo u objektů tvrze Bouda; texty jsou v pěti jazycích. **Stezka nemá vlastní průběžné značení** — vede po běžných značkách KČT: červené z Mladkova k Boudě, zelené po povrchu tvrze a žluté zpět do Mladkova. Typický symbol naučné stezky najdete jen na cedulích směrovek.
 
-Kladský klín byl v letech 1935–1938 **strategicky nejcennějším úsekem čs. pohraniční linie** — kontroloval přístup z německého Slezska (Wroclaw) do Čech a Moravy. Proto zde ČSR soustředilo **nejvíce tvrzí a pěchotních srubů na nejmenší ploše**: tři tvrze (Bouda, Adam, Hůrka), cca 60 pěchotních srubů v hustotě 1 objekt na 500–800 m a více než 500 lehkých objektů (řopíků) v druhé a třetí linii.
+Původní verze okruhu, dlouhá zhruba 12 kilometrů se třinácti tabulemi, byla otevřena už v roce **1988**. V roce **2012** proběhlo kompletní přetrasování a výměna tabulí; stezka se prodloužila a přibyla modře značená přívodná trasa z Lichkova k tamnímu vojenskému muzeu. Na vzniku a obnově se podílelo Sdružení obcí Orlicko, obce Mladkov, Těchonín a Lichkov, Společnost přátel čs. opevnění a KČT.
 
-## Doporučené trasy
+Nastoupit se dá i mimo Mladkov — z Lichkova, Těchonína, Jablonného nad Orlicí nebo od Kramářovy chaty na Suchém vrchu.
 
-### Jednodenní auto-výlet (60 km auto + 10 km pěšky)
+## Co uvidíte na trase
 
-- 9:00 — Start v Králíkách (parkování u muzea)
-- 9:30 — Vojenské muzeum Králíky (1 h)
-- 11:00 — K-S 14 U cihelny (prohlídka s průvodcem, 1,5 h)
-- 13:00 — Oběd v Králíkách
-- 14:30 — Tvrz Bouda (auto + prohlídka, 3 h)
-- 17:30 — Návrat do Králík
+![Tvrz Bouda — objekt K-Ba-S 22a „Krok", vchod do podzemí.](/img/forts/tvrz-bouda-objekt-k-s-22a-krok.jpg)
+*K-Ba-S 22a „Krok" — vchodový objekt tvrze Bouda.*
 
-### Dvoudenní pěší túra (cca 25 km)
+**Dělostřelecká tvrz Bouda** je hlavním cílem okruhu. Patří k nejzachovalejším tvrzím v zemi — dochovala se v ní řada původních stavebních prvků z roku 1938. Veřejnosti je zpřístupněna od roku 1990, prohlídky vedou průvodci a nabízí se několik typů okruhů. Povrchové objekty tvrze nesou jména z pověsti o Krokovi a jeho dcerách: **K-Ba-S 21 „Kazi", 22 „Horymír", 22a „Krok", 23 „Teta" a 24 „Libuše"**.
 
-**Den 1:** Červená Voda → tvrz Bouda → Králíky (nocleh)
-**Den 2:** Králíky → K-S 14 → jižní linie → Mladkov
+**Muzeum Vysoký kámen** v pěchotním srubu **K-S 25 „Na sedle"** leží přímo na trase. Kromě samotného srubu tu jsou tři lehké objekty ukázané ve třech různých stavech — jeden po německé reaktivaci v letech 1944/45, druhý ve stavu po zkušebních střelbách 1939–41 a třetí po poválečné reaktivaci.
 
-Doporučujeme **jaro nebo podzim** — v létě je v Kladském klínu mnoho turistů u hlavních muzeí, v zimě jsou vnitřní prohlídky uzavřené.
+## Co si přidat v okolí
 
-### Cyklovýlet (40 km cyklo + pěší vsuvky k objektům)
+Okruh Betonové hranice pokrývá jen část toho, co Králická pevnostní oblast nabízí. Za samostatnou návštěvu stojí:
 
-Trasa je sjízdná **MTB nebo gravelem** — hlavní linie po zpevněných lesních cestách, vsuvky k objektům občas po pěšinách.
+- **Dělostřelecká tvrz Hůrka** na okraji Králík — největší veřejnosti přístupná tvrz, pět bojových objektů v nejvyšší odolnosti a **1,75 km podzemních chodeb a sálů**. Provozuje ji Společnost přátel čs. opevnění pro město Králíky. → [tvrzhurka.cz](https://www.tvrzhurka.cz)
+- **Pěchotní srub K-S 14 „U cihelny"** mezi Králíky a Prostřední Lipkou — muzeum s expozicí věnovanou mimo jiné četaři **Arnoštu Hradovi**. Provozuje Vojensko-historický klub Erika. → [cihelna.militaryclub.info](http://cihelna.militaryclub.info/)
+- **Vojenské muzeum Králíky** na severním okraji města — technika, zbraně, uniformy a informační centrum čs. opevnění. → [armyfort.cz](https://www.armyfort.cz)
+- **K-S 12b „Utržený"** — samostatná dělostřelecká pozorovatelna, nejzachovalejší jednotlivý objekt oblasti a jediné místo na Králicku s dochovaným pancéřovým zvonem.
+- **Vojenské muzeum Lichkov** ve srubech K-S 31 „U besídky" a K-S 32 „Na růžku". → [vojenskemuzeumlichkov.cz](https://www.vojenskemuzeumlichkov.cz/)
+- **K-S 5 „U potoka"** u Dolní Moravy — jediný objekt oblasti na území Olomouckého kraje, v péči KVH Kralka.
 
-## Další významná zastavení na trase
+**Dělostřelecká tvrz Adam** přístupná není. Po válce ji převzala armáda, přestavěla na sklad a využívá jej dodnes.
 
-![K-S 5 „U potoka" — první zastavení stezky, 500 m od nádraží Červená Voda. Pohled od východu.](/img/forts/k-s-5-u-potoka-e.-pohledodvychodu.jpg)
-*K-S 5 „U potoka" — externě přístupný srub III. odolnosti na začátku stezky.*
+Muzea v oblasti zastřešuje obecně prospěšná společnost **Králická pevnostní oblast** a od dubna do října pořádají takzvané **Společné víkendy** — vždy poslední víkend v měsíci, kdy jsou expozice otevřené i mimo běžnou dobu.
 
-![Tvrz Bouda — objekt K-S 22a „Krok". Jediná plně průchozí dělostřelecká tvrz v ČR.](/img/forts/tvrz-bouda-objekt-k-s-22a-krok.jpg)
-*Tvrz Bouda — klíčová atrakce stezky s prohlídkou v původních podzemních chodbách.*
+## Akce Cihelna
 
-### Jižní úsek — Mladkov a Jamné
+Největší akcí regionu je **Cihelna** — vzpomínková akce s bojovými ukázkami vojensko-historických klubů, prezentacemi armády, policie a IZS a výstavami techniky. Koná se každoročně **o některém srpnovém víkendu** na ploše u Vojenského muzea Králíky, poblíž srubu K-S 14, po němž nese jméno. Pořadatelem je Vojenské muzeum Králíky. Aktuální termín najdete na [armyfort.cz](https://www.armyfort.cz/cs/akce).
 
-Od Králík stezka pokračuje jihem k **Mladkovu** a dále k **Jamnému**, kde se napojuje na linii tzv. **pohraničních objektů** s výhledem do polské Kladské kotliny. Zde najdete desítky externě přístupných pěchotních srubů, z nichž většina je v původním nepoškozeném stavu (jen bez vybavení).
+## Historický kontext
 
-![K-S 14 „U cihelny" — detailní pohled na pancéřový zvon.](/img/forts/k-s-14-u-cihelny-5.jpg)
-*Pancéřový zvon K-S 14 — původní zvony objekt ztratil v 50.–60. letech, dnešní jsou dosazené náhrady.*
+Stavební úsek ŽSV III. Králíky patřil k nejsilněji opevněným v celé republice. Z 58 evidovaných objektů těžkého opevnění jich bylo **56 vybetonováno**; úsek se dělil na sedm podúseků — Červený Potok, Hůrka, Boříkovice, Bouda, Mladkov, Adam a Jedlina. Ze tří zdejších dělostřeleckých tvrzí — **Hůrka, Bouda, Adam** — jsou dvě dnes muzeem.
 
-- **Pěchotní sruby podél hřebenových cest** — desítky externě přístupných objektů, řada s informačními tabulemi
-- **Tvrz Adam** — stavebně dokončená dělostřelecká tvrz skrytá v lese; veřejnosti nepřístupná, objekty lze vidět jen zvenku
+Po Mnichovu připadla oblast v říjnu 1938 Německu. Řada objektů přišla za okupace i po válce o pancéřové zvony a kopule, některé poškodily poválečné zkoušky trhavin. Samotné sruby ale většinou stojí dodnes a od konce 80. let se několik z nich dočkalo muzejní obnovy.
 
 ## Co si vzít
 
-- **Pevné boty** (v okolí muzeí jsou hrubé cesty)
-- **Teplé oblečení** — i v létě je v objektech 8–12 °C
-- **Baterka** (některé venkovní objekty jsou přístupné bez osvětlení)
-- **Foťák** — vítá se, blesk u interiérových prohlídek zakázán
-- **Svačina** — mezi objekty jsou někde restaurační pauzy 2–3 h chůze
-- **Pitná voda** (povinně)
+- **Pevné boty** — okruh vede převážně po lesních cestách, s převýšením
+- **Teplé oblečení** — v podzemí tvrze je chladno i v létě
+- **Svačina a voda** — na trase s občerstvením spoléhat nelze
+- **Rezervace prohlídky tvrze Bouda** — zejména v hlavní sezóně
 
-## Praktické informace
+## Doprava
 
-**Doprava:**
-- Auto: D35 → Králíky (výstup ul. Střížová) — parkování u muzea
-- Vlak: Pardubice → Letohrad → Králíky (2,5 h); Červená Voda má přímou linku ze směru Šumperk
-
-**Ubytování a stravování:**
-- Nabídka penzionů a restaurací v Králíkách a okolních obcích — aktuální možnosti vyhledejte online
-
-## Historický kontext objektů
-
-Po Mnichovské dohodě byl Kladský klín **v říjnu 1938 zabrán Německem** spolu s ostatními Sudety. Objekty byly používány Wehrmachtem k testování a řada z nich za okupace i v poválečných letech přišla o **pancéřové zvony a kopule**. Samotné sruby však **většinou dodnes stojí** — byť bez původního vybavení — a několik z nich se od 80.–90. let dočkalo muzejní rekonstrukce.
+- **Vlakem:** Mladkov leží na trati Ústí nad Orlicí – Letohrad – Lichkov – Międzylesie, což je pro výchozí bod ideální. Uzlem oblasti je Dolní Lipka.
+- **Autem:** oblast prochází silnice I/43 (Lichkov – Dolní Lipka – Králíky), z Králík vede silnice II/312 na Hanušovice kolem tvrze Hůrka.
 
 ## Související
 
-- [Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu) — Betonová hranice je v celkovém TOP 10
-- [Víkend v Králíkách](/cesty/vikend-v-kralikach) — dvoudenní zkrácená verze
-- [Stezka Dobrošov](/cesty/stezka-dobrosov) — sousední stezka v Orlických horách
-
-**Máte konkrétní dotaz ke stezce? Napište nám — redakce stezku fyzicky navštěvuje a aktualizuje informace minimálně jednou ročně.**
+- [Víkend v Králíkách](/cesty/vikend-v-kralikach) — dvoudenní autoverze po hlavních cílech oblasti
+- [Stezka Dobrošov](/cesty/stezka-dobrosov) — sousední oblast v podhůří Orlických hor
+- [Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu) — širší kontext

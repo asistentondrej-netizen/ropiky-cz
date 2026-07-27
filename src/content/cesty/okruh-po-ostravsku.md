@@ -20,13 +20,13 @@ zastavky:
     nazev: MO-S 19 „Alej" — hlavní objekt muzea Darkovičky
     typ: pevnost
     doba_minut: 60
-    poznamka: Nejrekonstruovanější srub v ČR, plně vybavený interiér. Prohlídka s průvodcem.
+    poznamka: Hlavní objekt expozice — oboustranný dvoukřídlý srub III. stupně odolnosti s vybaveným interiérem. Prohlídka s průvodcem.
   - slug: mo-s-20-orel
     nazev: MO-S 20 „Orel"
     typ: pevnost
     doba_minut: 45
-    poznamka: Hlavní palebný objekt linie s protitankovým kanónem vz. 36 v replice lafety.
-  - slug: mo-s-18-obora
+    poznamka: Tvrzový srub nikdy nedokončené dělostřelecké tvrze Orel, nejvyšší IV. stupeň odolnosti.
+  - slug: mo-s-18
     nazev: MO-S 18 „Obora"
     typ: pevnost
     doba_minut: 45
@@ -39,7 +39,7 @@ zastavky:
     nazev: Tvrz Smolkov (externě)
     typ: pevnost
     doba_minut: 60
-    poznamka: Stavebně dokončená dělostřelecká tvrz (MO-S 37 až MO-S 41); areál dlouhodobě využívá armáda, objekty lze vidět jen zvenku.
+    poznamka: Dělostřelecká tvrz z pěti objektů MO-Sm-S 38 až 42 propojených zhruba 1,5 km podzemí; areál dlouhodobě využívá armáda, objekty lze vidět jen zvenku.
   - slug: mo-s-5-na-trati
     nazev: MO-S 5 „Na trati" (Bohumín — volitelný bonus)
     typ: pevnost
@@ -54,12 +54,12 @@ cover: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bohum%C3%ADn%2C
 updated: '2026-04-20'
 ---
 
-![Pěchotní srub MO-S 19 „Alej" — nejčastěji fotografovaný objekt Darkoviček.](/img/forts/p-chotn-srub-mo-s-19-v-aleji.jpg)
-*MO-S 19 „Alej" — rekonstruovaný interiér v aleji vzrostlých stromů. Hlavní tahák muzea.*
+![Pěchotní srub MO-S 19 „Alej" — hlavní objekt darkovického areálu.](/img/forts/p-chotn-srub-mo-s-19-v-aleji.jpg)
+*MO-S 19 „Alej" — rekonstruovaný interiér v aleji vzrostlých stromů. Hlavní objekt areálu.*
 
 ## Proč na Ostravsko
 
-Darkovičky jsou **největší a nejlépe rekonstruovaná fortifikační expozice v Česku** — pěchotní sruby **MO-S 18 „Obora"**, **MO-S 19 „Alej"** a **MO-S 20 „Orel"** doplněné lehkým objektem (řopíkem) a venkovní expozicí. Z Ostravy 20 minut autem, ideální pro rodiny a školní výlety. Kombinace průmyslové historie Ostravska a obranné linie z roku 1938.
+Darkovičky patří k nejlépe rekonstruovaným fortifikačním expozicím v Česku — pěchotní sruby **MO-S 18 „Obora"**, **MO-S 19 „Alej"** a **MO-S 20 „Orel"** doplněné lehkým objektem (řopíkem) a venkovní expozicí. Z Ostravy 20 minut autem, ideální pro rodiny a školní výlety. Kombinace průmyslové historie Ostravska a obranné linie z roku 1938.
 
 ## Na první pohled
 
@@ -67,9 +67,8 @@ Darkovičky jsou **největší a nejlépe rekonstruovaná fortifikační expozic
 |---|---|
 | **Start** | Muzeum čs. opevnění Hlučín-Darkovičky (GPS 49.9389, 18.1631) |
 | **Délka** | 25 km autem + 2 km pěšky |
-| **Cena** | 120 Kč dospělý, rodinné 250 Kč (dle webu SZM) |
-| **Sezona** | Duben–říjen, středa–neděle 9–17 (v zimě zavřeno) |
-| **Rezervace** | Bez rezervace, prohlídky s průvodcem v každou celou hodinu |
+| **Sezona** | Sezónní provoz — aktuální otevírací dobu ověřte na webu SZM |
+| **Rezervace** | Prohlídky s průvodcem — režim a termíny na webu SZM |
 | **Pro koho** | Rodiny s dětmi od 6 let, první návštěva čs. opevnění |
 | **Oficiální web** | [szm.cz](https://www.szm.cz) |
 
@@ -80,23 +79,23 @@ Darkovičky jsou **největší a nejlépe rekonstruovaná fortifikační expozic
 **10:00–13:00 — Muzeum čs. opevnění Darkovičky** (provozuje Slezské zemské muzeum).
 
 ![MO-S 20 „Orel" — hlavní palebný objekt Darkoviček.](/img/forts/darkovice-mo-s-20-2015-05-01-03-.jpg)
-*MO-S 20 „Orel" — protitankový kanón v replice lafety.*
+*MO-S 20 „Orel" — tvrzový srub nikdy nedokončené dělostřelecké tvrze.*
 
 Sruby areálu s interiérovou prohlídkou:
-- **MO-S 19 „Alej"** — nejrekonstruovanější srub v ČR, plně vybavený interiér s lůžky, lafetami a pancéřovým zvonem.
-- **MO-S 20 „Orel"** — hlavní palebný objekt linie s protitankovým kanónem vz. 36.
+- **MO-S 19 „Alej"** — hlavní objekt expozice, vybavený interiér s lůžky, lafetami a pancéřovým zvonem; veřejnosti zpřístupněn 28. září 1988.
+- **MO-S 20 „Orel"** — tvrzový srub nedokončené dělostřelecké tvrze Orel, nejvyšší IV. stupeň odolnosti; za ostravské operace 1945 opěrný bod německé obrany.
 - **MO-S 18 „Obora"** — třetí pěchotní srub areálu; expozici doplňuje lehký objekt (řopík).
 
-Součást prohlídky: venkovní expozice (protitankové ježky, zákopy, dělostřelecká baterie), dobové uniformy, audiovizuální program o Mnichovu.
+Součástí areálu je i venkovní expozice s rekonstruovanými ženijními zátarasy a protitankovým příkopem a lehký objekt vz. 37 typu A-140 Z.
 
-**Otevřeno:** sezónně duben–říjen, středa–neděle 9:00–17:00 (prázdniny i pondělí). V zimě muzeum zavřeno, stezku lze projít externě. Vstupné orientačně 120 Kč dospělí / 60 Kč děti / 250 Kč rodinné — **aktuální ceny ověřte na [szm.cz](https://www.szm.cz)**.
+**Provozní doba i vstupné se mění podle sezóny — ověřte je před cestou na [webu Slezského zemského muzea](https://www.szm.cz/rubrika/41/expozicni-arealy/areal-cs-opevneni-hlucin-darkovicky.html).** Mimo hlavní sezónu bývá režim omezený, okolní objekty lze ale projít po značené stezce kdykoli.
 
 **13:00–14:00 — Oběd v Hlučíně** (5 min autem).
 
-**14:30–15:30 — Tvrz Smolkov** — stavebně dokončená dělostřelecká tvrz; areál dlouhodobě využívá armáda, objekty lze vidět jen zvenku z veřejných cest.
+**14:30–15:30 — Tvrz Smolkov** — dělostřelecká tvrz z pěti objektů MO-Sm-S 38 až 42; areál dlouhodobě využívá armáda, objekty lze vidět jen zvenku z veřejných cest.
 
 ![MO-S 38 u Háje ve Slezsku (Smolkov) — objekt dokončené dělostřelecké tvrze.](/img/forts/h-j-ve-slezsku-smolkov-mo-s-38-2015-04-14-01-.jpg)
-*Tvrz Smolkov — stavebně dokončená tvrz s pěti objekty MO-S 37 až MO-S 41.*
+*Tvrz Smolkov — pět objektů MO-Sm-S 38 až 42 propojených podzemím; veřejnosti nepřístupná.*
 
 **16:00 — Návrat do Ostravy** (volitelně objížďkou přes Bohumín k MO-S 5).
 
@@ -110,9 +109,9 @@ Pro zájemce, kteří chtějí vidět další objekt mimo muzeum. MO-S 5 leží 
 ## Tipy pro rodinu
 
 - **Ideální rodinný výlet** — objekty jsou vybaveny pro děti od 6 let.
-- **Naučná stezka** propojuje muzejní objekty (1,5 km, značená).
+- **Naučná stezka** je značená zeleně, měří zhruba 6,5 km a vede od MO-S 16 „Rozcestí" k MO-S 24 „Signál" kolem devíti objektů.
 - **Teplota v objektech** — celoročně kolem 12 °C, teplejší oblečení i v létě.
-- **Parkování zdarma** přímo u muzea.
+- **Parkoviště** přímo u areálu.
 
 ## Rozšíření okruhu
 
@@ -121,5 +120,4 @@ Pro zájemce, kteří chtějí vidět další objekt mimo muzeum. MO-S 5 leží 
 
 ## Kontakt a rezervace
 
-- Slezské zemské muzeum — Darkovičky: [szm.cz](https://www.szm.cz)
-- Telefon pro skupinové rezervace (10+ osob): +420 553 657 210
+- Slezské zemské muzeum — Areál čs. opevnění Hlučín-Darkovičky: [szm.cz](https://www.szm.cz/rubrika/41/expozicni-arealy/areal-cs-opevneni-hlucin-darkovicky.html)

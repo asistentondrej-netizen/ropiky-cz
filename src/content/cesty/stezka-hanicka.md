@@ -1,110 +1,114 @@
 ---
-title: "Naučná stezka Hanička — kolem tvrze dvou epoch"
-description: "Kompaktní naučná stezka kolem tvrze Hanička v Orlických horách — 5 km okruh. Unikátní téma: souběžná historie čs. opevnění a přestavby pro federální ministerstvo vnitra ČSSR (projekt Kahan)."
+title: "Naučná stezka Opevnění Rokytnicka — kolem tvrze dvou epoch"
+description: "Značená stezka se čtrnácti panely mezi Panským Polem a Anenským vrchem, jejímž středobodem je tvrz Hanička. Unikátní téma: čs. opevnění z let 1936–1938 a přestavba pro federální ministerstvo vnitra (projekt Kahan)."
 region: "Královéhradecký kraj"
-delka_km: 5
+delka_km: 6
 delka_dni: 1
 obtiznost: "snadna"
 rocni: "sezonne-duben-rijen"
 doprava: "auto-chuze"
 startPoint:
-  nazev: "Návštěvnické centrum Tvrz Hanička"
+  nazev: "Tvrz Hanička (parkoviště)"
   lat: 50.2450
   lon: 16.5683
 zastavky:
-  - nazev: "Návštěvnické centrum"
-    typ: "muzeum"
-    doba_minut: 15
-    poznamka: "Výchozí bod — vstupenky, mapa stezky, úvodní expozice o obou epochách tvrze."
-  - nazev: "Pěchotní srub R-S 76"
-    typ: "pevnost"
+  - nazev: "Panské Pole — nástup na stezku"
+    typ: "obec"
     doba_minut: 20
-    poznamka: "První bojový objekt na trase, externě přístupný. Hanička má celkem 6 objektů — R-S 76 až R-S 80 včetně vchodového R-S 79a."
-  - nazev: "Pěchotní srub R-S 77"
+    poznamka: "Stezka je vedena podél červené turistické značky mezi Panským Polem a Anenským vrchem; brožuru distribuuje infocentrum v Rokytnici v Orlických horách."
+  - nazev: 'Pěchotní srub R-S 76 „Lom"'
     typ: "pevnost"
-    doba_minut: 20
-    poznamka: "Druhý bojový objekt tvrze; areál poznamenala přestavba v rámci projektu Kahan (1975 až počátek 90. let)."
+    doba_minut: 25
+    poznamka: "Pěchotní srub tvrze. Součást prodloužené prohlídkové trasy."
   - slug: "tvrz-hanicka"
-    nazev: "Vchodový objekt R-S 79a a hlavní vstup"
+    nazev: 'Vchodový objekt R-S 79a „U silnice" a hlavní prohlídka'
     typ: "pevnost"
-    doba_minut: 90
-    poznamka: "Klíčové místo — muzejní prohlídka (90 min, povinný průvodce). Rezervace přes hanicka.cz."
-  - nazev: "Ventilační věž projektu Kahan"
-    typ: "muzeum"
-    doba_minut: 15
-    poznamka: "Betonový ventilační objekt z éry projektu Kahan — srovnání s původními čs. pancéřovými zvony."
-  - nazev: "Vyhlídka nad tvrzí"
+    doba_minut: 80
+    poznamka: "Vstup do podzemí. Nabízejí se dvě trasy — základní (kolem 50 minut) a prodloužená (kolem 80 minut). Průvodce povinný, provozuje město Rokytnice v Orlických horách."
+  - slug: "r-s-79-na-mytine"
+    nazev: 'Dělostřelecký srub R-S 79 „Na mýtině"'
+    typ: "pevnost"
+    doba_minut: 25
+    poznamka: "Objekt určený pro tři houfnice ráže 100 mm — ty ovšem nikdy dodány nebyly. Výstup z podzemí vede právě tímto srubem."
+  - nazev: 'R-S 78 „Na pasece" a R-S 80 „Potůček"'
+    typ: "pevnost"
+    doba_minut: 30
+    poznamka: 'R-S 78 měl nést otočnou dělovou věž, která nebyla vyrobena. R-S 77 „Pozorovatelna" je dnes zavezená zeminou a součástí trasy není.'
+  - nazev: "Anenský vrch a návrat"
     typ: "priroda"
-    doba_minut: 20
-    poznamka: "Vyhlídka v nadmořské výšce kolem 750 m s pohledem na Orlické hory a do Polska. Strategický význam Haničky — střežila přístup z Kladské kotliny."
-  - nazev: "Návrat do návštěvnického centra"
-    typ: "muzeum"
-    doba_minut: 10
-    poznamka: "Závěrečná tabule se shrnutím dvou historií — jak jedna stavba může sloužit diametrálně odlišným účelům."
+    doba_minut: 60
+    poznamka: "Závěr okruhu po červené značce s výhledy do Orlických hor a k polské hranici."
 tags: ["turistika", "hanička", "orlické hory", "stezky", "studená válka"]
 cover: "/img/clanky/hanicka-hero.jpg"
-updated: 2026-04-20
+updated: 2026-07-27
 ---
 
-**Naučná stezka Hanička** je **nejkratší z velkých fortifikačních stezek v ČR** — ale v obsahu unikátní. Stezka kroutí okolo **tvrze Hanička**, jedné z pěti stavebně dokončených čs. dělostřeleckých tvrzí, která nese **dvě historické vrstvy**: nejprve čs. opevnění let 1936–1938, pak od roku 1975 do počátku 90. let přestavbu pro **federální ministerstvo vnitra ČSSR** (projekt Kahan). Tato **dvoubarevná historie** — fortifikační a studenoválečná — dělá ze stezky jedinečný zážitek.
+Značená stezka kolem tvrze Hanička se jmenuje **Naučná stezka Opevnění Rokytnicka**. Má **čtrnáct informačních panelů** rozmístěných podél červené turistické značky mezi **Panským Polem a Anenským vrchem** a v prostoru samotné tvrze; projít ji zabere zhruba dvě hodiny. Brožuru k ní vydává a distribuuje infocentrum v Rokytnici v Orlických horách.
+
+Obsahově je to nejzvláštnější fortifikační výlet v Česku. Hanička totiž nese **dvě zcela nesouměřitelné historické vrstvy** — a obě jsou na místě vidět.
 
 ![Podzemí tvrze Hanička — chodba upravená při přestavbě pro federální ministerstvo vnitra ČSSR. Foto: Harold / Wikimedia (CC BY-SA 3.0)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg/1280px-Hani%C4%8Dka%2C_podzem%C3%AD_%28rok_2010%3B_01%29.jpg)
-*Podzemí tvrze Hanička — chodby upravené v éře projektu Kahan slouží dnes jako unikátní muzeum studené války.*
+*Podzemí Haničky — prostory upravené v éře projektu Kahan.*
 
-## Unikátnost stezky: dvě historie
+## Vrstva první: dělostřelecká tvrz 1936–1938
 
-Zatímco většina fortifikačních naučných stezek pracuje s jedním tématem (čs. opevnění 1935–1938), **Hanička nese dvě vrstvy**:
+Stavba tvrze začala **28. srpna 1936**, první betonáž proběhla v červenci 1937. Tvrz tvoří **šest povrchových objektů** propojených zhruba **1,5 kilometru podzemních chodeb**:
 
-**Vrstva 1 — 1936–1938:** dělostřelecká tvrz ČSR, stavebně dokončená — šest objektů R-S 76 až R-S 80 včetně vchodového R-S 79a, propojených podzemím.
+| Označení | Krycí jméno | Typ |
+|---|---|---|
+| R-S 76 | Lom | pěchotní srub |
+| R-S 77 | Pozorovatelna | dělostřelecká pozorovatelna |
+| R-S 78 | Na pasece | srub s otočnou dělovou věží |
+| R-S 79 | Na mýtině | dělostřelecký srub |
+| R-S 79a | U silnice | vchodový objekt |
+| R-S 80 | Potůček | pěchotní srub |
 
-**Vrstva 2 — 1975 až počátek 90. let:** přestavba pro **federální ministerstvo vnitra ČSSR** (projekt Kahan) — podzemí doplněné o moderní technologie, filtroventilaci a odolné vstupy.
+Stavebně byla Hanička v podstatě hotová — **výzbroj ale nikoli**. Chyběly tři stomilimetrové houfnice pro srub Na mýtině i otočná dělová věž pro Na pasece; ta nebyla nikdy vyrobena. V září 1938 tu byly jen strážní jednotky, ne plná osádka.
 
-Stezka vysvětluje, jak **naprosto rozdílné účely** byly sloučeny v jednom objektu a jak tyto dvě historické vrstvy dnes koexistují.
+**R-S 77 „Pozorovatelna" je dnes zavezená zeminou** a součástí prohlídkové trasy není.
 
-## Muzejní prohlídka tvrze
+## Vrstva druhá: projekt Kahan
 
-**Bezpodmínečně doporučujeme** zakombinovat stezku s prohlídkou tvrze. Délka prohlídky 90 minut, trasa vede původním čs. objektem i prostory z éry projektu Kahan, průvodce je povinný. Aktuální vstupné a rezervace přes [hanicka.cz](https://www.hanicka.cz).
+V roce **1975** tvrz převzalo **federální ministerstvo vnitra**. Pod krycím názvem **objekt Kahan** tu mělo vzniknout chráněné válečné pracoviště resortu vnitra — protiatomový úkryt s velitelským a spojovacím zázemím. Vlastní stavební práce začaly v roce **1979** a byly rozvrženy do tří etap. Kolem objektu vzniklo ochranné pásmo, povrchové objekty byly upraveny a částečně zavezeny kvůli hermetizaci.
 
-Prohlídka začíná v původním vchodovém objektu R-S 79a, pokračuje do prostor upravených v éře projektu Kahan (ubikace, velín, elektrocentrála) a končí u ventilační šachty. Výklad kombinuje **fortifikační a politologické** perspektivy.
+**Přestavba nikdy nebyla dokončena.** Práce pokračovaly ještě po roce 1989 a definitivně skončily v roce **1993**, kdy byl objekt označen za nepotřebný. V roce **1995** jej získalo město Rokytnice v Orlických horách a zpřístupnilo veřejnosti.
 
-## Harmonogram výletu
+Paradoxně právě díky nedokončení se v tvrzi zachovala řada původních předválečných prvků. Dnes jsou v podzemí k vidění dieselagregáty, filtrovna, energetický velín i kasárenské sály z éry Kahanu.
 
-**Ideální jednodenní plán:**
+> Pozn.: v populárních textech se občas objevuje, že šlo o „sovětský kryt" nebo o „rezervní stanoviště ÚV KSČ". Ani jedno není doložené — zadavatelem bylo československé federální ministerstvo vnitra.
 
-- 9:30 — Příjezd a parkování
-- 9:45–10:00 — Návštěvnické centrum
-- 10:00–11:00 — Stezka (úvodní zastavení)
-- 11:00–12:30 — **Prohlídka tvrze s průvodcem** (rezervujte!)
-- 12:30–13:30 — Oběd (restaurace Hanička)
-- 13:30–15:30 — Pokračování stezky (zbývající zastavení)
-- 15:30–16:00 — Souvenýry v návštěvnickém centru
-- 16:00 — Odjezd
+V letech 2019–2020 prošla tvrz další obnovou v rámci přeshraničního projektu — byla mimo jiné obnovena střílna zničená v 70. letech a upraveny přístupové komunikace a parkoviště.
 
-## Kam dál
+## Prohlídka
 
-Hanička je **centrálně položená** v Orlických horách, takže se dobře kombinuje s:
+Prohlídky vedou průvodci a nabízejí se dvě trasy: **základní** (kolem 50 minut — vchodový objekt, podzemí, strojovny, muniční skladiště, podzemní kasárna, výstup dělostřeleckým srubem) a **prodloužená** (kolem 80 minut, navíc podzemí pod objektem R-S 78 a srub R-S 76).
 
-- **Tvrz Bouda** (25 km jižně) — hlavní cíl Betonové hranice
-- **Dělostřelecká tvrz Dobrošov** (cca 30 km severozápadně) — rozestavěná tvrz u Náchoda
-- **Ski areál Deštné** (10 km) — v zimě pro aktivní zastávku
+**Aktuální sezónu, časy prohlídek a vstupné najdete na oficiálním webu.** Provozovatelem je město Rokytnice v Orlických horách.
 
-## Doprava
+→ [hanicka.cz](https://hanicka.cz)
 
-- **Auto:** silnice 14 → Rokytnice v Orl. h. → Orlické Záhoří (2 h z Prahy)
-- **Vlak:** Praha → Hradec Králové → Týniště nad Orlicí → bus (3 h)
-- **Parkování:** u návštěvnického centra, zdarma
+## Jak si den rozvrhnout
+
+Stezku i prohlídku zvládnete pohodlně za jeden den. Praktické je nechat si prohlídku tvrze na dopoledne a odpoledne projít okruh po červené značce; v hlavní sezóně je vhodné mít prohlídku rezervovanou.
+
+Kdo chce výlet natáhnout, může přidat předsunutý srub **R-S 74 „Na holém"** na hřebeni nad Panským Polem — dostupný pěšky po červené značce.
+
+## Co si vzít
+
+- **Teplé oblečení** — v podzemí je chladno po celý rok
+- **Turistická obuv** — stezka vede lesním a horským terénem
+- **Svačina a voda**
+- **Rezervace prohlídky** v hlavní sezóně
 
 ## Pro koho
 
-**Vhodné:** rodiny s dětmi od 10 let (obě historie jsou pro ně uchopitelné), zájemce o historii studené války (unikátní téma v ČR), fotografy (kontrast mezi moderní betonovou věží a krajinou).
+**Vhodné** pro rodiny s dětmi zhruba od deseti let, pro zájemce o dějiny studené války — v tomhle ohledu Hanička nemá v Česku obdoby — a pro fotografy.
 
-**Méně vhodné:** cyklisty (terén je pěší, bez sjízdných tras), návštěvníky s klaustrofobií (v tvrzi jsou úzké chodby z 80. let).
+**Méně vhodné** pro cyklisty (trasa je pěší) a pro návštěvníky s klaustrofobií.
 
 ## Související
 
 - [Tvrz Hanička](/katalog/tvrz-hanicka) — podrobné informace o objektu
-- [Stezka Dobrošov](/cesty/stezka-dobrosov) — sousední stezka v Orlických horách
-- [Stezka Betonová hranice](/cesty/stezka-betonova-hranice) — velká stezka u Králík
-- [Top 10 fortifikačních výletů](/clanky/top-10-fortifikacnich-vyletu)
-
-**Důležitá poznámka:** Muzeum tvrze Hanička **systematicky dokumentuje éru projektu Kahan**. Pokud vás zajímá studená válka, je to **povinná zastávka**.
+- [Orlické hory — tvrz Hanička a projekt Kahan](/cesty/orlicke-hory-hanicka) — autoverze okruhu
+- [Stezka Dobrošov](/cesty/stezka-dobrosov) — sousední oblast u Náchoda
+- [Stezka Betonová hranice](/cesty/stezka-betonova-hranice) — okruh u Králík

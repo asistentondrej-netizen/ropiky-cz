@@ -28,7 +28,7 @@ zastavky:
   - nazev: Adršpašské skály (vstupní okruh)
     typ: priroda
     doba_minut: 180
-    poznamka: Jeden z nejnavštěvovanějších přírodních úkazů v ČR. Vstupné 150 Kč, okruh 3 km.
+    poznamka: Jeden z nejnavštěvovanějších přírodních úkazů v ČR. Klasický okruh měří kolem 3 km.
   - nazev: Broumovské stěny (vyhlídka Junácká)
     typ: priroda
     doba_minut: 90
@@ -52,7 +52,6 @@ updated: '2026-04-20'
 |---|---|
 | **Start** | Hronov (z Prahy 2 h autem) |
 | **Délka** | 30 km auto + 5 km pěšky |
-| **Cena** | T-S 19 ~80 Kč, Adršpach ~150 Kč, Broumovské stěny zdarma |
 | **Sezona** | Sezónně květen–září (T-S 19), celoročně Adršpach |
 | **Rezervace** | Adršpach POVINNÁ v červenci–srpnu přes skalyadrspach.cz |
 | **Pro koho** | Rodiny s dětmi od 8 let, kdo chce kombinaci historie + přírody |
@@ -73,13 +72,13 @@ Trutnovská linie čs. opevnění leží **v nejkrásnější pískovcové kraji
 - **Panoramatický výhled** z hřebene na Broumovské stěny, Adršpach a polskou hranici (Kladsko).
 - Expozice zaměřená na osobní příběhy vojáků a unikátní polohu sub v přírodě.
 
-Vstupné 80 Kč / 40 Kč, otevřeno víkendy květen–září 10:00–17:00, v červenci a srpnu i všední dny.
+Provoz je sezónní, převážně o víkendech — aktuální otevírací dobu a vstupné ověřte na webu provozovatele.
 
 **10:45–11:30 — Cyklistický nebo pěší okruh** po cyklostezkách Broumovska (pokud máte kolo). Alternativně přesun autem do Adršpachu (20 min).
 
 **11:30–12:30 — Oběd v Hronově nebo v Teplicích nad Metují** (oba přímo na trase).
 
-**13:00–16:00 — Adršpašské skály — vstupní okruh.** Jeden z nejnavštěvovanějších přírodních úkazů v Česku. Klasický okruh 3,2 km (2–3 hodiny). Vstupné 150 Kč / 70 Kč. **Rezervace nutná v červenci–srpnu** (limitovaný vstup).
+**13:00–16:00 — Adršpašské skály — vstupní okruh.** Jeden z nejnavštěvovanějších přírodních úkazů v Česku. Klasický okruh měří zhruba 3,2 km (2–3 hodiny). **V hlavní sezóně je vstup limitovaný a je potřeba rezervace** — ověřte podmínky předem.
 
 **16:30–18:00 — Broumovské stěny — vyhlídka Junácká** (z Adršpachu 20 min autem + 30 min pěšky). Panoramatický výhled na trutnovskou linii opevnění, polské Kladsko a celé Broumovsko.
 
