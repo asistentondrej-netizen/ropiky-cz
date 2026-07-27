@@ -11,7 +11,9 @@
     "preview": "astro preview",
     "astro": "astro",
     "check:orphans": "node scripts/check-orphans.mjs",
-    "check:orphans:json": "node scripts/check-orphans.mjs --json"
+    "check:orphans:json": "node scripts/check-orphans.mjs --json",
+    "check:links": "node scripts/check-links.mjs",
+    "check:links:hosts": "node scripts/check-links.mjs --hosts"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.7",
