@@ -34,9 +34,9 @@ navsteva:
     - Ideální pro cyklisty — navazuje na cyklostezky Broumovska.
     - Od zastávky 1 km pěšky po lesní cestě.
 spravujicSubjekt:
-  nazev: Klub vojenské historie Náchod
+  nazev: KVH T-S 19 Turov, z.s.
   typ: klub-vojenske-historie
-  web: https://www.klub-vojenske-historie.cz
+  web: https://www.t-s19.cz
 pamatka:
   status: kulturni-pamatka
 photos:
@@ -67,8 +67,8 @@ related:
     - pechotni-srub
     - pancerovy-zvon
 sources:
-  - title: Klub vojenské historie Náchod
-    url: https://www.klub-vojenske-historie.cz
+  - title: KVH T-S 19 Turov — oficiální web
+    url: https://www.t-s19.cz
     type: web
 wikidata_id: Q28331532
 wikipedia_url: https://cs.wikipedia.org/wiki/T-S_19_Turov

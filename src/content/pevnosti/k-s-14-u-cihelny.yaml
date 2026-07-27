@@ -35,9 +35,9 @@ navsteva:
     - Akce „Cihelna" — velké davy, doporučena rezervace ubytování.
     - Prohlídky s průvodcem, skupinové nebo individuální.
 spravujicSubjekt:
-  nazev: Vojensko-historický klub Pardubicko
+  nazev: Vojensko-historický klub Erika, z.s.
   typ: klub-vojenske-historie
-  web: https://www.vojenske-muzeum-kraliky.cz
+  web: http://cihelna.militaryclub.info
 pamatka:
   status: kulturni-pamatka
   poznamka: Součást rozsáhlého souboru králických opevnění.
@@ -76,11 +76,11 @@ related:
     - pechotni-srub
     - pancerovy-zvon
 sources:
-  - title: Vojenské muzeum Králíky
-    url: https://www.vojenske-muzeum-kraliky.cz
+  - title: Muzeum čs. opevnění K-S 14 „U cihelny" (VHK Erika)
+    url: http://cihelna.militaryclub.info
     type: web
-  - title: Akce Cihelna — oficiální web
-    url: https://www.akce-cihelna.cz
+  - title: Akce Cihelna — Vojenské muzeum Králíky
+    url: https://www.armyfort.cz/cs/akce
     type: web
 wikidata_id: Q17115644
 wikipedia_url: https://cs.wikipedia.org/wiki/K-S_14_U_cihelny

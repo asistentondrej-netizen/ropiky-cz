@@ -28,7 +28,7 @@ historieMilniky:
 visit: >
   Provozuje Klub vojenské historie Králíky. Jeden z nejdostupnějších objektů ŘOP v ČR vlakem (200 m od nádraží).
   Otevřeno květen–říjen, víkendy 10:00–17:00. V hlavní sezóně i všední dny. Prohlídky s průvodcem v pravidelných
-  intervalech. Aktuální informace na kvh-kraliky.cz.
+  intervalech. Aktuální informace na kvhvlasim.cz.
 navsteva:
   pristupnost: auto-az-k-objektu
   vhodnostRodiny: idealni
@@ -39,9 +39,9 @@ navsteva:
     - Ideální jako startovní bod pro prohlídku králických opevnění.
     - Ukázka překážkového systému (protitankové jámy) ve venkovním prostoru.
 spravujicSubjekt:
-  nazev: Klub vojenské historie Králíky
+  nazev: Klub vojenské historie Vlašim
   typ: klub-vojenske-historie
-  web: https://www.kvh-kraliky.cz
+  web: http://kvhvlasim.cz
 pamatka:
   status: kulturni-pamatka
 photos:
@@ -77,8 +77,8 @@ related:
     - pechotni-srub
     - pancerovy-zvon
 sources:
-  - title: Klub vojenské historie Králíky
-    url: https://www.kvh-kraliky.cz
+  - title: Klub vojenské historie Vlašim — pevnostní muzeum K-S 8
+    url: http://kvhvlasim.cz
     type: web
 wikidata_id: Q69126897
 commons_category: K-S 8 U nádraží casemate

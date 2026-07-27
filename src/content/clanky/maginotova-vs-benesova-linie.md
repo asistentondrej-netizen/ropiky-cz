@@ -4,7 +4,7 @@ description: "Francouzská Maginotova linie inspirovala československé opevně
 pubDate: 2026-04-29
 author: "Redakce ropiky.cz"
 tags: ["historie", "Maginotova linie", "Benešova linie", "srovnání", "fortifikace"]
-cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Maginot-line-bunker-fort-fermont-2.jpg/1280px-Maginot-line-bunker-fort-fermont-2.jpg"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gros_Ouvrage_du_Hackenberg_%289621885197%29.jpg/1280px-Gros_Ouvrage_du_Hackenberg_%289621885197%29.jpg"
 related:
   - "stranky/co-je-rop"
   - "stranky/historie-a-politicky-kontext"

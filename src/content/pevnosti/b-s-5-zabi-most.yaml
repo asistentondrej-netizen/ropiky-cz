@@ -32,7 +32,7 @@ navsteva:
 spravujicSubjekt:
   nazev: Zachráňme petržalské bunkre (občianske združenie)
   typ: klub-vojenske-historie
-  web: https://www.zachranmepetrzalskebunkre.sk
+  web: https://bunker.bs8.sk/
 pamatka:
   status: kulturni-pamatka
   poznamka: Součást souboru petržalských bunkrů SR.
@@ -46,8 +46,8 @@ related:
     - pechotni-srub
     - pancerovy-zvon
 sources:
-  - title: Zachráňme petržalské bunkre
-    url: https://www.zachranmepetrzalskebunkre.sk
+  - title: Zachráňme petržalské bunkre — stránky združenia
+    url: https://bunker.bs8.sk/
     type: web
   - title: 'Svoboda T., Lakosil J.: Pevnostní areál Bratislava'
     type: kniha

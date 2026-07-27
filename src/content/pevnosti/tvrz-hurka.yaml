@@ -28,7 +28,7 @@ historieMilniky:
     udalost: Mnichovská dohoda — opevnění odevzdáno bez boje
 visit: >
   Prohlídka tvrze Hůrka je součástí Králického pevnostního areálu. Probíhá s průvodcem v sezóně. Aktuální informace na
-  kralickypevnostniareal.cz.
+  tvrzhurka.cz.
 navsteva:
   pristupnost: auto-kratka-chuze
   vhodnostRodiny: starsi-deti
@@ -39,9 +39,9 @@ navsteva:
     - V podzemí je celoročně nízká teplota — teplé oblečení.
     - Prohlídka zahrnuje schody do podzemí.
 spravujicSubjekt:
-  nazev: Vojensko-historický klub ERIKA Brno
+  nazev: Společnost přátel čs. opevnění, o.p.s.
   typ: klub-vojenske-historie
-  web: https://www.kralickypevnostniareal.cz
+  web: https://www.tvrzhurka.cz
 pamatka:
   status: kulturni-pamatka
 photos:
@@ -65,8 +65,8 @@ related:
     - delostrelecka-tvrz
     - pancerovy-zvon
 sources:
-  - title: Králický pevnostní areál
-    url: https://www.kralickypevnostniareal.cz
+  - title: Dělostřelecká tvrz Hůrka — oficiální web
+    url: https://www.tvrzhurka.cz
     type: web
 wikidata_id: Q12021301
 updated: '2026-05-05'

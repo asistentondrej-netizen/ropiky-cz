@@ -4,7 +4,7 @@ description: "Tipy na muzejně zpřístupněné československé pevnosti — ř
 pubDate: 2026-04-23
 author: "Redakce ropiky.cz"
 tags: ["výlet", "muzea", "pevnosti", "řopíky", "tvrze", "turistika"]
-cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bouda_-_d%C4%9Blost%C5%99eleck%C3%A1_tvrz.jpg/1280px-Bouda_-_d%C4%9Blost%C5%99eleck%C3%A1_tvrz.jpg"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2004%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Doln%C3%AD_Bo%C5%99%C3%ADkovice%2C_K-S_21_%28rok_2004%29.jpg"
 related:
   - "stranky/co-je-rop"
   - "clanky/co-je-ropik"

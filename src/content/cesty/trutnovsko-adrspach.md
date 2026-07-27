@@ -55,7 +55,7 @@ updated: '2026-04-20'
 | **Sezona** | Sezónně květen–září (T-S 19), celoročně Adršpach |
 | **Rezervace** | Adršpach POVINNÁ v červenci–srpnu přes skalyadrspach.cz |
 | **Pro koho** | Rodiny s dětmi od 8 let, kdo chce kombinaci historie + přírody |
-| **Oficiální weby** | [klub-vojenske-historie.cz](https://www.klub-vojenske-historie.cz), [skalyadrspach.cz](https://www.skalyadrspach.cz) |
+| **Oficiální weby** | [t-s19.cz](https://www.t-s19.cz), [skalyadrspach.cz](https://www.skalyadrspach.cz) |
 
 ## Proč kombinovat fortifikaci s přírodou
 
@@ -118,6 +118,6 @@ Provoz je sezónní, převážně o víkendech — aktuální otevírací dobu a
 
 ## Kontakt
 
-- Klub vojenské historie Náchod (T-S 19): [klub-vojenske-historie.cz](https://www.klub-vojenske-historie.cz)
+- KVH T-S 19 Turov, z.s. (správce objektu): [t-s19.cz](https://www.t-s19.cz)
 - Skalní město Adršpach: [skalyadrspach.cz](https://www.skalyadrspach.cz)
 - Turistické informace Broumovsko: [broumovsko.cz](https://www.broumovsko.cz)

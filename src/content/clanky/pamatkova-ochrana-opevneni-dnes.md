@@ -53,11 +53,13 @@ Z padesáti dochovaných významných objektů je dnes veřejnosti přístupnýc
 | **Dělostřelecká tvrz Bouda** | Tvrz Bouda, z.s. | 1990 | [tvrzbouda.cz](https://www.tvrzbouda.cz/) |
 | **Dělostřelecká tvrz Hanička** | Město Rokytnice v O. h. | 1995 | [hanicka.cz](https://www.hanicka.cz/) |
 | **Tvrz Stachelberg** | Stachelberg, z.s. | 1993 | [stachelberg.cz](https://www.stachelberg.cz/) |
-| **Vojenské muzeum Králíky** (K-S 14) | Společnost přátel čs. opevnění | 1996 | [armyfort.com](https://www.armyfort.com/) |
+| **Vojenské muzeum Králíky** | ARMY FORT s.r.o. (pro město Králíky) | — | [armyfort.cz](https://www.armyfort.cz/) |
+| **K-S 14 „U cihelny"** | Vojensko-historický klub Erika, z.s. | — | [cihelna.militaryclub.info](http://cihelna.militaryclub.info/) |
+| **Dělostřelecká tvrz Bouda / Hůrka** | Společnost přátel čs. opevnění, o.p.s. | 1990 / — | [tvrzbouda.cz](https://www.tvrzbouda.cz/) · [tvrzhurka.cz](https://www.tvrzhurka.cz/) |
 | **Areál čs. opevnění Hlučín-Darkovičky** | Slezské zemské muzeum | 1992 | [szm.cz](https://www.szm.cz/) |
-| **Muzeum MO-S 5 Na trati** | CZEFO, o.s. | 1995 | [mo-s5.cz](https://www.mo-s5.cz/) |
+| **Muzeum MO-S 5 Na trati** | KVH Bohumín, z.s. | 1999 | [bunkr-bohumin.cz](https://www.bunkr-bohumin.cz/) |
 | **Muzeum Šatov** (MJ-S 3 Zahrada) | Technické muzeum Brno | 1991 | [tmbrno.cz](https://www.tmbrno.cz/) |
-| **R-S 74 Na Holém** | Město Rokytnice v O. h. | 2003 | [rokytnicevoh.cz](https://www.rokytnice.cz/) |
+| **Tvrz Hanička, R-S 74** | Město Rokytnice v Orlických horách | 1995 | [hanicka.cz](https://hanicka.cz/) · [rokytnicevoh.cz](https://rokytnicevoh.cz/) |
 
 ![Interiér podzemí dělostřelecké tvrze Bouda — jeden z nejzachovalejších tvrzí ve střední Evropě. Foto: Harold, CC BY-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg/1280px-Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg)
 

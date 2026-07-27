@@ -4,7 +4,7 @@ description: "Když v lese narazíte na betonový bunkr s úzkými střílnami, 
 pubDate: 2026-04-23
 author: "Redakce ropiky.cz"
 tags: ["řopíky", "lehké opevnění", "průvodce", "začátečník"]
-cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/%C5%A0aratice%2C_%C5%99op%C3%ADk_%28rok_2014%3B_01%29.jpg/1280px-%C5%A0aratice%2C_%C5%99op%C3%ADk_%28rok_2014%3B_01%29.jpg"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Vrat%C4%9Bn%C3%ADn%2C_%C5%99op%C3%ADk_9-1263-A-140_S_%282017-07-27%3B_07%29.jpg/1280px-Vrat%C4%9Bn%C3%ADn%2C_%C5%99op%C3%ADk_9-1263-A-140_S_%282017-07-27%3B_07%29.jpg"
 related:
   - "stranky/co-je-rop"
   - "stranky/fortifikacni-linie"
