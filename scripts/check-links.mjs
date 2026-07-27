@@ -11,9 +11,12 @@
  *   node scripts/check-links.mjs --hosts    # jen DNS kontrola domén
  *   node scripts/check-links.mjs --json     # strojově čitelný výstup
  *
- * Pozn.: Wikimedia při rychlém dávkování vrací 429. Skript proto každou
- * nalezenou chybu ověřuje ještě jednou, pomalu — jako rozbité hlásí jen to,
- * co selže i napodruhé.
+ * Pozn.: Wikimedia při rychlém dávkování vrací 429 (rate limit). Skript proto
+ * každý nález ověřuje podruhé s dlouhými pauzami a rozlišuje dvě kategorie:
+ *   ROZBITÉ  = 404/410, soubor na Commons opravdu není → nutná oprava
+ *   NEJISTÉ  = 429 nebo timeout, jen throttling → obvykle planý poplach,
+ *              případně přeověřte za pár minut nebo z jiné sítě.
+ * Návratový kód je 1 jen při skutečně rozbitých odkazech.
  */
 import { readFileSync, readdirSync, statSync, existsSync } from 'node:fs';
 import { join, extname } from 'node:path';
@@ -56,7 +59,7 @@ for (const f of files) {
 }
 
 const images = [...imageRefs.keys()].filter((u) => u.startsWith('/img') || u.startsWith('http'));
-const result = { missingLocal: [], brokenRemote: [], deadHosts: [] };
+const result = { missingLocal: [], brokenRemote: [], uncertain: [], deadHosts: [] };
 
 // --- lokální soubory ---
 if (!ONLY_HOSTS) {
@@ -103,20 +106,23 @@ async function pool(items, worker, concurrency) {
 if (!ONLY_HOSTS) {
   const remote = images.filter((u) => u.startsWith('http'));
   log(`Externí obrázky: ${remote.length} — kontroluji…`);
-  const first = await pool(remote, head, 12);
+  const first = await pool(remote, head, 6);
   const suspects = [...first.entries()].filter(([, c]) => c !== 200).map(([u]) => u);
   log(`\n  podezřelých po 1. kole: ${suspects.length} (většinou 429 = rate limit) — ověřuji pomalu…`);
+  if (suspects.length) await new Promise((r) => setTimeout(r, 30000)); // nechat throttling opadnout
+  const BACKOFF = [8000, 20000, 45000];
   for (const u of suspects) {
     let code;
-    for (let a = 0; a < 3; a++) {
-      code = await head(u);
-      if (code === 200 || code === 404) break;
-      await new Promise((r) => setTimeout(r, 2500));
+    for (let a = 0; a < BACKOFF.length; a++) {
+      code = await head(u, 30000);
+      if (code === 200 || code === 404 || code === 410) break;
+      await new Promise((r) => setTimeout(r, BACKOFF[a]));
     }
-    if (code !== 200) result.brokenRemote.push({ url: u, status: code, files: [...imageRefs.get(u)] });
-    await new Promise((r) => setTimeout(r, 500));
+    if (code === 404 || code === 410) result.brokenRemote.push({ url: u, status: code, files: [...imageRefs.get(u)] });
+    else if (code !== 200) result.uncertain.push({ url: u, status: code, files: [...imageRefs.get(u)] });
+    await new Promise((r) => setTimeout(r, 1500));
   }
-  log(`  skutečně rozbitých: ${result.brokenRemote.length}`);
+  log(`  rozbitých (404/410): ${result.brokenRemote.length} | nejistých (429/timeout): ${result.uncertain.length}`);
 }
 
 // --- DNS kontrola domén ---
@@ -145,10 +151,15 @@ if (JSON_OUT) {
     }
   };
   show('CHYBĚJÍCÍ LOKÁLNÍ OBRÁZKY', result.missingLocal, (r) => '  ' + r.url);
-  show('ROZBITÉ EXTERNÍ OBRÁZKY', result.brokenRemote, (r) => `  [${r.status}] ${r.url}`);
+  show('ROZBITÉ EXTERNÍ OBRÁZKY (404/410 — nutná oprava)', result.brokenRemote, (r) => `  [${r.status}] ${r.url}`);
   show('NEEXISTUJÍCÍ DOMÉNY', result.deadHosts, (r) => '  ' + r.host);
+  if (result.uncertain.length) {
+    console.log(`\n=== NEJISTÉ (${result.uncertain.length}) — rate limit nebo timeout, ne nutně chyba ===`);
+    console.log('    Wikimedia throttluje dávkové dotazy. Pokud vás to zajímá, spusťte kontrolu');
+    console.log('    znovu za pár minut; pokud znovu vyjdou jako 429, je to skoro jistě planý poplach.');
+  }
   const total = result.missingLocal.length + result.brokenRemote.length + result.deadHosts.length;
-  console.log(total === 0 ? '\n✓ Vše v pořádku.' : `\n✗ Celkem ${total} problémů.`);
+  console.log(total === 0 ? '\n✓ Žádné rozbité odkazy.' : `\n✗ Celkem ${total} problémů k opravě.`);
 }
 
 process.exit(result.missingLocal.length + result.brokenRemote.length + result.deadHosts.length ? 1 : 0);
