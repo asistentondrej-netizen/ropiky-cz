@@ -6,6 +6,7 @@ author: "Redakce ropiky.cz"
 tags: ["historie", "analýza", "opevnění", "mýty", "Slovensko", "západní Čechy"]
 cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_04%29.jpg/1280px-Bratislava%2C_Petr%C5%BEalka%2C_B-S_8_%282013-11-11%3B_04%29.jpg"
 related:
+  - "clanky/orlik-a-druhe-postaveni-v-podkrkonosi"
   - "clanky/myty-o-ceskoslovenskem-opevneni"
   - "clanky/chronologie-rop-1935-1938"
   - "stranky/co-je-rop"
