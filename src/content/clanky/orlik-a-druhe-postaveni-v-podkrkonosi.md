@@ -4,6 +4,7 @@ description: "Dělostřelecký srub s pěti houfnicemi střílejícími na dvě 
 pubDate: 2026-07-29
 author: "Redakce ropiky.cz"
 tags: ["historie", "analýza", "opevnění", "dělostřelecké tvrze", "Jeseníky", "Krkonoše", "nerealizované projekty"]
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%C5%98op%C3%ADk_u_R%C5%AF%C5%BEen%C4%8Diny_zahr%C3%A1dky_2022-04-23.jpg/1280px-%C5%98op%C3%ADk_u_R%C5%AF%C5%BEen%C4%8Diny_zahr%C3%A1dky_2022-04-23.jpg"
 related:
   - "clanky/kde-se-ropiky-nestavely"
   - "clanky/myty-o-ceskoslovenskem-opevneni"
@@ -12,6 +13,8 @@ related:
 ---
 
 Na dotazy čtenářů odpovídáme rádi i tehdy, když je odpověď „tohle nikdy nestálo". Nerealizované projekty jsou totiž často zajímavější než ty postavené — ukazují, jak měl systém vypadat, kdyby dostal těch patnáct let, se kterými se počítalo. Tentokrát jde o dvě věci, které spolu na první pohled nesouvisejí: **cvičnou pevnostní střelnici Orlík** a **linii lehkého opevnění, která měla vést Podkrkonoším**. Obě mají společné to, že se do zářijové mobilizace nedostaly z papíru do betonu.
+
+![Řopík H3/36/A-140 u Růženčiny zahrádky na Zlatém návrší. Tohle je ta linie, která v Krkonoších skutečně vznikla — v Podkrkonoší už na ni nedošlo. Foto: Olgierd Rudak, CC BY-SA 2.0](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/%C5%98op%C3%ADk_u_R%C5%AF%C5%BEen%C4%8Diny_zahr%C3%A1dky_2022-04-23.jpg/1280px-%C5%98op%C3%ADk_u_R%C5%AF%C5%BEen%C4%8Diny_zahr%C3%A1dky_2022-04-23.jpg)
 
 ## Část 1: Výcvikový tábor Orlík
 
@@ -40,6 +43,8 @@ Sestava měla mít **pět objektů**:
 | MV | minometná otočná věž |
 
 Palebná síla srovnatelná s běžnou tvrzí — ale **bez podzemí**. Objekty neměly být propojeny chodbami, sály ani vchodovými sruby, což je jinak definiční znak československých tvrzí. Sami příslušníci ŘOP prý pro Orlík používali označení „tvrz bez podzemí".
+
+![Podzemí dělostřelecké tvrze Bouda — sály, chodby a překladiště munice. Přesně tohle měl Orlík postrádat: palebnou sílu tvrze měl mít, podzemí ne. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg/1280px-Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg)
 
 Objekty byly navíc značeny **zcela mimo standardní systém** stavebních úseků (S-I, S-II, DS, DOV, MV). Stejná výjimka platila pro cvičný srub CE v Brdech. Kdo tedy hledá objekty s označením typu R-S nebo K-S, hledá marně — Orlík do žádného úseku nepatřil.
 
@@ -105,6 +110,8 @@ Na přelomu léta a podzimu 1938 se pro rok 1939 chystalo dobudování odložen�
 Jedna past na závěr: **sídlo stavební firmy není místo stavby.** V seznamech úseků narazíte na podkrkonošské podnikatele, kteří ale stavěli desítky kilometrů daleko — úsek Z1 Rýchory stavěl Jindřich Malina z Hořic v Podkrkonoší, úsek L1 Jítrava architekt Karel Jarolímek ze Dvora Králové nad Labem, úsek J2 Raspenava František Krušina z Bílé Třemešné.
 
 ### Co v regionu skutečně stojí
+
+![Řopík vz. 37 u Harrachových kamenů na krkonošském hřebeni. Lehké objekty měly být kvůli terénu páteří obrany celého úseku — velitelství II. sboru přitom upozorňovalo, že v zimě jsou prakticky nebojeschopné. Foto: Czeva, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Harrachovy_kameny%2C_%C5%99op%C3%ADk_%2801%29.jpg/1280px-Harrachovy_kameny%2C_%C5%99op%C3%ADk_%2801%29.jpg)
 
 Vše dochované patří **hlavnímu obrannému postavení na hřebeni Krkonoš** (od podúseku CH1 Čertův vrch po Z1 Rýchory) a **trutnovské uzávěře**. Objekty vz. 37 měly být kvůli horskému terénu páteří obrany celého krkonošského úseku, přestože velitelství II. sboru opakovaně upozorňovalo, že v zimě jsou lehké objekty prakticky nebojeschopné, a žádalo přednostní výstavbu těžkého opevnění. Schváleny byly nakonec jen čtyři sruby — dva na Luční hoře (ŽSV VI Trutnov, zadáno 8. 8. 1938 firmě Kapsa a Müller) a dva na Kotli (ŽSV VII Liberec). Ani jeden nebyl dokončen.
 
