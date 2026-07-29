@@ -1,31 +1,56 @@
-title: Tvrz Orlík
-code: K-S Tvrz Orlík
+title: Tvrz Orlík (Výcvikový tábor Orlík)
+code: Výcvikový tábor Orlík
 type: delostrelecka-tvrz
-line: Králíky
-region: Pardubický kraj
+line: Jeseníky
+region: Olomoucký kraj
 location:
-  lat: 50.058
-  lon: 16.637
-  elevation: 747
-  address: Mladkov — Petrovičky
-state: rozpadly
+  lat: 50.1764
+  lon: 17.2989
+  elevation: 1204
+  address: kóta Orlík (1204 m) jižně od Rejvízu, okres Jeseník
+state: neznamy
 description: >
-  Plánovaná dělostřelecká tvrz Orlík nad obcí Mladkov v Orlických horách. Součást plánovaného systému čs. opevnění
-  1935–1938 v úseku Králíky (K-S). Výstavba se před Mnichovem nerozběhla.
+  Plánovaná cvičná pevnostní střelnice v Hrubém Jeseníku, oficiálně „Výcvikový tábor Orlík“, v literatuře vedená
+  i jako dělostřelecká tvrz. Měla sloužit k ostrému výcviku osádek dělostřeleckých srubů a otočných věží a zároveň
+  být bojeschopnou součástí hlavního obranného postavení. Projektována byla sestava pěti objektů bez podzemí —
+  dva pěchotní sruby (S-I, S-II), dělostřelecký srub (DS), objekt pro dělostřeleckou otočnou věž (DOV) a minometnou
+  otočnou věž (MV). Dělostřelecký srub měl být podle dochované dokumentace jediným oboustranným objektem svého druhu
+  v celém programu — až pět 10cm houfnic vz. 38 ve dvou skupinách střeleckých místností mířících opačnými směry:
+  jižní cvičné na cílové plochy směrem k Vrbnu pod Pradědem (palebný vějíř až 70°), severní bojové nad silnicí
+  Zlaté Hory — Heřmanovice. Pozemky patřily vratislavskému arcibiskupství se sídlem v Německu, vyvlastnění se
+  nepodařilo dojednat a stavba nebyla nikdy zadána. Do září 1938 vznikla pouze projektová dokumentace, v terénu
+  není po objektech ani stopa.
+history: >
+  Hlavní štáb čs. armády potřeboval prostor, kde by osádky tvrzí mohly ostře střílet z pevnostních zbraní.
+  Ve vnitrozemí se takový prostor kvůli osídlení a nákladům nenašel, střelnice proto byla vložena přímo do trasy
+  plánovaného pohraničního opevnění. Ve hře byly Orlické hory a Jeseníky, rozhodnuto bylo pro Jeseníky (neosídlené
+  území, dost místa na cílové plochy, dostatečná vzdálenost od hranice). V bojové sestavě měl Orlík navazovat na
+  tvrze Milotický vrch a Kronfelzov. Než měla střelnice vzniknout, sloužily k výcviku a zkouškám cvičné objekty —
+  pěchotní srub CE na cílové ploše Jordán u Jinců v Brdech (betonován 19.—27. 5. 1936) a sruby S-1 a S-2
+  u Žárovic na Vyškovsku.
 visit: >
-  Tvrz není muzejně vybavena.
+  Objekty nebyly nikdy postaveny, v terénu není co navštívit. Kóta Orlík (1204 m) v Medvědské hornatině je běžně
+  přístupná, leží ale mimo značené turistické cesty.
 related:
   pevnosti:
-    - tvrz-bouda
+    - tvrz-sibenice
+    - tvrz-gudrich
+    - tvrz-smolkov
     - tvrz-hurka
-    - tvrz-adam
-    - tvrz-hanicka
-    - tvrz-skutina
+    - tvrz-bouda
   typologie:
     - delostrelecka-tvrz
 sources:
+  - title: Lexikon tvrzí československého opevnění z let 1935—38
+    author: Eduard Stehlík
+    year: 1992
+    type: kniha
+  - title: 'Zkušební pevnostní objekty z let 1936—1938 (ATM 9/1993, s. 6—7)'
+    author: Ivo Vondrovský
+    year: 1993
+    type: clanek
   - title: Wikipedie — Orlík (dělostřelecká tvrz)
     url: https://cs.wikipedia.org/wiki/Orl%C3%ADk_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
     type: web
 wikipedia_url: https://cs.wikipedia.org/wiki/Orl%C3%ADk_(d%C4%9Blost%C5%99eleck%C3%A1_tvrz)
-updated: '2026-05-05'
+updated: '2026-07-29'
