@@ -14,6 +14,7 @@ related:
   - "stranky/mnichov-a-osud-opevneni"
   - "stranky/nemecka-spionaz"
   - "clanky/myty-o-ceskoslovenskem-opevneni"
+  - "clanky/pravni-ramec-vystavby-opevneni"
 ---
 
 Československé opevnění vzniklo jako **přímá odpověď na zhroucení evropského bezpečnostního uspořádání první poloviny třicátých let**. Mladá republika, oslavující na přelomu dekád svých prvních patnáct let existence, si nemohla dovolit ignorovat rychle se měnící geopolitickou realitu — a zároveň neměla dostatečnou mobilní kapacitu ani početné spojence, aby se konfliktu mohla úspěšně postavit otevřenou manévrovou válkou.
@@ -64,7 +65,7 @@ Výstavba probíhala ve třech hlavních vlnách, s narůstající intenzitou. O
 
 V polovině roku 1938, s ohledem na zhoršující se mezinárodní situaci, bylo tempo výstavby zrychleno na **maximum**. Pracovalo se často ve dvou až třech směnách, stavební firmy byly přísně kontrolovány, některé úseky byly betonovány v rekordním čase.
 
-Do Mnichova bylo realizováno podle dostupných zdrojů zhruba **263 těžkých objektů** z plánovaných 1 276 (asi 20 %), **přibližně 10 000 lehkých objektů** z plánovaných 15 463 (asi 65 %) a **5 dokončených dělostřeleckých tvrzí** z plánovaných 17 (asi 30 %).
+Do Mnichova bylo realizováno podle dostupných zdrojů zhruba **263 těžkých objektů** z plánovaných 1 276 (asi 20 %), **přibližně 10 000 lehkých objektů** z plánovaných 15 463 (asi 65 %) a **5 stavebně dokončených dělostřeleckých tvrzí** ze 13 zadaných (u 8 byla stavba zahájena).
 
 ## Ideová váha projektu
 

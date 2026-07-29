@@ -18,6 +18,7 @@ related:
   - "stranky/vyzbroj"
   - "stranky/mnichov-a-osud-opevneni"
   - "clanky/myty-o-ceskoslovenskem-opevneni"
+  - "clanky/pravni-ramec-vystavby-opevneni"
 ---
 
 **Ředitelství opevňovacích prací** (zkráceně **ŘOP**) byl vojenský útvar zřízený 20. března 1935 pod Ministerstvem národní obrany Československé republiky. Jeho úkolem bylo v krátkém čase vybudovat systém pevnostní obrany proti rostoucí hrozbě ze strany nacistického Německa. Generál **Karel Husárek** jako přednosta ŘOP řídil projekt, který v průběhu tří a půl roku změnil tvář československého pohraničí.
