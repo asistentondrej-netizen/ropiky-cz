@@ -120,10 +120,14 @@
     "page": "pancerovy-zvon"
   },
   {
-    "file": "/img/typologie/schema-izolovany-to.svg",
-    "alt": "Srovnávací schéma čtyř izolovaných TO — MJ-S 4, MO-S 8, B-S 8 a T-S 19 s parametry odolnosti, osádky a výzbroje.",
-    "author": "ropiky.cz (vlastní ilustrace)",
-    "license": "CC BY 4.0",
+    "file": "/img/typologie/schema-odolnosti-srubu.svg",
+    "alt": "Šest stupňů odolnosti pěchotních srubů — ráže, typ objektu a relativní síla stěn.",
+    "source": "https://www.ropiky.cz/typologie/pechotni-srub",
+    "page": "pechotni-srub"
+  },
+  {
+    "file": "/img/typologie/schema-palba-do-intervalu.svg",
+    "alt": "Princip bočních paleb mezi pěchotními sruby — interval 600–800 m a zdvojení palebné přehrady.",
     "source": "https://www.ropiky.cz/typologie/pechotni-srub",
     "page": "pechotni-srub"
   }

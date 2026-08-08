@@ -35,6 +35,8 @@ Izolované pěchotní sruby tvořily v terénu souvislou linii založenou na **p
 - **Čelně k nepříteli směly být obráceny jen střílny zbraní chráněných pancířem**, tedy malých rozměrů a těžko zranitelné.
 - Prostory mezi sruby měly být přehrazeny [překážkami](/clanky/system-prekazek-teziho-opevneni), každý objekt měl navíc vlastní obvodovou překážku.
 
+![Princip bočních paleb: každý srub kryje palbou prostor před svými sousedy, každá palba do přehrady je zdvojena](/img/typologie/schema-palba-do-intervalu.svg)
+
 Dobový předpis ŘOP to shrnoval takto:
 
 > „Řešení musí býti provedeno tak, aby jejich palebné zdroje, i když střílí bočně, byly skryty před přímou palbou nepřítele a byly schopny vlastní obrany. (…) Palebná přehrada těchto srubů musí býti bez mezer a každá boční palba do přehrady musí býti nejméně zdvojena."
@@ -55,6 +57,8 @@ Sruby se stavěly s různou tloušťkou zdiva podle toho, jaké dělostřelecké
 | **II** | 240 mm | srub velkého typu — **„říman"** | proti dvěma zásahům |
 | **III** | 300 mm | srub velkého typu — **„říman"** | proti dvěma zásahům |
 | **IV** | 420 mm | pouze **tvrze** | proti dvěma zásahům |
+
+![Šest stupňů odolnosti pěchotních srubů — přehled rážÍ, typů objektů a relativní síly stěn](/img/typologie/schema-odolnosti-srubu.svg)
 
 ### Proč „araby" vůbec vznikly
 
@@ -115,6 +119,28 @@ Jednostranné sruby byly z principu dražší: pro udržení souvislé přehrady
 
 > **Podrobně, s příklady ke každé kategorii:** [Arab versus říman — úplná typologie samostatných pěchotních srubů](/clanky/arab-versus-riman-typologie-pechotnich-srubu)
 
+### Palebné vějíře a odměry
+
+Odměr každé zbraně byl daný konstrukcí střílny, ne rozhodnutím osádky — směr palby se určoval už při projektování a betonáži.
+
+| Prvek | Odměr / zorné pole |
+|---|---|
+| střílna pro zbraň **L1** pod betonem | **45°** (v roce 1938 se zvažovalo rozšíření na 60°, nedošlo k němu) |
+| kopule **JA/D** — na jednu střílnu | **54°** |
+| kopule **JA/M** | **45°** |
+| střílna ve zvonu | **61°** zorné pole; pole sousedních střílen se protínají **30 m** od zvonu |
+| zvon se **6 střílnami** | pokrytí celých **360°** |
+
+Osa střílny byla vždy totožná s palebným vějířem a kolmá na zeď se střílnami — právě to určovalo tvar celého srubu. Zadní zdi ochranných křídel byly rovnoběžné s předním okrajem palebného vějíře.
+
+Zvláštností dvojkulometu bylo zařízení na lafetě umožňující **snížení kolébky pravé zbraně**: při současné palbě obou kulometů se tím rozptyl projektilů prodloužil o **50–150 m** podle vzdálenosti cíle.
+
+### Petržalské výjimky
+
+Bratislavské předmostí je typologická kapitola sama pro sebe. Ještě před vznikem ŘOP tam v letech **1933–1935** vyrostla první generace objektů (B-S 5 až B-S 14), jejichž konstrukční koncepci ŘOP nepřevzalo — v následujících letech je pouze modernizovalo a zapojovalo do linie standardních srubů. Úpravy zahrnovaly zaslepení některých střílen, doplnění vzduchotechniky, napojení na pevnostní telefonní síť a výrobu lafet.
+
+Sruby postavené ŘOP měly v Petržalce jednodušší provedení: objekty v I. stupni římské odolnosti měly **rovnou vstupní chodbu**, nikoli zalomenou, jak bylo jinde obvyklé. Unikátem je **B-S IV „Milada"** — jediný pěchotní srub arabské odolnosti postavený v **1. stupni odolnosti**, v němž měl být navíc ukryt kanon proti útočné vozbě určený k případnému přesunu do polního opevnění. Takové řešení jinde nenajdeme; objekt se nedochoval, zanikl při výstavbě dálnice.
+
 ### Dobový půdorys a řez z Denkschriftu (1941)
 
 Autentické půdorysy níže pocházejí z německé vojenské studie **Denkschrift über die tschecho-slowakische Landesbefestigung** (OKH, Berlín 1941; public domain). Ukazují **dvoupatrový oboustranný dvoukřídlý pěchotní srub** na příkladu objektu OP-S 10 „Na křižovatce" (opavský úsek) — s protitankovým kanonem spřaženým s těžkým kulometem (zbraň L1), dvojčetem těžkých kulometů (zbraň M) a dvěma pancéřovými zvony ve stropnici.
@@ -158,6 +184,34 @@ Vytápění bylo řešeno elegantně: při chodu motoru procházel nasávaný vz
 
 > **Podrobně, místnost po místnosti:** [Anatomie pěchotního srubu](/clanky/anatomie-pechotniho-srubu)
 
+### Munice a její uložení
+
+Objekty těžkého opevnění musely být **schopné okamžité bojové akce**, a proto se s prostorem pro střelivo počítalo od prvních návrhů. Část zásoby ležela přímo u zbraní jako **pohotovostní dávka munice**.
+
+- Střelivo se ukládalo **ve vrstvách**, mezi které se vkládaly dřevěné trámky o rozměrech **150 × 150 mm**.
+- Truhlíky stály na dřevěných hranolech, aby nevlhly od podlahy.
+- Schránky s kulometnou municí se dodávaly **hermeticky uzavřené** a otevíraly se až během boje, aby náboje nepoškodila vlhkost.
+- Skladovací prostory se členily **podle druhu munice**; ruční granáty a světlice nesměly být ve stejné místnosti jako ostatní střelivo.
+- V objektech **arabské odolnosti samostatné muniční sklady většinou chyběly** — truhlíky se ukládaly na předem určená místa v rámci celého srubu.
+
+Množství se určovalo pro každou zbraň zvlášť podle jejího účelu. U lehkých kulometů se počítalo se zásobením pouze těch **ve zvonech**; zbraně v pomocných střílnách pod betonem vlastní příděl neměly a měly použít munici od kulometů ve zvonech. **Zásoba měla podle plánů ŘOP vystačit na 14 dnů boje.**
+
+### Vzduch, energie a spojení
+
+**Filtrovna** existovala v několika variantách podle velikosti srubu a jeho výzbroje. Vzduch se čistil kolektivními filtry a rozváděl potrubím tak, aby uvnitř vznikal **mírný přetlak** — ten bránil pronikání bojových plynů zvenčí a zároveň vytlačoval zplodiny vznikající střelbou. Přetlak ve střeleckých místnostech udržely těsné dveře i při poruše nebo sníženém výkonu ventilátoru.
+
+**Dieselelektrický agregát** ve strojovně poháněl ventilaci, osvětlení a spojovací přístroje; palivo a maziva na **14denní provoz** se skladovala v samostatné místnosti dolního patra, obvykle v kovových sudech. Kromě několika výjimek u „arabů" měl agregát každý pěchotní srub.
+
+**Spojení** mělo stát na několika nezávislých vrstvách:
+
+- **pevnostní telefonní síť** — každý srub měl samostatné napojení vedoucí do týlu; kabely se ukládaly až **tři metry hluboko** s kamenným záhozem,
+- **speciální pevnostní ústředna** v plechové skříni konstruované tak, aby chránila zařízení při přímém zásahu objektu,
+- **zvukovody a světelná signalizace** mezi střeleckými místnostmi a pozorovacími zvony pro rychlý přenos informací,
+- **zemní telegraf** — místnosti pro něj vznikly, ale **do září 1938 nebyl instalován v žádném srubu**,
+- **radiostanice** u objektů s dělostřeleckými pozorovateli — zůstaly jen na papíře.
+
+> **Podrobně:** [Pomocné stavby těžkého opevnění — kabelové komory, velitelská stanoviště a muniční sklady](/clanky/pomocne-stavby-teziho-opevneni)
+
 ## Pancéřové prvky
 
 ŘOP počítalo **10 cm pancíře jako ekvivalent 100 cm železobetonu** — pancéřový prvek proto mohl být oproti betonové variantě výrazně menší, a tím i méně zranitelný.
@@ -194,6 +248,18 @@ Zajímavý detail: speciální zařízení na lafetě dvojkulometu umožňovalo 
 
 Z těchto zbraní se do objektů dostaly jen kulomety a kanony vz. 36 — **222 kanonů obou verzí do října 1938**. Ani jeden pevnostní minomet nebyl nainstalován; 5cm minomet, který měl být v každém srubu, zůstal ve dvou prototypech.
 
+## Maskování
+
+ŘOP si bylo vědomo, že **polohu srubů utajit nelze**. Snažilo se ale zabránit tomu, aby protivník snadno odhalil jejich **výzbroj a směr palby**, a zároveň ztížit dělostřelcům přesné zaměření na velkou vzdálenost.
+
+Zkoušely se tři cesty:
+
+1. **Nátěr omítek.** Nejčastěji tmavé či světlé odstíny šedé. Výjimky existovaly — pěchotní sruby tvrze Bouda byly natřeny **zeleně**, objekty chránící Náchodskou branku dostaly **vícebarevné schéma připomínající kamufláž obrněné techniky**. Nakonec se prosadily pouze odstíny šedé; zvony a kopule se měly natírat šedou s černými skvrnami, což se v praxi ne vždy dodržovalo.
+2. **Maskovací sítě** — háky pro jejich zavěšení jsou dodnes na krajích stropů.
+3. **Popínavé rostliny a kompletní zastírání** — testováno na **MO-S 7 „Antošovice"** a zejména na **MO-S 17 „U Štípek"**, kde proběhly rozsáhlé práce se slibnými výsledky. ŘOP je odmítlo kvůli vysokým nákladům a nutnosti sezonní obměny.
+
+**Levnější alternativu se do září 1938 najít nepodařilo.** Obnovené vícebarevné schéma je dnes k vidění na srubu N-S 82 „Březinka".
+
 ## Vývoj konstrukce v čase
 
 Podoba srubů se měnila prakticky nepřetržitě, takže **každý stavební úsek má své specifické rysy**:
@@ -209,6 +275,30 @@ Pro sjednocení opakujících se detailů — střílen, vchodů, granátových 
 Samotná betonáž jednoho srubu obvykle zabrala **3–6 dnů** a musela probíhat **nepřetržitě**, aby neklesla pevnost konstrukce; příprava stavebního podúseku od zadání po zahájení betonáže prvního objektu trvala přibližně **60–76 pracovních dnů**.
 
 > **Podrobně:** [Jak vznikal pěchotní srub — od vytyčení v terénu po vylitý beton](/clanky/jak-vznikal-pechotni-srub)
+
+### Když se stavělo příliš rychle
+
+Při daném tempu byly chyby nevyhnutelné. Nejčastější bylo **nepřesné umístění střílen ve zdi** — odchylky od plánu ovlivňovaly palebné pole, zpravidla ale bez zásadního dopadu na schopnost objektu plnit úkoly. Známé jsou tři výraznější případy:
+
+- **K-S 15 „U lípy"** — chyba při vytyčování vedla k **pootočení objektu o 7,5°**. Srub tím ztratil možnost účinně vést palbu požadovaným směrem a ŘOP muselo složitě řešit úpravu směřování střílen.
+- **T-S 28 „Nad pramenem"** — omyl už při navrhování: pravé křídlo se střílnami bylo nadměrně vytočeno k nepříteli a podle chybného projektu proběhlo i šalování. Přestože se nesrovnalost při kontrole odhalila, na přepracování projektu nebyl čas — řešilo se **úpravou terénu** v okolí srubu.
+- **R-S 89 „U silnice"** — povolené šalování u ochranné střílny, kudy unikl beton mimo požadovaný prostor. Firma musela závadu opravit na vlastní náklady.
+
+## Jak odolný srub ve skutečnosti byl
+
+Není to odhad — ŘOP si to ověřilo ostrým ostřelováním. Pro tento účel vznikl v roce 1936 v Brdech na cílové ploše Jordán **zkušební srub CE**, jednostranný objekt ve II. stupni odolnosti o dvou podlažích. Zkoušky proběhly **23.–25. června 1937**, tedy 12,5 měsíce po betonáži, a začaly nejtěžší dostupnou ráží.
+
+Svědectví zanechal plukovník **Josef Hubálek**:
+
+> „Šťastnou náhodou dopadly všechny tři granáty asi doprostřed stropu objektu. Vzdálenost mezi dopady nepřesahovala dva metry. **Největší hloubka vniku byla jen asi 0,7 m, to je asi do jedné třetiny tloušťky stropu.** (…) V objektu byla pro pokus umístěna drůbež v klecích a volně tam pobíhal přítulný lovecký pes. Nebyl na nich po ostřelování pozorován žádný zvláštní účinek."
+
+Následovaly moždíře ráže 21 cm — po prvním nárazu zhasla v objektu světla, ale elektrická centrála běžela dál; vypadl pouze automatický spínač proudu. Granáty ráže 15 cm už způsobovaly jen malé otřesy.
+
+**Srub CE ostřelování přežil bez vážnějšího poškození.** Pro ŘOP to byl zásadní argument: konstrukce československého těžkého opevnění obstála.
+
+Pro srovnání — poválečné zkoušky v roce 1947 ukázaly i hranici odolnosti. **21cm těžký kanon Škoda V3**, střílející z velmi malé vzdálenosti proti **boční stěně zbavené záhozu**, ji druhou ranou prorazil a granát vybuchl ve filtrovně. Zához a správná orientace objektu tedy nebyly kosmetika, ale součást odolnosti.
+
+> **Podrobně:** [Zkušební a cvičné objekty ŘOP](/clanky/zkusebni-a-cvicne-objekty-rop)
 
 ## Osádky
 
@@ -226,6 +316,14 @@ Osádky byly v míru rozděleny na **dva sledy**, z nichž každý musel být sc
 Základní organizační jednotkou byla **hraničářská rota**, kterou tvořilo několik osádek samostatných srubů — zpravidla tři až sedm objektů. Jako první vznikl v srpnu 1937 **hraničářský pluk 4**.
 
 > **Podrobně, včetně vzpomínek hraničářů:** [Osádky pěchotních srubů — služba, výcvik a život v betonu](/clanky/osadky-pechotnich-srubu)
+
+### Improvizace září 1938
+
+Objekty se do bojové pohotovosti uváděly tím, co bylo po ruce. Do nedokončených srubů se hned, jak to bylo technicky možné, dodávaly bedny s **těžkými kulomety vz. 24**, podstavci a municí — vodou chlazenými a poruchovými zbraněmi, které měly nahradit chybějící pevnostní výzbroj. Osazovaly se do střílen určených pro zbraně L1 nebo O, kam šel kulomet snadno umístit; u srubů bez takové střílny se muselo hledat jiné řešení.
+
+Ve **zvonových šachtách** se budovaly provizorní podlážky a přístřešky a do takto vytvořených palpostů se zpravidla umísťoval kulomet vz. 26. Stavební deník objektu MJ-S 29 „Svah" za 24.–30. září 1938 to zachycuje věcně:
+
+> „Objekt Svah, vybetonovaný, byl připraven k obraně; z materiálu získaného na staveništi byly provedeny žebříky do zvonů, podlážky do zvonů, do L1 střílen stojany pro kulomety. Do objektu navozeny byly pytle s cementem k eventuálnímu zahrazení vchodů."
 
 ## Kolik jich stálo
 
