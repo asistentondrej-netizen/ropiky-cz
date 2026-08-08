@@ -1,46 +1,73 @@
 ---
 title: "Tvrz Dobrošov"
-description: "Rozestavěná dělostřelecká tvrz nad Náchodem. Do Mnichova byly vybetonovány tři objekty ze sedmi plánovaných. Dnes národní kulturní památka a muzeum spravované Muzeem Náchodska."
-kodTvrze: "N-S 72, N-S 73, N-S 75"
+description: "Rozestavěná dělostřelecká tvrz nad Náchodem. Jediná tvrz, která měla po Mnichovu zůstat československé armádě, a jediná, kde byly osazeny souměrné střílny pro houfnice. Dnes národní kulturní památka a muzeum Muzea Náchodska."
+kodTvrze: "N-S 72 až N-S 77"
 linie: "Náchod"
 region: "Královéhradecký kraj"
 location:
-  lat: 50.4106
-  lon: 16.1856
+  lat: 50.404572
+  lon: 16.201897
 stupenDokonceni: "rozestavena"
 pocetSrubu: 7
 pocetSrubuDokoncenych: 3
-zahajeni: "1937-09"
+zahajeni: "13. 9. 1937"
 stav_dnes: "muzeum"
 muzeumWeb: "https://www.muzeumnachodska.cz"
 order: 30
 sources:
+  - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"
   - "Muzeum Náchodska — Pevnost Dobrošov (muzeumnachodska.cz)"
-updated: 2026-07-20
+updated: 2026-08-08
 ---
 
 ## Výstavba
 
-**Tvrz Dobrošov** je rozestavěná dělostřelecká tvrz československého opevnění nad Náchodem, součást úseku těžkého opevnění **Náchod (N-S)**. Měla krýt přístupy k Náchodu, jednomu z nejexponovanějších míst čs. obrany.
+Stavba byla zahájena **13. září 1937** — o rok později než tvrze první vlny — firmou **Müller a Kapsa**, která současně stavěla Adam. Tvrz měla krýt přístupy k Náchodu, jednomu z nejexponovanějších míst čs. obrany, a spolu se sousední **Skutinou** tvořit dvojici tvrzí krytých vzájemnou dělostřeleckou palbou.
 
-Výstavba byla zahájena v **září 1937**, tedy později než u tvrzí dokončených. Do Mnichova proto stavba nedospěla daleko — tvrz zůstala **rozestavěná**.
+Do září 1938 zůstal Dobrošov **rozestavěný**. Stavba si vyžádala **dva dělnické životy**.
+
+### Cihly místo betonu
+
+Nepříznivé geologické podmínky přinutily firmu Müller a Kapsa navrhnout **vlastní způsob provádění ostění chodeb**. V horních partiích, odkud do výlomu vypadávaly zvětralé vrstvy hornin, projektanti nahradili beton **cihelnou vyzdívkou**. Ta umožňovala rychlejší uzavření klenby a — na rozdíl od čerstvého betonu — dokázala **ihned odolávat tlaku nadloží**. Následně dělníci provedli izolaci z asfaltových pásů nebo plechu a vše překryli betonovými prefabrikáty zatřenými cementovou maltou.
 
 ## Objekty
 
-Z celkem **sedmi plánovaných objektů** byly vybetonovány **tři**:
+| Objekt | Typ | Stav v září 1938 |
+|---|---|---|
+| **N-S 72 „Můstek"** | tvrzový pěchotní srub | **vybetonován** |
+| **N-S 73 „Jeřáb"** | tvrzový pěchotní srub | **vybetonován**; chyběla kopule pro dvojče těžkých kulometů a všechny tři zvony |
+| **N-S 74** | objekt pro otočnou a výsuvnou dělostřeleckou věž | šachta nedokončena, po Mnichovu zavezena |
+| **N-S 75 „Zelený"** | dělostřelecký srub | **vybetonován** |
+| **N-S 76 „Amerika"** | dělostřelecký srub | vyhloubena šachta do podzemí, proveden výkop objektu, vybetonována základová skořápka |
+| **N-S 77** | tvrzový minometný srub (1 kopule) | nezadán; šachta po Mnichovu zavezena |
+| **vchodový objekt** | vchodový objekt | proveden výkop |
 
-- **N-S 72 „Můstek"** — pěchotní srub
-- **N-S 73 „Jeřáb"** — pěchotní srub
-- **N-S 75 „Zelený"** — dělostřelecký srub
+![Tvrzový pěchotní srub N-S 72 „Můstek". Foto: Lukáš Malý, Public domain](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/N-S_72.JPG/1280px-N-S_72.JPG)
 
-Podzemí bylo vylámáno **jen zčásti** a zůstalo převážně **nevybetonováno** — chodby a sály se dochovaly z velké části v hrubém, surovém stavu, který dnes návštěvníkům názorně ukazuje postup výstavby pevnostního podzemí.
+### N-S 75 „Zelený" — jediný se souměrnými střílnami
 
-Hlavní dělostřelecká výzbroj (10cm houfnice vz. 38) nebyla do žádné čs. tvrze nikdy dodána; na Dobrošově vzhledem k rozestavěnosti nebyla osazena ani žádná další výzbroj.
+Dobrošovský dělostřelecký srub je z hlediska pevnostního dělostřelectva zajímavější, než se zdá. Původní série střílen pro 10cm houfnice vz. 38, osazená na tvrzích Smolkov, Hůrka, Adam a Hanička, byla **tvarově nesouměrná** — obsahovala připravený výklenek pro jednokřídlová pancéřová dvířka, která ŘOP po francouzském vzoru zvažovalo, ale nakonec nezavedlo.
 
-## Po Mnichovu
+Po vyčerpání této série začaly Škodovy závody vyrábět **souměrné střílny bez výklenku**. Podařilo se je osadit **už jen na N-S 75** — jde tedy o jediný objekt čs. opevnění s tímto typem střílny.
 
-Po přijetí Mnichovské dohody (29.–30. září 1938) byly stavební práce zastaveny a pohraničí bylo odstoupeno bez boje. Rozestavěná tvrz zůstala torzem původního plánu.
+![Dělostřelecký srub N-S 75 „Zelený". Foto: Lukáš Malý, Public domain](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/N-S_75.JPG/1280px-N-S_75.JPG)
+
+## Podzemí
+
+Podzemí bylo vylámáno jen zčásti a zůstalo převážně **nevybetonováno**. Právě surové, nevystrojené chodby a sály dnes návštěvníkům názorně ukazují, jak výstavba tvrzového podzemí probíhala — od výlomu přes výdřevu po betonáž.
+
+## Po Mnichovu — jediná, která měla zůstat
+
+Dobrošov byl **jedinou rozestavěnou tvrzí, která měla po Mnichovu zůstat československé armádě**. I tam ale došlo k zastavení prací. Místo plánované svážnice vchodového objektu byla ještě z podzemí na povrch vybetonována **provizorní šikmá chodba s menším profilem** ukončená portálem s mřížovými dveřmi. Dělníci zavezli pracovní šachty i nedokončené šachty u srubů **N-S 74, N-S 76 a N-S 77**, stavební firma odvezla strojní zařízení a materiál a objekty opustili také vojáci rušeného hraničářského útvaru.
+
+Němci na Dobrošově testovali podkaliberní protibetonové střely **Röchling** a demontovali pancéřové prvky.
 
 ## Dnešní stav
 
-Dobrošov je veřejnosti zpřístupněn **od konce 60. let** a patří k nejdéle přístupným pevnostním památkám u nás. Dnes jej spravuje **Muzeum Náchodska**; kolem roku **2022** byla dokončena rozsáhlá rekonstrukce areálu. Tvrz je **národní kulturní památkou**. Aktuální informace o prohlídkách najdete na [muzeumnachodska.cz](https://www.muzeumnachodska.cz).
+Dobrošov je veřejnosti zpřístupněn **od roku 1969** a patří k nejdéle přístupným pevnostním památkám u nás. Dnes jej spravuje **Muzeum Náchodska**; kolem roku **2022** byla dokončena rozsáhlá rekonstrukce areálu. Tvrz je **národní kulturní památkou**.
+
+V dělostřeleckém srubu jsou k vidění **dvě makety pevnostních houfnic vz. 38** — původně vyrobené pro film *Dny zrady* Otakara Vávry (1972) a instalované na Haničce, odkud po jejím uzavření v roce 1975 putovaly sem. Protože žádná skutečná houfnice vz. 38 se nedochovala (všech 15 vyrobených kusů sešrotoval v 50. letech Kovošrot), jsou tyto makety nejbližší představou, jakou si o hlavní zbrani čs. tvrzí lze udělat.
+
+Na Dobrošově se natáčel i maďarský sci-fi snímek **Pevnost** (1979) a film **Člověk proti zkáze** (1989) o posledních letech Karla Čapka.
+
+Aktuální informace o prohlídkách najdete na [muzeumnachodska.cz](https://www.muzeumnachodska.cz).

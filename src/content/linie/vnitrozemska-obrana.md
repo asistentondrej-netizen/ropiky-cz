@@ -57,5 +57,5 @@ Klasický mýtus: **„Za Prahou mělo být druhé Maginotovo pásmo."** Fakt: �
 ## Související obsah
 
 - [Chronologie ŘOP 1935–1938](/clanky/chronologie-rop-1935-1938)
-- [Proč opevnění neodolalo](/clanky/proc-opevneni-neodolalo)
+- [Proč opevnění neodolalo](/clanky/proc-opevneni-neodolalo-mnichov)
 - [Sedm mýtů o čs. opevnění](/clanky/myty-o-ceskoslovenskem-opevneni)

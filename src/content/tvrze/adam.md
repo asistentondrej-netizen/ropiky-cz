@@ -1,36 +1,105 @@
 ---
 title: "Tvrz Adam"
-description: "Stavebně dokončená dělostřelecká tvrz čs. opevnění v Orlických horách u Mladkova a Českých Petrovic. Po válce areál využívala armáda; tvrz je dodnes veřejnosti nepřístupná."
-kodTvrze: "K-S Tvrz Adam"
+description: "Největší stavebně dokončená čs. dělostřelecká tvrz s plánovanou osádkou 611 osob a dvěma dělostřeleckými sruby. Jediná tvrz s přímým vstupem do podzemí a s třípatrovým dělostřeleckým srubem K-S 45 Jabůrek. Dodnes v držení Armády ČR."
+kodTvrze: "K-S 39 až K-S 45"
 linie: "Králíky"
 region: "Pardubický kraj"
 location:
-  lat: 50.0942
-  lon: 16.7769
+  lat: 50.112172
+  lon: 16.60528
 stupenDokonceni: "dokoncena"
+pocetSrubu: 8
+pocetSrubuDokoncenych: 7
+posadka: 611
+zahajeni: "10. 8. 1936"
 stav_dnes: "uzavrena"
 order: 50
-updated: 2026-07-20
+related:
+  - "bouda"
+  - "hurka"
+sources:
+  - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"
+  - "Stehlík, E. – Vaňourek, M.: Hraničáři od Adamovy hory"
+updated: 2026-08-08
 ---
 
 ## Výstavba
 
-**Tvrz Adam** je dělostřelecká tvrz československého opevnění z let 1935–1938. Leží v **Orlických horách** u Mladkova a Českých Petrovic a byla součástí úseku těžkého opevnění **Králíky (K-S)** — stejně jako sousední tvrze Bouda a Hůrka.
+Stavba byla zahájena **10. srpna 1936**, pouhých pět dní po Hůrce, a provedla ji firma **Müller a Kapsa**. Hluboká průzkumná sonda vyhloubená na podzim 1935 dosáhla **26 m** — z králických tvrzí nejvíc.
 
-Do září 1938 byla tvrz **stavebně dokončena včetně podzemí**. Patří tak k pěti čs. tvrzím, jejichž hrubá stavba byla před Mnichovem hotova (vedle Boudy, Haničky, Smolkova a Hůrky).
+Do září 1938 byla tvrz **stavebně dokončena včetně podzemí**. Stavba si vyžádala **jeden dělnický život**.
 
-Hlavní dělostřelecká výzbroj — 10cm houfnice vz. 38 — však nebyla do žádné československé tvrze nikdy dodána a otočné dělové věže nebyly nikdy vyrobeny ani osazeny. Plné bojové hodnoty proto Adam nikdy nedosáhl.
+Stavbyvedoucím na podúseku 6./III. Adam byl nadporučík stavební služby **Ing. Karel Šafer**, jehož vzpomínky patří k nejcennějším pramenům o technologii ražby tvrzového podzemí. Na Adamu se pracovalo takzvanou **belgickou soustavou**: nejdřív se vyrubala horní část chodby, po jejím vydřevení kulatinou pak spodní.
+
+## Adam byl největší z dokončených
+
+Válečnou osádku měla tvořit **611 osob** — 34 důstojníků, 12 rotmistrů a 564 mužů. Pro srovnání: sousední Bouda 316 osob. K tomu se počítalo s pěchotou ubytovanou v podzemí, u největších tvrzí až se **dvěma rotami**.
+
+Počtem dělostřeleckých a minometných srubů patřil Adam mezi **velké tvrze**. Protože byl ale projektován už v roce 1936 — tedy dřív, než ŘOP v roce 1937 zavedlo pevné rozdělení překladišť na 11 a 16 m — má **zcela atypické překladiště o délce 12,2 m**.
 
 ## Objekty
 
-Tvrz tvoří skupina bojových objektů propojených rozsáhlým podzemím se sály pro kasárna, sklady a technické zázemí. Povrchové objekty jsou rozmístěny na zalesněném hřebeni nad údolím.
+| Objekt | Typ | Stav v září 1938 |
+|---|---|---|
+| **K-S 39 „Hodek"** | tvrzový pěchotní srub | vybetonován |
+| **K-S 40 „U háječku"** | tvrzový pěchotní srub | vybetonován; plánována otočná kulometná věž (nedodána) |
+| **K-S 41 „Pod vrškem"** | tvrzový pěchotní srub | vybetonován |
+| **K-S 42 „Trigonometr"** | objekt pro otočnou a výsuvnou dělostřeleckou věž | vybetonován; věž nikdy nevyrobena |
+| **K-S 43 „Veverka"** | dělostřelecký srub | vybetonován |
+| **K-S 43a „Na sekyře"** | vchodový objekt | vybetonován |
+| **[K-S 44 „Za větrem"](/katalog/k-am-s-44)** | tvrzový minometný srub (1 kopule) | **vyrubána a vybetonována šachta z podzemí**, nakonec zasypána |
+| **K-S 45 „Jabůrek"** | dělostřelecký srub | vybetonován — **jediný třípatrový v celém čs. opevnění** |
+
+![Dělostřelecký srub K-S 45 „Jabůrek" tvrze Adam. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/K-S_45_%28Adam%29.jpg/1280px-K-S_45_%28Adam%29.jpg)
+
+### K-S 45 „Jabůrek" — jediný třípatrový dělostřelecký srub
+
+Objekt měl stát v prudkém svahu, a tak projektanti umístili jednu ze tří střeleckých místností až v úrovni dolního patra prvních dvou zbraní. Jako **jediný dělostřelecký srub čs. opevnění** má tři podlaží. Dobové zápisy toto řešení nehodnotily nadšeně — nebylo výhodné ani stavebně, ani z hlediska střelby.
+
+Lomený tvar a prudký svah způsobily i praktický problém v září 1938: improvizovaná baterie horských kanonů se nedala postavit ani do ochranného příkopu, ani před něj — z takové pozice by palba ohrožovala budovy na staveništi tvrze. Baterie tak skončila **asi 600 m do týlu** za objektem, v okopech vyložených nasucho kameny s dřevěnou točnou na dně, se čtyřmi dřevozemními úkryty pro obsluhy a pohotovostní sklad munice.
+
+### Přímý vstup do podzemí
+
+Vchodový objekt **K-S 43a „Na sekyře"** má jednu výhodu, kterou žádná jiná dokončená tvrz neměla. Karel Šafer to vysvětlil: *„Protože přímo za vchodovým objektem svah velice strmě stoupal a bylo tak prakticky ihned dosaženo předepsaného dvacetimetrového nadloží nad úrovní hlavní galerie, byl vstup do podzemí veden rovnou chodbou a nebylo tedy nutné řešit vstup pomocí svážnice nebo výtahu, jako tomu bylo na některých jiných tvrzích."*
+
+Naopak vody bylo v podzemí Adamu **málo** — zásobní jímky se občas musely doplňovat z autocisteren přes speciální zařízení ve vchodovém objektu.
+
+## Výzbroj v září 1938
+
+Improvizovaná baterie tří **7,5cm horských kanonů vz. 15** stála podle plánu v ochranném příkopu u K-S 43 „Veverka" a v týlu za K-S 45 „Jabůrek".
+
+Poručík **Karel Pyšný**, velitel srubu K-S 39 „Hodek" a pobočník velitele tvrze, popsal stav střízlivě: *„Do září 1938 jsme již měli všechny tři pěchotní sruby na Adamu úplně vyzbrojené. V objektech byly osazeny 4cm protitankové kanony vz. 36 a dvojkulomety, střeliva i dělostřeleckých granátů byl dostatek. (…) Největší problém jsme spatřovali především v nedodaných zvonech a kopulích. V prázdných šachtách, kde měly být osazeny, jsme si sice nadělali provizorní dřevěné podlážky a z pytlů s pískem a prken jsme vytvořili improvizovaná palebná postavení, takže jsme v případě potřeby palbu vést mohli, ale byla to jen a jen improvizace."*
+
+## Osádka
+
+Osádku tvořil **zvláštní útvar „A"** zřízený v polovině května 1938 u hraničářského pluku 19, od 25. června 1938 přeznačený na **VI. prapor hraničářského pluku 19**. Sídlil v Těchoníně.
+
+Velitelem byl **podplukovník pěchoty Antonín Kostrhún** — legionář, který za první světové války po těžkém zranění na východní frontě přišel o oko a přesto se pak jako čs. legionář zapojil do bojů ve Francii. Po okupaci se zapojil do odboje, v roce 1945 se vrátil do armády, v září 1948 byl coby legionář a prvorepublikový důstojník propuštěn.
+
+V lednu 1950 jej StB obvinila z neohlášení poznatků o existenci protikomunistických odbojových skupin. Byl označen za osobu politicky nespolehlivou s odůvodněním, že *„se stále scházel s lidmi takzvané lepší společnosti a reakčního smýšlení"*, a 16. března 1950 odeslán na **18 měsíců do tábora nucených prací na Mírově**, kde jej čekalo kruté věznění včetně bití. V červnu 1951 byl jako degradovaný vojín v záloze propuštěn. **27. března 1952** se vzhledem ke svému špatnému psychickému i fyzickému stavu smrtelně zranil.
 
 ## Po Mnichovu
 
-Po přijetí Mnichovské dohody (29.–30. září 1938) muselo Československo pohraničí i s opevněním odstoupit bez boje.
+Objekty tvrze Adam posloužily v prosinci 1939 při **výcviku speciální jednotky výsadkových ženistů nadporučíka Rudolfa Witziga** — té samé, která v květnu 1940 dobyla belgickou tvrz Eben-Emael. Witzig ve svém hlášení po akci napsal:
 
-Po druhé světové válce areál tvrze převzala a dlouhodobě využívala **armáda**, mimo jiné jako skladové prostory. Vojenské využití areál na desetiletí uzavřelo veřejnosti.
+> *„Belgická opevňovací stavební technika, tak jak se zde jeví, zůstává u jednotlivých objektů daleko pozadu za českým pojetím. Každý jednotlivý objekt českých tvrzí disponuje blízkou obranou kasemat, kruhovou obranou pěchotních srubů, každý srub je vybaven překážkami a ochranným příkopem. To všechno zde chybí. (…) České dělostřelecké kasematy, na kterých jsme k naší přípravě cvičili, by bývaly s našimi prostředky téměř nedobytné, belgické nám oproti tomu připadaly jako dětská hra."*
+
+Němci na Adamu dále zkoušeli různé typy uzávěr podzemních chodeb, které nakonec zničili odpálením nálože, a pálili na objekt K-S 42 granáty ráže 21 cm.
+
+## Po válce
+
+- **Březen–květen 1948** — vyklízecí a vyčišťovací práce stavební roty ŘOP
+- **1950** — prohlídka za účelem využití jako muničního skladu; realizováno **1956**
+- **1954** — plán na přestavbu na chráněný úkryt s kapacitou **666, později až 900 osob**
+- **7. února 1961** — inspekce hodnotila Adam nejlépe ze všech: *„Objekt Adam je soustředěn na malé ploše, výhodně dispozičně řešen, umístěn stranou osad. (…) Je ve velmi dobrém stavebním stavu a jeho stavební úpravy nebudou zvlášť náročné."* Podzemní prostory *„nevykazují žádných deformací"*. Přestavba na chráněné pracoviště ministerstva vnitra byla plánována na roky 1962–1964, ale nerealizovala se
+- Adam zůstal v držení správy raketového vojska a dělostřelectva, kde se dlouhodobě **skladovala raketová munice**
 
 ## Dnešní stav
 
-Tvrz Adam je **dodnes veřejnosti nepřístupná** — podzemí ani vnitřní areál nelze navštívit. Exteriéry některých povrchových objektů jsou viditelné z veřejných cest v okolí. V okolí tvrze vedou turistické trasy spojující pevnostní památky Králicka, například muzejní tvrz Bouda.
+Tvrz Adam je **v držení Armády České republiky** a podzemí ani vnitřní areál **nelze navštívit**. Přístupný je pouze povrch objektů (s výjimkou vchodového srubu). Exteriéry některých srubů jsou viditelné z veřejných cest v okolí.
+
+Pokud jste narazili na informaci, že Adam nabízí prohlídku podzemí, jde o omyl — zaměňuje se se sousední Boudou nebo Hůrkou, které jsou obě zpřístupněné a leží ve stejné oblasti Králicka.
+
+## Film
+
+Na Adamu se v roce 1956 natáčel film **Neporažení** režiséra Jiřího Sequense s tematikou roku 1938. Snímek je bohužel v duchu doby silně zabarven komunistickou ideologií.

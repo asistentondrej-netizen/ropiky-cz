@@ -16,6 +16,10 @@ sources:
   - title: 'NPÚ Památkový katalog: liniové opevnění - dělostřelecká tvrz Hanička'
     url: https://pamatkovykatalog.cz/?detail=12237057
     type: web
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha
 wikidata_id: Q29563300
 commons_category: R-H-S 76 U lomu casemate
 updated: '2026-04-23'
@@ -33,7 +37,36 @@ photos:
     author: Martin Mašek
     license: CC BY-SA 4.0
     source: https://commons.wikimedia.org/wiki/File:R-H-S_76,_tvrz_Hani%C4%8Dka.JPG
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/R-S_76_Lom_1.jpg/1920px-R-S_76_Lom_1.jpg
+    alt: "R-H-S 76 „U lomu\" — tvrz Hanička"
+    author: "Vlasakovo"
+    license: "CC BY-SA 4.0"
+    source: https://commons.wikimedia.org/wiki/File:R-S_76_Lom_1.jpg
+    category: exterier
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
   cisloUspka: '102223'
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: "R-S 76 „U lomu\""
+castTvrze: "Tvrz Hanička"
+tech:
+  odolnost: IV
+  stupenDokonceni: dokonceny
+history: |-
+  Tvrzový pěchotní srub dělostřelecké tvrze **Hanička**. Dobový kód ŘOP zněl **R-S 76**; tvar „R-H-S 76" je novodobé rozlišení tvrzových objektů rokytnického úseku. V literatuře se objekt uvádí jako „U lomu" i jako „Lom".
+
+  **Vybetonován v září 1937**, osádku tvořilo **27 mužů**.
+
+  Objekt nesl **tři hlavní pancéřové prvky**: kopuli pro dvojče těžkých kulometů, **dělostřelecký pozorovací zvon** a zvon pro pozorování a lehký kulomet. Za srubem se otevírá předpolí tvrze směrem k Vrchní Orlici a státní hranici.
+
+  Jako tvrzový objekt byl postaven v nejvyšším, **IV. stupni odolnosti** — na rozdíl od izolovaných pěchotních srubů, jejichž odolnost dosahovala nejvýše III. stupně. Klasický vchod se zalomenou chodbičkou neměl; jediný běžně používaný vstup vedl **z podzemí tvrze výtahovou šachtou se schodištěm**.
+
+  Velení tvrze nebylo s výhledem z pozorovacích zvonů na R-S 76 a R-S 77 plně spokojeno a koncem června 1938 získalo od ŘOP souhlas s vybudováním **předsunuté dělostřelecké pozorovatelny** — s podmínkou, že si ji osádka postaví sama z materiálu dostupného na staveništi.
+
+  Pancéřové prvky byly z objektu později vytrhány — část během okupace, zbytek v polovině 50. let národním podnikem Kovošrot.
+related:
+  typologie:
+    - delostrelecka-tvrz

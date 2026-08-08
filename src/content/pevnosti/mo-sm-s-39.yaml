@@ -22,3 +22,20 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_39_(2015-04-14;_02).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: MO-S 39 „U trigonometru"
+castTvrze: Tvrz Smolkov
+history: |-
+  **Dělostřelecký srub** tvrze Smolkov — jeden ze šesti vybetonovaných v celém čs. opevnění. Dobový kód ŘOP: **MO-S 39**.
+
+  Hlavní výzbroj měly tvořit tři **10cm houfnice vz. 38**; nebyla vyrobena ani jedna. V roce 1938 zde vznikla **improvizovaná baterie tří 7,5cm horských kanonů vz. 15**, umístěná ovšem na rozdíl od plánu ne v ochranném příkopu, ale **v těsné blízkosti jeho hrany**; každý kanon kryl dřevěný přístřešek.
+
+  Velitelem objektu byl **poručík dělostřelectva Břetislav Přikryl**, který byl na Smolkově přítomen praktické zkoušce **tajného východu z podzemí tvrze**: *„Otáčel jsem pancéřovým ocelovým kruhem až do chvíle, kdy se ozval silný úder a zvuk padající zeminy. Po chvíli jsem otevřel pancéřová dvířka, prolezl jimi a další svislou šachtou vylezl k povrchu. Beton šachty končil asi jeden metr pod úrovní země."*
+
+  Po obsazení pohraničí z objektu Němci demontovali **převodovku nákladního výtahu**, jejíž části jsou na dobových snímcích vidět připravené k odvozu před vchodovým objektem MO-S 41.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

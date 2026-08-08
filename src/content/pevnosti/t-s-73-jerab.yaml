@@ -1,21 +1,78 @@
-title: T-S 73
+title: T-S 73 „Polom"
 code: T-S 73
+alt_name: T-S 73 „Polom"
 type: pechotni-srub
 line: Trutnov
 region: Královéhradecký kraj
 location:
-  lat: 50.5878
-  lon: 16.1567
-  address: Teplice nad Metují
+  lat: 50.630581
+  lon: 15.911907
+  address: Babí, Trutnov
 built: '1938'
-state: zachovaly
-description: Pěchotní srub československého opevnění v oblasti Teplic nad Metují.
-sources: []
-updated: '2026-05-05'
+state: muzeum
+castTvrze: Tvrz Stachelberg (Ježová hora)
+description: >-
+  Tvrzový pěchotní srub T-S 73 „Polom" — jediný vybetonovaný objekt tvrze Stachelberg (dobově Ježová hora) na Babí
+  u Trutnova. Dnes jádro muzejní expozice.
+tech:
+  odolnost: IV
+  stupenDokonceni: dokonceny
+history: |-
+  **Jediný vybetonovaný objekt tvrze Stachelberg** (počátkem roku 1938 přejmenované Ředitelstvím opevňovacích prací na
+  **Ježovou horu**), která byla projektována jako **největší dělostřelecká tvrz československého opevnění**.
+
+  Stavba tvrze byla zahájena **16. října 1937** spojenými firmami Ing. Zdenko Kruliš a Konstruktiva a. s. Ze
+  sestavy devíti plánovaných objektů — včetně **dvou dělostřeleckých otočných věží**, dvou dělostřeleckých srubů
+  (T-S 77, T-S 78) a dvou minometných srubů (T-S 79, T-S 80) — se do září 1938 podařilo vybetonovat pouze tento srub.
+
+  Jako tvrzový objekt byl postaven ve **IV. stupni odolnosti** a neměl klasický vchod; vstupovalo se z podzemí
+  výtahovou šachtou se schodištěm. Sousední pěchotní srub T-S 74 „U silnice" zůstal ve stavu vybetonované základové
+  skořápky.
+
+  Ve výtahové a schodišťové šachtě probíhá **postupná rekonstrukce podle původních plánů**: namontovány už jsou
+  repliky zábradlí mezi prvním a druhým patrem, dvojice nůžkových dveří, vodicí prvky pro výtah, protizávaží
+  i motor s převodovkou. Oproti originálu jde o mírně modernější, ale velmi podobnou verzi. V šachtě měl fungovat
+  výtah typu **Vý II o nosnosti 400 kg**.
+
+  Zvenčí je dobře patrná dvojice střílen: vlevo pro kulomet vz. 26, vpravo pro **4cm kanon vz. 36 spřažený s těžkým
+  kulometem vz. 37**. V objektu je dnes expozice přibližující jeho výzbroj v září 1938.
+
+  Pěchotní galerie vedoucí k tomuto srubu je jedním z nejnázornějších míst v celém čs. opevnění — je na ní dobře
+  vidět, že prostor mezi skalním masivem a vybetonovanou chodbou dělníci **vyskládali lomovými kameny**.
+
+  Nezaměňovat s objektem **N-S 73 „Jeřáb"** tvrze Dobrošov, který má podobné označení.
+navsteva:
+  pristupnost: auto-kratka-chuze
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha
+  - title: Muzeum Stachelberg
+    url: https://www.stachelberg.cz
+    type: web
+related:
+  typologie:
+    - delostrelecka-tvrz
+updated: '2026-08-08'
 photos:
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/T-S_73_Polom_01.JPG/1920px-T-S_73_Polom_01.JPG
+    alt: Tvrzový pěchotní srub T-S 73 „Polom" tvrze Stachelberg
+    author: Lukáš Malý
+    license: Public domain
+    source: https://commons.wikimedia.org/wiki/File:T-S_73_Polom_01.JPG
+    category: exterier
+    featured: true
+  - url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/T-S_73_Polom_02.JPG/1920px-T-S_73_Polom_02.JPG
+    alt: Tvrzový pěchotní srub T-S 73 „Polom" — pohled z druhé strany
+    author: Lukáš Malý
+    license: Public domain
+    source: https://commons.wikimedia.org/wiki/File:T-S_73_Polom_02.JPG
+    category: exterier
   - url: >-
       https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2000%29.jpg/1920px-Trutnov%2C_Bab%C3%AD%2C_T-S_73_%28rok_2000%29.jpg
-    alt: Pěchotní srub T-S 73
+    alt: Pěchotní srub T-S 73 na Babí u Trutnova, rok 2000
     author: User:Harold's family
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Trutnov,_Bab%C3%AD,_T-S_73_(rok_2000).jpg
+    category: exterier

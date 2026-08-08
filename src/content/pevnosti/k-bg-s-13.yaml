@@ -32,3 +32,20 @@ photos:
     author: Lasy
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:K-Bg-S_13_U_lomu_casemate_2.jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 13 „U lomu"
+castTvrze: Tvrz Hůrka
+history: |-
+  Tvrzový pěchotní srub tvrze Hůrka a **jeden ze dvou třípatrových** objektů svého druhu v čs. opevnění (druhým byl nedokončený T-S 72 na Stachelbergu). Dobový kód ŘOP: **K-S 13**.
+
+  Třípatrovou dispozici si vynutil **extrémně prudký svah**. S osádkou **37 mužů** šlo o **druhý největší vybetonovaný tvrzový pěchotní srub**.
+
+  Výškové členění je dobře patrné zvenčí: na levé straně vrchlík kopule pro dvojče těžkých kulometů, vpravo nahoře pěchotní zvon pro lehký kulomet; na pravé straně objektu jsou dva zvony pro lehký kulomet.
+
+  Jako tvrzový objekt byl postaven ve **IV. stupni odolnosti** a neměl klasický vchod — vstupovalo se z podzemí výtahovou šachtou se schodištěm.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

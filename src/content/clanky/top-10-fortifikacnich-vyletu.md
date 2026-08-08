@@ -184,8 +184,8 @@ Otevírací doby a vstupné se mění — **vždy si je ověřte na webu přísl
 
 Pokud vás toto téma zaujalo, doporučujeme si přečíst:
 
-- [Řetězec pohraničního opevnění](/stranky/retezec-pohranicniho-opevneni) — přehled všech úseků opevnění
+- [Řetězec pohraničního opevnění](/o-opevneni/fortifikacni-linie) — přehled všech úseků opevnění
 - [Typologie opevnění](/typologie) — jak se liší pěchotní srub, tvrz a řopík
-- [Historický kontext 1935–1938](/stranky/historicky-kontext) — proč ČSR stavělo opevnění a co se stalo v září 1938
+- [Historický kontext 1935–1938](/o-opevneni/historie-a-politicky-kontext) — proč ČSR stavělo opevnění a co se stalo v září 1938
 
 **Máte vlastní tip na fortifikační výlet? Napište nám — rádi doplníme seznam.**

@@ -20,3 +20,18 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:K-S_39_(Adam).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 39 „Hodek"
+castTvrze: Tvrz Adam
+history: |-
+  Tvrzový pěchotní srub tvrze **Adam**, největší stavebně dokončené čs. tvrze s plánovanou osádkou 611 osob. Dobový kód ŘOP: **K-S 39**; tvar „K-Am-S 39" je novodobé rozlišení.
+
+  Velitelem objektu byl **poručík pěchoty Karel Pyšný**, pobočník velitele tvrze podplukovníka Antonína Kostrhúna. Jeho obsáhlé vzpomínky patří k nejcennějším pramenům o každodennosti na československých tvrzích v roce 1938.
+
+  Pyšný ke stavu výzbroje: *„Do září 1938 jsme již měli všechny tři pěchotní sruby na Adamu úplně vyzbrojené. V objektech byly osazeny 4cm protitankové kanony vz. 36 a dvojkulomety, střeliva i dělostřeleckých granátů byl dostatek. (…) Největší problém jsme spatřovali především v nedodaných zvonech a kopulích. V prázdných šachtách, kde měly být osazeny, jsme si sice nadělali provizorní dřevěné podlážky a z pytlů s pískem a prken jsme vytvořili improvizovaná palebná postavení."*
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

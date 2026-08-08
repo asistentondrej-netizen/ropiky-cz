@@ -33,3 +33,20 @@ photos:
     author: Lasy
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:K-Bg-S_12a_U_rybn%C3%AD%C4%8Dku_casemate2.JPG
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 12a „U rybníčku"
+castTvrze: Tvrz Hůrka
+history: |-
+  **Vchodový objekt** tvrze Hůrka. Dobový kód ŘOP: **K-S 12a**.
+
+  Vchodové objekty se stavěly na týlových stranách kopců ve vzdálenosti 400–1 200 m od čelních pěchotních srubů a spotřebou železobetonu šlo po dělostřeleckém srubu o **druhý nejmohutnější typ tvrzového objektu**. Vjezd pro nákladní automobily uzavírala trojice uzávěrů: mřížová vrata (křídlo ~240 kg), **šestitunová vertikálně výsuvná pancéřová vrata** zavírající se za 15 vteřin a za zalomením chodby čtyřtunová posuvná vrata.
+
+  Napojení na podzemí zajišťovala **svážnice o sklonu 25 %** — šikmý výtah s klínovými podstavnými vozíky s kapacitou 20 t/hod dolů a 15 t/hod nahoru; šikmá galerie je 2,5 m široká a 2,95 m vysoká. Mechanismus svážnice byl v poválečném období s drobnými úpravami **vyroben podle původních plánů** a v tvrzi pak sloužil desítky let.
+
+  Jeden z pěti vchodových objektů vybetonovaných do září 1938. V roce 1940 patřil mezi objekty znovu vystrojené německou armádou zařízeními „DZ" pro zkušební účely.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

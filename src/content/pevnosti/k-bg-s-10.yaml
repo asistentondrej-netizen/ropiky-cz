@@ -33,3 +33,20 @@ photos:
     author: Lasy
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:K-Bg-S_10_U_bo%C5%BE%C3%AD_muky_2.jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 10 „U boží muky"
+castTvrze: Tvrz Hůrka
+history: |-
+  Tvrzový pěchotní srub tvrze **Hůrka** (dobově *Horka*, původně *Berghöhe*). Dobový kód ŘOP zněl **K-S 10**; tvar „K-Bg-S 10" je novodobé rozlišení tvrzových objektů králického úseku.
+
+  Jako tvrzový objekt byl postaven v nejvyšším, **IV. stupni odolnosti** — na rozdíl od izolovaných pěchotních srubů, jejichž odolnost dosahovala nejvýše III. stupně. Klasický vchod se zalomenou chodbičkou neměl; jediný běžně používaný vstup vedl **z podzemí tvrze výtahovou šachtou se schodištěm**.
+
+  Součástí výzbroje měla být **otočná kulometná věž (OR)** — v září 1938 se však teprve vyráběl její prototyp a šachta zůstala zabetonovaná prázdná.
+
+  Objekt byl **těžce poškozen německým zkušebním postřelováním**. V roce 1940 patřil mezi objekty, které nechala německá armáda znovu vystrojit takzvanými zařízeními „DZ" (střílny, lafety, periskopy, vnitřní vybavení zvonů); montáž prováděla brněnská Zbrojovka a zkoušky v okolí Králík probíhaly až do roku 1942.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

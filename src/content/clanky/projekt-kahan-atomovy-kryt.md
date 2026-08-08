@@ -34,7 +34,7 @@ Projekt Kahan se primárně realizoval na **tvrzi Hanička** v Orlických horác
 2. **Nedokončenost původního projektu** — Hanička nebyla v roce 1938 plně vybavena (dělostřelecké věže nebyly nainstalovány), zůstaly volné prostory vhodné pro přestavbu.
 3. **Příznivé geologické podmínky** — stabilní horniny hřebene Orlických hor.
 
-Paradoxem je, že Hanička byla v letech **1969–1975 zpřístupněna veřejnosti jako muzeum** — pro potřeby projektu ji pak stát opět uzavřel. Práce probíhaly od **poloviny 70. let do počátku 90. let** a náklady dosáhly řádově **stovek milionů Kčs**. Zapojeny byly stovky pracovníků — stavbařů, horníků, elektrikářů a zásobovačů.
+Paradoxem je, že Hanička byla v letech **1969–1975 zpřístupněna veřejnosti jako muzeum** — pro potřeby projektu ji pak stát opět uzavřel. Vlastní přestavba byla zahájena v roce **1979** a práce probíhaly až do počátku 90. let a náklady dosáhly řádově **stovek milionů Kčs**. Zapojeny byly stovky pracovníků — stavbařů, horníků, elektrikářů a zásobovačů.
 
 ### Co bylo instalováno
 
@@ -90,3 +90,17 @@ Dokumenty postupně odtajňovány, ale část archivů byla v letech 1989–1990
 ## Zdroje
 
 - Tvrz Hanička — expozice projektu Kahan, [hanicka.cz](https://www.hanicka.cz).
+
+
+## Upřesnění podle monografie *Dělostřelecké tvrze* (2024)
+
+- **1975** — objekty přebírá do užívání federální ministerstvo vnitra a celý areál uzavírá. Několik následujících let se na Haničce nic neděje
+- **1978** — studie stanoví požadavky: hotový objekt měl odolávat tlakové vlně i všem druhotným účinkům jaderného výbuchu, bojovým chemickým i biologickým zbraním, přímým zásahům konvenčních zbraní do stanovené ráže **a účinkům neutronové pumy**
+- **1979** — rozhodnutí zahájit přestavbu pod krycím jménem **KAHAN**
+- **Parametry:** autonomnost **7 dnů**, s doplňováním zásob asi **50 dnů**; kapacita zhruba **200 osob** včetně provozní skupiny
+- **Etapy:** KAHAN 1, KAHAN 2 a KAHAN 2 – rozšíření; celá akce měla skončit až v první polovině 90. let. **K dokončení nedošlo**, byť práce pokračovaly ještě krátce po pádu režimu
+- **1995** — tvrz je znovu zpřístupněna veřejnosti
+
+Dochovaly se plány z přestavby, mimo jiné půdorys horního patra dělostřeleckého srubu **R-S 79 „Na mýtině"** a řez objektem pro výsuvnou a otočnou dělostřeleckou věž **R-S 78 „Na pasece"**, s červeně vyznačenými částmi, které měly být dostavěny a dobetonovány.
+
+*Zdroj: Suchánek, Jiří: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024.*

@@ -22,3 +22,20 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Lichkov,_K-S_24_(rok_2005;_01).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 24
+castTvrze: Tvrz Bouda
+history: |-
+  Tvrzový pěchotní srub tvrze Bouda. Dobový kód ŘOP: **K-S 24**.
+
+  Jako jeden ze dvou objektů (druhým bylo MO-S 20 „Orel") měl **nouzový východ řešený shodně jako běžný vstup do izolovaného pěchotního srubu**. Důvod byl kapacitní: zajišťoval **ústup části mužstva z podzemních kasáren**, protože speciální nouzový východ v prostoru vyrovnávací šachty by v případě potřeby rychlého opuštění podzemí nedostačoval. Zároveň tudy mohly na povrch tvrze chodit hlídky.
+
+  V interiéru střelecké místnosti je dodnes vidět **oplechování stěn**, které mělo bránit zranění osádky úlomky betonu odletujícími při zásazích granáty velké ráže, a dvě střílny pro dvojčata těžkých kulometů vz. 37. Zvenčí je patrné ústí granátového skluzu, pod nímž byla vybetonována **dopadová ploška zajišťující iniciaci nárazového granátu vz. 34**.
+
+  Po Mnichovu na tomto objektu Němci **odpálili nálož v revizní šachtě kanalizace** — celý srub byl **odtržen od základů a posunut asi o 50 cm**.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

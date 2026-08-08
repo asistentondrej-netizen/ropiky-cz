@@ -22,3 +22,20 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Doln%C3%AD_Bo%C5%99%C3%ADkovice,_K-S_23_(rok_2005;_01).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 23
+castTvrze: Tvrz Bouda
+history: |-
+  Tvrzový pěchotní srub tvrze Bouda. Dobový kód ŘOP: **K-S 23**.
+
+  Patří do zvláštní kategorie objektů, které měly **hlavní i pomocnou výzbroj výhradně ve zvonech a kopulích** — takové sruby byly zcela zapuštěny do okolního terénu a **nouzový východ u nich zcela chyběl**. Druhým takovým objektem bylo MO-S 40 „Nad silnicí" na Smolkově.
+
+  Přístup z podzemí zajišťovala **vyrovnávací šachta** (14 m, 74 schodů), jediná realizovaná ve stavebně dokončených tvrzích.
+
+  V objektu měl mít bojové stanoviště dělostřelecký pozorovatel poručík **Jindřich Stach**. Protože pancéřový zvon nedorazil, strávil mobilizaci *„v improvizované dřevěné budce pokryté lepenkou. (…) Připadal jsem si tam chvílemi jako myslivec na posedu, protože ona boudička neměla čelní stěnu."*
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

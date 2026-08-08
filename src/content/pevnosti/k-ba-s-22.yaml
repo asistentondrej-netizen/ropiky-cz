@@ -29,3 +29,22 @@ photos:
     author: Lasy
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:K-Ba-S_22_Horym%C3%ADr_casemate1.JPG
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 22
+castTvrze: Tvrz Bouda
+history: |-
+  Objekt pro **otočnou a výsuvnou dělostřeleckou věž** tvrze Bouda. Dobový kód ŘOP: **K-S 22**.
+
+  Bouda je mezi čs. tvrzemi výjimkou: **neměla dělostřelecký srub**. Veškeré pevnostní dělostřelectvo mělo být soustředěno právě do věže v tomto objektu — dvojčete 10cm houfnic vz. 38 s kruhovým palebným vějířem. Na začátku dubna 1936 taktická komise dokonce navrhovala přidat na Boudu druhou věž; k realizaci nedošlo. Praktickým důsledkem bylo, že na rozdíl od Hůrky, Adamu, Smolkova a Haničky **neměla Bouda v září 1938 kam postavit ani improvizovanou baterii** horských kanonů.
+
+  Jde o **jediný objekt svého druhu s dochovanou otevřenou šachtou**. Výtahová šachta má průřez 365 × 455 cm (výtahy typu Vý III, nosnost 2 500 kg) a obtáčí ji schodiště široké 80 cm o **99 stupních**. Výklenky sloužily jako příruční sklady munice, jeden z nich jako bojové stanoviště velitele.
+
+  Ve skladišti **M3** tohoto objektu je od roku 2023 k vidění **model dělostřelecké otočné a výsuvné věže v měřítku 1:10** — přes 1 000 kg vážící pohyblivý exponát převážně z oceli, který simuluje skutečnou činnost objektu v boji.
+
+  Po Mnichovu na objekt Němci pálili granáty ráže **21 cm**.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

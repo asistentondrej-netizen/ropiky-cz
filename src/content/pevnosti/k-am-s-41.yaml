@@ -20,3 +20,16 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:K-S_41_(Adam).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 41 „Pod vrškem"
+castTvrze: Tvrz Adam
+history: |-
+  Tvrzový pěchotní srub tvrze Adam, třetí ze tří vybetonovaných. Dobový kód ŘOP: **K-S 41**.
+
+  Jako tvrzový objekt postaven ve **IV. stupni odolnosti**, bez klasického vchodu — vstupovalo se z podzemí výtahovou šachtou se schodištěm. Osádky Adamu ovšem v praxi do objektů chodily **nouzovými východy v ochranných příkopech**; jak vysvětlil poručík Pyšný: *„Bylo to z naprosto prozaického důvodu, vždyť komu by se chtělo stále trmácet ke vchodovému objektu, který byl situován poměrně daleko od zbytku tvrze."*
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

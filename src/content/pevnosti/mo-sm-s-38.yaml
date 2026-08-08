@@ -20,3 +20,20 @@ photos:
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_38_(2015-04-14;_01).jpg
 built: '1938'
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: MO-S 38 „V lese"
+castTvrze: Tvrz Smolkov
+history: |-
+  Objekt pro **otočnou a výsuvnou dělostřeleckou věž** tvrze **Smolkov**. Dobový kód ŘOP: **MO-S 38**; tvar „MO-Sm-S 38" je novodobé rozlišení tvrzových objektů opavského úseku.
+
+  Jeden z pěti vybetonovaných objektů svého druhu. Obvodové stěny byly nad rámec IV. stupně odolnosti **zesíleny na 3,5 m železobetonu**. Věž s dvojčetem 10cm houfnic vz. 38 nebyla nikdy dokončena.
+
+  V roce 1947 zde dvacetičlenný pracovní oddíl při obnovovacích pracích postavil provizorní dřevěné zábradlí.
+
+  **Pozor na časté zaměňování:** tvrz Smolkov tvořily objekty **MO-S 38 až MO-S 42**, nikoli MO-S 37 až 41. Srub MO-S 37 „Cukrovar" je samostatný pěchotní srub linie a k tvrzi nepatří.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

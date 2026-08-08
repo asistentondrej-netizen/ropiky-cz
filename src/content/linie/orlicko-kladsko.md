@@ -92,5 +92,5 @@ Posádky opouštěly tvrze a sruby v prvních říjnových dnech roku 1938 — b
 - [Tvrz Bouda — deep dive](/tvrze/bouda)
 - [Tvrz Hanička — deep dive](/tvrze/hanicka)
 - [Tvrz Dobrošov — deep dive](/tvrze/dobrosov)
-- [Projekt Kahan — Hanička jako protiatomový kryt](/clanky/projekt-kahan)
+- [Projekt Kahan — Hanička jako protiatomový kryt](/clanky/projekt-kahan-atomovy-kryt)
 - [Dělostřelecká tvrz — typologie](/typologie/delostrelecka-tvrz)

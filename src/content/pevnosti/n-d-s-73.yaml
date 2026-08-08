@@ -24,3 +24,18 @@ photos:
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: N-S 73 „Jeřáb"
+castTvrze: Tvrz Dobrošov
+history: |-
+  Tvrzový pěchotní srub rozestavěné tvrze Dobrošov. Dobový kód ŘOP: **N-S 73**.
+
+  V září 1938 objektu chyběla **kopule pro dvojče těžkých kulometů a všechny tři zvony** (dva pro lehký kulomet a jeden pozorovací) — a přesto byl ze tří vybetonovaných objektů Dobrošova nejdál.
+
+  Nezaměňovat s objektem **T-S 73 „Polom"** tvrze Stachelberg, který má podobné označení, ale leží na Babí u Trutnova.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

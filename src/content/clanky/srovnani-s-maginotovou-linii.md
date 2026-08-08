@@ -18,7 +18,7 @@ related:
 | Parametr | Maginotova linie | Československé opevnění (ŘOP) |
 |---|---|---|
 | **Doba výstavby** | 1929–1939 (10 let) | 1935–1938 (3,5 roku) |
-| **Počet objektů — těžké** | ~142 *ouvrages* | 263 objektů těžkého opevnění (13 tvrzí zadáno, 8 zahájeno, 5 stavebně dokončeno) |
+| **Počet objektů — těžké** | ~142 *ouvrages* | 221 samostatných pěchotních srubů + tvrzové objekty (17 tvrzí plánováno, 9 zahájeno, 5 stavebně dokončeno) |
 | **Počet objektů — lehké** | ~350 samostatných kasemat | 9 632 objektů (řopíky vz. 37) |
 | **Celková délka linie** | ~720 km | linie po celém obvodu státu (plán) |
 | **Maximální odolnost** | stěny až 350 cm | stěny až 350 cm (stupeň IV) |

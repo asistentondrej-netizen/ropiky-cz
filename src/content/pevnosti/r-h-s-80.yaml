@@ -26,7 +26,37 @@ photos:
     author: Tomasz Leśniowski
     license: CC BY-SA 4.0
     source: https://commons.wikimedia.org/wiki/File:Schron_dla_piechoty_R-H-S_80.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_80_%28rok_2010%3B_01%29.jpg/1920px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_80_%28rok_2010%3B_01%29.jpg
+    alt: "R-H-S 80 „U potůčku\" — tvrz Hanička"
+    author: "Harold"
+    license: "CC BY-SA 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_80_(rok_2010;_01).jpg
+    category: exterier
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
 built: '1938'
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: "R-S 80 „U potůčku\""
+castTvrze: "Tvrz Hanička"
+tech:
+  odolnost: IV
+  stupenDokonceni: dokonceny
+history: |-
+  Tvrzový pěchotní srub dělostřelecké tvrze **Hanička**. Dobový kód ŘOP: **R-S 80**.
+
+  Jméno objektu je výstižné. **Při hloubení štoly pod tímto srubem narazili dělníci na tak vydatný pramen, že došlo k zaplavení celého pracovního prostoru** — a nepomohly ani nasazené pumpy. Situaci vyřešilo až proražení odvodňovací štoly.
+
+  Voda přitom byla pro tvrz zásadní surovinou: už během ražby se podchycené prameny a průsaky sváděly do cisteren, odkud se čerpala jak pitná voda pro osádku, tak voda užitková pro stroje a protipožární systém. Množství se lišilo tvrz od tvrze — zatímco na Haničce byl problém opačný, na Adamu bylo vody tak málo, že se zásobní jímky musely doplňovat z autocisteren.
+
+  Jako tvrzový objekt byl postaven ve **IV. stupni odolnosti**, bez klasického vchodu — vstupovalo se z podzemí výtahovou šachtou se schodištěm oddělenou v horním patře plynotěsnými dveřmi a přechodovou komorou.
+related:
+  typologie:
+    - delostrelecka-tvrz
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

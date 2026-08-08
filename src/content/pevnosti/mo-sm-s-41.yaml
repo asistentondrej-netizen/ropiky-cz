@@ -22,3 +22,20 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_41_(2015-04-14;_04).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: MO-S 41 „Nad Valchou"
+castTvrze: Tvrz Smolkov
+history: |-
+  **Vchodový objekt** tvrze Smolkov. Dobový kód ŘOP: **MO-S 41**.
+
+  Jeden z pěti vchodových objektů vybetonovaných do září 1938. Před objektem stál dodatečně přistavěný **transformátor**, pomocí kterého byla tvrz připojena k veřejné elektrické síti — každá tvrz na ni byla napojena a podzemní dieselelektrárna se měla zapojit až za válečného stavu při výpadku dodávky, aby se drahé strojní zařízení neopotřebovalo v míru.
+
+  Po obsazení pohraničí sem Němci vodili exkurze; na dobových snímcích jsou před objektem vidět **části převodovky nákladního výtahu z dělostřeleckého srubu**, které demontovali a připravili k odvezení.
+
+  V roce 1947 obnovil dvacetičlenný pracovní oddíl dřevěné oplocení kolem objektu.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

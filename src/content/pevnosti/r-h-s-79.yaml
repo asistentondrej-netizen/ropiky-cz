@@ -1,6 +1,6 @@
 title: R-H-S-79
 code: R-H-S-79
-type: pechotni-srub
+type: delostrelecky-srub
 line: Rokytnicko / Orlické hory
 region: Pardubický kraj
 location:
@@ -35,6 +35,40 @@ photos:
     author: Tomasz Leśniowski
     license: CC BY-SA 4.0
     source: https://commons.wikimedia.org/wiki/File:Schron_artyleryjski._R-H-S_79.jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_79_%28rok_2000%3B_01%29.jpg/1920px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_79_%28rok_2000%3B_01%29.jpg
+    alt: "R-H-S 79 „Na mýtině\" — dělostřelecký srub tvrze Hanička"
+    author: "Harold's family"
+    license: "CC BY-SA 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_79_(rok_2000;_01).jpg
+    category: exterier
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: "R-S 79 „Na mýtině\""
+castTvrze: "Tvrz Hanička"
+tech:
+  odolnost: IV
+  stupenDokonceni: dokonceny
+history: |-
+  **Dělostřelecký srub** tvrze **Hanička** — jeden ze **šesti vybetonovaných** v celém čs. opevnění (dále MO-S 39, K-S 11, K-S 43, K-S 45 a N-S 75). Dobový kód ŘOP: **R-S 79**; tvar „R-H-S 79" je novodobé rozlišení tvrzových objektů rokytnického úseku.
+
+  Zvenčí jsou dobře patrné **mohutné střílny pro houfnice**, oba zvony pro lehký kulomet a vzadu střílna pro tutéž zbraň pod betonem.
+
+  Dělostřelecké sruby byly s délkou kolem **48 m** a průměrnou spotřebou **5 500 m³ betonu** největšími objekty čs. opevnění; betonovaly se po částech s dilatační spárou. Hlavní výzbroj měly tvořit **tři 10cm houfnice vz. 38** v pancéřových střílnách pod betonem — nebyla vyrobena ani jedna z 87 objednaných.
+
+  Improvizovaná baterie tří **7,5cm horských kanonů vz. 15** se sem měla podle rozhodnutí ŘOP z dubna 1938 umístit do ochranného příkopu. Komise při průzkumu ale zjistila, že **děla by tam kvůli probíhajícím betonářským pracím neměla dostatečný výstřel**, a baterie proto skončila v týlu za objektem — stejně jako u srubu K-S 45 „Jabůrek" na Adamu. Dostřel horských kanonů činil necelých 8 km oproti plánovaným 11 700 m u houfnice vz. 38.
+
+  Střílny osazené zde patřily k **tvarově nesouměrné** první sérii s prázdným výklenkem pro jednokřídlová pancéřová dvířka, o jejichž použití ŘOP po francouzském vzoru uvažovalo, ale nakonec je nezavedlo. Odměr činil 45°, náměr od +38° do −10°.
+
+  Po Mnichovu zde Němci testovali podkaliberní protibetonové střely **Röchling**. V rámci přísně tajného projektu **KAHAN** (od roku 1979) vznikl půdorys horního patra tohoto objektu s červeně vyznačenými částmi, které měly být dostavěny a dobetonovány; přestavba Haničky na válečné kryté pracoviště federálního ministerstva vnitra nebyla nikdy dokončena.
+related:
+  typologie:
+    - delostrelecka-tvrz
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

@@ -20,3 +20,18 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:K-S_45_(Adam).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 45 „Jabůrek"
+castTvrze: Tvrz Adam
+history: |-
+  **Dělostřelecký srub** tvrze Adam a **jediný třípatrový dělostřelecký srub celého čs. opevnění**. Dobový kód ŘOP: **K-S 45**.
+
+  Objekt měl stát v prudkém svahu, a tak projektanti umístili jednu ze tří střeleckých místností až v úrovni dolního patra prvních dvou zbraní. Dobové zápisy toto řešení nehodnotily nadšeně — nebylo výhodné ani stavebně, ani z hlediska střelby.
+
+  Lomený tvar a prudký svah způsobily i praktický problém v roce 1938: **improvizovanou baterii tří 7,5cm horských kanonů vz. 15 nešlo umístit ani do ochranného příkopu, ani před něj** — z takové pozice by palba ohrožovala budovy na staveništi tvrze. Baterie skončila **asi 600 m do týlu** za objektem. Postavení sestávalo z okopů vyložených nasucho kameny s dřevěnou točnou na dně; každý kanon kryl dřevěný přístřešek a poblíž palpostů vznikly čtyři dřevozemní úkryty — tři pro obsluhy děl a jeden jako pohotovostní sklad munice.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

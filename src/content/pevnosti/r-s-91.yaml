@@ -1,8 +1,8 @@
-title: R-S-91
-code: R-S-91
+title: R-S 91 „Vrchol"
+code: R-S 91
 type: pechotni-srub
-line: Rokytnicko / Orlické hory
-region: Pardubický kraj
+line: Rokytnice v Orlických horách
+region: Královéhradecký kraj
 location:
   lat: 50.23155
   lon: 16.486098
@@ -36,3 +36,22 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:Orlick%C3%A9_Z%C3%A1ho%C5%99%C3%AD,_%C4%8Cern%C3%A1_Voda_u_Orlick%C3%A9ho_Z%C3%A1ho%C5%99%C3%AD,_R-S_91_(rok_2010;_01).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: R-S 91 „Vrchol"
+castTvrze: Tvrz Hanička
+history: |-
+  **Izolovaná dělostřelecká pozorovatelna** na Komářím vrchu v Orlických horách, pracující primárně ve prospěch tvrze **Hanička**.
+
+  Postavena jako **dvoupodlažní** ve **III. stupni odolnosti**. U dvoupodlažní varianty se pozorovací i pěchotní zvon nacházely ve stejném, horním patře; třípodlažní variantou byl K-S 12b „Utržený" u Králík.
+
+  Samostatné pozorovatelny ležely za hlavní obrannou čarou a neměly se přímo účastnit boje, proto jejich výzbroj odpovídala pouze nutné obraně blízkého okolí a budovala se kolem nich jen **lehká obvodová překážka**. Velký důraz se naopak kladl na maskování. Vchod kryla střílna pro lehký kulomet, dominantou byl **zvon pro tutéž zbraň bránící v plném rozsahu 360° blízké okolí**; pozorovací zvon s výhledem směrem na Orlické Záhoří a Černou Vodu byl na druhé straně objektu.
+
+  Objekt přišel **o pěchotní i o dělostřelecký pozorovací zvon**. Do dneška se v celém čs. opevnění dochovaly pouze dva dělostřelecké pozorovací zvony.
+
+  Spojení s tvrzí měla zajistit pevnostní telefonní síť, v září 1938 teprve dokončovaná, a později radiostanice. Žádná pozorovatelna přitom nesloužila jen jedné baterii — podle potřeby by naváděla palbu několika objektů, a to i ze sousedních tvrzí.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

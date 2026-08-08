@@ -76,7 +76,7 @@ Lehké pevnostní objekty — **LO vz. 36** a zejména **LO vz. 37 (řopík)** �
 
 **Pěchotní sruby** byly podstatně mohutnější železobetonové objekty se stropy až **3,5 metru** a stěnami až zhruba **2,75 metru** silnými, vyzbrojené kulomety, protitankovými kanóny a minomety. Uvnitř měly několik místností, ubikace, strojovnu, filtroventilaci a sklad munice. Posádka dosahovala 20–40 mužů.
 
-Nejmohutnější komponentou systému byly **dělostřelecké tvrze** — skupiny několika železobetonových objektů propojených podzemním systémem chodeb a sálů. Zadáno bylo 13 tvrzí, výstavba byla zahájena u osmi z nich a do Mnichova bylo stavebně dokončeno pět: **Adam, Bouda, Hanička, Hůrka a Smolkov**. Další (mj. Dobrošov, Skutina a Stachelberg) zůstaly rozestavěné. Největší plánovaná tvrz **Stachelberg** dosáhla realizace jen jediného pěchotního srubu.
+Nejmohutnější komponentou systému byly **dělostřelecké tvrze** — skupiny několika železobetonových objektů propojených podzemním systémem chodeb a sálů. Plánováno bylo 17 tvrzí, výstavba byla zahájena u devíti z nich a do Mnichova bylo stavebně dokončeno pět: **Smolkov, Hůrka, Bouda, Adam a Hanička**. Rozestavěné zůstaly **Šibenice, Skutina, Dobrošov a Stachelberg (Ježová hora)**; z tvrze Orel byl vybudován jen pěchotní srub MO-S 20 a pět dalších tvrzí bylo zrušeno nebo nezadáno ke stavbě. Největší plánovaná tvrz **Stachelberg** dosáhla realizace jen jediného pěchotního srubu.
 
 ## Geografické rozvržení
 

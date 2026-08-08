@@ -25,7 +25,7 @@ zastavky:
     typ: "pevnost"
     doba_minut: 80
     poznamka: "Vstup do podzemí. Nabízejí se dvě trasy — základní (kolem 50 minut) a prodloužená (kolem 80 minut). Průvodce povinný, provozuje město Rokytnice v Orlických horách."
-  - slug: "r-s-79-na-mytine"
+  - slug: "r-h-s-79"
     nazev: 'Dělostřelecký srub R-S 79 „Na mýtině"'
     typ: "pevnost"
     doba_minut: 25

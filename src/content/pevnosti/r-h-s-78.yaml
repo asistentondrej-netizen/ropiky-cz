@@ -1,6 +1,6 @@
 title: R-H-S-78
 code: R-H-S-78
-type: pechotni-srub
+type: delostrelecky-srub
 line: Rokytnicko / Orlické hory
 region: Pardubický kraj
 location:
@@ -23,6 +23,45 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_78_(rok_2010;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_78_%28rok_2000%29.jpg/1920px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_78_%28rok_2000%29.jpg
+    alt: "R-H-S 78 „Na pasece\" — objekt pro dělostřeleckou věž tvrze Hanička"
+    author: "Harold's family"
+    license: "CC BY-SA 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_78_(rok_2000).jpg
+    category: exterier
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_78_%28rok_2010%3B_01%29.jpg/1920px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_78_%28rok_2010%3B_01%29.jpg
+    alt: "R-H-S 78 „Na pasece\" — objekt pro dělostřeleckou věž tvrze Hanička"
+    author: "Harold"
+    license: "CC BY-SA 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_78_(rok_2010;_01).jpg
+    category: exterier
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: "R-S 78 „Na pasece\""
+castTvrze: "Tvrz Hanička"
+tech:
+  odolnost: IV
+  stupenDokonceni: dokonceny
+history: |-
+  **Objekt pro otočnou a výsuvnou dělostřeleckou věž (RO)** tvrze Hanička. Dobový kód ŘOP: **R-S 78**.
+
+  Jeden z **pěti vybetonovaných objektů svého druhu** v celém čs. opevnění (dále MO-S 38 „V lese", K-S 12 „Na kótě", K-S 22 a K-S 42 „Trigonometr"). Objekty pro věž se stavěly nedaleko nejvyšší kóty tvrze, aby se dal využít **360° palebný vějíř**. Protože byly tím pádem dobře pozorovatelné, zesílili konstruktéři **nad rámec IV. stupně odolnosti obvodové stěny na 3,5 m železobetonu** — nejvíc ze všech objektů čs. opevnění.
+
+  Věž měla nést **dvojče 10cm houfnic vz. 38**, vážit zhruba **442,9 t** (pohyblivá část 125 t, protizávaží 125 t, pevné části ~192,9 t, sám předpancíř 160 t), odolat přímým zásahům granátů **do ráže 420 mm** a leteckých pum do 1 000 kg a vysunout se o **70 cm za sedm vteřin** elektromotorem (ručně asi 90 vteřin). Dotace munice měla činit **12 000 ran**, osádka **54 mužů**.
+
+  **Do září 1938 nebyla dokončena ani jedna dělostřelecká věž.** Ve Škodovce byly rozpracované dva prototypy objednané v srpnu 1937. Některé ocelové součásti, které bylo třeba zabetonovat (odpadová roura pro nábojnice, kotevní železa), posílaly Škodovy závody na staveniště samostatně už v březnu a dubnu 1938.
+
+  V rámci přísně tajného projektu **KAHAN** (od roku 1979) vznikl řez tímto objektem s červeně vyznačenými částmi, které měly být dostavěny a dobetonovány. Přestavba Haničky na válečné kryté pracoviště federálního ministerstva vnitra nebyla nikdy dokončena.
+related:
+  typologie:
+    - delostrelecka-tvrz
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

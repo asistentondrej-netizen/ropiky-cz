@@ -132,7 +132,7 @@ Téměř všude v pohraničí, ale nejhustěji v:
 - **Krkonoších** (oblast okolo Trutnova)
 - **Jižní Moravě** (Mikulovsko, Znojemsko, Břeclavsko)
 - **Slovensku** (okolí Bratislavy — Petržalka)
-- **Vnitrozemských úsecích** ([pražská čára](/clanky/prazska-cara), liběchovská příčka, vltavská linie)
+- **Vnitrozemských úsecích** ([pražská čára](/linie/vnitrozemska-obrana), liběchovská příčka, vltavská linie)
 
 Některé jsou přístupné jako muzejní expozice — například **K-S 14 „U cihelny"**, areál **Skutina**, **Bouda** nebo **Hanička**. Mnoho dalších je volně přístupných v terénu.
 
@@ -143,7 +143,7 @@ Některé jsou přístupné jako muzejní expozice — například **K-S 14 „U
 Pokud Vás řopíky zaujaly a chcete je vidět na vlastní oči, doporučuji článek
 [**TOP 10 fortifikačních výletů**](/clanky/top-10-fortifikacnich-vyletu) — vybrané trasy s mapami a tipy, kde se přilehlé pevnosti dají kombinovat s celodenním turistickým zážitkem.
 
-Pokud chcete jeden konkrétní cíl, kde uvidíte řopík plus pěchotní srub plus muzeum najednou, sázka na jistotu je **muzejní areál Skutina** v Orlických horách. Více v [naučné stezce](/clanky/naucna-stezka-darkovicky).
+Pokud chcete jeden konkrétní cíl, kde uvidíte řopík plus pěchotní srub plus muzeum najednou, sázka na jistotu je **muzejní areál Skutina** v Orlických horách. Více v [naučné stezce](/cesty/stezka-darkovicky).
 
 ## Souhrn
 
@@ -160,5 +160,5 @@ Pokud Vás téma zaujalo, doporučuji navazující čtení:
 
 - [**Pevnosti ČSR — kompletní průvodce**](/pevnosti-csr) (sruby, tvrze, celý systém)
 - [**Sedm mýtů o čs. opevnění**](/clanky/myty-o-ceskoslovenskem-opevneni)
-- [**Pražská čára**](/clanky/prazska-cara) (vnitrozemská linie)
+- [**Pražská čára**](/linie/vnitrozemska-obrana) (vnitrozemská linie)
 - [**Mnichov 1938 a osud opevnění**](/o-opevneni/mnichov-a-osud-opevneni)

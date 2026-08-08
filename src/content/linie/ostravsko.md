@@ -41,7 +41,7 @@ Areál tvoří pěchotní sruby **MO-S 18 „Obora"**, **MO-S 19 „Alej"**, **M
 
 ### Tvrz Smolkov
 
-**Stavebně dokončená dělostřelecká tvrz** — pět objektů **MO-S 37 až MO-S 41** propojených podzemím. Areál dlouhodobě využívala armáda, proto je přístup omezený — a právě díky tomu zůstal komplex **dobře dochovaný**.
+**Stavebně dokončená dělostřelecká tvrz** — pět objektů **MO-S 38 „V lese", MO-S 39 „U trigonometru", MO-S 40 „Nad silnicí", MO-S 41 „Nad Valchou" a MO-S 42 „Nad Hájem"** propojených podzemím. (Srub MO-S 37 „Cukrovar" k tvrzi nepatří — je to samostatný pěchotní srub linie.) Areál dlouhodobě využívala armáda, proto je přístup omezený — a právě díky tomu zůstal komplex **dobře dochovaný**.
 
 ### MO-S 5 „Na trati"
 
@@ -66,5 +66,5 @@ Celý okruh zvládnete za 1 den autem. Ideální kombinace s návštěvou **Doln
 
 - [Pěchotní srub — typologie](/typologie/pechotni-srub)
 - [Dělostřelecká tvrz — typologie](/typologie/delostrelecka-tvrz)
-- [Naučná stezka Darkovičky](/clanky/naucna-stezka-darkovicky)
+- [Naučná stezka Darkovičky](/cesty/stezka-darkovicky)
 - [Osudy posádek po Mnichovu](/clanky/osudy-posadek-po-mnichovu)

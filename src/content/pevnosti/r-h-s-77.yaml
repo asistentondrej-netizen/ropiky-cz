@@ -22,6 +22,45 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_77_(rok_2010;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_77_%28rok_2000%29.jpg/1920px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_77_%28rok_2000%29.jpg
+    alt: "R-H-S 77 „U pozorovatelny\" — tvrz Hanička"
+    author: "Harold's family"
+    license: "CC BY-SA 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_77_(rok_2000).jpg
+    category: exterier
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_77_%28rok_2010%3B_01%29.jpg/1920px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_77_%28rok_2010%3B_01%29.jpg
+    alt: "R-H-S 77 „U pozorovatelny\" — tvrz Hanička"
+    author: "Harold"
+    license: "CC BY-SA 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_77_(rok_2010;_01).jpg
+    category: exterier
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: "R-S 77 „U pozorovatelny\""
+castTvrze: "Tvrz Hanička"
+tech:
+  odolnost: IV
+  stupenDokonceni: dokonceny
+history: |-
+  Tvrzový pěchotní srub dělostřelecké tvrze **Hanička**. Dobový kód ŘOP: **R-S 77**; v literatuře „U pozorovatelny" i „Pozorovatelna".
+
+  Jméno objekt dostal podle své role: vedle palebných úkolů plnil funkci **dělostřelecké pozorovatelny**. Sloužil k tomu **dělostřelecký pozorovací zvon** — pancéřový prvek bez jediné střílny, s jedním až čtyřmi průzory, vnitřní **20mm košilkou z měkčí oceli** chránící optiku a pozorovatele před odštěpky pancíře, o hmotnosti 20–52 t. Pozorovalo se periskopickým dalekohledem **10/6× vz. 38** vysouvaným otvorem ve vrchlíku.
+
+  Obsluhu pozorovacího zvonu tvořili **dělostřelci mimo běžnou osádku objektu** — jeden důstojník a jeden až pět poddůstojníků s vlastní ubikací, případně i kanceláří v blízkosti zvonu.
+
+  Velení tvrze však s výhledem z tohoto zvonu ani ze zvonu na R-S 76 nebylo plně spokojeno. Koncem června 1938 proto ŘOP odsouhlasilo výstavbu **předsunuté dělostřelecké pozorovatelny** — s podmínkou, že si ji osádka postaví vlastními silami. Asi **350 m východně od R-S 77** tak na okraji lesa vyrostl okop o rozměrech 220 × 200 cm a hloubce 200 cm s výklenkem se třemi nesouměrnými průzory, betonovými stěnami kolem 30 cm, shora překrytý kulatinou a obsypaný zeminou. Do týla vedl asi **18 m dlouhý spojovací zákop**; obranu zajišťovaly dva okopy pro lehké kulomety a spojení s tvrzí pozemní linka.
+
+  Postaven ve **IV. stupni odolnosti**, bez klasického vchodu — vstupovalo se z podzemí výtahovou šachtou se schodištěm.
+related:
+  typologie:
+    - delostrelecka-tvrz
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

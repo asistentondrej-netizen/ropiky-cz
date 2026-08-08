@@ -60,5 +60,5 @@ Ideální kombinace s **ochutnávkou moravského vína** (Šatov, Vrbovec, Znojm
 ## Související obsah
 
 - [LO vz. 37 — řopík, typologie](/typologie/lo-vz-37)
-- [Tip na výlet Valticko](/clanky/tip-na-vylet-valticko)
+- [Tip na výlet Valticko](/cesty/valticko-cyklo)
 - [Chronologie ŘOP 1935–1938](/clanky/chronologie-rop-1935-1938)

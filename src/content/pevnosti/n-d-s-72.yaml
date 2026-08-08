@@ -36,3 +36,18 @@ photos:
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: N-S 72 „Můstek"
+castTvrze: Tvrz Dobrošov
+history: |-
+  Tvrzový pěchotní srub rozestavěné tvrze **Dobrošov**. Dobový kód ŘOP: **N-S 72**; tvar „N-D-S 72" je novodobé rozlišení tvrzových objektů náchodského úseku.
+
+  Jeden ze **tří vybetonovaných objektů** Dobrošova (dále N-S 73 „Jeřáb" a dělostřelecký srub N-S 75 „Zelený") ze sedmi plánovaných. Stavba tvrze byla zahájena až **13. září 1937** firmou Müller a Kapsa a do Mnichova nedospěla daleko.
+
+  Dobrošov byl **jedinou rozestavěnou tvrzí, která měla po Mnichovu zůstat československé armádě**. I tam se ale práce zastavily.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

@@ -22,3 +22,20 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:Kr%C3%A1l%C3%ADky,_Doln%C3%AD_Bo%C5%99%C3%ADkovice,_K-S_21_(rok_2005;_01).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 21
+castTvrze: Tvrz Bouda
+history: |-
+  Tvrzový pěchotní srub tvrze **Bouda** (dobově *Baudenkoppe*). Dobový kód ŘOP: **K-S 21**; tvar „K-Ba-S 21" je novodobé rozlišení.
+
+  Na pravé straně jsou zleva patrné střílny pro **dvě dvojčata těžkých kulometů vz. 37** a vpravo od nich střílna pro kulomet vz. 26, který nepříteli bránil v přístupu ke střílnám hlavních zbraní a k **ochrannému příkopu hlubokému 250 cm**. Do příkopu ústil nouzový východ o rozměrech 90 × 100 cm. Vpravo nahoře od střílny lehkého kulometu jsou výdechy ventilace, běžně chráněné ocelolitinovou mřížkou.
+
+  Přístup k objektu z podzemí zajišťovala **vyrovnávací šachta** — jediná realizovaná ve stavebně dokončených tvrzích. Je 14 m hluboká a má 74 schodů; slouží i pro srub K-S 23.
+
+  Po Mnichovu na objekt Němci pálili granáty ráže **21 cm**.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

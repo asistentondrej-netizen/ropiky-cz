@@ -23,3 +23,40 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Sn%C4%9B%C5%BEn%C3%A9,_N-S_48_(rok_2002;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/d/dd/Bunkr_Skutina_1_-_panoramio.jpg
+    alt: "N-SK-S 48 „U stodol\" — tvrz Skutina"
+    author: "1089hruskapetr"
+    license: "CC BY 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Bunkr_Skutina_1_-_panoramio.jpg
+    category: exterier
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/e/e5/Bunkr_Skutina_2_-_panoramio.jpg
+    alt: "N-SK-S 48 „U stodol\" — tvrz Skutina"
+    author: "1089hruskapetr"
+    license: "CC BY 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Bunkr_Skutina_2_-_panoramio.jpg
+    category: exterier
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: "N-S 48 „U stodol\""
+castTvrze: "Tvrz Skutina"
+tech:
+  odolnost: IV
+  stupenDokonceni: dokonceny
+history: |-
+  Tvrzový pěchotní srub rozestavěné dělostřelecké tvrze **Skutina**. Dobový kód ŘOP: **N-S 48**; tvar „N-Sk-S 48" je novodobé rozlišení.
+
+  Spolu s **N-S 49 „Pod lesem"** jeden ze **dvou vybetonovaných objektů** této tvrze. Stavba Skutiny byla zahájena až **18. listopadu 1937** firmou Dr. Ing. Karel Skorkovský — předposlední ze všech devíti zahájených tvrzí. Ze čtyř plánovaných objektů zůstal dělostřelecký srub **N-S 52 „Bažina"** ve stavu výkopu a minometný srub **N-S 51** nebyl vůbec zadán ke stavbě.
+
+  Skutina spadala do úseku těžkého opevnění **Náchod (N-S)** a spolu se sousedním Dobrošovem měla tvořit dvojici tvrzí krytých vzájemnou dělostřeleckou palbou.
+
+  Jako tvrzový objekt byl postaven ve **IV. stupni odolnosti**, bez klasického vchodu — vstupovalo se z podzemí výtahovou šachtou se schodištěm.
+related:
+  typologie:
+    - delostrelecka-tvrz
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

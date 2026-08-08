@@ -9,3 +9,9 @@
 
 # „arab" je stupeň odolnosti pěchotního srubu, ne samostatný typ — sloučeno do /typologie/pechotni-srub
 /typologie/pechotni-srub-arabske-odolnosti  /typologie/pechotni-srub  301
+
+# duplicitni zaznam T-S 73 "Polom" (tvrz Stachelberg) slouceny do /katalog/t-s-73-jerab
+/katalog/delostrelecka-tvrz-stachelberg-srub-t-s  /katalog/t-s-73-jerab  301
+
+# duplicitni zaznam R-S 79 "Na mytine" (tvrz Hanicka) slouceny do /katalog/r-h-s-79
+/katalog/r-s-79-na-mytine  /katalog/r-h-s-79  301

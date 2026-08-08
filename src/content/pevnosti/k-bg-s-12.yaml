@@ -33,3 +33,20 @@ photos:
     author: Lasy
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:K-Bg-S_12_Na_k%C3%B3t%C4%9B_2.jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 12 „Na kótě"
+castTvrze: Tvrz Hůrka
+history: |-
+  Objekt pro **otočnou a výsuvnou dělostřeleckou věž (RO)** tvrze Hůrka. Dobový kód ŘOP: **K-S 12**.
+
+  Objekty pro věž se stavěly nedaleko nejvyšší kóty tvrze, aby se dal využít **360° palebný vějíř**. Protože byly proto dobře pozorovatelné, zesílili konstruktéři **nad rámec IV. stupně odolnosti obvodové stěny na 3,5 m železobetonu** — nejvíc ze všech objektů čs. opevnění.
+
+  Věž s dvojčetem 10cm houfnic vz. 38 měla vážit zhruba **442,9 t**, odolat přímým zásahům granátů do ráže 420 mm a leteckých pum do 1 000 kg a vysunout se o 70 cm za sedm vteřin. **Do září 1938 nebyla dokončena ani jedna** — ve Škodovce byly rozpracované dva prototypy objednané v srpnu 1937. Vybetonováno bylo pět objektů pro věž (MO-S 38, K-S 12, K-S 22, K-S 42, R-S 78), věž nedostal žádný.
+
+  Na objektu jsou dodnes patrné **ventilační zvony**.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

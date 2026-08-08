@@ -62,7 +62,7 @@ Pokud jste na čs. opevnění novicem a chcete vidět **„opravdovou pevnost"**
 
 Darkovičky jsou **jeden z největších muzejních areálů čs. opevnění** v Česku, spravovaný Slezským zemským muzeem. Mají profesionální průvodce, dětské programy a víkendové akce s ukázkami techniky. Pro rodinu s dětmi ideální.
 
-**Tip:** spojte s návštěvou hlučínské stezky [Naučná stezka Darkovičky](/clanky/naucna-stezka-darkovicky) — vede mezi sruby a vysvětluje jejich roli v plánu obrany.
+**Tip:** spojte s návštěvou hlučínské stezky [Naučná stezka Darkovičky](/cesty/stezka-darkovicky) — vede mezi sruby a vysvětluje jejich roli v plánu obrany.
 
 [Detail areálu v katalogu →](/katalog/mo-s-19-alej)
 
@@ -98,7 +98,7 @@ Skutina je **kvintesence orlickohorského opevnění**: na jednom místě uvidí
 
 Dobrošov je **nejnavštěvovanější tvrz** systému — leží blízko Náchoda a je dobře přístupná. Tvrz není zcela dokončená (dělostřelecký srub a kazematy jsou v hrubé stavbě), což je naopak zajímavé: vidíte „rentgen" stavebního procesu, jak tvrz vypadala těsně před Mnichovem.
 
-**Tip:** v Dobrošově je [naučná stezka](/clanky/naucna-stezka-dobrosov) s navazujícími pěchotními sruby v okolí. Půldenní výlet.
+**Tip:** v Dobrošově je [naučná stezka](/cesty/stezka-dobrosov) s navazujícími pěchotními sruby v okolí. Půldenní výlet.
 
 [Detail Dobrošova v katalogu →](/katalog/tvrz-dobrosov)
 
@@ -160,10 +160,10 @@ Kompletní seznam všech zachovaných pevností — řopíků, srubů a tvrzí �
 Pokud plánujete fortifikační výlet, prohlédněte si také:
 
 - [**Top 10 fortifikačních výletů**](/clanky/top-10-fortifikacnich-vyletu) — kombinované trasy s navazujícími objekty
-- [**Naučná stezka Dobrošov**](/clanky/naucna-stezka-dobrosov)
-- [**Naučná stezka Hanička**](/clanky/naucna-stezka-hanicka)
-- [**Naučná stezka Darkovičky**](/clanky/naucna-stezka-darkovicky)
-- [**Naučná stezka Betonová hranice**](/clanky/naucna-stezka-betonova-hranice)
+- [**Naučná stezka Dobrošov**](/cesty/stezka-dobrosov)
+- [**Naučná stezka Hanička**](/cesty/stezka-hanicka)
+- [**Naučná stezka Darkovičky**](/cesty/stezka-darkovicky)
+- [**Naučná stezka Betonová hranice**](/cesty/stezka-betonova-hranice)
 
 A pokud teprve začínáte a chcete pochopit, **co řopíky a sruby vlastně jsou**, doporučujeme:
 

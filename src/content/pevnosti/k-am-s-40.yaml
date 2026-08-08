@@ -20,3 +20,18 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:K-S_40_(Adam).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 40 „U háječku"
+castTvrze: Tvrz Adam
+history: |-
+  Tvrzový pěchotní srub tvrze Adam. Dobový kód ŘOP: **K-S 40**.
+
+  Součástí výzbroje měla být **otočná kulometná věž (OR)** — jeden z pouhých pěti tvrzových pěchotních srubů, u nichž se s tímto pancéřovým prvkem počítalo (dále K-S 10 „U boží muky", T-S 46, T-S 72 „Chlum" a objekt S-I tvrze Orlík). V září 1938 se teprve vyráběl prototyp věže a k osazení nedošlo.
+
+  Poručík Karel Pyšný z Adamu ji uváděl mezi hlavními nedostatky tvrze v době mobilizace: *„Na Adamu nám ale chyběla i dělostřelecká věž, kulometná otočná věž na ,Háječku' a již zmíněný minometný srub nebyl dokonce ani vybetonován."*
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

@@ -22,3 +22,40 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Ole%C5%A1nice_v_Orlick%C3%BDch_hor%C3%A1ch,_N-S_49_(rok_2002;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ole%C5%A1nice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_N-S_49_%28rok_2002%3B_01%29.jpg/1920px-Ole%C5%A1nice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_N-S_49_%28rok_2002%3B_01%29.jpg
+    alt: "N-SK-S 49 „Pod lesem\" — tvrz Skutina"
+    author: "Harold's family"
+    license: "CC BY-SA 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Ole%C5%A1nice_v_Orlick%C3%BDch_hor%C3%A1ch,_N-S_49_(rok_2002;_01).jpg
+    category: exterier
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ole%C5%A1nice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_N-S_49_%28rok_2002%3B_02%29.jpg/1920px-Ole%C5%A1nice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_N-S_49_%28rok_2002%3B_02%29.jpg
+    alt: "N-SK-S 49 „Pod lesem\" — tvrz Skutina"
+    author: "Harold's family"
+    license: "CC BY-SA 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Ole%C5%A1nice_v_Orlick%C3%BDch_hor%C3%A1ch,_N-S_49_(rok_2002;_02).jpg
+    category: exterier
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: "N-S 49 „Pod lesem\""
+castTvrze: "Tvrz Skutina"
+tech:
+  odolnost: IV
+  stupenDokonceni: dokonceny
+history: |-
+  Tvrzový pěchotní srub rozestavěné dělostřelecké tvrze **Skutina**. Dobový kód ŘOP: **N-S 49**.
+
+  Spolu s **N-S 48 „U stodol"** jeden ze **dvou vybetonovaných objektů** této tvrze.
+
+  Skutina má v dějinách čs. pevnostního dělostřelectva jednu zvláštnost. Střílny pro 10cm houfnice vz. 38 vyrobené pro první tvrze umožňovaly **odměr pouhých 45°**; u tvrzí projektovaných v roce 1938 (Jírová hora, Poustka) se počítalo s novými střílnami s **odměrem 60°**. Pro Skutinu chtělo ŘOP původně použít starší, menší odměr, ale **v létě 1938, doslova na poslední chvíli před zahájením betonáže**, rozhodlo změnit střílny na výhodnějších 60°. K osazení už nedošlo — dělostřelecký srub N-S 52 „Bažina" se nestihl vybetonovat.
+
+  Postaven ve **IV. stupni odolnosti**, bez klasického vchodu — vstupovalo se z podzemí výtahovou šachtou se schodištěm.
+related:
+  typologie:
+    - delostrelecka-tvrz
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

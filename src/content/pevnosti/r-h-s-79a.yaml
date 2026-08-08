@@ -1,13 +1,13 @@
 title: R-H-S-79a
 code: R-H-S-79a
-type: pechotni-srub
+type: vchodovy-objekt
 line: Rokytnicko / Orlické hory
 region: Pardubický kraj
 location:
   lat: 50.196478
   lon: 16.509758
   elevation: 837
-state: zavreny
+state: muzeum
 description: >-
   Pěchotní srub R-H-S-79a náležející k dělostřelecké tvrzi Hanička na úseku Rokytnicko / Orlické hory. Součást
   československého těžkého opevnění z let 1935–1938.
@@ -22,6 +22,49 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_79a_(rok_2010;_01).jpg
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_79a_%28rok_2010%3B_01%29.jpg/1920px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_79a_%28rok_2010%3B_01%29.jpg
+    alt: "R-H-S 79a „U silnice\" — vchodový objekt tvrze Hanička"
+    author: "Harold"
+    license: "CC BY-SA 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_79a_(rok_2010;_01).jpg
+    category: exterier
+  - url: >-
+      https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_79a_%28rok_2010%3B_02%29.jpg/1920px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_79a_%28rok_2010%3B_02%29.jpg
+    alt: "R-H-S 79a „U silnice\" — vchodový objekt tvrze Hanička"
+    author: "Harold"
+    license: "CC BY-SA 3.0"
+    source: https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_79a_(rok_2010;_02).jpg
+    category: exterier
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: "R-S 79a „U silnice\""
+castTvrze: "Tvrz Hanička"
+tech:
+  odolnost: IV
+  stupenDokonceni: dokonceny
+history: |-
+  **Vchodový objekt** tvrze Hanička. Dobový kód ŘOP: **R-S 79a**.
+
+  Jeden z **pěti vchodových objektů vybetonovaných do září 1938** (dále MO-S 41 „Nad Valchou", K-S 12a „U rybníčku", K-S 22a a K-S 43a „Na sekyře").
+
+  Vchodové objekty neměly plnit bojové úkoly — měly zajistit **nerušené zásobování i ve chvíli, kdy na hlavní linii probíhaly střety**. Stavěly se proto na týlové straně kopce ve vzdálenosti 400–1 200 m od čelních pěchotních srubů. Spotřebou železobetonu šlo po dělostřeleckém srubu o **druhý nejmohutnější typ tvrzového objektu**.
+
+  Vjezd pro nákladní automobily měla uzavírat trojice uzávěrů: **mřížová vrata** (křídlo asi 240 kg), **šestitunová vertikálně výsuvná pancéřová vrata** zavírající se po uvolnění protizávaží za **15 vteřin** a za zalomením chodby (ideálně pod úhlem 135°) **čtyřtunová posuvná vrata**. Prostor mezi oběma pancéřovými vraty sloužil jako velká přechodová komora, v níž se dala odmořit vozidla zasažená bojovými chemickými látkami.
+
+  Napojení na podzemí zajišťovala **výtahová šachta se dvěma nákladními výtahy** — řešení použité jen u tří tvrzí (Hanička, Orel, Šibenice) v rovinatém terénu. Bylo nejméně výhodné jak z hlediska výstavby, tak plynulosti zásobování, a projektanti k němu přistupovali jen výjimečně.
+
+  Na snímcích z přelomu let 1938 a 1939 je vjezd pro automobily **provizorně zakrytý prkny** — pancéřová vrata do žádného čs. vchodového objektu nikdy nedorazila.
+
+  Dnes objekt slouží jako vstup do muzejní expozice tvrze.
+related:
+  typologie:
+    - delostrelecka-tvrz
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

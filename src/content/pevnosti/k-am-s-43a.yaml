@@ -14,3 +14,20 @@ description: >-
 wikidata_id: Q69681881
 updated: '2026-04-19'
 photos: []
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 43a „Na sekyře"
+castTvrze: Tvrz Adam
+history: |-
+  **Vchodový objekt** tvrze Adam a **jediný z pěti vybetonovaných vchodových objektů s přímým napojením na podzemí**. Dobový kód ŘOP: **K-S 43a**.
+
+  Stavbyvedoucí nadporučík **Ing. Karel Šafer** to vysvětlil: *„Protože přímo za vchodovým objektem svah velice strmě stoupal a bylo tak prakticky ihned dosaženo předepsaného dvacetimetrového nadloží nad úrovní hlavní galerie, byl vstup do podzemí veden rovnou chodbou a nebylo tedy nutné řešit vstup pomocí svážnice nebo výtahu, jako tomu bylo na některých jiných tvrzích."*
+
+  Objekt má **atypické překladiště o délce 12,2 m**. ŘOP stanovilo pevné rozdělení překladišť (11 m pro malé tvrze s dvoudenní dotací munice do 100 t, 16 m pro velké) až v roce 1937 — Adam byl projektován o rok dříve, přestože počtem dělostřeleckých a minometných srubů patřil mezi velké tvrze.
+
+  Na betonáži objektu vypomáhali i vojáci osádky tvrze. Protože v podzemí Adamu bylo málo vody, doplňovaly se zásobní jímky občas **z autocisteren přes speciální zařízení právě ve vchodovém objektu**.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

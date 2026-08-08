@@ -32,3 +32,22 @@ photos:
 wikidata_id: Q69352553
 commons_category: K-Bg-S 12b Utržený casemate
 updated: '2026-04-19'
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 12b „Utržený"
+castTvrze: Tvrz Hůrka
+history: |-
+  **Izolovaná dělostřelecká pozorovatelna**, jediná třípodlažní postavená v celém čs. opevnění. Dobový kód ŘOP: **K-S 12b**; Němci ji za okupace vedli jako „objekt Lustberg".
+
+  Betonáž probíhala **16.–21. srpna 1937** a spotřebovala **1 343 m³** betonové směsi. Projektanti objekt zapustili prakticky celý pod úroveň terénu. Osádku tvořilo **18 mužů**. Postaven byl ve **III. stupni odolnosti** — samostatné pozorovatelny ležely za hlavní obrannou čarou, neměly se přímo účastnit boje a budovala se kolem nich jen lehká obvodová překážka; zato se kladl velký důraz na maskování.
+
+  Měl sloužit primárně tvrzi Hůrka, sekundárně Boudě a Adamu a také plánovanému, ale nepostavenému samostatnému dělostřeleckému srubu u Kolštejna (dnes Branná).
+
+  Dochoval se na něm **dělostřelecký pozorovací zvon** — jediný v úseku Ženijního skupinového velitelství III a jeden z pouhých **dvou dochovaných v celé republice**. Tyto zvony neměly žádné střílny, jen jeden až čtyři průzory a vnitřní **20mm košilku z měkčí oceli** chránící optiku a pozorovatele před odštěpky pancíře; vážily 20–52 t. Pozorovalo se periskopickým dalekohledem 10/6× vz. 38. Na zvonu jsou dodnes patrné stopy po německém postřelování.
+
+  V roce 1940 Němci plánovali upravit stojan dělostřeleckého periskopu tak, aby umožňoval použití dvou druhů periskopů německé výroby; potřebné součásti se za tím účelem přesunuly z Kummersdorfu u Berlína do Králík.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

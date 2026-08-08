@@ -33,3 +33,22 @@ photos:
     author: Stribrohorak
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:K-Bg-S_11_Na_svahu_B._CelkovyPohled-OpacnaStrana.jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 11 „Na svahu"
+castTvrze: Tvrz Hůrka
+history: |-
+  **Dělostřelecký srub** tvrze Hůrka — jeden ze šesti vybetonovaných v celém čs. opevnění. Dobový kód ŘOP: **K-S 11**.
+
+  Levostranný objekt betonovaný **nadvakrát: 6.–10. září a 4.–13. října 1937**, celkem **5 350 m³** betonové směsi. Dělostřelecké sruby patřily s délkou kolem 48 m a průměrnou spotřebou 5 500 m³ betonu k **největším objektům čs. opevnění**.
+
+  Hlavní výzbroj měly tvořit **tři 10cm houfnice vz. 38** v pancéřových střílnách pod betonem. Do září 1938 nebyla vyrobena ani jedna z 87 objednaných. Náhradou byla **improvizovaná baterie tří 7,5cm horských kanonů vz. 15** umístěná podle plánu přímo v ochranném příkopu, každý kanon pod dřevěným přístřeškem s maskovací sítí; obsluhy se k dělům dostávaly přes střílny pevnostních houfnic. Dostřel improvizované baterie činil necelých 8 km oproti plánovaným 11 700 m.
+
+  Na střílnách je dodnes patrný **výklenek pro jednokřídlová pancéřová dvířka**, o jejichž použití ŘOP po francouzském vzoru uvažovalo, ale nakonec je nezavedlo. Nouzový východ ústí do ochranného příkopu; v jeho podlaze je odvodňovací kanálek. Schodišťová šachta má průřez 245 × 245 cm, výtahy typu Vý IV s nosností 2 500 kg byly v samostatné šachtě.
+
+  Po Mnichovu na objekt Němci pálili granáty ráže **21 cm**.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

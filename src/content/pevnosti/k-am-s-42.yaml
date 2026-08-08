@@ -20,3 +20,22 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:K-S_42_(Adam).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: K-S 42 „Trigonometr"
+castTvrze: Tvrz Adam
+history: |-
+  Objekt pro **otočnou a výsuvnou dělostřeleckou věž** tvrze Adam. Dobový kód ŘOP: **K-S 42**.
+
+  Jeden z pěti vybetonovaných objektů svého druhu (dále MO-S 38, K-S 12, K-S 22, R-S 78). Obvodové stěny byly nad rámec IV. stupně odolnosti **zesíleny na 3,5 m železobetonu**.
+
+  Na betonáži objektu se v srpnu 1938 podíleli i vojáci osádky tvrze — část mužstva vypomáhala stavební firmě, aby se rychlému postupu prací co nejvíc pomohlo.
+
+  Věž s dvojčetem 10cm houfnic vz. 38 (hmotnost ~442,9 t, odolnost proti granátům do ráže 420 mm) nebyla nikdy dokončena. Škodovka do září 1938 rozpracovala pouze dva prototypy; některé ocelové součásti, které bylo třeba zabetonovat, odesílala na staveniště samostatně už v březnu a dubnu 1938.
+
+  Po Mnichovu na objekt Němci pálili granáty ráže **21 cm**.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha

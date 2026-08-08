@@ -1,0 +1,43 @@
+title: "K-AM-S-44 „Za větrem\""
+code: "K-AM-S-44"
+alt_name: "K-S 44 „Za větrem\""
+type: minometny-srub
+line: "Králíky"
+region: "Pardubický kraj"
+location:
+  lat: 50.110623
+  lon: 16.60479
+  address: "České Petrovice"
+built: '1938'
+state: zničeny
+castTvrze: "Tvrz Adam"
+description: >-
+  Nedokončený tvrzový minometný srub K-S 44 „Za větrem" tvrze Adam. Jediný objekt pro minometnou kopuli v celém čs. opevnění, u kterého se stihla vybetonovat šachta z podzemí — ta byla nakonec zasypána.
+tech:
+  odolnost: IV
+  stupenDokonceni: plan-nedokonceny
+history: |-
+  **Nedokončený tvrzový minometný srub** tvrze **Adam**. Dobový kód ŘOP: **K-S 44**.
+
+  Objekt měl nést **minometnou kopuli G/JA** s dvojčetem spřažených **12cm minometů B-12**. Úkolem této výzbroje bylo *„stříleti do hluchých prostorů v předpolí a na křídlech tvrzí, kam nemohou působiti dělostřelecké věže ani sruby"* — a pokud by se nepřítel dostal do těsné blízkosti pevnostních objektů, i **přímo na ně**, bez rizika jejich poškození.
+
+  Projekt se mezi lety 1935 a 1938 třikrát zjednodušoval: ze zářijové verze z roku 1937 (otočná a **výsuvná** věž **G/RO** s dvojčetem 9cm minometů) ŘOP nejprve v březnu 1938 zrušilo vysouvání a v létě téhož roku i otáčení věže. Vznikla tak minometná **kopule** — pevně zabetonovaný pancéřový prvek, jehož otočnou část tvořil pouze vrchlík a lafeta s plošinou pro obsluhu. Výzbroj byla přezbrojena na větší ráži.
+
+  Podle posledního návrhu z **poloviny října 1938** měl předpancíř vážit **154,5 t** a skládat se ze čtyř dílů; nejsilnější stěna 470 mm plus 20mm přídavný pancíř zevnitř. Minomety měly mít hlaveň 1 800 mm, střelu 16,4 kg, dostřel 250–7 500 m, náměr 56°–85° a teoretickou kadenci dvojčete 12 ran za minutu. Osádku mělo tvořit **41 vojáků**.
+
+  **Kopule nebyla nikdy vyrobena, ani jako prototyp.** Plánováno bylo devět tvrzových objektů pro minometné kopule (MO-S 20c, OP-S 33a, K-S 44, N-S 51, N-S 77, T-S 14, T-S 50, T-S 79, T-S 80); **nejdál postoupily přípravy právě zde na Adamu, kde se podařilo vyrubat a vybetonovat šachtu z podzemí — nakonec však došlo k jejímu zasypání.**
+
+  Poručík Karel Pyšný z Adamu uváděl chybějící minometný srub mezi hlavními nedostatky tvrze v době mobilizace: *„Na Adamu nám ale chyběla i dělostřelecká věž, kulometná otočná věž na ,Háječku' a již zmíněný minometný srub nebyl dokonce ani vybetonován."*
+wikidata_id: Q69681882
+related:
+  typologie:
+    - delostrelecka-tvrz
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha
+  - title: Wikidata Q69681882
+    url: https://www.wikidata.org/wiki/Q69681882
+    type: web
+updated: '2026-08-08'

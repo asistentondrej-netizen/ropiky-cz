@@ -21,3 +21,22 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Smolkov,_MO-S_40_(2015-04-14;_03).jpg
+
+# doplneno z monografie Delostrelecke tvrze (Suchanek 2024)
+alt_name: MO-S 40 „Nad silnicí"
+castTvrze: Tvrz Smolkov
+history: |-
+  **Jediný tvrzový pěchotní srub tvrze Smolkov** — a jeden z mála objektů svého druhu, které měly zbraně **pouze pod pancířem**. Dobový kód ŘOP: **MO-S 40**.
+
+  Smolkovská tvrz nebyla výjimečná jen tímto jediným pěchotním srubem; objekt navíc **nebyl začleněn do souvislé linie izolovaných pěchotních srubů**, protože tvrz jako celek leží zhruba kilometr za hlavní obrannou čárou.
+
+  Úkoly srubu: ochrana západního svahu tvrze, postřelování silnice ze Smolkova do Hrabyně — a **stanoviště dělostřeleckého pozorovatele**, který ze svého zvonu s vynikajícím výhledem až k Malým Hošticím řídil palbu dělostřeleckého srubu MO-S 39. Osádku mělo tvořit **22 mužů**.
+
+  Nad terén vystupovalo **šest pancéřových prvků**: nejníže dělostřelecký pozorovací zvon, nejvýše zvon pro pozorování a lehký kulomet, po stranách dvě kopule (každá pro jeden těžký kulomet) a dva malé ventilační zvony.
+
+  Protože byl objekt zcela zapuštěn do terénu, **nouzový východ u něj zcela chyběl** — stejně jako u srubu K-S 23 na Boudě.
+sources:
+  - title: Čs. opevnění 1935–1938 — Dělostřelecké tvrze
+    author: Jiří Suchánek
+    year: 2024
+    type: kniha
