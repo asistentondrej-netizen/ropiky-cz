@@ -226,5 +226,77 @@
     "nazev": "Zhodnocení stavu ŘOP",
     "kategorie": "obnova",
     "popis": "Čs. armáda zjišťuje stav opevnění: pancéřové prvky z velké části vytrženy, řada objektů poškozena zkouškami a demolicemi. O obnově se zatím nerozhodlo."
+  },
+  {
+    "datum": "1934-06-11",
+    "nazev": "Konzultace v Paříži",
+    "kategorie": "mezinarodni",
+    "popis": "Francouzi odmítli čs. plán ústupu na Slovensko a doporučili zesílit klíčové úseky stálým opevněním. Zhruba měsíc poté přidělila NROS na opevnění prvních 250 milionů korun."
+  },
+  {
+    "datum": "1934-08-16",
+    "nazev": "Studijní cesta na Maginotovu linii",
+    "kategorie": "inspirace",
+    "popis": "Čs. delegace prohlédla za tři dny asi 121 km linie a tři tvrze včetně Hochwaldu a Bitche. Plk. Hubálek později přiznal: „Podle kusých zkušeností prohlídky bych se nebyl odvážil navrhnout zodpovědně některý objekt.“"
+  },
+  {
+    "datum": "1935-03-20",
+    "nazev": "Založeno ŘOP a Rada pro opevňování",
+    "kategorie": "opevneni",
+    "popis": "Vznikl ústřední výkonný orgán opevňování v čele s brig. gen. Karlem Husárkem, který jej vedl až do září 1938. Rada pro opevňování pod vedením arm. gen. Ludvíka Krejčího měla zajišťovat finance, personál a materiál."
+  },
+  {
+    "datum": "1935-11-12",
+    "nazev": "Postřelovací zkoušky betonu v Brdech",
+    "kategorie": "opevneni",
+    "popis": "ŘOP nechalo ostřelovat betonové desky tloušťky 1,5 až 3,5 m z 15cm houfnice, 21cm a 30,5cm moždíře. Granát ráže 30,5 cm roztříštil i desku silnou 3,5 m. Přihlížel ministr obrany František Machník."
+  },
+  {
+    "datum": "1936-02-26",
+    "nazev": "Zahájena stavba tvrze Smolkov",
+    "kategorie": "opevneni",
+    "popis": "První ze všech československých tvrzí. Firma Ing. Alois Beneš a spol. zakázku vyhrála nejnižší cenou asi 11 101 000 Kč, kterou ale záměrně podkalkulovala; ŘOP muselo doplatit dalších 775 500 Kč."
+  },
+  {
+    "datum": "1937-11-09",
+    "nazev": "Dokončen Husárkův program opevnění",
+    "kategorie": "opevneni",
+    "popis": "Plán počítal s asi 1 276 těžkými a 15 463 lehkými objekty ve čtyřech etapách při limitu 10 miliard Kč. Poslední etapa měla být hotová v roce 1951."
+  },
+  {
+    "datum": "1938-05-15",
+    "nazev": "Zřízeno pět zvláštních útvarů pro tvrze",
+    "kategorie": "mobilizace",
+    "popis": "U hraničářských pluků 4, 6 a 19 vznikly osádky tvrzí Smolkov, Hůrka, Bouda, Adam a Hanička. Od 25. června 1938 byly přeznačeny na prapory."
+  },
+  {
+    "datum": "1938-12-05",
+    "nazev": "Hitler si prohlédl tvrz Hůrku",
+    "kategorie": "obsazeni",
+    "popis": "Adolf Hitler navštívil tvrz v doprovodu nejvyššího velení Wehrmachtu; podle části zdrojů se zúčastnil i postřelovacích zkoušek. Od roku 1940 pak v okolí Králík probíhaly systematické zkoušky čs. pevnostního materiálu až do roku 1942."
+  },
+  {
+    "datum": "1939-12-01",
+    "nazev": "Witzigovi výsadkoví ženisté cvičí na Adamu",
+    "kategorie": "valka",
+    "popis": "Jednotka nadporučíka Rudolfa Witziga se na objektech tvrze Adam připravovala na útok, kterým v květnu 1940 dobyla belgickou tvrz Eben-Emael. Witzig pak napsal, že české dělostřelecké kasematy by byly „téměř nedobytné“."
+  },
+  {
+    "datum": "1944-11-01",
+    "nazev": "Podzemní továrna FAMO na Hůrce",
+    "kategorie": "valka",
+    "popis": "V podzemí tvrze začala vznikat zbrojní továrna a na povrchu barákový tábor pro vězně pobočky koncentračního tábora Gross Rosen. Do konce války se výroba naplno nerozběhla."
+  },
+  {
+    "datum": "1949-05-01",
+    "nazev": "Bouda se přestavuje na muniční sklad",
+    "kategorie": "obnova",
+    "popis": "Rekonstrukci za asi 24,5 milionu Kč prováděla firma Baraba, Praha — znárodněná společnost Ing. Zdenko Kruliš, která tvrz původně stavěla. Z plánovaných 11 nových sálů se zahájil výlom jen dvou."
+  },
+  {
+    "datum": "1979-01-01",
+    "nazev": "Zahájena přestavba Haničky — akce KAHAN",
+    "kategorie": "obnova",
+    "popis": "Přísně tajný projekt federálního ministerstva vnitra na válečné kryté pracoviště odolné i proti neutronové pumě. Autonomnost 7 dnů, kapacita asi 200 osob. Nikdy nebyl dokončen."
   }
 ]

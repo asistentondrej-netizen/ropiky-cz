@@ -1,71 +1,117 @@
 ---
-title: "Houfnice 10 cm vz. 38 (pevnostní)"
-description: "Hlavní plánovaná dělostřelecká zbraň československých tvrzí, určená do kasematních střílen dělostřeleckých srubů. Nikdy nebyla dodána — do září 1938 vznikly jen prototypy."
+title: "10cm houfnice vz. 38 (pevnostní)"
+description: "Hlavní plánovaná dělostřelecká zbraň čs. tvrzí, tovární označení F3, armádní krycí kód „zbraň Y“. Rychlopalná houfnice s kadencí 20–25 ran za minutu a dostřelem 11 700 m. Do září 1938 nebyl vyroben ani jeden z 87 objednaných kusů a nedochovala se ani jedna."
 kategorie: "kanon"
 rok_zavedeni: "1938"
-vyrobce: "Škoda Plzeň"
+vyrobce: "Škodovy závody, Plzeň"
 raze_mm: 100
-dostrel_m: 12000
-kadence: "6–8 ran/min"
-hmotnost_kg: 2400
-posadka: 6
-umisteni: ["Dělostřelecký srub tvrze"]
+dostrel_m: 11700
+kadence: "20–25 ran/min"
+umisteni: ["Dělostřelecký srub tvrze", "Otočná a výsuvná dělostřelecká věž RO", "Izolovaný dělostřelecký srub (nepostaven)"]
 order: 70
 sources:
-  - "Karlický V.: Československé dělostřelecké zbraně"
-  - "Ráboň M., Hák L.: Československé opevnění 1935–1938"
-  - "Archív Škoda Plzeň"
-updated: 2026-04-21
+  - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"
+  - "Fuksa, I.: Improvizovaná dělostřelecká výzbroj dělostřeleckých srubů tvrzí čs. opevnění v roce 1938. Historie a vojenství 1/2023"
+  - "Všeobecné zásady a složky stálého opevnění, ŘOP 1939"
+updated: 2026-08-08
 ---
 
-## Hlavní dělostřelecká zbraň tvrzí
+Šest vybetonovaných [dělostřeleckých srubů](/typologie/delostrelecky-srub). Pět dokončených objektů pro [otočné věže](/typologie/delostrelecka-vez-ro). Miliony korun v betonu a oceli. A do všeho toho měla přijít jedna jediná zbraň.
 
-**10 cm pevnostní houfnice vz. 38** byla **klíčová plánovaná zbraň** [dělostřeleckých tvrzí](/typologie/delostrelecka-tvrz). Dělostřelecký srub počítal s **trojicí houfnic v kasematních střílnách s omezeným odměrem**, kryjících palbou předpolí tvrze i sousední objekty.
+**Nepřišla. Ani jedna z 87 objednaných.**
 
-Tvrz se tak měla stát **nezávislou bojovou jednotkou**, která nepotřebovala podporu polního dělostřelectva.
+## Označení
 
-## Konstrukce
+Jedna zbraň, čtyři názvy — proto v literatuře snadno vzniká zmatek:
 
-- **Ráže:** 100 mm (= „10 cm")
-- **Délka hlavně:** 2 400 mm (24 ráží)
-- **Hmotnost (pevnostní):** 2 400 kg
-- **Úhel náměru:** -5° až +70° (vysoká trajektorie)
-- **Úhel odměru:** omezený — daný výsečí kasematní střílny
-- **Kadence:** 6–8 ran/min
-- **Dostřel max:** 12 000 m
-- **Dostřel účinný:** 9 000 m
-- **Posádka:** 6 mužů (velitel, střelec, 2 nabíječi, 2 pozorovatelé)
+| Označení | Kde se používá |
+|---|---|
+| **10cm houfnice vz. 38** | oficiální armádní název po přijetí do výzbroje |
+| **F3** | tovární označení Škodových závodů |
+| **„zbraň Y"** | armádní krycí kód v tajných dokumentech |
+| **EC** | označení ve střílnách pod betonem |
 
-## Munice
+Souběžně se vyvíjel i **8cm kanon vz. 38** (tovární **ES**, krycí kód **„zbraň X"**) — ten při zkouškách propadl.
 
-- **Tříštivý granát vz. 38** — 14 kg, hlavní munice proti pěchotě
-- **Polopancéřový granát** — proti obrněné technice
-- **Dýmový granát** — pro krytí vlastních jednotek
-- **Osvětlovací granát** — pro noční pozorování
+## Nakoupit, nebo vyvinout?
 
-Zásoba v tvrzi: **2 500–4 000 granátů** podle velikosti. Granáty byly **automaticky dopravovány z podzemního muničního skladu** zdviží do dělostřeleckého srubu.
+Po prvotních úvahách, zda těžkou výzbroj pro budované pevnosti zakoupit v zahraničí, nebo ji nechat vyvinout a vyrobit domácími firmami, padla volba na **druhou možnost**. Vojáci přitom museli počítat s tím, že jde o časově náročný proces.
 
-## Pevnostní specifikum — kasematní střílny
+Zakázku dostaly **Škodovy závody v Plzni**, které za tím účelem založily **speciální konstrukční kancelář pevnostní výzbroje**.
 
-Houfnice byly určeny do **kasematních střílen dělostřeleckého srubu** — každá zbraň měla vlastní střílnu s **omezeným odměrem**, palebné výseče tří houfnic se doplňovaly. Projekty tvrzí počítaly výhledově i s houfnicemi v otočných věžích, žádná věž však nebyla nikdy vyrobena.
+## Zadání a parametry
 
-**Pouze tři tvrze měly dokončený dělostřelecký srub**: **Hůrka (K-S 11)**, **Smolkov** a **Dobrošov (N-S 75)**.
+| Parametr | Požadavek / hodnota |
+|---|---|
+| Ráže | **100 mm** |
+| Délka hlavně | **2 500 mm** |
+| Závěr | svislý klínový s poloautomatikou |
+| **Kadence** | **20–25 ran za minutu** (u souběžně vyvíjeného 8cm kanonu 25–30) |
+| **Dostřel** | **11 700 m** |
+| Životnost hlavně | dostatečná přesnost nejméně na **2 000 vystřelených ran** |
+| Náměr ve střílně | **+38° až −10°** |
+| Odměr ve střílně | **45°** (u nové generace střílen 60°) |
 
-## V boji 1938 — nikdy neexistovala v bojové konfiguraci
+Vycházelo se z konstrukčních prvků moderní polní houfnice vz. 30 a ze souběžně vyvíjeného [4cm pevnostního kanonu vz. 36](/vyzbroj/protitankovy-kanon-vz-36).
 
-**Žádná pevnostní houfnice 10 cm vz. 38 nebyla nikdy do tvrzí dodána ani namontována.** Do září 1938 existovaly pouze **prototypy** — sériové zbraně se do objektů nedostaly a dokončené dělostřelecké sruby na svou výzbroj marně čekaly.
+## Chronologie zpoždění
 
-## Po válce
+Tady je jádro celého problému. Vývoj se táhl **od roku 1935 do léta 1938** — a přesně tolik času republika neměla.
 
-Po roce 1945 se ČSLA k pevnostním houfnicím **nevrátila**. Místo toho rozvíjela **polní dělostřelectvo** (houfnice vz. 47, pak sovětské typy). Pevnostní 10 cm vz. 38 zůstala **slepá ulička** historie dělostřelectva.
+| Období | Co se stalo |
+|---|---|
+| **Duben 1935** | Škodovka předkládá první schematické nákresy. Vojenský technický a letecký ústav konstatuje **celou řadu závažných nedostatků**; armáda mezitím sama mění některé parametry a vymiňuje si nový projekt |
+| **Březen 1936** | Nový projekt představen — jeho příprava trvala **téměř rok**. Krátce poté hotová dokumentace lafetace, vnitřního zařízení střeleckých místností a rámu střílny |
+| **Květen 1936** | Škodovka představuje ŘOP **dřevěný model v reálném měřítku** vyvedený do posledních detailů; bezprostředně poté dostává zakázku na kompletní prototyp |
+| **26. 10. – 7. 11. 1936** | První zkoušky na střelnici v **Hlbokém**. Řada nedostatků a dětských nemocí — u zbraně zcela nové koncepce pochopitelných. Projekt hodnocen jako perspektivní |
+| **1937** | Interní zkoušky ve Škodovce, postupné odstraňování neduhů |
+| **Listopad 1937** | Další pokusné střelby v Hlbokém. **Nejdřív závada na brzdovém válci, poté v hlavni vybuchl granát** |
+| **Prosinec 1937** | Program pokračuje — a přichází **další vážná závada a poškození prototypu**. Následují dlouhé týdny oprav |
+| **Březen 1938** | Testy konečně pokračují. Mezitím už Škodovka dodala střílny, které se instalují do stavěných dělostřeleckých srubů |
+| **Jaro–léto 1938** | **8cm kanon definitivně propadl** a jeho vývoj byl zastaven. **Houfnice naopak program zkoušek úspěšně završila** a byla přijata do výzbroje jako *houfnice vz. 38* |
+| **Září 1938** | **Vyrobeno: 0 kusů z 87 objednaných** |
 
-## Kde ji uvidíte
+Přijetí do výzbroje přišlo příliš pozdě na to, aby se stihla rozjet sériová výroba.
 
-- **Tvrz Hůrka, Smolkov a Dobrošov** — dokončené dělostřelecké sruby, do nichž byla zbraň určena (samotná houfnice se nedochovala)
-- **VTM Lešany** — polní varianta podobné ráže pro porovnání
+## Osud patnácti kusů
 
-## Související obsah
+Po mnichovských událostech armáda objednávku **snížila na 15 exemplářů** a prodloužila termín dodání — počítala přitom s odprodejem houfnic zahraničním zájemcům.
 
-- [Dělostřelecká tvrz — typologie](/typologie/delostrelecka-tvrz)
-- [Tvrz Bouda](/tvrze/bouda)
-- [Tvrz Hanička](/tvrze/hanicka)
+K tomu nedošlo. Zbraně v roce **1940 převzal Wehrmacht**. Jednu použil ke zkouškám, ostatní se dočkaly konce války v **pardubickém ženijním skladu**. V **50. letech** došlo k jejich sešrotování.
+
+> **Do dnešní doby se nedochovala ani jedna 10cm houfnice vz. 38.**
+
+Jedinou představu, jak vypadala, dnes nabízejí **dvě makety** v dělostřeleckém srubu N-S 75 „Zelený" na [tvrzi Dobrošov](/tvrze/dobrosov). Byly vyrobeny v roce 1972 pro film *Dny zrady* Otakara Vávry a původně instalovány na Haničce; po jejím uzavření v roce 1975 putovaly sem.
+
+## Kde měla být osazena
+
+| Nosič | Počet houfnic | Postaveno | Osazeno |
+|---|---|---|---|
+| [Dělostřelecký srub](/typologie/delostrelecky-srub) | 3 v pancéřových střílnách pod betonem | 6 objektů | 0 |
+| [Otočná a výsuvná věž RO](/typologie/delostrelecka-vez-ro) | dvojče | 5 objektů, 0 věží | 0 |
+| Izolovaný dělostřelecký srub | 3 | 0 z plánovaných 14 | 0 |
+
+**Dotace munice** pro otočnou věž měla činit **12 000 ran** — polovina v hlavním skladu M1 v podzemí tvrze, 5 202 ran ve skladu M2 a 798 granátů v příručním skladu M3. Munice se dopravovala v muničních truhlících na [pevnostní dráze vzor 37](/clanky/doprava-v-podzemi-tvrze) a k dělu putovala zdvihacími vozíky **bez překládání a vybalování**.
+
+K výměně dělových hlavní sloužila v dělostřeleckém srubu **visutá dráha s pojezdnou kočkou a kladkostrojem**.
+
+## Střílny: dorazily dřív než zbraně
+
+Paradox celé věci: **střílny byly hotové, zbraně ne.** Škodovka je dodávala už od jara 1938.
+
+Pod vlivem francouzské pevnostní školy ŘOP zpočátku zvažovalo krytí ústí hlavně **jednokřídlovými pancéřovými dvířky**. Prvek zůstal ve stadiu testování a do objektů se osazovaly střílny bez dvířek, ale **s připraveným výklenkem** — ten je na srubech dodnes dobře patrný. Po vyčerpání této série vyráběla Škodovka **souměrné střílny bez výklenku**, které se podařilo osadit už jen na N-S 75 (Dobrošov).
+
+## Improvizace: co stálo v příkopu místo houfnic
+
+Když bylo počátkem roku 1938 jasné, že houfnice nepřijdou včas, obrátilo se ŘOP na **Vojenský technický a letecký ústav**. Ten navrhl dvě varianty — umístit polní zbraně do krytu před srub, nebo [7,5cm horský kanon vz. 15](/vyzbroj/horsky-kanon-vz-15) dovnitř objektu se střelbou skrz střílnu. Druhou variantu VTLÚ sám nedoporučil kvůli hromadění výstřelových zplodin.
+
+ŘOP dokument obdrželo **6. dubna 1938 a obratem obě varianty zamítlo**. Vlastní studie označila za nejefektivnější řešení umístit **tři 7,5cm horské kanony vz. 15 do ochranného příkopu před objektem**.
+
+Poručík **Karel Pyšný** z tvrze Adam to zhodnotil bez iluzí: *„Baterie horských kanonů místo nedodaných pevnostních houfnic nemohly bezezbytku splnit to, co se očekávalo od obou dělostřeleckých srubů po jejich úplném dokončení a vyzbrojení."*
+
+## Související
+
+- [7,5cm horský kanon vz. 15](/vyzbroj/horsky-kanon-vz-15) — improvizovaná náhrada
+- [8cm kanon vz. 38 („zbraň X")](/vyzbroj/kanon-8cm-vz-38) — souběžný projekt, který propadl
+- [Dělostřelecký srub](/typologie/delostrelecky-srub)
+- Článek: [Zbraň Y — houfnice, kterou žádná tvrz nedostala](/clanky/houfnice-vz-38-zbran-ktera-nikdy-neprijela)

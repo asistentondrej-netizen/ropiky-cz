@@ -2,7 +2,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 
 export interface Props {
-  /** Kurátorský seznam ve formátu "clanky/slug" nebo "stranky/slug" */
+  /** Kurátorský seznam ve formátu "clanky/slug", "stranky/slug", "typologie/slug", "tvrze/slug" nebo "vyzbroj/slug" */
   related?: string[];
   /** slug aktuální stránky (aby se nelinkovala sama na sebe ve fallbacku) */
   currentSlug?: string;
@@ -19,17 +19,20 @@ const {
   heading = 'Související obsah',
 } = Astro.props;
 
-// Načti obě kolekce
-const [allStranky, allClanky] = await Promise.all([
+// Načti kolekce, na které lze odkazovat
+const [allStranky, allClanky, allTypologie, allTvrze, allVyzbroj] = await Promise.all([
   getCollection('stranky'),
   getCollection('clanky', ({ data }) => !data.draft),
+  getCollection('typologie'),
+  getCollection('tvrze'),
+  getCollection('vyzbroj'),
 ]);
 
 type Card = {
   href: string;
   title: string;
   description: string;
-  label: 'Stránka' | 'Článek';
+  label: 'Stránka' | 'Článek' | 'Typologie' | 'Tvrz' | 'Výzbroj';
   cover?: string;
 };
 
@@ -53,6 +56,11 @@ function toCard(entry: CollectionEntry<'stranky'> | CollectionEntry<'clanky'>, c
   };
 }
 
+// Jednoduchý převod pro ostatní kolekce (bez cover obrázku)
+function simpleCard(slug: string, title: string, description: string, base: string, label: Card['label']): Card {
+  return { href: `/${base}/${slug}`, title, description, label };
+}
+
 let cards: Card[] = [];
 
 if (related && related.length > 0) {
@@ -65,6 +73,15 @@ if (related && related.length > 0) {
     } else if (col === 'clanky') {
       const e = allClanky.find((x) => x.slug === slug);
       if (e) cards.push(toCard(e, 'clanky'));
+    } else if (col === 'typologie') {
+      const e = allTypologie.find((x) => x.slug === slug);
+      if (e) cards.push(simpleCard(e.slug, e.data.title, e.data.description, 'typologie', 'Typologie'));
+    } else if (col === 'tvrze') {
+      const e = allTvrze.find((x) => x.slug === slug);
+      if (e) cards.push(simpleCard(e.slug, e.data.title, e.data.description, 'tvrze', 'Tvrz'));
+    } else if (col === 'vyzbroj') {
+      const e = allVyzbroj.find((x) => x.slug === slug);
+      if (e) cards.push(simpleCard(e.slug, e.data.title, e.data.description, 'vyzbroj', 'Výzbroj'));
     }
   }
 } else if (currentCollection === 'stranky') {

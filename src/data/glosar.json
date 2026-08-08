@@ -479,5 +479,202 @@
     "term": "Zvon (pancéřový)",
     "letter": "Z",
     "definition": "Viz Pancéřový zvon."
+  },
+  {
+    "term": "A cement",
+    "letter": "A",
+    "definition": "Speciální cement pro pevnostní stavby, vyvinutý pro vojenskou správu profesorem Stanislavem Bechyněm. Oproti běžnému portlandskému cementu měl vyšší pevnost v tlaku a pozdější začátek tuhnutí, aby šlo betonovat plynule bez přestávek. Cena dohodnutá s kartelem cementáren počátkem roku 1936: 100 kg za 12 Kč.",
+    "related": [
+      "Betonáž",
+      "Kloknerův ústav"
+    ]
+  },
+  {
+    "term": "Ekrazit",
+    "letter": "E",
+    "definition": "Trhavina používaná v komorách stálého minového zařízení na začátku hlavní galerie tvrze. Odpálení náloží mělo způsobit řízený zával a oddělit dobytý vchodový objekt od zbytku podzemí.",
+    "related": [
+      "Stálé minové zařízení",
+      "Hlavní galerie"
+    ]
+  },
+  {
+    "term": "G/JA",
+    "letter": "G",
+    "definition": "Krycí označení minometné kopule pro dvojče 12cm minometů B-12. Vznikla postupným zjednodušováním projektu G/RO — nejdřív bylo zrušeno vysouvání, pak i otáčení věže. Nebyla nikdy vyrobena, ani jako prototyp. Viz /typologie/minometna-kopule-g-ja",
+    "related": [
+      "RO",
+      "Minometný srub"
+    ]
+  },
+  {
+    "term": "Hlavní galerie",
+    "letter": "H",
+    "definition": "Komunikační tepna tvrzového podzemí, široká 2,5 m. Na jejím začátku byla stěna se střílnou, pancéřové dveře a dvě komory stálého minového zařízení; před kasárenskými sály se zakřivovala, aby ji nešlo přímo postřelovat.",
+    "related": [
+      "Podzemí tvrze",
+      "Ekrazit"
+    ]
+  },
+  {
+    "term": "Kloknerův ústav",
+    "letter": "K",
+    "definition": "Výzkumný a zkušební ústav hmot a konstrukcí stavebních profesora Kloknera při ČVUT v Praze, založený roku 1921. Pro ŘOP schvaloval cement, kamenivo i písek a testoval zkušební kostky ze všech staveb opevnění.",
+    "related": [
+      "A cement",
+      "Zkušební kostka"
+    ]
+  },
+  {
+    "term": "Krakorec",
+    "letter": "K",
+    "definition": "Mohutný železobetonový převis nad střílnami dělostřeleckého srubu. Chránil je před strmě dopadajícími granáty a bombami, bránil spouštění náloží ze stropu a v horní části byl spojen 20cm deskou, která shora zarovnala tvar stropu a ztížila leteckému průzkumu určit směr palby.",
+    "related": [
+      "Dělostřelecký srub",
+      "Ochranný příkop"
+    ]
+  },
+  {
+    "term": "M1, M2, M3",
+    "letter": "M",
+    "definition": "Označení muničních skladů tvrze. M1 = hlavní sklad v podzemí s polovinou dotace munice (sály profilu 520/400 cm). M2 = manipulační sklady v sálech pod každým bojovým objektem. M3 = příruční skladiště přímo u zbraně v objektu.",
+    "related": [
+      "Podzemí tvrze",
+      "Pevnostní dráha vz. 37"
+    ]
+  },
+  {
+    "term": "Nadloží",
+    "letter": "N",
+    "definition": "Mocnost horniny nad tvrzovým podzemím. Požadavek ŘOP: nejméně 16 m rostlé soudržné skály nebo 20 m neporušené kompaktní zeminy. Právě nadloží, ne tloušťka betonu, chránilo galerie před bombardováním.",
+    "related": [
+      "Podzemí tvrze",
+      "Vyrovnávací šachta"
+    ]
+  },
+  {
+    "term": "Osádka",
+    "letter": "O",
+    "definition": "Dobový výraz Ředitelství opevňovacích prací pro mužstvo pevnostního objektu. ŘOP důsledně psalo „osádka“, nikoli „posádka“. Válečná osádka tvrze Adam měla čítat 611 osob, Boudy 316.",
+    "related": [
+      "Hraničářský pluk",
+      "Zvláštní útvar"
+    ]
+  },
+  {
+    "term": "Ostění",
+    "letter": "O",
+    "definition": "Betonová obezdívka podzemní chodby nebo sálu. Předepsaná tloušťka: 30 cm prostého betonu u profilů do světlé šířky 2,5 m, 60 cm u větších. Beton v podzemí měl krychelnou pevnost „jen“ 350 kg/cm², zato musel být vodotěsný.",
+    "related": [
+      "Podzemí tvrze",
+      "Výdřeva"
+    ]
+  },
+  {
+    "term": "Pevnostní dráha vz. 37",
+    "letter": "P",
+    "definition": "Úzkorozchodná dráha rozchodu 600 mm se zabetonovanými kolejnicemi, páteř dopravy v tvrzovém podzemí. Plošinový vozík s nákladem do 1 500 kg tlačili dva muži. Zadání: dopravit do tvrze dvoudenní dotaci střeliva za jednu noc, tedy asi za šest hodin. Viz /clanky/doprava-v-podzemi-tvrze",
+    "related": [
+      "M1, M2, M3",
+      "Svážnice"
+    ]
+  },
+  {
+    "term": "Předpancíř",
+    "letter": "P",
+    "definition": "Pevná, do stropu objektu zabetonovaná část pancéřové věže nebo kopule, v níž se otáčí pohyblivý vrchlík. U dělostřelecké věže RO vážil sám o sobě 160 tun a byl zapuštěn 2,5 m od stropu; u minometné kopule G/JA 154,5 tuny ve čtyřech dílech.",
+    "related": [
+      "RO",
+      "G/JA"
+    ]
+  },
+  {
+    "term": "RO",
+    "letter": "R",
+    "definition": "Krycí označení otočné a výsuvné dělostřelecké věže s dvojčetem 10cm houfnic vz. 38. Hmotnost asi 442,9 t, odolnost proti granátům do ráže 420 mm, vysunutí o 70 cm za 7 vteřin. Vybetonováno pět objektů, dokončena nebyla ani jedna věž. Nezaměňovat s otočnou kulometnou věží OR. Viz /typologie/delostrelecka-vez-ro",
+    "related": [
+      "OR",
+      "Předpancíř"
+    ]
+  },
+  {
+    "term": "Rovnanina",
+    "letter": "R",
+    "definition": "Vrstva nasucho kladeného lomového kamene, kterou se obsypávaly stěny objektu a zasypávaly prostory za betonovým ostěním v podzemí. Nad ní se navršila zemina. Sloužila k roznesení nárazu a k odvodnění.",
+    "related": [
+      "Zához",
+      "Ostění"
+    ]
+  },
+  {
+    "term": "Stálé minové zařízení",
+    "letter": "S",
+    "definition": "Dvě komory s ekrazitovými náložemi po stranách hlavní galerie hned za vchodovým objektem. Jejich odpálení mělo způsobit řízený zával a oddělit vchod od zbytku tvrze, kdyby jej dobyl nepřítel.",
+    "related": [
+      "Hlavní galerie",
+      "Ekrazit"
+    ]
+  },
+  {
+    "term": "Svážnice",
+    "letter": "S",
+    "definition": "Zařízení pro překonání výškového rozdílu mezi vchodovým objektem a podzemím tvrze, se sklonem 25 %. Po dvou letech hledání bylo realizováno jako šikmý výtah s klínovými podstavnými vozíky: vozík úzkorozchodné dráhy na klínový vozík najel a nemusel se překládat. Kapacita 20 t/hod dolů a 15 t/hod nahoru. Použita na Boudě, Dobrošově a Hůrce.",
+    "related": [
+      "Vchodový objekt",
+      "Pevnostní dráha vz. 37"
+    ]
+  },
+  {
+    "term": "Vyrovnávací šachta",
+    "letter": "V",
+    "definition": "Šachta se schodištěm a nákladním výtahem, která překonávala výškový rozdíl uvnitř tvrzového podzemí. Ze stavebně dokončených tvrzí byla realizována jen na Boudě — je 14 m hluboká, má 74 schodů a zajišťuje přístup k srubům K-S 21 a K-S 23.",
+    "related": [
+      "Nadloží",
+      "Podzemí tvrze"
+    ]
+  },
+  {
+    "term": "Výdřeva",
+    "letter": "V",
+    "definition": "Dřevěná výztuž z kulatiny, která držela vylámanou podzemní chodbu do doby betonáže. Mistr její stav kontroloval poklepem kusu železa na stojky: ty pod silným tlakem horniny „doslova zvonily“ a přidávaly se k nim další podpěry.",
+    "related": [
+      "Ostění",
+      "Podzemí tvrze"
+    ]
+  },
+  {
+    "term": "Zbraň X",
+    "letter": "Z",
+    "definition": "Armádní krycí kód 8cm pevnostního kanonu vz. 38 (tovární označení ES). Při zkouškách v roce 1938 definitivně propadl a vývoj byl zastaven. Viz /vyzbroj/kanon-8cm-vz-38",
+    "related": [
+      "Zbraň Y"
+    ]
+  },
+  {
+    "term": "Zbraň Y",
+    "letter": "Z",
+    "definition": "Armádní krycí kód 10cm pevnostní houfnice vz. 38 (tovární označení F3, ve střílně EC). Hlavní plánovaná zbraň tvrzí — do září 1938 nebyl vyroben ani jeden z 87 objednaných kusů. Viz /vyzbroj/houfnice-10cm",
+    "related": [
+      "Zbraň X",
+      "Houfnice 10 cm vz. 38"
+    ]
+  },
+  {
+    "term": "Zkušební kostka",
+    "letter": "Z",
+    "definition": "Krychle o hraně 20 cm zhotovená z betonu jednotlivých konstrukčních vrstev objektu. Po 28 dnech ošetřování putovala do Kloknerova ústavu na zkoušku pevnosti v tlaku. Za každý kilogram na cm² pod požadovanou hodnotou platil podnikatel srážku 90 haléřů z ceny betonu.",
+    "related": [
+      "Kloknerův ústav",
+      "A cement"
+    ]
+  },
+  {
+    "term": "Zvláštní útvar",
+    "letter": "Z",
+    "definition": "Krycí označení jednotek zřízených v polovině května 1938 jako osádky pěti stavebně nejdokončenějších tvrzí — „Sm“ (Smolkov), „Bg“ (Hůrka), „Ba“ (Bouda), „A“ (Adam) a „H“ (Hanička). Od 25. června 1938 byly přeznačeny na prapory hraničářských pluků číslované od V. výše.",
+    "related": [
+      "Osádka",
+      "Hraničářský pluk"
+    ]
   }
 ]
