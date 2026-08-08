@@ -3,6 +3,7 @@ title: "Pancéřové prvky — zvony, kopule, kulometné věže a střílny"
 description: "54 variant zvonů a kopulí, šest stupňů odolnosti, hmotnosti 13 až 52 tun. Z 793 objednaných kusů se do září 1938 vyrobilo jen 389. Podrobný přehled pancéřových prvků čs. těžkého opevnění."
 pubDate: 2026-08-08
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/e/e7/K-S_33.JPG"
 tags: ["pancéřové prvky", "zvon", "kopule", "kulometná věž", "Vítkovice", "Škoda", "ŘOP"]
 related:
   - "vyzbroj/pancerovy-zvon"
@@ -17,6 +18,8 @@ Pancéřové prvky byly nejdražší a nejobtížněji dostupnou částí česko
 Klíčové číslo pro pochopení celé filozofie: **ŘOP počítalo 10 cm pancíře jako ekvivalent 100 cm železobetonu.** Pancéřový prvek proto mohl být oproti betonové variantě výrazně menší, a tím pádem i méně zranitelný.
 
 ## Šest stupňů, dvě soustavy
+
+![Zvon pro těžký kulomet vz. 37 na srubu K-S 33 „U ovčárny". Používal se v menším rozsahu než nejpočetnější typ AJ/N. Foto: Martin Provazník, Public domain](https://upload.wikimedia.org/wikipedia/commons/e/e7/K-S_33.JPG)
 
 Stejně jako sruby samotné se i pancéřové prvky vyráběly v **šesti stupních odolnosti**, odpovídajících odolnosti objektu:
 
@@ -104,6 +107,8 @@ U obou střeleckých typů (AJ/N a AJ/D) šlo vymontovat uzávěry střílen a n
 
 ## Kopule
 
+![B-S 15 „Ostrov" v bratislavské Petržalce nese jednu ze dvou posledních dochovaných kopulí JA/D na samostatných pěchotních srubech. Foto: TeodS, CC0](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Bunker_B-S_15_Ostrov.jpg/1280px-Bunker_B-S_15_Ostrov.jpg)
+
 Definice ŘOP:
 
 > „Kopule jest nepohyblivý pancíř ve tvaru zvonu, zapuštěný do stropní desky a obnažený v místě, kde jest střílna. Bývá opatřena střílnou pro dvojkulomet nebo dvěma střílnami pro těžký kulomet. **Kopule nahrazuje hlavní střílnu tam, kde nelze normální hlavní střílnu objektu chrániti proti přímé palbě nepřátelských zbraní.**"
@@ -125,6 +130,8 @@ Do současnosti se na samostatných objektech dochovaly **pouze dvě kopule JA/D
 
 ## Kulometná věž OR
 
+![MO-S 23 „Chlupáč" na Ostravsku — jeden z pěti samostatných srubů, do nichž se plánovala otočná kulometná věž OR. Nedokončila se ani jedna. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Darkovice%2C_MO-S_23_%282015-05-01%3B_01%29.jpg/1280px-Darkovice%2C_MO-S_23_%282015-05-01%3B_01%29.jpg)
+
 Nejrozměrnější pancéřový prvek určený pro pěchotní sruby — a zároveň ten, který se **nikdy nedostal do žádného objektu**.
 
 Dobová definice: *„Pěchotní otočná věž jest otočně pohyblivý válcový pancíř, který vyčnívá nad povrch pěchotního srubu. Věž jest opatřena jednou střílnou hlavní a jednou vedlejší a je vyzbrojena těžkými kulomety. Jest lehce oboustranně otáčivá jak ručně, tak i elektricky a jest chráněna předpancířem."*
@@ -145,6 +152,8 @@ Věže se plánovaly do samostatných srubů jen v úsecích **Moravská Ostrava
 Navzdory intenzivnímu vývoji — a také kvůli opakovaným změnám zadání ze strany ŘOP — se do října 1938 **nepodařilo dokončit žádnou věž**. Pouze jeden kus byl ve vysokém stupni rozpracovanosti.
 
 ## Střílny pod betonem
+
+![Zvon srubu R-S 86 „U paseky", poškozený během německých zkoušek. Právě proto si na něm lze udělat představu o skutečné síle pancíře. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_86_%28rok_2010%3B_01%29.jpg/1280px-%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_86_%28rok_2010%3B_01%29.jpg)
 
 Dobová definice: *„Zbraně jsou umístěny ve střílnách, které jsou konstruovány tak, aby odolávaly zásahům pěchotními zbraněmi a zabránily poškození výzbroje. Obsluha je přitom zcela chráněna."*
 

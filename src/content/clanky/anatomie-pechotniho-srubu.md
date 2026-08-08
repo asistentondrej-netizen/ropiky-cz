@@ -3,6 +3,7 @@ title: "Anatomie pěchotního srubu — místnost po místnosti"
 description: "Krakorce, ochranné příkopy, granátové skluzy, tři druhy příček, filtrovna, dieselagregát i splachovací záchod. Podrobný průvodce vnitřkem dvoukřídlého oboustranného srubu římské odolnosti."
 pubDate: 2026-08-08
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/c/c6/N-S_82_-_lev%C3%A1_st%C5%99%C3%ADlna.JPG"
 tags: ["těžké opevnění", "pěchotní srub", "konstrukce", "interiér", "ŘOP"]
 related:
   - "typologie/pechotni-srub"
@@ -15,6 +16,8 @@ related:
 Ačkoli měla většina pěchotních srubů odlišný vzhled i půdorys, jejich **vnitřní uspořádání se zpravidla podobalo**. Objevují se v nich tytéž místnosti — jen v jiném tvaru, velikosti a pořadí. Následující průvodce popisuje klasický **dvoupatrový dvoukřídlý oboustranný srub římské odolnosti**, tedy nejrozšířenější variantu naší pevnostní linie.
 
 ## Exteriér
+
+![Levá strana srubu K-S 33 „U ovčárny" — hlavní střílny pro zbraně L1 a M chráněné krakorcem a pomocnou střílnou, pod nimi ochranný příkop. Foto: Martin Provazník, Public domain](https://upload.wikimedia.org/wikipedia/commons/e/e7/K-S_33.JPG)
 
 ### Zához, krakorce, břity
 
@@ -32,6 +35,8 @@ Charakteristickým prvkem jsou **krakorce** — přesahy stropní desky nad stř
 Strop se budoval s mírným sklonem k záhozu (ten fungoval jako drenáž) a zasypával se zeminou, aby objekt splýval s krajinou. V místech osazení pancéřových zvonů se zhotovovaly **betonové břity**, poskytující ochranu z úhlů, na které nemířila žádná střílna. Na krajích stropu, kde už zához nesahal, byly **železné háky pro zavěšení maskovacích sítí**.
 
 ### Ochranný příkop, periskopy, granátové skluzy
+
+![Týlová strana R-S 72 „Nízká": výdech ventilace krytý mřížkou, granátový skluz s dopadovou ploškou a otvor pro periskop. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_72_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_72_%28rok_2010%3B_01%29.jpg)
 
 Pod střílnami hlavních zbraní se nacházel **ochranný příkop**. Měl tři úkoly: pojmout prázdné nábojnice padající odpadovou troubou, zabránit zasypání střílen zeminou po blízkém výbuchu a **zkomplikovat přístup** nepřátelským vojákům.
 
@@ -103,6 +108,8 @@ Dále zde bývaly:
 
 ## Dolní patro
 
+![N-S 82 „Březinka" nad Náchodem — nejlépe zrekonstruovaný samostatný pěchotní srub u nás, včetně funkční filtrovny a dieselagregátu. Foto: Lukáš Malý, Public domain](https://upload.wikimedia.org/wikipedia/commons/2/2a/N-S_82_-_prava_st%C5%99%C3%ADlna.JPG)
+
 Dolní patro bylo vždy pod úrovní terénu a mělo silnější obvodové zdi. Soustředilo se sem technické zázemí:
 
 - **Studna** pod schodištěm nebo v jeho blízkosti — voda sloužila k chlazení zbraní i dieselagregátu a pro osádku. Čerpalo se elektrickým čerpadlem s nouzovým ručním pohonem.
@@ -137,6 +144,8 @@ U srubů arabské odolnosti se postupovalo obdobně, ale s výrazně jednodušš
 - délka ochranných křídel se neurčovala podle nutnosti krýt střílny, ale **jen podle stavebních potřeb**.
 
 ## Maskování — hledání, které nedopadlo
+
+![MO-S 17 „U Štípek" na Ostravsku, kde proběhly nejrozsáhlejší zkoušky kompletního zastírání srubu. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%C5%A0ilhe%C5%99ovice%2C_MO-S_17_%282015-05-01%3B_01%29.jpg/1280px-%C5%A0ilhe%C5%99ovice%2C_MO-S_17_%282015-05-01%3B_01%29.jpg)
 
 ŘOP si bylo vědomo, že polohu srubů utajit nelze. Snažilo se ale zabránit tomu, aby protivník snadno odhalil **jejich výzbroj a směr palby**, a zároveň ztížit dělostřelcům přesné zaměření na velkou vzdálenost.
 

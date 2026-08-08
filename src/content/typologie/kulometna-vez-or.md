@@ -22,6 +22,8 @@ Dobová definice ŘOP:
 
 > „Pěchotní otočná věž jest otočně pohyblivý válcový pancíř, který vyčnívá nad povrch pěchotního srubu. Věž jest opatřena jednou střílnou hlavní a jednou vedlejší a je vyzbrojena těžkými kulomety. Jest lehce oboustranně otáčivá jak ručně, tak i elektricky a jest chráněna předpancířem. **Z pěchotní věže se provádějí daleké palby všemi směry a doplňují palebné přehrady.**"
 
+![MO-S 23 „Chlupáč" na Ostravsku — jeden z pěti samostatných pěchotních srubů, do nichž se otočná kulometná věž OR plánovala. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Darkovice%2C_MO-S_23_%282015-05-01%3B_01%29.jpg/1280px-Darkovice%2C_MO-S_23_%282015-05-01%3B_01%29.jpg)
+
 ## Vývoj
 
 Práce začaly už v roce **1935** ve **Vítkovickém horním a hutním těžířstvu v Ostravě**. První návrhy čerpaly inspiraci z bývalých rakousko-uherských a francouzských kulometných věží a počítaly s **otočným i výsuvným provedením** — v klidovém stavu zasunutá věž by měla výrazně vyšší odolnost.

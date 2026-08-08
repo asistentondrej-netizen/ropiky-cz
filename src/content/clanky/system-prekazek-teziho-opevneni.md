@@ -3,6 +3,7 @@ title: "Systém překážek — jak se hledal rozsocháč, který zastaví tank"
 description: "Francouzské kolejnice se lámaly, betonové ježky rozstřílel kulomet. Tři roky zkoušek v Milovicích a v Brdech, čtyři finální typy protitankových překážek a stavba, která začala až v létě 1938."
 pubDate: 2026-08-08
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg"
 tags: ["překážky", "rozsocháč", "protitankové", "ŘOP", "Milovice", "zvláštní zařízení"]
 related:
   - "clanky/zkusebni-a-cvicne-objekty-rop"
@@ -14,6 +15,8 @@ related:
 Pěchotní srub bez překážek je jen betonová krabice. Teprve překážka nutí nepřítele zastavit se v prostoru, který objekt pokrývá palbou — a právě to je smyslem celého systému. Vývoj čs. překážek přitom trval **skoro tři roky** a skončil až v první polovině roku 1938, tedy pár měsíců před Mnichovem.
 
 ## Francouzský vzor, který nefungoval
+
+![U srubu R-S 74 „Na Holém" se dochoval protitankový příkop včetně repliky překážky v podobě takzvaných „jehel". Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg)
 
 Podobně jako u samotného opevnění se čs. armáda chtěla inspirovat na Maginotově linii. Po prostudování ale naši důstojníci naznali, že francouzský přístup pro čs. podmínky nevyhovuje. Podplukovník **Josef Hubálek** vzpomínal:
 
@@ -86,6 +89,8 @@ Tím vývoj de facto skončil a mohlo se přikročit k urychlené výstavbě. N�
 
 ## Finální typy překážek
 
+![MO-S 18 „V oboře" u Darkoviček. Mezi tímto srubem a sousedním MO-S 19 „V aleji" se dochoval úsek protitankových překážek. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/%C5%A0ilhe%C5%99ovice%2C_MO-S_18_%282015-05-01%3B_04%29.jpg/1280px-%C5%A0ilhe%C5%99ovice%2C_MO-S_18_%282015-05-01%3B_04%29.jpg)
+
 ### Základní dělení
 
 - **lehké (pěchotní)** vs. **těžké (protitankové)** — těžké byly vždy kombinovány s lehkými,
@@ -123,6 +128,8 @@ Oproti ostatním překážkám měl zásadní výhodu: **zneškodněný tank zů
 > „Předváděli nám i najíždění tanků na asi 100 m široký úsek překážek. **Ze čtyř tanků LT 35 neprojel ani jeden.** Většinou se o překážku jen opřely a pásy jim prokluzovaly naprázdno, nebo se při najetí na ocelové rozsocháče tank nadzvedl do výšky a hrozilo jeho překocení. Velmi účinné se ukázaly být i protipěchotní překážky z ocelových tyčí (…). Proti tankům se výtečně osvědčily ty nejkratší s jedním okem. Jejich špice se totiž většinou zasunula mezi pásy, betonové kotvení bylo vytrženo ze země a vtaženo mezi pás tanku a blatník, což mělo za následek buď zastavení tanku, nebo stržení pásu."
 
 ## Les jako součást systému
+
+![Pohled na R-S 72 „Nízká" přes palebný průsek. V zalesněných úsecích se zřizovaly průseky pozorovací (6–8 m) a palebné (až 20 m). Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_72_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_72_%28rok_2010%3B_01%29.jpg)
 
 Většina linie těžkého opevnění ležela v silně zalesněném pohraničí, takže ŘOP muselo řešit i **úpravu lesů**. Směrnice upozorňovaly, že *„les sám má charakter překážky, a proto souvisí často jeho úprava těsně s budováním překážek"*.
 
@@ -174,6 +181,8 @@ Všechny měly **ruční zvedací mechanismus na kliku**. Oba masivní stojany �
 Pro silniční zábrany se v září 1938 používaly primárně **ocelové rozsocháče**; protitankové miny a takzvané **samostříly** (zřejmě obdoba minometu s přímou palbou a nástražným odpalovacím zařízením) měly být dodávány až podle postupu jejich výroby.
 
 ## Stavba na poslední chvíli
+
+![K-S 38 „U křížku" u Mladkova. Mezi ním a sousedním K-S 37 „Na rozhledně" se dodnes dochoval protitankový příkop. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg/1280px-Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg)
 
 Protože se vývoj protahoval až do první poloviny roku 1938, přišlo rozhodnutí o vybudování překážek do konce téhož roku pozdě:
 

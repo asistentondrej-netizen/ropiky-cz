@@ -3,6 +3,7 @@ title: "Zkušební a cvičné objekty ŘOP — milovická zeď, CE Jordán a st�
 description: "Než se začalo betonovat v pohraničí, muselo se vyzkoušet všechno: odolnost betonu, střílny, zvony, ventilaci i srubovou dávku proviantu. Příběh tří zapomenutých areálů, na kterých se rodilo československé těžké opevnění."
 pubDate: 2026-08-08
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/6/6e/K-S_15.JPG"
 tags: ["ŘOP", "zkoušky", "Brdy", "CE Jordán", "Milovice", "Žárovice", "výcvik"]
 related:
   - "typologie/pechotni-srub"
@@ -17,6 +18,8 @@ related:
 Vznikly tak tři areály, o kterých se v souvislosti s opevněním mluví jen zřídka. Dva z nich dnes už neexistují v původní podobě, třetí stojí v nepřístupné části vojenského újezdu.
 
 ## Milovická zeď (1935–1936)
+
+![Zvon AJ/N na srubu K-S 15 „U lípy" — právě odolnost střílen a zvonů se ověřovala nejdřív na milovické zdi a pak na zkušebním srubu CE v Brdech. Foto: Martin Provazník, Public domain](https://upload.wikimedia.org/wikipedia/commons/6/6e/K-S_15.JPG)
 
 První a nejjednodušší. Dokument z počátku října 1935 shrnoval problém věcně:
 
@@ -61,6 +64,8 @@ Proběhlo tam **čtrnáctidenní testování stravování osádky pomocí srubov
 Nešlo ovšem o příjemné zařazení. Během podzimních ostrých střeleb útočné vozby se osádka musela od 7.30 do 13.00 uzavírat uvnitř srubu — což ale podle ŘOP „nebylo při jejím výcviku na závadu".
 
 ### Co všechno se v CE zkoušelo
+
+![K-S 25 „Na sedle" u Lichkova. V říjnu 1940 sem Němci v rámci vlastních zkoušek nainstalovali filtrovnu s celým rozvodem vzduchotechniky — ta v objektu zůstala až do 80. let. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lichkov%2C_K-S_25_%28rok_2000%3B_01%29.jpg/1280px-Lichkov%2C_K-S_25_%28rok_2000%3B_01%29.jpg)
 
 - měření koncentrace **oxidu uhelnatého** při střelbě z kanonu i kulometů,
 - testy **ventilace**, spojovacího, strojního a elektrického vybavení,
@@ -109,6 +114,8 @@ Nové postřelovací zkoušky nařídilo obnovené ŘOP v srpnu 1947. **9. zář
 Poslední kapitolu napsal vývoj nového pevnostního kanonu na základě sovětského 85mm tankového děla. Původní střílna 4cm kanonu vz. 36 byla vybourána a nahrazena novou z **Konštrukty Trenčín**. Od **24. listopadu do 10. prosince 1958** proběhly v CE vojskové zkoušky prototypu **85mm pevnostního kanonu vz. 44/59**, který armáda zavedla do výzbroje 21. dubna 1959. Do poloviny roku 1960 pak instalovala 18 sériových kusů do 11 pěchotních srubů — šesti na jižní Moravě a pěti v Petržalce.
 
 ## Střelnice ŘOP u Žárovic (1937–2006)
+
+![MJ-S 3 „Zahrada" u Šatova. Kanony pro cvičné sruby v Žárovicích pocházely z první vyrobené série a původně byly určeny pro nepostavené sruby tvrze Ježová hora. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%C5%A0atov%2C_MJ-S_3_%28rok_2008%3B_01%29.jpg/1280px-%C5%A0atov%2C_MJ-S_3_%28rok_2008%3B_01%29.jpg)
 
 Zatímco CE Jordán byl především zkušební objekt, pevnostní jednotky potřebovaly **střelnici pro výcvik**.
 

@@ -29,7 +29,7 @@ const clanky = (await getCollection('clanky', ({ data }) => !data.draft))
       {clanky.length > 0 ? (
         <div class="article-list">
           {clanky.map((c) => (
-            <a href={`/clanky/${c.slug}`} class="article-item">
+            <a href={`/clanky/${c.slug}`} class={`article-item${c.data.cover ? '' : ' article-item--nothumb'}`}>
               {c.data.cover && (
                 <div class="article-item__thumb">
                   <SmartImage src={c.data.cover} alt={c.data.title} sizes={CARD_SIZES} loading="lazy" />

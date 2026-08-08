@@ -3,6 +3,7 @@ title: "Pomocné stavby těžkého opevnění — kabelové komory, velitelská 
 description: "Pevnostní telefonní síť s kabelem tři metry pod zemí, kabelové komory typu A, B a C, mírová velitelská stanoviště na Ostravsku a tři sledy muničních skladů, které nikdy nevznikly."
 pubDate: 2026-08-08
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Opava%2C_Milostovice%2C_OP-S_25_%282019-08-14%3B_01%29.jpg/1280px-Opava%2C_Milostovice%2C_OP-S_25_%282019-08-14%3B_01%29.jpg"
 tags: ["ŘOP", "telefonní síť", "kabelové komory", "infrastruktura", "těžké opevnění"]
 related:
   - "clanky/jak-vznikal-pechotni-srub"
@@ -14,6 +15,8 @@ related:
 Linie pěchotních srubů nebyla jen řadou betonových objektů. Aby mohla fungovat, potřebovala **týlovou infrastrukturu** — příjezdové cesty, telefonní síť, velitelská stanoviště, muniční sklady a napojení na elektrickou síť. Většina těchto plánů zůstala na papíře, ale to, co se realizovalo, je dnes v krajině často k vidění — jen si toho málokdo všimne.
 
 ## Příjezdové cesty
+
+![OP-S 25 „U trigonometru" u Opavy. Opavsko patřilo spolu s Ostravskem a Králickem k úsekům, kde výstavba pevnostní telefonní sítě dosáhla nejdál. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Opava%2C_Milostovice%2C_OP-S_25_%282019-08-14%3B_01%29.jpg/1280px-Opava%2C_Milostovice%2C_OP-S_25_%282019-08-14%3B_01%29.jpg)
 
 Komunikace vedoucí k objektu byla klíčová už od počátku výstavby: dopravoval se po ní veškerý materiál, stroje, vybavení pro vyzbrojování i těžké pancéřové prvky. Trasa se volila **ještě před zahájením stavby** tak, aby cesta sloužila i po dokončení prací k zásobování.
 
@@ -87,6 +90,8 @@ Protože se počítalo s tím, že by během bojů mohlo dojít k jeho rychlému
 
 ## Velitelská stanoviště
 
+![MO-S 5 „Na trati" u Bohumína — objekt rozdělený železničním tělesem na dvě části propojené chodbou pod tratí. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg/1280px-Bohum%C3%ADn%2C_Star%C3%BD_Bohum%C3%ADn%2C_MO-S_5_%28rok_2001%3B_01%29.jpg)
+
 Do září 1938 se podařilo realizovat jen několik velitelských objektů.
 
 **Petržalka** — čtyři jednoduché velitelské objekty čtvercového půdorysu (**B-SV 1** až **B-SV 4**). Interiér tvořila jedna vstupní a dvě menší místnosti. **Nebyly určeny k obraně, a proto postrádaly střílny** — jedinou výjimkou byl granátový skluz ústící u vchodu a otvor pro periskop umožňující sledování okolí vstupu. Uvnitř měl být stejný ruční ventilátor, jaký se používal v lehkém opevnění nového typu.
@@ -118,6 +123,8 @@ Systém uložení munice měl být obdobný jako ve tvrzích, s **jednotnými mu
 K realizaci těchto ambiciózních plánů nakonec nedošlo, přestože ještě v roce 1938 probíhala aktivní příprava na výstavbu, například v prostoru hraničářského pluku 4.
 
 ## Řopíky mezi většími bratry
+
+![MO-S 20 „Orel" v Darkovičkách. Mezi ním a sousedním MO-S 23 „Chlupáč" byly do linie těžkého opevnění vloženy objekty lehkého opevnění. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Darkovice%2C_MO-S_20_%282015-05-01%3B_07%29.jpg/1280px-Darkovice%2C_MO-S_20_%282015-05-01%3B_07%29.jpg)
 
 Málo známým prvkem linie těžkého opevnění jsou **objekty lehkého opevnění nového typu — „řopíky" — vložené přímo mezi pěchotní sruby**.
 

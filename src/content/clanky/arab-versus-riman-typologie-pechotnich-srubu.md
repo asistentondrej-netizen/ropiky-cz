@@ -3,6 +3,7 @@ title: "Arab versus říman — úplná typologie samostatných pěchotních sru
 description: "Šest stupňů odolnosti, dvoukřídlé, jednokřídlé a bezkřídlé objekty, oboustranné i jednostranné sruby a speciální varianty. Jak se v ŘOP skutečně dělily pěchotní sruby — s konkrétními objekty ke každé kategorii."
 pubDate: 2026-08-08
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_88_%28rok_2010%3B_01%29.jpg/1280px-%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_88_%28rok_2010%3B_01%29.jpg"
 tags: ["typologie", "těžké opevnění", "pěchotní srub", "ŘOP", "odolnost"]
 related:
   - "typologie/pechotni-srub"
@@ -17,6 +18,8 @@ Když se řekne „pěchotní srub", většina lidí si vybaví mohutný dvoupat
 Tento článek shrnuje typologii tak, jak ji používaly dobové předpisy ŘOP, a ke každé kategorii uvádí konkrétní objekty.
 
 ## Kritérium 1: stupeň odolnosti — „arab" nebo „říman"
+
+![Pěchotní srub R-S 88 „Mlází" v Říčkách v Orlických horách — typický „arab": jediný zvon pro lehký kulomet, dvě dvojčata těžkých kulometů, kratší ochranná křídla. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_88_%28rok_2010%3B_01%29.jpg/1280px-%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_88_%28rok_2010%3B_01%29.jpg)
 
 Sruby se stavěly s různou tloušťkou zdiva podle toho, jaké dělostřelecké ráži měly odolat a jak exponovaná byla jejich poloha. Vzniklo **šest stupňů**, značených dvěma číselnými řadami — a právě odtud pochází pevnostní žargon, kterému dodnes rozumí každý badatel.
 
@@ -71,6 +74,8 @@ Toto dělení je pro pochopení půdorysu klíčové a mimo odbornou literaturu 
 
 ### Dvoukřídlý srub
 
+![R-S 74 „Na Holém" u Rokytnice v Orlických horách — dvoukřídlý oboustranný „říman", nejrozšířenější typ čs. těžkého opevnění. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg/1280px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Pansk%C3%A9_Pole%2C_R-S_74_%28rok_2010%3B_01%29.jpg)
+
 Hlavní zbraně **na obou stranách jsou pod betonem**, tedy v klasických zabetonovaných střílnách chráněných ochrannými křídly. Dvoukřídlé sruby se stavěly **výhradně jako oboustranné** a byly **nejrozšířenějším typem**.
 
 Půdorys určovaly střelecké místnosti. Dobový předpis: *„Poloha bočních zdí střeleckých místností, ve kterých jsou zabetonovány střílny hlavních zbraní, je určena polohou palebných vějířů těchto zbraní. Osa střílny je totožná s palebným vějířem a je vždy kolmá na zeď se střílnami."*
@@ -96,6 +101,8 @@ U „arabů" se jednokřídlé oboustranné objekty stavěly jen výjimečně kv
 
 ### Bezkřídlý srub
 
+![R-S 54 „Na potoku" u Zemské brány — jediný „arab" postavený jako jednopodlažní, bezkřídlý a určený pro čelní palbu do údolí Divoké Orlice. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2010%3B_01%29.jpg/1280px-Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD%2C_R-S_54_%28rok_2010%3B_01%29.jpg)
+
 Hlavní zbraně jsou **na obou stranách pod pancířem** — v kopulích a zvonech. Půdorys je zpravidla obdélníkový, pancéřové prvky částečně vysunuté, čelní a boční zdi chrání kamenná rovnanina a zához, vchod je zalomený. Osová vzdálenost kopulí a zvonů musela činit **minimálně 8 m**.
 
 Bezkřídlých objektů vzniklo naprosté minimum:
@@ -104,6 +111,8 @@ Bezkřídlých objektů vzniklo naprosté minimum:
 - **arabská odolnost — dva objekty v Orlických horách u Zemské brány**: **K-S 53b „Nad řekou"** a **R-S 54 „Na potoku"**, které svou palbou vykrývají příkré údolí Divoké Orlice.
 
 ## Kritérium 4: speciální sruby
+
+![StM-S 31b „Ozdravovna" — jednostranný pravokřídlý srub III. stupně, který vznikl rozdělením jednoho zamýšleného objektu na dva kvůli lepšímu pokrytí kopcovitého terénu. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Star%C3%A9_M%C4%9Bsto%2C_StM-S_31b_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_31b_%28rok_2003%29.jpg)
 
 Poslední kategorie je definována **doplňkovým úkolem** nad rámec boční palby do intervalu.
 
@@ -139,6 +148,8 @@ Pro sjednocení opakujících se detailů — střílen, vchodů, granátových 
 Bratislavské předmostí je typologická výjimka sama pro sebe. Objekty tam byly jednodušší: sruby v I. stupni římské odolnosti měly **rovnou vstupní chodbu**, nikoli zalomenou, jak bylo jinde obvyklé. Unikátem je **B-S IV „Milada"** — jediný pěchotní srub arabské odolnosti postavený v **1. stupni odolnosti**, konstrukčně zjednodušený a s kanonem proti útočné vozbě určeným k případnému přesunu do polního opevnění. Takové řešení jinde nenajdeme. Objekt se nedochoval, zanikl při výstavbě dálnice v Petržalce.
 
 ## Kolik jich nakonec stálo
+
+![R-S 90/II „Levý" u Komářího vrchu — jeden z nejmenších pěchotních srubů vůbec, s osádkou pouhých dvanácti mužů. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Orlick%C3%A9_Z%C3%A1ho%C5%99%C3%AD%2C_%C4%8Cern%C3%A1_Voda_u_Orlick%C3%A9ho_Z%C3%A1ho%C5%99%C3%AD%2C_R-S_90-II_%28rok_2010%3B_01%29.jpg/1280px-Orlick%C3%A9_Z%C3%A1ho%C5%99%C3%AD%2C_%C4%8Cern%C3%A1_Voda_u_Orlick%C3%A9ho_Z%C3%A1ho%C5%99%C3%AD%2C_R-S_90-II_%28rok_2010%3B_01%29.jpg)
 
 Od prosince 1935 do konce září 1938 se podařilo vybudovat **221 samostatných pěchotních srubů** z původně plánovaných **1 176**. K nim je nutné připočítat tvrzové pěchotní sruby, takže celkový počet dokončených pěchotních srubů obou kategorií se pohybuje kolem 263.
 

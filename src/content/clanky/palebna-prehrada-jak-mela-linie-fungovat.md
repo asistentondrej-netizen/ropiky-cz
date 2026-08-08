@@ -3,6 +3,7 @@ title: "Palebná přehrada — jak měla linie pěchotních srubů skutečně fu
 description: "Pásmo smrti, boční palby, zdvojení každé přehrady a interval 600–800 metrů. Taktická logika československého těžkého opevnění — plus přesná čísla o stavu linie k 24. září 1938."
 pubDate: 2026-08-08
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hlu%C4%8D%C3%ADn%2C_Darkovi%C4%8Dky%2C_MO-S_19_%282015-05-01%3B_01%29.jpg/1280px-Hlu%C4%8D%C3%ADn%2C_Darkovi%C4%8Dky%2C_MO-S_19_%282015-05-01%3B_01%29.jpg"
 tags: ["taktika", "palebná přehrada", "těžké opevnění", "1938", "ŘOP", "opevňovací programy"]
 related:
   - "typologie/pechotni-srub"
@@ -19,6 +20,8 @@ related:
 Pěchotní srub nebyl navržen k tomu, aby bránil sám sebe. Byl navržen k tomu, aby **střílel do prostoru mezi sousedními sruby** — a přesně v tom je celá logika československého těžkého opevnění.
 
 ## K čemu měla linie sloužit
+
+![MO-S 19 „V aleji" v Darkovičkách. Sruby byly rozmístěny tak, aby se navzájem kryly bočními palbami do intervalu. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hlu%C4%8D%C3%ADn%2C_Darkovi%C4%8Dky%2C_MO-S_19_%282015-05-01%3B_01%29.jpg/1280px-Hlu%C4%8D%C3%ADn%2C_Darkovi%C4%8Dky%2C_MO-S_19_%282015-05-01%3B_01%29.jpg)
 
 Výstavba pohraničního opevnění měla čs. armádě v případě náhlého útoku poskytnout **čas k provedení mobilizace** a zaujetí nástupních prostorů. V další fázi měl pevnostní systém co nejvíce prodlužovat dobu, po kterou by se Československo dokázalo bránit — a zajistit tak dostatek času k zásahu spojenců, zejména Francie a států Malé dohody.
 
@@ -43,6 +46,8 @@ Zajímavý detail: speciální zařízení na lafetě dvojkulometu umožňovalo 
 Další klíčovou zbraní byl **4cm kanon vz. 36**, určený především proti pancéřovým vozidlům a sekundárně proti živé síle. K blízké obraně sloužily **kulomety vz. 26**, pušky a pistole. V daleko menší míře se počítalo s **9cm pevnostními minomety** a otočnými kulometnými věžemi — naproti tomu **minomet ráže 5 cm měl být v každém srubu**.
 
 ## Princip bočních paleb
+
+![MO-S 18 „V oboře". Vzdálenost srubů v linii činila zpravidla 600–800 m — dál už by palba sousedů ztrácela potřebný účinek. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/%C5%A0ilhe%C5%99ovice%2C_MO-S_18_%282015-05-01%3B_04%29.jpg/1280px-%C5%A0ilhe%C5%99ovice%2C_MO-S_18_%282015-05-01%3B_04%29.jpg)
 
 Izolované pěchotní sruby tvořily v terénu zpravidla souvislou linii založenou na **principu bočních paleb**: každý srub působí svými zbraněmi **před a částečně i za objekty napravo a nalevo od něj**. Každá pevnost tak byla chráněna a podporována palbami **nejméně dvou svých sousedů**, kromě palebné podpory od objektů ze zadních sledů.
 
@@ -73,6 +78,8 @@ Málo známý fakt: záměr počítal s tím, že na takticky významných míst
 **K výstavbě izolovaných minometných srubů nakonec vůbec nedošlo** — dochovaly se jen jejich plány.
 
 ## Zahušťování lehkým opevněním
+
+![MO-S 23 „Chlupáč" — srub s dělostřeleckým pozorovacím zvonem, který měl navádět palbu ve prospěch celého úseku. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Darkovice%2C_MO-S_23_%282015-05-01%3B_01%29.jpg/1280px-Darkovice%2C_MO-S_23_%282015-05-01%3B_01%29.jpg)
 
 Co se naopak na mnoha místech realizovat podařilo, bylo **zahušťování, doplňování a prohlubování palebných přehrad linie TO pomocí objektů lehkého opevnění**. Dobový manuál to zdůvodňoval takto:
 
@@ -119,6 +126,8 @@ Hitlerův anšlus Rakouska plány do značné míry narušil a program musel bý
 Na severu Čech měly sruby vyrůst ještě na **Mimoňské příčce** — v důsledku čehož byly **zrušeny těžké objekty na linii od Ještědu na východ k Labi**.
 
 ## Stav k 24. září 1938
+
+![K-S 9 „Mezi lesíky" u Králík. Hraničářský pluk 19 měl v září 1938 všech svých 76 objektů hotových — pluk 5 naproti tomu jen čtyři. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kr%C3%A1l%C3%ADky%2C_Horn%C3%AD_Lipka%2C_K-S_9_%28rok_2008%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Horn%C3%AD_Lipka%2C_K-S_9_%28rok_2008%3B_01%29.jpg)
 
 Nejcennějším dokladem reálného stavu linie v okamžiku mobilizace je přehled sestavený podle jednotlivých hraničářských pluků a úseků.
 

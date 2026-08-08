@@ -3,6 +3,7 @@ title: "Osádky pěchotních srubů — služba, výcvik a život v betonu"
 description: "Budíček v pět, dva sledy, 14denní zásoby a rum, který kluci vypili. Jak vypadala každodenní služba hraničářů v těžkém opevnění — s autentickými vzpomínkami mužů, kteří v srubech sloužili."
 pubDate: 2026-08-08
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg/1280px-Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg"
 tags: ["hraničáři", "osádky", "strážní prapory", "1938", "mobilizace", "vzpomínky"]
 related:
   - "typologie/pechotni-srub"
@@ -16,6 +17,8 @@ related:
 > — poručík pěchoty Emanuel Kovář, hraničářský pluk 19
 
 ## Strážní prapory: hlídat staveniště
+
+![K-S 38 „U křížku", přímý soused tvrze Adam. Jeho osádka na stěnu namalovala heslo „Hraničáři nikdy nesklamou". Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg/1280px-Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg)
 
 Aby nepřítel nedobyl opevnění nenadálým útokem dřív, než je obsadí úplné osádky, bylo nutné vytvořit zvláštní útvary už v době míru. Nejprve v roce **1936** vznikaly **strážní prapory** a samostatné strážní roty, formované z vojáků naprosto národnostně a politicky spolehlivých. Velikost útvaru se odvíjela od počtu hlídaných stavenišť: počítalo se se stráží v síle **jeden poddůstojník a tři vojíni na každé stanoviště ve třech směnách**, plus 10% záloha.
 
@@ -72,6 +75,8 @@ Nová kasárna musela být především chráněna před pozorováním a ostřel
 Do začátku března 1938 se rozběhla výstavba v **Hlučíně, Hrabyni, Starém Městě pod Sněžníkem, Červené Vodě, Těchoníně, Klášterci, Rokytnici a Novém Hrádku**. Do září si firmy převzaly zakázky na kasárna v **Náchodě, Horním Kostelci** a ubikace pro tři roty IV. praporu hraničářského pluku 17 v **Maršově**. Z prvních osmi komplexů se do září 1938 podařilo většinu budov dokončit.
 
 ## Denní režim
+
+![K-S 35 „Nad lesem" u Petroviček. Kopulí s čelně pálícím dvojkulometem měl pokrývat silnici do Mladkova; jeho osádka objekt ozdobila heslem „…Tak přísaháme!". Foto: Martin Provazník, Public domain](https://upload.wikimedia.org/wikipedia/commons/a/aa/K-S_35.jpg)
 
 Činnost příslušníků hraničářských pluků sestávala ze **tří složek**: výcviku, služby na opevnění a prací na zdokonalování obranného postavení.
 
@@ -139,6 +144,8 @@ Zhoršující se mezinárodní situace se na opevnění projevila naplno. Vojác
 
 ### Zásah u Bartošovic
 
+![R-S 63 „Centrála" v Bartošovicích v Orlických horách. Odtud vyrazila 22. září 1938 improvizovaná jednotka asi dvaceti mužů na pomoc přepadené celnici. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_63_%28rok_2010%3B_01%29.jpg/1280px-Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_R-S_63_%28rok_2010%3B_01%29.jpg)
+
 Ve výjimečných případech došlo i k iniciativnímu nasazení osádek. Desátník **Bohumil Zámečník** z **R-S 63 „Centrála"** popsal událost z **22. září 1938**, kdy henleinovci přepadli a vypálili celnici v Bartošovicích v Orlických horách:
 
 > „Následný oheň pak už bylo možné vidět i z některých pevnostních objektů našeho úseku. (…) žádal jsem ho, abychom proti útočníkům neprodleně zasáhli a pomohli tak osádce celnice i českým rodinám v Bartošovicích. Odpověď poručíka Svobody bohužel zněla v tom smyslu, že se z opevnění nesmíme vzdalovat. (…) pokusil jsem se ho přesvědčit, že kdybychom z každého objektu 7. roty i sousední 6. roty stáhli vždy jen dva muže, jsme schopni dát dohromady malou jednotku dobře vycvičených vojáků. (…) Na tuto akci vyrazilo ze srubů přibližně **20 mužů** vyzbrojených puškami a vzali jsme si s sebou i jeden lehký kulomet. (…) Jakmile henleinovci viděli, že proti nim od lesa postupuje armáda, ihned utekli na německé území. Nikdo po nás nevystřelil. Prošli jsme celou vesnici až k celnici, která již byla v plamenech…"
@@ -152,6 +159,8 @@ Následujícího dne, **23. září 1938**, byla vyhlášena mobilizace. Četař
 Nedokončené sruby se vyzbrojovaly, čím se dalo. Do objektů se hned, jak to bylo technicky možné, dodávaly bedny s **kulomety vz. 24**, podstavci a municí — nejčastěji se osazovaly do střílen pro zbraně L1 nebo O, kam šel kulomet snadno umístit. U srubů bez takové střílny se muselo najít jiné řešení. Ve zvonových šachtách se budovaly provizorní podlážky a přístřešky a do takto vzniklých palpostů se zpravidla umísťoval **kulomet vz. 26**.
 
 ## Nápisy na srubech
+
+![K-S 14 „U cihelny" u Králík, kde se 3. října 1938 po rozkazu k ústupu zastřelil četař Arnošt Hrad. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg)
 
 Některé osádky projevily své vlastenectví hesly namalovanými na stěnách objektů. Nejvýrazněji se to projevilo **na Králicku**, konkrétně mezi tvrzí Adam a obcí Petrovičky:
 

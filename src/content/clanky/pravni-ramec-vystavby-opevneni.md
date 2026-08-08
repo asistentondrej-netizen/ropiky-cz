@@ -3,6 +3,7 @@ title: "Právní rámec výstavby opevnění — zákon o obraně státu č. 131
 description: "Proč mohl ŘOP stavět tak rychle? Protože se na opevňovací stavby nevztahovaly stavební předpisy. Rozbor zákona o obraně státu podle původních sněmovních tisků."
 pubDate: 2026-07-29
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg/1280px-Mladkov%2C_Petrovi%C4%8Dky%2C_K-S_38_%28rok_2000%29.jpg"
 tags: ["historie", "ŘOP", "právo", "1936", "prameny"]
 related:
   - "stranky/co-je-rop"

@@ -348,7 +348,12 @@ const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.dat
 
         <div class="article-list">
           {clanky.map((c) => (
-            <a href={`/clanky/${c.slug}`} class="article-item">
+            <a href={`/clanky/${c.slug}`} class={`article-item${c.data.cover ? '' : ' article-item--nothumb'}`}>
+              {c.data.cover && (
+                <div class="article-item__thumb">
+                  <SmartImage src={c.data.cover} alt={c.data.title} sizes={CARD_SIZES} loading="lazy" />
+                </div>
+              )}
               <div>
                 <div class="article-item__date">
                   {c.data.pubDate.toLocaleDateString('cs-CZ', { day: 'numeric', month: 'long', year: 'numeric' })}

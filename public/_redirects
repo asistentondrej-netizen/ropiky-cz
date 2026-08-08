@@ -6,3 +6,6 @@
 /clanky/naucna-stezka-dobrosov          /cesty/stezka-dobrosov          301
 /clanky/naucna-stezka-hanicka           /cesty/stezka-hanicka           301
 /clanky/tip-na-vylet-valticko           /cesty/valticko-cyklo           301
+
+# „arab" je stupeň odolnosti pěchotního srubu, ne samostatný typ — sloučeno do /typologie/pechotni-srub
+/typologie/pechotni-srub-arabske-odolnosti  /typologie/pechotni-srub  301

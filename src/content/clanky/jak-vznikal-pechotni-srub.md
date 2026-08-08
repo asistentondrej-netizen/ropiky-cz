@@ -3,6 +3,7 @@ title: "Jak vznikal pěchotní srub — od vytyčení v terénu po vylitý beton
 description: "Stovka výkresů na jeden objekt, tajné výběrové řízení, 200 pracovních dnů, tři míchačky a betonáž bez přerušení. Kompletní průběh výstavby jednoho pěchotního srubu — včetně chyb, které se staly."
 pubDate: 2026-08-08
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%C5%A0atov%2C_MJ-S_3_%28rok_2008%3B_01%29.jpg/1280px-%C5%A0atov%2C_MJ-S_3_%28rok_2008%3B_01%29.jpg"
 tags: ["ŘOP", "výstavba", "projekce", "stavební firmy", "těžké opevnění"]
 related:
   - "typologie/pechotni-srub"
@@ -15,6 +16,8 @@ related:
 Mezi rozhodnutím Hlavního štábu „tudy povede linie" a hotovým pěchotním srubem stálo několik desítek administrativních, projekčních a stavebních kroků. Ředitelství opevňovacích prací (ŘOP) je zvládalo v tempu, které dodnes vzbuzuje respekt — a přitom bez zásadní ztráty kvality.
 
 ## Od trasy k evidenčnímu listu
+
+![Srub MJ-S 3 „Zahrada" u Šatova — jeden z objektů, které vznikly v posledním roce výstavby na jižní Moravě po anšlusu Rakouska. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/%C5%A0atov%2C_MJ-S_3_%28rok_2008%3B_01%29.jpg/1280px-%C5%A0atov%2C_MJ-S_3_%28rok_2008%3B_01%29.jpg)
 
 Obecný průběh linie a její úkoly stanovil **Hlavní štáb** v souladu s operačními plány armády. Zpřesnění trasy pak probíhalo ve spolupráci důstojníků ŘOP a vyšších velitelů odpovědných za obranu dané oblasti; v této fázi probíhaly terénní průzkumy a předběžně se vymezovala stanoviště objektů, jejich úkoly a výzbroj.
 
@@ -97,6 +100,8 @@ Sled prací:
 
 ## Bednění, armování, betonáž
 
+![StM-S 34 „Svah" pod Králickým Sněžníkem. Masivní konstrukce dolního patra, které bylo vždy pod úrovní terénu a mělo silnější obvodové zdi. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Star%C3%A9_M%C4%9Bsto%2C_StM-S_34_%28rok_2003%29.jpg/1280px-Star%C3%A9_M%C4%9Bsto%2C_StM-S_34_%28rok_2003%29.jpg)
+
 Tesaři začali se stavbou bednění; dřevo se využívalo co nejefektivněji, některé prvky opakovaně. Souběžně probíhaly **armovací práce**. Vojenský stavební dozor přísně kontroloval dodržování armovacích plánů; firma musela vést **stavební deník**, který předkládala ke kontrole.
 
 Instalovaly se také výztužné železné sítě a **oplechování stěn** — zejména ve střeleckých místnostech, ubikacích a na stanovišti velitele. Zvyšovalo ochranu proti úlomkům betonu při zásahu objektu. Následovalo osazení **střílen**, jejichž přesné usazení VSD kontroloval. V počátcích výstavby ale střílny často nebyly k dispozici, a proto se pro ně nechávaly volné otvory a pancéřové prvky se osazovaly dodatečně.
@@ -126,6 +131,8 @@ Značná část vnitřního vybavení se objednávala **centrálně** a pak dist
 
 ## Chronologie zadávání podúseků
 
+![T-S 55 „Na stráni" v Petříkovickém údolí — pravostranný srub vybetonovaný v květnu 1938 pražskou společností Litická, a. s. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Chvale%C4%8D%2C_Pet%C5%99%C3%ADkovice%2C_T-S_55_%28rok_2012%3B_01%29.jpg/1920px-Chvale%C4%8D%2C_Pet%C5%99%C3%ADkovice%2C_T-S_55_%28rok_2012%3B_01%29.jpg)
+
 | Termín | Úsek |
 |---|---|
 | **17. října 1935** | první stavební podúsek na Ostravsku (Bohumín) — ověření postupů a organizace |
@@ -144,6 +151,8 @@ Značná část vnitřního vybavení se objednávala **centrálně** a pak dist
 | **16. září 1938** | poslední podúseky — dodatečné objekty u Opavy a rozšíření uzávěr na Liberecku, už za branné pohotovosti státu |
 
 ## I mistr tesař se někdy utne
+
+![K-S 15 „U lípy". Chyba při vytyčování vedla k pootočení objektu o 7,5°, takže ztratil možnost vést palbu požadovaným směrem. Foto: Martin Provazník, Public domain](https://upload.wikimedia.org/wikipedia/commons/6/6e/K-S_15.JPG)
 
 Při takovém tempu byly chyby nevyhnutelné. Nejčastějším problémem bylo **nepřesné umístění střílen ve zdi** — různě velké odchylky od plánu ovlivňovaly palebné pole, zpravidla ale bez zásadního dopadu na schopnost objektu plnit úkoly.
 

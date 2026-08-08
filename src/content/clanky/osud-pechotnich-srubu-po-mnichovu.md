@@ -3,6 +3,7 @@ title: "Od zrady k ROTO — osudy pěchotních srubů 1938 až 1999"
 description: "Německé zkoušky na Králicku, boje o Hlučínsko v roce 1945, poválečná reaktivace na jižní Moravě, řádění Kovošrotu a poslední pevnostní jednotka ROTO zrušená v roce 1999."
 pubDate: 2026-08-08
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/9/98/Chvalovice%2C_MJ-S_4_%28rok_2009%3B_03%29.jpg"
 tags: ["Mnichov", "okupace", "1945", "reaktivace", "ROTO", "Kahan", "muzea"]
 related:
   - "clanky/osadky-pechotnich-srubu"
@@ -31,6 +32,8 @@ Po vzniku pátého záborového pásma připadly Německu téměř všechny obje
 - Sruby na **Náchodsku**, které zůstaly v českých rukou, armáda označila za nevhodné k obraně, odstrojila je a uzavřela.
 
 ## Německé zkoušky 1939–1940
+
+![K-S 25 „Na sedle" — jeden ze tří objektů na Králicku, které Němci v říjnu 1940 částečně vyzbrojili a vybavili pro vlastní zkoušky. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lichkov%2C_K-S_25_%28rok_2000%3B_01%29.jpg/1280px-Lichkov%2C_K-S_25_%28rok_2000%3B_01%29.jpg)
 
 Krátce po vstupu do zabraného pohraničí začala německá armáda naše objekty testovat. Byly ostřelovány z nejrůznějších zbraní, od kulometů po těžké dělostřelectvo — **mnohé z nich dodnes nesou stopy těchto zkoušek**.
 
@@ -99,6 +102,8 @@ Až do roku 1948 armáda požadovala částečné obnovení většiny úseků t�
 
 ## Reaktivace na jihu
 
+![MJ-S 4 „Zatáčka" na jižní Moravě. Objekt prošel poválečnou reaktivací včetně kamuflážního nátěru a instalace 85mm kanonu vz. 44/59. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/9/98/Chvalovice%2C_MJ-S_4_%28rok_2009%3B_03%29.jpg)
+
 K reaktivaci opevnění postupně došlo na pomezí s předpokládaným protivníkem v podobě západního bloku. Zatímco hranice se **Spolkovou republikou Německo** vedla převážně hornatým terénem, v případě neutrálního **Rakouska** šlo z velké části o rovinu.
 
 Pěchotní sruby tam ale stály jen na několika místech: **u Mikulova jeden srub, u Hevlína dva a v prostoru Šatova tři** — netvořily souvislou linii. Ani to armádu neodradilo od záměru na jejich opětovné zprovoznění; přidaly se objekty v **Petržalce**.
@@ -133,6 +138,8 @@ Výsledek je tristní: **ze 106 pancéřových prvků, které na objektech zůst
 
 ## Neobvyklá využití
 
+![N-S 45 „Polom" u Sedloňova — jediný pěchotní srub, který slouží dodnes. Od roku 1972 je v něm seismická stanice. Foto: A.Patek, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/N-S_45_Polom.jpg/1920px-N-S_45_Polom.jpg)
+
 **Seismická stanice N-S 45 „Polom".** Koncem 60. let začalo plánování vojenského geofyzikálního centra. Volba padla na oblast nedaleko Sedloňova v Orlických horách, konkrétně na objekt N-S 45, který měl být upraven jako seismická stanice. Práce začaly v roce **1972**; celý srub byl prakticky kompletně zasypán a jeho vnitřní prostory uzpůsobeny pro provoz seismologického zařízení. **Objekt slouží dodnes jako seismická stanice Armády České republiky** — je to jediný pěchotní srub, který je stále aktivně využíván.
 
 **Akce Kahan III.** Další vojenské využití přišlo v druhé polovině 80. let. Třetí fáze projektu se zaměřila na adaptaci samostatných pěchotních srubů pro zprostředkování komunikace objektů Kahan I a Kahan II s širším okolím. Vybrány byly **N-S 70a „Na kopečku I"**, **N-S 70b „Na kopečku II"** a **N-S 71 „V sedle"** na Náchodsku a **K-S 14 „U cihelny"** u Králík.
@@ -142,6 +149,8 @@ U K-S 14 došlo jen k drobným stavebním úpravám, na Náchodsku se ale od dru
 Práce pokračovaly až do roku **1991**, kdy přišlo rozhodnutí projekt ukončit — adaptace se do té doby nepodařilo zcela dokončit.
 
 ## Čas muzeí
+
+![MO-S 19 „V aleji" v Darkovičkách — hlavní objekt Areálu čs. opevnění, upravený do podoby z roku 1938. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hlu%C4%8D%C3%ADn%2C_Darkovi%C4%8Dky%2C_MO-S_19_%282015-05-01%3B_01%29.jpg/1280px-Hlu%C4%8D%C3%ADn%2C_Darkovi%C4%8Dky%2C_MO-S_19_%282015-05-01%3B_01%29.jpg)
 
 Už v roce **1945** obdržela armáda žádost o zpřístupnění části opevnění nad Náchodem, ale iniciativu zamítla. Na první oficiální muzeum v pěchotním srubu si veřejnost musela počkat až do roku **1975**, kdy byl pod názvem **Skanzen bojové techniky ve Štítině** zpřístupněn objekt **OP-S 6 „Na zbytkovém"** na Opavsku. Šlo o vůbec první pevnostní muzeum v samostatném srubu v tehdejší ČSSR; k uzavření došlo po roce 1989.
 

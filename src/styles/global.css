@@ -906,7 +906,11 @@ section { padding: var(--s7) 0; }
 }
 @media (min-width: 720px) {
   .article-item { grid-template-columns: 1fr 3fr; gap: var(--s5); }
+  /* karta bez náhledu — text nesmí zůstat v úzkém prvním sloupci */
+  .article-item--nothumb { grid-template-columns: 1fr; }
 }
+.article-item > div { min-width: 0; }
+.article-item h3 { overflow-wrap: anywhere; }
 .article-item:hover { padding-left: var(--s2); }
 .article-item__date {
   font-family: var(--font-mono);
