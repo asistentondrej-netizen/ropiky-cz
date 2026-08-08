@@ -17,3 +17,17 @@ updated: '2026-04-22'
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na kopečku I
+history: >-
+  Ve druhé polovině 80. let byl objekt zahrnut do třetí fáze projektu Kahan (Kahan III), zaměřené
+  na adaptaci samostatných pěchotních srubů pro zprostředkování komunikace objektů Kahan I a Kahan
+  II s širším okolím. Počítalo se s bezpečným a odolným komunikačním napojením na tvrz Hanička;
+  stanice měly být schopny přečkat i jaderný výbuch. Práce byly ukončeny v roce 1991, aniž se
+  adaptace podařilo dokončit.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

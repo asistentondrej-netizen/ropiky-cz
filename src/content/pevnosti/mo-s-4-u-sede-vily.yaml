@@ -27,3 +27,15 @@ photos:
     author: Tieftrunk Tomáš
     license: CC BY 3.0
     source: https://commons.wikimedia.org/wiki/File:Mo-s4_seda_vila,_zima_(kvh_bohumin).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U šedé vily
+history: >-
+  V dubnu 1938 zde strážný vystřelil na automobil, z něhož se někdo pokoušel srub fotografovat.
+  Dvoučlennou osádku vozidla se podařilo zadržet a nalézt u ní větší množství snímků
+  československého opevnění.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

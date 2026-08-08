@@ -37,3 +37,17 @@ photos:
 wikidata_id: Q27578245
 commons_category: Ko-S 4 Ostrov casemate
 updated: '2026-04-18'
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Ostrov
+history: >-
+  Jeden ze tří bezkřídlých pěchotních srubů římské odolnosti postavených v Komárně. Objekty stály
+  u břehu Dunaje, kde měly svou palbou krýt přechody přes řeku. Kvůli vysoké spodní vodě byly
+  vybudovány jen jako jednopatrové; disponovaly kopulemi pro zbraň M a zvony pro lehké kulomety,
+  jedinými střílnami pod betonem byly pomocné, chránící vchod a týl. Tento objekt byl
+  jednostranný.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

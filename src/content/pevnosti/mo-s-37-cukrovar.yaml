@@ -34,3 +34,15 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_MO-S_37_(2015-04-14;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U cukrovaru
+history: >-
+  Jeden z pěti samostatných pěchotních srubů, do nichž ŘOP plánovalo osadit otočnou kulometnou věž
+  OR. Do října 1938 nebyla dokončena ani jedna věž; pouze jeden kus zůstal ve vysokém stupni
+  rozpracovanosti.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

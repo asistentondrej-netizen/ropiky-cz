@@ -36,3 +36,15 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Horn%C3%AD_Rokytnice,_R-S_75_(rok_2010;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U křížku
+history: >-
+  Členem zdejší osádky byl četař délesloužící Josef Stěckl, který se v červenci 1938 zúčastnil
+  ostrých střeleb u zkušebního srubu CE v Brdech. Popsal tam předvedené najíždění tanků na zhruba
+  100 m široký úsek překážek: „Ze čtyř tanků LT 35 neprojel ani jeden.“
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

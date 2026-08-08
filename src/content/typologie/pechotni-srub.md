@@ -2,7 +2,7 @@
 title: "Pěchotní srub"
 code: "Pěch. srub (TO)"
 category: "tezke"
-description: "Páteřní těžký pevnostní objekt s 20–40člennou posádkou, pancéřovými zvony, kulomety a protitankovými kanóny. Stěny až 3,5 metru silné. Izolovaně i jako součást tvrze."
+description: "Páteřní těžký pevnostní objekt s osádkou 12–50 mužů, pancéřovými zvony, kulomety a protitankovými kanony. Šest stupňů odolnosti od „arabů“ po tvrzové objekty. Do září 1938 vzniklo 221 samostatných srubů z plánovaných 1 176."
 period: "1935–1938"
 builtCount: 263
 armament:
@@ -93,12 +93,22 @@ Speciálně pro pevnostní použití vyvinula **Škoda Plzeň** kanón vz. 36 o 
 
 Pěchotní sruby nejsou jednotným typem — byla vyvinuta celá **rodina variant** podle terénu a taktické role:
 
-- **Jednostranné** (palba jedním směrem) — typ A
-- **Oboustranné** (palba do obou stran) — typ B
-- **Izolované** (samostatně stojící v krajině)
-- **Tvrzové** (součást dělostřelecké tvrze, propojené podzemím)
-- **Dělostřelecké** (nesoucí dělostřeleckou výzbroj tvrze, viz [tvrz](/typologie/delostrelecka-tvrz))
-- **Vchodové** (vchod do tvrze, s rampou pro vozidla)
+ŘOP sruby dělilo současně podle **čtyř nezávislých kritérií** — podrobně je rozebírá článek [Arab versus říman](/clanky/arab-versus-riman-typologie-pechotnich-srubu):
+
+**1. Podle odolnosti** — šest stupňů. Arabské **1** (odolá 155 mm) a **2** (210 mm) pro [sruby malého typu, „araby"](/typologie/pechotni-srub-arabske-odolnosti); římské **I**, **II** (240 mm), **III** (300 mm) a **IV** (420 mm, pouze tvrze) pro sruby velkého typu, „římany". „Araby" byly dimenzovány proti jednomu zásahu, „římané" proti dvěma zásahům do stejného místa.
+
+**2. Podle směru palby**
+- **oboustranné** — hlavní zbraně střílejí vlevo i vpravo (někdy i čelně)
+- **jednostranné** — pravostranné nebo levostranné podle směru palby hlavních zbraní
+
+**3. Podle umístění hlavních zbraní**
+- **dvoukřídlé** — hlavní zbraně na obou stranách pod betonem (nejrozšířenější; vždy oboustranné)
+- **jednokřídlé** — na jedné straně pod betonem, na druhé pod pancířem (kopule/zvon), nebo jednostranný objekt
+- **bezkřídlé** — hlavní zbraně na obou stranách pod pancířem; postaveno jen pět objektů (Ko-S 1, Ko-S 3, Ko-S 4 v Komárně, K-S 53b a R-S 54 u Zemské brány)
+
+**4. Speciální varianty** — sruby s dělostřeleckým pozorovacím zvonem (MO-S 23, R-S 85) a sruby pro čelní palbu; čelní palbu kanonu vz. 36 pod betonem měl mít jen pět objektů (StM-S 30, StM-S 50, T-S 63, Li-B-S 1 a nepostavený DM-S 5).
+
+**Podle nasazení** se dále rozlišují sruby izolované (samostatně stojící v linii), tvrzové (propojené podzemím do komplexu), dělostřelecké a vchodové — viz [dělostřelecká tvrz](/typologie/delostrelecka-tvrz).
 
 ### Dobový půdorys a řez z Denkschriftu (1941)
 
@@ -114,18 +124,21 @@ Autentické půdorysy níže pocházejí z německé vojenské studie **Denkschr
 
 **Izolovaný pěchotní srub** a **tvrzový pěchotní srub** nejsou odlišné stavební typy — jde o **stejnou konstrukci v odlišném taktickém nasazení**. Z celkových **~263 dokončených pěchotních srubů** bylo cca **227 izolovaných** (samostatně stojících v linii nebo v krajině) a **~36 tvrzových** (propojených podzemím do komplexu dělostřelecké tvrze). Starší literatura proto někdy uvádí „izolovaný těžký objekt" jako samostatnou kategorii — z pohledu stavební typologie je to ale **forma rozmístění**, ne jiný druh stavby.
 
-### Izolovaný srub — „pevnost na kole"
+### Samostatný (izolovaný) srub
 
-Izolovaný srub nemá souseda, který by pomáhal palbou — musí zvládat obranu **samostatně**. Vybíraly se pro něj body, které musely být bráněny **stůj co stůj**, bez ohledu na hustotu linie: dopravní uzly, přechody řek, horská sedla a vjezdy do větších měst (Bratislava, Ostrava, Brno, Nitra). Oproti srubu v souvislé linii měl zpravidla:
+Označení „izolovaný" neznamená osamocený objekt v poli — v terminologii ŘOP jde o **srub, který není součástí tvrze**. Naprostá většina z nich stála v souvislé linii, kde platil princip **bočních paleb**: každý srub střílel před a částečně i za objekty napravo a nalevo od sebe, takže **každá pevnost byla chráněna a podporována palbami nejméně dvou svých sousedů**.
 
-- **Silnější posádku** (35–48 mužů proti 22–38)
-- **Více pancéřových zvonů** (3–4 včetně palebných proti 1–2)
-- **Delší autonomii** — zásoby munice a potravin na 21–30 dní (proti ~14 dnům v linii)
-- **Povinnou vlastní studnu** (u srubů v linii volitelná)
-- **Silnější agregát** (45 kW proti 25 kW)
-- **Palebné pole blíže k 360°** — 2× TK do hlavního směru, 1× TK do protisměru, 2–3 palební zvony na vrchol
+Klíčové parametry linie:
 
-Důvod rozdílu je prostý: izolovaný srub musí vydržet obléhání **tři až čtyři týdny**, než přijde protiútok. Srub v linii stačí na **dva týdny** — pokud by padl, sousední objekty ho podepřou.
+- **rozestup srubů 600–800 m**, maximálně 1 200 m — dál už palba sousedů ztrácela účinek,
+- **každá boční palba do přehrady musela být nejméně zdvojena**,
+- čelně k nepříteli směly být obráceny **jen střílny zbraní chráněných pancířem**,
+- **zásoby proviantu byly vypočítány na 14 dnů** nepřetržitého pobytu osádky; munice měla podle plánů ŘOP vystačit rovněž na 14 dnů boje,
+- palivo a maziva pro dieselagregát se skladovaly rovněž **na 14denní provoz**.
+
+ŘOP se snažilo, aby každý srub měl **vlastní studnu**, ale ne vždy to bylo možné — sruby MO-S 12 „U pramene" a MO-S 13 „Černý les" například sdílely společnou pevnostní studnu vzdálenou zhruba 300 m, a proto dostaly nadstandardně velké zásobníky na vodu.
+
+**Velikost osádky** závisela na dispozicích objektu, výzbroji a úkolech: u nejmohutnějších oboustranných srubů šlo zpravidla o **40–50 mužů** (nepostavený T-S 40 „U chaty" měla bránit osádka 49 vojáků včetně sedmi dělostřeleckých pozorovatelů), u nejmenších „arabů" jako R-S 90/II „Levý" nebo K-S 53b „Nad řekou" **pouhých 12 mužů**.
 
 ### Tvrzový srub
 
@@ -133,10 +146,10 @@ Tvrzový pěchotní srub je součástí **komplexu dělostřelecké tvrze** — 
 
 ### Nejvýznamnější izolované pěchotní sruby
 
-- **MO-S 8** — historicky významný objekt: **první betonovaný objekt** čs. těžkého opevnění (betonáž v prosinci 1935).
+- **MO-S 8 „Dvůr Paseky"** — **vůbec první objekt čs. těžkého opevnění**, vybetonovaný **15.–22. prosince 1935** v podúseku Bohumín pod Ženijním skupinovým velitelstvím II Hlučín. Objekty tohoto prvního podúseku se od pozdější výstavby lišily koncepcí: **každá hlavní zbraň měla vlastní střílnu** (samostatné kanony proti útočné vozbě a samostatné těžké kulomety), což vedlo ke vzniku velkých a tvarově rozmanitých srubů. Řešení se brzy ukázalo jako nevhodné a vedlo k zavedení sdružených zbraní M (dvojče kulometů) a L1 (kanon spřažený s kulometem).
 - **B-S 8 „Hřbitov"** (Bratislava-Petržalka) — jeden z 15 objektů bratislavského předmostí (B-S 1 až B-S 15).
 - **T-S 19 „Turov"** (Hronov, Orlické hory) — hřebenový izolovaný TO, strategická kontrola údolí Metuje a přechodů do Kladska. Dnes **ve zcela původním stavu** jako expozice Muzea Hronov.
-- **OP-S 25 „Památník"** (Opava, Milostovice) — klíčový izolovaný TO na severní hranici opavského úseku, dnes veřejný památník Slezského muzea.
+- **OP-S 25 „U trigonometru"** (opavský úsek) — typický dvoukřídlý oboustranný „říman"; po okupaci na něj Němci dodatečně osadili pancéřové prvky přivezené z jiných opavských srubů v rámci úprav linie na ženijní cvičiště.
 
 ### Evropské protějšky
 
@@ -160,7 +173,7 @@ Posádka se střídala ve **3 směnách po 8 hodinách**. Cvičení probíhalo m
 
 ## Výstavba a stav
 
-Do Mnichova bylo stavebně dokončeno **~263 pěchotních srubů** z plánovaných 1 276 — z toho cca **227 izolovaných** v liniích a krajině a **~36 tvrzových** jako součást dělostřeleckých tvrzí. Drobné rozdíly mezi zdroji (262–263) vznikají podle toho, zda se za „dokončený" počítá objekt stavebně hotový, nebo objekt včetně osazení pancéřových prvků. Naprostá většina se nachází v pohraničních oblastech severovýchodních Čech, severní Moravy a Slezska — jmenovitě v úsecích:
+Podle dobových přehledů ŘOP se **od prosince 1935 do konce září 1938 podařilo vybudovat 221 samostatných (izolovaných) pěchotních srubů z původně plánovaných 1 176**. Spolu s tvrzovými pěchotními sruby se celkový počet dokončených objektů tohoto typu blíží **263**. Drobné rozdíly mezi zdroji vznikají podle toho, zda se za „dokončený" počítá objekt stavebně hotový, nebo objekt včetně osazení pancéřových prvků — **kompletně dokončit se nepodařilo prakticky žádný objekt těžkého opevnění**, protože část vnitřního vybavení do října 1938 nebyla dodána, a některé prvky dokonce ani vyvinuty. Naprostá většina se nachází v pohraničních oblastech severovýchodních Čech, severní Moravy a Slezska — jmenovitě v úsecích:
 
 Těžké opevnění se stavělo v souvislém pásu od Ostravska přes Králicko a Orlické hory po Náchodsko a Trutnovsko. Mimo tento pás vznikly těžké objekty jen výjimečně — u **Šatova** na jižní Moravě (objekty MJ-S) a v **Bratislavě-Petržalce** (15 objektů B-S 1 až B-S 15). V severních a západních Čechách těžké opevnění postaveno nebylo.
 
@@ -172,7 +185,7 @@ Hlavní dodavatelé pěchotních srubů: **Záruba-Pfeffermann Brno** (úseky K,
 
 Řada pěchotních srubů je dnes **veřejně přístupná** jako muzejní expozice — mezi nejnavštěvovanější patří:
 
-- **MO-S 18, MO-S 19 „Alej"** a **MO-S 20 „Orel"** — Areál čs. opevnění Hlučín-Darkovičky (Slezské zemské muzeum), doplněný muzejním řopíkem
+- **MO-S 18, MO-S 19 „V aleji"** a **MO-S 20 „Orel"** — Areál čs. opevnění Hlučín-Darkovičky (Slezské zemské muzeum), doplněný muzejním řopíkem
 - **N-S 82 „Březinka"** — muzeum u Náchoda, jedna z nejkvalitnějších rekonstrukcí v ČR
 - **K-S 14 „U cihelny"** a **K-S 8 „U nádraží"** — Vojensko-historické muzeum Králíky
 - **T-S 19 „Turov"** — muzeum u Hronova
@@ -215,7 +228,7 @@ Firmy používaly **tři současně pracující posádky** s rotací každých 8
 
 Oboustranný srub v obranném pásmu Králicka. Se srubem je spojena památka **četaře Arnošta Hrada**, který zde **3. října 1938** na protest proti vyklizení opevnění ukončil svůj život. Dnes je srub muzeem Vojensko-historického muzea Králíky, s **plně restaurovaným interiérem** včetně kuchyňky, ubikací a strojovny.
 
-### MO-S 19 „Alej" a MO-S 20 „Orel" (Hlučín-Darkovičky)
+### MO-S 19 „V aleji" a MO-S 20 „Orel" (Hlučín-Darkovičky)
 
 Dva sousední sruby III. stupně v **Areálu čs. opevnění Hlučín-Darkovičky** — největší souvislé muzeum těžkého opevnění v ČR. „Alej" je oboustranný, „Orel" jednostranný s pozorovacím zvonem. Oba byly v 70. letech skladem civilní obrany, v 90. letech rekonstruovány Slezským zemským muzeem. Zároveň jediná expozice, která **simuluje bojové nasazení** se zvuky, kouřovými efekty a funkčními lafetami.
 
@@ -253,3 +266,18 @@ Nejvíc informací o pěchotních srubech dnes přinášejí monografie nakladat
 - **fortifikace.cz** — zaměřeno na severomoravské úseky
 
 Pro návštěvnické plánování je nejlepším zdrojem **web Muzea Náchodska** (Březinka) a **Vojensko-historického muzea Králíky** — oba provozují celoroční otevřené expozice s průvodci.
+
+## Související články
+
+- [Arab versus říman — úplná typologie samostatných pěchotních srubů](/clanky/arab-versus-riman-typologie-pechotnich-srubu)
+- [Anatomie pěchotního srubu — místnost po místnosti](/clanky/anatomie-pechotniho-srubu)
+- [Jak vznikal pěchotní srub — od vytyčení v terénu po vylitý beton](/clanky/jak-vznikal-pechotni-srub)
+- [Pancéřové prvky — zvony, kopule, kulometné věže a střílny](/clanky/pancerove-prvky-zvony-kopule-veze)
+- [Palebná přehrada — jak měla linie pěchotních srubů skutečně fungovat](/clanky/palebna-prehrada-jak-mela-linie-fungovat)
+- [Systém překážek — jak se hledal rozsocháč, který zastaví tank](/clanky/system-prekazek-teziho-opevneni)
+- [Osádky pěchotních srubů — služba, výcvik a život v betonu](/clanky/osadky-pechotnich-srubu)
+- [Zkušební a cvičné objekty ŘOP](/clanky/zkusebni-a-cvicne-objekty-rop)
+- [Pomocné stavby těžkého opevnění](/clanky/pomocne-stavby-teziho-opevneni)
+- [Od zrady k ROTO — osudy pěchotních srubů 1938–1999](/clanky/osud-pechotnich-srubu-po-mnichovu)
+
+**Doplňující literatura:** Suchánek, Jiří – Fuksa, Ivan: *Čs. opevnění 1935–1938: Pěchotní sruby.* Extra Publishing, Brno 2025, ISBN 978-80-7525-757-4.

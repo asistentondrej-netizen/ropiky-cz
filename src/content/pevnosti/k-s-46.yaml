@@ -28,3 +28,17 @@ photos:
     author: User:Harold's family
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%A9_Petrovice,_K-S_46_(rok_2002).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: V zátiší
+history: >-
+  Na zdejší službu v září 1938 vzpomínal Alois Mejzr: „Jako sousedi tvrze Adam jsme věděli, že
+  situace pevnosti dosud není taková, jakou bychom si všichni představovali, a tak jsme se
+  maximálně snažili, aby alespoň kolem nás neproklouzla ani myš. Na ‚Zátiší‘ nám takřka nic
+  nechybělo. Zbraně jsme měli všechny, stejně tak dostatek střeliva. Ve skladu bylo jídlo, ubikace
+  byly vybavené postelemi, měli jsme funkční studnu i záchod.“
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

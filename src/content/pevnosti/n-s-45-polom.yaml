@@ -23,3 +23,17 @@ photos:
     author: A.Patek
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:N-S_45_Polom.jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Polom
+history: >-
+  Koncem 60. let padla volba na tento objekt pro vybudování vojenského geofyzikálního centra.
+  Práce začaly v roce 1972: celý srub byl prakticky kompletně zasypán a jeho vnitřní prostory
+  uzpůsobeny pro provoz seismologického zařízení. Jde o jediný pěchotní srub československého
+  opevnění, který je dodnes aktivně využíván — slouží jako seismická stanice Armády České
+  republiky.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

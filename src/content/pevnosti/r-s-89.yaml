@@ -36,3 +36,15 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_89_(rok_2010;_01).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U silnice
+history: >-
+  Při betonáži zde došlo k povolení šalování u ochranné střílny a beton unikl mimo požadovaný
+  prostor. Jde o typický příklad stavební vady, jaké se během překotné výstavby občas objevovaly —
+  v takových případech musela stavební firma závady opravit na vlastní náklady.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

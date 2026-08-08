@@ -37,3 +37,15 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Pansk%C3%A9_Pole,_R-S_73_(rok_2010;_01).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na okraji
+history: >-
+  K objektu vede od sousedního R-S 72 „Nízká“ pozorovací průsek. Průseky se v zalesněných úsecích
+  zřizovaly jako pozorovací (šířka 6–8 m) a palebné (šířka až 20 m); jejich trasa se volila podle
+  stejných zásad jako trasa překážek.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

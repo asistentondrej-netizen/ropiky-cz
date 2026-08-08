@@ -34,3 +34,18 @@ photos:
     author: Michal Gregor
     license: CC BY-SA 4.0
     source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_31a_Borek_02.jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Borek
+history: >-
+  Objekt vznikl rozdělením jednoho zamýšleného srubu na dva: umístění pevnosti přesně na vrchol
+  kopce by sice umožnilo palbu na obě strany, ale hrozilo by snadné zacílení nepřátelským
+  dělostřelectvem. Vznikly proto dva jednostranné objekty nedaleko vrcholu — spolu se StM-S 31b
+  „Ozdravovna“. V září 1938 byl srub improvizovaně připraven k obraně čerstvě po betonáži; na
+  dobovém snímku jsou patrné traverzy na střeše, které sloužily k instalaci stavební plošiny a
+  měly být po dokončení prací odstraněny.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

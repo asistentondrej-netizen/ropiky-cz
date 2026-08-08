@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="Pěchotní srub arabské odolnosti — schéma">
+  <rect width="200" height="140" fill="#F1ECE0"/>
+  <path d="M 0 115 L 200 115 L 200 140 L 0 140 Z" fill="#5C6B3A" opacity="0.35"/>
+  <!-- menší, jednodušší srub - kratší křídla -->
+  <g transform="translate(42 45)">
+    <path d="M 0 32 L 14 10 L 102 10 L 116 32 L 116 70 L 0 70 Z" fill="#8B7D62" stroke="#1A1612" stroke-width="1.5"/>
+    <!-- jediný zvon uprostřed -->
+    <ellipse cx="58" cy="10" rx="14" ry="5" fill="#5E5646" stroke="#1A1612" stroke-width="1"/>
+    <rect x="55" y="4" width="6" height="7" rx="1" fill="#1A1612"/>
+    <!-- horní pás -->
+    <path d="M 0 32 L 14 10 L 102 10 L 116 32 L 116 42 L 0 42 Z" fill="#7A6E55"/>
+    <!-- jen dvě hlavní střílny (dvojčata M) -->
+    <rect x="10" y="47" width="22" height="7" rx="1" fill="#1A1612"/>
+    <rect x="84" y="47" width="22" height="7" rx="1" fill="#1A1612"/>
+    <path d="M 20 55 Q 22 63 18 70" stroke="#5A4E3A" stroke-width="0.8" fill="none" opacity="0.5"/>
+    <path d="M 96 55 Q 98 63 94 70" stroke="#5A4E3A" stroke-width="0.8" fill="none" opacity="0.5"/>
+  </g>
+  <!-- odolnost 1/2 - popisek -->
+  <g opacity="0.5" stroke="#7A3B2E" stroke-width="1" stroke-dasharray="3 3" fill="#7A3B2E">
+    <line x1="50" y1="95" x2="22" y2="110"/>
+    <line x1="150" y1="95" x2="178" y2="110"/>
+  </g>
+  <text x="100" y="132" text-anchor="middle" font-family="monospace" font-size="9" fill="#1A1612" opacity="0.6">„arab" — srub malého typu</text>
+</svg>

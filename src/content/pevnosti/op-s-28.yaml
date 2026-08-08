@@ -13,3 +13,14 @@ description: >-
   hrozbě nacistického Německa.
 wikidata_id: Q98592016
 updated: '2026-04-19'
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Mezicestí
+history: >-
+  Objekt patří k těm, jimž se nedostalo náležité péče — jeho střelecké místnosti jsou dnes ve
+  výrazně zhoršeném stavu.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

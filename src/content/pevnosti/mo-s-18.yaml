@@ -36,3 +36,14 @@ photos:
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: V oboře
+history: >-
+  Typický příklad jednostranného pěchotního srubu, zvoleného z taktické potřeby daného úseku. Mezi
+  tímto objektem a sousedním MO-S 19 „V aleji“ se dochovaly protitankové překážky u Darkoviček.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

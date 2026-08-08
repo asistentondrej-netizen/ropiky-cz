@@ -34,3 +34,14 @@ photos:
     author: User:Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_60_(rok_2010;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na cestě
+history: >-
+  V objektu je dobře patrné typické řešení srubů arabské odolnosti: místo klasického schodiště se
+  mezi patry projektoval pouze prostup vybavený žebříkem.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

@@ -20,3 +20,15 @@ photos:
     author: Martin Provazní
     license: CC0
     source: https://commons.wikimedia.org/wiki/File%3AK-S%2037.jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na rozhledně
+history: >-
+  Objekt nesl dva pancéřové zvony (v pozadí pozorovací) a stál nedaleko tvrze Adam. Jeho osádka na
+  stěnu namalovala heslo „Za vlast i životy dáme“. Mezi tímto srubem a K-S 38 „U křížku“ se dodnes
+  dochoval protitankový příkop.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

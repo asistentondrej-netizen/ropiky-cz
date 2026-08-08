@@ -34,3 +34,16 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:%C5%A0ilhe%C5%99ovice,_MO-S_12_(2015-05-08;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U pramene
+history: >-
+  Pro tento srub a sousední MO-S 13 „Černý les“ se nepodařilo vyhloubit samostatné studny, a proto
+  pro ně vznikla společná pevnostní studna situovaná přibližně 300 m za oběma objekty. Voda se
+  přiváděla povrchovým potrubím; protože se počítalo s jeho rychlým přerušením během bojů, byly
+  obě pevnosti vybaveny nadstandardně velkými zásobníky na vodu.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

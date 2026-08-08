@@ -33,3 +33,15 @@ photos:
     author: User:Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:%C5%A0atov,_MJ-S_2_(rok_2005;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Úvoz
+history: >-
+  Dochoval se pohled do interiéru horního patra nedokončeného objektu — otevřený prostor, který
+  měl být později rozdělen cihlovými příčkami. Na některých zdech je již patrné oplechování; právě
+  tam měly být místnosti telefonisty a velitele.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

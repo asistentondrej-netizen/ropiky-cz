@@ -17,3 +17,14 @@ updated: '2026-04-22'
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Vrcha I
+history: >-
+  Objekt byl silně poškozen; jeho stav zachycuje rozsáhlá fotodokumentace pořízená nedlouho po
+  válce při prohlídce těžkého opevnění, kterou provedlo obnovené Ředitelství opevňovacích prací.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

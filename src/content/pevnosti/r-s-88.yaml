@@ -34,3 +34,15 @@ photos:
     author: User:Harold's family
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:%C5%98%C3%AD%C4%8Dky_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_88_(rok_2002).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Mlází
+history: >-
+  Typický představitel pěchotních srubů arabské odolnosti: pro pozorování byl vybaven jedním
+  zvonem pro lehký kulomet a hlavní výzbroj tvořila dvě dvojčata těžkých kulometů vz. 37. U
+  „arabů“ se samostatné kulomety pod betonem nenavrhovaly, pouze dvojčata.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

@@ -33,3 +33,15 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Chvale%C4%8D,_Pet%C5%99%C3%ADkovice,_T-S_52b_(rok_2012;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na skále
+history: >-
+  Součást přehrazení Petříkovického údolí na Trutnovsku, kde spolu s T-S 53 „Na výhledech“ a T-S
+  55 „Na stráni“ vznikly jednostranné objekty. Projektanti je volili v hornatém terénu, kde nebylo
+  možné kvůli sklonu svahu realizovat jinou variantu.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

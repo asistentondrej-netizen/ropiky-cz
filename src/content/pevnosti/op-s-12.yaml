@@ -13,3 +13,15 @@ description: >-
   hrozbě nacistického Německa.
 wikidata_id: Q98582482
 updated: '2026-04-19'
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na rytířském
+history: >-
+  Typický dvoukřídlý pěchotní srub, jehož výzbroj na obou stranách tvořila kombinace zbraní L1
+  (4cm kanon vz. 36 spřažený s kulometem vz. 37) a M (dvojče těžkých kulometů vz. 37); objekt
+  disponoval dvěma zvony pro lehký kulomet.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

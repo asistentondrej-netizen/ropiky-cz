@@ -35,3 +35,16 @@ photos:
     author: User:Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_R-S_54_(rok_2010;_01).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na potoku
+history: >-
+  Zcela atypický objekt: jediný pěchotní srub arabské odolnosti vyprojektovaný a postavený jako
+  jednopodlažní, jediný „arab“ určený pro čelní palbu a jeden ze dvou bezkřídlých „arabů“. Kvůli
+  umístění v úzkém údolí Divoké Orlice nedisponoval ani střílnou na obranu vchodu. Do října 1938
+  šlo o jediný postavený jednopodlažní objekt arabské odolnosti.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

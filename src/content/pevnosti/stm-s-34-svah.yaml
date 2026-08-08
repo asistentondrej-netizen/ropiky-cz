@@ -32,3 +32,17 @@ photos:
     author: Michal Gregor
     license: CC BY-SA 4.0
     source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%AD_srub_StM-S_34_Svah_02.jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Svah
+history: >-
+  Dochoval se snímek rozestavěného objektu zachycující masivní konstrukci před plným zasypáním
+  dolního patra, které bylo vždy umístěno pod úrovní terénu a mělo větší tloušťku obvodových zdí.
+  Fotografie vznikla po záboru pohraničí; patrné jsou německé nápisy na zdech pevnosti, například
+  „Der Wille des Führers war härter als Stahl und Beton“ (Vůdcova vůle byla silnější než ocel a
+  beton).
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

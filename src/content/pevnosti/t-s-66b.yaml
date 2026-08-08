@@ -33,3 +33,15 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Zlat%C3%A1_Ole%C5%A1nice,_T-S_66b_(rok_2012;_03).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: V poli
+history: >-
+  Po válce zde jednotka obnoveného Ředitelství opevňovacích prací opravila škody způsobené
+  německým ostřelováním. Šlo o jednu z mála realizovaných stavebních prací na těžkém opevnění v
+  letech 1945–1948.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

@@ -33,3 +33,15 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Hevl%C3%ADn,_MJ-S_16_(rok_2010;_01).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Výběžek
+history: >-
+  Dochoval se unikátní snímek těžkého kulometu vz. 24 provizorně umístěného do střílny pro zbraň
+  L1. Šlo o typickou improvizaci: do nedokončených objektů se dodávaly bedny s kulomety vz. 24,
+  podstavci a municí, aby se osádka mohla v případě nečekaného útoku alespoň provizorně bránit.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

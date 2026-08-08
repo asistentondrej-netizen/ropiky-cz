@@ -22,3 +22,16 @@ photos:
     author: Martin Provazník
     license: Public domain
     source: https://commons.wikimedia.org/wiki/File:K-S_33.JPG
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U ovčárny
+history: >-
+  Na levé straně objektu se nacházejí hlavní střílny pro zbraně L1 a M chráněné pomocnou střílnou
+  a krakorcem, před nimi ochranný příkop, do kterého ústí granátový skluz a periskop; vlevo je
+  umístěn zvon pro lehký kulomet. Objekt nese i zvon pro kulomet vz. 37, který se používal v
+  menším rozsahu než zvon AJ/N.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

@@ -34,3 +34,15 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Doln%C3%AD_Bene%C5%A1ov,_MO-S_33_(2015-04-14;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Kozmice
+history: >-
+  Ze střílen tohoto objektu pochází známý dobový snímek směrem na sousední MO-S 32 „Bártovo pole“,
+  který dokumentuje princip vzájemného krytí objektů a postřelování prostoru před intervalovými
+  překážkami.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

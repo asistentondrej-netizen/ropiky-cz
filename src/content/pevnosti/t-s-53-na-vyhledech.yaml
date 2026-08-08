@@ -34,3 +34,15 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Trutnov,_Bezd%C4%9Bkov,_T-S_53_(rok_2012;_03).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na výhledech
+history: >-
+  Součást přehrazení Petříkovického údolí na Trutnovsku spolu s T-S 52b „Na skále“ a T-S 55 „Na
+  stráni“. Jednostranné sruby se tam volily proto, že sklon svahu neumožňoval realizovat jinou
+  variantu.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

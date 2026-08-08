@@ -34,3 +34,16 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Kozmice,_MO-S_32_(2015-04-14;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Bártovo pole
+history: >-
+  Jeden z pěti samostatných pěchotních srubů, do nichž ŘOP plánovalo osadit otočnou kulometnou věž
+  OR. Dochoval se dobový snímek pořízený ze sousedního MO-S 33 „Kozmice“, který dobře dokumentuje
+  podobu linie těžkého opevnění — vzájemné krytí objektů a postřelování prostoru před
+  intervalovými překážkami.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

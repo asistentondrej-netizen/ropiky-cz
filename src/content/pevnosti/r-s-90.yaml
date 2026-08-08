@@ -36,3 +36,15 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:Orlick%C3%A9_Z%C3%A1ho%C5%99%C3%AD,_%C4%8Cern%C3%A1_Voda_u_Orlick%C3%A9ho_Z%C3%A1ho%C5%99%C3%AD,_R-S_90-II_(rok_2010;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Levý
+history: >-
+  Jeden z nejmenších pěchotních srubů československého opevnění, postavený ve 2. stupni odolnosti
+  nedaleko Komářího vrchu v Orlických horách. Osádku tvořilo jen 12 mužů. Zvon tohoto objektu je
+  jediným dochovaným pancéřovým prvkem na našem opevnění se střílnou s depresí 1:2.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

@@ -30,3 +30,16 @@ photos:
     author: Lukáš Malý
     license: Public domain
     source: https://commons.wikimedia.org/wiki/File:MJ-S_29.JPG
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Svah
+history: >-
+  Ve stavebním deníku objektu je za období 24.–30. září 1938 záznam o přípravě k obraně: „Objekt
+  Svah, vybetonovaný, byl připraven k obraně; z materiálu získaného na staveništi byly provedeny
+  žebříky do zvonů, podlážky do zvonů, do L1 střílen stojany pro kulomety. Do objektu navozeny
+  byly pytle s cementem k eventuálnímu zahrazení vchodů.“
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

@@ -21,3 +21,16 @@ photos:
     author: Martin Provazník
     license: CC0
     source: https://commons.wikimedia.org/wiki/File%3AK-S%2036.jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Pod Adamem
+history: >-
+  Oboustranný dvoukřídlý pěchotní srub postavený ve III. stupni odolnosti; umístění v prudkém
+  svahu si vyžádalo výrazné lomení, díky němuž jde o nejvíce lomený pěchotní srub československého
+  opevnění. Osádku tvořilo 37 mužů, hlavní výzbroj představovaly dva 4cm kanony vz. 36 spřažené s
+  kulometem vz. 37. Osádka objekt ozdobila hesly „Vše pro vlast“ a „Cizí nechceme, svoje nedáme“.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

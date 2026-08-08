@@ -20,3 +20,16 @@ photos:
     author: Martin Provazník
     license: Public domain
     source: https://commons.wikimedia.org/wiki/File:K-S_15.JPG
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U lípy
+history: >-
+  Při vytyčování objektu došlo k chybě, která vedla k jeho pootočení o 7,5°. Srub tím ztratil
+  možnost účinně vést palbu požadovaným směrem a ŘOP muselo složitě řešit úpravu směřování
+  střílen. Při říjnové evakuaci 1938 zajišťovala odvoz výzbroje a vybavení nákladní autokolona 503
+  vyčleněná pro hraničářský pluk 6.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

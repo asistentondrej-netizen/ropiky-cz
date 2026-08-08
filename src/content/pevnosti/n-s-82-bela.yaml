@@ -10,7 +10,9 @@ location:
   address: Náchod-Běloves
 built: '1937'
 state: muzeum
-description: Pěchotní srub „Běla" v Bělovesi u Náchoda — součást náchodské linie chránící přechod přes Metuji.
+description: >-
+  Pěchotní srub N-S 82 „Březinka" nad Bělovesí u Náchoda — součást linie uzavírající Náchodskou branku.
+  Dnes nejlépe zrekonstruovaný samostatný pěchotní srub v ČR i na Slovensku.
 wikidata_id: Q10435518
 wikipedia_url: https://cs.wikipedia.org/wiki/N-S_82_B%C5%99ezinka
 commons_category: N-S 82 Březinka casemate
@@ -34,3 +36,22 @@ photos:
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Březinka
+history: >-
+  Dnes nejlépe zrekonstruovaný samostatný pěchotní srub v České republice i na Slovensku. Muzeum
+  zde začalo vznikat na počátku 90. let. Objekt je zvenčí atraktivní mimo jiné obnoveným
+  maskovacím schématem: sruby chránící Náchodskou branku nesly vícebarevné schéma připomínající
+  kamufláž obrněné techniky, od něhož se později upustilo ve prospěch odstínů šedé. Mezi unikáty
+  patří originální pevnostní kanon vz. 36, který byl podle výrobního čísla 173 v roce 1938 na
+  objektu skutečně instalován a za okupace jej Němci odvezli do Norska na Atlantický val; dále
+  pravděpodobně jediná zachovalá pevnostní telefonní ústředna a originální, dodnes funkční
+  filtrovna (tři sady protidýmových a protiplynových filtrů, které ovšem v roce 1938 v objektu
+  chyběly, a ventilátor na elektrický i ruční pohon). Během výstavby zde muselo být upraveno
+  vedení vzduchotechniky, protože montéři narazili na již osazené světlo.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

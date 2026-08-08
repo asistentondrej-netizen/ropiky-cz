@@ -33,3 +33,17 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Trutnov,_Debrn%C3%A9,_T-S_63_(rok_2012;_03).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U potoka
+history: >-
+  Jeden z pouhých pěti objektů čs. těžkého opevnění se střílnou pro čelní palbu 4cm kanonu vz. 36
+  spřaženého s kulometem vz. 37 pod betonem. Vzhledem k exponované poloze střílny pro zbraň L1 byl
+  objekt vybaven uzávěrem čelní střílny, který ji chránil, když nevedla palbu. U tohoto srubu se
+  počítalo i s pancířem L1 — masivní polokopulí se střílnou pro kanon umístěnou pod betonem, k
+  jejíž výrobě nakonec nikdy nedošlo.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

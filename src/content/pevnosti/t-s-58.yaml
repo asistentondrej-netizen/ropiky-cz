@@ -33,3 +33,15 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Chvale%C4%8D,_Pet%C5%99%C3%ADkovice,_T-S_58_(rok_2012;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Velký les
+history: >-
+  Dobrý příklad jednokřídlého jednostranného pěchotního srubu arabské odolnosti. Tyto objekty se
+  dělily na levokřídlé a pravokřídlé a stavěly se v místech s příkrým srázem nebo tam, kde by
+  hrozilo zbytečné vystavení nepřátelské palbě.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

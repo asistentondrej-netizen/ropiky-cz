@@ -30,3 +30,15 @@ photos:
     author: Lasy
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:N-S_83_L%C3%A1zn%C4%9B_3.jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Lázně
+history: >-
+  Příklad oboustranného jednokřídlého pěchotního srubu, u něhož si zvlněný horský terén vynutil
+  umístit hlavní výzbroj na jedné straně do kopule nebo do zvonu s těžkým kulometem — lomení
+  objektu by jinak bylo příliš velké.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

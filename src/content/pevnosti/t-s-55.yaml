@@ -33,3 +33,15 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Chvale%C4%8D,_Pet%C5%99%C3%ADkovice,_T-S_55_(rok_2012;_03).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na stráni
+history: >-
+  Pravostranný pěchotní srub vybetonovaný v květnu 1938 společností Litická, a. s., Praha. Součást
+  přehrazení Petříkovického údolí na Trutnovsku. Na dobových snímcích je patrný vchod do objektu,
+  zvon pro těžký kulomet, mohutná kamenná rovnanina a zbytky staveniště.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

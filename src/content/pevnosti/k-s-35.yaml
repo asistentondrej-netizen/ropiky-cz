@@ -20,3 +20,16 @@ photos:
     author: Martin Provazník
     license: Public domain
     source: https://commons.wikimedia.org/wiki/File:K-S_35.jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Nad lesem
+history: >-
+  Objekt patřil do skupiny srubů s kopulí pro čelně pálící těžký kulomet — takto umístěnou zbraní
+  M měl pokrývat silnici vedoucí od Petroviček do Mladkova. Osádka na něj namalovala heslo „…Tak
+  přísaháme!“ doplněné u vchodu menším nápisem „Zborov náš příklad“. Dochoval se také půdorys
+  dolního patra se zakreslenou plánovanou vzduchotechnikou.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

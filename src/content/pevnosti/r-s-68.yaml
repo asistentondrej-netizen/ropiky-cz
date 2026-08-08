@@ -33,3 +33,15 @@ photos:
     author: User:Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_68_(rok_2010;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Smrk
+history: >-
+  Jeden z mála pěchotních srubů arabské odolnosti projektovaných s 9cm pevnostním minometem CE vz.
+  38. Zbraň se do žádného objektu nakonec nepodařilo nainstalovat — ke konci září 1938 probíhala
+  ve Škodovce montáž prvních pěti sériových kusů a zbývajících 49 bylo po Mnichovu stornováno.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

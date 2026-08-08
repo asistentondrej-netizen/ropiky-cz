@@ -31,3 +31,14 @@ photos:
     author: Martin Provazník
     license: Public domain
     source: https://commons.wikimedia.org/wiki/File:K-S_32.JPG
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na růžku
+history: >-
+  Dvoukřídlý pěchotní srub, u kterého byl namísto jednoho zvonu pro lehký kulomet umístěn zvon pro
+  těžký kulomet určený k vedení dalekých čelních paleb.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

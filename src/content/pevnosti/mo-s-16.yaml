@@ -34,3 +34,16 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Markvartovice,_MO-S_16_(2015-05-01;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Rozcestí
+history: >-
+  Jeden z pěti samostatných pěchotních srubů, do nichž ŘOP plánovalo osadit otočnou kulometnou věž
+  OR — největší pancéřový prvek určený pro pěchotní sruby (hmotnost cca 36 t, dvě střílny pro
+  těžký kulomet vz. 37, odolnost proti zásahu granátem ráže až 305 mm). Do října 1938 se
+  nepodařilo dokončit ani jednu věž.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

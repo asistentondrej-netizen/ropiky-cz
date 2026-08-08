@@ -33,3 +33,16 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Darkovice,_MO-S_23_(2015-05-01;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Chlupáč
+history: >-
+  Objekt patřil mezi sruby s dělostřeleckým pozorovacím zvonem — kromě postřelování svěřeného
+  sektoru měl sloužit k pozorování a navádění dělostřelecké palby, a proto se u něj počítalo s
+  ubikací a kanceláří pro dělostřelecké pozorovatele i s pevnostní radiostanicí. Zároveň šlo o
+  jeden z pěti samostatných srubů, do nichž se plánovala otočná kulometná věž OR.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

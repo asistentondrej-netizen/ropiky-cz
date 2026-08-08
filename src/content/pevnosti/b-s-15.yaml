@@ -30,3 +30,15 @@ photos:
     author: TeodS
     license: CC0
     source: https://commons.wikimedia.org/wiki/File:Bunker_B-S_15_Ostrov_(cropped).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Ostrov
+history: >-
+  Na objektu se dochovala jedna ze dvou posledních kopulí JA/D na samostatných pěchotních srubech
+  — měla zajišťovat palebné krytí přes koryto Dunaje. Při poválečné reaktivaci komise rozhodla, že
+  vzhledem k poloze objektu není instalace nového 85mm kanonu vz. 44/59 nezbytná.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

@@ -35,3 +35,16 @@ photos:
     author: User:Harold's family
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Lichkov,_K-S_25_(rok_2000;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na sedle
+history: >-
+  V říjnu 1940 sem němečtí odborníci v rámci zkoušek pevnostního vybavení nainstalovali část
+  vnitřního zařízení, především filtrovnu s celým rozvodem vzduchotechniky. Zajímavostí je, že šlo
+  o typ určený pro objekty arabské odolnosti, nikoli římské. Vzduchotechnika v objektu zůstala a v
+  této podobě byla zachycena ještě v 80. letech 20. století.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

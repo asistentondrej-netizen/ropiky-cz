@@ -37,3 +37,15 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Pansk%C3%A9_Pole,_R-S_71_(rok_2010;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Vysoká
+history: >-
+  Objekt patří do kategorie jednostranných pěchotních srubů arabské odolnosti. Ty se dělily na
+  levokřídlé a pravokřídlé a stavěly se v místech s příkrým srázem nebo tam, kde by hrozilo
+  zbytečné vystavení objektu nepřátelské palbě.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

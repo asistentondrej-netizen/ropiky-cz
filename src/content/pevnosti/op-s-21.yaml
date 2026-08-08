@@ -13,3 +13,15 @@ description: >-
   hrozbě nacistického Německa.
 wikidata_id: Q98582589
 updated: '2026-04-19'
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na cvičišti
+history: >-
+  Oboustranný jednopodlažní pěchotní srub vybetonovaný ve II. třídě odolnosti. Na pravé straně
+  objektu se nacházela střílna pro 4cm kanon vz. 36 spřažený s kulometem vz. 37 a kulometné dvojče
+  vz. 37; dominantou je ochranné křídlo a zvon pro kulomet vz. 26.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

@@ -34,3 +34,14 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Bohuslavice,_MO-S_29_(2015-05-01;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Horní dvoják
+history: >-
+  Spolu se sousedním MO-S 30 „Dolní dvoják“ jde o dvojici jednostranných pěchotních srubů, jejichž
+  rozdělení si vynutila taktická potřeba daného úseku u Hlučína.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

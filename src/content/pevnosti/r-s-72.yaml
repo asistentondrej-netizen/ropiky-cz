@@ -36,3 +36,18 @@ photos:
     license: CC BY-SA 3.0
     source: >-
       https://commons.wikimedia.org/wiki/File:Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch,_Pansk%C3%A9_Pole,_R-S_72_(rok_2010;_01).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Nízká
+history: >-
+  Pěchotní srub postavený ve 2. stupni odolnosti, vybavený zvonem AJ/N. Na týlové straně je dobře
+  patrný výdech ventilace krytý mřížkou, granátový skluz s dopadovou ploškou a otvor pro periskop;
+  dochovala se také střílna pro 9cm pevnostní minomet CE vz. 38. Před objektem vede palebný průsek
+  se čtyřřadou protipěchotní překážkou a nekompletní protitankovou překážkou; směrem k sousednímu
+  R-S 73 „Na okraji“ vede průsek pozorovací. V okolí je patrné prosvětlení lesa, které mělo
+  pomáhat při blízké obraně objektu.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

@@ -11,8 +11,8 @@ location:
 built: '1938'
 state: pristupny
 description: >-
-  Jediný oboustranný pěchotní srub IV. stupně odolnosti na území bývalého Československa (stěny 3,5 m). Vzácná ukázka
-  nejvyšší fortifikační kvality čs. opevnění. Obsahuje stopy německých zkušebních střeleb z doby okupace.
+  Oboustranný dvoukřídlý pěchotní srub na jižní Moravě, jeden ze šesti, které se zde podařilo vybetonovat.
+  Prošel poválečnou reaktivací a je několikrát do roka otevírán pro veřejnost.
 updated: '2026-04-18'
 photos:
   - url: https://upload.wikimedia.org/wikipedia/commons/9/98/Chvalovice%2C_MJ-S_4_%28rok_2009%3B_03%29.jpg
@@ -30,3 +30,18 @@ photos:
     author: User:Harold
     license: CC BY-SA 4.0
     source: https://commons.wikimedia.org/wiki/File:Chvalovice,_MJ-S_4_(rok_2009;_09).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Zatáčka
+history: >-
+  Oboustranný dvoukřídlý objekt, který prošel poválečnou reaktivací. Její součástí byla aplikace
+  kamuflážního nátěru (návrh maskování pochází z roku 1957), instalace 85mm protitankového kanonu
+  vz. 44/59 s novými střílnami a vestavba plynotěsných plechových dveří ŽDV-6/I v centrální chodbě
+  dolního patra. Srub sloužil k testování vybavení i k simulacím dlouhodobého pobytu osádek. Pod
+  poválečnými nátěry se na stěnách dochovaly vlastenecké nápisy, které tam zanechala osádka v roce
+  1938. V současné době je pevnost několikrát do roka otevírána pro veřejnost.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

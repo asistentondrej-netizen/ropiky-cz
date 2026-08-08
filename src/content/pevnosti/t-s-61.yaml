@@ -33,3 +33,15 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Trutnov,_Debrn%C3%A9,_T-S_61_(rok_2012;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Hranice
+history: >-
+  Dochoval se plán osvětlení dolního patra objektu s rozložením svítidel a kabeláže. V každé
+  místnosti srubu bylo svítidlo, u každého pracovního stolu stolní lampa; pro nouzové osvětlení
+  sloužily petrolejové lampy.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

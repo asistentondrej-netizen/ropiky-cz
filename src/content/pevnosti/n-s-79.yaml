@@ -35,3 +35,16 @@ photos:
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Hrobka
+history: >-
+  Dochovaly se snímky z doby okupace zachycující trhání pancéřových prvků německou armádou; díky
+  tomu je na nich dobře vidět způsob jejich osazení do konstrukce srubu — v popředí kopule JA/M s
+  prstencem, v pozadí pozorovací zvon. Pohled do chodby objektu zachycuje hotové cihlové příčky,
+  vedení vzduchotechniky i elektroinstalaci s osvětlením.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

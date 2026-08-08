@@ -33,3 +33,15 @@ photos:
     author: User:Harold's family
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Bratislava,_B-S_10,_stav_v_roce_1996_(02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+history: >-
+  Nejvyspělejší srub petržalského předmostí z původní výstavby (přelom let 1934 a 1935). Počítalo
+  se u něj s pozorovacím zvonem, k jeho osazení ale nedošlo — otvor pro zvon dělníci zalili
+  betonem a objekt dostal jen periskop. Modernější koncepce objektů této série umožňovala čelní i
+  boční palbu a počítala s ventilátory a čerpadly na vodu.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

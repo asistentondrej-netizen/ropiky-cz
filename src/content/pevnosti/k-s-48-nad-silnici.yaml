@@ -28,3 +28,15 @@ photos:
     author: User:Harold's family
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%A9_Petrovice,_K-S_48_(rok_2002).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Nad silnicí
+history: >-
+  Velitelem objektu byl poručík pěchoty František Stehlík, který na výcvik pevnostních jednotek
+  vzpomínal: „Ve zbraně i objekty jsme měli naprostou důvěru a nebyla to důvěra slepá, ale důvěra
+  ověřená praxí. Vždyť jsme všichni v Brdech viděli, co kanon a kulomety dokážou.“
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

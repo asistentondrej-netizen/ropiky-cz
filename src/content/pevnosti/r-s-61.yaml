@@ -33,3 +33,18 @@ photos:
     author: User:Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_61_(rok_2010;_01).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na kopečku
+history: >-
+  Na zdejší službu vzpomínal četař Ladislav Hess: v jednom ze skladišť byla uložena záložní dávka
+  potravin pro případ obklíčení i erární rum, který osádka postupně vypila. Popsal také
+  mobilizační postup — v objektu byla umístěna zvláštní skříňka s rozkazy, kterou velitel po
+  vyhlášení pohotovosti rozbil; rozkazy nařizovaly za každou cenu zajistit obranu objektu až do
+  příchodu velícího důstojníka, odstranit zbytky stavebních ohrad před střílnami a vyslat spojku k
+  veliteli jednotky stráže obrany státu v předpolí.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

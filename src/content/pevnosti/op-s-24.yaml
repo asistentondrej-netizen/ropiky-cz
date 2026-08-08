@@ -32,3 +32,17 @@ photos:
     author: Miroslav Olszewski
     license: CC BY-SA 4.0
     source: https://commons.wikimedia.org/wiki/File:P%C4%9Bchotn%C3%ADho_srub_OP-S24_Gelovo_pole_19.jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Na Gelově poli
+history: >-
+  Dochovaly se půdorysy obou etáží tohoto objektu s rozvržením místností: horní patro zahrnovalo
+  střelecké místnosti, zvony pro lehké kulomety, sklady munice, místnost telefonisty a stanoviště
+  velitele; dolní patro ubikaci mužstva pro 14 mužů, ubikaci čtyř poddůstojníků, záchody, sklad
+  ručních granátů a osvětlovacích raket, zemní telegraf, sklad proviantu, agregát, filtrovnu,
+  sklad pohonných hmot a maziv a sklad nářadí.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

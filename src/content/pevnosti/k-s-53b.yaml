@@ -27,3 +27,16 @@ photos:
     author: User:Harold's family
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Kl%C3%A1%C5%A1terec_nad_Orlic%C3%AD,_K-S_53b_(rok_2002).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Nad řekou
+history: >-
+  Jeden ze dvou bezkřídlých pěchotních srubů arabské odolnosti postavených v Orlických horách u
+  Zemské brány, kde svou palbou vykrývá příkré údolí Divoké Orlice. Hlavní zbraně jsou na obou
+  stranách umístěny pod pancířem; jedinými střílnami pod betonem jsou pomocné. Osádku tvořilo
+  pouhých 12 mužů.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

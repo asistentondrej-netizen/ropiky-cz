@@ -33,3 +33,17 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Mal%C3%A9_Svato%C5%88ovice,_Odolov,_T-S_28_(rok_2012;_03).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Nad pramenem
+history: >-
+  U objektu došlo k omylu už při navrhování: pravé křídlo srubu se střílnami bylo nadměrně
+  vytočeno směrem k nepříteli a podle chybného projektu proběhlo i šalování. Přestože projektanti
+  nesrovnalost při kontrole odhalili, stavbu nezastavili — na přepracování projektu nebyl čas, a
+  proto se rozhodli upravit terén v okolí srubu, aby střílna nebyla tak ohrožená. Objekt je
+  zároveň jedním ze dvou známých „arabů“ s pozorovacím zvonem.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

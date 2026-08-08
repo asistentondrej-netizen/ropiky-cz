@@ -20,3 +20,15 @@ photos:
     author: User:Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File%3AStar%C3%A9%20M%C4%9Bsto%2C%20StM-S%2030%20%28rok%202003%3B%2001%29.jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Potok
+history: >-
+  Jeden z pouhých pěti objektů čs. těžkého opevnění se střílnou pro čelní palbu 4cm kanonu vz. 36
+  spřaženého s kulometem vz. 37 pod betonem. Tyto sruby působily palbou čelně do údolí v hornatém
+  terénu schůdném pro nepřátelskou techniku.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

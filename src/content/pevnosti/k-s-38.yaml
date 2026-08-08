@@ -27,3 +27,16 @@ photos:
     author: User:Harold's family
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Mladkov,_Petrovi%C4%8Dky,_K-S_38_(rok_2000).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U křížku
+history: >-
+  Mohutný oboustranný dvoukřídlý objekt se třemi zvony ve II. stupni odolnosti, přímý soused tvrze
+  Adam. Na pravé straně jsou dobře patrné střílny pro dvojkulomet vz. 37, 4cm kanon vz. 36 a
+  kulomet vz. 26. Osádka na objekt namalovala heslo „Hraničáři nikdy nesklamou“. Nad schodištěm se
+  dochovala nádrž na vodu o objemu 1 000 l. Objekt prochází rekonstrukcí.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

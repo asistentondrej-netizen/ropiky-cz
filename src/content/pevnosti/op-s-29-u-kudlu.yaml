@@ -21,3 +21,14 @@ photos:
 wikidata_id: Q98592017
 commons_category: OP-S 29 U kudlu casemate
 updated: '2026-04-18'
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U kudlu
+history: >-
+  Na jaře 1945 zde Němci využili neporušenou původní střílnu pro zbraň L1 a nouzově do ní ze
+  skladů nainstalovali odpovídající kanon. Torzo této zbraně zůstalo v objektu až do roku 1968.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

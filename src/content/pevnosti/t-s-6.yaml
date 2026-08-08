@@ -16,3 +16,15 @@ updated: '2026-04-22'
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Písník
+history: >-
+  V červnu 1938 zde byl instalován 4cm kanon vz. 36 s výrobním číslem 196. Dochovaly se fotografie
+  z října 1938, na kterých se u zbraně L1 a u zbraně M vyfotografoval na samospoušť člen osádky
+  Karel Aliger — na jednom ze snímků je již část lafety demontována.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

@@ -33,3 +33,15 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Chvale%C4%8D,_Pet%C5%99%C3%ADkovice,_T-S_57_(rok_2012;_03).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U smrku
+history: >-
+  Dvoukřídlý pěchotní srub arabské odolnosti z pozdější fáze výstavby: na rozdíl od objektů první
+  vlny, které dostávaly jediný zvon do středu srubu, měl zvony umístěné v obou ochranných
+  křídlech.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

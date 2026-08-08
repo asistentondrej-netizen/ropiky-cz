@@ -14,3 +14,15 @@ description: >-
 wikidata_id: Q62394532
 wikipedia_url: https://cs.wikipedia.org/wiki/N-S_53_U_chalupy
 updated: '2026-04-19'
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: U chalupy
+history: >-
+  Objekt byl vybetonován mezi 26. zářím a 1. říjnem 1938 — patří tedy k úplně posledním betonážím
+  československého těžkého opevnění. Krátce poté bylo staveniště opuštěno a díky tomu se dodnes
+  zachovala řada unikátních prvků, například část šalování střílny pro zbraň N.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

@@ -34,3 +34,15 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:%C5%A0ilhe%C5%99ovice,_MO-S_7_(2015-05-08;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Antošovice
+history: >-
+  Na tomto objektu Ředitelství opevňovacích prací zkoušelo maskování zakrýváním srubu maskovacími
+  sítěmi a porostem popínavých rostlin. Postup byl nakonec odmítnut kvůli vysokým nákladům a
+  nutnosti pravidelné obměny kamufláže podle ročních období.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

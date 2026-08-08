@@ -35,3 +35,15 @@ photos:
 pamatka:
   status: kulturni-pamatka
   poznamka: Spadá pod rozsáhlejší celek chráněný jako kulturní památka ČR
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Polsko
+history: >-
+  Objekt nedaleko tvrze Dobrošov, na kterém je dnes k vidění vysunutá replika příkopového
+  periskopu. Ten sloužil k pozorování mrtvých prostorů v bezprostřední blízkosti srubu, kam
+  nedosáhly žádné pevnostní zbraně a které byly chráněny pouze granátovými skluzy.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

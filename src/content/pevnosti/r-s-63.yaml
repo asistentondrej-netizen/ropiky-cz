@@ -33,3 +33,16 @@ photos:
     author: User:Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:Barto%C5%A1ovice_v_Orlick%C3%BDch_hor%C3%A1ch,_R-S_63_(rok_2010;_01).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Centrála
+history: >-
+  Z tohoto objektu vyrazila 22. září 1938 improvizovaná jednotka asi 20 mužů sestavená z osádek
+  několika těžkých objektů 6. a 7. roty, aby zasáhla proti henleinovcům, kteří přepadli a vypálili
+  celnici v Bartošovicích v Orlických horách. Jednotce velel poručík Kratochvíl. Jakmile
+  henleinovci viděli postupující vojáky, utekli na německé území; nepadl jediný výstřel.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

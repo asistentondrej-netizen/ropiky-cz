@@ -34,3 +34,19 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:%C5%A0ilhe%C5%99ovice,_MO-S_8_(2015-05-08;_02).jpg
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: Dvůr Paseky
+history: >-
+  Vůbec první objekt československého těžkého opevnění. Betonáž proběhla ve dnech 15.–22. prosince
+  1935 v podúseku Bohumín pod Ženijním skupinovým velitelstvím II Hlučín. Objekty tohoto prvního
+  podúseku se od pozdější výstavby výrazně lišily: konstruktéři zvolili variantu s umístěním pouze
+  jedné zbraně v každé střílně (samostatné kanony proti útočné vozbě a samostatné těžké kulomety),
+  což vedlo ke vzniku velkých a tvarově rozmanitých srubů. Koncepce se brzy ukázala jako nevhodná
+  a vedla k zavedení sdružených zbraní M (dvojče kulometů vz. 37) a L1 (kanon vz. 36 spřažený s
+  kulometem).
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha

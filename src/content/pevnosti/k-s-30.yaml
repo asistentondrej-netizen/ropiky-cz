@@ -13,3 +13,16 @@ description: >-
   hrozbě nacistického Německa.
 wikidata_id: Q69577875
 updated: '2026-04-19'
+
+# doplneno z monografie Pechotni sruby (Suchanek-Fuksa 2025)
+alt_name: V lesíčku
+history: >-
+  Jeden z mála výrazně lomených pěchotních srubů. Projektanti se snažili lomení objektů držet pod
+  210 cm, aby ušetřili prostředky za drahé kopule a protože velké výškové rozložení komplikovalo
+  armování a snižovalo odolnost betonu; lomené objekty se proto vyskytovaly jen v omezeném
+  množství, především na Králicku.
+sources:
+  - title: "Čs. opevnění 1935–1938: Pěchotní sruby"
+    author: "Suchánek, Jiří – Fuksa, Ivan"
+    year: 2025
+    type: kniha
