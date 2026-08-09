@@ -7,7 +7,7 @@ period: "1936–1938"
 armament:
   - "Těžký kulomet vz. 37 (zbraň D) — kopule JA/D"
   - "Dvojče těžkých kulometů vz. 37 (zbraň M) — kopule JA/M"
-order: 50
+order: 61
 updated: 2026-08-08
 isComponent: true
 sources:

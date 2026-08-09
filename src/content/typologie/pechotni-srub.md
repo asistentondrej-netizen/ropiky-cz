@@ -333,11 +333,53 @@ Drobné rozdíly mezi zdroji vznikají podle toho, zda se za „dokončený" po�
 
 Rozdíly mezi úseky přitom byly obrovské: hraničářský pluk 19 měl v září 1938 všech svých 76 objektů hotových a 69 vyzbrojených, zatímco hraničářský pluk 5 disponoval **čtyřmi vybudovanými objekty a žádným vyzbrojeným**.
 
-### Izolované a tvrzové nasazení
+## Izolovaný a tvrzový pěchotní srub
 
 **Izolovaný pěchotní srub** a **tvrzový pěchotní srub** nejsou odlišné stavební typy — jde o **stejnou konstrukci v odlišném taktickém nasazení**. Označení „izolovaný" neznamená osamocený objekt v poli; v terminologii ŘOP jde o **srub, který není součástí tvrze**. Naprostá většina z nich stála v souvislé linii.
 
-Tvrzový srub je propojený podzemím s ostatními objekty a sdílí centrální zázemí (strojovnu, kasárna, sklady), takže bývá **menší na zázemí, ale mohutnější v pancéřování a výzbroji** — nejčastěji odolnost III. nebo IV. stupně. Detailně viz [dělostřelecká tvrz](/typologie/delostrelecka-tvrz).
+Dobový předpis oba popisuje jedním dechem: *„Pěchotní sruby tvoří souvislé pokračování linie isolovaných srubů v opevněném pásmu a mají týž úkol. Mohou býti oboustranné nebo jen jednostranné. Kromě spojení bočnou palbou se sousedními objekty a čelné palby do předpolí účastní se též blízké obrany tvrze."*
+
+V sestavě tvrze bývaly zpravidla **dva až čtyři** pěchotní sruby. Výjimky: Poustka měla mít pět, Smolkov jediný.
+
+### Čtyři rozdíly
+
+| | Tvrzový pěchotní srub | Izolovaný pěchotní srub |
+|---|---|---|
+| **Odolnost** | vždy **IV. stupeň** | podle potřeby, **nejvýše III.** |
+| **Vstup** | **žádný klasický vchod** — jediný běžně používaný vstup vede z podzemí výtahovou šachtou se schodištěm | vchod se zalomenou chodbičkou |
+| **Nasávání vzduchu** | ventilační zvon na stropě, u novějších tvrzí průduch v týlové stěně | vstupní chodbičkou |
+| **Nouzový výlez** | u některých, **80 × 100 cm**, do ochranného příkopu | — |
+
+**Absence vchodu** je nejnápadnější rozdíl. Vyústění výtahové šachty a schodiště bylo v horním patře odděleno **plynotěsnými dveřmi a přechodovou komorou**, aby tudy do nitra tvrze nepronikl kontaminovaný vzduch. Nouzový výlez, pokud existoval, jistila jedna vnitřní pistolová střílna, jedny mřížové, jedny pancéřové plynotěsné a jedny plechové plynotěsné dveře.
+
+S tím souvisí méně nápadná potíž: **odkud brát vzduch**. U izolovaných objektů se nasával vstupní chodbičkou, tu ale tvrzový srub nemá — a často nešlo vzduch odebírat ani z ochranného příkopu, kam ústil nouzový východ, protože tam padaly prázdné nábojnice se škodlivými výstřelovými zplodinami. Řešením byl buď ocelolitinový ventilační zvon na stropě (starší tvrze), nebo průduch v týlové stěně (novější tvrze) — takové místo muselo být perfektně chráněné granátovým skluzem i palbou lehkého kulometu z jiného objektu.
+
+### Tři výjimky
+
+**MO-S 20 „Orel"** a **K-S 24** (Bouda) měly nouzový východ řešený stejně jako běžný vstup do izolovaného srubu — u každého z jiného důvodu. MO-S 20 byl v podstatě vyprojektován jako izolovaný objekt a k zařazení do sestavy tvrze mělo dojít až později. U K-S 24 tento prvek zajišťoval ústup části mužstva z podzemních kasáren, protože nouzový východ v prostoru vyrovnávací šachty by kapacitně nedostačoval.
+
+**MO-S 40 „Nad silnicí"** (Smolkov) a **K-S 23** (Bouda) měly hlavní i pomocnou výzbroj **výhradně ve zvonech a kopulích**, byly zcela zapuštěny do terénu a nouzový východ u nich zcela chyběl.
+
+### Třípatrové výjimky a dvojí role
+
+Tvrzové sruby se projektovaly jako dvoupatrové; extrémně prudký svah si vynutil **třípatrovou dispozici** u **K-S 13 „U lomu"** (Hůrka; osádka 37 mužů, druhý největší vybetonovaný objekt svého druhu) a **T-S 72** (Stachelberg, nedokončen).
+
+Většina tvrzových „pěchoťáků" plnila navíc roli **dělostřelecké pozorovatelny** — k tomu sloužil dělostřelecký pozorovací zvon, výjimečně i zvon pro lehký kulomet. **Otočná kulometná věž OR** byla plánována na pěti srubech (K-S 10 „U boží muky", K-S 40 „U háječku", T-S 46, T-S 72 „Chlum" a objekt S-I tvrze Orlík), **9cm minomet vz. 38** v jediném (T-S 15, Jírová hora).
+
+### Sedmnáct vybetonovaných tvrzových srubů
+
+| Tvrz | Objekty |
+|---|---|
+| [Smolkov](/tvrze/smolkov) | MO-S 40 „Nad silnicí" |
+| [Hůrka](/tvrze/hurka) | K-S 10 „U boží muky", K-S 13 „U lomu" |
+| [Adam](/tvrze/adam) | K-S 39 „Hodek", K-S 40 „U háječku", K-S 41 „Pod vrškem" |
+| [Bouda](/tvrze/bouda) | K-S 21, K-S 23, K-S 24 |
+| [Hanička](/tvrze/hanicka) | R-S 76 „U lomu", R-S 77 „U pozorovatelny", R-S 80 „U potůčku" |
+| [Dobrošov](/tvrze/dobrosov) | N-S 72 „Můstek", N-S 73 „Jeřáb" |
+| [Skutina](/tvrze/skutina) | N-S 48 „U stodol", N-S 49 „Pod lesem" |
+| [Stachelberg](/tvrze/stachelberg) | T-S 73 „Polom" — jediný vybetonovaný objekt celé tvrze |
+
+Ostatní typy tvrzových objektů — [dělostřelecký srub](/typologie/delostrelecky-srub), [vchodový objekt](/typologie/vchodovy-objekt) a [dělostřelecká pozorovatelna](/typologie/delostrelecka-pozorovatelna) — mají vlastní stránky; celkový přehled najdete u [dělostřelecké tvrze](/typologie/delostrelecka-tvrz).
 
 ## Veřejně přístupné sruby
 

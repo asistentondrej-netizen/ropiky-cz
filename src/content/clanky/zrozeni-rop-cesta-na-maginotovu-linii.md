@@ -53,7 +53,7 @@ Pozdější přednosta stavebně-administrativní skupiny ŘOP **plukovník Ing.
 
 > *„V každé tvrzi byla jedna otočná dělová věž a kasematová dělostřelecká baterie pro boční palbu nebo i dvě, nějaký pěší objekt a vchod, vše spojeno soustavou rozsáhlých podzemních chodeb a prostor. Byla nám ukázána jedna otočná zvedací dělostřelecká věž s jedním dělem ráže asi 7,5 cm s poměrně krátkou hlavní, snad to byla houfnice."*
 
-Kdo zná [dispozici československých tvrzí](/typologie/delostrelecka-tvrz), poznává tu jejich budoucí schéma prakticky beze zbytku: [otočná věž](/typologie/delostrelecka-vez-ro), [dělostřelecké sruby](/typologie/delostrelecky-srub) pro boční palbu, [pěchotní sruby](/typologie/tvrzovy-pechotni-srub), [vchodový objekt](/typologie/vchodovy-objekt) a podzemí.
+Kdo zná [dispozici československých tvrzí](/typologie/delostrelecka-tvrz), poznává tu jejich budoucí schéma prakticky beze zbytku: [otočná věž](/typologie/delostrelecka-vez-ro), [dělostřelecké sruby](/typologie/delostrelecky-srub) pro boční palbu, [pěchotní sruby](/typologie/pechotni-srub), [vchodový objekt](/typologie/vchodovy-objekt) a podzemí.
 
 Hubálek se ale zajímal i o věci, na které mu nikdo neodpověděl:
 

@@ -7,8 +7,9 @@ period: "1935–1938"
 builtCount: 0
 armament:
   - "Dvojče 10cm houfnic vz. 38"
-order: 46
+order: 63
 updated: 2026-08-08
+isComponent: true
 isPrototype: true
 sources:
   - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"

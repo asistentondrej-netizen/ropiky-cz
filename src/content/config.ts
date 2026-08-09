@@ -49,6 +49,8 @@ const typologie = defineCollection({
     sources: z.array(z.string()).optional(),
     isComponent: z.boolean().default(false),
     isPrototype: z.boolean().default(false),
+    /** slug nadrazene typologie — objekt je soucasti vetsiho celku (napr. tvrzove objekty) */
+    parent: z.string().optional(),
   }),
 });
 

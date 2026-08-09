@@ -7,8 +7,9 @@ period: "1935–1938"
 builtCount: 0
 armament:
   - "Dvojče 12cm minometů B-12 (dříve plánováno dvojče 9cm minometů)"
-order: 47
+order: 64
 updated: 2026-08-08
+isComponent: true
 isPrototype: true
 sources:
   - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"

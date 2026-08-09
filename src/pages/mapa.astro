@@ -30,6 +30,8 @@ const typeLabels: Record<string, string> = {
   'delostrelecky-srub': 'Dělostřelecký srub',
   'vchodovy-objekt': 'Vchodový objekt tvrze',
   'minometny-srub': 'Minometný srub tvrze',
+  'objekt-pro-vez': 'Objekt pro dělostřeleckou věž',
+  'delostrelecka-pozorovatelna': 'Dělostřelecká pozorovatelna',
   'pechotni-srub': 'Pěchotní srub',
   'lo-vz-37': 'Řopík (LO vz. 37)',
   'lo-vz-36': 'LO vz. 36',
@@ -572,6 +574,8 @@ const stateLabels: Record<string, string> = {
         'delostrelecky-srub': '#7A3B2E',
         'vchodovy-objekt': '#7A3B2E',
         'minometny-srub': '#7A3B2E',
+        'objekt-pro-vez': '#7A3B2E',
+        'delostrelecka-pozorovatelna': '#7A3B2E',
         'pechotni-srub': '#8B5A3C',
         'lo-vz-37': '#5A6B4F',
         'lo-vz-36': '#7A8270',
@@ -582,7 +586,7 @@ const stateLabels: Record<string, string> = {
       function createMarker(p) {
         const color = typeColors[p.type] || '#444';
         const isMuseum = p.state === 'muzeum';
-        const size = p.type === 'delostrelecka-tvrz' ? 18 : (['pechotni-srub','delostrelecky-srub','vchodovy-objekt','minometny-srub'].includes(p.type) ? 14 : 11);
+        const size = p.type === 'delostrelecka-tvrz' ? 18 : (['pechotni-srub','delostrelecky-srub','vchodovy-objekt','minometny-srub','objekt-pro-vez','delostrelecka-pozorovatelna'].includes(p.type) ? 14 : 11);
         const ringStyle = isMuseum ? `box-shadow: 0 0 0 3px #2D5F3F, 0 1px 4px rgba(0,0,0,0.4);` : '';
 
         const icon = L.divIcon({

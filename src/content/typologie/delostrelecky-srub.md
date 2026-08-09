@@ -2,6 +2,7 @@
 title: "Dělostřelecký srub"
 code: "Dělostřelecký srub (TO tvrzový)"
 category: "tezke"
+parent: "delostrelecka-tvrz"
 description: "Největší objekt čs. opevnění — délka kolem 48 m a průměrně 5 500 m³ betonu. Tři 10cm houfnice vz. 38 v pancéřových střílnách pod betonem, boční palba do intervalů mezi tvrzemi. Vybetonováno bylo šest; houfnici nedostal ani jeden."
 period: "1936–1938"
 builtCount: 6

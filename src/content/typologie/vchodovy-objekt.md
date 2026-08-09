@@ -2,6 +2,7 @@
 title: "Vchodový objekt tvrze"
 code: "Vchodový objekt (TO tvrzový)"
 category: "tezke"
+parent: "delostrelecka-tvrz"
 description: "Logistická brána dělostřelecké tvrze na týlové straně kopce. Trojice uzávěrů včetně šestitunových pancéřových vrat zavírajících se za 15 vteřin, překladiště pro nákladní auta a napojení na podzemí svážnicí, výtahem nebo přímou chodbou. Vybetonováno pět."
 period: "1936–1938"
 builtCount: 5

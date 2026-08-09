@@ -2,6 +2,7 @@
 title: "Dělostřelecká pozorovatelna"
 code: "Dělostřelecká pozorovatelna (TO)"
 category: "tezke"
+parent: "delostrelecka-tvrz"
 description: "Objekt bez střílen hlavních zbraní, jehož jediným úkolem bylo vidět. Postaveny byly tři — K-S 12b „Utržený“, R-S 91 „Vrchol“ a MO-S 42 „Nad Hájem“. Dochovaly se pouze dva dělostřelecké pozorovací zvony v celé republice."
 period: "1936–1938"
 builtCount: 3
@@ -108,5 +109,5 @@ V mírových podmínkách měl probíhat intenzivní výcvik v pozorování jak 
 
 - [Pancéřový zvon](/typologie/pancerovy-zvon)
 - [Pozorovací kopule](/typologie/kopule-pozorovaci)
-- [Tvrzový pěchotní srub](/typologie/tvrzovy-pechotni-srub)
+- [Pěchotní srub — izolovaný a tvrzový](/typologie/pechotni-srub)
 - Článek: [Sruby bez dveří](/clanky/tvrzovy-pechotni-srub-a-pozorovatelny)

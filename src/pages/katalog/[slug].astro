@@ -69,6 +69,8 @@ const typeDrawing: Record<string, string> = {
   'delostrelecky-srub': '/img/typ-delostrelecka-tvrz.svg',
   'vchodovy-objekt': '/img/typ-delostrelecka-tvrz.svg',
   'minometny-srub': '/img/typ-delostrelecka-tvrz.svg',
+  'objekt-pro-vez': '/img/typ-delostrelecka-tvrz.svg',
+  'delostrelecka-pozorovatelna': '/img/typ-kopule-pozorovaci.svg',
   'lo-vz-37': '/img/typ-lo-vz-37.svg',
   'lo-vz-36': '/img/typ-lo-vz-36.svg',
   'pancerovy-zvon': '/img/typ-pancerovy-zvon.svg',
@@ -80,11 +82,20 @@ const typeNames: Record<string, string> = {
   'delostrelecky-srub': 'dělostřelecký srub',
   'vchodovy-objekt': 'vchodový objekt tvrze',
   'minometny-srub': 'minometný srub tvrze',
+  'objekt-pro-vez': 'objekt pro otočnou dělostřeleckou věž',
+  'delostrelecka-pozorovatelna': 'dělostřelecká pozorovatelna',
   'lo-vz-37': 'řopík LO vz. 37',
   'lo-vz-36': 'objekt LO vz. 36',
   'pancerovy-zvon': 'pancéřový zvon',
 };
 const typeName = typeNames[d.type] || d.type;
+
+// Nektere typy objektu nemaji vlastni stranku typologie — odkaz vede na nejblizsi spravnou
+const typeSlugMap: Record<string, string> = {
+  'objekt-pro-vez': 'delostrelecka-vez-ro',
+  'minometny-srub': 'minometna-kopule-g-ja',
+};
+const typeSlug = typeSlugMap[d.type] || d.type;
 
 const odolnostLabels: Record<string, string> = {
   'I': 'I. stupeň (60 cm / 3,5 kg TNT)',
@@ -323,7 +334,7 @@ const hasAsideContent = d.navsteva || hasRelated || true; // citace vždy
           <div class="fact-box">
             <div class="fact-box__label">Technický list</div>
             <dl>
-              <dt>Typ:</dt><dd><a href={`/typologie/${d.type}`}>{typeName}</a></dd>
+              <dt>Typ:</dt><dd><a href={`/typologie/${typeSlug}`}>{typeName}</a></dd>
               {d.tech?.typObjektu && (<><dt>Konkrétní typ:</dt><dd>{d.tech.typObjektu}</dd></>)}
               <dt>Úsek / linie:</dt><dd>{d.line}</dd>
               <dt>Kraj:</dt><dd>{d.region}</dd>

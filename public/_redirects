@@ -15,3 +15,6 @@
 
 # duplicitni zaznam R-S 79 "Na mytine" (tvrz Hanicka) slouceny do /katalog/r-h-s-79
 /katalog/r-s-79-na-mytine  /katalog/r-h-s-79  301
+
+# tvrzovy pechotni srub neni samostatny typ - stejna konstrukce v jinem taktickem nasazeni
+/typologie/tvrzovy-pechotni-srub  /typologie/pechotni-srub  301

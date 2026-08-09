@@ -7,8 +7,9 @@ period: "1935–1938"
 builtCount: 0
 armament:
   - "Těžký kulomet vz. 37 (zbraň M) ve dvou střílnách"
-order: 45
+order: 62
 updated: 2026-08-08
+isComponent: true
 isPrototype: true
 sources:
   - "Suchánek J., Fuksa I.: Čs. opevnění 1935–1938: Pěchotní sruby (Extra Publishing, Brno 2025)"

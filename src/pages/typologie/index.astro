@@ -10,7 +10,9 @@ const isSpecial = (t: any) => t.data.isComponent === true || t.data.isPrototype 
 
 const lehkeMain     = typologie.filter((t) => t.data.category === 'lehke' && !isSpecial(t));
 const lehkeSpecial  = typologie.filter((t) => t.data.category === 'lehke' &&  isSpecial(t));
-const tezkeMain     = typologie.filter((t) => t.data.category === 'tezke' && !isSpecial(t));
+// Objekty se samostatnou existenci vs. objekty, ktere jsou soucasti vetsiho celku (tvrze)
+const tezkeMain     = typologie.filter((t) => t.data.category === 'tezke' && !isSpecial(t) && !t.data.parent);
+const tezkeTvrzove  = typologie.filter((t) => t.data.category === 'tezke' && !isSpecial(t) &&  t.data.parent === 'delostrelecka-tvrz');
 const tezkeSpecial  = typologie.filter((t) => t.data.category === 'tezke' &&  isSpecial(t));
 ---
 
@@ -69,7 +71,7 @@ const tezkeSpecial  = typologie.filter((t) => t.data.category === 'tezke' &&  is
               const isComp = t.data.isComponent === true;
               const isProto = t.data.isPrototype === true;
               const cls = ['typology-card', isComp ? 'typology-card--component' : '', isProto ? 'typology-card--prototype' : ''].filter(Boolean).join(' ');
-              const badge = isComp ? 'Komponenta' : (isProto ? 'Prototyp' : null);
+              const badge = isComp && isProto ? 'Prvek · prototyp' : (isComp ? 'Pancéřový prvek' : (isProto ? 'Prototyp' : null));
               return (
                 <a href={`/typologie/${t.slug}`} class={cls}>
                   {badge && (<span class="typology-card__badge">{badge}</span>)}
@@ -119,9 +121,38 @@ const tezkeSpecial  = typologie.filter((t) => t.data.category === 'tezke' &&  is
         ))}
       </div>
 
+      {tezkeTvrzove.length > 0 && (
+        <div class="typology-special">
+          <h3 class="typology-special__title">Objekty v sestavě dělostřelecké tvrze</h3>
+          <p class="typology-special__lead">
+            Samostatně nikde nestojí — jsou to specializované objekty, které dávají smysl jen jako část
+            <a href="/typologie/delostrelecka-tvrz"> tvrze</a>, propojené s ostatními podzemím.
+            Tvrzové <a href="/typologie/pechotni-srub">pěchotní sruby</a> mají stejnou konstrukci jako izolované,
+            a najdete je proto přímo u pěchotního srubu.
+          </p>
+          <div class="typology-grid typology-grid--special">
+            {tezkeTvrzove.map((t) => (
+              <a href={`/typologie/${t.slug}`} class="typology-card">
+                <span class="typology-card__badge">Součást tvrze</span>
+                <div class="typology-card__icon" aria-hidden="true">
+                  <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
+                </div>
+                <div class="typology-card__code">{t.data.code}</div>
+                <h3>{t.data.title}</h3>
+                <div class="typology-card__meta">
+                  <span>{t.data.period}</span>
+                  {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
+                </div>
+                <p>{t.data.description}</p>
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+
       {tezkeSpecial.length > 0 && (
         <div class="typology-special">
-          <h3 class="typology-special__title">Komponenty</h3>
+          <h3 class="typology-special__title">Pancéřové prvky a prototypy</h3>
           <p class="typology-special__lead">
             Samostatné prvky, které jsou součástí pěchotního srubu nebo dělostřelecké tvrze — ne celé objekty.
           </p>
@@ -130,7 +161,7 @@ const tezkeSpecial  = typologie.filter((t) => t.data.category === 'tezke' &&  is
               const isComp = t.data.isComponent === true;
               const isProto = t.data.isPrototype === true;
               const cls = ['typology-card', isComp ? 'typology-card--component' : '', isProto ? 'typology-card--prototype' : ''].filter(Boolean).join(' ');
-              const badge = isComp ? 'Komponenta' : (isProto ? 'Prototyp' : null);
+              const badge = isComp && isProto ? 'Prvek · prototyp' : (isComp ? 'Pancéřový prvek' : (isProto ? 'Prototyp' : null));
               return (
                 <a href={`/typologie/${t.slug}`} class={cls}>
                   {badge && (<span class="typology-card__badge">{badge}</span>)}

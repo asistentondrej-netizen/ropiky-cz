@@ -8,7 +8,7 @@ isComponent: true
 armament:
   - "Lehký kulomet vz. 26 (pro palební zvony)"
   - "Pozorovací prostředky — stereoperiskop, dálkoměr"
-order: 40
+order: 60
 updated: 2026-04-18
 sources:
   - "Jan Lakosil: Pancéřové zvony čs. opevnění"
