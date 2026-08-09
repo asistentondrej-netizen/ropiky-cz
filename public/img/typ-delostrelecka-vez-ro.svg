@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="Otočná a výsuvná dělostřelecká věž RO — schéma">
+  <rect width="200" height="140" fill="#F1ECE0"/>
+  <path d="M 0 56 L 200 56 L 200 140 L 0 140 Z" fill="#5C6B3A" opacity="0.35"/>
+  <!-- 360° palebný vějíř -->
+  <g opacity="0.45" stroke="#7A3B2E" stroke-width="1" stroke-dasharray="3 3" fill="none">
+    <path d="M 46 40 A 54 54 0 0 1 154 40"/>
+    <line x1="100" y1="40" x2="52" y2="18"/>
+    <line x1="100" y1="40" x2="148" y2="18"/>
+    <line x1="100" y1="40" x2="100" y2="8"/>
+  </g>
+  <!-- železobetonový objekt, stěny 3,5 m -->
+  <g transform="translate(48 56)">
+    <rect x="0" y="0" width="104" height="62" fill="#8B7D62" stroke="#1A1612" stroke-width="1.5"/>
+    <!-- silné obvodové stěny -->
+    <rect x="0" y="0" width="16" height="62" fill="#7A6E55"/>
+    <rect x="88" y="0" width="16" height="62" fill="#7A6E55"/>
+    <line x1="0" y1="32" x2="104" y2="32" stroke="#5A4E3A" stroke-width="0.9" opacity="0.6"/>
+    <!-- protizávaží -->
+    <rect x="42" y="40" width="20" height="16" rx="1.5" fill="#4E4739" stroke="#1A1612" stroke-width="1"/>
+    <g stroke="#1A1612" stroke-width="0.9">
+      <line x1="46" y1="40" x2="42" y2="18"/>
+      <line x1="58" y1="40" x2="62" y2="18"/>
+    </g>
+  </g>
+  <!-- předpancíř zabetonovaný -->
+  <path d="M 68 56 L 74 44 L 126 44 L 132 56 Z" fill="#4E4739" stroke="#1A1612" stroke-width="1.2"/>
+  <!-- vysunutá věž -->
+  <rect x="82" y="30" width="36" height="16" fill="#5E5646" stroke="#1A1612" stroke-width="1.4"/>
+  <path d="M 82 30 Q 100 16 118 30 Z" fill="#5E5646" stroke="#1A1612" stroke-width="1.4"/>
+  <!-- dvojče 10cm houfnic -->
+  <g stroke="#1A1612" stroke-width="3.2" stroke-linecap="round">
+    <line x1="96" y1="30" x2="76" y2="21"/>
+    <line x1="104" y1="30" x2="84" y2="21"/>
+  </g>
+  <!-- šipka vysouvání 70 cm -->
+  <g stroke="#7A3B2E" stroke-width="1.2" fill="#7A3B2E" opacity="0.8">
+    <line x1="140" y1="30" x2="140" y2="52"/>
+    <path d="M 140 26 L 137 33 L 143 33 Z"/>
+    <path d="M 140 56 L 137 49 L 143 49 Z"/>
+  </g>
+  <!-- šachta do podzemí -->
+  <g stroke="#7A3B2E" stroke-width="1" stroke-dasharray="2 3" fill="none" opacity="0.7">
+    <line x1="100" y1="118" x2="100" y2="122"/>
+    <path d="M 100 122 L 176 122"/>
+  </g>
+  <text x="100" y="134" text-anchor="middle" font-family="monospace" font-size="9" fill="#1A1612" opacity="0.6">443 t oceli — kruhová palba 360°</text>
+</svg>

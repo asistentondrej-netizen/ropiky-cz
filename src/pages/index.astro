@@ -5,6 +5,7 @@ import FortCard from '../components/FortCard.astro';
 import JsonLd from '../components/JsonLd.astro';
 import { organization, webSite } from '../lib/schema';
 import SmartImage from '../components/SmartImage.astro';
+import TypologyCard from '../components/TypologyCard.astro';
 import { CARD_SIZES } from '../lib/wikimedia';
 
 const obtiznostLabel: Record<string, string> = {
@@ -23,9 +24,12 @@ const typologie = (await getCollection('typologie')).sort(
   (a, b) => a.data.order - b.data.order
 );
 
-// Rozdělení: hlavní typy objektů vs. speciální (komponenta, prototyp)
-const typMain = typologie.filter((t) => !t.data.isComponent && !t.data.isPrototype);
-const typSpecial = typologie.filter((t) => t.data.isComponent || t.data.isPrototype);
+// Rozdeleni musi odpovidat prehledu /typologie:
+// 1) hlavni typy objektu, 2) objekty v sestave tvrze, 3) pancerove prvky a prototypy
+const isSpecialTyp = (t: any) => t.data.isComponent === true || t.data.isPrototype === true;
+const typMain = typologie.filter((t) => !isSpecialTyp(t) && !t.data.parent);
+const typTvrzove = typologie.filter((t) => !isSpecialTyp(t) && !!t.data.parent);
+const typSpecial = typologie.filter((t) => isSpecialTyp(t));
 
 // Výběr pevností pro úvodní stranu — typově různorodá showcase
 // (tvrze + sruby + řopíky), preferuj objekty s fotkou.
@@ -91,7 +95,7 @@ const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.dat
           <dt>Postaveno do 9/1938</dt><dd>~ 10 000 objektů</dd>
           <dt>Hlavní obranná linie</dt><dd>přes 1 000 km</dd>
           <dt>Období výstavby</dt><dd>1935–1938</dd>
-          <dt>Dělostřeleckých tvrzí</dt><dd>8 zahájeno, 5 dokončeno</dd>
+          <dt>Dělostřeleckých tvrzí</dt><dd>17 plánováno, 5 dokončeno</dd>
         </dl>
       </aside>
     </div>
@@ -111,71 +115,38 @@ const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.dat
         </div>
       </header>
 
-      {(() => {
-        const iconMap = {
-          'lo-vz-36': '/img/typ-lo-vz-36.svg',
-          'lo-vz-37': '/img/typ-lo-vz-37.svg',
-          'pechotni-srub': '/img/typ-pechotni-srub.svg',
-          'delostrelecka-tvrz': '/img/typ-delostrelecka-tvrz.svg',
-          'delostrelecky-srub': '/img/typ-delostrelecka-tvrz.svg',
-          'vchodovy-objekt': '/img/typ-delostrelecka-tvrz.svg',
-          'minometny-srub': '/img/typ-delostrelecka-tvrz.svg',
-          'objekt-pro-vez': '/img/typ-delostrelecka-tvrz.svg',
-          'delostrelecka-pozorovatelna': '/img/typ-kopule-pozorovaci.svg',
-          'pancerovy-zvon': '/img/typ-pancerovy-zvon.svg',
-          'kopule-pozorovaci': '/img/typ-kopule-pozorovaci.svg',
-        };
-        const cardFor = (t) => {
-          const icon = iconMap[t.slug] || null;
-          const isComp = t.data.isComponent === true;
-          const isProto = t.data.isPrototype === true;
-          const cls = [
-            'typology-card',
-            isComp ? 'typology-card--component' : '',
-            isProto ? 'typology-card--prototype' : '',
-          ].filter(Boolean).join(' ');
-          const badge = isComp ? 'Komponenta' : (isProto ? 'Prototyp' : null);
-          const badgeTitle = isComp
-            ? 'Komponenta — součást pěchotního srubu nebo tvrze, ne samostatný objekt'
-            : 'Prototyp — pokusný typ bez sériové výstavby';
-          return (
-            <a href={`/typologie/${t.slug}`} class={cls}>
-              {badge && (<span class="typology-card__badge" title={badgeTitle}>{badge}</span>)}
-              {icon && (
-                <div class="typology-card__icon" aria-hidden="true">
-                  <img src={icon} alt="" loading="lazy" />
-                </div>
-              )}
-              <div class="typology-card__code">{t.data.code}</div>
-              <h3>{t.data.title}</h3>
-              <div class="typology-card__meta">
-                <span>{t.data.period}</span>
-                {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
-              </div>
-              <p>{t.data.description}</p>
-            </a>
-          );
-        };
-        return (
-          <>
-            <div class="typology-grid">
-              {typMain.map(cardFor)}
-            </div>
+      <div class="typology-grid">
+        {typMain.map((t) => <TypologyCard entry={t} />)}
+      </div>
 
-            {typSpecial.length > 0 && (
-              <div class="typology-special">
-                <h3 class="typology-special__title">Speciální případy</h3>
-                <p class="typology-special__lead">
-                  Komponenty pevností a nesériové prototypy — v <a href="/katalog">katalogu</a> ani v <a href="/mapa">mapě</a> je samostatně nenajdete.
-                </p>
-                <div class="typology-grid typology-grid--special">
-                  {typSpecial.map(cardFor)}
-                </div>
-              </div>
-            )}
-          </>
-        );
-      })()}
+      {typTvrzove.length > 0 && (
+        <div class="typology-special">
+          <h3 class="typology-special__title">Objekty v sestavě dělostřelecké tvrze</h3>
+          <p class="typology-special__lead">
+            Samostatně nikde nestojí — dávají smysl jen jako část
+            <a href="/typologie/delostrelecka-tvrz"> tvrze</a>, propojené podzemím.
+          </p>
+          <div class="typology-grid typology-grid--special">
+            {typTvrzove.map((t) => <TypologyCard entry={t} />)}
+          </div>
+        </div>
+      )}
+
+      {typSpecial.length > 0 && (
+        <div class="typology-special">
+          <h3 class="typology-special__title">Pancéřové prvky a prototypy</h3>
+          <p class="typology-special__lead">
+            Součásti objektů a nesériové prototypy — v <a href="/katalog">katalogu</a> ani v <a href="/mapa">mapě</a> je samostatně nenajdete.
+          </p>
+          <div class="typology-grid typology-grid--special">
+            {typSpecial.map((t) => <TypologyCard entry={t} />)}
+          </div>
+        </div>
+      )}
+
+      <p style="margin-top: var(--s5);">
+        <a href="/typologie" class="btn btn--ghost">Celý přehled typologie →</a>
+      </p>
     </div>
   </section>
 

@@ -1,0 +1,62 @@
+---
+/**
+ * Jednotna karta typologie — pouziva se na titulni strane i v prehledu /typologie.
+ * Diky sdilene komponente nemuze dojit k rozjeti obou prehledu.
+ */
+export interface Props {
+  entry: any;
+  /** vynuti konkretni odznak; jinak se odvodi z frontmatteru */
+  badge?: string | null;
+}
+
+const { entry, badge: badgeOverride } = Astro.props;
+const d = entry.data;
+
+const isComp = d.isComponent === true;
+const isProto = d.isPrototype === true;
+const isTvrzovy = !!d.parent;
+
+const cls = [
+  'typology-card',
+  isComp ? 'typology-card--component' : '',
+  isProto ? 'typology-card--prototype' : '',
+  isTvrzovy ? 'typology-card--tvrzovy' : '',
+].filter(Boolean).join(' ');
+
+const badge =
+  badgeOverride !== undefined
+    ? badgeOverride
+    : isComp && isProto
+      ? 'Prvek · prototyp'
+      : isComp
+        ? 'Pancéřový prvek'
+        : isProto
+          ? 'Prototyp'
+          : isTvrzovy
+            ? 'Součást tvrze'
+            : null;
+
+const badgeTitle = isComp
+  ? 'Pancéřový prvek — součást objektu, ne samostatný objekt'
+  : isProto
+    ? 'Prototyp — pokusný typ bez sériové výstavby'
+    : isTvrzovy
+      ? 'Objekt, který dává smysl jen jako součást dělostřelecké tvrze'
+      : undefined;
+
+const icon = `/img/typ-${entry.slug}.svg`;
+---
+
+<a href={`/typologie/${entry.slug}`} class={cls}>
+  {badge && <span class="typology-card__badge" title={badgeTitle}>{badge}</span>}
+  <div class="typology-card__icon" aria-hidden="true">
+    <img src={icon} alt="" loading="lazy" onerror="this.closest('.typology-card__icon').style.display='none'" />
+  </div>
+  <div class="typology-card__code">{d.code}</div>
+  <h3>{d.title}</h3>
+  <div class="typology-card__meta">
+    <span>{d.period}</span>
+    {d.builtCount ? <span>{d.builtCount.toLocaleString('cs-CZ')} ks</span> : null}
+  </div>
+  <p>{d.description}</p>
+</a>

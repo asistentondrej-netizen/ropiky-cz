@@ -39,7 +39,7 @@ Je pravda, že ne všechny dodávky betonu měly stejnou kvalitu — v rámci �
 | Typ | Plán | Hotovo | % |
 | --- | --- | --- | --- |
 | Těžké objekty | 1 276 | 263 | ~ 21 % |
-| Dělostřelecké tvrze | 13 zadáno | 8 zahájeno, 5 stavebně dokončeno | — |
+| Dělostřelecké tvrze | 17 plánováno | 9 zahájeno, 5 stavebně dokončeno | — |
 | Lehké objekty vz. 37 | 15 463 | 9 632 | ~ 62 % |
 
 Celkově tedy ano — opevnění nebylo hotové. Ale tento průměr **zastírá strategické rozložení**. Severní hranice od Moravské Ostravy přes Jeseníky a Orlické hory po Krkonoše — tedy směr hlavního předpokládaného útoku — byla **pokryta nejhustěji z celého systému**. Slabé byly jižní a jihomoravské úseky, dostavované od roku 1938 po anšlusu Rakouska.

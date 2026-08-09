@@ -1,18 +1,21 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import TypologyCard from '../../components/TypologyCard.astro';
 import { getCollection } from 'astro:content';
 
 const typologie = (await getCollection('typologie')).sort(
   (a, b) => a.data.order - b.data.order
 );
 
+// Pancerove prvky a prototypy — nejsou to samostatne objekty
 const isSpecial = (t: any) => t.data.isComponent === true || t.data.isPrototype === true;
+// Objekty, ktere existuji jen jako soucast vetsiho celku (delostrelecke tvrze)
+const isTvrzovy = (t: any) => !!t.data.parent;
 
-const lehkeMain     = typologie.filter((t) => t.data.category === 'lehke' && !isSpecial(t));
+const lehkeMain     = typologie.filter((t) => t.data.category === 'lehke' && !isSpecial(t) && !isTvrzovy(t));
 const lehkeSpecial  = typologie.filter((t) => t.data.category === 'lehke' &&  isSpecial(t));
-// Objekty se samostatnou existenci vs. objekty, ktere jsou soucasti vetsiho celku (tvrze)
-const tezkeMain     = typologie.filter((t) => t.data.category === 'tezke' && !isSpecial(t) && !t.data.parent);
-const tezkeTvrzove  = typologie.filter((t) => t.data.category === 'tezke' && !isSpecial(t) &&  t.data.parent === 'delostrelecka-tvrz');
+const tezkeMain     = typologie.filter((t) => t.data.category === 'tezke' && !isSpecial(t) && !isTvrzovy(t));
+const tezkeTvrzove  = typologie.filter((t) => t.data.category === 'tezke' && !isSpecial(t) &&  isTvrzovy(t));
 const tezkeSpecial  = typologie.filter((t) => t.data.category === 'tezke' &&  isSpecial(t));
 ---
 
@@ -44,20 +47,7 @@ const tezkeSpecial  = typologie.filter((t) => t.data.category === 'tezke' &&  is
       </header>
 
       <div class="typology-grid">
-        {lehkeMain.map((t) => (
-          <a href={`/typologie/${t.slug}`} class="typology-card">
-            <div class="typology-card__icon" aria-hidden="true">
-              <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
-            </div>
-            <div class="typology-card__code">{t.data.code}</div>
-            <h3>{t.data.title}</h3>
-            <div class="typology-card__meta">
-              <span>{t.data.period}</span>
-              {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
-            </div>
-            <p>{t.data.description}</p>
-          </a>
-        ))}
+        {lehkeMain.map((t) => <TypologyCard entry={t} />)}
       </div>
 
       {lehkeSpecial.length > 0 && (
@@ -67,27 +57,7 @@ const tezkeSpecial  = typologie.filter((t) => t.data.category === 'tezke' &&  is
             Prototypy a nesériové varianty — v <a href="/katalog">katalogu</a> ani v <a href="/mapa">mapě</a> je samostatně nenajdete.
           </p>
           <div class="typology-grid typology-grid--special">
-            {lehkeSpecial.map((t) => {
-              const isComp = t.data.isComponent === true;
-              const isProto = t.data.isPrototype === true;
-              const cls = ['typology-card', isComp ? 'typology-card--component' : '', isProto ? 'typology-card--prototype' : ''].filter(Boolean).join(' ');
-              const badge = isComp && isProto ? 'Prvek · prototyp' : (isComp ? 'Pancéřový prvek' : (isProto ? 'Prototyp' : null));
-              return (
-                <a href={`/typologie/${t.slug}`} class={cls}>
-                  {badge && (<span class="typology-card__badge">{badge}</span>)}
-                  <div class="typology-card__icon" aria-hidden="true">
-                    <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
-                  </div>
-                  <div class="typology-card__code">{t.data.code}</div>
-                  <h3>{t.data.title}</h3>
-                  <div class="typology-card__meta">
-                    <span>{t.data.period}</span>
-                    {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
-                  </div>
-                  <p>{t.data.description}</p>
-                </a>
-              );
-            })}
+            {lehkeSpecial.map((t) => <TypologyCard entry={t} />)}
           </div>
         </div>
       )}
@@ -105,20 +75,7 @@ const tezkeSpecial  = typologie.filter((t) => t.data.category === 'tezke' &&  is
       </header>
 
       <div class="typology-grid">
-        {tezkeMain.map((t) => (
-          <a href={`/typologie/${t.slug}`} class="typology-card">
-            <div class="typology-card__icon" aria-hidden="true">
-              <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
-            </div>
-            <div class="typology-card__code">{t.data.code}</div>
-            <h3>{t.data.title}</h3>
-            <div class="typology-card__meta">
-              <span>{t.data.period}</span>
-              {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
-            </div>
-            <p>{t.data.description}</p>
-          </a>
-        ))}
+        {tezkeMain.map((t) => <TypologyCard entry={t} />)}
       </div>
 
       {tezkeTvrzove.length > 0 && (
@@ -131,21 +88,7 @@ const tezkeSpecial  = typologie.filter((t) => t.data.category === 'tezke' &&  is
             a najdete je proto přímo u pěchotního srubu.
           </p>
           <div class="typology-grid typology-grid--special">
-            {tezkeTvrzove.map((t) => (
-              <a href={`/typologie/${t.slug}`} class="typology-card">
-                <span class="typology-card__badge">Součást tvrze</span>
-                <div class="typology-card__icon" aria-hidden="true">
-                  <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
-                </div>
-                <div class="typology-card__code">{t.data.code}</div>
-                <h3>{t.data.title}</h3>
-                <div class="typology-card__meta">
-                  <span>{t.data.period}</span>
-                  {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
-                </div>
-                <p>{t.data.description}</p>
-              </a>
-            ))}
+            {tezkeTvrzove.map((t) => <TypologyCard entry={t} />)}
           </div>
         </div>
       )}
@@ -157,27 +100,7 @@ const tezkeSpecial  = typologie.filter((t) => t.data.category === 'tezke' &&  is
             Samostatné prvky, které jsou součástí pěchotního srubu nebo dělostřelecké tvrze — ne celé objekty.
           </p>
           <div class="typology-grid typology-grid--special">
-            {tezkeSpecial.map((t) => {
-              const isComp = t.data.isComponent === true;
-              const isProto = t.data.isPrototype === true;
-              const cls = ['typology-card', isComp ? 'typology-card--component' : '', isProto ? 'typology-card--prototype' : ''].filter(Boolean).join(' ');
-              const badge = isComp && isProto ? 'Prvek · prototyp' : (isComp ? 'Pancéřový prvek' : (isProto ? 'Prototyp' : null));
-              return (
-                <a href={`/typologie/${t.slug}`} class={cls}>
-                  {badge && (<span class="typology-card__badge">{badge}</span>)}
-                  <div class="typology-card__icon" aria-hidden="true">
-                    <img src={`/img/typ-${t.slug}.svg`} alt="" loading="lazy" onerror="this.style.display='none'" />
-                  </div>
-                  <div class="typology-card__code">{t.data.code}</div>
-                  <h3>{t.data.title}</h3>
-                  <div class="typology-card__meta">
-                    <span>{t.data.period}</span>
-                    {t.data.builtCount && <span>{t.data.builtCount.toLocaleString('cs-CZ')} ks</span>}
-                  </div>
-                  <p>{t.data.description}</p>
-                </a>
-              );
-            })}
+            {tezkeSpecial.map((t) => <TypologyCard entry={t} />)}
           </div>
         </div>
       )}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="Dělostřelecká pozorovatelna — schéma">
+  <rect width="200" height="140" fill="#F1ECE0"/>
+  <path d="M 0 112 L 200 112 L 200 140 L 0 140 Z" fill="#5C6B3A" opacity="0.35"/>
+  <!-- objekt zapuštěný pod terén, tři podlaží -->
+  <g transform="translate(62 30)">
+    <path d="M 0 14 L 10 2 L 66 2 L 76 14 L 76 82 L 0 82 Z" fill="#8B7D62" stroke="#1A1612" stroke-width="1.5"/>
+    <path d="M 0 14 L 10 2 L 66 2 L 76 14 L 76 22 L 0 22 Z" fill="#7A6E55"/>
+    <!-- dělicí čáry podlaží -->
+    <line x1="0" y1="42" x2="76" y2="42" stroke="#5A4E3A" stroke-width="0.9" opacity="0.6"/>
+    <line x1="0" y1="62" x2="76" y2="62" stroke="#5A4E3A" stroke-width="0.9" opacity="0.6"/>
+    <!-- pěchotní zvon (nejvyšší patro) -->
+    <ellipse cx="22" cy="2" rx="12" ry="4.5" fill="#5E5646" stroke="#1A1612" stroke-width="1"/>
+    <g fill="#1A1612" opacity="0.85">
+      <rect x="12" y="-1" width="4" height="3"/>
+      <rect x="20" y="-2" width="4" height="3"/>
+      <rect x="28" y="-1" width="4" height="3"/>
+    </g>
+    <!-- dělostřelecký pozorovací zvon — bez střílen, s periskopem -->
+    <ellipse cx="56" cy="0" rx="13" ry="5" fill="#4E4739" stroke="#1A1612" stroke-width="1.2"/>
+    <path d="M 43 0 L 43 -8 Q 56 -18 69 -8 L 69 0 Z" fill="#4E4739" stroke="#1A1612" stroke-width="1.2"/>
+    <!-- vnitřní košilka 20 mm -->
+    <path d="M 47 -3 Q 56 -13 65 -3" fill="none" stroke="#F1ECE0" stroke-width="1" opacity="0.7"/>
+    <!-- periskop -->
+    <line x1="56" y1="-14" x2="56" y2="-26" stroke="#1A1612" stroke-width="2.4"/>
+    <rect x="52" y="-30" width="9" height="5" rx="1" fill="#1A1612"/>
+    <!-- průzory -->
+    <rect x="45" y="-6" width="4" height="3" fill="#1A1612"/>
+    <rect x="63" y="-6" width="4" height="3" fill="#1A1612"/>
+    <!-- střílna pro lehký kulomet krytí vchodu -->
+    <rect x="6" y="48" width="14" height="6" rx="1" fill="#1A1612"/>
+  </g>
+  <!-- pozorovací kužel -->
+  <g opacity="0.5" stroke="#7A3B2E" stroke-width="1" stroke-dasharray="4 3" fill="none">
+    <line x1="118" y1="6" x2="196" y2="34"/>
+    <line x1="118" y1="6" x2="196" y2="66"/>
+  </g>
+  <text x="100" y="134" text-anchor="middle" font-family="monospace" font-size="9" fill="#1A1612" opacity="0.6">bez hlavních zbraní — jen pozorování</text>
+</svg>

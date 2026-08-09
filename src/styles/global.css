@@ -635,6 +635,13 @@ section { padding: var(--s7) 0; }
 .typology-card--prototype .typology-card__badge {
   background: #7A3B2E;
 }
+/* Objekt v sestave delostrelecke tvrze — plny ram, ale odlisena leva hrana */
+.typology-card--tvrzovy {
+  border-left: 3px solid var(--khaki, #7A8270);
+}
+.typology-card--tvrzovy .typology-card__badge {
+  background: #5C6B3A;
+}
 
 /* Oddělený blok "speciální případy / komponenty" */
 .typology-special {

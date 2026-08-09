@@ -94,7 +94,7 @@ Lidové pojmenování **„řopík"** — dodnes nejběžnější označení pro
 | Položka | Plán | Realizace do 9/1938 |
 | --- | --- | --- |
 | Těžké objekty | 1 276 | 263 |
-| Dělostřelecké tvrze | 13 zadáno | 8 zahájeno, 5 stavebně dokončeno |
+| Dělostřelecké tvrze | 17 plánováno | 9 zahájeno, 5 stavebně dokončeno |
 | Lehké objekty vz. 36 | — | 864 |
 | Lehké objekty vz. 37 | 15 463 | 9 632 |
 | Rozpočet | 10,9 mld. Kč | ~ 2,2 mld. Kč investováno |

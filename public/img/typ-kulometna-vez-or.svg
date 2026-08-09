@@ -28,5 +28,5 @@
     <line x1="78" y1="53" x2="40" y2="62"/>
     <line x1="122" y1="53" x2="160" y2="62"/>
   </g>
-  <text x="100" y="132" text-anchor="middle" font-family="monospace" font-size="9" fill="#1A1612" opacity="0.6">OR — otočná kulometná věž (nerealizována)</text>
+  <text x="100" y="132" text-anchor="middle" font-family="monospace" font-size="9" fill="#1A1612" opacity="0.6">OR — otočná kulometná věž, 360°</text>
 </svg>
