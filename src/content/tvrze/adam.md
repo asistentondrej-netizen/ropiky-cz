@@ -122,3 +122,24 @@ Asi 500 m jihozápadně od vchodu do tvrze musela být silnice opatřena točnou
 Zápis podepsali v Králíkách 10. prosince 1935 pplk. stav. **Josef Hubálek**, plk. **Bruno Sklenovský** a plk. žen. **Jan Čermák**.
 
 > Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/5/2-4, s. 34 a sign. 1935/5/2-3–2/7, s. 18–19.
+
+## Původní skladba tvrze a osádky podle plánu z roku 1935
+
+Rok předtím, než se na Adamově hoře začalo stavět, měl hlavní štáb–ŘOP hotové první „zatímní počty“ osádek. Rukopisné tabulky zpracoval **mjr. gšt. František Podroužek**, prošly pěchotní i dělostřeleckou skupinou (pplk. Malec, plk. Sklenovský) a schválil je **gen. Husárek**.
+
+Podle přílohy č. 1 se tvrz Adam skládala z velitelství, **pěchotních srubů 39, 40 a 41**, **dělostřelecké otočné věže 42**, **dělostřeleckého srubu 43**, **vchodu do podzemí 43a**, **minometné věže 44** a **dělostřeleckého srubu 45**. Skladba tedy odpovídá objektům, které byly nakonec vybetonovány — už v roce 1935 se tak počítalo se dvěma dělostřeleckými sruby, minometnou věží i otočnou dělostřeleckou věží.
+
+### Kdo měl obsluhovat dělostřelecký srub č. 43
+
+Nejpodrobněji dochovaná tabulka patří dělostřeleckému srubu **č. 43 (pozdější K-S 43 „Veverka")**. Osádka je v ní rozdělena na horní patro a podzemí srubu:
+
+| Část srubu | Důstojníci | Rotmistři | Poddůstojníci | Vojíni |
+|---|---|---|---|---|
+| horní patro (u zbraní) | 1 | 1 | 11 | 39 |
+| podzemí srubu | 2 | 1 | 7 | 24 |
+
+V horním patře sloužila **obsluha tří děl** rozepsaná po funkcích: dělovodi, mířiči a jejich pomocníci, podavači, nabíječi, střelci a časovači, dále devět vojínů na přípravu náplní a výpravu při dopravě střeliva k dělům, čtyři na obsluhu zdviže, dva na větrání, dva na lehký kulomet ve zvonu a jeden na kulomet v kaponiéře; k tomu výkonný rotmistr, zbrojní poddůstojník a telefonní poddůstojník. V podzemí srubu byl velitel baterie s ordonančním poddůstojníkem, počtáři, dělmistr s pomocníkem a municiačním poddůstojníkem, obsluha telefonní ústředny, dopravci střeliva ze skladiště M2 ke zdviži a devítičlenná záloha.
+
+Tabulky současně rozlišovaly, kolik lidí je „u zbraní“ a kolik „v kasárnách“, a evidovaly počty lůžek a pryčen — mírové ubytování se tedy plánovalo souběžně s bojovým obsazením.
+
+> Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/38/2-1 (čj. 6736 taj. hl. št. ŘOP 1935), s. 31, a sign. 1935/38/2-1, příloha 13, s. 1.

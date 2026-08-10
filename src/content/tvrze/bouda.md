@@ -120,3 +120,11 @@ V širším plánu komunikací opevněného prostoru Orlické hory – Šerák s
 Zápis komise podepsali v Králíkách 10. prosince 1935 pplk. stav. **Josef Hubálek**, plk. **Bruno Sklenovský** a plk. žen. **Jan Čermák**.
 
 > Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/5/2-4, s. 32 a 34, a sign. 1935/5/2-3–2/7, s. 18–19.
+
+## Rozpracovanost „Baudenkoppe" k 21. říjnu 1935
+
+Rok před zahájením stavby figurovala Bouda ve spisech ŘOP pod krycím jménem **Baudenkoppe** a tvořily ji objekty **21, 22, 23 a 24**. Zpráva o přehlídce prací v úseku Králíky, sepsaná ke stavu **21. října 1935**, ukazuje, že tvrz byla připravena jen zpola: **tachymetrické plány** všech čtyř objektů už hotové byly, **plán palby** naopak u Baudenkoppe zatím chyběl — jako jediné z králických tvrzí. Jeho dokončení dostal za úkol **npor. Ing. Vladimír Resner** společně s **kpt. Marcelem Forcevillem** z francouzské vojenské mise; komise na to počítala tři dny.
+
+Práce v terénu tehdy dobíhaly v závodě s počasím. Na sousední Haničce už 21. října padal sníh a komise navrhla celou králickou podskupinu zlikvidovat k 9. listopadu; náčelník hlavního štábu pak termín posunul nejdéle do konce listopadu 1935. O sondách na Baudenkoppe hlášení uvádí, že na kopcích zůstal sníh, který roztál přes 27. a 28. října — vrty tak zaplavila voda a hloubení hlubokých sond bylo koncem října zastaveno.
+
+> Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/41/2/2 (čj. 6210/dův. hl. št. ŘOP 1935), s. 2–3, 7 a 10.

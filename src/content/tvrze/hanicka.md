@@ -111,3 +111,21 @@ Rozhodnutí opřela komise o výpočet, který je pod zápisem uveden v poznámc
 Zápis podepsali v Králíkách 10. prosince 1935 pplk. stav. **Josef Hubálek**, plk. **Bruno Sklenovský** a plk. žen. **Jan Čermák**.
 
 > Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/5/2-4, s. 34 (zpráva o průzkumu z 25. 8. 1935, čj. 5991 taj. hl. št. ŘOP 1935) a sign. 1935/5/2-3–2/7, s. 18 (zápis komise z 9.–10. 12. 1935).
+
+## Měřické práce na Haničce na podzim 1935
+
+Na Haničce se tehdy pracovalo v číslech, ne ve jménech: tvrz tvořily objekty **75 až 80**, přičemž **79a** byl vchod. Zpráva o přehlídce prací v úseku Králíky ze **21. října 1935** shrnuje stav takto — polygon byl změřen a vynesen, objekty 76 až 80 byly změřené, ale zatím jen v zápisnících, a **neztachymetrován zůstával vchod 79a a objekt 75 s odvodněním**. Tachymetrování mělo být hotové kolem 26. října, vynesení asi 6 000 bodů si žádalo dalších zhruba dvanáct dní a plán palby ještě asi deset.
+
+Měření vedly čtyři podskupiny, každá s vlastním úsekem práce: **npor. Ing. Bedřicha Kubce**, **škpt. Ing. Sirotka**, **npor. Jaroslava Jeništy** a **npor. Vladimíra Brože**. Nad nimi stála ženijní skupina **mjr. žen. Františka Bláhy** v Žamberku, podřízená Ženijnímu skupinovému velitelství III v Králíkách.
+
+### Rozkaz, který se neposlechl
+
+Jak se na Haničce pracovalo, prozrazuje **důvěrný rozkaz ŽSV III z 20. října 1935**, jímž velitel **pplk. Ing. Špalek** přesunul do Žamberka celou podskupinu Ing. Dvořáka a přidělil ji npor. Kubcovi právě pro Haničku — s výslovnou podmínkou, že *„podskupina nesmí býti trhána"*. Zároveň trval na tom, že každá ze čtyř podskupin musí kancelářsky zpracovat vlastní měření, jinak *„z toho vznikne neodborný chaos"*.
+
+Za polygon odpovídal osobně npor. Kubec a Špalek k tomu připojil poznámku, která je pro atmosféru podzimu 1935 příznačná:
+
+> „…polygon v celém rozsahu mohl býti již hotov, kdyby bylo bývalo poslechnuto rozkazu a započato s rozšiřováním polygonu hned a ne teprve 7/10."
+
+Práce v terénu ukončilo počasí: **21. října 1935 na Haničce padal sníh** a komise navrhla obě podskupiny zlikvidovat k 9. listopadu. Pro dokončení plánu palby Haničky, který bylo nutné zkontrolovat ještě v terénu, měli v Žamberku zůstat jen **mjr. Bláha a npor. Kubec** s nejnutnějším personálem.
+
+> Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/41/2/2 (čj. 6210/dův. hl. št. ŘOP 1935), s. 2–3 a 5, a sign. 1935/46 (čj. 1.095 a 1.097/dův. 1935 ŽSV III), s. 20–22.

@@ -60,6 +60,12 @@
     "popis": "ŘOP předalo konceptní výtisk „Směrnic pro opevňování“ Zemskému vojenskému velitelství v Brně k předběžnému seznámení; doručil jej osobně pplk. žen. Špalek. Velitelství vrátilo text o padesáti stranách a čtrnácti tabulkách koncem dubna."
   },
   {
+    "datum": "1935-04-18",
+    "nazev": "Tajná smlouva MNO s firmou Chema o protiplynové ochraně",
+    "kategorie": "opevneni",
+    "popis": "Ministr národní obrany Bohumír Bradáč a Ing. Jan Sigmund podepsali rámcovou tajnou smlouvu s firmou Chema v Olomouci-Lutíně na vývoj prostředků proti bojovým plynům, včetně filtrů a ventilátorů pro plynotěsné úkryty. Téhož dne dokončil Vojenský technický a letecký ústav zprávu „Stálé opevnění – řešení filtrů“, odvozenou z francouzského Fernezova systému."
+  },
+  {
     "datum": "1935-04-23",
     "nazev": "Francie povoluje prohlídku svého opevnění",
     "kategorie": "inspirace",
@@ -70,6 +76,18 @@
     "nazev": "Osm důstojníků ŘOP odjíždí studovat Maginotovu linii",
     "kategorie": "inspirace",
     "popis": "Podle rukopisného itineráře vyjela komise z pražského Wilsonova nádraží 28. dubna ve 22.35 přes Linec a Mulhouse do Štrasburku. Cestu vedl brig. gen. Karel Husárek, s ním jeli mimo jiné plk. žen. Jan Čermák, pplk. gšt. Bruno Sklenovský a škpt. žen. Pavel Milota; rozpočet činil asi 65 000 Kč."
+  },
+  {
+    "datum": "1935-05-01",
+    "nazev": "Čs. důstojníci vidí ve Francii pevnostní periskopy",
+    "kategorie": "inspirace",
+    "popis": "Během návštěvy ve Francii ve dnech 1.–11. května byly důstojníkům ŘOP předvedeny periskopy, které francouzská armáda používala ve srubech a tvrzích — se zvětšením zhruba 6×, 15× a 25×, poslední se zařízením pro měření vysokých rozprasků a pro noční střelbu. ŘOP na jejich základě zadalo studium tří typů čs. pevnostních periskopů; vlastní armáda v tomto oboru neměla žádné zkušenosti."
+  },
+  {
+    "datum": "1935-05-03",
+    "nazev": "Na opevnění vyčleněno prvních 200 milionů korun",
+    "kategorie": "opevneni",
+    "popis": "Náčelník hlavního štábu arm. gen. Ludvík Krejčí nařídil zřídit ve Fondu pro věcné potřeby národní obrany novou položku „J“ a převést na ni 200 milionů Kč určených na opevňovací práce. Fondem nadále hospodařilo přímo ŘOP. Do 20. června 1935 z něj bylo proplaceno teprve 25 167,90 Kč, převážně cestovné a náležitosti francouzských důstojníků."
   },
   {
     "datum": "1935-05-16",
@@ -102,10 +120,22 @@
     "popis": "Taktické oddělení ŘOP prošlo cesty v prostoru Králíky–Mückenberg a posoudilo je z hlediska nepřátelského pozorování a palby. Zpráva se týkala příjezdů k pozdějším tvrzím Hanička, Adam, Bouda a Hůrka; u Haničky se ukázalo, že vchod bude nutné hledat mimo lesní cestu údolím Horní Rokytnice."
   },
   {
+    "datum": "1935-09-10",
+    "nazev": "První ceník objektů stálého opevnění",
+    "kategorie": "opevneni",
+    "popis": "ŘOP sestavilo přibližné ceny srubů podle typu a stupně odolnosti (čj. 5789/taj. hl. št. ŘOP-35). Jednostranný srub se dvěma střílnami a zvonem vyšel od 846 000 Kč v odolnosti I po 1 350 000 Kč v odolnosti IV, oboustranný srub se čtyřmi střílnami a dvěma zvony od 1 160 000 do 1 960 000 Kč. Ceny se počítaly bez zbraní, střeliva, pozemku, překážek a spojení."
+  },
+  {
     "datum": "1935-09-12",
     "nazev": "Machníkův výnos o financování opevnění",
     "kategorie": "politika",
     "popis": "Ministr národní obrany František Machník schválil způsob úhrady opevňovacích prací z Fondu pro věcné potřeby národní obrany podle zákona č. 127/1934 Sb. Z fondu se hradily stavební náklady, výkupy pozemků i náhrady škod; z běžného rozpočtu MNO naopak pobyt francouzských důstojníků a civilní oděvy pro důstojníky ŘOP, kteří měli utajit svou příslušnost k opevňovacím pracím."
+  },
+  {
+    "datum": "1935-10-21",
+    "nazev": "Přehlídka rozpracovanosti objektů úseku Králíky",
+    "kategorie": "opevneni",
+    "popis": "Komise ŘOP sepsala podrobný stav měřických prací u objektů 1 až 90 od Králík po Žamberk. Plány palby a tachymetrické plány byly hotové u tvrzí Berghöhe (Hůrka) a Adam, u Baudenkoppe (Bouda) chyběl plán palby a u pozorovatelny Lustberg nebylo vytyčeno ani místo. Na Haničce už toho dne padal sníh, a tak bylo navrženo práce v terénu do 9. listopadu ukončit."
   },
   {
     "datum": "1935-10-22",
@@ -115,15 +145,33 @@
   },
   {
     "datum": "1935-10-24",
+    "nazev": "Ministerstvo vnitra posiluje četnictvo v pásmu staveb",
+    "kategorie": "politika",
+    "popis": "Výnos ministerstva vnitra č. 20.245 uložil zemskému úřadu v Brně posílit o jednoho četníka každou stanici v obcích Hlučínska a Opavska, u nichž měly vyrůst první sruby. Posílené stanice měly hlídkovat v prostoru staveb, provádět namátkové osobní prohlídky podezřelých zaměstnanců a prověřovat jejich státní spolehlivost."
+  },
+  {
+    "datum": "1935-10-24",
     "nazev": "První zakázka na plynotěsné dveře",
     "kategorie": "opevneni",
     "popis": "MNO zadalo firmě A. Ippen z Hradce Králové dodávku ocelových lisovaných dveří za 54 990 Kč — vítěze omezené soutěže z 22. října. Prvních zhruba dvacet kusů mělo přijít do šesti týdnů, zbytek do konce června 1936, adresátem bylo ženijní skupinové velitelství II v Novém Bohumíně."
+  },
+  {
+    "datum": "1935-11-29",
+    "nazev": "Porada ŘOP o kolektivních protiplynových filtrech",
+    "kategorie": "opevneni",
+    "popis": "Na poradě u ŘOP se uzavřela omezená soutěž tří firem — Eckhardt a spol., Techna a Chema — na kolektivní filtry pro pevnostní objekty. ŘOP objednalo od každé po jednom kusu vlastní konstrukce ke srovnávacím zkouškám; posuzovaly se výkon kolem 800 m³ za hodinu, odpor, resistenční doba proti fosgenu a arsinům, rozměry i cena."
   },
   {
     "datum": "1935-12-01",
     "nazev": "Zahájení stavby MO-S (Ostravsko)",
     "kategorie": "opevneni",
     "popis": "Zahájena betonáž prvního objektu těžkého opevnění — pěchotního srubu MO-S 8 na Hlučínsku."
+  },
+  {
+    "datum": "1935-12-12",
+    "nazev": "Francouzští poradci u ŘOP zůstávají do konce roku 1936",
+    "kategorie": "mezinarodni",
+    "popis": "Francouzské ministerstvo války telegraficky svolilo, aby pplk. Drecq a kpt. Forceville zůstali přiděleni k Ředitelství opevňovacích prací až do konce roku 1936. Oba důstojníci u ŘOP pracovali od jara 1935 a podíleli se i na práci v terénu — Forceville například na plánu palby tvrze Baudenkoppe."
   },
   {
     "datum": "1935-12-14",

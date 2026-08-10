@@ -53,3 +53,19 @@ Minometný srub N-S 51 měl mít **jednu minometnou kopuli G/JA** s dvojčetem 1
 Tvrz byla veřejnosti zpřístupněna po roce 1989. Prohlídka zahrnuje vybetonované pěchotní sruby a rozlámané podzemí, které — podobně jako na Stachelbergu — názorně ukazuje, jak výstavba tvrzového podzemí ve skutečnosti probíhala: surový výlom, výdřevu a nedokončenou betonáž.
 
 Ověřte si aktuální otevírací dobu předem — jde o objekt spravovaný spolkem se sezonním a nepravidelným provozem.
+
+## Skutina v prvním rozpočtu úseku, 1935
+
+Nejstarší dochovaný finanční plán náchodského úseku — rozpočet a přehled objektů **úseku Orlické hory – Náchod, čj. 5967/taj. hl. št. ŘOP-35** — počítá na 35 km fronty s 93 objekty a k nim navíc s vchodovými objekty dvou tvrzí: Skutiny a Dobrošova. Skutina v něm vystupuje jako **objekt 58a „Vchod do tvrze Skutina + podzemí"**:
+
+| Údaj | Hodnota |
+|---|---|
+| Odolnost | **IV** (nejvyšší stupeň) |
+| Osádka | **12 důstojníků / 34 poddůstojníků / 136 mužů** |
+| Cena | **30 000 000 Kč** |
+
+Vchod s podzemím tak byl v celém úseku zdaleka nejdražší jednotlivou položkou — pro srovnání, dělostřelecká otočná věž byla oceněna na 6 675 000 Kč a běžný oboustranný pěchotní srub odolnosti I na 1 100 000 Kč. Rozpočet celého úseku končil částkou 313 288 000 Kč a se střelivem 417 312 000 Kč.
+
+Pozoruhodné je i to, co v rozpočtu **není**: samotné bojové objekty tvrze se v tabulce vedou jednotlivě mezi sruby úseku, kdežto podzemí a vchod tvořily jednu společnou položku. Skutina byla v roce 1935 rozpočtována zhruba o polovinu dráž než Dobrošov (20 000 000 Kč), přestože obě tvrze měly mít stejnou odolnost i stejně početnou osádku vchodu a podzemí.
+
+> Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/44/6/1–3 (čj. 5967/taj. hl. št. ŘOP 1935), s. 9–12.

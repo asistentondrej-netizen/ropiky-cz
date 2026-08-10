@@ -71,3 +71,19 @@ V dělostřeleckém srubu jsou k vidění **dvě makety pevnostních houfnic vz.
 Na Dobrošově se natáčel i maďarský sci-fi snímek **Pevnost** (1979) a film **Člověk proti zkáze** (1989) o posledních letech Karla Čapka.
 
 Aktuální informace o prohlídkách najdete na [muzeumnachodska.cz](https://www.muzeumnachodska.cz).
+
+## Dobrošov v prvním rozpočtu úseku, 1935
+
+Dva roky před zahájením stavby se Dobrošov poprvé objevuje v číslech — v rozpočtu a přehledu objektů **úseku Orlické hory – Náchod (čj. 5967/taj. hl. št. ŘOP-35)**. Ten na 35 km fronty počítal s 93 objekty a k nim s vchodovými objekty tvrzí Skutina a Dobrošov. Dobrošov v něm figuruje jako **objekt 86a „Vchod do tvrze Dobrošov + podzemí"**:
+
+| Údaj | Hodnota |
+|---|---|
+| Odolnost | **IV** (nejvyšší stupeň) |
+| Osádka | **12 důstojníků / 34 poddůstojníků / 136 mužů** |
+| Cena | **20 000 000 Kč** |
+
+Uvedená osádka se netýká celé tvrze, ale právě jen vchodu a podzemí — tedy velitelství, strojovny, skladů, dopravy a týlových služeb. Bojové objekty se v přehledu vedou samostatně: v jeho závěru najdeme mimo jiné **objekt 84 „dělostřelecká otočná věž"** s dvojicí 10cm houfnic za 6 675 000 Kč, **objekt 85 „jednostranný dělostřelecký srub na severozápad"** se třemi 8cm kanony a **objekt 86 „dtto východní"** se třemi 10cm houfnicemi, a také **objekt 83 s minometnou otočnou věží a dělostřeleckým pozorovacím zvonem** za 3 270 000 Kč.
+
+Celý úsek byl v roce 1935 rozpočten na 313 288 000 Kč, se střelivem na 417 312 000 Kč.
+
+> Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/44/6/1–3 (čj. 5967/taj. hl. št. ŘOP 1935), s. 9–12.

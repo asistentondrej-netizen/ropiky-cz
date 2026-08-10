@@ -15,6 +15,9 @@ sources:
   - "Karlický V.: Československé dělostřelecké zbraně"
   - "Ráboň M.: Československé opevnění 1935–1938"
   - "Archív Škoda Plzeň"
+  - "Suchánek J. – Fuksa I.: Čs. opevnění 1935–1938: Pěchotní sruby. Extra Publishing, Brno 2025"
+  - "VÚA–VHA Praha, f. ŘOP, sign. 1935, 30 3/2 – 33 2/3 (4,7 cm kasematový kanon — účinek granátu, ceny munice, 1935)"
+  - "VÚA–VHA Praha, f. ŘOP, sign. 1935, 33 2/4 – 34 2/1 3 (program zkoušek smíšeného dvojčete a muniční truhlíky, 1935)"
 updated: 2026-04-21
 ---
 
@@ -124,3 +127,68 @@ V československé poválečné reaktivaci nesla zbraň označení **47mm PvK vz
 ---
 
 **Doplněno podle:** Suchánek, Jiří – Fuksa, Ivan: *Čs. opevnění 1935–1938: Pěchotní sruby.* Extra Publishing, Brno 2025, ISBN 978-80-7525-757-4.
+
+## Z archivu ŘOP: co ukazují spisy z roku 1935
+
+Následující oddíl vychází přímo ze spisů Ředitelství opevňovacích prací z podzimu a zimy 1935, tedy z doby, kdy zbraň ještě neexistovala jinak než jako dřevěný model a program zkoušek. V dobových dokumentech se důsledně označuje jako **4,7 cm kasematový kanon** (výkon 1,65 kg/775 m/vt. u pancéřového granátu a 1,5 kg/600 m/vt. u nárazového) a jeho spřaženou zbraní je v roce 1935 ještě **těžký kulomet vz. 35**; sestava se nazývá *smíšené dvojče*.
+
+### Slabý nárazový granát: účinek 3 × 2 metry
+
+Na poradě zástupců hlavního štábu a VTLÚ ve Škodových závodech v Plzni **17. července 1935** firma oznámila, že účinek 4,7cm nárazového granátu 1,50/600 proti pěchotě bude *„asi 3 m do šířky a 2 m do hloubky"*. ŘOP to nepřijalo jako hotovou věc — takový účinek jednotlivého granátu by podle něj *„vyžadoval značný počet střeliva na plošnou míru, aby bylo dosaženo žádaného účinku"*, a proto uložilo Škodovce vypracovat studii ve dvou variantách: nakolik lze zvýšit účinek stávajícího granátu 1,5/600 a nakolik lze zvětšit hmotnost a obsah trhaviny granátu při zachování počáteční rychlosti 600 m/s. Výpočty se měly ověřit praktickými zkouškami, *„ježto jde o velmi závažnou okolnost pro použití řečené zbraně proti pěchotě"*.<sup>[A1]</sup>
+
+### Proč ne pentrit
+
+Odpověď Škodových závodů (podání D/13.034 z **31. října 1935**) byla odmítavá hned dvakrát. Za prvé firma zpochybnila samotné číslo — údaj *„2 × 3 m … neodpovídá skutečnosti"* a přesně se zjistí až při zkouškách, k nimž navrhla postavit v šesti sektorech zástěny z prken o síle 1" a výšce 2–3 m ve vzdálenostech 2, 4, 6, 8, 12 a 15 m od místa trhání.
+
+Za druhé odmítla výkonnější trhavinu. Střela o hmotnosti 1,5 kg podle výkresu S 3381 – Mu 4842 obsahovala **177 g trifolu, tj. 11,8 % hmotnosti**, a chovala se podle dosavadních zkoušek příznivě — rozdělení střely bylo stejnoměrné a trhavina dávala střepinám značné rychlosti. Naproti tomu:
+
+> *„Laborace výkonnější trhavinou, na př. pentritem, by účinnost střely zhoršila, jelikož by střela byla rozdělena na velký počet neúčinných malých střepin. Pentritu používáme u tenkostěnných granátů pouze v případech, kde se jedná o značný účinek přímo zasaženém cíli (na př. letadle)."*<sup>[A2]</sup>
+
+Speciální těžší nárazový granát o hmotnosti asi 2 kg s menším množstvím trhaviny by se podle Škodovky musel *„po stránce konstrukční i balistické proexperimentovati od základu"* — na to nebyl čas.<sup>[A3]</sup>
+
+Pro představu o nákladech: informativní ceny, které Škodovka sdělila v říjnu 1935, činily za jednu úplnou ránu včetně nábojnice, výbušin a obalu 195 Kč u ostrého nárazového granátu, 300 Kč u ostrého pancéřového granátu a 100–115 Kč u tupé (cvičné) střely.<sup>[A4]</sup>
+
+### Program 60 zkoušek: Bolevec, Hlboké, Jince
+
+Ve dnech **2.–4. prosince 1935** se ve Škodových závodech v Plzni projednával „Program zkoušek s pokusnými provedeními smíšeného dvojčete 4,7 cm kanonu 1,65/775 s těž. kulometem vz. 35". Za ŘOP jednání vedl plk. děl. **Bruno Sklenovský**, dále byli přítomni pplk. pěch. Jaroslav Malec, mjr. děl. Jaroslav Krotil a mjr. žen. Ing. Karel Boháč, za VTLÚ škpt. Ing. Edmund Bestr, za zbrojní úřad v Plzni kpt. Ing. Josef Hlavsa a za Škodovku ředitelé Ing. Karel Novák a Ing. Adolf Petržilka s Ing. Ladislavem Krištůfkem.<sup>[A5]</sup>
+
+Výsledkem bylo **60 očíslovaných zkušebních položek na třech místech**, vázaných na poměrně krátký termín — *„od 1. 5. do asi 1. 8. 1936"*:<sup>[A6]</sup>
+
+- **Bolevec u Plzně** — nastřelení tří hlavní a jedné záložní (č. 1001), verifikace počáteční rychlosti, funkce děla při rychlopalbě, pevnostní zkouška střeliva se zvýšeným tlakem, trhací zkoušky v jámě a v bedně;
+- **Hlboké (Slovensko)** — rozptyl, střelba na terče, trhací zkouška v ohradě se stěnami 40 mm ve vzdálenostech 5–8 m, lepenková klec 3×3×3 m pro zjištění účinku rány, zkoušky průstřelnosti na 32mm pancíř na 1 000 m i na 50mm pancíř na 100 m, střelba na pohyblivý cíl (tank) na 800–600 m;
+- **Jince (vojenský objekt v Brdech)** — zkoušky v podmínkách skutečné střelecké místnosti.
+
+Právě Jince jsou z hlediska opevnění nejzajímavější. Položka 31 předepisuje rychlopalbu 100 dělových ran maximální kadencí na terč 6×4 m ve vzdálenosti 800 m, při níž kulomet vypálí 2 400 ran — a **současně se provádí tormentace střílny a střelecké místnosti**. Sleduje se přitom odvádění nábojnic, zahřátí hlavní a brzdicí kapaliny, chování střílny a *„poznatky o větrání a přetlaku"*. Položka 37 k tomu přidává 300 ran při krajním odměru vpravo a měření teploty ve střílně, větrání a přetlaku.<sup>[A7]</sup>
+
+Aby měřená data odpovídala realitě, obsahuje úvodní list programu výslovný pokyn: při střelbách z objektu v Jincích *„nutno použíti téhož zařízení pro větrání a udržování přetlaku vzduchu, jaké bude zavedeno u skutečných objektů (srubů) stálého opevnění"*.<sup>[A8]</sup> Podrobněji o téhle stránce věci píšeme v článku [Vzduch a proud: technika přežití v objektu](/clanky/vzduch-a-proud-technika-preziti-v-objektu).
+
+Ještě před vlastním programem se navíc měl v Bolevci uskutečnit informační střelecký pokus ve zkušební střelecké místnosti, třeba i s improvizovanou střílnou, *„při němž by byla zjištěna data potřebná pro větrání a udržování přetlaku"* — asi 100 tupých dělových ran a 2 400 nábojů kulometných.<sup>[A5]</sup>
+
+Program počítal i s věcmi, které se v technických popisech obvykle nedočtete: kolik kulometných nábojů připadá na jednu ránu dělovou, jak dlouho trvá výměna zahřáté hlavně *„výhradně pomůckami a nářadím předepsanými výstrojní listinou … bez veškerých montážních pomůcek Škodových závodů"*, jak dlouho trvá výměna kulometu za tmy a při poruše osvětlení, a jak se celá zbraň dopraví dveřmi a chodbami objektu.<sup>[A9]</sup>
+
+### 2 544 nábojů a hledání truhlíku, který snese vlhko
+
+Ke zkouškám bylo nutné objednat munici: 592 ostrých nárazových granátových nábojů 1,5/600, 560 poloostrých, 208 náhradních, 272 ostrých pancéřových 1,65/775, 800 náhradních a 112 tupých — **celkem 2 544 nábojů**. Výdaje s touto objednávkou ŘOP odhadovalo **asi na 550 000 Kč**, hrazených z fondu zák. č. 127/1934, s dodací lhůtou nejpozději do 30. dubna 1936.<sup>[A10]</sup>
+
+Náboje se měly uložit po šestnácti do **159 muničních truhlíků**. Jaký truhlík zvolit, řešila zvlášť komise na poradě ve Škodovce **4. prosince 1935**, které předložili tři alternativy: b/ dřevěný truhlík normální s typizovaným kováním, c/ dřevěný truhlík vyplechovaný zinkovým plechem se zaletovaným víkem a d/ plechový železný truhlík z 1,5mm plechu s gumovým těsněním.
+
+Rozhodla úvaha o skladech opevnění, kde je *„nutno počítati s vlhkem a kondensovanou vodou"*. Komise zvolila **alternativu c/, tedy dřevěný vyplechovaný truhlík se zaletovaným víkem** — v referátu popsaný jako *„vodotěsná muniční konserva"*. Plechová varianta s gumovým těsněním padla kvůli praktické zkušenosti: podle referentů MNO a VTLÚ byla u truhlíků na osvětlovací pumy víka s gumovým páskem *„předmětem neustálých stížností, časté kontroly a pozornosti"*, protože guma se lepí a stárne. Navíc měla vyjít asi o čtvrtinu dráž než zaletovaná dřevěná.<sup>[A11]</sup>
+
+Výsledné rozdělení bylo úsporné: 70 truhlíků levnějšího typu a/ na náhradní a tupé náboje a 89 vyplechovaných zaletovaných truhlíků typu c/ (vnější rozměry přibližně 648 × 358 × 398 mm) na ostré a poloostré náboje. Z nich se mělo namátkou vybrat asi šest kusů a podrobit je dlouhodobým zkouškám uskladnění — ve vlhkých místnostech a sklepích, umělým periodickým poléváním vodou, případně zakopáním do země.<sup>[A12]</sup>
+
+### Prameny k archivnímu oddílu
+
+- **[A1]** VÚA–VHA Praha, f. ŘOP, sign. 1935, 30 3/2 – 33 2/3, s. 27 — ŘOP → Akc. spol. dříve Škodovy závody, „4,7 cm nárazový granát – zvýšení účinku".
+- **[A2]** Tamtéž, s. 34 — Škodovy závody → VTLÚ, podání D/13.034 z 31. 10. 1935.
+- **[A3]** Tamtéž, s. 35 — pokračování podání D/13.034.
+- **[A4]** VÚA–VHA Praha, f. ŘOP, sign. 1935, 30 3/2 – 33 2/3, s. 5 — Škodovy závody → VTLÚ, podání D/12.893 z 26. 10. 1935 (informativní ceny střeliva).
+- **[A5]** VÚA–VHA Praha, f. ŘOP, sign. 1935, 33 2/4 – 34 2/1 3, s. 34 — zápis o poradě ve Škodových závodech v Plzni 4. 12. 1935.
+- **[A6]** Tamtéž, s. 9 a 11–19 — referát ŘOP a „Program zkoušek…", čj. 6584/taj. hl. št. ŘOP 1935, listy 1–9.
+- **[A7]** Tamtéž, s. 15 a 16 — program zkoušek, listy 5 a 6 (položky 31 a 37).
+- **[A8]** Tamtéž, s. 20 — úvodní list programu, poznámka 5.
+- **[A9]** Tamtéž, s. 13, 16 a 18 — položky 20, 40–41, 54 a 55 programu.
+- **[A10]** Tamtéž, s. 37 a 40 — referát o objednávce munice a výnos ŘOP; kalkulace na s. 39.
+- **[A11]** Tamtéž, s. 31–32 a 36, 40 — zápis o poradě 4. 12. 1935 k truhlíkům a referát o volbě typu.
+- **[A12]** Tamtéž, s. 38 — vložka II k čj. 6715/taj. hl. št. ŘOP 1935.
+
+Skeny archiválií nepublikujeme; pasáže čtené v předloze nejistě jsou v přepisech označeny hranatými závorkami.

@@ -96,3 +96,24 @@ Pancéřové zvony a kopule, které nevytrhali Němci, odstranil v polovině 50.
 Hůrka je dnes zpřístupněna jako muzeum a tvoří spolu s Boudou jednu z opor **Králického pevnostního areálu**. V jednom ze sálů muničního skladiště **M1** najdete expozici věnovanou protibetonovým střelám **Röchling** — včetně kompletního prototypu střely ráže 20 mm, který muzeu věnoval bývalý zbrojíř firmy Röchling-Buderus Heinz Kurt Schmidt. V překladišti u M1 stojí lokomotiva **ALD-2** z ČKD Praha (1959), která v podzemí tahala vozíky úzkorozchodné dráhy během poválečného využití; v předválečném období se počítalo s tím, že vozíky budou tlačit vždy dva muži dopravního oddílu.
 
 Prohlídkový okruh vede vchodovým objektem K-S 12a, svážnicí, hlavní galerií i schodišťovou šachtou dělostřeleckého srubu K-S 11 (⌀ 245 × 245 cm). Aktuální informace najdete na webu **Vojensko-historického muzea Králíky**.
+
+## Tvrz „Berghöhe" na papíře, podzim 1935
+
+V dokumentech ŘOP z roku 1935 Hůrka ještě nese německé krycí jméno **Berghöhe**. Podle přílohy k tajnému spisu čj. 6740 taj. hl. št. ŘOP 1935 se tvrz skládala z:
+
+- **velitelství** tvrze,
+- **pěchotního srubu 10** (pozdější K-S 10 „U boží muky"),
+- **dělostřeleckého srubu 11**,
+- **dělostřelecké otočné věže 12**,
+- **vchodu do tvrze 12a**,
+- **oboustranného pěchotního srubu 13**.
+
+Tabulky „zatímních počtů“ osádek zpracoval **mjr. gšt. František Podroužek**, posoudily je pěchotní a dělostřelecká skupina ŘOP a schválil je **gen. Husárek**. Osádky se rozepisovaly po jednotlivých zbraních a funkcích a rozlišovaly, kdo je „na místě“ u zbraní a kdo „v kasárnách“ — u pěchotního srubu 10 se tak počítalo s 1 důstojníkem, 9 poddůstojníky a 29 vojíny, u oboustranného srubu 13 s 2 důstojníky, 10 poddůstojníky a 23 vojíny (včetně dělostřeleckých pozorovatelů) a u vchodového objektu 12a s 1 důstojníkem, 3 poddůstojníky a 19 vojíny, mezi nimi obsluhou dveří a **svážnice**.
+
+### Jak daleko byly přípravy 21. října 1935
+
+Zpráva o přehlídce prací v úseku Králíky zachycuje stav k **21. říjnu 1935**. U Berghöhe už byly hotové **plány palby** objektů 10, 11, 12 a 13 i **tachymetrické plány** celé tvrze — u tvrzí se navíc kreslily v úplné sadě patric, matric i kopií, kdežto u izolovaných srubů zatím jen v patricích. Berghöhe tak patřila k nejdál připraveným tvrzím úseku.
+
+Nedořešená zůstala pozorovatelna **12b „Lustberg"**: nebyla proměřena a podle zprávy pro ni *„není označeno ještě ani místo"*. Mělká sonda na Lustbergu se začala hloubit až koncem října a měla mít hloubku jen asi 2 m. Naopak hluboká sonda na Berghöhe dělala potíže s vodou — po týdnu dešťů ji nebylo možné zvládat rumpálovými vědry a 29. října 1935 velitel ŽSV III práci na všech třech hlubokých sondách úseku zastavil. Ve svém hlášení k tomu poznamenal, že spodní voda podle jeho soudu ražbu podzemí valně neztíží, *„spíše že bude později vítána pro zásobování"*.
+
+> Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/38/2-2 (čj. 6740 taj. hl. št. ŘOP 1935), s. 16 a 22, a sign. 1935/41/2/2 (čj. 6210/dův. hl. št. ŘOP 1935), s. 2 a 9–10.

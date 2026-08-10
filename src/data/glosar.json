@@ -742,5 +742,67 @@
     "related": [
       "ŘOP"
     ]
+  },
+  {
+    "term": "Kolektivní protiplynový filtr",
+    "letter": "K",
+    "definition": "Velký filtr čistící vzduch nasávaný do celého objektu — na rozdíl od plynové masky chránil osádku hromadně. ŘOP na něj v roce 1935 vypsalo omezenou soutěž firem Eckhardt a spol., Techna a Chema a od každé objednalo jeden kus ke srovnávacím zkouškám. Požadoval se výkon kolem 800 m³ vzduchu za hodinu, nízký odpor a resistenční doba v desítkách hodin proti fosgenu, chlorpikrinu a arsinům.",
+    "related": [
+      "Plynotěsné dveře",
+      "Ruční ventilátor"
+    ]
+  },
+  {
+    "term": "Ruční ventilátor",
+    "letter": "R",
+    "definition": "Záložní větrací zařízení poháněné klikou nebo šlapadlem, které mělo v pěchotním srubu udržet přetlak i při výpadku elektrického agregátu. Prototypy s ručním a nožním pohonem, přezdívané „bicyklové větráky“, přebíralo ŘOP v roce 1935 u firem Ing. R. Müller, Ing. O. Podhajský, Janka a spol. a Sigmund a zkoušelo je ve zkušebním objektu v Milovicích.",
+    "related": [
+      "Kolektivní protiplynový filtr",
+      "Strojovna"
+    ]
+  },
+  {
+    "term": "Elektrický agregát",
+    "letter": "E",
+    "definition": "Spalovací motor spojený s generátorem, který objektu nebo tvrzi dodával vlastní elektřinu nezávisle na veřejné síti. V roce 1935 ŘOP poptávalo u Škodových závodů dieselové i benzinové soustrojí ve velikostech od 2 do 25 kW a řešilo, zda smí motor nasávat vzduch zvenčí — filtrovaný vzduch objektu byl příliš drahý na to, aby jej spaloval motor.",
+    "related": [
+      "Strojovna",
+      "Kolektivní protiplynový filtr"
+    ]
+  },
+  {
+    "term": "Dělostřelecký pozorovací periskop",
+    "letter": "D",
+    "definition": "Optický přístroj vysunovaný z pozorovacího zvonu nebo prostrčený stěnou dělostřeleckého srubu, jímž pozorovatel řídil palbu. ŘOP po francouzském vzoru v roce 1935 zadalo studium tří typů: 1,4× pro sledování ochranného příkopu, 6–8× pro pozorovací zvon a nejméně 15× pro hlavní dělostřeleckou pozorovatelnu. Vývoj měla převzít Optikotechna.",
+    "related": [
+      "Periskop",
+      "Pancéřový zvon"
+    ]
+  },
+  {
+    "term": "Důvěrník (na stavbě opevnění)",
+    "letter": "D",
+    "definition": "Placený informátor, kterého ženijní skupinové velitelství najímalo mezi dělníky a místními obyvateli, aby hlásil podezřelé chování na staveništi i mimo ně. Počítalo se zhruba se dvěma důvěrníky na staveniště a měsíční odměnou 150 Kč; jednotliví důvěrníci se navzájem neměli znát a styk velitele s nimi měl zůstat naprosto utajen.",
+    "related": [
+      "Kontrolní průkaz",
+      "ŽSV (ženijní skupinové velitelství)"
+    ]
+  },
+  {
+    "term": "Kontrolní průkaz",
+    "letter": "K",
+    "definition": "Doklad, bez něhož se v roce 1935 nedalo vstoupit na staveniště opevnění. Kromě jména nesl krycí značku: číslo objektu bylo zapsáno písmenem, přičemž malé písmeno znamenalo státně spolehlivého a velké státně nespolehlivého zaměstnance. Držitel tak z vlastního průkazu nemohl poznat, jak je hodnocen.",
+    "related": [
+      "Důvěrník (na stavbě opevnění)"
+    ]
+  },
+  {
+    "term": "ŽSV III Králíky",
+    "letter": "Ž",
+    "definition": "Ženijní skupinové velitelství pověřené úsekem Králíky – Žamberk, kde měly vzniknout tvrze Hůrka, Bouda, Adam a Hanička. Vedl je pplk. Ing. Špalek a v roce 1935 pod ním pracovaly měřické podskupiny v Králíkách a v Žamberku (skupina mjr. Bláhy). Kvůli sněhu a dešti byly jeho terénní práce na konci listopadu 1935 zlikvidovány a dokončovaly se v Praze.",
+    "related": [
+      "ŽSV (ženijní skupinové velitelství)",
+      "ŘOP"
+    ]
   }
 ]
