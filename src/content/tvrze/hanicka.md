@@ -17,6 +17,7 @@ order: 20
 sources:
   - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"
   - "Ráboň, M. a kol.: Dělostřelecká tvrz Hanička z let 1936–1938"
+  - "VÚA–VHA Praha, f. Ředitelství opevňovacích prací, sign. 1935/5/2-3 – 2/7 a 1935/5/2-4"
   - "Muzeum Tvrz Hanička — hanicka.cz"
 updated: 2026-08-08
 ---
@@ -90,3 +91,23 @@ Aktuální otevírací dobu najdete na [hanicka.cz](https://www.hanicka.cz).
 Na Haničce se v roce 1972 natáčel film **Dny zrady** Otakara Vávry. Pro potřeby filmu byly do dělostřeleckého srubu instalovány **dvě makety pevnostních houfnic**; po uzavření tvrze v roce 1975 putovaly na Dobrošov, kde jsou k vidění dodnes.
 
 V roce 1968 vznikl na Haničce (spolu s Boudou a Dobrošovem) dokument **Pozůstalost 1938** — tvůrci přivezli bývalé obránce a budovatele pevností zpět na místa jejich působení. Mezi nimi i velitele tvrze Hanička **Jaroslava Nováka**. Kvůli srpnu 1968 byl snímek záhy stažen a na desítky let se zařadil mezi „trezorové" filmy.
+
+## Kudy do tvrze: přeložení vchodu kvůli podélné palbě, 1935
+
+Ještě než se na Haničce začalo stavět, prozkoumalo **taktické oddělení ŘOP dne 25. srpna 1935** cesty v prostoru Králíky – Můckenberg. Přirozenou trasou k budoucí tvrzi bylo **údolí Horní Rokytnice**: polní cesta vedla z valné části po východní straně údolí a podle zprávy ji „bude možno použíti k vybudování silnice pro stálé opevnění“. Cesta byla navíc *„úplně skrytá proti pozorování nepř. z prostoru 891 Schwarzer Berg a ze hřbetu Hoch Erlitzer Kamm“*.
+
+Háček byl jinde. Průzkumníci upozornili, že průběh cesty lesem Oberwald sice vypadá skrytě, protože vede vysokým lesem, ale *„je možné, že nepř. děl. umístěné v prostoru Rosenthal – Heu B. 675 – Schwarzer B. a v údolí Divoké Orlice mohlo by prováděti palbu zabraňovací přímo podélně na úsek cesty: Prostor tvrze Hanička – háj. na s. okraji Hor. Rokytnice.“* Z toho plynul jednoznačný závěr:
+
+> „Vchod do této tvrze bude proto museti býti řešen mimo řečenou lesní cestu – pravděpodobně v prostoru l od Oberwald.“
+
+Alternativa vedená údolím od kříže asi 300 m severně od Panského Pole byla také zvážena a zamítnuta ze dvou důvodů: silnice jižně od koty 689 na jižním okraji Horní Rokytnice je vidět ze hřbetu Hoch Erlitzer Kamm a *„údolí je blízko host. Hanička, kde jsou již umístěny pěch. sruby“* — nepřátelská palba mířená na tento prostor by tedy zasáhla i údolí s příjezdovou cestou.
+
+### Komise v prosinci 1935
+
+K definitivnímu rozhodnutí došla taktickotechnická komise při průzkumu příjezdných cest do tvrzí ve dnech **9. a 10. prosince 1935**. Zápis konstatuje, že příjezdnou cestu do tvrze *„není možno voliti jinak, než údolím potoka protékajícího Hor. Rokytnici“*. Trasa vytyčená **pplk. Ing. Špalkem** využívala částečně stávající cestu na **západním** břehu potoka, komise ale z taktických důvodů rozhodla vést cestu po **východním** břehu, aby byla lépe chráněna proti dělostřeleckým palbám směřujícím všeobecně od východu z prostoru Divoké Orlice. Stoupání příjezdné cesty nemělo překročit **7 %**.
+
+Rozhodnutí opřela komise o výpočet, který je pod zápisem uveden v poznámce: při průměrném sklonu svahu hřbetu asi 20 % by k zasažení plochy 240 × 60 m na svahu bylo třeba **58 ran ze sta** a k zasažení šestimetrové silnice **1,5 % ran**, kdežto u téže plochy na dně údolí **90 ran ze sta** a k zasažení silnice **3 % ran**. Závěr: *„Umístění silnice na svahu s hlediska možnosti paleb nepř. dělostřelectva je zhruba o 50 % výhodnější.“*
+
+Zápis podepsali v Králíkách 10. prosince 1935 pplk. stav. **Josef Hubálek**, plk. **Bruno Sklenovský** a plk. žen. **Jan Čermák**.
+
+> Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/5/2-4, s. 34 (zpráva o průzkumu z 25. 8. 1935, čj. 5991 taj. hl. št. ŘOP 1935) a sign. 1935/5/2-3–2/7, s. 18 (zápis komise z 9.–10. 12. 1935).

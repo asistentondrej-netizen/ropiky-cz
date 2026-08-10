@@ -46,3 +46,17 @@ sources:
     author: "Suchánek, Jiří – Fuksa, Ivan"
     year: 2025
     type: kniha
+
+# doplneno z archivu VUA-VHA, fond ROP (karton 1-2)
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/30/3/1"
+    author: "VÚA–VHA Praha"
+    type: archiv
+historieMilniky:
+  - datum: 5. 9. 1935
+    udalost: >-
+      Ženijní skupinové velitelství II v Novém Bohumíně řešilo náhradu polních škod za přípravné
+      práce a upozornilo ŘOP, že kromě objektů 2 až 8 se otázka výzvy majitelům, aby pozemky
+      neosévali ozimem, „týká to ještě objektů 33, který je celý v polích, a 35, v jehož blízkosti
+      jsou obdělávané pozemky". Velitelství se obávalo, že by majitelé jinak uplatňovali nároky
+      na náhradu za zmenšený výnos.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 44–45

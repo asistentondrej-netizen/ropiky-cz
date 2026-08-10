@@ -39,3 +39,50 @@ sources:
     author: "Suchánek, Jiří – Fuksa, Ivan"
     year: 2025
     type: kniha
+
+# doplneno z archivu VUA-VHA, fond ROP (karton 1-2)
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/8/1/12 – 2/7"
+    author: "VÚA–VHA Praha"
+    type: archiv
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/30/3/1"
+    author: "VÚA–VHA Praha"
+    type: archiv
+historieMilniky:
+  - datum: 17. 8. 1935
+    udalost: >-
+      MNO vypsalo utajenou soutěž na stavbu objektů 2 až 8 pohraničního úseku Moravská Ostrava
+      (čj. 5703 Taj. – hl. št./ŘOP 1935), bez dodávky cementu a betonového železa.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/8/1/12, s. 34
+  - datum: srpen–září 1935
+    udalost: >-
+      Při stanovení hranic staveniště rozhodlo ŘOP, že u objektu 4 nebude zatím zabrána zahrada
+      sousedního domku a překážka se v případě potřeby doplní připravenými rozsocháči. Parcelu
+      č. kat. 432 mělo být ponecháno dosavadnímu účelu, byla-li používána jako cesta, a překážku
+      posunout blíž k objektu; Ženijní skupinové velitelství II ale 23. září 1935 upřesnilo, že
+      parcela 432 se jako cesta nepoužívá a je obdělávána jako pole.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 35
+  - datum: 30. 9. 1935
+    udalost: >-
+      Mjr. žen. Ing. Antonín Sameš vyjádřil za ŽSV II nesouhlas se zastavěním parcel č. kat. 416/3
+      a 438 v Bohumíně: „Obě parcely kat. čís. 416/3 a 438 leží v palebných vějířích, a proto by
+      jejich částečné zastavění velmi zhoršilo provádění palebného plánu." MNO následně sdělilo,
+      že pozemky spadají do nezastavitelného pásma pevnosti, a požádalo ministerstvo zemědělství,
+      aby tento důvod v rozhodnutí neuvádělo.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 36 a 38
+  - datum: 2. 10. 1935
+    udalost: >-
+      K další žádosti o prodej části parcely 416/3 hlásilo ŽSV II, že pozemek „leží uvnitř
+      palebného vějíře ze S5 a velmi blízko S4", takže by jeho zastavění ztížilo palebný plán
+      ze S-5 i pozorování blízkého okolí ze S-4.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 28
+  - datum: listopad 1935
+    udalost: >-
+      U parcely č. kat. 413/11 v Bohumíně-městě ŽSV II uvedlo, že leží sice mimo palebné vějíře,
+      ale asi 300 m vzadu za objektem S-4, a její zastavění nedoporučilo.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 43
+  - datum: podzim 1935
+    udalost: >-
+      Situační náčrt ŽSV II zachycuje střed objektu S4 s kótou „S4 = +2,00“, spojnice k objektům
+      S3 a S5, směr na Nový Bohumín a státní dráhu, kružnice odstupňované po 10 m a body vytyčené
+      v terénu bílými a modrými kolíky.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 4

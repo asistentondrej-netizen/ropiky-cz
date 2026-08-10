@@ -44,6 +44,48 @@ stavba:
 historieMilniky:
   - datum: 30. 9. 1938
     udalost: Mnichovská dohoda — opevnění odevzdáno bez boje
+
+# doplneno z archivu VUA-VHA, fond ROP (karton 1-2)
+  - datum: 17. 8. 1935
+    udalost: >-
+      Objekt byl zahrnut do utajené soutěže MNO na objekty 2 až 8 pohraničního úseku Moravská
+      Ostrava (čj. 5703 Taj. – hl. št./ŘOP 1935). V seznamu zadávacích pomůcek jsou uvedeny
+      rozpočty na objekty č. 2 až 8, každý po šesti listech se dvěma vložkami, přičemž objekt
+      č. 5 měl navíc zvláštní doplněk.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/8/1/12, s. 34 a 41
+  - datum: srpen–září 1935
+    udalost: >-
+      Ředitelství opevňovacích prací stanovilo, že přístup k objektu 5 lze zřídit po parcele
+      č. kat. 847, případně též po parcele č. kat. 312/24. Pro přístupové cesty se počítalo se
+      štěrkovanou vozovkou širokou 3 m a záborem pruhu asi 6 m i s oboustrannými příkopy.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 35
+  - datum: 2. 10. 1935
+    udalost: >-
+      Ženijní skupinové velitelství II odmítlo zastavění pozemku u Bohumína s odůvodněním, že
+      „leží uvnitř palebného vějíře ze S5 a velmi blízko S4“; zastavěním by se ztížilo provádění
+      palebného plánu ze S-5.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 28
+  - datum: 26. 10. 1935
+    udalost: >-
+      Při ústním jednání se zástupci stavební firmy Dr. Skorkovský (prof. Dr. Bechyně a Ing.
+      Zelený) za účasti mjr. Ing. Sameše bylo povoleno těžit štěrk a písek pro beton objektů
+      2 až 8 ze štěrkoviště na parcele č. kat. 650/9 u objektu 6, aby se nezdržovala příprava
+      materiálu.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/8/1/12, s. 49
+  - datum: 19. 11. – prosinec 1935
+    udalost: >-
+      Prodejna sdružených československých železáren nabídla ŘOP 42 q nosníků profilu 10 za
+      145,40 Kč za 100 kg franko vůz stanice Třinec. Objednávka ŘOP (čj. 677 hl. št. ŘOP 1935,
+      ve váze 36 q) výslovně uvádí: „Nosiče jsou určeny pro překlady v objektech S-5, S-6, S-7,
+      S-8." Zásilka měla jít do železniční stanice Hrušov, účet přes ženijní skupinové
+      velitelství II v Novém Bohumíně.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/16/3/4-15, s. 18–19
+  - datum: 17. 12. 1935
+    udalost: >-
+      ŽSV II hlásilo, že parcely č. 143/11 a 105/41 v katastrálním území Pudlov leží
+      v opevňovacím pásmu asi 700 m jižně od objektu S-5; zamýšlená změna vlastnictví prý
+      obranné poměry pevnostní čáry nezmění.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 43
 visit: >-
   Muzeum MO-S 5 „Na trati" provozuje KVH Bohumín, z.s. (rekonstrukce od roku 1999).
   Před objektem jsou k vidění protitankové překážky. Aktuální informace na bunkr-bohumin.cz.
@@ -100,6 +142,16 @@ sources:
   - title: KVH Bohumín — bunkr-bohumin.cz
     url: https://www.bunkr-bohumin.cz/#whoWeAre
     type: web
+# doplneno z archivu VUA-VHA, fond ROP (karton 1-2)
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/8/1/12 – 2/7"
+    author: "VÚA–VHA Praha"
+    type: archiv
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/16/3/4-15"
+    author: "VÚA–VHA Praha"
+    type: archiv
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/30/3/1"
+    author: "VÚA–VHA Praha"
+    type: archiv
 wikidata_id: Q11765022
 wikipedia_url: https://cs.wikipedia.org/wiki/MO-S_5_Na_trati
 commons_category: MO-S 5 Na trati casemate

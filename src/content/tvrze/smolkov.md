@@ -16,6 +16,7 @@ order: 60
 sources:
   - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"
   - "Vaňourek, M.: Hraničáři od Hlučína. Mohelnice 2000"
+  - "VÚA–VHA Praha, f. Ředitelství opevňovacích prací, sign. 1935/5/2-2, 1935/5/2-3 a 1935/30/3/1"
 updated: 2026-08-08
 ---
 
@@ -85,3 +86,39 @@ Na začátku roku **1945** se Wehrmacht pokusil čs. opevnění na Ostravsku a O
 Tvrz Smolkov zůstává **v držení Armády České republiky**. Exteriéry povrchových objektů jsou přístupné — sruby lze obejít po cestách v okolí návrší — **podzemí však navštívit nelze**. Tvrz je kulturní památkou.
 
 Smolkov je zároveň **jedinou dělostřeleckou tvrzí v moravskoslezské části opevnění**, která byla stavebně dokončena. Sousední tvrze Orel a Šibenice zůstaly rozestavěné nebo odsunuté, tvrze Milotický vrch a Gudrich byly zrušeny.
+
+## Cesta ke vchodu: projekt příjezdné silnice, podzim 1935
+
+Než se začalo stavět, musela vojenská správa vyřešit banální, ale nákladný problém: vchod do projektované tvrze ležel podle dobové formulace „v terénu mimo jakoukoli komunikaci“. Vypracováním návrhu bylo pověřeno **Ženijní skupinové velitelství II v Novém Bohumíně** a jeho velitel **mjr. žen. Ing. Antonín Sameš** předložil generelní stavební návrh **5. listopadu 1935** pod čj. 126/Taj. 1935 — 37 příloh, od přibližného rozpočtu přes polohové náčrty až po třicet listů podélných a příčných profilů.
+
+### Tři alternativy trasy
+
+Návrh počítal se třemi variantami:
+
+- **Alternativa A** — jednosměrná příjezdná silnice od okresní silnice Hrabyně–Chabičov, s odbočením v serpentině asi 150 m západně od hostince „Na valše“ ke vchodu do tvrze. Sameš ji doporučil jako nejvýhodnější, byť nejdražší: *„Její poměrně o málo vyšší náklad než u alternativ ‚B' a ‚C' je celkem nepatrný ve srovnání s celkovým nákladem na tvrz Smolkov.“*
+- **Alternativa B** — stejné provedení, ale pouze úsek od serpentiny ke vchodu, s obousměrným provozem; silnici by bylo nutné prodloužit za vchod kvůli obracení automobilů.
+- **Alternativa C** — nejkratší a nejlevnější, ale se ztrátou na výšce a s rizikem pozorování z prostoru myslivny „Bor“ v případě, že by nepřátelské dělostřelectvo odstranilo masku lesního porostu.
+
+Na žádost **pplk. stav. Ing. Josefa Hubálka** předložilo ŽSV II 26. listopadu 1935 (čj. 220/Taj.) ještě doplňující alternativní návrh a samostatný stavební návrh **3. alternativy** (čj. 229/Taj.).
+
+### Náklady a pozemky
+
+Titulní list generelního návrhu uvádí u alternativy A **vypočtený náklad 220 000 Kč** a stručnou, ale výmluvnou poznámku o majetkových poměrech: *„Staveniště patří řádu německých rytířů, bude koupeno. Stavba a udržování silnice jde na účet vojenské správy.“* Stavební návrh 3. alternativy počítal s **nákladem 140 000 Kč** a už u něj stojí, že *„staveniště je majetkem voj. správy“*.
+
+Vozovka měla mít podle normálií pro okresní silnice **štět 20 cm, štěrk 10 cm a zásypku 3 cm, vše uválcováno na výšku 30 cm**, celkovou šířku 6 metrů (z toho 5 metrů kameniny) a metrové chodníky; v místech prudkého sklonu terénu se počítalo s opěrnými zdmi z lomového kamene.
+
+### Maskování jako kritérium
+
+Posudek I. skupiny ŘOP k oběma spisům porovnává jednotlivé trasy nejen podle stoupání a délky, ale hlavně podle viditelnosti. O trase navržené pplk. Hubálkem se říká, že stavebně a dopravně vyhovuje velmi dobře, jenže *„zamýšlí-li se v budoucnu postaviti novou silnici skrytou (silnice do Hrabyně je v horní části viditelná z nepř. strany), pak tato trasa bude nevýhodná. Pro přítomnost tudíž vyhovuje – pro budoucnost ne.“* U nejkratší varianty referent varoval, že po odstranění lesní masky dělostřeleckou palbou by bylo možné silnici pozorovat z vyšších pozemních pozorovatelen od myslivny Bor.
+
+Podobnou logikou se řídil i starší rukopisný posudek, podle kterého by z taktického hlediska byla výhodnější trasa od křižovatky silnic jihozápadně trigonometru 571 Šibenice údolím potoka směrem na sever k hostinci Valcha — *„tato příjezdná cesta by byla úplně skrytá a kryta proti nepř. pozorování“*.
+
+Ještě 5. listopadu 1935 žádalo ŘOP ŽSV II o náčrtek trasy silnice **při objektu 41 (vchodovém)** v délce asi 200 metrů, se všemi daty: trasou osy silnice, niveau vztaženým k průsečíku osy vjezdu s fasádou objektu a spádem v procentech.
+
+## Jak daleko bylo „dost daleko“
+
+Spis ŘOP „Pozemky pro obranu státu v pohraničí“ (sign. 1935/30/3/1) obsahuje desítky vyjádření k prodejům pozemků v okolí a z nich lze vyčíst, jak vojenská správa měřila ochranné pásmo tvrze. U pozemku v Suchých Lazcích se konstatuje, že *„vzdálenost od nejbližšího objektu tvrze Smolkova činí asi 1600 m“*, a proto není námitek — za předpokladu, že se nezmění povrch ani způsob obhospodařování. U parcely ve Smolkově-Háji stojí, že *„pozemek jest vzdálen 1450 m od nejbližšího objektu tvrze Smolkov a nespadá tudíž do nezastavitelného pásma“*, s trpkým dovětkem, že *„vojenská správa nemá právního titulu k zákazu stavby, aniž by poskytla za znehodnocení staveniště náhradu“*. A u parcely 726/3 v Hrabyni hlásil mjr. Sameš 12. listopadu 1935, že leží **asi 1300 m jihozápadně od objektu S-42** tvrze Smolkov, takže proti změně vlastnictví námitek není.
+
+Zajímavé je, že ŽSV II opakovaně dodávalo stejnou výhradu: *„Projekt opevnění západně tvrze Smolkov není mi znám; za dosavadní situace opevnění není námitek proti změně vlastnictví.“*
+
+> Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/5/2-2 (příjezdná silnice, s. 19, 25, 34–36 a 18–20 přílohové části), sign. 1935/5/2-3 (s. 18) a sign. 1935/30/3/1 (s. 24, 30, 30 přílohy k čj. 580/dův.).

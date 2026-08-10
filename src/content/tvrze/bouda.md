@@ -22,6 +22,7 @@ sources:
   - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"
   - "Ráboň, M. – Svoboda, T. – Čermák, L.: Dělostřelecká tvrz Bouda z let 1935–1938. Brno–Náchod 1996"
   - "Muzeum Tvrz Bouda — tvrzbouda.cz"
+  - "VÚA–VHA Praha, f. Ředitelství opevňovacích prací, sign. 1935/5/2-3 – 2/7 a 1935/5/2-4"
 updated: 2026-08-08
 ---
 
@@ -101,3 +102,21 @@ Co na prohlídce uvidíte:
 - **Kasárenský sál č. 4** s maketou ubytovací místnosti s třípatrovými postelemi
 
 Aktuální otevírací dobu najdete na [tvrzbouda.cz](https://www.tvrzbouda.cz).
+
+## Průzkum příjezdu, 25. srpna 1935
+
+Přístupová cesta k tvrzi, tehdy ještě vedené pod jménem **Baudenkoppe**, byla poprvé prověřena **25. srpna 1935** při průzkumu cest v prostoru Králíky – Můckenberg, který provedlo taktické oddělení ŘOP podle mapy 1 : 75 000 (čj. 5991 taj. hl. št. ŘOP 1935). Zpráva je u Boudy nejpříznivější ze všech králických tvrzí:
+
+> „Cesta 847 Baudenkoppe – Těchonín je rovněž úplně skrytá proti pozorování i palbě nepř. Bude pravděpodobně možno využíti lesní cesty z Těchonína přes 615 směrem na Baudenkoppe.“
+
+### Komise v prosinci 1935
+
+Taktickotechnická komise, která tvrze objela ve dnech **9. a 10. prosince 1935**, posuzovala u Boudy několik variant. Alternativa navržená **pplk. Ing. Špalkem** využívala cestu obcí Těchonín asi 500 m východně od kostela, odkud trasa přecházela na severní břeh potoka tekoucího od východu přes kotu 615. Podle průzkumu terénu by *„tato trasa vyhovovala nejlépe taktickým požadavkům, ježto by byla zaříznuta do jižního svahu hřbetu Hejnov – Baudenkoppe“*.
+
+Narazilo se ovšem na peníze: cesta v této trase by při šířce 6 m vyžadovala značného nákladu, a tak se uvažovalo, že by byla vybudována jen **3 m široká, jednosměrná, s výhybnami vzdálenými od sebe podle viditelnosti**. U další alternativy vedené údolím komise připustila, že spád místy překračuje 7 %, ale *„v tomto výjimečném případě bude lze připustiti i spád do 8 a 1/2 %“*, a uložila pplk. Špalkovi variantu proměřit.
+
+V širším plánu komunikací opevněného prostoru Orlické hory – Šerák se s Boudou počítalo i u rokádních cest: z Těchonína bylo nutné upravit neudržovanou vozovku přes kotu 615 a dále lesní cestu vedoucí jižně od Baudenkoppe až k silnici od Lichkova.
+
+Zápis komise podepsali v Králíkách 10. prosince 1935 pplk. stav. **Josef Hubálek**, plk. **Bruno Sklenovský** a plk. žen. **Jan Čermák**.
+
+> Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/5/2-4, s. 32 a 34, a sign. 1935/5/2-3–2/7, s. 18–19.

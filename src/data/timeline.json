@@ -54,16 +54,82 @@
     "popis": "Založeno Ředitelství opevňovacích prací v Praze. Generál Husárek jmenován do čela. Počátek systematické stavby."
   },
   {
+    "datum": "1935-04-05",
+    "nazev": "Koncept Směrnic pro opevňování jde do terénu",
+    "kategorie": "opevneni",
+    "popis": "ŘOP předalo konceptní výtisk „Směrnic pro opevňování“ Zemskému vojenskému velitelství v Brně k předběžnému seznámení; doručil jej osobně pplk. žen. Špalek. Velitelství vrátilo text o padesáti stranách a čtrnácti tabulkách koncem dubna."
+  },
+  {
+    "datum": "1935-04-23",
+    "nazev": "Francie povoluje prohlídku svého opevnění",
+    "kategorie": "inspirace",
+    "popis": "Francouzské ministerstvo války souhlasilo, aby si čs. mise prohlédla pohraniční opevnění mezi 30. dubnem a 11. květnem; oznámil to náčelník francouzské vojenské mise v Praze gen. Faucher. Výchozím bodem programu měl být Štrasburk."
+  },
+  {
+    "datum": "1935-04-28",
+    "nazev": "Osm důstojníků ŘOP odjíždí studovat Maginotovu linii",
+    "kategorie": "inspirace",
+    "popis": "Podle rukopisného itineráře vyjela komise z pražského Wilsonova nádraží 28. dubna ve 22.35 přes Linec a Mulhouse do Štrasburku. Cestu vedl brig. gen. Karel Husárek, s ním jeli mimo jiné plk. žen. Jan Čermák, pplk. gšt. Bruno Sklenovský a škpt. žen. Pavel Milota; rozpočet činil asi 65 000 Kč."
+  },
+  {
     "datum": "1935-05-16",
     "nazev": "Českosovětská smlouva",
     "kategorie": "mezinarodni",
     "popis": "ČSR + SSSR. Sovětská pomoc závislá na francouzské — což později způsobí diplomatickou krizi 1938."
   },
   {
+    "datum": "1935-05-31",
+    "nazev": "Druhý průzkum terénu na Ostravsku",
+    "kategorie": "opevneni",
+    "popis": "Po opakované prohlídce terénu v úseku Moravská Ostrava padlo rozhodnutí o osudu plánované dělostřelecké otočné věže: místo jednoho dělostřeleckého srubu měla vzniknout až ve druhém pořadí, do celkového plánu tvrze se však zanesla hned."
+  },
+  {
+    "datum": "1935-06-29",
+    "nazev": "Dotaz jugoslávského attaché na právní rámec opevňování",
+    "kategorie": "politika",
+    "popis": "Jugoslávský vojenský attaché požádal čs. vojenskou správu o přehled zákonných podkladů opevňovacích prací. Odpověď ŘOP jmenovala tři použitelné normy — rakouský rayonový regulativ z roku 1860, uherský vyvlastňovací zákon z roku 1881 a nový zákon č. 63/1935 Sb. — a přiznala, že zákon o vojenských územích v ČSR dosud neexistuje."
+  },
+  {
+    "datum": "1935-07-17",
+    "nazev": "Porada o výzbroji u Škodových závodů v Plzni",
+    "kategorie": "opevneni",
+    "popis": "Zástupci ŘOP, Vojenského technického a leteckého ústavu a Škodovky projednali dělostřelecký a zbrojní materiál pro stálé opevnění: zkrácení hlavně 8cm kanonu vz. 30, jednotnou lafetaci pro ráže 8 a 10 cm, 47mm kanon a 9cm minomet do srubu. Na otočných věžích se v Plzni k tomuto dni ještě vůbec nepracovalo."
+  },
+  {
+    "datum": "1935-08-25",
+    "nazev": "Průzkum příjezdů k tvrzím Orlicka a Králicka",
+    "kategorie": "opevneni",
+    "popis": "Taktické oddělení ŘOP prošlo cesty v prostoru Králíky–Mückenberg a posoudilo je z hlediska nepřátelského pozorování a palby. Zpráva se týkala příjezdů k pozdějším tvrzím Hanička, Adam, Bouda a Hůrka; u Haničky se ukázalo, že vchod bude nutné hledat mimo lesní cestu údolím Horní Rokytnice."
+  },
+  {
+    "datum": "1935-09-12",
+    "nazev": "Machníkův výnos o financování opevnění",
+    "kategorie": "politika",
+    "popis": "Ministr národní obrany František Machník schválil způsob úhrady opevňovacích prací z Fondu pro věcné potřeby národní obrany podle zákona č. 127/1934 Sb. Z fondu se hradily stavební náklady, výkupy pozemků i náhrady škod; z běžného rozpočtu MNO naopak pobyt francouzských důstojníků a civilní oděvy pro důstojníky ŘOP, kteří měli utajit svou příslušnost k opevňovacím pracím."
+  },
+  {
+    "datum": "1935-10-22",
+    "nazev": "Schválen plán cest v prostoru Orlické hory – Šerák",
+    "kategorie": "opevneni",
+    "popis": "Generál Husárek podepsal návrh komunikací vedoucích podél fronty i kolmo k ní v opevněném prostoru Orlické hory – Šerák. Šlo o jeden z prvních uceleně pojatých plánů dopravní obsluhy budoucích tvrzí a srubů."
+  },
+  {
+    "datum": "1935-10-24",
+    "nazev": "První zakázka na plynotěsné dveře",
+    "kategorie": "opevneni",
+    "popis": "MNO zadalo firmě A. Ippen z Hradce Králové dodávku ocelových lisovaných dveří za 54 990 Kč — vítěze omezené soutěže z 22. října. Prvních zhruba dvacet kusů mělo přijít do šesti týdnů, zbytek do konce června 1936, adresátem bylo ženijní skupinové velitelství II v Novém Bohumíně."
+  },
+  {
     "datum": "1935-12-01",
     "nazev": "Zahájení stavby MO-S (Ostravsko)",
     "kategorie": "opevneni",
     "popis": "Zahájena betonáž prvního objektu těžkého opevnění — pěchotního srubu MO-S 8 na Hlučínsku."
+  },
+  {
+    "datum": "1935-12-14",
+    "nazev": "Přejímka betonářské oceli v Třinci",
+    "kategorie": "opevneni",
+    "popis": "V železárnách Báňské a hutní společnosti v Třinci proběhla 13. a 14. prosince jakostní přejímka betonářského železa pro opevnění. Z objednaných 400 tun bylo do prosince dodáno přes 210 tun; ocel musela snést pevnost nejméně 42 kg/mm², ohyb o 180° za studena a být elektricky svařitelná."
   },
   {
     "datum": "1936-01-01",

@@ -46,3 +46,27 @@ sources:
     author: "Suchánek, Jiří – Fuksa, Ivan"
     year: 2025
     type: kniha
+
+# doplneno z archivu VUA-VHA, fond ROP (karton 1-2)
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/5/4/1 – 4/5"
+    author: "VÚA–VHA Praha"
+    type: archiv
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/30/3/1"
+    author: "VÚA–VHA Praha"
+    type: archiv
+historieMilniky:
+  - datum: 21. 10. 1935
+    udalost: >-
+      Ženijní skupinové velitelství II předložilo ŘOP pod čj. 171/taj. 1935 průsvitku k plánu
+      1 : 20 000 s hranicí katastrofální vody na řece Opavě z let 1927 a 1903, zjištěnou podle
+      záznamů okolních obcí a svědectví pamětníků. Zaměřením výšek terénu u objektů S-35, S-36
+      a S-37 se ukázalo, že terén u objektu S-37 by ležel asi 0,78 m nad hladinou takové vody —
+      jako jediný ze tří kontrolovaných objektů by tedy nebyl zaplaven. Hlášení podepsal velitel
+      ŽSV II mjr. žen. Ing. Antonín Sameš.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/5/4, s. 6
+  - datum: podzim 1935
+    udalost: >-
+      V seznamu vyvlastňovacích spisů předložených MNO okresním úřadem v Hlučíně vystupuje mezi
+      vlastníky pozemků zabíraných pro opevnění v tomto prostoru Rolnický akciový cukrovar v Háji
+      (parcely č. 1981, 1668/1 a 1677/2 v Chabičově).
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 17

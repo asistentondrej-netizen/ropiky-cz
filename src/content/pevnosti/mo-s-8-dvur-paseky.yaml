@@ -50,3 +50,43 @@ sources:
     author: "Suchánek, Jiří – Fuksa, Ivan"
     year: 2025
     type: kniha
+
+# doplneno z archivu VUA-VHA, fond ROP (karton 1-2)
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/8/1/12 – 2/7"
+    author: "VÚA–VHA Praha"
+    type: archiv
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/16/3/4-15"
+    author: "VÚA–VHA Praha"
+    type: archiv
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/30/3/1"
+    author: "VÚA–VHA Praha"
+    type: archiv
+historieMilniky:
+  - datum: 17. 8. 1935
+    udalost: >-
+      MNO vypsalo utajenou soutěž na objekty 2 až 8 pohraničního úseku Moravská Ostrava
+      (čj. 5703 Taj. – hl. št./ŘOP 1935). Uchazeč měl nahlédnout do plánů dvou z určených objektů
+      a podáním nabídky se vzdával námitek, že před podáním nabídky neviděl podrobné plány
+      jednotlivých objektů.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/8/1/12, s. 34–35
+  - datum: srpen–září 1935
+    udalost: >-
+      Při vytyčování staveniště ŘOP uvedlo: „U objektu 8 se uvažuje přeložení cesty č. kat. 1802
+      kolem vnější stěny překážek. Přístup do objektu by byl po této cestě od silnice č. kat.
+      1309." Právě u objektů 2 a 8 se navíc muselo zjišťovat, zda k odříznutým zbytkům drobných
+      parcel bude nutné zřizovat nové příjezdné cesty, nebo je bude možné sloučit s jinou
+      parcelou téhož majitele.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 34–35
+  - datum: 5. 9. 1935
+    udalost: >-
+      ŽSV II hlásilo, že požádalo okresní úřady ve Fryštátě a v Hlučíně, aby vyzvaly majitele
+      pozemků kolem objektů 2 až 8 k neobdělávání vyznačených ploch, a že zabíranou plochu
+      vytyčuje zvláštními kolíky. Sondy u objektů byly zajištěny, zakryty a opatřeny výstražnými
+      tabulkami; vrtané sondy u objektů 2 až 4 byly už dříve zaházeny.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 44–45
+  - datum: 19. 11. – prosinec 1935
+    udalost: >-
+      Koncept objednávky ŘOP čj. 677 hl. št. ŘOP 1935 na nosníky profilu 10 od Prodejny
+      sdružených československých železáren (145,40 Kč za 100 kg, ve váze 36 q, do stanice
+      Hrušov) uvádí: „Nosiče jsou určeny pro překlady v objektech S-5, S-6, S-7, S-8.“
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/16/3/4-15, s. 18–19

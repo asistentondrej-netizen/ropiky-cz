@@ -46,3 +46,44 @@ sources:
     author: "Suchánek, Jiří – Fuksa, Ivan"
     year: 2025
     type: kniha
+
+# doplneno z archivu VUA-VHA, fond ROP (karton 1-2)
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/8/1/12 – 2/7"
+    author: "VÚA–VHA Praha"
+    type: archiv
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/6/2/5"
+    author: "VÚA–VHA Praha"
+    type: archiv
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/16/3/4-15"
+    author: "VÚA–VHA Praha"
+    type: archiv
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/30/3/1"
+    author: "VÚA–VHA Praha"
+    type: archiv
+historieMilniky:
+  - datum: 17. 8. 1935
+    udalost: >-
+      Objekt byl součástí utajené soutěže MNO na objekty 2 až 8 pohraničního úseku Moravská
+      Ostrava (čj. 5703 Taj. – hl. št./ŘOP 1935); staveniště ukazoval uchazečům důstojník
+      Ženijního skupinového velitelství II v Bohumíně.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/8/1/12, s. 34–35
+  - datum: 23. 10. 1935
+    udalost: >-
+      ŽSV II hlásilo nález štěrkoviště na břehu Odry u Antošovic a přiložilo kopii katastrální
+      mapy se „situací štěrkoviště vzhledem k objektům S-6 a 7“. Materiál byl posouzen jako
+      vhodný pro beton objektů 2 až 8; podmínkou bylo, aby se odběrem písku a štěrku nezhoršily
+      palebné ani pozorovací podmínky sousedních objektů — jinak by musel podnikatel štěrkoviště
+      podle přání vojenské správy zasypat nebo jinak upravit.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/6/2/5, s. 1–3
+  - datum: listopad 1935
+    udalost: >-
+      Okresní úřad ve Fryštátě předložil MNO nabídky vlastníků pozemků vyvlastňovaných podle
+      zákona č. 63/1935 Sb. Filomena Pardubická z Antošovic uvedla, že by jí byla nejmilejší
+      výměna za pozemky z přídělů pozemkové reformy, která se v Antošovicích teprve prováděla.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/30/3/1, s. 30
+  - datum: 19. 11. – prosinec 1935
+    udalost: >-
+      ŘOP objednalo nosníky profilu 10 od Prodejny sdružených československých železáren za
+      145,40 Kč za 100 kg s určením „pro překlady v objektech S-5, S-6, S-7, S-8“; zásilka měla
+      jít do železniční stanice Hrušov.
+    zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/16/3/4-15, s. 18–19

@@ -20,6 +20,7 @@ related:
 sources:
   - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"
   - "Stehlík, E. – Vaňourek, M.: Hraničáři od Adamovy hory"
+  - "VÚA–VHA Praha, f. Ředitelství opevňovacích prací, sign. 1935/5/2-3 – 2/7 a 1935/5/2-4"
 updated: 2026-08-08
 ---
 
@@ -103,3 +104,21 @@ Pokud jste narazili na informaci, že Adam nabízí prohlídku podzemí, jde o o
 ## Film
 
 Na Adamu se v roce 1956 natáčel film **Neporažení** režiséra Jiřího Sequense s tematikou roku 1938. Snímek je bohužel v duchu doby silně zabarven komunistickou ideologií.
+
+## Průzkum příjezdu, 25. srpna 1935
+
+Trasa přístupu k budoucí tvrzi byla poprvé prověřena v terénu **25. srpna 1935**, kdy taktické oddělení ŘOP provedlo podle mapy 1 : 75 000 průzkum cest v prostoru Králíky – Můckenberg (zpráva vedena pod čj. 5991 taj. hl. št. ŘOP 1935). O Adamu je v ní zaznamenán stručný, ale příznivý závěr:
+
+> „Cesta Adam – Vilanov je úplně skrytá proti pozorování nepřátelskému. Příchod do tvrze bude vyhovující.“
+
+Jediná výhrada se týkala dělostřelectva: nepřítel měl možnost působit **podélnou palbou do řečeného údolí z prostoru Steinbach – Rothflössel**.
+
+### Upřesnění komisí v prosinci 1935
+
+Podrobný průzkum provedla taktickotechnická komise ve dnech **9. a 10. prosince 1935**. Podle jejího zápisu lze příjezdnou cestu do tvrze *„řešiti výhodně jedině všeobecně po stávající lesní cestě, vedoucí dosti zaříznutým údolím od Vítanova na severovýchod“*. Varianta sledující lesní cestu od rozdvojení údolí asi 700 m severovýchodně od Vítanova měla poněkud větší spád; jinak trasa prozkoumaná **pplk. Ing. Špalkem** vyhovovala a stoupání navrhované cesty nemělo překročit **7 %**.
+
+Asi 500 m jihozápadně od vchodu do tvrze musela být silnice opatřena točnou. Komise u ní počítala s ostřelováním nepřátelským dělostřelectvem a odhadla praktický celkový rozptyl na **zhruba 200 m (170–240 m)** pro kanony, houfnice i moždíře — na plochu 30 × 120 m by ze 100 vypálených ran připadla asi **2 % zásahů** (počítáno s úplnou přípravou střelby).
+
+Zápis podepsali v Králíkách 10. prosince 1935 pplk. stav. **Josef Hubálek**, plk. **Bruno Sklenovský** a plk. žen. **Jan Čermák**.
+
+> Archivní podklady: VÚA–VHA Praha, f. ŘOP, sign. 1935/5/2-4, s. 34 a sign. 1935/5/2-3–2/7, s. 18–19.

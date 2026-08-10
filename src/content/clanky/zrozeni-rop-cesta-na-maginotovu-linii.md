@@ -1,150 +1,148 @@
 ---
-title: "Zrození ŘOP: 121 kilometrů Maginotovy linie za tři dny"
-description: "V srpnu 1934 objela skupina čs. důstojníků kus Maginotovy linie. Vrátili se s poznámkami, které podle jednoho z nich nestačily ani na návrh jediného objektu. O sedm měsíců později vzniklo Ředitelství opevňovacích prací."
+title: "Osm mužů do Francie: jak ŘOP posílalo komisi na Maginotovu linii"
+description: "Šest týdnů po vzniku Ředitelství opevňovacích prací odjelo osm důstojníků studovat francouzské opevnění. Archivní spis čj. 5128 a 5129/taj. hl. št. ŘOP 1935 dochoval jmenný seznam, vlakový jízdní řád, diety 170 a 135 Kč denně, souhlas generála Fauchera i podpis ministra financí."
 pubDate: 2026-08-08
 author: "Redakce ropiky.cz"
 cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_11_%28rok_2006%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_11_%28rok_2006%3B_01%29.jpg"
-tags: ["ŘOP", "Maginotova linie", "Francie", "1934", "historie"]
+tags: ["ŘOP", "Maginotova linie", "Francie", "1935", "historie", "archiv"]
 related:
   - "stranky/co-je-rop"
-  - "clanky/z-ceho-stavet-hledani-betonu"
-  - "clanky/sedmnact-tvrzi-plan-a-realita"
-  - "typologie/delostrelecka-tvrz"
+  - "clanky/chronologie-rop-1935-1938"
   - "clanky/srovnani-s-maginotovou-linii"
+  - "clanky/z-ceho-stavet-hledani-betonu"
+  - "typologie/delostrelecka-tvrz"
 ---
 
-> *„Opevnění je třeba budovati i tenkrát, kdyby politická situace se na několik roků vyjasnila, poněvadž vidíme nyní nejlépe, že k jejich výstavbě, i když jsou dány finanční prostředky, je třeba velmi dlouhé doby."*
+> *„Francouzské ministerstvo války mi oznamuje, že povoluje čs. misi prohlídku opevnění pohraničí za podmínek Vámi navrhovaných, v době mezi 30. dubnem a 11. květnem. Tato mise bude očekávána 30. dubna ve Strasburku, kdež obdrží informace o dalším podrobném programu své cesty.“*
 >
-> — Zpráva náčelníka Hlavního štábu o programu budování stálého opevnění, červen 1936
+> — přípis Francouzské vojenské mise v RČS čj. 1506/1.E FVM. 1935, podepsán gen. Faucher, 23. dubna 1935<sup>[1]</sup>
 
-Když se v roce 1935 začaly betonovat první objekty československého opevnění, nešlo o naplnění dlouho zrajícího plánu. Šlo o **improvizaci pod tlakem času**, kterou zachraňovala hlavně schopnost lidí učit se za pochodu.
+Ředitelství opevňovacích prací vzniklo **20. března 1935**. Za necelých šest týdnů poté sedělo osm jeho nejvyšších důstojníků ve vlaku do Štrasburku. Cesta na Maginotovu linii se běžně zmiňuje jednou větou; ve Vojenském historickém archivu se ale dochoval celý spisový svazek k ní — sedmnáct listů, které ukazují něco jiného než heroický příběh. Ukazují **úřad, který se teprve učí fungovat**, a přitom musí za dva dny protlačit vládou zahraniční cestu osmi lidí.
 
-## Patnáct let, kdy se nic nedělo
+Následující text vychází z archivní jednotky **sign. 1935/4/2/2**, tedy ze spisů **čj. 5128** a **5129/taj. hl. št. ŘOP 1935**.
 
-Myšlenka opevnit hranice není z třicátých let. Už **13. března 1920** byla zřízena **Komise pro opevnění československého státu**, jejíž odůvodnění znělo velmi moderně:
+## Proč se vůbec jelo podruhé
 
-> *„Vojensky nepříznivá situace Československé republiky, hlavně pokud se týče délky a konfigurace hranic, vyžaduje, aby nejen polní armáda byla vzorně a pohotově organizována, nýbrž aby též technické prostředky podporovaly pohraniční odpor, mobilizaci a seskupení vojsk, obranné a útočné operace armády."*
+První československá delegace objela kus francouzského opevnění už v srpnu 1934. Podle vzpomínek účastníků z toho vyšla znalost, která nestačila ani na návrh jediného objektu — pozdější přednosta stavební skupiny ŘOP plk. Ing. **Josef Hubálek** to shrnul větou, že *„podle kusých zkušeností prohlídky bych se nebyl odvážil navrhnout zodpovědně některý objekt“*. Porada 26. ledna 1935 mu dala za pravdu: první předložený náčrt objektu těžkého opevnění byl shledán neproveditelným.<sup>[A]</sup>
 
-V květnu 1920 sepsal náčelník 3. oddělení Francouzské vojenské mise **plukovník Henri Rozet** předběžné úvahy, které pojmenovaly problém, jenž bude Československo trápit dalších osmnáct let:
+Cesta z dubna 1935 měla proto úplně jiné zadání. Nejelo se „se podívat“. Jelo se **rozdělit si obory a přivézt konkrétní odpovědi**. Přesně tak to formuluje čistopis žádosti, kterou MNO poslalo předsednictvu ministerské rady:
 
-> *„Pověstný čtyřúhelník, jehož tři strany svírá nepřítel, vytváří strategickou nevýhodu pro obranu od samého začátku operací. Řešení, jež by spočívalo v prosté evakuaci tohoto výběžku, aby se soustředily obranné síly na Moravě, se nesnadno přijímá. Znamenalo by to vydat nepříteli životně důležitou část země, hlavní město, válečný průmysl, Škodovy závody. (…) Je tudíž třeba pomýšlet na aktivní obranu Čech. (…) Možná, že by tento manévr usnadnila organizace obranných pásem či dokonce vybudování stálých opevnění na citlivých místech."*
+> *„Vojenská správa má mimořádný zájem na prostudování určitých příprav ve francouzské armádě. Vyslání osmi důstojníků je nezbytné proto, aby v krátkém čase byly prostudovány otázky různých, od sebe odlišných speciálních oborů a získány poznatky v nejvyšší možné míře. Jmenovaní důstojníci jsou specialisté dotyčných oborů.“*<sup>[2]</sup>
 
-A pak se **čtrnáct let nedělo prakticky nic**. Francie začala budovat Maginotovu linii v roce 1928; první vážně míněná čs. studie o opevňování vznikla až v roce **1932**, po krachu odzbrojovací konference v Ženevě.
+Stojí za povšimnutí, co v čistopisu **není**: slovo „opevnění“. Účel je opsán jako „studium technických opatření“. V rukopisném konceptu vyrozumění je přitom formulace *„za účelem studia opevňovacích prací“* ještě napsaná — a přeškrtnutá.<sup>[3]</sup> Spis putoval mimo armádu, na civilní ministerstva, a tam se opevňovací program v roce 1935 nejmenoval.
 
-V září 1933 upozornil přednosta vojenské kanceláře prezidenta **brigádní generál Silvestr Bláha** T. G. Masaryka:
+## Osm jmen
 
-> *„Majíce již vybudovanou armádu, máme za další svatou povinnost dáti jí v případě překvapení možnost boje. (…) Vojenská kancelář je názoru, že je třeba studijně vniknouti do problémů našeho opevnění, a to pokud možno ihned."*
+Jmenný seznam je v archivu třikrát: v rukopisné vložce, v konceptu vyrozumění a v čistopisu pro vládu — pokaždé ve stejném pořadí, které odpovídá hodnosti.<sup>[4]</sup> Není to náhodná parta. Je to **jádro vedení celého opevňovacího programu**; funkce, které tíž lidé zastávali koncem roku 1935, dokládají personální výkazy ŘOP.<sup>[B]</sup>
 
-## Rok 1934: rozhodnutí padne v Paříži
-
-Zlom přinesl **německo-polský pakt o neútočení** z počátku roku 1934. Ve dnech **11.–12. června 1934** proběhlo v Paříži konzultační setkání, na němž Francouzi **odmítli** dosavadní čs. plán počítající s ústupem na Slovensko a nabídli jiné řešení: **zesílit klíčové úseky stálým opevněním**.
-
-Zhruba o měsíc později se **Nejvyšší rada obrany státu** usnesla, že hranice s Německem, Rakouskem a Maďarskem budou opevněny, a přidělila na to **250 milionů korun**.
-
-V sobotu **21. července 1934** vydalo 3. (operační) oddělení Hlavního štábu výnos s prvními faktickými kroky. Stojí za to citovat, jaké nároky se od začátku kladly na lidi:
-
-> *„Permanentní opevnění bude věcí dlouholeté práce, věcí přísně tajnou, a proto důstojníci, kteří by byli zařazeni do kteréhokoliv shora uvedeného zřízení, musí být absolutně spolehliví a samostatní. Po stránce taktické musí býti obeznámeni s bojem pěchoty a dělostřelectva proto, aby výsledek jejich prací plně uspokojil bojovníky, kteří oněch prací budou užívati. Po stránce technické musí býti odborníky v propočítávání a budování všech opevňovacích prací, zvláště v betonování."*
-
-## 16.–18. srpna 1934: tři dny na Maginotově linii
-
-Za měsíc byla čs. delegace ve Francii. Prohlídka začala **na Rýnu severně od Štrasburku ráno 16. srpna** a pokračovala až ke tvrzi **Bitche**. Za tři dny stihli **asi 121 kilometrů linie** a **tři tvrze**, mimo jiné **Hochwald** a **Bitche**.
-
-Pozdější přednosta stavebně-administrativní skupiny ŘOP **plukovník Ing. Josef Hubálek** popsal, co viděli:
-
-> *„V každé tvrzi byla jedna otočná dělová věž a kasematová dělostřelecká baterie pro boční palbu nebo i dvě, nějaký pěší objekt a vchod, vše spojeno soustavou rozsáhlých podzemních chodeb a prostor. Byla nám ukázána jedna otočná zvedací dělostřelecká věž s jedním dělem ráže asi 7,5 cm s poměrně krátkou hlavní, snad to byla houfnice."*
-
-Kdo zná [dispozici československých tvrzí](/typologie/delostrelecka-tvrz), poznává tu jejich budoucí schéma prakticky beze zbytku: [otočná věž](/typologie/delostrelecka-vez-ro), [dělostřelecké sruby](/typologie/delostrelecky-srub) pro boční palbu, [pěchotní sruby](/typologie/pechotni-srub), [vchodový objekt](/typologie/vchodovy-objekt) a podzemí.
-
-Hubálek se ale zajímal i o věci, na které mu nikdo neodpověděl:
-
-> *„Měl jsem zájem o způsob, jakým byla dopravována betonová směs do konstrukce objektů tak silně vyztužených železem, aby se mohl splnit požadavek betonování bez přestávek. Byl bych rád viděl jeden objekt ve stavbě, to však tam již nebylo možné. Doprovázející francouzský důstojník nedával srozumitelné vysvětlení, snad o způsobu betonování nevěděl…"*
-
-Ze Štrasburku jela delegace do Modane v Savojských Alpách a odtud do Paříže na dvoudenní přednášky. Hubálkovo hodnocení celé cesty je nemilosrdné:
-
-> *„To všechno nedávalo takové znalosti, aby se podle nich mohlo navrhnout [opevnění]. (…) Byl jsem z účastníků našeho zájezdu na Maginotovu linii jediný, který se předtím stavbou opevnění zabýval, ovšem v jiné době a v jiné škole. **Podle kusých zkušeností prohlídky bych se nebyl odvážil navrhnout zodpovědně některý objekt.**"*
-
-Že to nebyla přehnaná skromnost, potvrdila porada **26. ledna 1935**: první předložená projektová dokumentace objektu těžkého opevnění byla shledána **nevyhovující**. Hubálek: *„Ženijní oddělení předložilo náčrt jednoho objektu, ale ten byl nezpůsobilý k provedení. Naprosto neodpovídal zásadám, které byly uplatňovány v objektech Maginotovy linie."*
-
-## 20. března 1935: vzniká ŘOP
-
-Řešením byla přítomnost francouzských odborníků přímo v Praze. Od začátku roku 1935 zde působila trojice **podplukovník generálního štábu Louis Fortin**, **podplukovník dělostřelectva Albert Joguet** a **podplukovník ženijní služby Henri Drecg**. Ve druhé polovině února 1935 obhlédli terén na Ostravsku, Králicku, Náchodsku a Trutnovsku.
-
-Právě **Drecg** zpracoval materiál nazvaný **„Návrhy pro realizaci opevnění"**, který se týkal organizace čs. opevňovacích orgánů. Na jeho základě vznikly **20. března 1935** dvě instituce:
-
-| Instituce | Role | V čele |
+| Hodnost | Jméno | Funkce v ŘOP (podle výkazů 1935) |
 |---|---|---|
-| **Rada pro opevňování (RO)** | získávat finance, personál a materiál; navrhovat NROS pořadí naléhavosti úseků | arm. gen. **Ludvík Krejčí**, náčelník Hlavního štábu |
-| **Ředitelství opevňovacích prací (ŘOP)** | ústřední výkonný orgán při Hlavním štábu | brig. (později div.) gen. **Karel Husárek** |
+| brig. gen. | **Karel Husárek** | ředitel opevňovacích prací |
+| brig. gen. Ing. | **Karel Štěpánek** | přednosta technického oddělení |
+| plk. gšt. | **Ladislav Tomsa** | přednosta taktického oddělení |
+| plk. žen. Ing. | **Jan Čermák** | přednosta studijní skupiny (později skupina II.a) |
+| pplk. gšt. | **Bruno Sklenovský** | přednosta dělostřelecké skupiny |
+| pplk. pěch. | **Jaroslav Malec** | přednosta pěchotní skupiny |
+| pplk. žen. | **Josef Kučera** | technická skupina (tech. A, později II.a) |
+| škpt. žen. | **Pavel Milota** | technická skupina, nejmladší člen komise |
 
-**Karel Husárek stál v čele ŘOP po celou dobu jeho existence** — až do září 1938. Jeho zástupcem a vedoucím technické skupiny byl brig. gen. Ing. **Karel Štěpánek**, takticko-organizační skupinu vedl plk. gšt. **Ladislav Tomsa**.
+Celý spis přitom zpracoval jediný referent — **mjr. gšt. Podroužek**, který referátníky obou čísel jednacích podepsal **23. dubna 1935** a jehož podpis ve spisu čteme jako „Podrouzík“.<sup>[5]</sup> V personálních výkazech ŘOP z konce roku 1935 vystupuje týž člověk jako **mjr. gšt. František Podroužek**, náčelník štábu ŘOP a přednosta I. organizační skupiny.<sup>[B]</sup> Husárek oba referátníky schválil **24. dubna**.
 
-**18. dubna 1935** vznikla pod ŘOP první **ženijní skupinová velitelství (ŽSV)** — ŽSV I ve Starém Městě pod Sněžníkem a ŽSV II v Hlučíně. Do roku 1938 jich přibylo jedenáct.
+## Jak se v roce 1935 schvalovala zahraniční cesta
 
-## Druhá cesta: 30. dubna – 11. května 1935
+Tady je spis nejcennější, protože ukazuje **skutečný mechanismus státní správy** — ne to, jak se o něm píše.
 
-Tentokrát jelo do Francie **osm důstojníků** — mimo jiné Husárek, Štěpánek, Tomsa a Čermák — a rozkaz MNO byl v zadání konkrétnější:
+Rozhodujícím pravidlem byl **domácí rozkaz č. 173/1927**: vysílá-li se na studijní cestu **více než pět osob, je třeba schválení vlády**. Osmičlenná komise tedy nemohla odjet na rozhodnutí armády. Vedle souhlasu ministra národní obrany bylo potřeba i stanovisko ministerstva financí — a spis rovnou uvádí, že si ho lze vyžádat **telefonicky**: vrchní odborový rada **Dr. Řezníček**, telefon **48141**.<sup>[4]</sup>
 
-> *„Vojenská správa má mimořádný zájem na prostudování určitých příprav ve francouzské armádě. Vyslání osmi důstojníků je nezbytné proto, aby v krátkém čase byly prostudovány otázky různých od sebe odlišných speciálních oborů a získány poznatky v nejvyšší možné míře. Jmenovaní důstojníci jsou specialisté dotyčných oborů…"*
+Formální oporou byla starší **usnesení vlády z 18. června 1927** a intimát předsednictva ministerské rady z **20. června 1927 čj. 8634/1927 m. r.**<sup>[6]</sup> Právě na ně se MNO v žádosti odvolává, když prosí, aby byl návrh projednán **v nejbližší schůzi ministerské rady** — protože program cesty stanovilo ministerstvo války v Paříži i po časové stránce a důstojníci musí odjet už 29. dubna.
 
-Prohlédli si izolované pěchotní sruby na „rýnské frontě" a dělostřelecké tvrze **Schoenenbourg, Hochwald a Four-à-Chaux** i malou pěchotní tvrz **Lembach**.
+Že to bylo skutečně na krev, dokládá poznámka, kterou Podroužek dopsal na okraj čistopisu:
 
-## Kolik jsme od Francouzů skutečně převzali
+> *„Pan ministerský rada Dr. Žilinka[?] z ministerstva financí telefonoval dne 25. dubna 1935 v 11 hod. 30, že ministerstvo financí věc projednalo, nemá námitek proti odjezdu a že vyřízení předloží věc k podpisu panu ministru financí.“*<sup>[2]</sup>
 
-Tady se často přehání na obě strany. Realitu popisují dva pamětníci docela přesně.
+Jméno ministerského rady je v rukopisu nejisté a přepis je označuje otazníkem; jistý je čas — **25. dubna 1935 v 11.30**, tedy den poté, co spis vznikl. Ve stejném dokumentu referent výslovně žádá, aby mu byl výsledek oznámen na **vnitřní telefon MNO č. 395**.<sup>[7]</sup>
 
-Projektant ŘOP **Ing. Adolf Benda**:
+Papírová stopa je pak už rychlá:
 
-> *„Na projektech tvrzí jsme v Praze pracovali pod vedením velice příjemného francouzského důstojníka kapitána Marcela Forcevilla. Vrchní kontrolu provedených prací pak prováděl jeho nadřízený podplukovník Henri Drecg. (…) Byli jsme přeci jen mladí důstojníci, většině z nás ještě nebylo 30, zatímco on již byl padesátník. **Francouzské vzory jsme ani zdaleka nepřijímali otrocky — bez vlastní invence.**"*
-
-Přednosta strojní podskupiny ŘOP **Ing. Robert Křivan** byl ještě jednoznačnější:
-
-> *„Oba byli odborníci na otázky konstrukce staveb, a ne na ventilaci a podobné technické záležitosti. A tak jsme si naprostou většinu věcí udělali sami ve spolupráci s čs. firmami, které měly s obdobnými pracemi zkušenosti. **Znovu tedy zdůrazňuji, že jsme od Francouzů nedostali žádné výkresy, technickou dokumentaci filtrů, ventilátorů, agregátů nebo něčeho podobného. To, co se objevilo v objektech, byla všechno čistě naše práce.**"*
-
-Kromě Forcevilla a Drecga přijeli v listopadu 1936 ještě dva specialisté: **major Jean Jouvet** na pancéřování a **major Hippolyte Lachambre** na ventilaci. Kapitán **Marcel Forceville** skončil jako stálý poradce v červenci 1938 a byl dekorován **Řádem bílého lva IV. třídy**.
-
-## Vyplatí se to? Husárkova kalkulace
-
-Nejzajímavější dokument celého období je **„Úvaha o rentabilitě fortifikace"**, kterou zpracoval Husárek a v polovině roku 1936 přednesl generál Krejčí na NROS. Je to v podstatě obhajoba investice — a je vedena čísly, ne emocemi.
-
-Husárek přiznává nevýhody opevnění hned v úvodu:
-
-> *„Nevýhoda opevnění oproti stavění nových divizí je ta, že s nimi nelze manévrovati, po jejich prolomení jich pak nelze pro ofenzivu použíti, leč jako zabezpečení výchozí základny. Jde o to, abychom uvážili, zda se vyplatí zakopávati a znehybňovati miliardy národního jmění, čili práci národa do opevnění."*
-
-Pak vezme konkrétní prostor — obrannou čáru **Labe–Odra o délce asi 400 km** — a spočítá obě varianty:
-
-| | Bez opevnění | S opevněním |
+| Datum | Dokument | Obsah |
 |---|---|---|
-| Potřeba sil | **25–30 divizí** (~600 000 mužů) | 36 praporů pevnostní osádky (**45 000 mužů**) + 2 divize do Krkonoš a Jeseníků (40 000) + 4 rychlé motorizované divize (60 000–80 000) |
-| Základní náklad | **4 500 milionů Kč** (150 mil. Kč na divizi) | ~**4 500 milionů Kč** i s municí |
-| Denní náklad za mobilizace | 6 milionů Kč | výrazně nižší |
-| Denní náklad munice v boji | **180 milionů Kč** (1 palebný průměr na divizi) | výrazně nižší |
+| 23. 4. 1935 | Francouzská vojenská mise, čj. 1506/1.E FVM. 1935, podpis **gen. Faucher** | povolení prohlídky mezi 30. dubnem a 11. květnem<sup>[1]</sup> |
+| 24. 4. 1935 | MNO, čj. 5129/Taj.hl.št.ŘOP.1935 | žádost předsednictvu ministerské rady<sup>[2]</sup> |
+| 24. 4. 1935 | Ministerstvo financí, čj. 50388/35-VII/20, podpis **ministr Dr. Trapl** | *„Ministerstvo financí nečiní námitek…“*<sup>[8]</sup> |
+| 25. 4. 1935 | expedice ŘOP, por. **Janka** | spisy odeslány<sup>[5]</sup> |
+| 27. 4. 1935 | presidium MNO, čj. 191 | „Postoupeno“ — I. zástupce náčelníka hlavního štábu<sup>[9]</sup> |
 
-Úspora na lidech vychází na **435 000 mužů** — v originálním dokumentu je mimochodem chybně uvedeno 335 000.
+Referátník nese také razítko **generálního inspektora branné moci armádního generála Jana Syrového**.<sup>[5]</sup> Souhlas mateřské strany došel na MNO až **3. května 1935** pod čj. 5154/taj., tedy tři dny po odjezdu.<sup>[1]</sup>
 
-Rozhodující argument tedy nebyl „opevnění je nedobytné", ale **„opevnění je levnější než armáda, kterou bychom jinak potřebovali, a hlavně ji nemáme kde vzít"**.
+## Jízdní řád, který se dvakrát změnil
 
-## Programy, které se nestihly
+Nejlidštější list celého spisu je rukopisná vložka s jízdním řádem. Referent v ní nejdřív konstatuje, že *„souhlas k cestě z Francie došel, avšak nikoliv program cesty“*, a že je stanoveno jen tolik, že čs. důstojníci budou očekáváni **30. dubna ráno ve Štrasburku** a zdrží se do 11. května. Podle toho si sám sestavil trasu:<sup>[4]</sup>
 
-| Dokument | Datum | Obsah |
+| Úsek | Datum | Čas |
 |---|---|---|
-| **Povšechný program vybudování stálého opevnění** | prosinec 1935 | pět etap, **860 km** za zhruba **10 388 milionů Kč**; I. etapa 130 km za 1 663 milionů. Kalkulace **12,5 milionu Kč na kilometr** souvislé fronty |
-| **Zpráva náčelníka HŠ** | 4. 6. 1936 | úseky I. etapy: Moravská Ostrava–Opava–Bruntál (70 km), Kladsko (40 km), Náchod–Trutnov (80 km). Celková doba výstavby **10–15 let** |
-| **Program opevnění („Husárkův program")** | 9. 11. 1937 | limit **10 miliard Kč**; celkem asi **1 276 těžkých a 15 463 lehkých objektů**; čtyři etapy, poslední dokončena **v roce 1951** |
+| Praha, Wilsonovo nádraží — odjezd | 28. 4. | 22.35 |
+| Linec — příjezd | 29. 4. | 5.45 |
+| Linec — odjezd | 29. 4. | 10.44 |
+| Mulhouse — příjezd | 30. 4. | 0.36 |
+| Mulhouse — odjezd | 30. 4. | 4.28 |
+| **Štrasburk — příjezd** | 30. 4. | 5.55 |
 
-Povšechný program byl v jednom ohledu prorocky přesný:
+Rozvrh počítá s pětihodinovou pauzou v Linci a s příjezdem do Štrasburku před šestou ráno. V konceptu vyrozumění je ale už **jiná varianta** — odjezd z Prahy **29. dubna v 7.12** a příjezd do Štrasburku 30. dubna v 11.54 (poslední číslice je v rukopisu nejistá).<sup>[3]</sup> Do čistopisu pro vládu se pak dostal **29. duben** jako den odjezdu.<sup>[6]</sup> Uvnitř jednoho spisu tedy leží dvě verze plánu vedle sebe — pěkný doklad, že se cesta skládala dohromady během dvou dnů.
 
-> *„Budování stálého opevnění vyžaduje velký finanční náklad a poměrně značný počet vedoucích sil, to je zvláštních odborníků zcela spolehlivých, které my jsme museli od základů připravovati teprve počínajíc rokem 1935."*
+Zpáteční cesta zůstala otevřená: *„Odjezd bude proveden jednak ze Strasbourgu, eventuelně i z Paříže kolem 11. května t. r.“* Celková délka cesty se v konceptu odhaduje **asi do 13. května** včetně cestovních dnů.<sup>[10]</sup>
 
-Husárek si přitom nedělal iluze o tom, k čemu opevnění je:
+## Kolik to stálo
 
-> *„Na úspěch počáteční ofensivy do Německa i menšího rozsahu měli jsme menší a menší naději se vzrůstem německé armády. Dnes by to byla sebevražda a hraní do karet plánům Německa. (…) Tedy na počátku války jistě strategická obrana, ne taktická a pravděpodobně po dosti dlouhou dobu, je neochvějně vůdčí myšlenkou všech našich příprav."*
+Cestovní náležitosti stanovilo **V/1. (intendanční) oddělení MNO** podle služebního předpisu **H-IV-1, § 20**, a jsou v přepisu rozepsané do detailu.<sup>[4]</sup>
 
-## Čtyři roky
+- **Denní zahraniční přídavek:** brigádní generálové a plukovníci **170 Kč**, podplukovníci až štábní kapitán **135 Kč**.<sup>[10]</sup>
+- Za dny jízdy z ČSR do místa služebního řízení a zpět náležel cestovní a noční přídavek **ve dvojnásobné výměře** — s tím, že **je-li účtováno lůžko ve spacím voze, noční přídavek nenáleží**.
+- Zahraniční přídavek náležel jen za dny strávené v cizině **nejméně osm hodin**.
+- Ubytování se hradilo **podle účtu hotelu**; z paušálu si důstojníci museli platit zpropitné, místní jízdy, přenos zavazadel, pojištění i reprezentaci.
+- Zvlášť se proplácely výdaje za vyhotovení či prodloužení pasu, podobenky a výměnu valut.
+- A jedna položka, která hodně napoví o povaze cesty: **příspěvek na opatření občanského oděvu 700 Kč**, nebyl-li týž příspěvek vyplacen v posledních dvou letech.<sup>[6]</sup> Komise měla po Francii cestovat v civilu.
 
-Od prvního výnosu (červenec 1934) do Mnichova uplynuly **čtyři roky a dva měsíce**. Za tu dobu vzniklo ŘOP se dvěma stovkami odborníků, jedenáct ženijních skupinových velitelství, systém hraničářských pluků, přes 10 000 objektů lehkého opevnění a 227 samostatných pěchotních srubů. A pět stavebně dokončených tvrzí z plánovaných sedmnácti.
+Souhrnné číslo dodala **Účtárna MNO** razítkem z **28. dubna 1935**: *„Přibližný náklad bude činiti Kč 65.000,-“*.<sup>[5]</sup> Stejná částka je i v čistopisu pro vládu, spolu s rozpočtovým určením — výdaje zatěžují **kapitolu 5, titul 2, § 31 státního rozpočtu za rok 1935**.<sup>[6]</sup> Účtárna měla vydat cestovní rozkazy a vyplatit zálohu, kterou důstojníci po návratu vyúčtují.<sup>[7]</sup>
 
-Podle Husárkova vlastního programu měla být poslední etapa hotová **v roce 1951**.
+Pro měřítko: **65 000 Kč** je zhruba čtvrtina toho, co o pár měsíců později stála podle kalkulací ŘOP jedna [pevná pozorovací věž](/clanky/smernice-pro-opevnovani-1935) — a asi polovina ceny jednoho [řopíku](/typologie/lo-vz-37). Za tyto peníze se osm lidí naučilo, jak vypadá hotová pevnostní linie zevnitř.
+
+## Co se dělo se spisem potom
+
+Spis nezavřel ani návrat komise. Husárek jej vzal na vědomí **15. května 1935**, na Faucherově přípisu je jeho druhá parafa z **8. července 1935**.<sup>[1][9]</sup> Na podzim se ozval **Nejvyšší kontrolní úřad**: jeho presidium si spisem čj. 137 res. 1935 vyžádalo opis expedice určené ministerstvu financí a ŘOP mu ho poslalo pod čj. 5757 taj. hl. št. ŘOP 1935.<sup>[7]</sup> Cesta osmi důstojníků se tedy stala i položkou účetní kontroly.
+
+Poslední rukopisná poznámka na referátníku je z úplně jiné doby. Stojí u ní datum **19. října 1938** — tři týdny po Mnichovu si spis znovu vyžádal týž referent, který ho v dubnu 1935 psal.<sup>[5]</sup>
+
+## Co z toho plyne
+
+Archiv nedává odpověď na otázku, kterou by čtenář chtěl nejvíc: **co přesně komise ve Francii viděla**. Program cesty stanovil francouzský hlavní štáb, do československého spisu se nedostal a v této jednotce dochován není. Zato spis dává něco jiného — přesnou představu o tom, **jak drahé a jak pomalé bylo v roce 1935 vůbec vypravit osm lidí za hranice** a jak úzké bylo hrdlo, kterým musel projít každý krok nového úřadu.
+
+Tři instituce, dvě ministerstva, jedno usnesení vlády z roku 1927, jeden telefonát v půl dvanácté dopoledne a 65 000 korun. To všechno kvůli jedenácti dnům ve Štrasburku. A o osm měsíců později se u Bohumína betonoval první objekt těžkého opevnění.
 
 ---
 
-**Zdroj:** Suchánek, Jiří: *Čs. opevnění 1935–1938 — Dělostřelecké tvrze.* Extra Publishing, Brno 2024. Text zpracován vlastními slovy; fotografie z knihy nepřebíráme.
+## Prameny
+
+**Archivní**
+
+1. VÚA–VHA Praha, f. Ředitelství opevňovacích prací, sign. 1935/4/2/2, s. 15 — přípis Francouzské vojenské mise v RČS čj. 1506/1.E FVM. 1935 z 23. 4. 1935, podpis gen. Faucher.
+2. Tamtéž, s. 12 — čistopis žádosti MNO předsednictvu ministerské rady čj. 5129/Taj.hl.št.ŘOP.1935 z 24. 4. 1935, s rukopisnou poznámkou o telefonátu ministerstva financí.
+3. Tamtéž, s. 8 — rukopisný koncept vyrozumění s rozdělovníkem a jmenným seznamem komise.
+4. Tamtéž, s. 7 — rukopisná vložka k čj. 5128 s jmenným seznamem a jízdním řádem, na rubu rozpis cestovních náležitostí podle předpisu H-IV-1, § 20 (podepsán plk. Bureš).
+5. Tamtéž, s. 6 — referátník čj. 5128 hl. št. ŘOP 1935 z 23.–24. 4. 1935 s odhadem nákladu Účtárny MNO a razítky.
+6. Tamtéž, s. 13 — druhý list čistopisu žádosti (příspěvek na oděv, celkový náklad, odvolání na usnesení vlády z 18. 6. 1927).
+7. Tamtéž, s. 14 — koncepty expedic a poznámka o vyžádání opisu Nejvyšším kontrolním úřadem.
+8. Tamtéž, s. 16 — přípis ministerstva financí čj. 50388/35-VII/20 z 24. 4. 1935, podepsán ministr Dr. Trapl.
+9. Tamtéž, s. 17 — rubová strana s podacími razítky presidia MNO a parafou gen. Husárka.
+10. Tamtéž, s. 10 — pokračování rukopisného konceptu: zpáteční cesta a denní peněžní náležitosti.
+
+Celá archivní jednotka: VÚA–VHA Praha, f. Ředitelství opevňovacích prací, **sign. 1935/4/2/2/1,2,4,5**, 17 stran, datace 23. 4. – 15. 5. 1935.
+
+Funkce účastníků v ŘOP:
+
+- B. VÚA–VHA Praha, f. Ředitelství opevňovacích prací, sign. 1935/14/6/2, s. 12, 18, 22, 25 — výkazy mimořádných příspěvků orgánům ŘOP za rok 1935 s uvedením přidělení a funkcí.
+
+**Literatura**
+
+- A. Suchánek, Jiří: *Čs. opevnění 1935–1938 — Dělostřelecké tvrze.* Extra Publishing, Brno 2024. (Odstavec o cestě roku 1934 a poradě 26. 1. 1935; převyprávěno vlastními slovy, obrazový materiál nepřebíráme.)
+
+*Skeny archiválií nepublikujeme — jde o studijní kopie s vodoznakem. Údaje jsou dohledatelné v originále podle uvedených signatur a stran.*

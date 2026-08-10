@@ -34,3 +34,18 @@ photos:
     author: Harold
     license: CC BY-SA 3.0
     source: https://commons.wikimedia.org/wiki/File:H%C3%A1j_ve_Slezsku,_Chabi%C4%8Dov,_MO-S_36_(2015-04-14;_02).jpg
+
+# doplneno z archivu VUA-VHA, fond ROP (karton 1-2)
+history: >-
+  Umístění objektu ovlivnila povodňová rizika na řece Opavě. Ženijní skupinové velitelství II
+  v Novém Bohumíně předložilo 21. října 1935 pod čj. 171/taj. 1935 průsvitku k plánu 1 : 20 000
+  se zakreslenou hranicí katastrofální vody na Opavě z let 1927 a 1903. Hranice záplavy byly
+  zjištěny podle záznamů okolních obcí a svědectví pamětníků a pro srovnání s výškou této vody
+  byly zaměřeny výšky terénu (červený kolík) u objektů S-35, S-36 a S-37. Z porovnání vyplynulo,
+  že terén u objektu S-36 by byl asi 0,17 m pod vodou (u S-35 asi 0,25 m pod vodou, zatímco
+  u S-37 by ležel 0,78 m nad hladinou). Hlášení podepsal velitel ŽSV II mjr. žen. Ing. Antonín
+  Sameš.
+sources:
+  - title: "Fond Ředitelství opevňovacích prací, sign. 1935/5/4/1 – 4/5"
+    author: "VÚA–VHA Praha"
+    type: archiv

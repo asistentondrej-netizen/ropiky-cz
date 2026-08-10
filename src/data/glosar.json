@@ -676,5 +676,71 @@
       "Osádka",
       "Hraničářský pluk"
     ]
+  },
+  {
+    "term": "Fond pro věcné potřeby národní obrany",
+    "letter": "F",
+    "definition": "Zvláštní fond zřízený zákonem č. 127/1934 Sb., z něhož se od září 1935 hradila stavba opevnění. Kryl vlastní stavební náklad objektů, výkup pozemků i náhrady škod v pásmech kolem staveb; běžné osobní výdaje ŘOP zůstaly v rozpočtu ministerstva národní obrany.",
+    "related": [
+      "ŘOP"
+    ]
+  },
+  {
+    "term": "Palebný vějíř",
+    "letter": "P",
+    "definition": "Výseč terénu, kterou pokrývá palba jedné zbraně objektu. Směrnice pro opevňování z roku 1935 stanovily vějíř zpravidla na 45–50°; počítalo se s dosahem těžkého kulometu pod betonem do 1 200 m, protitankové zbraně do 800 m a lehkého kulometu z věže do 600 m. Na vnějším okraji vějíře se v lese kácel palebný průsek široký asi 15 m.",
+    "related": [
+      "Střílna",
+      "Trojúhelník palby"
+    ]
+  },
+  {
+    "term": "Plynotěsné dveře",
+    "letter": "P",
+    "definition": "Ocelové dveře, které měly spolu s přetlakem uvnitř objektu zabránit vniknutí bojových látek. Podle Směrnic z roku 1935 se jimi uzavíraly střelecké a odpočinkové místnosti. První dodávku zadalo MNO v říjnu 1935 firmě A. Ippen z Hradce Králové; těsnění tvořila po obvodu křídla vložka z měkké mastné kůže o profilu 20 × 10 mm.",
+    "related": [
+      "Uzávěr"
+    ]
+  },
+  {
+    "term": "Stupeň odolnosti (Směrnice 1935)",
+    "letter": "S",
+    "definition": "Dobová čtyřstupňová škála z návrhu Směrnic pro opevňování: I. proti ráži 155 mm (přímo ohrožené stěny 1,50 m, strop 1,50 m), II. proti 240 mm (2,25 / 2,00 m), III. proti 300 mm (2,75 / 2,50 m) a IV. proti 420 mm (3,50 / 3,50 m). Tvrze měly mít nejméně III. stupeň, dělostřelecké objekty vždy IV. Pozdější praxe stavby toto zařazení dále upravovala.",
+    "related": [
+      "Odolnost (kategorie)",
+      "Tloušťka stěn"
+    ]
+  },
+  {
+    "term": "Taktickotechnická komise",
+    "letter": "T",
+    "definition": "Smíšená komise důstojníků ŘOP, která na místě spojovala taktické a stavební hledisko — vybírala trasy, posuzovala viditelnost a ohrožení palbou a podepisovala zápis o průzkumu. V prosinci 1935 takto prošla příjezdné cesty k tvrzím Hanička, Adam, Bouda a Hůrka trojice pplk. stav. Josef Hubálek, plk. Bruno Slenovský a plk. žen. Jan Čermák.",
+    "related": [
+      "ŘOP"
+    ]
+  },
+  {
+    "term": "Zabraný pozemek",
+    "letter": "Z",
+    "definition": "Plocha, kterou vojenská správa kolem objektu vykupovala nebo vyvlastňovala. V ostravském úseku se v roce 1935 zabíralo zhruba 2 m od vnější stěny překážek, přístupová cesta v šířce 3 m a s příkopy a chodníky pruh 6 m. V lesích se navíc zřizovaly pětimetrové pásy, které musely zůstat volné a zarostlé jen nízkou travinou.",
+    "related": [
+      "Zákon č. 63/1935 Sb."
+    ]
+  },
+  {
+    "term": "Zákon č. 63/1935 Sb.",
+    "letter": "Z",
+    "definition": "Zákon ze dne 29. března 1935 o vyvlastňování k účelům obrany státu — právní opora výkupů a vyvlastnění pozemků pod opevněním. Podle něj předkládalo MNO zemským úřadům soupisy parcel se situačními plány; v roce 1935 šlo o jedinou soudobou normu svého druhu, vedle ní se úřady opíraly ještě o rakouský rayonový regulativ z roku 1860 a uherský vyvlastňovací zákon z roku 1881.",
+    "related": [
+      "Zabraný pozemek"
+    ]
+  },
+  {
+    "term": "ŽSV (ženijní skupinové velitelství)",
+    "letter": "Ž",
+    "definition": "Výkonné stavební velitelství podřízené ŘOP, které v přiděleném úseku řídilo stavbu opevnění — vytyčovalo objekty, jednalo s úřady o pozemcích, přebíralo materiál a střežilo staveniště. Nejstarší je ŽSV II v Novém Bohumíně, jež od roku 1935 vedlo stavbu prvních srubů na Ostravsku.",
+    "related": [
+      "ŘOP"
+    ]
   }
 ]
