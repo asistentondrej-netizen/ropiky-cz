@@ -15,6 +15,7 @@ sources:
   - "Suchánek J., Fuksa I.: Čs. opevnění 1935–1938: Pěchotní sruby (Extra Publishing, Brno 2025)"
   - "Všeobecné zásady a složky stálého opevnění (ŘOP, 1939)"
   - "Kupka V.: Pancíře československého opevnění"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/24/5 (Směrnice pro opevňování 1935)"
 ---
 
 **Otočná kulometná věž s krycím označením OR** byla **nejrozměrnějším pancéřovým prvkem** určeným pro [pěchotní sruby](/typologie/pechotni-srub) — a zároveň jedním z mála prvků čs. opevnění, který se nedostal do žádného objektu.
@@ -44,6 +45,20 @@ Tato koncepce ale vyžadovala rozsáhlý vnitřní prostor uvnitř srubu pro vyv
 | vnitřní vybavení | **DZ-20** — panoramatická mapa, osvětlení, odvod nábojnic |
 
 Věž se skládala z **mohutného předpancíře**, který se zabetonoval do připravené šachty srubu, a ze samotné **otočné části**.
+
+## Cena: proč se šetřilo
+
+Kalkulační data ve Směrnicích pro opevňování z roku 1935 ukazují, o jaké částky šlo — a zároveň vysvětlují, proč se v roce 1937 od výsuvného provedení ustoupilo:
+
+| Prvek | Kalkulační cena 1935 |
+|---|---|
+| Pevná pozorovací věž | 240 000 Kč |
+| **Kulometná věž otočná** | **asi 960 000 Kč** |
+| **Kulometná věž výsuvná** | **asi 3 200 000 Kč** |
+
+**Výsuvné provedení tedy vycházelo více než třikrát dráž než otočné** — a samotná otočná věž stála zhruba tolik co celý malý pěchotní srub (640 000–960 000 Kč) nebo skoro polovinu kilometru opevněné linie (2 200 000 Kč). Přechod na čistě otočnou konstrukci nebyl jen technickým zjednodušením, ale i úsporou.
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/24/5, s. 24 textu. Podrobně: [Směrnice pro opevňování 1935](/clanky/smernice-pro-opevnovani-1935). Ceník v širším kontextu: [Co stálo opevnění: ceník srubů z roku 1935](/clanky/co-stalo-opevneni-cenik-1935).*
 
 ## Kde měly být osazeny
 

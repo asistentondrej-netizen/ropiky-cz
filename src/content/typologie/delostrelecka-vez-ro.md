@@ -14,6 +14,8 @@ isPrototype: true
 sources:
   - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"
   - "Všeobecné zásady a složky stálého opevnění, ŘOP 1939"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/24/5 (Směrnice pro opevňování 1935)"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/44-45 (rozpočet úseku Orlické hory–Náchod, čj. 5967/taj.)"
 ---
 
 > *„Otočné věže jsou první základní složkou dělostřelectva každé tvrze. V určitých případech nahrazují dělostřelecké sruby, když pro tyto nelze nalézti vhodné umístění a nepřítel by mohl ostřelovati přímo odkryté střílny."*
@@ -56,6 +58,25 @@ U prvních tvrzí nebyly sruby pro výsuvnou dělovou věž součástí původn�
 | Osádka | **54 mužů** — 2 důstojníci, 2 rotmistři, 13 poddůstojníků, 36 vojínů |
 
 Pod předpancířem byl **průlezný prostor** sloužící ke kontrole a čištění horního vedení věže a drážky mezi věží a předpancířem.
+
+## Nejdražší prvek celé linie
+
+Že šlo o technicky nejambicióznější součást opevnění, se dá vyčíst i z cenovek. Už kalkulační data ve Směrnicích pro opevňování z roku 1935 řadí výsuvnou dělostřeleckou věž o několik řádů výš než cokoli jiného:
+
+| Prvek | Kalkulační cena 1935 |
+|---|---|
+| Pevná pozorovací věž | 240 000 Kč |
+| Kulometná věž otočná | 960 000 Kč |
+| Kulometná věž výsuvná | 3 200 000 Kč |
+| **Výsuvná dělostřelecká věž jako samostatný objekt se vším zařízením** | **40–48 000 000 Kč** |
+
+Spis k tomu dodává, že *„cena jen otočné dělostřelecké věže je mnohem menší, asi 10 milionů"* — drtivou většinu nákladu tedy tvořil vysouvací mechanismus, podzemní zázemí a vlastní železobetonový objekt, ne pancíř sám.
+
+Pro srovnání s celkem: **celá dělostřelecká tvrz** se v téže kalkulaci počítala jako **+20 milionů Kč** k ceně linie a **1 km opevněné linie z izolovaných srubů** vycházel na 2,2 milionu Kč.
+
+Konkrétní rozpočet už byl střízlivější. V přehledu objektů úseku **Orlické hory–Náchod** (čj. 5967/taj.) je objekt č. 84 — **dělostřelecká otočná věž v odolnosti IV s houfnicemi H 10 cm 2/1 a osádkou 4 důstojníků, 15 poddůstojníků a 26 mužů** — oceněn na **6 675 000 Kč**. Byl to nejdražší bojový objekt celého pětatřicetikilometrového úseku; pro srovnání, minometná otočná věž s dělostřeleckým pozorovacím zvonem (objekt 83) stála 3 270 000 Kč a běžný oboustranný pěchotní srub 1 100 000 Kč.
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/24/5, s. 24 textu, a sign. 1935/44-45, s. 10–12. Podrobně: [Směrnice pro opevňování 1935](/clanky/smernice-pro-opevnovani-1935). Ceník v širším kontextu: [Co stálo opevnění: ceník srubů z roku 1935](/clanky/co-stalo-opevneni-cenik-1935).*
 
 ## Jak byla věž uspořádána
 

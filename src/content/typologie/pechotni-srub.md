@@ -18,6 +18,9 @@ sources:
   - "Všeobecné zásady a složky stálého opevnění (ŘOP, 1939)"
   - "Stehlík, E. a kol.: Lexikon těžkých objektů československého opevnění z let 1935–38"
   - "Denkschrift über die tschecho-slowakische Landesbefestigung (OKH, Berlín 1941) — BArch RH 11-III/1028, public domain"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/24/5 (Směrnice pro opevňování 1935)"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/44-45 (přibližný ceník objektů čj. 5789/taj. a rozpočet úseku Orlické hory–Náchod)"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/38/2-2 (zatímní počty osádek tvrze Berghöhe)"
 ---
 
 **Pěchotní srub** je páteřní objekt **těžkého opevnění (TO)**. Dobové pojetí ho definuje jako železobetonový objekt vybavený různým počtem kulometů, kanonů či minometů, dále technickými prostředky pro pozorování, větrání a osvětlení, pro vnitřní i vnější spojení, s ubytováním pro osádku, skladišti různého druhu a **pokud možno i se studnou**.
@@ -59,6 +62,32 @@ Sruby se stavěly s různou tloušťkou zdiva podle toho, jaké dělostřelecké
 | **IV** | 420 mm | pouze **tvrze** | proti dvěma zásahům |
 
 ![Šest stupňů odolnosti pěchotních srubů — přehled rážÍ, typů objektů a relativní síly stěn](/img/typologie/schema-odolnosti-srubu.svg)
+
+### Původní kodifikace: čtyři stupně odolnosti podle Směrnic 1935
+
+Tabulka výše popisuje **realizovanou praxi let 1937–1938**. Poprvé byly stupně odolnosti kodifikovány už v zakládajícím metodickém spisu ŘOP **Směrnice pro opevňování** (čj. 5.103 taj-hl. št./ŘOP 1935), a to v podobě **čtyř římských stupňů**. Tato tabulka je pro celý web **referenční** — ostatní typologické stránky se odvolávají na ni.
+
+> „Stanoví se podle důležitosti objektů a možností nepř. dělostř. palby. Jsou čtyři stupně odolnosti."
+
+| Stupeň | Odolá ráži | Přímo ohrožené stěny | Strop | Pancíř věží |
+|---|---|---|---|---|
+| **I.** | 155 mm | 1,50 m | 1,50 m | 80–120 mm |
+| **II.** | 240 mm | 2,25 m | 2,00 m | 120–150 mm |
+| **III.** | 300 mm | 2,75 m | 2,50 m | 180–200 mm |
+| **IV.** | 420 mm | 3,50 m | 3,50 m | 250–300 mm |
+| *méně důležité objekty a objekty v lesích* | — | 1,25 m | 1,25 m | — |
+
+K tabulce patří tři poznámky, bez nichž jí nelze rozumět:
+
+- **zadní a nepřímo ohrožené stěny mají u všech stupňů 1,0 m**;
+- u bočních nepřímo ohrožených stěn se s průrazem nepočítá, protože je chrání krakorec — tam, kde se dá čekat tlak po výbuchu granátu ráže 420 mm, jde ale boční stěna na **1,50 m**;
+- pancíře se odlévaly ze **speciální ocelolitiny o pevnosti 70–120 kg/mm²**.
+
+Přiřazení stupňů jednotlivým typům objektů bylo v textu jednoznačné: **tvrze nejméně III. stupeň, dělostřelecké objekty vždy IV., pozorovatelny zpravidla III. a nikdy méně, izolované objekty v intervalech mezi tvrzemi obyčejně II. a nižší.**
+
+**Co se do roku 1938 změnilo.** Ráže 240, 300 a 420 mm zůstaly beze změny. Přibyla jen levnější spodní patra řady: arabské stupně **1** (155 mm) a **2** (210 mm) pro sruby malého typu a nový, nejnižší římský stupeň **I**. Ráže 155 mm, kterou rok 1935 přiřazuje I. stupni, tak v realizované praxi odpovídá arabskému stupni 1. Nejde o rozpor v pramenech, ale o **vývoj klasifikace** mezi dubnem 1935 a výstavbou v letech 1937–1938.
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/24/5, s. 15 textu. Podrobně: [Směrnice pro opevňování 1935](/clanky/smernice-pro-opevnovani-1935).*
 
 ### Proč „araby" vůbec vznikly
 
@@ -153,6 +182,44 @@ Autentické půdorysy níže pocházejí z německé vojenské studie **Denkschr
 
 > **Viz také:** [Německá špionáž a cvičné objekty](/o-opevneni/nemecka-spionaz) — předválečné nákresy čs. pěchotních srubů, které si Wehrmacht v letech 1937–1938 postavil jako cvičné objekty pro trénink útočných postupů.
 
+## Co srub stál — ceny roku 1935
+
+Ceny jsou dobové kalkulace ŘOP z roku 1935, tedy z doby, kdy se linie teprve projektovala. Reálné náklady na skutečně postavené objekty se od nich lišily.
+
+### Kalkulační data ze Směrnic
+
+| Položka | Cena |
+|---|---|
+| **Malý pěchotní srub** — 1 pevná věž, 1 střílna pro bočnou palbu, 2 ochranné střílny, zařízení pro vrhání granátů z věže, ruční ventilátor, překážka kolem objektu | **640 000–960 000 Kč** |
+| **Velký pěchotní srub** — oboustranný, po 2 hlavních střílnách na každou stranu, ochranné střílny, 2 pevné pozorovací věže, 2 protitankové zbraně, motorický pohon ventilace, překážky | **1 600 000–1 800 000 Kč** |
+| 1 km opevněné linie z izolovaných srubů s překážkami a vnitřním zařízením | **2 200 000 Kč** |
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/24/5, s. 24 textu.*
+
+### Přibližný ceník podle stupně odolnosti (září 1935)
+
+Na dotaz 1. oddělení ŘOP, potřebného pro přípravu rozpočtů, vznikl 9.–10. září 1935 podrobnější ceník rozdělující náklady na **stavební část** a na **zařízení a pancéřování** (čj. 5789/taj.):
+
+| Objekt | Odolnost | Stavba | Zařízení a pancéřování | Úhrnem |
+|---|---|---|---|---|
+| **Jednostranný srub** se 2 střílnami a 1 zvonem | I | 546 000 | 300 000 | **846 000 Kč** |
+| | II | 600 000 | 300 000 | **900 000 Kč** |
+| | III | 786 000 | 350 000 | **1 136 000 Kč** |
+| | IV | 1 000 000 | 350 000 | **1 350 000 Kč** |
+| **Oboustranný srub** se 2 střílnami na každou stranu a 2 zvony | I | 650 000 | 510 000 | **1 160 000 Kč** |
+| | II | 830 000 | 510 000 | **1 340 000 Kč** |
+| | III | 1 020 000 | 610 000 | **1 630 000 Kč** |
+| | IV | 1 350 000 | 610 000 | **1 960 000 Kč** |
+| **Oboustranný srub** s 1 střílnou na každé straně a 2 zvony | I | 490 000 | 440 000 | **930 000 Kč** |
+
+Ceny se rozumějí **bez zbraní, bez munice, bez spojení, bez pozemku a bez překážek**. Skok mezi I. a IV. stupněm dělá u oboustranného srubu **zhruba 800 000 Kč** — a právě tenhle rozdíl je ekonomickým důvodem, proč později vznikly „araby".
+
+Rozpočet úseku **Orlické hory–Náchod** (čj. 5967/taj., 35 km, 93 objektů) pak s těmito čísly počítá v praxi: běžný oboustranný pěchotní srub odolnosti I je tam veden za **1 100 000 Kč** s výzbrojí 4/1 kulometů vz. 35 a 2/2 vz. 25, 375 ručními granáty, 2 periskopy a 6 triskopy a osádkou 1 důstojník / 2 poddůstojníci / 22 mužů. Sruby odolnosti II–III v témže úseku stály 1 500 000–2 260 000 Kč.
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/44-45, s. 10–12.*
+
+→ Podrobně o vzniku ceníku, rozpočtu úseku Orlické hory–Náchod a celkovém programu za 10 388 milionů Kč: [Co stálo opevnění: ceník srubů z roku 1935](/clanky/co-stalo-opevneni-cenik-1935)
+
 ## Konstrukce a vnitřní uspořádání
 
 Ačkoli měla většina srubů odlišný vzhled i půdorys, vnitřní uspořádání se zpravidla podobalo — objevují se tytéž místnosti, jen v jiném tvaru a pořadí.
@@ -209,6 +276,33 @@ Množství se určovalo pro každou zbraň zvlášť podle jejího účelu. U le
 - **zvukovody a světelná signalizace** mezi střeleckými místnostmi a pozorovacími zvony pro rychlý přenos informací,
 - **zemní telegraf** — místnosti pro něj vznikly, ale **do září 1938 nebyl instalován v žádném srubu**,
 - **radiostanice** u objektů s dělostřeleckými pozorovateli — zůstaly jen na papíře.
+
+#### Dobové normy ventilace (1935)
+
+Směrnice pro opevňování stanovily konkrétní čísla, podle nichž se ventilace srubů dimenzovala:
+
+| Parametr | Hodnota |
+|---|---|
+| Přetlak v objektu | **3–5 mm vodního sloupce** |
+| Sruby s osádkou **do 12 mužů** | **1 ventilátor** |
+| Sruby větší | **2 ventilátory** |
+| Každá věž | **zvláštní ventilátor**, který saje vzduch ze srubu |
+| Nasávací roura | **40 × 40 cm**; ostatní potrubí vedeno u stropu, průřez podle velikosti místnosti |
+| Pohon | normálně elektrický, každý ventilátor zařízen i na ruční pohon (výkon zhruba poloviční) |
+
+Kromě přetlaku, filtrace a plynotěsnosti dveří obytných a střeleckých místností se **s jinou kolektivní protiplynovou ochranou nepočítalo** — zbytek měly zajistit plynové masky.
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/24/5, s. 35 a 43 textu.*
+
+→ Jak se filtry a agregáty vybíraly a co to stálo: [Vzduch a proud: technika přežití v objektu](/clanky/vzduch-a-proud-technika-preziti-v-objektu)
+
+### Odpočinek a strava
+
+Dimenzování ubytování bylo stejně střízlivé jako všechno ostatní: **místnost pro odpočinek pojala polovinu osádky** na polních lůžkách ve dvou patrech — počítalo se s tím, že druhá polovina je právě ve službě. Kubatura na muže se odstupňovala na 4,0 m³ (dobré ubytování), 3,6 m³ (průměrné) a 3,0 m³ (nejmenší přípustná).
+
+Pro osádky se počítalo se **zvýšenou „pevnostní dávkou" potravin** uloženou v plechových zaletovaných nádobách. S vařením v objektu se nepočítalo — strava se buď donášela, nebo jen ohřívala z vlastních zásob.
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/24/5, s. 35 a 43 textu.*
 
 > **Podrobně:** [Pomocné stavby těžkého opevnění — kabelové komory, velitelská stanoviště a muniční sklady](/clanky/pomocne-stavby-teziho-opevneni)
 
@@ -310,6 +404,19 @@ Velikost osádky závisela na dispozicích objektu, výzbroji a úkolech:
 | nepostavený T-S 40 „U chaty" | 49 mužů (z toho 7 dělostřeleckých pozorovatelů) |
 | K-S 36 „Pod Adamem" | 37 mužů |
 | nejmenší „araby" (R-S 90/II, K-S 53b) | **12 mužů** |
+
+### Jak vypadal rozpis osádky v roce 1935
+
+Nejstarší dochované rozpisy osádek jsou „zatímní počty" tvrzí úseku Králíky–Mladkov, zpracované mjr. gšt. Podroužkem a schválené brig. gen. Husárkem. U tvrze **Berghöhe** (pozdější Hůrka) rozepisují osádku funkci po funkci:
+
+| Objekt | Osádka | Rozpis |
+|---|---|---|
+| **Pěchotní srub 10** | **1 důstojník, 9 poddůstojníků, 29 vojínů** | velitelství a záloha obsluhy 1+6; dvojče těžkých kulometů 2+3; dvojče ve věži 3+5; 2 smíšená dvojčata 4+8; 2 lehké kulomety 2; filtr a telefon 5 |
+| **Oboustranný pěchotní srub 13** | **2 důstojníci, 10 poddůstojníků, 23 vojínů** | velitel a záloha 1+5; dvojče těžkých kulometů v kopuli 2+3; 2 smíšená dvojčata pod betonem 4+8; 2 lehké kulomety 1+2; telefon a filtr 5; **dělostřelečtí pozorovatelé 1 důstojník a 5 poddůstojníků** |
+
+Rozpis rozlišoval, kolik lidí je „na místě, u zbraní" a kolik v kasárnách — u srubu 10 to bylo 3 poddůstojníci a 16 vojínů u zbraní, zbytek v kasárnách. Za pozornost stojí, kolik místa v tabulce zabírá spojení a filtrovna: pět mužů, tedy stejně jako obsluha dvou hlavních zbraní.
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/38/2-2 (čj. 6740 taj. hl. št. ŘOP 1935).*
 
 Osádky byly v míru rozděleny na **dva sledy**, z nichž každý musel být schopen nouzově obsloužit veškeré zbraně, stroje a pojítka ve srubu. Jeden sled byl v opevnění, druhý v kasárnách; střídaly se po týdnu nebo po 14 dnech. **Zásoby proviantu i munice byly vypočítány na 14 dnů** nepřetržitého boje, stejně jako palivo pro dieselagregát.
 

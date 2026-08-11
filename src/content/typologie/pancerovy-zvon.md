@@ -14,6 +14,8 @@ sources:
   - "Jan Lakosil: Pancéřové zvony čs. opevnění"
   - "Škoda Plzeň — technická dokumentace"
   - "Vítkovice — výrobní záznamy"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/24/5 (Směrnice pro opevňování 1935)"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/44-45 (přibližný ceník objektů, čj. 5789/taj.)"
 ---
 
 **Pancéřový zvon** je **nejcharakterističtější součást těžkého československého opevnění**. Masivní **pevný (neotočný)** ocelový odlitek ve tvaru zvonu, umístěný ve stropnici pěchotního srubu nebo tvrzového objektu, sloužil buď k pozorování, nebo k přímé palbě z lehkého kulometu.
@@ -49,6 +51,23 @@ Tloušťka pancíře odpovídala stupni odolnosti objektu, na který byl zvon os
 ## Výroba a dodavatelé
 
 Zvony vyráběly především **Škoda Plzeň** a **Vítkovické železárny**. Osazovaly se na objekty v letech **1936–1938**; část objektů na dodávku zvonů do září 1938 ještě čekala.
+
+## Kolik zvon stál — kalkulace 1935
+
+Směrnice pro opevňování z roku 1935 ještě neznají pojem „zvon" — pro pevný pozorovací prvek používají dobový termín **pevná pozorovací věž**. Její kalkulační cena činila **asi 240 000 Kč**.
+
+| Pancéřový prvek | Kalkulační cena 1935 |
+|---|---|
+| **Pevná pozorovací věž** (pozdější pancéřový zvon) | **240 000 Kč** |
+| [Kulometná věž otočná](/typologie/kulometna-vez-or) | 960 000 Kč |
+| Kulometná věž výsuvná | 3 200 000 Kč |
+| [Výsuvná dělostřelecká věž](/typologie/delostrelecka-vez-ro) jako samostatný objekt | 40–48 000 000 Kč |
+
+Zasazeno do kontextu: **malý pěchotní srub** se dvěma ochrannými střílnami, jednou hlavní střílnou a **jednou pevnou pozorovací věží** se odhadoval na 640 000–960 000 Kč. Zvon tedy tvořil zhruba **čtvrtinu až třetinu ceny celého objektu**.
+
+Tomu odpovídá i podrobnější ceník z září 1935, kde je u srubů oddělena stavební část od položky „zařízení a pancéřování": u jednostranného srubu s **jedním** zvonem je pancéřování 300 000–350 000 Kč, u oboustranného se **dvěma** zvony 510 000–610 000 Kč. Tloušťka pancíře přitom rostla se stupněm odolnosti objektu — od 80–120 mm v I. stupni po 250–300 mm ve IV.
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/24/5, s. 15 a 24 textu, a sign. 1935/44-45, s. 12. Podrobně: [Směrnice pro opevňování 1935](/clanky/smernice-pro-opevnovani-1935). Ceník v širším kontextu: [Co stálo opevnění: ceník srubů z roku 1935](/clanky/co-stalo-opevneni-cenik-1935).*
 
 ## Osudy po Mnichovu
 

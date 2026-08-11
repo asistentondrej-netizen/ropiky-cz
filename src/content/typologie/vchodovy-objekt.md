@@ -15,6 +15,7 @@ updated: 2026-08-08
 sources:
   - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"
   - "Všeobecné zásady a složky stálého opevnění, ŘOP 1939"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/38/2-2 (zatímní počty osádek tvrze Berghöhe)"
 ---
 
 > *„Vchod je patrový objekt, v jehož středu horního patra je vjezd pro nákladní auta a vedle tohoto oddělený vchod pro osádku. Oba vstupy jsou opatřeny vhodnými uzávěry, které chrání vnitřní část objektu proti účinkům střelby a proti vnikání bojových chemických látek."*
@@ -91,6 +92,25 @@ Konečné řešení byl **šikmý výtah s klínovými podstavnými vozíky**: v
 **Horní patro** — vjezd, překladiště a **dvě střelecké místnosti**. Výzbroj se lišila podle potřeby a terénu, zpravidla šlo o variace protitankového kanonu vz. 36 a těžkých či lehkých kulometů. Střelecká místnost s lepším přístupem ke vchodu sloužila zároveň jako **hotovostní místnost** a její osádka kontrolovala osoby vstupující do tvrze; do druhé se dalo dostat jen ze spodního patra po železných schodech nebo žebříku. Ve stropní desce byly **dva pancéřové pěchotní zvony** pro lehké kulomety. Někdy tu byla i dopravní kancelář.
 
 **Dolní patro** mělo o něco menší půdorys: vlastní filtrovna vzduchu, skladiště střeliva, ubikace mužstva, místnost pro radiostanici, stanoviště velitele objektu, WC a umývárna, sklady proviantu a nářadí a **mechanismus padacích vrat**.
+
+## Osádka: objekt 12a tvrze Berghöhe
+
+Že vchodový objekt nebyl určen k boji, je vidět i na rozpisu jeho osádky. „Zatímní počty" tvrze **Berghöhe** (pozdější Hůrka) z roku 1935 uvádějí u vchodového objektu **12a** celkem **1 důstojníka, 3 poddůstojníky a 19 vojínů**:
+
+| Funkce | Počet |
+|---|---|
+| Velitel a záloha | 1 důstojník, 2 vojíni |
+| Smíšené dvojče pod betonem | 2 poddůstojníci, 4 vojíni |
+| 4 lehké kulomety ve zvonech | 4 vojíni |
+| Obsluha vrat | 2 vojíni |
+| Poddůstojník u vchodu | 1 poddůstojník |
+| Telefon | 3 vojíni |
+| Filtr | 2 vojíni |
+| Svážnice | 2 vojíni |
+
+Z celkových 23 mužů bylo na místě 2 poddůstojníci a 13 vojínů, zbytek v kasárnách; k dispozici bylo 8 lůžek. **Na provoz — vrata, svážnici, filtr a telefon — připadalo devět mužů, na zbraně jedenáct.** Pro srovnání: bojové pěchotní sruby téže tvrze měly osádku 39 (srub 10), resp. 35 mužů (srub 13).
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/38/2-2 (čj. 6740 taj. hl. št. ŘOP 1935, příloha 7).*
 
 ## Plíce celé tvrze
 

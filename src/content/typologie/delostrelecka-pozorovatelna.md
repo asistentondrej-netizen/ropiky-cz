@@ -16,6 +16,7 @@ sources:
   - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"
   - "Všeobecné zásady a složky stálého opevnění, ŘOP 1939"
   - "Pavel, J.: Dělostřelecké pozorování v Orlických horách. Novodobé fortifikace 1/1999"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/24/5 (Směrnice pro opevňování 1935)"
 ---
 
 > *„Jen v ojedinělých případech (…) buduje se pro tvrz pozorovatelna jako zvláštní objekt. Je-li v prostoru objektů tvrze, je připojena šachtou na podzemí. Zpravidla to ale bude izolovaný objekt poblíže tvrze na výhodném místě, které dává možnost dalekého rozhledu."*
@@ -54,6 +55,12 @@ Z běžných pěchotních zvonů se pozorovalo **4× periskopickým dalekohledem
 > Do dneška se v celém čs. opevnění dochovaly **pouze dva dělostřelecké pozorovací zvony**.
 
 ## Samostatné pozorovatelny
+
+III. stupeň odolnosti nebyl u pozorovatelen náhoda. Směrnice pro opevňování z roku 1935 stanovily jasné pravidlo: **„Pozorovatelny mají zpravidla stupeň odolnosti III, ne však méně."** Ve stejné větě se určuje i zbytek škály — tvrze nejméně III. stupeň, dělostřelecké objekty vždy IV., izolované objekty v intervalech mezi tvrzemi obyčejně II. a nižší. III. stupeň znamenal odolnost proti ráži **300 mm**, přímo ohrožené stěny **2,75 m**, strop **2,50 m** a pancíř **180–200 mm**; úplná tabulka je u [pěchotního srubu](/typologie/pechotni-srub).
+
+Formulace „ne však méně" dává smysl právě u objektu, který stojí za hlavní obrannou čarou a nemá bojovat: **odolnost se tu neodvozovala od pravděpodobnosti zásahu, ale od nenahraditelnosti toho, co objekt dělá.** Oslepená tvrz nemůže střílet.
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/24/5, s. 15 textu. Podrobně: [Směrnice pro opevňování 1935](/clanky/smernice-pro-opevnovani-1935).*
 
 Stavěly se ve **III. stupni odolnosti** (druhém nejvyšším) jako dvou- nebo třípodlažní. Ležely **za hlavní obrannou čarou** a neměly se přímo účastnit boje, proto jejich výzbroj odpovídala pouze nutné obraně blízkého okolí objektu a budovala se kolem nich jen **lehká obvodová překážka**, která měla zabránit přístupu nepovolaným osobám. Zato se kladl velký důraz na **maskování**.
 

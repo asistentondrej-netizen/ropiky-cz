@@ -17,6 +17,8 @@ sources:
   - "Suchánek, J.: Čs. opevnění 1935–1938 — Dělostřelecké tvrze. Extra Publishing, Brno 2024"
   - "Všeobecné zásady a složky stálého opevnění, ŘOP 1939"
   - "Fuksa, I.: Improvizovaná dělostřelecká výzbroj dělostřeleckých srubů tvrzí čs. opevnění v roce 1938. Historie a vojenství 1/2023"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/24/5 (Směrnice pro opevňování 1935)"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/38/2-1 (počty osádek tvrze Adam)"
 ---
 
 > *„Jejich úkolem je výhradně bočná palba před opevněnou linii a do intervalů mezi sousední tvrze. Jsou vždy jednostranné, a to buď pravo- nebo levostranné, podle směru palby, hledíme-li od našeho postavení k nepříteli."*
@@ -39,6 +41,10 @@ sources:
 | Provedení | vždy **jednostranné** — pravé nebo levé podle směru palby |
 | Vybetonováno | **6 objektů** |
 | Osazeno houfnicemi | **0** |
+
+**IV. stupeň odolnosti nebyl u dělostřeleckého srubu volbou, ale pravidlem.** Směrnice pro opevňování z roku 1935 ho stanovily kategoricky: zatímco tvrze měly mít nejméně III. stupeň, pozorovatelny zpravidla III. a izolované objekty v intervalech obyčejně II. a nižší, u **dělostřeleckých objektů se vždy počítalo se IV. stupněm** — tedy s odolností proti ráži 420 mm, přímo ohroženými stěnami 3,50 m, stropem 3,50 m a pancíři 250–300 mm. Jediná výjimka byl nikdy nepostavený izolovaný dělostřelecký srub (viz níže), který měl stát za linií, a proto mu stačil III. stupeň. Úplná tabulka stupňů je u [pěchotního srubu](/typologie/pechotni-srub).
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/24/5, s. 15 textu. Podrobně: [Směrnice pro opevňování 1935](/clanky/smernice-pro-opevnovani-1935).*
 
 Vybetonovat takového obra „na jeden zátah" nebylo možné, a tak se dělostřelecké sruby budovaly **po částech v rozmezí několika týdnů** s nezbytnou dilatační spárou. Srub K-S 11 „Na svahu" na Hůrce se betonoval nadvakrát — 6.–10. září a 4.–13. října 1937 — a spolykal **5 350 m³** betonové směsi.
 
@@ -66,6 +72,19 @@ Pod každou kasematou byla **dřevem obložená plynotěsná komora**, do níž 
 Dále zde bylo stanoviště velitele objektu, filtrovna, toalety a **ubikace části osádky**; zbytek byl ubytován v podzemí. Ubikace spojovaly s horním patrem průlezy s kovovými žebříky.
 
 Spojení s podzemím zajišťovala **šachta se schodištěm pro pěší a dvěma elektrickými výtahy**. Schodišťová šachta srubu K-S 11 má průřez 245 × 245 cm, výtahy typu Vý IV s nosností 2 500 kg byly v samostatné šachtě oddělené příčkou.
+
+## Osádka: srub č. 43 tvrze Adam
+
+Nejstarší dochovaný rozpis osádky dělostřeleckého srubu pochází z roku 1935 a týká se objektu **č. 43 tvrze Adam** (dnešní K-S 43 „Veverka"). Ukazuje, že objekt byl osádkově rozdělen na dvě části — samotný srub a jeho zázemí v podzemí:
+
+| Část | Důstojníci | Rotmistři | Poddůstojníci | Vojíni | Celkem |
+|---|---|---|---|---|---|
+| **Horní patro srubu** (obsluha 3 děl) | 1 | 1 | 11 | 39 | **52** |
+| **Podzemí srubu** | 2 | 1 | 7 | 24 | **34** |
+
+V horním patře připadali na každou ze tří houfnic dělovod, mířič, pomocník mířiče, tři podavači, nabíječ, střelec a časovač; dále devět mužů na přípravu náplní a výpravu střeliva, čtyři na obsluhu zdviže, dva na větrání, dva na lehký kulomet ve zvonu a jeden na kulomet v kaponiéře. V podzemí sídlil velitel baterie s počtáři, dělmistr, muniční poddůstojník, telefonní ústředna (2 poddůstojníci a 6 vojínů), doprava střeliva z manipulačního skladu M2 ke zdviži a devítičlenná záloha.
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/38/2-1 (čj. 6736 taj. hl. št. ŘOP 1935, příloha 13).*
 
 ## Trojnásobná ochrana střílen
 

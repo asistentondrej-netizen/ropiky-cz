@@ -20,6 +20,8 @@ sources:
   - "Stehlík, E.: Lexikon tvrzí československého opevnění z let 1935–38. Dvůr Králové nad Labem 1996"
   - "Novák, J.: Těžké opevnění Odra–Krkonoše, 2. díl Tvrzové objekty. Jablonné nad Orlicí 1999"
   - "Denkschrift über die tschecho-slowakische Landesbefestigung (OKH, Berlín 1941) — BArch RH 11-III/1028, public domain"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/24/5 (Směrnice pro opevňování 1935)"
+  - "VÚA–VHA Praha, fond Ředitelství opevňovacích prací, sign. 1935/44-45 (rozpočet úseku Orlické hory–Náchod, čj. 5967/taj.)"
 ---
 
 **Tvrz** byla vrcholem československé fortifikace — skupina několika železobetonových objektů nejvyššího, **IV. stupně odolnosti**, propojených systémem podzemních chodeb a sálů v hloubce desítek metrů. Ředitelství opevňovacích prací (ŘOP) používalo dobově prostý termín **„tvrz"**; dnes běžné označení *dělostřelecká tvrz* je až pozdější. Stejně tak ŘOP psalo o **osádce**, nikoli posádce.
@@ -111,6 +113,43 @@ Práce v podzemí byla nebezpečná. Smrtelné nehody si vyžádaly:
 | Hanička | 3 |
 | Dobrošov | 2 |
 | Adam, Orel, Šibenice | po 1 |
+
+## Co tvrz stála — kalkulace roku 1935
+
+Ještě než se vytyčil první objekt, měl hlavní štáb spočítáno, kolik bude tvrz stát navíc oproti běžné linii. Směrnice pro opevňování z roku 1935 pracují s **kalkulačními jednotkami na kilometr fronty**:
+
+| Kalkulační jednotka | Cena |
+|---|---|
+| 1 km opevněné linie z izolovaných srubů, s překážkami a vnitřním zařízením | **2 200 000 Kč** |
+| **Každá pěchotní tvrz** — připočíst k ceně linie (zesílení o 1 další srub a podzemí) | **+5 000 000 Kč** |
+| **Každá dělostřelecká tvrz** — připočíst k ceně linie | **+20 000 000 Kč** |
+| Spojení na 1 km fronty | **300 000 Kč** |
+
+Dělostřelecká tvrz tedy vycházela jako **zhruba desetinásobek** ceny kilometru běžné linie. Kalkulace se ukázala jako střízlivá až optimistická: v rozpočtu úseku **Orlické hory–Náchod** (čj. 5967/taj.) je samotný **vchodový objekt tvrze Skutina s podzemím oceněn na 30 000 000 Kč** a **vchod tvrze Dobrošov s podzemím na 20 000 000 Kč** — u obou s osádkou 12 důstojníků, 34 poddůstojníků a 136 mužů. Nejdražším bojovým objektem celého úseku byla dělostřelecká otočná věž v odolnosti IV s houfnicemi H 10 cm za **6 675 000 Kč**.
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/24/5, s. 24 textu, a sign. 1935/44-45, s. 10–12. Podrobně: [Směrnice pro opevňování 1935](/clanky/smernice-pro-opevnovani-1935). Ceník v širším kontextu: [Co stálo opevnění: ceník srubů z roku 1935](/clanky/co-stalo-opevneni-cenik-1935).*
+
+### Odolnost a hloubka podzemí podle Směrnic 1935
+
+Zásada, podle níž se stupeň odolnosti přiděloval, byla formulována už v roce 1935 a platila po celou dobu výstavby:
+
+- **tvrze** — nejméně **III. stupeň**,
+- **dělostřelecké objekty** — **vždy IV. stupeň**,
+- **pozorovatelny** — zpravidla III., nikdy méně,
+- **izolované objekty v intervalech mezi tvrzemi** — obyčejně II. a nižší.
+
+S tím souvisela i předepsaná hloubka podzemí:
+
+| Odolnost tvrze | Hloubka podzemí |
+|---|---|
+| **III. stupeň** | **17–18 m**, ve skále **14 m** |
+| **IV. stupeň** | **20–22 m** |
+
+Pozdější praxe formulovala tentýž požadavek jinak — jako **mocnost nadloží** (nejméně 16 m rostlé skály nebo 20 m kompaktní zeminy, viz níže). Jde o dva způsoby zápisu téhož: rok 1935 měří od povrchu dolů, pozdější zásady měří tloušťku vrstvy nad stropem galerie.
+
+Úplná tabulka stupňů odolnosti včetně tlouštěk stěn je u [pěchotního srubu](/typologie/pechotni-srub).
+
+*Zdroj: VÚA–VHA Praha, f. ŘOP, sign. 1935/24/5, s. 15 textu.*
 
 ## Jak se tvrz stavěla
 
