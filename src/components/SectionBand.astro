@@ -1,0 +1,89 @@
+---
+/**
+ * Pás šesti vstupů na titulní straně — generuje se z src/data/nav.ts,
+ * takže titulka a horní lišta ukazují vždy stejnou strukturu webu.
+ */
+import { NAV } from '../data/nav';
+import { getCollection } from 'astro:content';
+
+const pevnosti = (await getCollection('pevnosti')).length;
+const typologie = (await getCollection('typologie')).length;
+const cesty = (await getCollection('cesty')).length;
+const clanky = (await getCollection('clanky')).length;
+
+const meta: Record<string, string> = {
+  '/o-opevneni': `${typologie} typů objektů · historie · výzbroj`,
+  '/ropiky': 'LO vz. 37 — nejrozšířenější objekt',
+  '/objekty': `${pevnosti.toLocaleString('cs-CZ')} objektů · tvrze · linie`,
+  '/mapa': 'Vše na jedné mapě',
+  '/cesty': `${cesty} tematických tras`,
+  '/clanky': `${clanky} článků · glosář · prameny`,
+};
+---
+
+<nav class="section-band" aria-label="Hlavní sekce webu">
+  <div class="container">
+    <div class="section-band__grid">
+      {NAV.map((s, i) => (
+        <a href={s.href} class="section-band__item">
+          <span class="section-band__num">{String(i + 1).padStart(2, '0')}</span>
+          <span class="section-band__label">{s.label}</span>
+          <span class="section-band__meta">{meta[s.href]}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</nav>
+
+<style>
+  .section-band {
+    border-top: 1px solid var(--line-soft);
+    border-bottom: 1px solid var(--line-soft);
+    background-color: rgba(241, 236, 224, 0.45);
+  }
+  .section-band__grid {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+  }
+  .section-band__item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: var(--s4) var(--s3);
+    border-right: 1px solid var(--line-soft);
+    transition: background-color 0.2s;
+  }
+  .section-band__item:last-child { border-right: none; }
+  .section-band__item:hover { background-color: rgba(122, 107, 75, 0.09); }
+  .section-band__item::after { display: none; }
+  .section-band__num {
+    font-family: var(--font-mono);
+    font-size: 0.625rem;
+    letter-spacing: 0.15em;
+    color: var(--khaki);
+  }
+  .section-band__label {
+    font-size: 1.0625rem;
+    font-weight: 600;
+    color: var(--ink);
+    line-height: 1.2;
+  }
+  .section-band__meta {
+    font-size: 0.8125rem;
+    line-height: 1.4;
+    color: var(--ink-med);
+  }
+
+  @media (max-width: 1100px) {
+    .section-band__grid { grid-template-columns: repeat(3, 1fr); }
+    .section-band__item:nth-child(3n) { border-right: none; }
+    .section-band__item:nth-child(-n+3) { border-bottom: 1px solid var(--line-soft); }
+  }
+  @media (max-width: 600px) {
+    .section-band__grid { grid-template-columns: repeat(2, 1fr); }
+    .section-band__item { border-right: 1px solid var(--line-soft); border-bottom: 1px solid var(--line-soft); }
+    .section-band__item:nth-child(2n) { border-right: none; }
+    .section-band__item:nth-last-child(-n+2) { border-bottom: none; }
+    .section-band__meta { display: none; }
+  }
+</style>

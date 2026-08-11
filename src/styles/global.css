@@ -1137,3 +1137,14 @@ section { padding: var(--s7) 0; }
   /* Karty trochu menší padding */
   .fort-card { padding: var(--s3); }
 }
+
+/* Poznamka s odkazem na souvisejici vykladovou stranku (rozcestniky, indexy) */
+.hub-note {
+  margin: 0;
+  padding: var(--s3) var(--s4);
+  background-color: rgba(241, 236, 224, 0.6);
+  border-left: 3px solid var(--khaki);
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  color: var(--ink-med);
+}

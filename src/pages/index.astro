@@ -6,6 +6,7 @@ import JsonLd from '../components/JsonLd.astro';
 import { organization, webSite } from '../lib/schema';
 import SmartImage from '../components/SmartImage.astro';
 import TypologyCard from '../components/TypologyCard.astro';
+import SectionBand from '../components/SectionBand.astro';
 import { CARD_SIZES } from '../lib/wikimedia';
 
 const obtiznostLabel: Record<string, string> = {
@@ -87,7 +88,7 @@ const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.dat
       <div class="hero__actions">
         <a href="/katalog" class="btn btn--primary">Prozkoumat katalog</a>
         <a href="/cesty" class="btn btn--ghost">Naplánovat výlet</a>
-        <a href="/o-opevneni/co-je-rop" class="btn btn--ghost">Co je ŘOP?</a>
+        <a href="/o-opevneni" class="btn btn--ghost">O opevnění</a>
       </div>
 
       <aside class="hero__stats" aria-label="Základní čísla">
@@ -103,6 +104,8 @@ const tvrze = (await getCollection('tvrze')).sort((a, b) => a.data.order - b.dat
       <img src="/img/hero-ropik.svg" alt="" loading="eager" />
     </div>
   </section>
+
+  <SectionBand />
 
   <!-- TYPOLOGIE -->
   <section id="typologie">

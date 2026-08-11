@@ -1,10 +1,10 @@
 ---
 import SearchBar from './SearchBar.astro';
+import { NAV, sectionActive } from '../data/nav';
 
 const { pathname } = Astro.url;
 const isActive = (path: string) =>
   pathname === path || (path !== '/' && pathname.startsWith(path));
-const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
 ---
 
 <header class="site-header">
@@ -15,74 +15,43 @@ const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
     </a>
 
     <nav class="site-nav" aria-label="Hlavní navigace">
-      <div class="nav-item nav-item--dropdown">
-        <button
-          type="button"
-          class="nav-link nav-link--trigger"
-          aria-haspopup="true"
-          aria-expanded="false"
-          aria-current={groupActive(['/o-opevneni', '/typologie', '/vyzbroj']) ? 'page' : undefined}
-        >
-          O opevnění
-          <svg class="nav-chevron" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true">
-            <path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-        </button>
-        <div class="nav-dropdown">
-          <a href="/o-opevneni/co-je-rop" aria-current={isActive('/o-opevneni') ? 'page' : undefined}>Co je ŘOP</a>
-          <a href="/typologie" aria-current={isActive('/typologie') ? 'page' : undefined}>Typologie pevností</a>
-          <a href="/vyzbroj" aria-current={isActive('/vyzbroj') ? 'page' : undefined}>Výzbroj</a>
-        </div>
-      </div>
-
-      <div class="nav-item nav-item--dropdown">
-        <button
-          type="button"
-          class="nav-link nav-link--trigger"
-          aria-haspopup="true"
-          aria-expanded="false"
-          aria-current={groupActive(['/katalog', '/tvrze', '/linie']) ? 'page' : undefined}
-        >
-          Objekty
-          <svg class="nav-chevron" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true">
-            <path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-        </button>
-        <div class="nav-dropdown">
-          <a href="/katalog" aria-current={isActive('/katalog') ? 'page' : undefined}>Katalog pevností</a>
-          <a href="/tvrze" aria-current={isActive('/tvrze') ? 'page' : undefined}>Dělostřelecké tvrze</a>
-          <a href="/linie" aria-current={isActive('/linie') ? 'page' : undefined}>Obranné linie</a>
-        </div>
-      </div>
-
-      <a href="/ropiky" class="nav-link" aria-current={isActive('/ropiky') ? 'page' : undefined}>Řopíky</a>
-      <a href="/mapa" class="nav-link" aria-current={isActive('/mapa') ? 'page' : undefined}>Mapa</a>
-      <a href="/cesty" class="nav-link" aria-current={isActive('/cesty') ? 'page' : undefined}>Cesty</a>
-
-      <div class="nav-item nav-item--dropdown">
-        <button
-          type="button"
-          class="nav-link nav-link--trigger"
-          aria-haspopup="true"
-          aria-expanded="false"
-          aria-current={groupActive(['/clanky', '/casova-osa', '/glosar']) ? 'page' : undefined}
-        >
-          Obsah
-          <svg class="nav-chevron" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true">
-            <path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-        </button>
-        <div class="nav-dropdown">
-          <a href="/clanky" aria-current={isActive('/clanky') ? 'page' : undefined}>Články</a>
-          <a href="/casova-osa" aria-current={isActive('/casova-osa') ? 'page' : undefined}>Časová osa</a>
-          <a href="/glosar" aria-current={isActive('/glosar') ? 'page' : undefined}>Glosář</a>
-        </div>
-      </div>
+      {NAV.map((section) => (
+        section.children.length === 0 ? (
+          <a
+            href={section.href}
+            class="nav-link"
+            aria-current={sectionActive(section, pathname) ? 'page' : undefined}
+          >{section.label}</a>
+        ) : (
+          <div class="nav-item nav-item--dropdown">
+            <a
+              href={section.href}
+              class="nav-link"
+              aria-current={sectionActive(section, pathname) ? 'page' : undefined}
+            >{section.label}</a>
+            <button
+              type="button"
+              class="nav-caret"
+              aria-expanded="false"
+              aria-label={`Rozbalit sekci ${section.label}`}
+            >
+              <svg class="nav-chevron" width="10" height="6" viewBox="0 0 10 6" aria-hidden="true">
+                <path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </button>
+            <div class="nav-dropdown">
+              <a href={section.href} class="nav-dropdown__all">Přehled sekce {section.label}</a>
+              {section.children.map((child) => (
+                <a href={child.href} aria-current={isActive(child.href) ? 'page' : undefined}>{child.label}</a>
+              ))}
+            </div>
+          </div>
+        )
+      ))}
     </nav>
 
     <div class="header-actions">
       <SearchBar />
-      <a href="/katalog" class="header-action header-action--desktop">Prozkoumat</a>
       <button class="nav-toggle" type="button" aria-label="Otevřít menu" aria-expanded="false" aria-controls="mobile-nav">
         <span class="nav-toggle__bar"></span>
         <span class="nav-toggle__bar"></span>
@@ -92,33 +61,18 @@ const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
   </div>
 
   <nav id="mobile-nav" class="mobile-nav" aria-label="Mobilní navigace">
-    <div class="mobile-nav__group">
-      <p class="mobile-nav__heading">O opevnění</p>
-      <a href="/o-opevneni/co-je-rop" aria-current={isActive('/o-opevneni') ? 'page' : undefined}>Co je ŘOP</a>
-      <a href="/typologie" aria-current={isActive('/typologie') ? 'page' : undefined}>Typologie pevností</a>
-      <a href="/vyzbroj" aria-current={isActive('/vyzbroj') ? 'page' : undefined}>Výzbroj</a>
-    </div>
-
-    <div class="mobile-nav__group">
-      <p class="mobile-nav__heading">Objekty</p>
-      <a href="/katalog" aria-current={isActive('/katalog') ? 'page' : undefined}>Katalog pevností</a>
-      <a href="/tvrze" aria-current={isActive('/tvrze') ? 'page' : undefined}>Dělostřelecké tvrze</a>
-      <a href="/linie" aria-current={isActive('/linie') ? 'page' : undefined}>Obranné linie</a>
-    </div>
-
-    <div class="mobile-nav__group">
-      <p class="mobile-nav__heading">V terénu</p>
-      <a href="/ropiky" aria-current={isActive('/ropiky') ? 'page' : undefined}>Řopíky</a>
-      <a href="/mapa" aria-current={isActive('/mapa') ? 'page' : undefined}>Mapa</a>
-      <a href="/cesty" aria-current={isActive('/cesty') ? 'page' : undefined}>Cesty</a>
-    </div>
-
-    <div class="mobile-nav__group">
-      <p class="mobile-nav__heading">Obsah</p>
-      <a href="/clanky" aria-current={isActive('/clanky') ? 'page' : undefined}>Články</a>
-      <a href="/casova-osa" aria-current={isActive('/casova-osa') ? 'page' : undefined}>Časová osa</a>
-      <a href="/glosar" aria-current={isActive('/glosar') ? 'page' : undefined}>Glosář</a>
-    </div>
+    {NAV.map((section) => (
+      <div class="mobile-nav__group">
+        <a
+          href={section.href}
+          class="mobile-nav__heading"
+          aria-current={sectionActive(section, pathname) ? 'page' : undefined}
+        >{section.label}</a>
+        {section.children.map((child) => (
+          <a href={child.href} aria-current={isActive(child.href) ? 'page' : undefined}>{child.label}</a>
+        ))}
+      </div>
+    ))}
   </nav>
 </header>
 
@@ -128,6 +82,7 @@ const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
     position: relative;
     display: inline-flex;
     align-items: center;
+    gap: 2px;
   }
   .nav-link {
     font-size: 0.875rem;
@@ -141,11 +96,21 @@ const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
     gap: 4px;
     background: none;
     border: 0;
-    cursor: pointer;
     font-family: inherit;
   }
   .nav-link:hover,
   .nav-link[aria-current="page"] { color: var(--khaki); }
+  .nav-caret {
+    background: none;
+    border: 0;
+    padding: 4px 2px;
+    cursor: pointer;
+    color: var(--ink-med);
+    display: inline-flex;
+    align-items: center;
+    line-height: 0;
+  }
+  .nav-caret:hover { color: var(--khaki); }
   .nav-chevron { transition: transform 0.2s; }
   .nav-item--dropdown:hover .nav-chevron,
   .nav-item--dropdown:focus-within .nav-chevron,
@@ -156,7 +121,7 @@ const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
     position: absolute;
     top: calc(100% + 10px);
     left: -12px;
-    min-width: 220px;
+    min-width: 240px;
     background-color: rgba(241, 236, 224, 0.98);
     backdrop-filter: blur(8px);
     border: 1px solid var(--line-soft);
@@ -195,6 +160,16 @@ const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
     background-color: rgba(122, 107, 75, 0.1);
     color: var(--khaki);
   }
+  .nav-dropdown__all {
+    font-family: var(--font-mono);
+    font-size: 0.6875rem !important;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--khaki) !important;
+    border-bottom: 1px solid var(--line-soft);
+    margin-bottom: 4px;
+    padding-bottom: 8px !important;
+  }
   /* Override global .site-nav a underline effect inside dropdowns */
   .nav-dropdown a::after { display: none; }
 
@@ -205,6 +180,7 @@ const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
   }
   .mobile-nav__group:last-child { border-bottom: none; }
   .mobile-nav__heading {
+    display: block;
     margin: 0 0 6px 0;
     font-family: var(--font-mono);
     font-size: 0.6875rem;
@@ -217,56 +193,64 @@ const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
     border-bottom: none !important;
     font-size: 1rem !important;
   }
+  :global(.mobile-nav .mobile-nav__group a.mobile-nav__heading) {
+    font-size: 0.6875rem !important;
+    padding: 0 0 6px 0 !important;
+  }
 </style>
 
 <script is:inline>
   (function () {
     const toggle = document.querySelector('.nav-toggle');
     const menu = document.getElementById('mobile-nav');
-    if (!toggle || !menu) return;
 
-    function closeMenu() {
-      toggle.setAttribute('aria-expanded', 'false');
-      menu.classList.remove('is-open');
-      document.body.classList.remove('nav-open');
-    }
-    function openMenu() {
-      toggle.setAttribute('aria-expanded', 'true');
-      menu.classList.add('is-open');
-      document.body.classList.add('nav-open');
+    function closeDropdowns() {
+      document.querySelectorAll('.nav-item--dropdown.is-open').forEach((el) => {
+        el.classList.remove('is-open');
+        const trig = el.querySelector('.nav-caret');
+        if (trig) trig.setAttribute('aria-expanded', 'false');
+      });
     }
 
-    toggle.addEventListener('click', () => {
-      const expanded = toggle.getAttribute('aria-expanded') === 'true';
-      if (expanded) closeMenu(); else openMenu();
-    });
-
-    // Close menu when a link is clicked
-    menu.querySelectorAll('a').forEach((a) => {
-      a.addEventListener('click', closeMenu);
-    });
-
-    // Close on Escape
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') {
-        closeMenu();
-        toggle.focus();
+    if (toggle && menu) {
+      function closeMenu() {
+        toggle.setAttribute('aria-expanded', 'false');
+        menu.classList.remove('is-open');
+        document.body.classList.remove('nav-open');
       }
-    });
+      function openMenu() {
+        toggle.setAttribute('aria-expanded', 'true');
+        menu.classList.add('is-open');
+        document.body.classList.add('nav-open');
+      }
 
-    // Close when viewport grows past breakpoint
-    const mq = window.matchMedia('(min-width: 900px)');
-    mq.addEventListener('change', (e) => { if (e.matches) closeMenu(); });
+      toggle.addEventListener('click', () => {
+        const expanded = toggle.getAttribute('aria-expanded') === 'true';
+        if (expanded) closeMenu(); else openMenu();
+      });
 
-    // Desktop dropdown — toggle on click (for touch + keyboard)
-    document.querySelectorAll('.nav-item--dropdown .nav-link--trigger').forEach((trigger) => {
+      menu.querySelectorAll('a').forEach((a) => {
+        a.addEventListener('click', closeMenu);
+      });
+
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') {
+          closeMenu();
+          toggle.focus();
+        }
+      });
+
+      const mq = window.matchMedia('(min-width: 900px)');
+      mq.addEventListener('change', (e) => { if (e.matches) closeMenu(); });
+    }
+
+    // Desktop dropdown — sipka prepina, popisek je normalni odkaz
+    document.querySelectorAll('.nav-item--dropdown .nav-caret').forEach((trigger) => {
       trigger.addEventListener('click', (e) => {
+        e.preventDefault();
         const item = trigger.closest('.nav-item--dropdown');
         const isOpen = item.classList.contains('is-open');
-        document.querySelectorAll('.nav-item--dropdown.is-open').forEach((el) => {
-          el.classList.remove('is-open');
-          el.querySelector('.nav-link--trigger').setAttribute('aria-expanded', 'false');
-        });
+        closeDropdowns();
         if (!isOpen) {
           item.classList.add('is-open');
           trigger.setAttribute('aria-expanded', 'true');
@@ -274,26 +258,12 @@ const groupActive = (paths: string[]) => paths.some((p) => isActive(p));
       });
     });
 
-    // Close dropdowns on outside click
     document.addEventListener('click', (e) => {
-      if (!e.target.closest('.nav-item--dropdown')) {
-        document.querySelectorAll('.nav-item--dropdown.is-open').forEach((el) => {
-          el.classList.remove('is-open');
-          const trig = el.querySelector('.nav-link--trigger');
-          if (trig) trig.setAttribute('aria-expanded', 'false');
-        });
-      }
+      if (!e.target.closest('.nav-item--dropdown')) closeDropdowns();
     });
 
-    // Close dropdowns on Escape
     document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') {
-        document.querySelectorAll('.nav-item--dropdown.is-open').forEach((el) => {
-          el.classList.remove('is-open');
-          const trig = el.querySelector('.nav-link--trigger');
-          if (trig) trig.setAttribute('aria-expanded', 'false');
-        });
-      }
+      if (e.key === 'Escape') closeDropdowns();
     });
   })();
 </script>

@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionHub from '../components/SectionHub.astro';
+import { NAV } from '../data/nav';
+
+const section = NAV.find((s) => s.href === '/objekty')!;
+---
+
+<BaseLayout
+  title={section.title}
+  description="Katalog československých pevnostních objektů, dělostřelecké tvrze, obranné linie a mapa — vše na jednom místě."
+>
+  <header class="catalog-header">
+    <div class="container">
+      <div class="article-hero__breadcrumb" style="margin-bottom: var(--s3);">
+        <a href="/">Úvod</a> / <span>{section.label}</span>
+      </div>
+      <h1>{section.title}</h1>
+      <p class="article-hero__lead" style="margin-top: var(--s3);">{section.lead}</p>
+    </div>
+  </header>
+
+  <section>
+    <div class="container">
+      <SectionHub section={section} />
+    </div>
+  </section>
+</BaseLayout>
