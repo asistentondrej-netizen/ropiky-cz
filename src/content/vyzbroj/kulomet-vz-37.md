@@ -42,6 +42,22 @@ Kulomet byl v objektech montován na **speciální pevnostní lafetě**, která 
 
 Přes podobné označení nejde o variantu lehkého kulometu vz. 26 — **TK vz. 37 (ZB-53) je samostatná konstrukce** Zbrojovky Brno, vzduchem chlazená a určená pro pevnostní a vozidlové použití. Ve zvonech objektů se používal lehký kulomet vz. 26.
 
+## Odkud se vzalo slovo „dvojče"
+
+Označení, která dnes v literatuře čteme jako samozřejmost, vznikla úředním rozhodnutím. Spis ŘOP **čj. 6148/taj. hl. št. ŘOP 1935**, zpracovaný **16. října 1935 mjr. Dorschnerem** a schválený 24. října, začíná konstatováním, že *„v objektech stálého opevnění je užíváno několik druhů zbraní, sloučených ve dvojice. Aby při jednání o nich nedocházelo k nedorozumění, je třeba alespoň prozatímně stanoviti jejich pojmenování."*
+
+Stanoveny byly tři názvy:
+
+| Název | Co znamenal (1935) |
+|---|---|
+| **kulometné dvojče vz. …** | dva těžké nebo lehké kulomety **speciálně konstruované jako dvojče**; s poznámkou *„dosud nebylo konstruováno. Počítá se s ním ve věži a pod."* |
+| **dvojkulomet vz. …** | dva **normální** těžké nebo lehké kulomety na jednom podstavci nebo lafetě; *„prozatím je předvídáno použití ve střílnách pod betonem"* |
+| **smíšené dvojče** | kanon 47 mm a těžký kulomet |
+
+Pro dataci vývoje výzbroje jsou cenné hlavně ty poznámky pod čarou. V říjnu 1935 měla **kombinace kanonu s kulometem už své jméno**, zatímco skutečné dvojče konstruované jako jedna zbraň — pozdější **dvojče těžkých kulometů vz. 37 (zbraň M)** pro kopule a věže — existovalo pouze jako záměr.
+
+*Pramen: VÚA–VHA Praha, f. ŘOP, sign. 1935/57/4/1, s. 23–24.*
+
 ## V boji
 
 ZB vz. 37 byl **technologicky tak kvalitní**, že ho Wehrmacht po obsazení ČSR v roce 1939 **bez úprav zařadil do výzbroje** pod označením **MG 37(t)**. Kořistní kulomety byly použity na řadě bojišť druhé světové války. Britové licenčně vyráběli verzi pod označením **BESA** pro tanky Cromwell a Churchill.

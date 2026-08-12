@@ -94,6 +94,8 @@ Po okupaci převzal Wehrmacht ZB-53 pod označením **MG-37(t)** a použil ji na
 
 ![Denkschrift 1941 — umístění těžkého kulometu vz. 37 ve střílně pěchotního srubu: sólo konfigurace a dvojče (public domain, amtliches Werk, OKH)](/img/denkschrift-vyzbroj/denkschrift-tk-vz-37.jpg)
 
+**Odkud se vzaly ty názvy:** rozdíl mezi „dvojčetem" a „dvojkulometem" není novodobá konvence, ale úřední rozhodnutí ŘOP z **16. října 1935** (čj. 6148/taj. hl. št. ŘOP 1935). Kulometné dvojče znamenalo dva kulomety **speciálně konstruované jako dvojče** — tehdy ještě neexistující, „počítá se s ním ve věži a pod." Dvojkulomet byly dva **normální** kulomety na jednom podstavci nebo lafetě, určené do střílen pod betonem. Smíšené dvojče znamenalo kanon 47 mm a těžký kulomet. Podrobněji v hesle [těžký kulomet vz. 37](/vyzbroj/kulomet-vz-37).
+
 ## Protitanková výzbroj
 
 Čs. opevnění bylo jednou z **prvních pevnostních soustav v Evropě**, která systematicky počítala s protitankovou obranou. Hlavní zbraní byl 4cm kanón vz. 36 — konstrukčně i výrobně unikátní zbraň.

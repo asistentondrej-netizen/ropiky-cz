@@ -131,6 +131,26 @@ Odpověď VTLÚ čj. 663 taj.-III-1935 z **10. července 1935** to potvrdila. Zk
 
 Pokud by bylo potřeba motor občas rozebrat, počítalo se s jeho **nejméně dvoudenním vyřazením** a s tím, že objekt musí mít pro takovou práci vhodné zařízení.<sup>[30]</sup> Ztrát výkonu při polní koncentraci bojových plynů se podle VTLÚ obávat nebylo třeba.<sup>[31]</sup>
 
+### Jaká soustava a jaké napětí
+
+Vedle otázky, čím se bude proud vyrábět, řešilo ŘOP v témže roce i to, **jak se bude v objektu rozvádět**. Nedatovaný „Návrh elektrického zařízení silnoproudého ve srubech", vedený jako VII. vložka k čj. 636 Taj. hl. št. ŘOP 1935, začíná pěti požadavky — a tři z nich jsou vlastně popisem boje v uzavřeném objektu:<sup>[45]</sup>
+
+> *„2./ Obsluha zařízení musí býti jednoduchá, aby je udrželi v bezvadném provozu, případně i **neodborníci**.*
+>
+> *3./ Isolace silnoproudého zařízení musí odolávati vlivům vlhkosti a uložení instalace musí býti **pružné, aby netrpěla otřesáním**.*
+>
+> *4./ Nebezpečí úrazu elektrickým proudem musí býti co nejmenší a **provoz zařízení musí býti možný i po proražení isolace [jednoho vodiče] na zem**.*
+>
+> *5./ Silnoproudé zařízení musí býti provedeno tak, aby působilo co nejméně poruch v provozu slaboproudém."*
+
+Zbylé dva body vymezují, co všechno má instalace unést: osvětlení s průměrným fázovým zatížením asi 300 W, motory o výkonu **0,2 až 3 kW**, slaboproudé zařízení, nabíjení akumulátorů a normalizované napětí **380/220 V**, které se v míru mělo odebírat z místní sítě.<sup>[45]</sup>
+
+Zvolená odpověď zní: **trojfázový proud 220/127 V se středním (nulovým) vodičem isolovaným**, přičemž pro světlo se používá nižší z obou napětí, tedy 127 V — „při kterém ještě vycházejí malé průřezy rozvodné sítě a nejmenší počet samostatně jištěných okruhů".<sup>[45]</sup> Izolovaný nulový vodič je přitom právě to, co splňuje požadavek číslo 4: při proražení izolace jednoho vodiče na zem se okruh nerozpadne a světlo ve srubu nezhasne.
+
+Jak to mělo vypadat v praxi, ukazuje výkres „Schema elektrického zařízení strojovny", vedený jako III. vložka k témuž spisu. Počítá se **dvěma agregáty** a rozvod dělí do **čtyř okruhů**: I = motorová síť 1, II = motorová síť 2, III = světelná síť, IV = nabíjení akumulátorů.<sup>[46]</sup> Zálohovaný zdroj a oddělený světelný okruh tedy nejsou pozdější zlepšení z roku 1937 — jsou v návrhu od začátku.
+
+Ke stejné složce patří i spis o **pohonných látkách pro výbušné motory elektrocentrál** (čj. 7231/5373 Taj. hl. št. ŘOP 1935), zpracovaný 9. července 1935 a schválený **17. července 1935 generálem Husárkem**; 4. oddělení hlavního štábu se k němu vyjádřilo 23. července.<sup>[47]</sup>
+
 ### Padesát agregátů, dvě nabídky
 
 Na konkrétní čísla si ŘOP vyžádalo informativní nabídky od dvou největších domácích výrobců. Poptávka zněla na **padesát agregátů v pěti velikostech**.
@@ -195,7 +215,7 @@ Chybělo jen to, co chybělo celému opevňovacímu programu: čas.
 
 ## Prameny
 
-Text vychází výhradně z fondu Ředitelství opevňovacích prací ve Vojenském ústředním archivu – Vojenském historickém archivu v Praze, ze spisů roku 1935 uložených pod signaturami 1935/36/3/1, 1935/36/4/2–4/4, 1935/44 a 1935/47. Skeny archiválií nepublikujeme. Pasáže čtené v předloze nejistě jsou v přepisech i zde označeny hranatými závorkami.
+Text vychází výhradně z fondu Ředitelství opevňovacích prací ve Vojenském ústředním archivu – Vojenském historickém archivu v Praze, ze spisů roku 1935 uložených pod signaturami 1935/36/3/1, 1935/36/4/2–4/4, 1935/44, 1935/47 a 1935/49. Skeny archiválií nepublikujeme. Pasáže čtené v předloze nejistě jsou v přepisech i zde označeny hranatými závorkami.
 
 1. VÚA–VHA Praha, f. ŘOP, sign. 1935/36/4/4, s. 9 — VTLÚ čj. 549/taj. 1935, „Stálé opevnění – řešení filtrů", 18. 4. 1935.
 2. Tamtéž, s. 10 — druhý list téže zprávy, doporučení k Francii a návrh řešení ad VI.
@@ -241,3 +261,6 @@ Text vychází výhradně z fondu Ředitelství opevňovacích prací ve Vojensk
 42. Tamtéž, s. 21 — rukopisná poznámka schvalovatele na spisovém obalu čj. 5187.
 43. Tamtéž, s. 32 a 34 — VTLÚ čj. 1402 taj.-7.-1935 z 22. 8. 1935 a přípis vojenského attaché ČSR v Paříži o doručení dokumentace kurýrem.
 44. VÚA–VHA Praha, f. ŘOP, sign. 1935/36 (položka 3-6/4), s. 38 — hlášení VTLÚ k periskopům, došlé MNO 4. 12. 1935 pod čj. 6559, podepsán plk. t. z. Ing. Albrecht.
+45. VÚA–VHA Praha, f. ŘOP, sign. 1935/49/3/1, s. 16 — „Návrh elektrického zařízení silnoproudého ve srubech", VII. vložka k čj. 636 Taj. hl. št. ŘOP 1935.
+46. Tamtéž, s. 12 — „Schema elektrického zařízení strojovny. Návrh.", III. vložka k čj. 636 Taj. hl. št. ŘOP 1935.
+47. VÚA–VHA Praha, f. ŘOP, sign. 1935/49/2/1-2, s. 4 — referátník spisu „Pohonné látky pro výbušné motory elektrocentrál v objektech stálého opevnění", čj. 7231/5373 Taj. hl. št. ŘOP 1935.
