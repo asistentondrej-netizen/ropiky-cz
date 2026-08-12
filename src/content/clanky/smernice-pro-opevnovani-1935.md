@@ -3,6 +3,7 @@ title: "Směrnice pro opevňování 1935: dokument, který určil, jak bude lini
 description: "Čtyři stupně odolnosti od 155 do 420 mm, výsuvná dělostřelecká věž za 48 milionů, kilometr linie za 2,2 milionu a maskování věží lišejníkem rostoucím na železe. Zakládající metodický spis ŘOP čj. 5103 taj. se dochoval ve třech redakčních verzích — včetně konceptů s ručními korekturami."
 pubDate: 2026-08-10
 author: "Redakce ropiky.cz"
+cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/T-S_73_Polom_01.JPG/1920px-T-S_73_Polom_01.JPG"
 tags: ["ŘOP", "1935", "doktrína", "odolnost", "ceny", "maskování", "archiv"]
 related:
   - "typologie/pechotni-srub"
@@ -54,6 +55,9 @@ V tabulkové příloze s charakteristikami zbraní je pak přeškrtnuta ráže *
 
 ## Čtyři stupně odolnosti — původní podoba z roku 1935
 
+![Tvrzový pěchotní srub T-S 73 „Polom" tvrze Stachelberg — objekt IV. stupně odolnosti, tedy nejvyšší kategorie, kterou směrnice z roku 1935 znaly. Foto: Lukáš Malý, Public domain](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/T-S_73_Polom_01.JPG/1920px-T-S_73_Polom_01.JPG)
+
+
 Nejcennější stránka celého spisu je kapitola **Odolnost objektů**. ŘOP tu poprvé kodifikuje to, co se pak stane základní klasifikací celé linie:
 
 > *„Stanoví se podle důležitosti objektů a možností nepř. dělostř. palby. Jsou čtyři stupně odolnosti."*<sup>[13]</sup>
@@ -102,6 +106,9 @@ Kalkulační data ŘOP jsou jednou z mála dobových tabulek, kde je vidět, **c
 
 ### Pancéřové prvky
 
+![R-S 78 „Na pasece" u tvrze Hanička — jeden z pěti objektů vybetonovaných pro otočnou dělostřeleckou věž. Věž do žádného z nich nebyla dodána. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_78_%28rok_2010%3B_01%29.jpg/1920px-Rokytnice_v_Orlick%C3%BDch_hor%C3%A1ch%2C_Horn%C3%AD_Rokytnice%2C_R-S_78_%28rok_2010%3B_01%29.jpg)
+
+
 | Prvek | Cena 1935 |
 |---|---|
 | pevná pozorovací věž | asi **240 000 Kč** |
@@ -129,6 +136,9 @@ Dvě věci k tomu patří. Zaprvé, u dělostřelecké tvrze je dvacetimilionov�
 
 ## Kolik metrů skály nad hlavou
 
+![Podzemí tvrze Bouda. Směrnice předepisovaly hloubku 17–18 m u III. stupně a 20–22 m u IV. stupně, ve skále o tři až čtyři metry méně. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg/1920px-Bouda%2C_podzem%C3%AD_%28rok_2005%3B_01%29.jpg)
+
+
 O podzemí tvrzí má spis jednu velmi konkrétní větu, která se v pozdější literatuře objevuje málokdy s tímto zdrojem:
 
 > *„Hloubka podzemí tvrzí: při odolnosti III. stupně 17–18 m, ve skále 14 m; při IV. stupni 20–22 m."*<sup>[13]</sup>
@@ -138,6 +148,9 @@ O podzemí tvrzí má spis jednu velmi konkrétní větu, která se v pozdějš�
 Výstavba tvrze se přitom už v roce 1935 plánuje **na etapy**: v I. fázi vzniknou povrchové objekty a podzemní spojení mezi nimi se sklady munice a potravin a jen jedním zatímním vchodem, v II. fázi se přidá galerie spojující podzemí se záchytným pásmem, jejíž ústí je zpravidla na protisvahu a *„vchod je chráněn malým pěchotním srubem s věží"*.<sup>[19]</sup>
 
 ## Munice, vzduch, kubatura
+
+![Expozice v podzemí tvrze Bouda. Ubytovny se dimenzovaly podle kubatury na muže — 3,0 m³ byla nejmenší přípustná hodnota. Foto: Lukáš Malý, Public domain](/img/forts/bouda-expozice-muzea.jpg)
+
 
 Rozsah zásob je v textu vyčíslen po jednotlivých zbraních:<sup>[20]</sup>
 
@@ -171,6 +184,9 @@ Nápad **nechat na pancéřové věži narůst lišejník**, aby splynula s okol
 K maskování patřil i **kamenný zához**, popsaný stejně věcně: u přímo ohrožených zdí v tloušťce **4,0 m** z velkých kamenů vyplněných drobnějšími oblázky, *„nikdy se nedávají jen velké kameny"*. Zához se pak zakryl zeminou v násyp o sklonu asi **1:6**, jehož pata končila asi 20 cm od přední hranice palebného vějíře.<sup>[7]</sup> Ochranné příkopy před vchodem a střílnami měly být **3,0 m hluboké** u patrových i přízemních srubů.<sup>[24]</sup>
 
 ## Co spis znamená
+
+![Pěchotní srub K-S 14 „U cihelny" u Králík, objekt III. stupně odolnosti. Boční palba, krakorec nad střílnami i pozorovací zvon — vše je popsáno už ve směrnicích z roku 1935. Foto: Harold, CC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg/1280px-Kr%C3%A1l%C3%ADky%2C_Prost%C5%99edn%C3%AD_Lipka%2C_K-S_14_%28rok_2007%3B_01%29.jpg)
+
 
 Směrnice z roku 1935 nejsou hotový stavební předpis. Je to **rámec, do kterého se pak tři roky doplňovala čísla** — a přesto v něm je překvapivě mnoho z toho, co dnes v terénu stojí: boční palba jako základ [palebné přehrady](/clanky/palebna-prehrada-jak-mela-linie-fungovat), tvrz jako sestava srubů nad společným podzemím, [pozorovací věž](/clanky/pancerove-prvky-zvony-kopule-veze) v každém objektu, krakorce nad střílnami, kamenný zához, přetlaková ventilace.
 
