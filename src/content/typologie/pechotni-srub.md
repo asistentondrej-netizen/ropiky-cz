@@ -164,6 +164,24 @@ Osa střílny byla vždy totožná s palebným vějířem a kolmá na zeď se st
 
 Zvláštností dvojkulometu bylo zařízení na lafetě umožňující **snížení kolébky pravé zbraně**: při současné palbě obou kulometů se tím rozptyl projektilů prodloužil o **50–150 m** podle vzdálenosti cíle.
 
+### Typová řada matric G 1501–1513: typ určený úhlem
+
+Oboustranné sruby nebyly typizované jedním univerzálním projektem. ŘOP vedlo řadu **„matric typů isolovaných těžkých oboustranných objektů"** se značkami **G 1501 až G 1513**, kde každý typ určuje jediný údaj — **úhel, který svírají obě křídla objektu**. Ten vyplýval z terénu a z požadované palebné přehrady, a pro každý takový úhel vznikla vlastní sada výkresů: půdorys horního patra, půdorys dolního patra (u jednopatrových typů přízemí) a řezy.
+
+| Značka | Úhel | Značka | Úhel |
+|---|---|---|---|
+| G 1501 | 151° 06′ | G 1508 | 143° 19′ |
+| G 1502 | 138° 57′ | G 1509 | 134° 12′ |
+| G 1503 | 147° 30′ | G 1510 | 112° 12′ |
+| G 1504 | 131° 31′ | G 1511 | 101° 29′ |
+| G 1505 | 101° 29′ | G 1512 | 112° 12′ |
+| G 1506 | 112° 12′ | G 1513 | 150° 33′ |
+| G 1507 | 110° 14′ | | |
+
+Rozsah řady je tedy zhruba **101° až 151°**. Že nejde o teoretickou tabulku, ukazují rukopisné poznámky v archivním seznamu: u typu G 1501 je tužkou dopsán objekt **MJ-S 2**, u G 1502 **MJ-S 4** a u G 1504 **MJ-S 6** — konkrétní sruby na jižní Moravě.
+
+*Pramen: VÚA–VHA Praha, f. ŘOP, karton 679, „Seznam matric typů isolovaných těžkých oboustranných objektů".*
+
 ### Petržalské výjimky
 
 Bratislavské předmostí je typologická kapitola sama pro sebe. Ještě před vznikem ŘOP tam v letech **1933–1935** vyrostla první generace objektů (B-S 5 až B-S 14), jejichž konstrukční koncepci ŘOP nepřevzalo — v následujících letech je pouze modernizovalo a zapojovalo do linie standardních srubů. Úpravy zahrnovaly zaslepení některých střílen, doplnění vzduchotechniky, napojení na pevnostní telefonní síť a výrobu lafet.

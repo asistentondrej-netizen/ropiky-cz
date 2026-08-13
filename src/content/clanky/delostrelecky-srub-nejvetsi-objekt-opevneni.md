@@ -170,6 +170,50 @@ Na první pohled vypadal jako kříženec vchodového a dělostřeleckého srubu
 
 **Nepostavil se ani jeden.**
 
+### Co měl stát a kdo v něm měl sloužit
+
+Ve fondu ŘOP se k tomuto projektu dochovala konstrukční řada **Konstr. 102 — Isolovaný dělostřelecký srub**, a k jejímu prvnímu výkresu jsou připojeny tři početní přílohy: přibližný rozpočet, výpočet osob a výpočet střeliva. Díky nim víme, s čím projektanti počítali.
+
+**Rozpočet:**
+
+| Položka | Částka |
+|---|---|
+| I. Stavební práce s pozemkem | 5 480 392 Kč |
+| II. Pancíře a vnitřní zařízení (zvony, střílny, dveře a lůžka) | 1 426 650 Kč |
+| III. Strojní zařízení (strojovna, výtah, filtry, ventilace) | 770 000 Kč |
+| IV. Spojení (pojítka uvnitř objektu) | 110 000 Kč |
+| **Celkem** | **7 787 042 Kč** |
+
+Nejde o odhad od oka. Na okraji listu je poznámka *„jednotlivé ceny počítány podle Stachelbergu"* — kalkulace tedy vychází ze skutečných cen největší stavěné tvrze. Druhá poznámka udává **kubaturu betonu 5 800 m³**.
+
+Pro srovnání: podle kalkulačních dat ze [Směrnic pro opevňování](/clanky/smernice-pro-opevnovani-1935) stál v roce 1935 kilometr souvislé linie z izolovaných srubů 2,2 milionu korun. Za jeden izolovaný dělostřelecký srub by se tedy pořídily zhruba **tři a půl kilometru linie**.
+
+**Osádka podle projektu** — 114 osob, rozdělených podle částí objektu:
+
+| Určení | důst. | rtm. | poddůst. | mužstvo |
+|---|---|---|---|---|
+| dělostřelecký srub | 3 | 2 | 18 | 63 |
+| vchodová část | – | – | 5 | 16 |
+| strojovna | – | – | 1 | 6 |
+| **celkem** | **3** | **2** | **24** | **85** |
+
+Pozoruhodný je dovětek: *„Z toho bude umístěno na lůžkách: důstojníků 3, rotmistrů 2, poddůstojníků 16, mužstva 53."* Na 114 lidí tedy připadalo **74 lůžek** — zbytek se musel střídat.
+
+Rukopisný list „Osoby pro děl. srub" ukazuje i rozdělení po funkcích. Na obsluhu prvního děla připadali 3 poddůstojníci a 7 mužů plus další 3 muži na přípravu nábojů, na druhé a třetí dělo po 3 poddůstojnících a 10 mužích. Samotná **doprava munice** ze skladů k dělům spotřebovala dalších 13 lidí. Součet na tomto listu (3 / 2 / 26 / 83) se od čistopisu mírně liší — rozpis se ještě upravoval.
+
+Údaj 114 osob je také **nižší než 121**, které uvádí literatura k pozdější podobě projektu. Rozdíl dokládá, že objekt se mezi lety 1937 a 1938 ještě vyvíjel; obě čísla popisují týž typ v jiné fázi.
+
+**Munice:**
+
+| Zbraň | Zásoba |
+|---|---|
+| děla 8 nebo 10 cm (3 děla à 1 598 ran) | **4 794 ran** |
+| zbraň L1 | **1 808 ran** |
+| kulomety (2 LK ve zvonech, 4 LK v pomocných střílnách, 1 TK spřažený s L1) | **160 000 ran** |
+
+U dělostřelecké munice je připojena podmínka *„při uložení 9 truhlíků nad sebou"* — kapacita skladu tedy záležela na tom, jak vysoko se dá stohovat.
+
+
 ## Kam se jít podívat
 
 Dělostřelecký srub **K-S 11 „Na svahu"** na Hůrce je nejlépe dostupný. Uvidíte na něm nouzový východ ústící do ochranného příkopu (s odvodňovacím kanálkem v podlaze) i detail střílny pro pevnostní houfnici s výklenkem pro nikdy nezavedená dvířka.
@@ -178,4 +222,6 @@ Na **Dobrošově** jsou v dělostřeleckém srubu N-S 75 „Zelený" k vidění 
 
 ---
 
-**Zdroj:** Suchánek, Jiří: *Čs. opevnění 1935–1938 — Dělostřelecké tvrze.* Extra Publishing, Brno 2024. Text zpracován vlastními slovy; fotografie z knihy nepřebíráme.
+**Zdroje:** Suchánek, Jiří: *Čs. opevnění 1935–1938 — Dělostřelecké tvrze.* Extra Publishing, Brno 2024. Text zpracován vlastními slovy; fotografie z knihy nepřebíráme.
+
+Rozpočet, výpočet osob a výpočet střeliva: VÚA–VHA Praha, f. ŘOP, karton 679, konstrukční řada Konstr. 102 (Isolovaný dělostřelecký srub), přílohy k výkresu 102/1 a list „Osoby pro děl. srub". Skeny archiválií nepublikujeme — jde o studijní kopie s vodoznakem.
