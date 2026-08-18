@@ -12,4 +12,26 @@ state: neznamy
 description: >-
   Lehký objekt vz. 37 („řopík“), typ E — miniaturizovaný. Součást linie lehkého opevnění jižní Moravy (Mikulovsko),
   budované po Anschlussu Rakouska v roce 1938.
-updated: '2026-04-19'
+updated: '2026-08-18'
+photos:
+  - url: /img/forts/ropik-6-30-e-01.jpg
+    alt: "Zasypaný řopík 6/30/E — vpravo střílna v ocelovém rámu, vlevo mřížka ventilace, obojí těsně nad terénem"
+    caption: "Objekt je zasypaný téměř po strop, střílna i větrací otvor vystupují jen pár centimetrů nad terén"
+    author: "Matyáš Picek"
+    license: CC BY-SA 4.0
+    category: exterier
+    featured: false
+  - url: /img/forts/ropik-6-30-e-02.jpg
+    alt: "Interiér střelecké místnosti řopíku 6/30/E s jedinou střílnou v ocelovém rámu"
+    caption: "Střelecká místnost se střílnou, zvenku zasypanou téměř po horní hranu"
+    author: "Matyáš Picek"
+    license: CC BY-SA 4.0
+    category: interier
+    featured: false
+  - url: /img/forts/ropik-6-30-e-03.jpg
+    alt: "Zkorodovaná roura ventilace u stropu řopíku 6/30/E"
+    caption: "Detail roury ventilačního potrubí u stropu střelecké místnosti"
+    author: "Matyáš Picek"
+    license: CC BY-SA 4.0
+    category: detail
+    featured: false
