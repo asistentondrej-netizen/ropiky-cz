@@ -13,4 +13,33 @@ sources:
   - title: OpenStreetMap
     url: https://www.openstreetmap.org/node/3372141199
     type: web
-updated: '2026-04-21'
+photos:
+  - url: /img/forts/139-37-a-180-z-01.jpg
+    alt: "Řopík 139/37/A-180 Z na břehu Vltavy pod Kořenskem, se zazděnou střílnou a ocelovým stožárkem s plavebním znakem na střeše"
+    caption: "Objekt při nízkém vodním stavu Vltavy zcela mimo řečiště, střílna zazděná"
+    author: "Martin Houska"
+    license: CC BY-SA 4.0
+    category: exterier
+    featured: true
+  - url: /img/forts/139-37-a-180-z-02.jpg
+    alt: "Řopík 139/37/A-180 Z z boku, obklopený vyschlým kamenitým řečištěm Vltavy"
+    caption: "Boční pohled na objekt s obnaženým říčním dnem"
+    author: "Martin Houska"
+    license: CC BY-SA 4.0
+    category: exterier
+    featured: false
+  - url: /img/forts/139-37-a-180-z-03.jpg
+    alt: "Údolí Vltavy pod Kořenskem s řopíkem 139/37/A-180 Z v dálce na protějším břehu"
+    caption: "Celkový pohled na lokalitu — objekt je v terénu patrný jen jako malý detail"
+    author: "Martin Houska"
+    license: CC BY-SA 4.0
+    category: terenni
+    featured: false
+  - url: /img/forts/139-37-a-180-z-04.jpg
+    alt: "Vyschlé řečiště Vltavy pod Kořenskem s řopíkem 139/37/A-180 Z na pravém břehu"
+    caption: "Pohled proti proudu Vltavy při mimořádně nízkém vodním stavu"
+    author: "Martin Houska"
+    license: CC BY-SA 4.0
+    category: terenni
+    featured: false
+updated: '2026-09-23'
